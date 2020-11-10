@@ -1,0 +1,26 @@
+<section class='post blurb'>
+  {{ if .Params.lead }}
+    <img src="/images/{{ .Type }}/{{ .Params.name }}/{{ .Params.lead }}" alt="{{ .Title }}">
+  {{ end }}
+  <article class='post__content'>
+    <h3 class='post__title' itemprop='name headline'>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ if .Draft }}(draft)
+      {{ else }}
+        {{ with .Params.height }}({{ . }} m){{ end }}
+      {{ end }}
+    </h3>
+    {{ with .Params.description }}
+      <div>{{ . | markdownify }}</div>
+    {{ end }}
+  </article>
+</section>
+<!--
+    <div class='post__meta'>
+      {{ partial "post-share.html" . }}
+      {{ with .Params.media }}
+        <audio src="{{ . }}" controls="controls" preload="none"></audio>
+      {{ end }}
+      {{ partial "post-tags.html" . }}
+    </div>
+-->

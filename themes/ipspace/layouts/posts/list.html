@@ -1,0 +1,8 @@
+{{ partial "header.html" . }}
+{{ $pag := .Paginate .Pages }}
+{{ range $pag.Pages }}
+  {{ .Scratch.Set "ArticleContext" 0 }}
+  {{ partial "post-content.html" . }}
+{{ end }}
+{{ partial "post-pagination.html" . }}
+{{ partial "footer.html" . }}

@@ -1,0 +1,33 @@
+---
+baseURL: https://blog.ipspace.net/
+languageCode: en-us
+title: ipSpace.net blog
+theme: ipspace
+summarylength: 3000
+uglyurls: true
+paginate: 15
+
+author:
+  name: Ivan Pepelnjak
+
+permalinks:
+  hikes: "/hikes/:filename"
+  posts: "/:year/:month/:filename"
+  draft: "/draft/:filename"
+  archm: "/:year/:month/index"
+  archy: "/:year/index"
+  tags: "/tag/:title"
+
+taxonomies:
+  tag: tags
+
+services:
+  rss:
+    limit: 30
+
+#outputs:
+#  home: [ html, atom, rss ]
+#  section: [ html ]
+
+params:
+  feedSections: [ posts ]

@@ -1,0 +1,156 @@
+---
+date: '2002-10-06T00:00:00'
+delta: 413
+description: Pot v Vipavsko dolino po stari rimski cesti mimo Stare pošte na Hrušici
+  lahko združite z izletom na sv. Duh in Križno goro nad le nekaj kilometrov oddaljenim
+  Podkrajem.
+draft: true
+duration: '3'
+height: 1213
+image:
+- M_3-3357_IMG.JPG
+- M_3-3316_IMG.JPG
+- M_2-3262_IMG.JPG
+- M_2-3255_IMG.JPG
+- M_2-3270_IMG.JPG
+- M_2-3266_IMG.JPG
+- M_2-3279_IMG.JPG
+- M_2-3282_IMG.JPG
+- M_3-3340_IMG.JPG
+- M_3-3347_IMG.JPG
+- Razgled_1.jpg
+- M_2-3295_IMG.JPG
+- M_2-3293_IMG.JPG
+- M_svDuh.JPG
+- M_3-3302_IMG.JPG
+- M_2-3297_IMG.JPG
+- M_3-3304_IMG.JPG
+- M_3-3307_IMG.JPG
+- M_3-3330_IMG.JPG
+- M_3-3337_IMG.JPG
+- M_3-3336_IMG.JPG
+- Razgled_3.jpg
+name: svDuh_Podkraj
+title: Sv. Duh in Križna gora nad Podkrajem
+x: 427
+y: 82
+---
+![](/images/hikes/svDuh_Podkraj/M_3-3357_IMG.JPG)Sv. Duh in Križna gora sta sosednja vrhova v hribovju, ki s severne strani objema dolino Bele, v kateri leži Podkraj, in jo tako ločuje od vrhov idrijskega hribovja (Javornik). Z vrha Križne gore boste imeli čudovit pogled na sosednjo Hrušico, Nanos, Vipavsko dolino, hribovje južno od Vipavske doline, pa tudi na morje, v lepem vremenu vse tja do Benetk.
+
+Osnovni podatki
+===============
+
+Zahtevnost
+:   Odlično označena, občasno precej strma pot.
+
+Dostop
+:   Na sv. Duh in Križno goro pridemo iz Podkraja, ki je od Ajdovščine in Logatca oddaljen približno 15 kilometrov. Glej tudi razdelek[dostop](index.asp?sect=2).
+
+Dolžina
+:   Podkraj -- sv. Duh: 1h\
+    sv. Duh -- Križna gora: 20 min\
+    Križna gora -- Podkraj: 45min\
+    Skupaj: 2.5 -- 3 ure
+
+Višina
+:   Sv. Duh: 1213 m\
+    Križna gora: 1168 m
+
+Višinska razlika
+:   Podkraj -- sv. Duh: 413 m\
+    Če se v Podkraj vračate preko Križne gore še dodatnih 70m vzpona.
+
+Čas obiska
+:   Večino časa teče pot po kraških travnikih, zato obisk v poletni vročini odsvetujem. Na travnikih raste košutnik, ki ga boste v vsej lepoti videli le sredi maja. Priporočljiv pa je seveda izlet v lepem in jasnem vremenu s čistim ozračjem.
+
+Priporočam
+:   Pot je občasno strma --dobra obutev in planinske palice zato ne bodo odveč. Delček poti od sv. Duha proti Križni gori je zaraščen, če vas to moti, vzamite s seboj sredstvo za odganjanje mrčesa.
+
+Karta
+:   Notranjski kras 1:50.000
+
+Podkraj
+-------
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_3-3316_IMG.JPG" caption="Podkraj iz Križne gore">}}
+
+Izlet na sv. Duh in Križno goro začnete iz Podkraja, prijetne vasice ki leži ob stari rimski cesti iz Ljubljane proti Rimu v zgornjem delu doline Bele, kmalu za prevalom iz Logaškega polja proti Vipavski dolini. V Podkraj lahko pridete po vsaj dveh poteh:
+
+-   Do Logatca se pripeljete po avtocesti, v Logatcu zavijete na staro magistralno cesto proti Kopru, nato pa v Kalcah sledite smeri Idrija/Tolmin, takoj za tem pa zavijete levo v smer Col/Podkraj (glej tudi popotni namig: [Stara pošta na Hrušici](../Namigi/StaraPosta/)).
+-   V Vipavi ali Ajdovščini zavijete v smer Col, Podkraj je prva vas od Cola proti Logatcu.
+-   Tisti, ki ljubite vožnjo po neznanih makadamskih cestah, lahko do Podkraja pridete tudi iz Bukovja, vasice tik pred Predjamskim gradom (glej: [sv. Lovrenc nad Postojno](../svLovrenc)).
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_2-3262_IMG.JPG" caption="Odcep proti sv. Duhu">}} {{<figure src="/images/hikes/svDuh_Podkraj/M_2-3255_IMG.JPG" caption="Začetek poti">}}
+
+Ob cesti, ki pelje skozi Podkraj (če prihajate iz logaške smeri, tik pred tablo za konec Podkraja), vas čaka lep lesen kažipot, ki opozarja na začetek poti na Javornik (ta pot je tudi del Slovenske planinske transverzale), le nekaj metrov pred tem kažipotom pa lahko mirno pustite avto na parkirišču ob cesti. Le dobrih sto metrov poti vas loči od naslednjega kažipota, kjer se pot proti sv. Duhu in Križni gori odcepi od poti na Javornik.
+
+Že na teh prvih travnikih boste tudi v zgodnji jeseni opazili [vrsto travniških rož](index.asp?sect=7) -- najprej različne glavince, potem šentjanževko, plodove šipka, koprivasto zvončico, barvilno mačino in seveda jesenski podlesek.
+
+Vzpon na sv. Duh
+----------------
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_2-3266_IMG.JPG" caption="Pogled na Podkraj in Vipavsko dolino">}}
+
+Takoj ko zapustite pot proti Javorniku, boste pred seboj zagledali sv. Duh in nekoliko bolj levo Križno goro, ko pa se boste še malce dvignili, pa se bo že odprl pogled na Vipavsko dolino, pod vami pa vas bo večji del vzpona spremljal Podkraj.
+
+Odlično markirana pot poteka po kraških travnikih, na katerih lahko mimogrede opazujete še [bogastvo rož](index.asp?sect=7) -- zaplate toge smetlike, grmičke nemškega sviščevca, montpellierski klinček, primožek, pravo lakoto, pa tudi nekoliko bolj redki triumfettijev glavinec. Občasno boste opazili še klobčasto zvončico, repuščevolistno zvončico, gladež in panonski osat, dobre oči pa bodo v travi videle tudi bodeče neže in resasti sviščevec.
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_2-3282_IMG.JPG" caption="Pot skozi gozd">}}
+
+Pot proti sv. Duhu je idealna za prijeten jesenski izlet -- kratki strmi vzponi, ki so kot nalašč za tiste, ki hočejo nabrati še nekaj kondicije pred smučanjem, se izmenjujejo s položno potjo, kjer se lahko tisti, ki so se med vzponom in oznojili zadihali, v miru odpočijejo.
+
+Enak vzorec se ponavlja tudi ko pot zavije v bukov gozd, v katerem boste lahko opazili lepi luk in lepljivo kaduljo. V tem delu poti so sprehodi skozi gozd kratki, kmalu se spet znajdemo na travnikih, s katerih že vidimo podrobnosti poti proti Križni gori, sv. Duh pa se še skriva v gozdu nad nami.
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_3-3340_IMG.JPG" caption="Razcep poti">}} {{<figure src="/images/hikes/svDuh_Podkraj/M_3-3347_IMG.JPG" caption="Križna gora">}}
+
+Ti travniki so kot nalašč za krajši počitek in pogled preko doline Bele proti Hrušici in Nanosu, potem pa nadaljujemo z vzponom do razcepa, kjer se moramo odločiti ali se bomo podali najprej na sv. Duh ali na Križno goro.
+
+{{<figure src="/images/hikes/svDuh_Podkraj/Razgled_1.jpg" caption="Pogled na Hrušico in Nanos">}}
+
+sv. Duh
+-------
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_2-3295_IMG.JPG" caption="Odcep proti sv. Duhu">}} {{<figure src="/images/hikes/svDuh_Podkraj/M_2-3293_IMG.JPG" caption="Gozdna cesta">}}
+
+Od razcepa na poti se moramo proti sv. Duhu najprej zagrizti v strm klanec, ki bo oznojil tudi bolje pripravljene planince, nato na nas sprejme bukov gozd in položna gozdna cesta. Ob tej cesti boste poleti opazili zajčice, pozno poleti in v zgodnji jeseni pa povsod prisotne [ciklame in svečnik](index.asp?sect=7).
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_3-3302_IMG.JPG" caption="Cerkvica sv. Duha">}}
+
+Naslednji smerokaz nas s položne poti usmeri desno v hrib, čaka nas še en strm vzpon in že je pred nami v hrib stisnjena cerkvica sv. Duha. Okoli cerkvice je tako malo prostora, da jo je skoraj nemogoče fotografirati, celo klop, na kateri se lahko odpočijete, je na lesenem odru, ki se izteguje nad pot, po kateri ste prišli. Cerkvica je odlično vzdrževana, pred kratkim je bila obnovljena, kot dokazuje letnica na lepih vhodnih vratih.
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_2-3297_IMG.JPG" caption="Pogled na Jadransko morje">}}
+
+Vrh sv. Duha je precej zaraščen, zato širokih razgledov razen v zimskem času ne boste deležni. Pa vseeno si po počitku vzamite še nekaj minut časa za pogled proti Vipavski dolini -- v lepem vremenu boste videli za Vipavsko dolino in hribi južno od nje tudi Jadransko morje in Italijansko obalo vse tja do Benetk.
+
+Z vrha sv. Duha se lahko spustite nazaj v Podkraj, lahko pa nadaljujete pot [proti Križni gori](index.asp?sect=5).
+
+S sv. Duha proti Križni gori
+----------------------------
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_3-3304_IMG.JPG" caption="Pot proti Križni gori">}}
+
+Če hočete nadaljevati svoj izlet s krožno potjo proti Križni gori, se s sv. Duha vrnite po strmem klancu do položne gozdne poti, pri kažipotu, ki vas je usmeril na sv. Duh zavijete levo (nazaj proti Podkraju), nato pa se na naslednjem križišču usmerite desno (leva pot vas pripelje nazaj v Podkraj). Ta razcep je ena zelo redkih slabih točk celotne poti, saj je popolnoma neoznačen. No, na srečo vas že po nekaj metrih pričakajo naslednje markacije, ki vas varno pripeljejo vse do Križne gore.
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_3-3307_IMG.JPG" caption="Še zadnji vzpon">}}
+
+Pot najprej poteka po prijetni gozdni cesti, ki se le lahno vzpenja, ob poti lahko občudujete gosto posejane [svečnike](index.asp?sect=7), nato pa naenkrat zavije ostro levo (tukaj vas čaka tudi edini zaraščen del poti), vzpon nadaljujete po tipični planinski poti, posejani z apnenčastimi skalami. Od vrha Križne gore vas loči le še en vzpon (pa tudi ta ni hud, skupna višinska razlika je le kakšnih 40 metrov) in nekaj metrov poti -- potem pa se kar naenkrat znajdete na vrhu strmega kraškem travniku s čudovitim razgledom -- prišli ste na [Križno goro](index.asp?sect=6).
+
+Križna gora
+-----------
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_3-3330_IMG.JPG" caption="Vrh Križne gore">}}
+
+Na Križno goro lahko pridete na dva načina:
+
+-   Na razcepu poti (glej [vzpon](index.asp?sect=3)) zavijete levo po gozdni poti proti Križni gori
+-   Ko se vračate s sv. Duha, se namesto v Podkraj odpravite še na krožno pot preko Križne gore (glej [iz sv. Duha na Križno goro](index.asp?sect=5)).
+
+{{<figure src="/images/hikes/svDuh_Podkraj/M_3-3336_IMG.JPG" caption="Strm vzpon na Križno goro">}}
+
+Če ste se odločili, da se boste vzpeli neposredno na Križno goro, vas najprej čaka senčna gozdna pot, nato pa strm vzpon po odprtih kraških travnikih. Po teh strminah sem se le vračal, saj sem na Križno goro prišel preko sv. Duha, pa me je že spust prepričal, da je verjetno krožna pot boljša možnost kot pa grizenje lastnih kolen na tako strmem vzponu. Vzpon (ali pa spust) bodo popestrile zanimive, [redko videne rože](index.asp?sect=7), med njimi navadni netresk.
+
+Kakorkoli boste že prišli na Križno goro, na vrhu vas bo čakal čudovit prizor -- pod vami bo kot na dlani ležal Podkraj, razgled pa bo segal od sv. Duha in Srednje gore na skrajni levi strani, Hrušice, Nanosa in oddaljenih hribov za njima do Vipavske doline na skrajni desni strani. Za Vipavsko dolino boste, tako kot s sv. Duha, ob lepem vremenu videli vse do Jadranskega morja.
+
+![](/images/hikes/svDuh_Podkraj/Razgled_3.jpg)
+
+S Križne gore se lahko vrnete v Podkraj, lahko pa seveda nadaljujete pot (ali povratek) proti [sv. Duhu](index.asp?sect=4).
