@@ -1,9 +1,7 @@
 {{ partial "header.html" . }}
 <h1 class='firstHeading'>{{ .Title }}</h1>
 {{ .Content }}
-{{ $pag := .Paginate .Pages }}
-{{ range $pag.Pages }}
-  {{ partial "post-blurb.html" . }}
+{{ range where .Pages "Type" "hikes" }}
+  {{ partial "hike-blurb.html" . }}
 {{ end }}
-{{ partial "post-pagination.html" . }}
 {{ partial "footer.html" . }}

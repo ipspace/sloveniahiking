@@ -1,8 +1,7 @@
 {{ partial "header.html" . }}
-<h1 class='firstHeading'>{{ .Title }}</h1>
 {{ $pag := .Paginate .Pages }}
 {{ range $pag.Pages }}
-  {{ partial "hike-blurb.html" . }}
+  {{ partial "post-blurb.html" . }}
 {{ end }}
 {{ partial "post-pagination.html" . }}
 {{ partial "footer.html" . }}

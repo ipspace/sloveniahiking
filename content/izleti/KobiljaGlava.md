@@ -1,28 +1,22 @@
 ---
 date: '2007-07-22T00:00:00'
 delta: 430
-description: Kobilja glava je travnat razgleden vrh vzhodno od Tolmina z verjetno
-  najlepšim pogledom na greben Peči (zaradi boljšega »marketinga« Bohinjcev večina
-  Slovencev te vrhove pozna kot Spodnje Bohinjske gore).
-draft: true
-duration: '3'
+description: 
+  Kobilja glava je travnat razgleden vrh vzhodno od Tolmina z verjetno najlepšim pogledom na greben Peči (zaradi boljšega »marketinga« Bohinjcev večina Slovencev te vrhove pozna kot Spodnje Bohinjske gore).
+duration: 3
 height: 1475
-image:
-- M_0_00656.JPG
-- M_0_00643.JPG
-- M_0_00648.JPG
-- Razgled_Sever.jpg
-- mapgps.jpg
-- path_1.gif
 map: 1
 name: KobiljaGlava
 title: Kobilja glava
+lead: M_0_00656.JPG
 x: 407
 y: 117
 ---
-![](/images/hikes/KobiljaGlava/M_0_00656.JPG)Kobilja glava (1475 m) je travnat razgleden vrh vzhodno od Tolmina z verjetno najlepšim pogledom na greben Peči (zaradi boljšega »marketinga« Bohinjcev večina Slovencev te vrhove pozna kot Spodnje Bohinjske gore). Nanj vodi (obledelo in borno) markirana pot, ki jo domačini tako dobro skrivajo, da je ne boste našli niti na zemljevidih niti v Miheličevem vodniku po Julijskih Alpah.
+![](/images/hikes/KobiljaGlava/M_0_00656.JPG)
 
-### [Osnovni podatki]{#_Toc426637634}
+Kobilja glava (1475 m) je travnat razgleden vrh vzhodno od Tolmina z verjetno najlepšim pogledom na greben Peči (zaradi boljšega »marketinga« Bohinjcev večina Slovencev te vrhove pozna kot Spodnje Bohinjske gore). Nanj vodi (obledelo in borno) markirana pot, ki jo domačini tako dobro skrivajo, da je ne boste našli niti na zemljevidih niti v Miheličevem vodniku po Julijskih Alpah.
+
+### Osnovni podatki
 
 **Zahtevnost**
 :   Občasno strma pot, na kateri boste z odličnim vidom opazili ostanke markacij.

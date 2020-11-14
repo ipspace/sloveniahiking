@@ -5,29 +5,6 @@ description: |
   Kokoš is one of the summits in the hill range separating Sežana Karst (more accurately Lokavsko polje) from the Gulf of Trieste. These hills are crisscrossed with hiking paths and cycling tracks, making them ideal for spring and autumn walks.
 duration: 2.5
 height: 670
-image:
-- Pogled_Kokos.jpg
-- M_3-3368_IMG.JPG
-- M_3-3374_IMG.JPG
-- M_3-3377_IMG.JPG
-- M_3-3378_IMG.JPG
-- M_3-3380_IMG.JPG
-- M_3-3379_IMG.JPG
-- M_3-3381_IMG.JPG
-- M_3-3382_IMG.JPG
-- M_3-3386_IMG.JPG
-- M_3-3390_IMG.JPG
-- M_3-3392_IMG.JPG
-- M_3-3384_IMG.JPG
-- M_3-3387_IMG.JPG
-- M_3-3391_IMG.JPG
-- M_4-3411_IMG.JPG
-- M_4-3410_IMG.JPG
-- M_4-3409_IMG.JPG
-- Razgled_Vrh.jpg
-- M_4-3412_IMG.JPG
-- M_4-3417_IMG.JPG
-- M_4-3420_IMG.JPG
 name: Kokos
 lead: M_3-3392_IMG.JPG
 title: Kokoš from Lokev

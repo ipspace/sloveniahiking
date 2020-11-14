@@ -1,26 +1,20 @@
 ---
 date: '2004-12-05T00:00:00'
 delta: 520
-description: Visoko na pobočju Pohorja, tik pod Velikim vrhom, stoji cerkev sv. Treh
-  kraljev, priljubljen cilj planincev iz okolice Slovenske Bistrice.
-draft: true
-duration: '3'
+description: 
+  Visoko na pobočju Pohorja, tik pod Velikim vrhom, stoji cerkev sv. Treh kraljev, priljubljen cilj planincev iz okolice Slovenske Bistrice.
+duration: 3
 height: 1181
-image:
-- M_1_2101.JPG
-- M_1_2101.JPG
-- M_1_2102.JPG
-- M_1_2103.JPG
-- M_1_2104.JPG
-- mapgps.jpg
-- path_1.gif
 map: 1
 name: TrijeKralji
 title: Trije kralji na Pohorju
+lead: M_1_2101.JPG
 x: 535
 y: 143
 ---
-![](/images/hikes/TrijeKralji/M_1_2101.JPG)Visoko na pobočju Pohorja, tik pod Velikim vrhom, stoji cerkev sv. Treh kraljev, priljubljen cilj planincev iz okolice Slovenske Bistrice. Ob cerkvi so postavili Štuhecov dom, v zadnjih letih pa je okoli nje zraslo tudi manjše smučarsko središče. Do Treh kraljev vodi markirana pot iz Oplotnice, iz Slovenske Bistrice pa so speljane kar tri (skozi Veliko Tinje, mimo Močnika in različica mimo cerkve sv. Urha).
+![](/images/hikes/TrijeKralji/M_1_2101.JPG)
+
+Visoko na pobočju Pohorja, tik pod Velikim vrhom, stoji cerkev sv. Treh kraljev, priljubljen cilj planincev iz okolice Slovenske Bistrice. Ob cerkvi so postavili Štuhecov dom, v zadnjih letih pa je okoli nje zraslo tudi manjše smučarsko središče. Do Treh kraljev vodi markirana pot iz Oplotnice, iz Slovenske Bistrice pa so speljane kar tri (skozi Veliko Tinje, mimo Močnika in različica mimo cerkve sv. Urha).
 
 ### Osnovni podatki
 
@@ -61,14 +55,18 @@ Med vzponom vas kažipot usmeri desno, nato pa vas cesta popelje med vinogradi o
 
 Po nekaj metrih se od te v desno odcepi makadam, pred zadnjimi hišami pa zavijete desno na kolovoz, ki se zlagoma vzpenja po gozdu. Do tod boste uživali v razgledih na Posavsko hribovje onkraj Dravinje, nato pa bo razgledov za nekaj časa konec, saj boste do Repnika (naslednje kmetije na poti) hodili po gozdu.
 
-![](/images/hikes/TrijeKralji/M_1_2102.JPG)Krajši vzpon po dobro označenih stezicah, speljanih po pretežno smrekovem gozdu, vas pripelje na rob travnika, ob katerem se vzpnete v desno. Na klopci, ki jo boste našli ob potočku, si vzemite nekaj časa za uživanje, saj tako lepih razgledov med vzponom ne boste več imeli, nato pa nadaljujete hojo do kapelice. Ob njej zavijete naravnost navzgor ob gozdu (čaka vas nekaj akrobacij med žicami električnih pastirjev), nato pa levo po kolovozu pod hišami do asfalta.
+Krajši vzpon po dobro označenih stezicah, speljanih po pretežno smrekovem gozdu, vas pripelje na rob travnika, ob katerem se vzpnete v desno. Na klopci, ki jo boste našli ob potočku, si vzemite nekaj časa za uživanje, saj tako lepih razgledov med vzponom ne boste več imeli, nato pa nadaljujete hojo do kapelice. Ob njej zavijete naravnost navzgor ob gozdu (čaka vas nekaj akrobacij med žicami električnih pastirjev), nato pa levo po kolovozu pod hišami do asfalta.
+
+![](/images/hikes/TrijeKralji/M_1_2102.JPG)
 
 Vzpon do Treh kraljev
 ---------------------
 
 Na cesti zavijete desno navzgor, na naslednjem križišču pa vas markacije usmerijo naravnost na ozko stezico, ki se hitro dviga skozi gozd. Markacije postanejo nekoliko bolj redke, na razcepih jih ne boste našli, zagotovo pa ne boste zašli, če se boste na vseh razcepih držali leve poti, ki vas bo v nekaj minutah pripeljala do naslednjega kolovoza, ta pa spet nazaj do ceste.
 
-![](/images/hikes/TrijeKralji/M_1_2103.JPG)Sodeč po zemljevidu vas čaka neprijetna hoja po asfaltu, na srečo pa so planinci našli prijeten \"obvoz\" -- markacije vas najprej popeljejo po starem kolovozu, ki sprva teče vzporedno s cesto, nato pa zavije nekoliko bolj v desno in vas pripelje na travnik, čez dobrih deset minut pa do Planine pod Šumikom.
+Sodeč po zemljevidu vas čaka neprijetna hoja po asfaltu, na srečo pa so planinci našli prijeten \"obvoz\" -- markacije vas najprej popeljejo po starem kolovozu, ki sprva teče vzporedno s cesto, nato pa zavije nekoliko bolj v desno in vas pripelje na travnik, čez dobrih deset minut pa do Planine pod Šumikom.
+
+![](/images/hikes/TrijeKralji/M_1_2103.JPG)
 
 Nad Planino pod Šumikom postane pot orientacijsko nekoliko bolj zahtevna, saj so markacije redkeje posejane. Odpravite se po poti levo mimo kapelice proti zadnjim hišam zaselka, nato pa na prvem kolovozu zavijte desno navzgor (tam je tudi stara obledela puščica).
 

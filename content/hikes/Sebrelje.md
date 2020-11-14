@@ -6,22 +6,6 @@ description: |
 duration: 3
 lead: M_8_1840.JPG
 height: 630
-image:
-- M_8_1840.JPG
-- M_8_1822.JPG
-- M_8_1825.JPG
-- M_8_1828.JPG
-- M_8_1829.JPG
-- M_8_1831.JPG
-- M_8_1830.JPG
-- M_8_1836.JPG
-- M_8_1837.JPG
-- M_8_1838.JPG
-- M_8_1840.JPG
-- M_8_1841.JPG
-- M_8_1842.JPG
-- mapgps.jpg
-- path_1.gif
 map: 1
 name: Sebrelje
 title: St. Ivan and Šebrelje

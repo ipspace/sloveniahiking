@@ -8,7 +8,11 @@
     </header>
     <div class='post__content photos' itemprop='articleBody'>
       {{ .Content }}
-      {{ partial "hike-map.html" . }}
+      {{ if eq .Type "izleti" }}
+        {{ partial "izlet-zemljevid.html" . }}
+      {{ else }}
+        {{ partial "hike-map.html" . }}
+      {{ end }}
     </div>
     <div style='clear: both;'></div>
     <!-- comments -->

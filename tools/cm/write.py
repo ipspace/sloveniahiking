@@ -14,5 +14,6 @@ def create_output_file(data=None,target_path=None):
     output.write('---\n')
     output.write(yaml.dump(data,allow_unicode=True))
     output.write('---\n')
-    output.write(text)
+    if text:
+      output.write(text)
     output.close()

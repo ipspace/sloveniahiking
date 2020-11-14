@@ -17,3 +17,9 @@ def read(fname):
       row[cell.tag] = cell.text
     data.append(row)
   return data
+
+def dictionary(list,key):
+  dict = {}
+  for row in list:
+    dict[row[key]] = row
+  return dict
