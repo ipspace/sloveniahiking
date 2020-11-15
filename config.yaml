@@ -6,6 +6,7 @@ theme: ipspace
 summarylength: 3000
 uglyurls: true
 paginate: 15
+enableGitInfo: true
 
 author:
   name: Ivan Pepelnjak

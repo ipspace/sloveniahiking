@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 <h1 class='firstHeading'>{{ .Title }}</h1>
 {{ .Content }}
-{{ $pag := .Paginate .Pages }}
+{{ $pag := .Paginate (sort .Pages "Lastmod") }}
 {{ range $pag.Pages }}
   {{ partial "hike-blurb.html" . }}
 {{ end }}

@@ -67,8 +67,6 @@ The macadam road over the meadows brings you into Prelože -- a small compact ka
 The ascent via Obrovnik
 -----------------------
 
-{{<figure src="/images/hikes/Kokos/M_3-3391_IMG.JPG" caption="A view of the Gulf of Trieste">}}
-
 The route towards the Vroče spring (which lies under the summit of Obrovnik) first ascends through Prelože (beside the road on your way take a look at an orpine habitat), and then through ever denser forest. You will soon catch sight of a pool beside the path, which is probably quite enticing in the summer heat. The occasionally steeper path continues through mixed forest and brings you in a good 30 minutes to the Vroče spring, situated roughly on the saddle between Obrovnik and Gradišče.
 
 {{<figure src="/images/hikes/Kokos/M_3-3392_IMG.JPG" caption="The path towards the Vroče spring Karst meadows in autumn">}}
@@ -78,6 +76,8 @@ This spring is clearly a popular summer destination, as evidenced by the tables 
 After a short rest, as you continue your way towards Kokoš, you\'ll be a bit surprised because the path begins to drop down -- but not to worry, it leads you to the saddle between Obrovnik and Kokoš. For some time you\'ll still walk through forest, but then this begins to thin out and the path takes you into the first karst meadows, which in autumn will delight you with their wealth of seasonal colours -- from yellow through orange to dark red. You\'ll also observe the last flowers here -- rock knapweed, spurge in its autumnal colours and the last examples of blue eryngium.
 
 From here the view opens up towards the sea and the Gulf of Trieste -- take a good look, since you won\'t see the Adriatic any more from the mountain hut on Kokoš, and then continue your way down towards the junction with the cycling track which leads from Kokoš towards Gradišče.
+
+{{<figure src="/images/hikes/Kokos/M_3-3391_IMG.JPG" caption="A view of the Gulf of Trieste">}}
 
 The summit of Kokoš
 -------------------

@@ -6,18 +6,6 @@ description: |
 duration: 6
 height: 1922
 lead: M_8-6819_IMG.jpg
-image:
-- M_8-6819_IMG.jpg
-- M_0-7099_IMG.JPG
-- M_1-7103_IMG.JPG
-- M_1-7108_IMG.JPG
-- M_1-7110_IMG.JPG
-- M_1-7122_IMG.JPG
-- M_1-7126_IMG.JPG
-- M_1-7130_IMG.JPG
-- M_1-7131_IMG.JPG
-- mapgps.jpg
-- path_1.gif
 map: 1
 name: VogelVrh
 title: Vogel

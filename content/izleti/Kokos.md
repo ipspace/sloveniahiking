@@ -1,36 +1,13 @@
 ---
 date: '2002-10-13T00:00:00'
 delta: 210
-description: Naslednjič ko vas bo pot zanesla v bližino Sežane ali Lipice, se ustavite
-  v Lokvi in si privoščite prijeten sprehod na bližnjo Kokoš.
-draft: true
-duration: '2.5'
+description: |
+  Naslednjič ko vas bo pot zanesla v bližino Sežane ali Lipice, se ustavite v Lokvi in si privoščite prijeten sprehod na bližnjo Kokoš.
+duration: 2.5
 height: 670
-image:
-- Pogled_Kokos.jpg
-- M_3-3368_IMG.JPG
-- M_3-3374_IMG.JPG
-- M_3-3377_IMG.JPG
-- M_3-3378_IMG.JPG
-- M_3-3379_IMG.JPG
-- M_3-3380_IMG.JPG
-- M_3-3381_IMG.JPG
-- M_3-3382_IMG.JPG
-- M_3-3386_IMG.JPG
-- M_3-3384_IMG.JPG
-- M_3-3387_IMG.JPG
-- M_3-3390_IMG.JPG
-- M_3-3392_IMG.JPG
-- M_3-3391_IMG.JPG
-- M_4-3411_IMG.JPG
-- M_4-3410_IMG.JPG
-- M_4-3409_IMG.JPG
-- Razgled_Vrh.jpg
-- M_4-3412_IMG.JPG
-- M_4-3417_IMG.JPG
-- M_4-3420_IMG.JPG
 name: Kokos
 title: Kokoš nad Lokvijo
+lead: M_3-3392_IMG.JPG
 x: 415
 y: 56
 ---
@@ -96,33 +73,37 @@ Makadamska pot čez travnike vas pripelje v Prelože -- stisnjeno kraško vasico
 Vzpon mimo Obrovnika
 --------------------
 
-{{<figure src="/images/hikes/Kokos/M_3-3386_IMG.JPG" caption="Pot proti izviru Vroče">}} {{<figure src="/images/hikes/Kokos/M_3-3387_IMG.JPG" caption="Jezerce ob poti Izvir Vroče">}}
-
 Pot proti izviru Vroče (ki leži pod vrhom Obrovnika) se najprej vzpenja skozi Prelože (ob cesti si mimogrede oglejte rastišče hermelike), nato pa skozi vedno bolj gost gozd. Ob poti boste kmalu zagledali manjše jezerce, ki je v poletni vročini verjetno precej mikavno. Občasno nekoliko bolj strma pot se nadaljuje skozi mešani gozd in vas v dobrih 30 minutah pripelje do izvira Vroče, približno na sedlu med Obrovnikom in Gradiščem.
+
+{{<figure src="/images/hikes/Kokos/M_3-3386_IMG.JPG" caption="Pot proti izviru Vroče">}}
 
 Očitno je tudi ta izvir priljubljen poletni cilj, na kar kažejo mize in klopi okoli njega pa tudi hišica, v kateri boste v poletnih mesecih verjetno dobili hrano in pijačo.
 
-{{<figure src="/images/hikes/Kokos/M_3-3392_IMG.JPG" caption="Kraški travniki v jeseni">}}
+{{<figure src="/images/hikes/Kokos/M_3-3387_IMG.JPG" caption="Izvir Vroče">}}
 
 Ko po krajšem počitku nadaljujete pot proti Kokoši, boste malce presenečeni, ker se pot začne spuščati -- nič hudega, vodi vas na sedlo med Obrovnikom in Kokošjo. Nekaj časa boste še hodili po gozdu, nato pa se ta začne redčiti in pot vas pripelje na prve kraške travnike, ki vas bodo v jeseni razveseljevali z bogastvom jesenskih barv -- od rumene prek oranžne do temno rdeče. Na travnikih boste opazili tudi zadnje rože -- skalni glavinec, jesensko obarvani gladki mleček in zadnje ametistaste možine.
 
-{{<figure src="/images/hikes/Kokos/M_3-3391_IMG.JPG" caption="Pogled na Tržaški zaliv">}}
+{{<figure src="/images/hikes/Kokos/M_3-3392_IMG.JPG" caption="Kraški travniki v jeseni">}}
 
 Od tu se odpre tudi pogled na morje in Tržaški zaliv -- dobro si ga oglejte, izpred planinske koče na Kokoši morja ne boste videli, nato pa nadaljujte po poti navzdol proti križišču s kolesarsko stezo, ki vodi od Kokoši proti Gradišču.
 
- 
+{{<figure src="/images/hikes/Kokos/M_3-3391_IMG.JPG" caption="Pogled na Tržaški zaliv">}} 
 
 Vrh Kokoši
 ----------
 
-{{<figure src="/images/hikes/Kokos/M_4-3411_IMG.JPG" caption="Planinska koča na Kokoši">}} {{<figure src="/images/hikes/Kokos/M_4-3410_IMG.JPG" caption="Nanos">}} {{<figure src="/images/hikes/Kokos/M_4-3409_IMG.JPG" caption="Slavnik">}}
-
 Po priključku na kolesarsko pot se začnete spet počasi vzpenjati proti Kokoši, ki jo dosežete v približno pol ure. Pred počitkom pri planinski koči (v [seznamu koč](http://www.pzs.si/koce/index.php) na [Planinski zvezi Slovenije](http://www.pzs.si/) boste izvedeli, kdaj je odprta) se sprehodite po travniku na vrhu Kokoši ter si oglejte Slavnik (na jugovzhodu) in Nanos (na severu).
 
-{{<figure src="/images/hikes/Kokos/Razgled_Vrh.jpg" caption="360-stopinjski pogled s Kokoši">}} {{<figure src="/images/hikes/Kokos/M_4-3417_IMG.JPG" caption="Odcep proti Lokvi Jesenski travniki">}}
+{{<figure src="/images/hikes/Kokos/M_4-3411_IMG.JPG" caption="Planinska koča na Kokoši">}}
 
 V Lokev se lahko vrnete po poti, po kateri ste prišli, lahko pa kmalu po začetku poti zavijete levo na planinsko pot, ki vas pripelje naravnost v Lokev. Ta pot nekaj časa poteka po redkem gozdu (podobno kot pot iz Prelož proti izviru Vroče), že kmalu pa prispemo na Lokavsko polje, po katerem nas makadamska cesta vodi proti Lokvi.
 
+{{<figure src="/images/hikes/Kokos/Razgled_Vrh.jpg" caption="360-stopinjski pogled s Kokoši">}}
+
 Tudi na tem delu poti si oglejte bogastvo rož na sosednjih travnikih (najlepši bodo spomladi, ko na njih zacvetijo kosmatinci, in zgodaj poleti pred prvo košnjo), pa tudi jeseni je prijetno posedeti na klopci ob poti in uživati v pogledu na kraško pokrajino.
 
-![](/images/hikes/Kokos/M_4-3420_IMG.JPG)Makadamska pot se izteče na koncu Lokve, pri pokopališču, od koder je do parkirišča, kjer ste pustili avto, le dobrih pet minut hoda. Lakoto, ki se je porodila med hojo, lahko uspešno zatrete v gostišču Ražem (preizkušeno, imajo odlične ribje jedi), če imate več časa, si lahko ogledate vojaški muzej, v nedeljo pa se lahko odpravite tudi v Divaško jamo ali Vilenico. Tisti, ki ste med potjo nabirali rože, pa le pohitite domov -- z jesenskim bogastvom Krasa lahko naredite čudovite ikebane.
+{{<figure src="/images/hikes/Kokos/M_4-3417_IMG.JPG" caption="Jesenski travniki">}}
+
+Makadamska pot se izteče na koncu Lokve, pri pokopališču, od koder je do parkirišča, kjer ste pustili avto, le dobrih pet minut hoda. Lakoto, ki se je porodila med hojo, lahko uspešno zatrete v gostišču Ražem (preizkušeno, imajo odlične ribje jedi), če imate več časa, si lahko ogledate vojaški muzej, v nedeljo pa se lahko odpravite tudi v Divaško jamo ali Vilenico. Tisti, ki ste med potjo nabirali rože, pa le pohitite domov -- z jesenskim bogastvom Krasa lahko naredite čudovite ikebane.
+
+![](/images/hikes/Kokos/M_4-3420_IMG.JPG)
