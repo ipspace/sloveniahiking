@@ -1,0 +1,49 @@
+[genuslist]
+other="""
+V naši bazi boste našli te rože iz roda <em>{{ .Title }}</em>:
+"""
+
+[genusnamelatin]
+other="{{ .Title }} ({{ index $.Site.Data.botany.genus .Title }})"
+
+[genusname]
+other="{{ index $.Site.Data.botany.genus .Title }} ({{ .Title }})"
+
+[genustitle]
+other="""
+Botanični rod: {{ index $.Site.Data.botany.genus .Title }} ({{ .Title }})
+"""
+
+[familylist]
+other="""
+V naši bazi boste našli te rože iz družine <em>{{ .Title }}</em>:
+"""
+
+[familynamelatin]
+other="{{ .Title }} ({{ index $.Site.Data.botany.family .Title }})"
+
+[familyname]
+other="{{ index $.Site.Data.botany.family .Title }} ({{ .Title }})"
+
+[familytitle]
+other="""
+Botanična družina: {{ index $.Site.Data.botany.family .Title }} ({{ .Title }})
+"""
+
+[flowerfamily]
+other="Botanična družina"
+
+[flowergenus]
+other="Botanični rod"
+
+[flowersimilar]
+other="Podobne rože"
+
+[flowerrandom]
+other="Nekaj naključno izbranih rož"
+
+[MorePhotos]
+other="Več fotografij"
+
+[recentupdates]
+other="Zadnje spremembe"

@@ -1,0 +1,20 @@
+---
+color: W
+date: '2005-03-20T00:00:00'
+f_end: '6'
+f_start: '5'
+family: Rosaceae
+flower_type: C
+image:
+- M_3_1348.JPG
+latin: Fragaria vesca
+lead: M_3_1348.JPG
+lead_sample: false
+name: index.en
+order: Fragaria
+parallel: false
+petals: '5'
+petals_joined: false
+star_shape: false
+title: Fragaria vesca
+---

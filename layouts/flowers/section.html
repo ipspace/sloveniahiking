@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+{{ $title := dict "title" .Title "page" . }}
+{{ partial "multi-title.html" $title }}
+<article id="left-column">
+{{ if .Params.lead }}
+  {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}" style="float: right">{{ end }}
+{{ end }}
+{{ .Content }}
+  <section class='flower__gallery'>
+{{ range (sort .Pages "Title") }}
+  {{ partial "flower-item.html" . }}
+{{ end }}
+  </section>
+</article>
+{{ partial "flower-sidebar.html" . }}
+{{ partial "post-pagination.html" . }}
+{{ partial "footer.html" . }}

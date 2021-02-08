@@ -1,0 +1,49 @@
+[genuslist]
+other="""
+Our web site contains these flowers from the <em>{{ .Title }}</em> genus:
+"""
+
+[genusnamelatin]
+other="{{ .Title }}"
+
+[genusname]
+other="{{ .Title }}"
+
+[genustitle]
+other="""
+Botanical genus: {{ .Title }}
+"""
+
+[familylist]
+other="""
+Our web site contains these flowers from the <em>{{ .Title }}</em> family:
+"""
+
+[familynamelatin]
+other="{{ .Title }}"
+
+[familyname]
+other="{{ .Title }}"
+
+[familytitle]
+other="""
+Botanical family: {{ .Title }}
+"""
+
+[flowerfamily]
+other="Family (latin)"
+
+[flowergenus]
+other="Genus (latin)"
+
+[flowersimilar]
+other="Similar flowers"
+
+[flowerrandom]
+other="A few randomly selected flowers"
+
+[MorePhotos]
+other="More photos"
+
+[recentupdates]
+other="Recent updates"

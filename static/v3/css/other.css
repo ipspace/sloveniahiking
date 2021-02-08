@@ -17,8 +17,12 @@ body {
   font-weight: normal;
   font-style: normal; }
 
-.sidebar__btn, .back-btn, .jump-link, .post__comment-link, .post__read-more, .btn--icon .btn__text, .btn, form.labeled .action-row input, form.labeled .action-row button, form.labeled .action-row a:not(.image), .teaserBox .buttons a, .buyButton, .header_button,
+.back-btn, .jump-link, .post__comment-link, .post__read-more, .btn--icon .btn__text, .btn, .post .planCompare .external.text,
+.post .planCompare .mw-redirect, .post .jump-link a, form.labeled .action-row input, form.labeled .action-row button, form.labeled .action-row a:not(.image), .teaserBox .buttons a, .buyButton, .header_button,
 .container.main .sidebar .btn,
+.container.main .sidebar .post .planCompare .mw-redirect,
+.post .planCompare .container.main .sidebar .mw-redirect,
+.post .jump-link .container.main .sidebar a,
 .container.main .sidebar form.labeled .action-row input,
 form.labeled .action-row .container.main .sidebar input,
 .container.main .sidebar form.labeled .action-row button,
@@ -31,6 +35,12 @@ form.labeled .action-row .container.main .sidebar a:not(.image),
 .container.main .sidebar .header_button,
 .container.main .sidebar .jump-link a,
 .post #right-column .btn,
+.post #right-column .planCompare .external.text,
+.post .planCompare #right-column .external.text,
+.post #right-column .planCompare .mw-redirect,
+.post .planCompare #right-column .mw-redirect,
+.post #right-column .jump-link a,
+.post .jump-link #right-column a,
 .post #right-column form.labeled .action-row input,
 form.labeled .action-row .post #right-column input,
 .post #right-column form.labeled .action-row button,
@@ -40,8 +50,7 @@ form.labeled .action-row .post #right-column a:not(.image),
 .post #right-column .teaserBox .buttons a,
 .teaserBox .buttons .post #right-column a,
 .post #right-column .buyButton,
-.post #right-column .header_button,
-.post #right-column .jump-link a, .page-footer__btn, .page-footer__title,
+.post #right-column .header_button, .page-footer__btn, .page-footer__title,
 .page-footer h3, .nav-links li a.current, h4 {
   font-family: Verdana, sans-serif;
   font-weight: bold;
@@ -646,8 +655,10 @@ html svg {
   .search-input:focus {
     background-color: #6f5e52; }
 
-.btn.header-cta, form.labeled .action-row input.header-cta, form.labeled .action-row button.header-cta, form.labeled .action-row a.header-cta:not(.image), .teaserBox .buttons a.header-cta, .header-cta.buyButton, .header-cta.header_button,
+.btn.header-cta, .post .planCompare .header-cta.external.text,
+.post .planCompare .header-cta.mw-redirect, .post .jump-link a.header-cta, form.labeled .action-row input.header-cta, form.labeled .action-row button.header-cta, form.labeled .action-row a.header-cta:not(.image), .teaserBox .buttons a.header-cta, .header-cta.buyButton, .header-cta.header_button,
 .container.main .sidebar .header-cta.btn,
+.post .jump-link .container.main .sidebar a.header-cta,
 .container.main .sidebar form.labeled .action-row input.header-cta,
 form.labeled .action-row .container.main .sidebar input.header-cta,
 .container.main .sidebar form.labeled .action-row button.header-cta,
@@ -658,6 +669,12 @@ form.labeled .action-row .container.main .sidebar button.header-cta,
 .container.main .sidebar .header-cta.header_button,
 .container.main .sidebar .jump-link a.header-cta,
 .post #right-column .header-cta.btn,
+.post #right-column .planCompare .header-cta.external.text,
+.post .planCompare #right-column .header-cta.external.text,
+.post #right-column .planCompare .header-cta.mw-redirect,
+.post .planCompare #right-column .header-cta.mw-redirect,
+.post #right-column .jump-link a.header-cta,
+.post .jump-link #right-column a.header-cta,
 .post #right-column form.labeled .action-row input.header-cta,
 form.labeled .action-row .post #right-column input.header-cta,
 .post #right-column form.labeled .action-row button.header-cta,
@@ -667,12 +684,13 @@ form.labeled .action-row .post #right-column a.header-cta:not(.image),
 .post #right-column .teaserBox .buttons a.header-cta,
 .teaserBox .buttons .post #right-column a.header-cta,
 .post #right-column .header-cta.buyButton,
-.post #right-column .header-cta.header_button,
-.post #right-column .jump-link a.header-cta {
+.post #right-column .header-cta.header_button {
   min-width: 8em; }
   @media (max-width: 767px) {
-    .btn.header-cta, form.labeled .action-row input.header-cta, form.labeled .action-row button.header-cta, form.labeled .action-row a.header-cta:not(.image), .teaserBox .buttons a.header-cta, .header-cta.buyButton, .header-cta.header_button,
+    .btn.header-cta, .post .planCompare .header-cta.external.text,
+    .post .planCompare .header-cta.mw-redirect, .post .jump-link a.header-cta, form.labeled .action-row input.header-cta, form.labeled .action-row button.header-cta, form.labeled .action-row a.header-cta:not(.image), .teaserBox .buttons a.header-cta, .header-cta.buyButton, .header-cta.header_button,
     .container.main .sidebar .header-cta.btn,
+    .post .jump-link .container.main .sidebar a.header-cta,
     .container.main .sidebar form.labeled .action-row input.header-cta,
     form.labeled .action-row .container.main .sidebar input.header-cta,
     .container.main .sidebar form.labeled .action-row button.header-cta,
@@ -683,6 +701,12 @@ form.labeled .action-row .post #right-column a.header-cta:not(.image),
     .container.main .sidebar .header-cta.header_button,
     .container.main .sidebar .jump-link a.header-cta,
     .post #right-column .header-cta.btn,
+    .post #right-column .planCompare .header-cta.external.text,
+    .post .planCompare #right-column .header-cta.external.text,
+    .post #right-column .planCompare .header-cta.mw-redirect,
+    .post .planCompare #right-column .header-cta.mw-redirect,
+    .post #right-column .jump-link a.header-cta,
+    .post .jump-link #right-column a.header-cta,
     .post #right-column form.labeled .action-row input.header-cta,
     form.labeled .action-row .post #right-column input.header-cta,
     .post #right-column form.labeled .action-row button.header-cta,
@@ -692,13 +716,14 @@ form.labeled .action-row .post #right-column a.header-cta:not(.image),
     .post #right-column .teaserBox .buttons a.header-cta,
     .teaserBox .buttons .post #right-column a.header-cta,
     .post #right-column .header-cta.buyButton,
-    .post #right-column .header-cta.header_button,
-    .post #right-column .jump-link a.header-cta {
+    .post #right-column .header-cta.header_button {
       display: block;
       margin-bottom: 24px; } }
   @media (min-width: 768px) {
-    .btn.header-cta, form.labeled .action-row input.header-cta, form.labeled .action-row button.header-cta, form.labeled .action-row a.header-cta:not(.image), .teaserBox .buttons a.header-cta, .header-cta.buyButton, .header-cta.header_button,
+    .btn.header-cta, .post .planCompare .header-cta.external.text,
+    .post .planCompare .header-cta.mw-redirect, .post .jump-link a.header-cta, form.labeled .action-row input.header-cta, form.labeled .action-row button.header-cta, form.labeled .action-row a.header-cta:not(.image), .teaserBox .buttons a.header-cta, .header-cta.buyButton, .header-cta.header_button,
     .container.main .sidebar .header-cta.btn,
+    .post .jump-link .container.main .sidebar a.header-cta,
     .container.main .sidebar form.labeled .action-row input.header-cta,
     form.labeled .action-row .container.main .sidebar input.header-cta,
     .container.main .sidebar form.labeled .action-row button.header-cta,
@@ -709,6 +734,12 @@ form.labeled .action-row .post #right-column a.header-cta:not(.image),
     .container.main .sidebar .header-cta.header_button,
     .container.main .sidebar .jump-link a.header-cta,
     .post #right-column .header-cta.btn,
+    .post #right-column .planCompare .header-cta.external.text,
+    .post .planCompare #right-column .header-cta.external.text,
+    .post #right-column .planCompare .header-cta.mw-redirect,
+    .post .planCompare #right-column .header-cta.mw-redirect,
+    .post #right-column .jump-link a.header-cta,
+    .post .jump-link #right-column a.header-cta,
     .post #right-column form.labeled .action-row input.header-cta,
     form.labeled .action-row .post #right-column input.header-cta,
     .post #right-column form.labeled .action-row button.header-cta,
@@ -718,8 +749,7 @@ form.labeled .action-row .post #right-column a.header-cta:not(.image),
     .post #right-column .teaserBox .buttons a.header-cta,
     .teaserBox .buttons .post #right-column a.header-cta,
     .post #right-column .header-cta.buyButton,
-    .post #right-column .header-cta.header_button,
-    .post #right-column .jump-link a.header-cta {
+    .post #right-column .header-cta.header_button {
       margin: 0 24px; } }
 .login-link {
   color: #fff;
@@ -895,8 +925,12 @@ form.labeled .action-row .post #right-column a.header-cta:not(.image),
   .footer-copyright__text {
     color: #efeceb; }
 
-.btn, form.labeled .action-row input, form.labeled .action-row button, form.labeled .action-row a:not(.image), .teaserBox .buttons a, .buyButton, .header_button,
+.btn, .post .planCompare .external.text,
+.post .planCompare .mw-redirect, .post .jump-link a, form.labeled .action-row input, form.labeled .action-row button, form.labeled .action-row a:not(.image), .teaserBox .buttons a, .buyButton, .header_button,
 .container.main .sidebar .btn,
+.container.main .sidebar .post .planCompare .mw-redirect,
+.post .planCompare .container.main .sidebar .mw-redirect,
+.post .jump-link .container.main .sidebar a,
 .container.main .sidebar form.labeled .action-row input,
 form.labeled .action-row .container.main .sidebar input,
 .container.main .sidebar form.labeled .action-row button,
@@ -909,6 +943,12 @@ form.labeled .action-row .container.main .sidebar a:not(.image),
 .container.main .sidebar .header_button,
 .container.main .sidebar .jump-link a,
 .post #right-column .btn,
+.post #right-column .planCompare .external.text,
+.post .planCompare #right-column .external.text,
+.post #right-column .planCompare .mw-redirect,
+.post .planCompare #right-column .mw-redirect,
+.post #right-column .jump-link a,
+.post .jump-link #right-column a,
 .post #right-column form.labeled .action-row input,
 form.labeled .action-row .post #right-column input,
 .post #right-column form.labeled .action-row button,
@@ -918,8 +958,7 @@ form.labeled .action-row .post #right-column a:not(.image),
 .post #right-column .teaserBox .buttons a,
 .teaserBox .buttons .post #right-column a,
 .post #right-column .buyButton,
-.post #right-column .header_button,
-.post #right-column .jump-link a {
+.post #right-column .header_button {
   border: 0;
   background-color: #d26400;
   color: #fff;
@@ -933,8 +972,10 @@ form.labeled .action-row .post #right-column a:not(.image),
   line-height: 1;
   white-space: nowrap;
   cursor: pointer; }
-  .btn:focus, form.labeled .action-row input:focus, form.labeled .action-row button:focus, form.labeled .action-row a:focus:not(.image), .teaserBox .buttons a:focus, .buyButton:focus, .header_button:focus,
+  .btn:focus, .post .planCompare .external.text:focus,
+  .post .planCompare .mw-redirect:focus, .post .jump-link a:focus, form.labeled .action-row input:focus, form.labeled .action-row button:focus, form.labeled .action-row a:focus:not(.image), .teaserBox .buttons a:focus, .buyButton:focus, .header_button:focus,
   .container.main .sidebar .btn:focus,
+  .post .jump-link .container.main .sidebar a:focus,
   .container.main .sidebar form.labeled .action-row input:focus,
   form.labeled .action-row .container.main .sidebar input:focus,
   .container.main .sidebar form.labeled .action-row button:focus,
@@ -945,6 +986,12 @@ form.labeled .action-row .post #right-column a:not(.image),
   .container.main .sidebar .header_button:focus,
   .container.main .sidebar .jump-link a:focus,
   .post #right-column .btn:focus,
+  .post #right-column .planCompare .external.text:focus,
+  .post .planCompare #right-column .external.text:focus,
+  .post #right-column .planCompare .mw-redirect:focus,
+  .post .planCompare #right-column .mw-redirect:focus,
+  .post #right-column .jump-link a:focus,
+  .post .jump-link #right-column a:focus,
   .post #right-column form.labeled .action-row input:focus,
   form.labeled .action-row .post #right-column input:focus,
   .post #right-column form.labeled .action-row button:focus,
@@ -954,11 +1001,12 @@ form.labeled .action-row .post #right-column a:not(.image),
   .post #right-column .teaserBox .buttons a:focus,
   .teaserBox .buttons .post #right-column a:focus,
   .post #right-column .buyButton:focus,
-  .post #right-column .header_button:focus,
-  .post #right-column .jump-link a:focus {
+  .post #right-column .header_button:focus {
     outline: 0; }
-  .btn:hover, form.labeled .action-row input:hover, form.labeled .action-row button:hover, form.labeled .action-row a:hover:not(.image), .teaserBox .buttons a:hover, .buyButton:hover, .header_button:hover,
+  .btn:hover, .post .planCompare .external.text:hover,
+  .post .planCompare .mw-redirect:hover, .post .jump-link a:hover, form.labeled .action-row input:hover, form.labeled .action-row button:hover, form.labeled .action-row a:hover:not(.image), .teaserBox .buttons a:hover, .buyButton:hover, .header_button:hover,
   .container.main .sidebar .btn:hover,
+  .post .jump-link .container.main .sidebar a:hover,
   .container.main .sidebar form.labeled .action-row input:hover,
   form.labeled .action-row .container.main .sidebar input:hover,
   .container.main .sidebar form.labeled .action-row button:hover,
@@ -969,6 +1017,12 @@ form.labeled .action-row .post #right-column a:not(.image),
   .container.main .sidebar .header_button:hover,
   .container.main .sidebar .jump-link a:hover,
   .post #right-column .btn:hover,
+  .post #right-column .planCompare .external.text:hover,
+  .post .planCompare #right-column .external.text:hover,
+  .post #right-column .planCompare .mw-redirect:hover,
+  .post .planCompare #right-column .mw-redirect:hover,
+  .post #right-column .jump-link a:hover,
+  .post .jump-link #right-column a:hover,
   .post #right-column form.labeled .action-row input:hover,
   form.labeled .action-row .post #right-column input:hover,
   .post #right-column form.labeled .action-row button:hover,
@@ -978,8 +1032,7 @@ form.labeled .action-row .post #right-column a:not(.image),
   .post #right-column .teaserBox .buttons a:hover,
   .teaserBox .buttons .post #right-column a:hover,
   .post #right-column .buyButton:hover,
-  .post #right-column .header_button:hover,
-  .post #right-column .jump-link a:hover {
+  .post #right-column .header_button:hover {
     background-color: #ff9f01;
     color: white; }
 
@@ -1085,39 +1138,12 @@ ul {
       content: "▼";
       color: #d26400; }
 
-@media (min-width: 768px) {
-  section.post.blurb {
-    display: flex; } }
-
-section.post.blurb img {
-  max-width: 100%;
-  margin-bottom: 12px; }
-  @media (min-width: 768px) {
-    section.post.blurb img {
-      max-width: 25%;
-      order: 99;
-      margin-bottom: 24px; } }
-section.post.blurb article {
-  margin-top: 0; }
-  @media (min-width: 768px) {
-    section.post.blurb article {
-      margin-right: 12px; } }
-  @media (min-width: 1025px) {
-    section.post.blurb article {
-      margin-right: 24px; } }
-  section.post.blurb article h3, section.post.blurb article h2 {
-    margin-top: 0; }
-
-@media (min-width: 768px) {
-  .post__content dl {
-    display: flex;
-    flex-flow: row wrap; }
-  .post__content dt {
-    width: 12em; }
-  .post__content dd {
-    margin-left: 1em;
-    width: calc(100% - 13em);
-    padding-left: 0; } }
+dl dt {
+  margin-bottom: 0.5em;
+  font-weight: bold;
+  color: #d26400; }
+  dl dt:not(:first-of-type) {
+    margin-top: 1em; }
 
 .ui-tabs {
   position: relative; }
@@ -1383,6 +1409,23 @@ section.post.blurb article {
 .content-box .update {
   background-color: #fff; }
 
+.sidebar .important,
+.sidebar .note,
+.sidebar .info,
+.sidebar .warn,
+.sidebar .stop,
+.sidebar .more,
+.sidebar .update {
+  margin-top: 0; }
+  @media (min-width: 768px) {
+    .sidebar .important,
+    .sidebar .note,
+    .sidebar .info,
+    .sidebar .warn,
+    .sidebar .stop,
+    .sidebar .more,
+    .sidebar .update {
+      padding-left: 60px; } }
 .post .cite, .post__item blockquote {
   margin: 10px 0;
   padding-left: 32px;
@@ -1418,10 +1461,22 @@ div.code {
   margin: 1em 0;
   white-space: pre; }
 
+code {
+  padding: 0 0.5em; }
+
 pre > code {
   border: none;
   display: inline;
   padding: 0 0; }
+
+div.code-caption {
+  font-size: 90%;
+  padding: 3px 6px;
+  background-color: #372f2d;
+  color: #fff;
+  margin: 1em 0 -1em 0; }
+  div.code-caption p {
+    margin: 0 0; }
 
 .content-box {
   margin: 24px 0;
@@ -1448,95 +1503,6 @@ pre > code {
 #left-column .content-box:first-child {
   margin-top: 0; }
 
-.roadmap {
-  font-size: 16px;
-  width: 100%;
-  height: 10em;
-  position: relative; }
-  @media (max-width: 480px) {
-    .roadmap {
-      font-size: 11px; } }
-  .roadmap div {
-    position: absolute;
-    left: 0;
-    width: 48%;
-    height: 2.5em;
-    line-height: 2.5em;
-    padding: 0 12px;
-    box-sizing: border-box;
-    text-align: center;
-    vertical-align: middle;
-    display: table-cell;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    background-color: #f7f7f7; }
-    @media (min-width: 480px) {
-      .roadmap div {
-        box-shadow: 0 1vh 1.4vw rgba(37, 31, 30, 0.3); } }
-    .roadmap div.left {
-      left: 0; }
-    .roadmap div.right {
-      left: 52%; }
-    .roadmap div.row {
-      left: 0;
-      width: 100%; }
-    .roadmap div.advanced {
-      background: #d26400;
-      color: #fff; }
-    .roadmap div.missing {
-      background-color: #dbdada;
-      color: #908d8c;
-      opacity: 0.7; }
-      @media (min-width: 480px) {
-        .roadmap div.missing {
-          box-shadow: 0 0.3vh 0.4vw rgba(37, 31, 30, 0.2);
-          transform: translateY(0.5vh); } }
-    .roadmap div.intro {
-      background-color: #52453c;
-      color: #fff; }
-    .roadmap div a {
-      color: inherit !important;
-      text-decoration: none !important;
-      border-bottom: none !important; }
-  .roadmap img.arrow {
-    display: block;
-    position: absolute;
-    margin-top: 2.3em; }
-  .roadmap img.left {
-    left: 20%; }
-  .roadmap img.right {
-    left: 72.5%; }
-  .roadmap img.middle {
-    left: 50%; }
-  .roadmap img.b1 {
-    height: 2em; }
-  .roadmap img.b2 {
-    height: 6em; }
-  .roadmap img.b3 {
-    height: 10em; }
-  .roadmap img.b4 {
-    height: 14em; }
-  .roadmap img.ap-l1 {
-    margin-left: -3em; }
-    @media (max-width: 480px) {
-      .roadmap img.ap-l1 {
-        margin-left: -1.5em; } }
-  .roadmap img.ap-r1 {
-    margin-left: 3em; }
-    @media (max-width: 480px) {
-      .roadmap img.ap-r1 {
-        margin-left: 1.5em; } }
-  .roadmap img.ap-l2 {
-    margin-left: -6em; }
-    @media (max-width: 480px) {
-      .roadmap img.ap-l2 {
-        margin-left: -3em; } }
-  .roadmap img.ap-r2 {
-    margin-left: 6em; }
-    @media (max-width: 480px) {
-      .roadmap img.ap-r2 {
-        margin-left: 3em; } }
 /* Table on the first page - no top margin on first element */
 .normalTable td,
 .fmtTable td {
@@ -2079,66 +2045,6 @@ form.labeled.profile {
       margin-left: -3em;
       border: 1px inset #e8e8e8; }
 
-div.rating-cancel, div.star-rating {
-  width: 17px;
-  height: 15px;
-  text-indent: -999em;
-  cursor: pointer;
-  display: inline-block;
-  background: transparent;
-  overflow: hidden; }
-
-div.rating-cancel {
-  float: right; }
-
-div.rating-cancel, div.rating-cancel a {
-  background: url(../images/star-rating-delete.gif) no-repeat 0 -16px; }
-
-div.star-rating, div.star-rating a {
-  background: url(../images/star-rating.gif) no-repeat 0 0px; }
-
-div.rating-cancel a, div.star-rating a {
-  display: block;
-  width: 16px;
-  height: 100%;
-  background-position: 0 0px;
-  border: 0; }
-
-div.star-rating-on a {
-  background-position: 0 -16px !important; }
-
-div.star-rating-hover a {
-  background-position: 0 -32px; }
-
-/* Read Only CSS */
-div.star-rating-readonly a {
-  cursor: default !important; }
-
-/* Partial Star CSS */
-div.star-rating {
-  background: transparent !important;
-  overflow: hidden !important; }
-
-/* END jQuery.Rating Plugin CSS */
-/* Help displayed as a modal dialog box */
-.help-box {
-  display: none; }
-  .help-box .box {
-    min-width: 14em;
-    float: left; }
-    .help-box .box p {
-      margin: 0.3em 0; }
-
-.help-q {
-  float: right;
-  cursor: pointer;
-  background-color: #d26400;
-  color: #fff;
-  display: block;
-  padding: 0 0.3em;
-  border-radius: 0.5em;
-  margin-left: 1em; }
-
 .post .separator, figure, .file-content figure {
   margin: 12px 0; }
   @media (min-width: 768px) {
@@ -2361,330 +2267,132 @@ figure {
     vertical-align: bottom;
     transition: transform 0.3s ease-in-out; }
 
-.sidebar__btn {
-  margin-top: 20px;
-  padding: 0;
-  border: 0;
-  font-size: 14px;
-  text-decoration: underline;
-  background-color: transparent;
-  color: #908d8c;
-  cursor: pointer;
-  transition: color 0.3s ease-in-out; }
-  .sidebar__btn:hover {
-    color: #d26400; }
-  .sidebar__btn:focus {
-    outline: 0; }
+.sidebar .regbox .ctoc + p,
+#right-column .regbox .ctoc + p {
+  color: #372f2d;
+  margin-top: 24px; }
 
-.sidebar ul {
-  margin: 0;
-  padding: 0;
+.sidebar .regbox .ctoc .len,
+#right-column .regbox .ctoc .len {
+  float: right;
+  color: #908d8c;
+  font-size: 0.8em;
+  transform: translateY(0.2em);
+  margin-right: -4em;
+  margin-right: calc(-4em / 0.8); }
+
+.sidebar .regbox .ctoc li,
+#right-column .regbox .ctoc li {
+  padding-right: 4em;
+  clear: right; }
+
+.sidebar .regbox.highlight .ctoc .len,
+#right-column .regbox.highlight .ctoc .len {
+  color: #ff9f01; }
+
+.sidebar .regbox li.plain,
+#right-column .regbox li.plain {
+  margin-left: -19.2px;
   list-style: none; }
 
-.sidebar__link, .sidebar .widget a {
-  display: block;
-  margin-bottom: 10px;
-  color: #908d8c;
-  text-decoration: none;
-  font-size: 14px;
-  letter-spacing: .6px;
-  line-height: 1.4;
-  transition: color .3s ease-in-out;
-  text-indent: 0; }
-  .sidebar__link:hover, .sidebar .widget a:hover {
-    color: #d26400; }
-
-.sidebar-social .social-link {
-  display: inline-block;
-  margin-right: 20px; }
-  .sidebar-social .social-link svg {
-    fill: #908d8c;
-    transition: color 0.3s ease-in-out;
-    width: 25px;
-    height: 20px; }
-  .sidebar-social .social-link:hover svg {
-    fill: #d26400; }
-
-.sidebar-subscribe::after {
-  clear: both;
-  content: "";
-  display: table; }
-
-.sidebar-subscribe .btn,
-.sidebar-subscribe .container.main .sidebar .btn,
-.container.main .sidebar .sidebar-subscribe .btn,
-.sidebar-subscribe .container.main .sidebar .jump-link a,
-.container.main .sidebar .jump-link .sidebar-subscribe a,
-.sidebar-subscribe .post #right-column .btn,
-.post #right-column .sidebar-subscribe .btn,
-.sidebar-subscribe .post #right-column .jump-link a,
-.post #right-column .jump-link .sidebar-subscribe a, .sidebar-subscribe .buyButton, .sidebar-subscribe .header_button,
-.sidebar-subscribe .container.main .sidebar .buyButton,
-.sidebar-subscribe .container.main .sidebar .header_button,
-.container.main .sidebar .sidebar-subscribe .buyButton,
-.container.main .sidebar .sidebar-subscribe .header_button,
-.sidebar-subscribe .post #right-column .buyButton,
-.sidebar-subscribe .post #right-column .header_button,
-.post #right-column .sidebar-subscribe .buyButton,
-.post #right-column .sidebar-subscribe .header_button, .sidebar-subscribe .teaserBox .buttons a, .teaserBox .buttons .sidebar-subscribe a,
-.sidebar-subscribe .container.main .sidebar .teaserBox .buttons a,
-.container.main .sidebar .teaserBox .buttons .sidebar-subscribe a,
-.sidebar-subscribe .teaserBox .buttons .container.main .sidebar a,
-.teaserBox .buttons .container.main .sidebar .sidebar-subscribe a,
-.sidebar-subscribe .post #right-column .teaserBox .buttons a,
-.post #right-column .teaserBox .buttons .sidebar-subscribe a,
-.sidebar-subscribe .teaserBox .buttons .post #right-column a,
-.teaserBox .buttons .post #right-column .sidebar-subscribe a, .sidebar-subscribe form.labeled .action-row input, form.labeled .action-row .sidebar-subscribe input, .sidebar-subscribe form.labeled .action-row button, form.labeled .action-row .sidebar-subscribe button, .sidebar-subscribe form.labeled .action-row a:not(.image), form.labeled .action-row .sidebar-subscribe a:not(.image),
-.sidebar-subscribe .container.main .sidebar form.labeled .action-row input,
-.container.main .sidebar form.labeled .action-row .sidebar-subscribe input,
-.sidebar-subscribe form.labeled .action-row .container.main .sidebar input,
-form.labeled .action-row .container.main .sidebar .sidebar-subscribe input,
-.sidebar-subscribe .container.main .sidebar form.labeled .action-row button,
-.container.main .sidebar form.labeled .action-row .sidebar-subscribe button,
-.sidebar-subscribe form.labeled .action-row .container.main .sidebar button,
-form.labeled .action-row .container.main .sidebar .sidebar-subscribe button,
-.sidebar-subscribe .post #right-column form.labeled .action-row input,
-.post #right-column form.labeled .action-row .sidebar-subscribe input,
-.sidebar-subscribe form.labeled .action-row .post #right-column input,
-form.labeled .action-row .post #right-column .sidebar-subscribe input,
-.sidebar-subscribe .post #right-column form.labeled .action-row button,
-.post #right-column form.labeled .action-row .sidebar-subscribe button,
-.sidebar-subscribe form.labeled .action-row .post #right-column button,
-form.labeled .action-row .post #right-column .sidebar-subscribe button,
-.sidebar-subscribe .post #right-column form.labeled .action-row a:not(.image),
-.post #right-column form.labeled .action-row .sidebar-subscribe a:not(.image),
-.sidebar-subscribe form.labeled .action-row .post #right-column a:not(.image),
-form.labeled .action-row .post #right-column .sidebar-subscribe a:not(.image) {
-  width: 75%; }
-
-.sidebar-popular li a, .PopularPosts li a {
-  display: block;
-  padding-left: 15px;
-  position: relative; }
-  .sidebar-popular li a::before, .PopularPosts li a::before {
-    content: '';
-    display: inline-block;
-    width: 10px;
-    height: 10px;
-    position: absolute;
-    top: 5px;
-    left: 0;
-    background: url("../images/icon_arrow_small_grey.svg") no-repeat center;
-    background-size: contain; }
-
-.sidebar-archive .dropdown, .BlogArchive .dropdown {
-  margin-top: 10px;
-  max-height: 0;
-  padding-left: 20px;
-  overflow: hidden; }
-  .sidebar-archive .dropdown.open, .BlogArchive .dropdown.open {
-    max-height: 2000px; }
-
-.sidebar-archive .open-dropdown, .BlogArchive .open-dropdown {
-  padding-left: 20px;
-  position: relative;
-  cursor: pointer; }
-  .sidebar-archive .open-dropdown::before, .BlogArchive .open-dropdown::before {
-    content: '►';
-    display: inline-block;
-    margin-right: 10px;
-    position: absolute;
-    top: 0;
-    left: 0;
-    transition: color .3s ease-in-out; }
-  .sidebar-archive .open-dropdown:hover, .BlogArchive .open-dropdown:hover {
-    color: #d26400; }
-    .sidebar-archive .open-dropdown:hover::before, .BlogArchive .open-dropdown:hover::before {
-      color: #d26400; }
-  .sidebar-archive .open-dropdown.open, .BlogArchive .open-dropdown.open {
-    color: #d26400; }
-    .sidebar-archive .open-dropdown.open::before, .BlogArchive .open-dropdown.open::before {
-      content: '▼';
-      color: #d26400; }
-
-.additional-list {
-  max-height: 0;
-  overflow: hidden; }
-  .additional-list.open {
-    max-height: 200em; }
-
-.sidebar-tags li {
-  margin-bottom: 6px; }
-
-.post__list {
-  margin: 0;
-  padding: 0;
-  list-style: none; }
-  .post__list.grid {
-    display: flex;
-    flex-wrap: wrap;
-    border-top: 1px solid #e8e8e8; }
-    .post__list.grid .post__item {
-      box-sizing: border-box; }
-      @media (min-width: 768px) {
-        .post__list.grid .post__item {
-          width: 50%; }
-          .post__list.grid .post__item:nth-of-type(2n + 1) {
-            padding-right: 30px; } }
-    .post__list.grid .post__read-more {
-      margin-top: 15px; }
-      @media (min-width: 768px) {
-        .post__list.grid .post__read-more {
-          margin-top: 30px; } }
-.post__item {
-  padding: 30px 0; }
-  .post__item:first-of-type {
-    padding-top: 0; }
-  .post__item:not(:last-of-type) {
-    border-bottom: 1px solid #e8e8e8; }
-
-.post__date {
-  margin: 0;
-  color: #908d8c; }
-  .post__date a {
-    color: inherit;
-    text-decoration: inherit; }
-
-.post__content {
-  margin: 15px 0;
-  color: #372f2d; }
-  @media (min-width: 768px) {
-    .post__content {
-      margin: 30px 0; } }
-  .post__content a {
+.post {
+  color: #372f2d;
+  /* Styling for RSS feeds - they have crazy markup */ }
+  .post a {
     color: #d26400;
-    text-decoration: none;
-    transition: color 0.3s ease-in-out; }
-    .post__content a:hover {
+    transition: color 0.3s;
+    text-decoration: none; }
+    .post a:hover {
       color: #ff9f01; }
-  .post__content ul {
-    list-style-type: disc; }
-  .post__content h4 {
-    font-size: 16px;
-    color: #372f2d;
-    text-transform: none; }
-    @media (min-width: 768px) {
-      .post__content h4 {
-        font-size: 20px; } }
-.post__read-more {
-  display: block;
-  text-decoration: none;
-  color: #d26400;
-  text-transform: uppercase;
-  transition: color 0.3s ease-in-out; }
-  @media (min-width: 768px) {
-    .post__read-more {
-      display: inline-block;
-      margin-right: 40px; } }
-  .post__read-more:hover {
-    color: #ff9f01; }
-    .post__read-more:hover .post__arrow-icon {
-      fill: #ff9f01; }
-
-.post__arrow-icon {
-  width: 24px;
-  height: 16px;
-  margin-left: 5px;
-  vertical-align: text-bottom;
-  fill: #d26400;
-  transition: fill 0.3s ease-in-out; }
-
-.post__comment-link {
-  display: block;
-  margin-top: 15px;
-  text-decoration: none;
-  text-transform: lowercase;
-  color: #d26400;
-  transition: color 0.3s ease-in-out; }
-  @media (min-width: 768px) {
-    .post__comment-link {
-      display: inline-block;
-      margin-top: 0; } }
-  .post__comment-link:hover {
-    color: #ff9f01; }
-    .post__comment-link:hover .post__comments-icon {
-      fill: #ff9f01; }
-
-.post__comment-add {
-  cursor: pointer; }
-
-.post__comments-icon {
-  display: inline-block;
-  margin-right: 5px;
-  width: 16px;
-  height: 16px;
-  vertical-align: text-bottom;
-  fill: #d26400;
-  transition: fill 0.3s ease-in-out; }
-
-.post__meta::after {
-  clear: both;
-  content: "";
-  display: table; }
-
-.post__meta audio {
-  width: 100%;
-  height: 2em;
-  margin-top: 1em;
-  margin-bottom: -0.5em; }
-  @media (min-width: 768px) {
-    .post__meta audio {
-      margin-bottom: -1em; } }
-.post__author {
-  float: left;
-  color: #908d8c; }
-
-.post__author-name {
-  color: #908d8c; }
-
-.post__share-links {
-  display: inline-block;
-  float: left;
-  clear: left;
-  margin-top: 25px; }
-  @media (min-width: 768px) {
-    .post__share-links {
-      clear: none;
+  .post .firstHeading,
+  .post h1:first-child,
+  .post h1.title,
+  .post div > h2:first-child,
+  .post div > h3:first-child,
+  .post div > a:first-child + h1,
+  .post div > a:first-child + h2,
+  .post div > a:first-child + h3 {
+    margin-top: 0; }
+  .post h1.title {
+    flex-basis: 100%; }
+  .post h2.subtitle {
+    margin-top: -0.5em; }
+  .post .grades,
+  .post #left-column > p {
+    margin-top: 0; }
+  .post .jump-link a {
+    margin-right: 12px; }
+  .post .buyButton:not(.secondary):not(.header_button), .post .header_button:not(.secondary):not(.header_button) {
+    color: #fff; }
+  .post .author {
+    padding-right: 160px;
+    clear: right;
+    margin-bottom: 2em; }
+    .post .author img {
       float: right;
-      margin-top: -16px; } }
-.post__share-link {
-  display: inline-block; }
-  .post__share-link:not(:last-of-type) {
-    margin-right: 20px; }
-  .post__share-link:hover .post__share-icon {
-    fill: #d26400; }
+      clear: right;
+      max-width: 160px;
+      max-height: 160px;
+      padding-bottom: 10px;
+      margin: 0 -160px 0 10px; }
+    .post .author::after {
+      content: "";
+      display: block;
+      clear: both; }
+  .post .nextPage {
+    margin: 2em 0; }
+    .post .nextPage:after {
+      content: "";
+      display: table;
+      clear: both; }
+    .post .nextPage p.jump-link {
+      margin: 0;
+      padding: 0;
+      float: right; }
+    .post .nextPage p {
+      margin: 0 2em;
+      padding: 5px 0;
+      float: right; }
+  .post .feed ul {
+    margin: 0; }
 
-.post__share-icon {
+.printfooter {
+  display: none; }
+
+/* PDF icon in workshop descriptions */
+#pdf {
+  float: right; }
+  #pdf a {
+    border-bottom: none; }
+    #pdf a img {
+      padding-left: 1em;
+      padding-bottom: 1em; }
+
+/* jump-box - a collection of jump-links */
+.jump-box {
+  float: right; }
+  .jump-box .jump-link {
+    clear: right;
+    float: right;
+    margin-bottom: 24px; }
+
+/* FAQ styling */
+#answers span.top {
+  font-size: 70%;
+  float: right; }
+
+#answers img.thumbborder {
+  border: 1px solid #52453c;
   display: inline-block;
-  width: 25px;
-  height: 20px;
-  fill: #908d8c;
-  transition: fill 0.3s ease-in-out; }
+  padding: 3px;
+  background-color: white; }
 
-.jump-link {
-  text-decoration: none;
-  color: #d26400;
-  text-transform: uppercase; }
-  .jump-link a {
-    display: inline-block;
-    transition: color 0.3s ease-in-out;
-    padding-right: 34px;
-    background: url(../images/icon_arrow_right.svg) right center no-repeat; }
+/* Mediawiki styles */
+.floatright {
+  float: right; }
 
-.back-btn {
-  display: inline-block;
-  margin: 30px 0;
-  color: #908d8c;
-  text-decoration: none; }
-  .back-btn:hover .back-btn__icon {
-    transform: translateX(-5px); }
-  .back-btn__icon {
-    width: 23px;
-    height: 26px;
-    margin-right: 10px;
-    display: inline-block;
-    vertical-align: bottom;
-    transition: transform 0.3s ease-in-out; }
+.visualClear {
+  clear: both; }
 
 .post {
   color: #372f2d; }
@@ -2840,3 +2548,96 @@ form.labeled .action-row .post #right-column .sidebar-subscribe a:not(.image) {
     background-color: #52453c;
     color: #fff;
     border: 2px inset; }
+
+@media (min-width: 768px) {
+  .flower__gallery {
+    display: flex;
+    flex-wrap: wrap; } }
+
+.flower__item {
+  text-align: center;
+  padding-right: 1em;
+  margin-top: auto;
+  margin-bottom: auto; }
+  @media (min-width: 768px) {
+    .flower__item {
+      width: calc(25% - 1em); } }
+  @media (min-width: 1025px) {
+    .flower__item {
+      width: calc(20% - 1em); } }
+  .flower__item img {
+    display: block;
+    max-width: 100%;
+    margin: auto; }
+    @media (min-width: 768px) {
+      .flower__item img {
+        max-height: calc(25vw - 1em); } }
+    @media (min-width: 1025px) {
+      .flower__item img {
+        max-height: calc(20vw - 1em); } }
+@media (min-width: 768px) {
+  .flower__name {
+    height: 4em;
+    margin: auto;
+    display: block; } }
+
+@media (min-width: 768px) {
+  .flower__lead {
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 1em; } }
+
+@media (min-width: 768px) {
+  .flower__data dt {
+    width: 12em !important; } }
+
+.flower__meta .post__share-links {
+  margin-top: 1em; }
+
+@media (min-width: 768px) {
+  section.post.blurb {
+    display: flex; } }
+
+section.post.blurb img {
+  max-width: 100%;
+  margin-bottom: 12px; }
+  @media (min-width: 768px) {
+    section.post.blurb img {
+      max-width: 25%;
+      order: 99;
+      margin-bottom: 24px; } }
+section.post.blurb article {
+  margin-top: 0; }
+  @media (min-width: 768px) {
+    section.post.blurb article {
+      margin-right: 12px; } }
+  @media (min-width: 1025px) {
+    section.post.blurb article {
+      margin-right: 24px; } }
+  section.post.blurb article h3, section.post.blurb article h2 {
+    margin-top: 0; }
+
+@media (min-width: 768px) {
+  #left-column dl {
+    display: flex;
+    flex-flow: row wrap; }
+  #left-column dt {
+    width: 12em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    color: #d26400; }
+    #left-column dt:not(:first-of-type) {
+      margin-top: 0.0em; }
+  #left-column dd {
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    width: calc(100% - 13em);
+    padding-left: 0; }
+    #left-column dd:not(:first-of-type) {
+      margin-top: 0.0em; } }
+
+.translation__flag {
+  float: right; }
+
+.post__header {
+  width: 100%; }

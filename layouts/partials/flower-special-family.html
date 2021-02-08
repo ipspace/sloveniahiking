@@ -1,0 +1,13 @@
+{{ range .Site.Taxonomies.family }}
+  {{ $family := .Page.Title }}
+  <h3>{{ i18n "familynamelatin" .Page }}</h3>
+  {{ $pages := where $.Site.Pages "Params.family" $family }}
+  <ul>
+  {{ range $pages.ByTitle }}
+    <li><a href="{{ .Permalink }}">
+      {{ .Params.Title }}
+      {{ if ne .Params.latin .Title }}({{ .Params.latin}}){{ end }}
+    </a></li>
+  {{ end }}
+  </ul>
+{{ end }}

@@ -1,0 +1,8 @@
+{{ if .Params.f_start }}
+  <dt>Cveti</dt>
+  {{ if ne .Params.f_start .Params.f_end }}
+    <dd>Od {{ index .Site.Params.month2 .Params.f_start }} do {{ index .Site.Params.month2 .Params.f_end }}</dd>
+  {{ else }}
+    <dd>V {{ index .Site.Params.month5 .Params.f_start }}</dd>
+  {{ end }}
+{{ end }}

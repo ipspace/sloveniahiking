@@ -1,0 +1,8 @@
+<section class='flower__gallery'>
+{{ $pages := where (where $.Site.Pages "Section" "flowers") "Kind" "page" }}
+{{ range $pages }}
+  {{ if .Params.lead }}
+  {{ partial "flower-item.html" . }}
+  {{ end }}
+{{ end }}
+</section>

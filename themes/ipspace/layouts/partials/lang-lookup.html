@@ -1,0 +1,5 @@
+{{ if eq .lang "sl" }}
+  {{ index .map .value|humanize }} ({{ .value }})
+{{ else }}
+  {{ .value }}
+{{ end }}

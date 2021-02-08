@@ -1,0 +1,8 @@
+{{ if .Params.f_start }}
+  <dt>Flowering period</dt>
+  {{ if ne .Params.f_start .Params.f_end }}
+    <dd>{{ index .Site.Params.month2 .Params.f_start }} &ndash; {{ index .Site.Params.month2 .Params.f_end }}</dd>
+  {{ else }}
+    <dd>{{ index .Site.Params.month2 .Params.f_start }}</dd>
+  {{ end }}
+{{ end }}

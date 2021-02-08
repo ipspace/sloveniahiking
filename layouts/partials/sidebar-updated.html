@@ -1,16 +1,14 @@
-{{ $pages := where (where (where .Site.Pages "Section" .Type) "Kind" "page") "Lastmod" "ge" (now.AddDate 0 -1 0) }}
+{{ $pages := where (where .Site.Pages "Section" .Type) "Kind" "page" }}
 {{ $cnt := newScratch }}
 {{ $cnt.Set "UpdatedCount" 0 }}
-{{ range $pages }}
-  {{ if ne .PublishDate .Lastmod }}
-    {{ if eq ($cnt.Get "UpdatedCount") 0 }}
-<div class="widget PopularPosts">
-  <h3 class="sidebar__title">Recently updated</h3>
+{{ range first 10 $pages.ByDate.Reverse }}
+  {{ if eq ($cnt.Get "UpdatedCount") 0 }}
+<div class="regbox decorated">
+  <h3 class="sidebar__title">{{ i18n "recentupdates" . }}</h3>
   <ul>
-    {{ end }}
-    <li><a href='{{ .Permalink }}'>{{ .Title }}</a></li>
-    {{ $cnt.Add "UpdatedCount" 1 }}
   {{ end }}
+  <li><a href='{{ .Permalink }}'>{{ .Title }}</a></li>
+  {{ $cnt.Add "UpdatedCount" 1 }}
 {{ end }}
 {{ if ne ($cnt.Get "UpdatedCount") 0 }}
   </ul>

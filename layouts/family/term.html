@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+{{ partial "multi-title.html" ( dict "title" (i18n "familytitle" . ) "page" . ) }}
+<article id="left-column">
+  <div class="post__content">
+    <p>{{ i18n "familylist" . | safeHTML }}</p>
+    <section class='flower__gallery'>
+    {{ range (sort .Pages "Title") }}
+      {{ partial "flower-item.html" . }}
+    {{ end }}
+    </section>
+  </div>
+</article>
+{{ partial "flower-sidebar.html" . }}
+{{ partial "footer.html" . }}

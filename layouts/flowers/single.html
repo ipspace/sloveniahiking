@@ -1,0 +1,59 @@
+{{ partial "header.html" . }}
+{{ $title := dict "title" (printf "%s (%s)" .Title .Params.latin) "page" . }}
+{{ partial "multi-title.html" $title }}
+<article id="left-column">
+  {{ if .Params.lead }}
+    <span class="flower__item flower__lead">
+    {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}">{{ end }}
+    </span>
+  {{ end }}
+  <dl class="flower__data">
+    {{ $family := $.Site.Data.botany.family }}
+    {{ $genus  := $.Site.Data.botany.genus }}
+    {{ $lang   := .Lang }}
+    {{ with .Params.family }}
+      <dt>{{ i18n "flowerfamily" }}</dt>
+      <dd>
+        {{ $plink := ($.Site.GetPage (printf "/family/%s" .)).Permalink }}
+        <a href="{{ $plink }}">{{ partial "lang-lookup" (dict "value" . "map" $family "lang" $lang) }}</a>
+      </dd>
+    {{ end }}
+    {{ with .Params.order }}
+      <dt>{{ i18n "flowergenus" }}</dt>
+      <dd>
+        {{ $plink := ($.Site.GetPage (printf "/order/%s" .)).Permalink }}
+        <a href="{{ $plink }}">{{ partial "lang-lookup" (dict "value" . "map" $genus "lang" $lang) }}</a>
+      </dd>
+    {{ end }}
+    {{ partial (printf "flower-period-%s" .Lang) . }}
+  </dl>
+  {{ .Content }}
+  {{ if gt (len .Params.image) 1 }}
+    <h3>{{ i18n "MorePhotos" }} </h3>
+    <section class='flower__gallery'>
+      {{ $me := . }}
+      {{ $lead := .Params.lead }}
+      {{ range .Params.image }}
+        {{ if ne . $lead }}
+          {{ $img := . }}
+          {{ with $me }}
+            <div class='flower__item'>
+              {{ with .Resources.GetMatch $img }}<img src="{{ .Permalink }}">{{ end }}
+            </div>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </section>
+  {{ end }}
+  <div style='clear: both;'></div>
+  <!-- comments -->
+  <div class='post__meta flower__meta'>
+    {{ partial "post-share.html" . }}
+    {{ with .Params.media }}
+      <audio src="{{ . }}" controls="controls" preload="none"></audio>
+    {{ end }}
+    {{ partial "post-tags.html" . }}
+  </div>
+</article>
+{{ partial "flower-sidebar.html" . }}
+{{ partial "footer.html" . }}

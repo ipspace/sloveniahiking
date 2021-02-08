@@ -1,0 +1,15 @@
+<header class='post__header'>
+  {{ if (reflect.IsMap . )}}
+  <h1 class='post__title firstHeading'>
+    {{ $flags := .page.Site.Data.flags }}
+    {{ range .page.Translations }}
+      <span class="translation__flag">
+        <a href="{{.Permalink}}">{{ index $flags .Lang }}</a>
+      </span>
+    {{ end }}
+    {{ .title }}
+  </h1>
+  {{ else }}
+  <h1 class='post__title firstHeading'>{{ . }}</h1>
+  {{ end }}
+</header>

@@ -1,0 +1,11 @@
+<ul>
+{{ $pages := where (where $.Site.Pages "Section" "flowers") "Kind" "page" }}
+{{ range (sort $pages "Params.latin") }}
+  {{ if .Params.lead }}
+  <li><a href="{{ .Permalink }}">
+    {{ .Params.latin }}
+    {{ if ne .Params.latin .Title }}({{ .Title}}){{ end }}
+  </a></li>
+  {{ end }}
+{{ end }}
+</section>

@@ -1,26 +1,76 @@
 ---
 baseURL: https://blog.ipspace.net/
-languageCode: en-us
-title: ipSpace.net blog
 theme: ipspace
-summarylength: 3000
-uglyurls: true
+summarylength: 1000
+#uglyurls: true
 paginate: 15
 enableGitInfo: true
+defaultContentLanguage: sl
 
 author:
   name: Ivan Pepelnjak
 
+languages:
+  sl:
+    title: Po Sloveniji
+    flag: SLO
+    weight: 1
+    month2:
+      1: januarja
+      2: februarja
+      3: marca
+      4: aprila
+      5: maja
+      6: junija
+      7: julija
+      8: avgusta
+      9: septembra
+      10: oktobra
+      11: novembra
+      12: decembra
+    month5:
+      1: januarju
+      2: februarju
+      3: marcu
+      4: aprilu
+      5: maju
+      6: juniju
+      7: juliju
+      8: avgustu
+      9: septembru
+      10: oktobru
+      11: novembru
+      12: decembru
+  en:
+    title: Outdoors Slovenia
+    weight: 2
+    flag: ENG
+    month2:
+      1: January
+      2: February
+      3: March
+      4: April
+      5: May
+      6: June
+      7: July
+      8: August
+      9: September
+      10: October
+      11: November
+      12: December
+
 permalinks:
   hikes: "/hikes/:filename"
-  posts: "/:year/:month/:filename"
-  draft: "/draft/:filename"
-  archm: "/:year/:month/index"
-  archy: "/:year/index"
+  izleti: "/izleti/:filename"
+  flowers: ":sections/:filename/:title"
   tags: "/tag/:title"
+  family: "/flowers/family/:title"
+  order: "/flowers/genus/:title"
 
 taxonomies:
   tag: tags
+  family: family
+  genus: order
 
 services:
   rss:

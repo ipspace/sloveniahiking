@@ -1,0 +1,21 @@
+{{ $pgs := newScratch }}
+{{ $pages := where .Site.Pages "Params.order" .Params.order }}
+{{ $pgs.Set "pages" $pages }}
+{{ if lt (len $pages) 3 }}
+  {{ $pages := where .Site.Pages "Params.family" .Params.family }}
+  {{ $pgs.Set "pages" $pages }}
+{{ end }}
+{{ $pages := $pgs.Get "pages" }}
+{{ $title := .Title }}
+{{ if gt (len $pages) 1 }}
+<div class="regbox decorated">
+  <h3 class="sidebar__title">{{ i18n "flowersimilar" . }}</h3>
+  <ul>
+  {{ range first 10 $pages }}
+    {{ if ne .Title $title }}
+      <li><a href='{{ .Permalink }}'>{{ .Title }}</a></li>
+    {{ end }}
+  {{ end }}
+  </ul>
+</div>
+{{ end }}

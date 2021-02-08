@@ -41,5 +41,5 @@ def fetch_images(url_pattern=None,target_dir=None,image_list=[]):
       url = url_pattern % src
       print("Fetching %s into %s" % (url,dst))
       subprocess.run( \
-        "curl -s %s --output %s" % (url,dst), \
+        "curl -s '%s' --output %s" % (url,dst), \
       shell=True, check=True)
