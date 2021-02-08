@@ -2,7 +2,7 @@ image: monachus/hugo
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
-  HUGO_BASEURL: https://blog.ipspace.net
+  HUGO_BASEURL: https://ipspace.gitlab.io/slovenia-hiking
   TZ: Europe/Berlin
 
 pages:
@@ -13,4 +13,4 @@ pages:
     paths:
     - public
   only:
-  - publish
+  - master
