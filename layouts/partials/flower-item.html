@@ -1,6 +1,8 @@
 <div class='flower__item'>
   <a href="{{ .Permalink }}">
-  {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}">{{ end }}
+  {{ if .Params.lead }}
+    {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}">{{ end }}
+  {{ end }}
   <span class='flower__name'>{{ .Title }}{{ if .Draft }} (draft){{ end }}</span>
   </a>
 </div>
