@@ -10,7 +10,7 @@ image:
 - M_3-2344_IMG.JPG
 - M_3-2346_IMG.JPG
 latin: Galium verum
-lead: M_3-2345_IMG.JPG
+lead: M_3-2344_IMG.JPG
 lead_sample: false
 name: index.en
 order: Galium

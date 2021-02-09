@@ -1,0 +1,21 @@
+---
+color: W
+date: '2004-09-05T00:00:00'
+f_end: '7'
+f_start: '5'
+family: Convallariaceae
+flower_type: B
+image:
+- M_4_1433.JPG
+- M_4_1431.JPG
+latin: Polygonatum verticillatum
+lead: M_4_1431.JPG
+lead_sample: false
+name: index.en
+order: Polygonatum
+parallel: false
+petals: '6'
+petals_joined: false
+star_shape: false
+title: Whorled Solomon's seal
+---

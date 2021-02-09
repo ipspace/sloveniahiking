@@ -18,9 +18,5 @@ parallel: false
 petals: '5'
 petals_joined: false
 star_shape: false
-title: 'Chimney Bellflower
-
-  Chimney
-
-  Chimney Bellfower'
+title: Chimney Bellflower
 ---
