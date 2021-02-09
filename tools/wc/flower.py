@@ -10,6 +10,12 @@ import re
 import string
 import html
 
+def capitalizeURL(t):
+  return string.capwords(t).replace(' ','')
+
+def flowerFilePath(flower_row,config):
+  return config['FlowersPath'] % (flower_row['BotanyFamily'],capitalizeURL(flower_row['LatinName']))
+
 def extract_text(html,figure=True):
   text = ""
   for d in html.find_all('div',id='content'):
@@ -90,11 +96,8 @@ def augment_flower_data(f,fd,topURL):
 
   return
 
-def capitalizeURL(t):
-  return string.capwords(t).replace(' ','')
-
 def fetch_flower(flower_row,config):
-  path = config['FlowersPath'] % (flower_row['BotanyFamily'],capitalizeURL(flower_row['LatinName']))
+  path = flowerFilePath(flower_row,config)
   topURL = config['FlowersTopURL']
   imagePath = topURL+os.path.dirname(flower_row['LeadImage'])+'/%s'
 
