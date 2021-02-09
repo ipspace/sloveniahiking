@@ -42,6 +42,8 @@ def extract_text(html,figure=True):
           continue
         if str(element).find('Več informacij') >= 0:
           break
+        if str(element).find('Dodatne informacije') >= 0:
+          break
       text = text + str(element)
   return cm.cleanup.whitespace(text)
 
