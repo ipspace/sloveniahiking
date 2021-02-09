@@ -1,9 +1,9 @@
 {{ if .Params.map }}
   <h3>Map of the route</h3>
   <div style="position: relative;">
-    <img src="/images/hikes/{{ .Params.name }}/{{ with .Params.map_path }}{{.}}{{ end }}mapgps.jpg">
+    <img src="{{ with .Params.map_path }}{{.}}{{ end }}mapgps.jpg">
     <span id="path" style="position: absolute; left: 0; top: 0; margin:0">
-      <img src="/images/hikes/{{ .Params.name }}/{{ with .Params.map_path }}{{.}}{{ end }}path_1.gif">
+      <img src="{{ with .Params.map_path }}{{.}}{{ end }}path_1.gif">
     </span>
   </div>
   <p class='note'>
@@ -12,7 +12,7 @@
   </p>
   {{ if or .Params.alt (in .Params.image "alt.gif") }}
     <h3>Altitude profile</h3>
-    <img src="/images/hikes/{{ .Params.name }}/{{ with .Params.map_path }}{{.}}{{ end }}alt.gif">
+    <img src="{{ with .Params.map_path }}{{.}}{{ end }}alt.gif">
     <p class='note'>
       The altitude recorded by a GPS receiver is even less reliable than the position, and might
       differ significantly from the height above sea-level as shown on maps.

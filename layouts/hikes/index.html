@@ -1,4 +1,5 @@
 {{ partial "header.html" . }}
+INDEX
 {{ $pag := .Paginate .Pages }}
 {{ range $pag.Pages }}
   {{ partial "post-blurb.html" . }}

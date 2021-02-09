@@ -2595,26 +2595,26 @@ figure {
   margin-top: 1em; }
 
 @media (min-width: 768px) {
-  section.post.blurb {
+  .hike__blurb {
     display: flex; } }
 
-section.post.blurb img {
+.hike__blurb img {
   max-width: 100%;
   margin-bottom: 12px; }
   @media (min-width: 768px) {
-    section.post.blurb img {
+    .hike__blurb img {
       max-width: 25%;
       order: 99;
       margin-bottom: 24px; } }
-section.post.blurb article {
+.hike__blurb article {
   margin-top: 0; }
   @media (min-width: 768px) {
-    section.post.blurb article {
+    .hike__blurb article {
       margin-right: 12px; } }
   @media (min-width: 1025px) {
-    section.post.blurb article {
+    .hike__blurb article {
       margin-right: 24px; } }
-  section.post.blurb article h3, section.post.blurb article h2 {
+  .hike__blurb article h3, .hike__blurb article h2 {
     margin-top: 0; }
 
 @media (min-width: 768px) {

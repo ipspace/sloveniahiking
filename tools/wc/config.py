@@ -3,7 +3,7 @@
 #
 config = {
   'ExTargetPath': "../xfer/ExTarget.xml",
-  'ExFilePath': "../content/izleti",
+  'ExFilePath': "../content/hikes",
   'ExFilePathEn': "../content/hikes",
   'ExImagePath': "../static/images/hikes/%s",
   'UrlImagePath': "/images/hikes/%s",

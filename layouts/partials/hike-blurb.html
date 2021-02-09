@@ -1,13 +1,13 @@
-<section class='post blurb'>
+<section class='hike__blurb'>
   {{ if .Params.lead }}
-    <img src="/images/hikes/{{ .Params.name }}/{{ .Params.lead }}" alt="{{ .Title }}">
+    <img src="{{ $.Site.BaseURL }}images/hikes/{{ .Params.name }}/{{ .Params.lead }}" alt="{{ .Title }}">
   {{ end }}
   <article class='post__content'>
     <h3 class='post__title' itemprop='name headline'>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
       {{ if .Draft }}(draft)
       {{ else }}
-        {{ with .Params.height }}({{ . }} m){{ end }}
+        {{ with .Params.height }}({{ . }}&nbsp;m){{ end }}
       {{ end }}
     </h3>
     {{ with .Params.description }}
@@ -15,12 +15,3 @@
     {{ end }}
   </article>
 </section>
-<!--
-    <div class='post__meta'>
-      {{ partial "post-share.html" . }}
-      {{ with .Params.media }}
-        <audio src="{{ . }}" controls="controls" preload="none"></audio>
-      {{ end }}
-      {{ partial "post-tags.html" . }}
-    </div>
--->
