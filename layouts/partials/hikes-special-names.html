@@ -1,0 +1,21 @@
+<ul>
+{{ $pages := where (where $.Site.Pages "Section" "hikes") "Kind" "page" }}
+<table class='fmtTable'>
+  <tr>
+    <th>Izlet</th>
+    <th class='right'>Višina</th>
+    <th class='right'>Trajanje</th>
+    <th class='right'>Višinska<br />razlika</th>
+  </tr>
+{{ range $pages.ByTitle }}
+  {{ if .Params.duration }}
+    <tr>
+      <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+      <td class='right'>{{ .Params.height }} m</td>
+      <td class='right'>{{ .Params.duration }} h</td>
+      <td class='right'>{{ .Params.delta }} m</td>
+    </tr>
+  {{ end }}
+{{ end }}
+</table>
+</ul>
