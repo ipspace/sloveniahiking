@@ -1,6 +1,6 @@
 ---
 color: W
-date: '2003-04-13T00:00:00'
+date: 2003-04-13 00:00:00+00:00
 f_end: '6'
 f_start: '5'
 family: Convallariaceae
@@ -11,7 +11,6 @@ image:
 latin: Polygonatum multiflorum
 lead: M_8-0850_IMG.jpg
 lead_sample: false
-name: index
 order: Polygonatum
 parallel: false
 petals: '6'
@@ -19,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Mnogocvetni Salomonov pečat
 ---
-Mnogocvetni Salomonov pečat cveti od konca aprila do junija v slovenskih gozdovih. Od ostalih [Salomonovih pečatov](../Polygonatum(salomonov_pecat)/Salomonov_pecat.asp) ga boste zlahka ločili -- pod vsakim stebelnim listom visi socvetje dveh do petih cvetov.
+Mnogocvetni Salomonov pečat cveti od konca aprila do junija v slovenskih gozdovih. Od ostalih [Salomonovih pečatov](../../genus/polygonatum/) ga boste zlahka ločili -- pod vsakim stebelnim listom visi socvetje dveh do petih cvetov.

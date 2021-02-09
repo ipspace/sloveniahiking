@@ -1,6 +1,6 @@
 ---
 color: W
-date: '2003-09-14T00:00:00'
+date: 2003-09-14 00:00:00+00:00
 f_end: '8'
 f_start: '7'
 family: Lamiaceae
@@ -11,7 +11,6 @@ image:
 latin: Satureja montana
 lead: M_0-7002_IMG.JPG
 lead_sample: false
-name: index
 order: Satureja
 parallel: false
 petals: '5'
@@ -19,10 +18,10 @@ petals_joined: false
 star_shape: false
 title: Kraški šetraj
 ---
-Kraški šetraj je polgrmiček, ki konec poletja cveti na kamnitih pobočjih in v skalovju, predvsem na Primorskem. Oblika cveta ga nedvomno uvršča med [ustnatice](../l_lamiaceae.htm), od drugih ustnatic pa naj bi šetraje ločili takole:
+Kraški šetraj je polgrmiček, ki konec poletja cveti na kamnitih pobočjih in v skalovju, predvsem na Primorskem. Oblika cveta ga nedvomno uvršča med [ustnatice](../../family/lamiaceae/), od drugih ustnatic pa naj bi šetraje ločili takole:
 
 -   Cvetovi so dvoustnati, zgornja venčna ustna je precej ravna.
--   Cvetna čaša ni izrazito dvoustnata, ima pet zobcev in deset žil (kar jih loči od [šetrajnika](../AcinosAlpinus(AlpskiSetrajnik)/si_AcinosAlpinus(AlpskiSetrajnik).asp)).
+-   Cvetna čaša ni izrazito dvoustnata, ima pet zobcev in deset žil (kar jih loči od [šetrajnika](../../acinosalpinus/alpski-šetrajnik/)).
 -   Cvet ima štiri prašnike, ki štrlijo iz venčne cevi. Prašniki so nagnjeni eden proti drugemu.
 
 Ker je pri majcenih cvetovih šetraja precej težko oceniti nagib prašnikov, preverite raje še obliko listov -- ti so celi, celorobi.

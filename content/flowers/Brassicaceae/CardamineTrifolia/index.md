@@ -1,6 +1,6 @@
 ---
 color: W
-date: '2005-02-20T00:00:00'
+date: 2005-02-20 00:00:00+00:00
 f_end: '6'
 f_start: '4'
 family: Brassicaceae
@@ -11,7 +11,6 @@ image:
 latin: Cardamine trifolia
 lead: M_3_1340.JPG
 lead_sample: false
-name: index
 order: Cardamine
 parallel: false
 petals: '4'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Trilistna penuša
 ---
-Trilistna penuša cveti od aprila do junija v senčnih bukovih gozdovih po vsej Sloveniji. Cvetovi s štirimi venčnimi listi, štirimi čašnimi listi in šestimi prašniki jo nedvomno uvrščajo med [križnice](../l_brassicaceae.htm), od njenih sorodnic pa jo boste ločili po teh lastnostih:
+Trilistna penuša cveti od aprila do junija v senčnih bukovih gozdovih po vsej Sloveniji. Cvetovi s štirimi venčnimi listi, štirimi čašnimi listi in šestimi prašniki jo nedvomno uvrščajo med [križnice](../../family/brassicaceae/), od njenih sorodnic pa jo boste ločili po teh lastnostih:
 
 -   Cvetni venec je bel.
 -   Plodovi so luski, daljši od centimetra.

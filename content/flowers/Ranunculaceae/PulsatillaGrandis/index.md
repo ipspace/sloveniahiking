@@ -1,7 +1,7 @@
 ---
 author: Anton_Poler
 color: B
-date: '2004-01-25T00:00:00'
+date: 2004-01-25 00:00:00+00:00
 f_end: '5'
 f_start: '3'
 family: Ranunculaceae
@@ -13,7 +13,6 @@ image:
 latin: Pulsatilla grandis
 lead: M_001.JPG
 lead_sample: false
-name: index
 order: Pulsatilla
 parallel: false
 petals: '6'
@@ -23,4 +22,4 @@ title: Velikonočnica
 ---
 V marcu in aprilu zacveti na pobočjih Boča in v okolici Ponikve nežna rožica, v celoti porasla z gostimi dolgimi dlakami, ki jo varujejo pred zmrzaljo. Ker jo navadno opazimo v bližini velike noči, so jo ljudje poimenovali velikonočnica.
 
-Velikonočnico že ob prvem pogledu na cvet z nadraslimi plodnicami, množico prašnikov in brez čašnih listov uvrstimo med zlatičevke, med njimi pa so le kosmatinci tako dlakavi. Tudi ločevanje od [drugih kosmatincev](../l_pulsatilla.htm) bo preprosto -- velikonočnica je edini kosmatinec, ki ima pokončen modrovijoličen cvet.
+Velikonočnico že ob prvem pogledu na cvet z nadraslimi plodnicami, množico prašnikov in brez čašnih listov uvrstimo med zlatičevke, med njimi pa so le kosmatinci tako dlakavi. Tudi ločevanje od [drugih kosmatincev](../../genus/pulsatilla/) bo preprosto -- velikonočnica je edini kosmatinec, ki ima pokončen modrovijoličen cvet.

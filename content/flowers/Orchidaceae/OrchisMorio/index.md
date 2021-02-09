@@ -24,13 +24,4 @@ title: Navadna kukavica
 ---
 Navadna kukavica je majhna (do 30 cm) rastlina z izrazitim, hitro opaznim vijoličastim steblom, na katerem so nekoliko redkeje nanizani majhni cvetovi.
 
-![](http://www.zaplana.net/flowers/wildorchids/OrchisMorio/%s/M_7-0728_IMG.jpg)![](http://www.zaplana.net/flowers/wildorchids/OrchisMorio/%s/M_7-0729_IMG.jpg)![](http://www.zaplana.net/flowers/wildorchids/OrchisMorio/%s/M_7-0793_IMG.jpg)
-
 Cvetovi so, podobno kot steblo, vijoličaste barve in v primerjavi z drugimi kukavicami precej preproste oblike.
-
-![](http://www.zaplana.net/flowers/wildorchids/OrchisMorio/%s/M_7-0795_IMG.jpg)![](http://www.zaplana.net/flowers/wildorchids/OrchisMorio/%s/M_7-0796_IMG.jpg)![](http://www.zaplana.net/flowers/wildorchids/OrchisMorio/%s/M_7-0732_IMG.jpg)
-
-Dodatne informacije:
-
--   Dodatne slike iz galerije slovenskih orhidej
--   Išči z Googlom

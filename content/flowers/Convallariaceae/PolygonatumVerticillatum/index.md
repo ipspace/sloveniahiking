@@ -1,6 +1,6 @@
 ---
 color: W
-date: '2004-09-05T00:00:00'
+date: 2004-09-05 00:00:00+00:00
 f_end: '7'
 f_start: '5'
 family: Convallariaceae
@@ -11,7 +11,6 @@ image:
 latin: Polygonatum verticillatum
 lead: M_4_1431.JPG
 lead_sample: false
-name: index
 order: Polygonatum
 parallel: false
 petals: '6'
@@ -21,7 +20,7 @@ title: Vretenčasti Salomonov pečat
 ---
 Vretenčasti Salomonov pečat je v Sloveniji precej redek, saj raste le na više ležečih gozdnatih neapnenčastih tleh (našli ga boste na Črnem vrhu nad Cerknim). Prepoznali ga boste že na prvi pogled:
 
--   Cvetovi ga nedvomno uvrščajo med [Salomonove pečate](../Polygonatum(salomonov_pecat)/Salomonov_pecat.asp).
+-   Cvetovi ga nedvomno uvrščajo med [Salomonove pečate](../../genus/polygonatum/).
 -   Steblo je pokončno (pri drugih Salomonovih pečatih bolj poleglo).
 -   Listi rastejo v vretencih (drugi Salomonovi pečati imajo premenjalne liste).
 -   Cvetovi so zbrani v socvetja ob listnih vretencih (glej desno fotografijo).

@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2005-06-05T00:00:00'
+date: 2005-06-05 00:00:00+00:00
 f_end: '6'
 f_start: '5'
 family: Fabaceae
@@ -11,7 +11,6 @@ image:
 latin: Anthyllis jacquinii
 lead: M_5_2514.JPG
 lead_sample: false
-name: index
 order: Anthyllis
 parallel: false
 petals: '5'
@@ -21,7 +20,7 @@ title: Jacquinov ranjak
 ---
 Rdečkaste cvetove Jacquinovega ranjaka boste v maju in juniju našli na suhih kraških travnikih (fotografiji sta izpod Kojnika). Hiter pogled na socvetje vas bo morda zavedel, da boste to rožico uvrstili med grabljišča, podroben pogled na posamezne cvetove v socvetju pa bo hitro povedal, da je nekaj narobe. Cvetovi so somerni, venčni listi niso zrasli; ko vas oblika cveta začne spominjati na deteljo, in pomislite na metuljnice, pa niste več daleč od rešitve. Ranjaki so namreč edine metuljnice, ki imajo pernate liste z lihim številom lističev in večjim zadnjim lističem.
 
-Jacquinov in [pravi ranjak](../AnthyllisVulneraria(Ranjak)/si_Ranjak.asp) se ločita že na prvi pogled, če ste v dvomih, pa preverite še te znake:
+Jacquinov in [pravi ranjak](../../anthyllisvulneraria/ranjak/) se ločita že na prvi pogled, če ste v dvomih, pa preverite še te znake:
 
 -   Listi Jacquinovega ranjaka so sestavljeni iz ozkih, do 1 cm dolgih prileglodlakavih lističev. Lističi pravega ranjaka so večji in največkrat goli.
 -   Venec cvetov pravega ranjaka je rumen, cvetovi Jacquinovega ranjaka pa so bledo- ali mesnordeči.

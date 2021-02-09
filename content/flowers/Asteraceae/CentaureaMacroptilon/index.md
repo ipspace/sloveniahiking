@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2002-11-26T00:00:00'
+date: 2002-11-26 00:00:00+00:00
 f_end: '8'
 f_start: '6'
 family: Asteraceae
@@ -13,13 +13,12 @@ image:
 latin: Centaurea macroptilon
 lead: M_5-2535_IMG.JPG
 lead_sample: false
-name: index
 order: Centaurea
 parallel: false
 petals_joined: false
 star_shape: false
 title: Travniški glavinec
 ---
-Travniški glavinec je po obliki rastline, listov in cvetov zelo podoben [navadnemu glavincu](../CentaureaJacea(NavadniGlavinec)/si_CentaureaJacea(NavadniGlavinec).asp) (nekateri ga z latinskim imenom Centaurea jacea macroptilon opredeljujejo kot podvrsto navadnega glavinca), od njega pa ga zlahka ločimo po obliki priveskov na ovojkovih listih.
+Travniški glavinec je po obliki rastline, listov in cvetov zelo podoben [navadnemu glavincu](../../centaureajacea/navadni-glavinec/) (nekateri ga z latinskim imenom Centaurea jacea macroptilon opredeljujejo kot podvrsto navadnega glavinca), od njega pa ga zlahka ločimo po obliki priveskov na ovojkovih listih.
 
-Priveski so češljati, precej dolgi -- bistveno daljši kot pri [kranjskem glavincu](../CentaureaCarniola(KranjskiGlavinec)/si_CentaureaCarniola(KranjskiGlavinec).asp), zavihani navzven in se ne iztezajo po ovojkovih listih (glej slike spodaj).
+Priveski so češljati, precej dolgi -- bistveno daljši kot pri [kranjskem glavincu](../../centaureacarniolica/kranjski-glavinec/), zavihani navzven in se ne iztezajo po ovojkovih listih (glej slike spodaj).

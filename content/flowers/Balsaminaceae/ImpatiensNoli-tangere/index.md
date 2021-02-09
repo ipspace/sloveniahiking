@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2003-08-17T00:00:00'
+date: 2003-08-17 00:00:00+00:00
 f_end: '8'
 f_start: '7'
 family: Balsaminaceae
@@ -13,7 +13,6 @@ image:
 latin: Impatiens noli-tangere
 lead: M_4-6452_IMG.JPG
 lead_sample: false
-name: index
 order: Impatiens
 parallel: false
 petals: '5'
@@ -25,4 +24,4 @@ Cvetovi nedotik imajo tako posebno obliko, da jih boste zagotovo prepoznali že 
 
 Navadno nedotiko boste v juliju in avgustu opazili predvsem v vzhodni Sloveniji, v hribih zahodne Slovenije pa le tam, kjer ni izrazito apnenčastih tal, saj ji ustrezajo senčna, vlažna mesta z nevtralno ali rahlo kislo zemljo.
 
-Od  [žlezave nedotike](../ImpatiensGlandulifera(ZlezavaNedotika)/si_ImpatiensGlandulifera(ZlezavaNedotika).asp) boste navadno takoj ločili po barvi cvetov, od drobnocvetne pa po velikosti cvetov in obliki ostroge -- cvetovi navadne nedotike so večji od 2 cm, viseči in imajo ukrivljeno ostrogo.
+Od  [žlezave nedotike](../../impatiensglandulifera/zlezava-nedotika/) boste navadno takoj ločili po barvi cvetov, od drobnocvetne pa po velikosti cvetov in obliki ostroge -- cvetovi navadne nedotike so večji od 2 cm, viseči in imajo ukrivljeno ostrogo.

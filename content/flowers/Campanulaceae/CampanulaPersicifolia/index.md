@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2002-12-12T00:00:00'
+date: 2002-12-12 00:00:00+00:00
 f_end: '7'
 f_start: '5'
 family: Campanulaceae
@@ -11,7 +11,6 @@ image:
 latin: Campanula persicifolia
 lead: M_6-1619_IMG.JPG
 lead_sample: false
-name: index
 order: Campanula
 parallel: false
 petals: '5'
@@ -26,4 +25,4 @@ Cvetovi so pecljati, veliki do 4 cm, deljeni le do tretjine venčnih listov in �
 Od drugih zvončic boste to zvončico najlažje ločili po
 
 -   obliki listov (je edina, ki ima tako ozke suličaste liste z nerazločnim pecljem) in
--   velikosti cvetov (cvetovi [razprostrte zvončice](../CampanulaPatula(RazprostrtaZvoncica)/si_CampanulaPatula(RazprostrtaZvoncica).asp) in repuščeve zvončice, ki imata podobne liste, so bistveno manjši).
+-   velikosti cvetov (cvetovi [razprostrte zvončice](../../campanulapatula/razprostrta-zvon&#269;ica/) in repuščeve zvončice, ki imata podobne liste, so bistveno manjši).

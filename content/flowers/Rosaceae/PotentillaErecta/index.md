@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2005-04-03T00:00:00'
+date: 2005-04-03 00:00:00+00:00
 f_end: '8'
 f_start: '5'
 family: Rosaceae
@@ -11,7 +11,6 @@ image:
 latin: Potentilla erecta
 lead: M_4-3429_IMG.JPG
 lead_sample: false
-name: index
 order: Potentilla
 parallel: false
 petals: '4'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Srčna moč
 ---
-Srčna moč je eden najbolj razširjenih slovenskih [petoprstnikov](../l_potentilla.htm). Na zakisanih travnikih, v gozdovih in na šotnih tleh cveti od maja do avgusta.
+Srčna moč je eden najbolj razširjenih slovenskih [petoprstnikov](../../genus/potentilla/). Na zakisanih travnikih, v gozdovih in na šotnih tleh cveti od maja do avgusta.
 
 Od drugih drugih rožnic boste srčno moč ločili takole:
 

@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2003-03-23T00:00:00'
+date: 2003-03-23 00:00:00+00:00
 f_end: '4'
 f_start: '3'
 family: Boraginaceae
@@ -11,7 +11,6 @@ image:
 latin: Pulmonaria officinalis
 lead: M_3-0385_IMG.JPG
 lead_sample: false
-name: index
 order: Pulmonaria
 parallel: false
 petals: '5'
@@ -23,4 +22,4 @@ V Sloveniji raste šest vrst pljučnikov (tako imenovanih zaradi svojih zdraviln
 
 Do 40 cm visoko rastlino boste verjetno na prvi pogled prepoznali že po zelo značilni vijoličasto-modri barvi zvezdastih cvetov z razprostrtim robom, sestavljenih iz petih zraslih venčnih listov. Cvetna čaša je zrasla. Celotna rastlina je štrleče dolgodlakava. 
 
-Od večine drugih pljučnikov boste navadnega hitro ločili po ostro omejenih svetlih pegah na listih, od [štajerskega](../PulmonariaStiriaca(StajerskiPljucnik)/si_PulmonariaStiriaca(StajerskiPljucnik).asp) pa predvsem po spodnjih stebelnih listih in listih jalovih poganjkov, ki imajo zaokroženo dno in izrazit pecelj.
+Od večine drugih pljučnikov boste navadnega hitro ločili po ostro omejenih svetlih pegah na listih, od [štajerskega](../../pulmonariastiriaca/štajerski-plju&#269;nik/) pa predvsem po spodnjih stebelnih listih in listih jalovih poganjkov, ki imajo zaokroženo dno in izrazit pecelj.

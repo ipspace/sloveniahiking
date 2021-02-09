@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2003-03-23T00:00:00'
+date: 2003-03-23 00:00:00+00:00
 f_end: '4'
 f_start: '3'
 family: Violaceae
@@ -11,7 +11,6 @@ image:
 latin: Viola collina
 lead: M_7-4766_IMG.JPG
 lead_sample: false
-name: index
 order: Viola
 parallel: false
 petals: '5'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Hribska vijolica
 ---
-Hribska vijolica je zelo podobna [srhkodlakavi vijolici](../ViolaHirta(SrhkodlakavaVijolica)/si_ViolaHirta(SrhkodlakavaVijolica).asp), a precej bolj redka. Marsikdaj ju boste našli blizu skupaj, celo cvetita približno ob istem času (marca in aprila). Ločili ju boste predvsem po teh razpoznavnih znakih:
+Hribska vijolica je zelo podobna [srhkodlakavi vijolici](../../violahirta/srhkodlakava-vijolica/), a precej bolj redka. Marsikdaj ju boste našli blizu skupaj, celo cvetita približno ob istem času (marca in aprila). Ločili ju boste predvsem po teh razpoznavnih znakih:
 
 -   Hribska vijolica ima modrovijoličast cvet s svetlo ostrogo. Ta razpoznavni znak, dobro viden na sliki desno spodaj, je tudi najlaže opazen.
 -   Prilisti hribske vijolice so po robu dlakavi in resasti (brez lupe tega ne boste ugotovili).

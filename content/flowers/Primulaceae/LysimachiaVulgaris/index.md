@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2003-08-17T00:00:00'
+date: 2003-08-17 00:00:00+00:00
 f_end: '8'
 f_start: '5'
 family: Primulaceae
@@ -12,7 +12,6 @@ image:
 latin: Lysimachia vulgaris
 lead: M_6-6655_IMG.JPG
 lead_sample: false
-name: index
 order: Lysimachia
 parallel: false
 petals: '5'
@@ -20,9 +19,9 @@ petals_joined: false
 star_shape: false
 title: Navadna pijavčnica
 ---
-Rumene cvetove navadne pijavčnice boste od maja do avgusta opazili na vlažnih tleh -- na nabrežjih, močvirjih, travnikih in gozdnih robovih. Cvet ima zrasle venčne liste, nadraslo plodnico z enim vratom in pet prašnikov, kar uvršča pijavčnice med jegličevke (ta več kot meter visoka rastlina je torej bližnja sorodnica [trobentice](../PrimulaVulgaris(Trobentica)/si_PrimulaVulgaris(Trobentica).asp)).
+Rumene cvetove navadne pijavčnice boste od maja do avgusta opazili na vlažnih tleh -- na nabrežjih, močvirjih, travnikih in gozdnih robovih. Cvet ima zrasle venčne liste, nadraslo plodnico z enim vratom in pet prašnikov, kar uvršča pijavčnice med jegličevke (ta več kot meter visoka rastlina je torej bližnja sorodnica [trobentice](../../primulavulgaris/trobentica/)).
 
-Od drugih jegličevk boste pijavčnice hitro ločili po stebelnih listih -- olistano steblo s stebelnimi listi, razporejenimi v vretenca, ima le še [kurja češnjica](../AnagallisArvensis(NavadnaKurjaCesnjica)/si_AnagallisArvensis(NavadnaKurjaCesnjica).asp), ki pa nima rumenih cvetov.
+Od drugih jegličevk boste pijavčnice hitro ločili po stebelnih listih -- olistano steblo s stebelnimi listi, razporejenimi v vretenca, ima le še [kurja češnjica](../../anagallisarvensis/navadna-kurja-&#269;ešnjica/), ki pa nima rumenih cvetov.
 
 Navadno pijavčnico boste od drugih pijavčnic ločili po teh znakih:
 

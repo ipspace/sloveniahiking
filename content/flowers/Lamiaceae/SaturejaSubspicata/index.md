@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2003-09-14T00:00:00'
+date: 2003-09-14 00:00:00+00:00
 f_end: '9'
 f_start: '8'
 family: Lamiaceae
@@ -11,7 +11,6 @@ image:
 latin: Satureja subspicata
 lead: M_9-6994_IMG.JPG
 lead_sample: false
-name: index
 order: Satureja
 parallel: false
 petals: '5'
@@ -19,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Pritlikavi šetraj
 ---
-Pritlikavi šetraj je polgrmiček, katerega rdečkastovijolične cvetove boste konec poletja opazili na kraških gmajnah, grušču ali v skalnih razpokah. Od [kraškega šetraja](../SaturejaMontana(KraskiSetraj)/si_SaturejaMontana(KraskiSetraj).asp) (tam si oglejte tudi opis skupnih znakov šetrajev) ga loči nekoliko bolj robato štirirobo golo steblo, pa tudi barva cvetov, ki so vijoličasti in imajo v ustju temnejše lise.
+Pritlikavi šetraj je polgrmiček, katerega rdečkastovijolične cvetove boste konec poletja opazili na kraških gmajnah, grušču ali v skalnih razpokah. Od [kraškega šetraja](../../saturejamontana/kraški-šetraj/) (tam si oglejte tudi opis skupnih znakov šetrajev) ga loči nekoliko bolj robato štirirobo golo steblo, pa tudi barva cvetov, ki so vijoličasti in imajo v ustju temnejše lise.

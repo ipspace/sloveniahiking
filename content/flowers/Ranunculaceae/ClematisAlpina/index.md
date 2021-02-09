@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2003-06-22T00:00:00'
+date: 2003-06-22 00:00:00+00:00
 f_end: '8'
 f_start: '6'
 family: Ranunculaceae
@@ -11,7 +11,6 @@ image:
 latin: Clematis alpina
 lead: M_0-6039_IMG.JPG
 lead_sample: false
-name: index
 order: Clematis
 parallel: false
 petals: '4'
@@ -21,4 +20,4 @@ title: Planinski srobot
 ---
 Temne, modrovijoličaste cvetove planinskega srobota boste od junija do avgusta našli med rušjem in na kamnitih pobočjih, predvsem v slovenskih Alpah, pa tudi ponekod v predalpskem svetu zahodne Slovenije.
 
-Tako kot večina [srobotov](../l_clematis.htm) je tudi planinski ovijalka z deljenimi nasprotnimi listi. Cvet je brez cvetne čaše, sestavljajo ga štirje venčni listi, v njem pa boste opazili 10 do 12 belkastih medovnikov (na levi fotografiji spodaj so slabo vidni; laže jih boste opazili na risbi planinskega srobota).
+Tako kot večina [srobotov](../../genus/clematis/) je tudi planinski ovijalka z deljenimi nasprotnimi listi. Cvet je brez cvetne čaše, sestavljajo ga štirje venčni listi, v njem pa boste opazili 10 do 12 belkastih medovnikov (na levi fotografiji spodaj so slabo vidni; laže jih boste opazili na risbi planinskega srobota).

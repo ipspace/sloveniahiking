@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2002-11-12T00:00:00'
+date: 2002-11-12 00:00:00+00:00
 f_end: '7'
 f_start: '5'
 family: Ranunculaceae
@@ -12,7 +12,6 @@ image:
 latin: Trollius europaeus
 lead: M_6-1669_IMG.JPG
 lead_sample: false
-name: index
 order: Trollius
 parallel: false
 petals: '10'
@@ -24,7 +23,7 @@ Zlato pogačico boste našli na vlažnih tleh v višjih legah -- v alpskem in pr
 
 Steblo je olistano, listi so dlanasto deljeni v 5 do 7 trikrakih nazobčanih krp (glej sliko desno).
 
-**Opomba:** ponekod pogačico (ali zlato pogačico) imenujejo tudi [zlato jabolko](../../Liliaceae/LiliumCarniolum(kranjska_lilija)/ZlatoJabolko.asp), kar je sicer ime ene od [slovenskih lilij](../../Liliaceae/SI_lilije.asp).
+**Opomba:** ponekod pogačico (ali zlato pogačico) imenujejo tudi [zlato jabolko](../../liliumcarniolicum/zlato-jabolko/), kar je sicer ime ene od [slovenskih lilij](../../genus/lilium/).
 
 Več informacij:
 

@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2004-06-06T00:00:00'
+date: 2004-06-06 00:00:00+00:00
 f_end: '8'
 f_start: '4'
 family: Gentianaceae
@@ -12,7 +12,6 @@ image:
 latin: Gentiana verna ssp. verna
 lead: M_3-0370_IMG.JPG
 lead_sample: false
-name: index
 order: Gentiana
 parallel: false
 petals: '5'
@@ -22,7 +21,7 @@ title: Spomladanski svišč
 ---
 Spomladanski svišč boste v nižjih legah (500--600 m nad morjem) našli že v aprilu, više v gorah pa vas bo razveseljeval vse do poletja.
 
-Od [drugih sviščev](../l_gentiana.htm) boste spomladanskega ločili po tehle znakih:
+Od [drugih sviščev](../../genus/gentiana/) boste spomladanskega ločili po tehle znakih:
 
 -   Cvetovi so posamični, modri.
 -   Rastlina je trajnica z jalovimi (necvetočimi) poganjki.
@@ -36,7 +35,7 @@ V Sloveniji rasteta dve podvrsti spomladanskega svišča. V Alpah in v severovzh
 
 Več informacij:
 
--   [Lastnosti sviščev](../l_gentiana.htm)
+-   [Lastnosti sviščev](../../genus/gentiana/)
 -   Slika iz Deutschlands Flora in Abbildungen
 -   Fotografija iz Francije
 -   Išči z Googlom

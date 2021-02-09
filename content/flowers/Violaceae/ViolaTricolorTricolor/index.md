@@ -1,6 +1,6 @@
 ---
 color: BY
-date: '2004-05-30T00:00:00'
+date: 2004-05-30 00:00:00+00:00
 f_end: '9'
 f_start: '4'
 family: Violaceae
@@ -11,7 +11,6 @@ image:
 latin: Viola tricolor tricolor
 lead: M_2_1223.JPG
 lead_sample: false
-name: index
 order: Viola
 parallel: false
 petals: '5'
@@ -21,7 +20,7 @@ title: Divja vijolica
 ---
 Pisane cvetove divje vijolice boste od aprila do septembra opazili na obdelanih tleh in suhih travnikih marsikje v Sloveniji. Od večine drugih vijolic jo boste ločili že po zgradbi cveta (štirje venčni listi so obrnjeni navzgor), od podobnih vijolic pa po teh lastnostih:
 
--   [Dvocvetna](../ViolaBiflora(DvocvetnaVijolica)/si_ViolaBiflora(DvocvetnaVijolica).asp) in Zoisova vijolica sta nizki rastlini z rumenimi cvetovi. Divja vijolica je precej višja, njeni venčni listi pa se prelivajo v odtenkih rumene, bele in modre z vmesnimi vijoličnimi progami (glej fotografijo levo spodaj).
+-   [Dvocvetna](../../violabiflora/dvocvetna-vijolica/) in Zoisova vijolica sta nizki rastlini z rumenimi cvetovi. Divja vijolica je precej višja, njeni venčni listi pa se prelivajo v odtenkih rumene, bele in modre z vmesnimi vijoličnimi progami (glej fotografijo levo spodaj).
 -   Ostroga je precej krajša od venčnih listov (ostroga zelo redke rogate vijolice je tako dolga kot venčni listi).
--   Cvetovi so večji od 15 mm, venčni listi so daljši od čašnih (cvetovi [njivske vijolice](../ViolaArvensis(NjivskaVijolica)/si_ViolaArvensis(NjivskaVijolica).asp) so manjši, čašni listi so vsaj tako dolgi kot spodnji venčni list).
+-   Cvetovi so večji od 15 mm, venčni listi so daljši od čašnih (cvetovi [njivske vijolice](../../violaarvensis/njivska-vijolica/) so manjši, čašni listi so vsaj tako dolgi kot spodnji venčni list).
 -   Zgornji listi so podolgasti ali suličasti, roglji prilistov so črtalasti.

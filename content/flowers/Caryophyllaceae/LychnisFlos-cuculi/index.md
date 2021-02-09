@@ -20,11 +20,6 @@ petals_joined: false
 star_shape: false
 title: Kukavičja lučca
 ---
-Kukavičjo lučco, sorodnico nageljčkov, boste našli pozno spomladi na cvetočih travnikih. 
+Kukavičjo lučco, sorodnico nageljčkov, boste našli pozno spomladi na cvetočih travnikih.
 
-![](http://www.zaplana.net/flowers/Caryophyllaceae/Lychnis(lucca)/%s/M_9-0968_IMG.jpg)![](http://www.zaplana.net/flowers/Caryophyllaceae/Lychnis(lucca)/%s/M_9-0972_IMG.jpg)Rožica je zelo prepoznavna -- na vrhu dolgega stebla se pojavi nekaj nežnih cvetov s svetlo rdečimi, globoko nacepljenimi lističi. Čašni listi so zrasli v cev, čaša ima izstopajoča vzdolžna rebrca.
-
-Več informacij:
-
--   Slika iz Bilder ur Nordens Flora
--   Išči z Googlom ali z Najdi.si
+Rožica je zelo prepoznavna -- na vrhu dolgega stebla se pojavi nekaj nežnih cvetov s svetlo rdečimi, globoko nacepljenimi lističi. Čašni listi so zrasli v cev, čaša ima izstopajoča vzdolžna rebrca.

@@ -21,9 +21,3 @@ star_shape: false
 title: Jajčasti repuš
 ---
 Jajčastega repuša (Phyteuma ovatum) ne morete zamenjati s skoraj nobeno drugo rožo -- na vrhu redko olistanega stebla zraste jajčasto ali valjasto socvetje z dolgimi cevastimi navzgor zavitimi vijoličastimi cvetovi. Cvet je po obliki nekoliko podoben trpotcu (čeprav nimata drugače nič skupnega), zato ga ponekod v nemško govorečem svetu imenujejo črni trpotec.
-
-![](http://www.zaplana.net/flowers/Campanulaceae/Phyteuma_Ovatum(Jajcasti_Repus)/%s/M_1-1177_IMG.jpg) ![](http://www.zaplana.net/flowers/Campanulaceae/Phyteuma_Ovatum(Jajcasti_Repus)/%s/M_1-1178_IMG.jpg)  ![](http://www.zaplana.net/flowers/Campanulaceae/Phyteuma_Ovatum(Jajcasti_Repus)/%s/M_1-1179_IMG.jpg) ![](http://www.zaplana.net/flowers/Campanulaceae/Phyteuma_Ovatum(Jajcasti_Repus)/%s/M_1-1199_IMG.jpg)
-
-Več informacij:
-
--   Išči z Googlom

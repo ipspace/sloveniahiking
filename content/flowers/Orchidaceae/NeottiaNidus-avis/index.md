@@ -23,14 +23,4 @@ title: Rjava gnezdovnica
 ---
 Rjave gnezdovnice manj pozorni opazovalci sploh ne bi opazili -- ker nima klorofila (je gniloživka), je v celoti rjave barve in zato dobro skrita med odpadlim listjem in drugim rastlinskim drobirjem, s katerim se hrani.
 
-![](http://www.zaplana.net/flowers/wildorchids/NeottiaNidusAvis/%s/M_0-1073_IMG.jpg)![](http://www.zaplana.net/flowers/wildorchids/NeottiaNidusAvis/%s/M_0-1074_IMG.jpg)
-
 Šele podroben ogled cvetov in njihove oblike potrdi, da je ta rastlina tako kot druge kukavičevke pravzaprav sorodnica orhidej.
-
-![](http://www.zaplana.net/flowers/wildorchids/NeottiaNidusAvis/%s/M_0-1069_IMG.jpg)![](http://www.zaplana.net/flowers/wildorchids/NeottiaNidusAvis/%s/M_0-1070_IMG.jpg)![](http://www.zaplana.net/flowers/wildorchids/NeottiaNidusAvis/%s/M_0-1076_IMG.jpg) 
-
-Dodatne informacije:
-
--   Nemški opis
--   Dodatne slike iz galerije slovenskih orhidej
--   Išči z Googlom

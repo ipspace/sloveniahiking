@@ -1,6 +1,6 @@
 ---
 color: W
-date: '2002-11-20T00:00:00'
+date: 2002-11-20 00:00:00+00:00
 f_end: '6'
 f_start: '5'
 family: Convallariaceae
@@ -12,7 +12,6 @@ image:
 latin: Convallaria majalis
 lead: M_2-1283_IMG.JPG
 lead_sample: false
-name: index
 order: Convallaria
 parallel: false
 petals: '6'
@@ -20,4 +19,4 @@ petals_joined: false
 star_shape: false
 title: Šmarnica
 ---
-![](../../images/poison.gif)Šmarnica, kot bi pričakovali iz njenega imena, cveti v maju (šmarnu). Rastlina ima dva stebelna lista (včasih tri) z nožnicama, ki dajeta vtis stebla (podobno [čmeriki](../VeratrumAlbumLobelianum(ZelenaCmerika)/SI_ZelenaCmerika.asp)). Majhni cvetovi zvonaste oblike v grozdastem, mnogocvetnem socvetju imajo 6 zraslih belih listov.
+![](../../../images/flowers/poison.gif)Šmarnica, kot bi pričakovali iz njenega imena, cveti v maju (šmarnu). Rastlina ima dva stebelna lista (včasih tri) z nožnicama, ki dajeta vtis stebla (podobno [čmeriki](../../veratrumalbumlobelianum/zelena-&#269;merika/)). Majhni cvetovi zvonaste oblike v grozdastem, mnogocvetnem socvetju imajo 6 zraslih belih listov.

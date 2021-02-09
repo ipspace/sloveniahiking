@@ -19,12 +19,4 @@ petals_joined: false
 star_shape: false
 title: Pegasta prstasta kukavica
 ---
-Tudi pegaste prstaste kukavice (*Dactylorhiza maculata*) ni težko prepoznati. Gosto socvetje podpirajo zeleni listi (kot pri vseh prstastih kukavicah), ki so daljši od cvetov. Stranska cvetna lista dajeta cvetu značilno obliko, po kateri je rod dobil ime, spodnji cvetni list (medena ustna) pa je, čeprav tridelen, le plitvo deljen. 
-
- ![](http://www.zaplana.net/flowers/wildorchids/DactylorhizaMaculata/%s/M_7-1755_IMG.JPG)![](http://www.zaplana.net/flowers/wildorchids/DactylorhizaMaculata/%s/M_7-1754_IMG.JPG)
-
-Dodatne informacije:
-
--   Nemški opis
--   Dodatne slike iz galerije slovenskih orhidej
--   Išči z Googlom
+Tudi pegaste prstaste kukavice (*Dactylorhiza maculata*) ni težko prepoznati. Gosto socvetje podpirajo zeleni listi (kot pri vseh prstastih kukavicah), ki so daljši od cvetov. Stranska cvetna lista dajeta cvetu značilno obliko, po kateri je rod dobil ime, spodnji cvetni list (medena ustna) pa je, čeprav tridelen, le plitvo deljen.

@@ -22,11 +22,6 @@ title: Navadni gladež
 ---
 Navadni gladež (*Ononis spinosa*) je polgrmičasta rastlina z rožnatimi ali rdečkastimi cvetovi. Najdemo ga na pustih in suhih prisojnih pobočjih, na pašnikih ali ob poteh.
 
-![](http://www.zaplana.net/flowers/Fabaceae/Ononis(gladez)/%s/M_7-0718_IMG.jpg)![](http://www.zaplana.net/flowers/Fabaceae/Ononis(gladez)/%s/M_7-0719_IMG.jpg)Gladež cveti od maja do septembra; cvetovi so po obliki podobni grahovim. 
+Gladež cveti od maja do septembra; cvetovi so po obliki podobni grahovim.
 
 Gladež so kot zdravilno rastlino uporabljali že v srednjem veku -- pomaga pri sklepnem revmatizmu, artritisu in angini.
-
-Več informacij:
-
--   Slika navadnega gladeža iz Flora Danica
--   Išči z Googlom

@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2003-10-05T00:00:00'
+date: 2003-10-05 00:00:00+00:00
 f_end: '9'
 f_start: '5'
 family: Lamiaceae
@@ -11,7 +11,6 @@ image:
 latin: Acinos alpinus
 lead: M_9-5995_IMG.JPG
 lead_sample: false
-name: index
 order: Acinos
 parallel: false
 petals: '5'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Alpski šetrajnik
 ---
-Alpski šetrajnik raste na suhih kamnitih pobočjih; od maja do septembra boste njegove vijolične cvetove našli predvsem v višjih legah, na primer v slovenskih Alpah. Od ostalih [ustnatic](../l_lamiaceae.htm), med katere ga nedvomno uvršča oblika cveta, ga botaniki ločijo po tehle znakih:
+Alpski šetrajnik raste na suhih kamnitih pobočjih; od maja do septembra boste njegove vijolične cvetove našli predvsem v višjih legah, na primer v slovenskih Alpah. Od ostalih [ustnatic](../../family/lamiaceae/), med katere ga nedvomno uvršča oblika cveta, ga botaniki ločijo po tehle znakih:
 
 -   Cvetni venec je dvoustnat, zgornja venčna ustna je ravna.
 -   Cvet ima štiri plodne prašnike, ki štrlijo iz venčne cevi in so nagnjeni drug proti drugemu.

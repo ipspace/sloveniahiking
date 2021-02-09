@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2003-03-23T00:00:00'
+date: 2003-03-23 00:00:00+00:00
 f_end: '4'
 f_start: '3'
 family: Thymelaeaceae
@@ -11,7 +11,6 @@ image:
 latin: Daphne mezereum
 lead: M_7-4793_IMG.JPG
 lead_sample: false
-name: index
 order: Daphne
 parallel: false
 petals: '4'
@@ -19,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Navadni volčin
 ---
-![](../../images/poison.gif)V marcu in aprilu boste marsikje v Sloveniji opazili grmiček z rožnatimi somernimi cvetovi v obstranskem socvetju pod šopom listov na vrhu stebla -- našli ste navadni volčin. Za vsak primer še preverite, ali so cvetovi brez čaše, imajo osem prašnikov in so sestavljeni iz štirih zraslih venčnih listov.
+![](../../../images/flowers/poison.gif)V marcu in aprilu boste marsikje v Sloveniji opazili grmiček z rožnatimi somernimi cvetovi v obstranskem socvetju pod šopom listov na vrhu stebla -- našli ste navadni volčin. Za vsak primer še preverite, ali so cvetovi brez čaše, imajo osem prašnikov in so sestavljeni iz štirih zraslih venčnih listov.

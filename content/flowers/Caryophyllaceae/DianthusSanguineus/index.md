@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2004-07-25T00:00:00'
+date: 2004-07-25 00:00:00+00:00
 f_end: '8'
 f_start: '6'
 family: Caryophyllaceae
@@ -10,7 +10,6 @@ image:
 latin: Dianthus sanguineus
 lead: M_4-5488_IMG.JPG
 lead_sample: false
-name: index
 order: Dianthus
 parallel: false
 petals: '5'
@@ -25,4 +24,4 @@ Od junija do avgusta boste na suhih kraških travnikih, predvsem na Primorskem, 
 -   Čašne luske so rjave, suhokožnate, zožene v tanko resasto konico (dobro vidno na spodnji fotografiji).
 -   Rastlina je sinjezelena.
 
-Krvavordečemu klinčku je najbolj podoben precej bolj razširjen [navadni klinček](../DianthusCarthusianorum(NavadniKlincek)/si_DianthusCarthusianorum(NavadniKlincek).asp), ki ima svetlejše (rožnate) cvetove, ploščica venčnih listov pa ni dosti krajša od žebice.
+Krvavordečemu klinčku je najbolj podoben precej bolj razširjen [navadni klinček](../../dianthuscarthusianorum/navadni-klin&#269;ek/), ki ima svetlejše (rožnate) cvetove, ploščica venčnih listov pa ni dosti krajša od žebice.

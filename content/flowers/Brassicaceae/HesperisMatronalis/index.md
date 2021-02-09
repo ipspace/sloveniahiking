@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2007-01-14T00:00:00'
+date: 2007-01-14 00:00:00+00:00
 f_end: '7'
 f_start: '6'
 family: Brassicaceae
@@ -10,7 +10,6 @@ image:
 latin: Hesperis matronalis
 lead: M_2-5249_IMG.JPG
 lead_sample: false
-name: index
 order: Hesperis
 parallel: false
 petals: '4'
@@ -18,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Vrtna nočnica
 ---
-Vrtna nočnica je okrasna rastlina, ki večkrat podivjano raste po grmovju in na rečnih obrežjih. Cvetovi s štirimi venčnimi listi in šestimi prašniki jo uvrščajo med [križnice](../l_brassicaceae.htm), od drugih križnic pa jo ločite takole:
+Vrtna nočnica je okrasna rastlina, ki večkrat podivjano raste po grmovju in na rečnih obrežjih. Cvetovi s štirimi venčnimi listi in šestimi prašniki jo uvrščajo med [križnice](../../family/brassicaceae/), od drugih križnic pa jo ločite takole:
 
 -   Cvetovi so vijolični.
 -   Plod je vsaj trikrat daljši od svoje širine (lusk).

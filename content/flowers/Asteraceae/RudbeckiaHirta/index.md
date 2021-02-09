@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2003-05-18T00:00:00'
+date: 2003-05-18 00:00:00+00:00
 f_end: '9'
 f_start: '6'
 family: Asteraceae
@@ -11,7 +11,6 @@ image:
 latin: Rudbeckia hirta
 lead: M_2-3204_IMG.JPG
 lead_sample: false
-name: index
 order: Rudbeckia
 parallel: false
 petals_joined: false
@@ -27,4 +26,4 @@ Srhkodlakava rudbekija je precej visoka rastlina (do 1 m) z velikimi koški (do 
 -   Jezičasti cvetovi so rumeni, jalovi, cevasti cvetovi so rjavi do črni. Vsi cvetovi v košku so brez kodeljice.
 -   Listi so celi, nazobčani.
 
-Od zelo podobne [deljenolistne rudbekije](../RudbeckiaLaciniata(DeljenolistnaRudbekija)/si_RudbeckiaLaciniata(DeljenolistnaRudbekija).asp) boste srhkodlakavo ločili po celih listih in dlakavem, enostavnem steblu.
+Od zelo podobne [deljenolistne rudbekije](../../rudbeckialaciniata/deljenolistna-rudbekija/) boste srhkodlakavo ločili po celih listih in dlakavem, enostavnem steblu.

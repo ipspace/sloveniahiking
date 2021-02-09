@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2003-05-18T00:00:00'
+date: 2003-05-18 00:00:00+00:00
 f_end: '6'
 f_start: '5'
 family: Euphorbiaceae
@@ -11,14 +11,13 @@ image:
 latin: Euphorbia verrucosa
 lead: M_0-5073_IMG.JPG
 lead_sample: false
-name: index
 order: Euphorbia
 parallel: false
 petals_joined: false
 star_shape: false
 title: Bradavičasti mleček
 ---
-Bradavičastega mlečka (na suhih travnikih in v gozdovih ga boste našli v maju in juniju) na prvi pogled nikakor ne bi uvrstili med [mlečke](../l_euphorbia.htm), saj se zdi, kot bi na vrhu nizkega stebelca rasel en sam, nekoliko večji, rumen cvet.
+Bradavičastega mlečka (na suhih travnikih in v gozdovih ga boste našli v maju in juniju) na prvi pogled nikakor ne bi uvrstili med [mlečke](../../genus/euphorbia/), saj se zdi, kot bi na vrhu nizkega stebelca rasel en sam, nekoliko večji, rumen cvet.
 
 Šele zelo natančen pogled na cvet pokaže njegovo sestavo -- ciatiji, značilni za mlečke, so zbrani v zelo gostem kobulu, ki ga obdajajo podporni listi enake rumene barve, kar na daleč daje vtis enotnega cveta.
 

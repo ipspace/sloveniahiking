@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2003-02-02T00:00:00'
+date: 2003-02-02 00:00:00+00:00
 f_end: '7'
 f_start: '5'
 family: Lamiaceae
@@ -12,7 +12,6 @@ image:
 latin: Lamium orvala
 lead: M_6-0658_IMG.JPG
 lead_sample: false
-name: index
 order: Lamium
 parallel: false
 petals: '5'
@@ -20,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Velecvetna mrtva kopriva
 ---
-Velecvetno mrtvo koprivo boste na nekoliko bolj vlažnih mestih našli od maja do julija. Od [drugih ustnatic](../l_lamiaceae.htm) boste mrtve koprive najlaže ločili po značilni obliki cveta s čeladasto zgornjo ustno, lahko pa seveda preverite še druge [razlikovalne znake mrtvih kopriv](../l_lamium.htm).
+Velecvetno mrtvo koprivo boste na nekoliko bolj vlažnih mestih našli od maja do julija. Od [drugih ustnatic](../../family/lamiaceae/) boste mrtve koprive najlaže ločili po značilni obliki cveta s čeladasto zgornjo ustno, lahko pa seveda preverite še druge [razlikovalne znake mrtvih kopriv](../../genus/lamium/).
 
 Od drugih mrtvih kopriv boste velecvetno ločili takole:
 

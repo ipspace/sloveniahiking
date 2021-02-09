@@ -13,7 +13,6 @@ image:
 latin: Gentiana asclepiadea
 lead: M_7-2720_IMG.JPG
 lead_sample: false
-name: index
 order: Gentiana
 parallel: false
 petals: '5'
@@ -21,14 +20,7 @@ petals_joined: false
 star_shape: false
 title: Svečnik
 ---
-<div>
-
-![](http://www.zaplana.net/flowers/Gentianaceae/GentianaAsclepiadea(Svecnik)/%s/M_7-2720_IMG.JPG)![](http://www.zaplana.net/flowers/Gentianaceae/GentianaAsclepiadea(Svecnik)/%s/M_7-2721_IMG.JPG)\
-Svečnik z nasprotnimi listi, vidno je socvetje na vrhu stebla
-
-</div>
-
-Svečnik ali svilničasti svišč boste našli na travnikih ali v gozdovih marsikje v Sloveniji. Če bodo cvetovi popolnoma odprti, ga ne bo težko prepoznati, saj dobijo cvetovi obliko, značilno za [večino sviščev](../l_gentiana.htm). Prepoznavanje rastline z bolj zaprtimi cvetovi pa bo malce bolj zahtevno, a ne prehudo.
+Svečnik ali svilničasti svišč boste našli na travnikih ali v gozdovih marsikje v Sloveniji. Če bodo cvetovi popolnoma odprti, ga ne bo težko prepoznati, saj dobijo cvetovi obliko, značilno za [večino sviščev](../../genus/gentiana/). Prepoznavanje rastline z bolj zaprtimi cvetovi pa bo malce bolj zahtevno, a ne prehudo.
 
 Tako kot večina sviščev ima tudi svečnik
 
@@ -38,7 +30,7 @@ Tako kot večina sviščev ima tudi svečnik
 
 Od drugih sviščev pa boste svečnik ločili po tehle znakih:
 
--   Steblo, visoko do 90 cm,  je olistano s suličastimi, koničastimi listi.
+-   Steblo, visoko do 90 cm, je olistano s suličastimi, koničastimi listi.
 -   Cvetovi rastejo v socvetju na vrhu rastline, pa tudi v parih za stebelnimi listi.
 
-Svečnik lahko raste v dveh zelo zanimivih oblikah -- listi so lahko nasprotni, vendar enakomerno razporejeni okoli osi stebla (slika desno), lahko pa so na videz dvoredni (vsi v isti ravnini), nad njimi pa rastejo pari cvetov (slike spodaj).
+Svečnik lahko raste v dveh zelo zanimivih oblikah -- listi so lahko nasprotni, vendar enakomerno razporejeni okoli osi stebla, lahko pa so na videz dvoredni (vsi v isti ravnini), nad njimi pa rastejo pari cvetov.

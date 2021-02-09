@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2008-02-10T00:00:00'
+date: 2008-02-10 00:00:00+00:00
 f_end: '7'
 f_start: '5'
 family: Lamiaceae
@@ -10,7 +10,6 @@ image:
 latin: Thymus praecox
 lead: M_G_3044.JPG
 lead_sample: false
-name: index
 order: Thymus
 parallel: false
 petals: '5'
@@ -24,9 +23,9 @@ Rana materina dušica cveti od maja do julija na skalovju, kamnitih mestih in so
 -   Cvetni venec je razločno someren in dvoustnat.
 -   Vsi štirje prašniki imajo normalno razvite prašnice (če nimate odličnega vida, bo lupa že dobrodošla).
 -   Prašniki so daljši od venčne cevi (brez lupe že ugibamo).
--   Zgornja venčna ustna ni žličasto oblikovana kot pri [črnoglavkah](../PrunellaLaciniata(DeljenolistnaCrnoglavka)/si_PrunellaLaciniata(DeljenolistnaCrnoglavka).asp), [zebratih](../GaleopsisSpeciosa(PisaniZebrat)/si_GaleopsisSpeciosa(PisaniZebrat).asp) ali [mrtvih koprivah](../LamiumMaculatum(LisastaMrtvaKopriva)/si_LamiumMaculatum(LisastaMrtvaKopriva).asp).
--   Listi so popolnoma celorobi in imajo izrazit aromatičen vonj (listi [šetrajnika](../AcinosAlpinus(AlpskiSetrajnik)/si_AcinosAlpinus(AlpskiSetrajnik).asp) ne dišijo).
--   Cvetovi so drobni, dolgi do 6 mm (cvetovi [ožepka](../HyssopusOfficinalis(NavadniOzepek)/si_HyssopusOfficinalis(NavadniOzepek).asp) ali [šetraja](../SaturejaMontana(KraskiSetraj)/si_SaturejaMontana(KraskiSetraj).asp) so večji).
+-   Zgornja venčna ustna ni žličasto oblikovana kot pri [črnoglavkah](../../prunellalaciniata/deljenolistna-črnoglavka/), [zebratih](../../galeopsisspeciosa/pisani-zebrat/) ali [mrtvih koprivah](../../lamiummaculatum/lisasta-mrtva-kopriva/).
+-   Listi so popolnoma celorobi in imajo izrazit aromatičen vonj (listi [šetrajnika](../../acinosalpinus/alpski-šetrajnik/) ne dišijo).
+-   Cvetovi so drobni, dolgi do 6 mm (cvetovi [ožepka](../../hyssopusofficinalis/navadni-ožepek/) ali [šetraja](../../saturejamontana/kraški-šetraj/) so večji).
 
 Določanje materinih dušic je prav tako hudo zoprno početje (to priznava celo Mala flora Slovenije), a vseeno poskusite takole:
 

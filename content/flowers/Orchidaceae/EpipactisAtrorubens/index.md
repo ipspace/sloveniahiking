@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2003-01-17T00:00:00'
+date: 2003-01-17 00:00:00+00:00
 f_end: '8'
 f_start: '6'
 family: Orchidaceae
@@ -13,7 +13,6 @@ image:
 latin: Epipactis atrorubens
 lead: M_7-2741_IMG.JPG
 lead_sample: false
-name: index
 order: Epipactis
 parallel: false
 petals: '6'
@@ -24,7 +23,7 @@ title: Temnordeča močvirnica
 Temnordeča močvirnica cveti v začetku poletja na svetlih in suhih legah.  Uvrščanje med močvirnice ne bo težko, saj jih od drugih kukavičevk ločijo tile znaki:
 
 -   Medena ustna je preščipnjena v dva dela -- hipofil (v notranjosti cveta) in epifil (zunanji del medene ustne). Glej tudi fotografijo spodaj levo.
--   Cvetovi so pecljati (pri [naglavkah](../CephalantheraLongifolia/si_CephalantheraLongifolia.asp) sedeči). Cvetni listi so štrleči ali zvonasto razporejeni.
+-   Cvetovi so pecljati (pri [naglavkah](../../cephalantheralongifolia/dolgolistna-naglavka/) sedeči). Cvetni listi so štrleči ali zvonasto razporejeni.
 
 Od drugih močvirnic temnordečo ločujejo tele lastnosti:
 

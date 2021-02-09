@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2005-10-09T00:00:00'
+date: 2005-10-09 00:00:00+00:00
 f_end: '9'
 f_start: '7'
 family: Malvaceae
@@ -11,7 +11,6 @@ image:
 latin: Malva alcea
 lead: M_2-6223_img.jpg
 lead_sample: false
-name: index
 order: Malva
 parallel: false
 petals: '5'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Ostrolistni slezenovec
 ---
-Ostrolistni slezenovec raste na suhih mestih, najraje med grmovjem ali ob poteh, po vsej Sloveniji. Njegove svetlovijolične cvetove boste opazili od julija do septembra. Od drugih [slezenovk](../l_malvaceae.htm) boste to do meter visoko rastlino ločili takole:
+Ostrolistni slezenovec raste na suhih mestih, najraje med grmovjem ali ob poteh, po vsej Sloveniji. Njegove svetlovijolične cvetove boste opazili od julija do septembra. Od drugih [slezenovk](../../family/malvaceae/) boste to do meter visoko rastlino ločili takole:
 
 -   Cvetovi imajo (kot pri vseh slezenovcih) trilistno zunanjo čašo. Lističi zunanje čaše niso zrasli.
 -   Stebelni listi so dlanasto razrezani (glej levo fotografijo).

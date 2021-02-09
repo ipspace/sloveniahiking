@@ -21,11 +21,3 @@ star_shape: false
 title: Piramidasti pilovec
 ---
 Piramidasti pilovec se od drugih kukavičevk loči predvsem po obliki socvetja, podobno ima le trizoba kukavica. Na vrhu golega stebla najdemo gosto socvetje, pri mladih rastlinah v obliki piramide, pozneje jajčasto.
-
-![](http://www.zaplana.net/flowers/wildorchids/AnacamptisPyramidalis/%s/M_4-1476_IMG.JPG)![](http://www.zaplana.net/flowers/wildorchids/AnacamptisPyramidalis/%s/M_4-1480_IMG.JPG)![](http://www.zaplana.net/flowers/wildorchids/AnacamptisPyramidalis/%s/M_4-1478_IMG.JPG)![](http://www.zaplana.net/flowers/wildorchids/AnacamptisPyramidalis/%s/M_4-1487_IMG.JPG)
-
-Dodatne informacije:
-
--   Nemški opis
--   Dodatne slike iz galerije slovenskih orhidej
--   Išči z Googlom

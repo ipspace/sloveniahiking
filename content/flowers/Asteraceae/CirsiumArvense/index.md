@@ -12,14 +12,13 @@ image:
 latin: Cirsium arvense
 lead: M_1-2143_IMG.JPG
 lead_sample: false
-name: index
 order: Cirsium
 parallel: false
 petals_joined: false
 star_shape: false
 title: Njivski osat
 ---
-Njivski osat (*Cirsium arvense*) raste predvsem na obdelanih tleh, posekah in pašnikih po vsej Sloveniji. Poleg znakov, ki so skupni [vsem osatom](../si_Cirsium.asp), ga boste prepoznali še po teh lastnostih:
+Njivski osat (*Cirsium arvense*) raste predvsem na obdelanih tleh, posekah in pašnikih po vsej Sloveniji. Poleg znakov, ki so skupni [vsem osatom](../../genus/cirsium/), ga boste prepoznali še po teh lastnostih:
 
 -   Na vrhu precej visokega (do 150 cm) razraščenega stebla so številni majhni svetlovijolični koški.
 -   Koški so majhni (1--2 cm), ovojkovi trni so komaj opazni.

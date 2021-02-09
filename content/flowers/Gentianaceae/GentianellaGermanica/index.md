@@ -25,13 +25,6 @@ petals_joined: false
 star_shape: false
 title: Nemški sviščevec
 ---
-<div>
-
-![](http://www.zaplana.net/flowers/Gentianaceae/GentianellaGermanica(NemskiSvisc)/%s/M_1-3150_IMG.JPG) ![](http://www.zaplana.net/flowers/Gentianaceae/GentianellaGermanica(NemskiSvisc)/%s/M_1-3149_IMG.JPG)\
-![](http://www.zaplana.net/flowers/Gentianaceae/GentianellaGermanica(NemskiSvisc)/%s/M_1-3148_IMG.JPG) ![](http://www.zaplana.net/flowers/Gentianaceae/GentianellaGermanica(NemskiSvisc)/%s/M_6-2699_IMG.JPG)
-
-</div>
-
 Nemški sviščevec boste opazili v alpskem in podalpskem svetu že v juniju, nanj pa boste naleteli še vse do oktobra. Raste na travnikih, od nižine pa do gora.
 
 Oblika cveta ga takoj uvrsti med sviščevke, resasti priveski venčnih krp pa med sviščevce. Natančneje ga boste določili po teh znakih:

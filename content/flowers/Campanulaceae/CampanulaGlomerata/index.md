@@ -21,11 +21,4 @@ petals_joined: false
 star_shape: false
 title: Klobčasta zvončica
 ---
-<div>
-
-![](http://www.zaplana.net/flowers/Campanulaceae/CampanulaGlomerata(KlobcastaZvoncica)/%s/M_2-1295_IMG.JPG)![](http://www.zaplana.net/flowers/Campanulaceae/CampanulaGlomerata(KlobcastaZvoncica)/%s/M_4-1447_IMG.JPG)![](http://www.zaplana.net/flowers/Campanulaceae/CampanulaGlomerata(KlobcastaZvoncica)/%s/M_5-1566_IMG.JPG)\
-Klobčasta zvončica s pokončnim steblom
-
-</div>
-
 Klobčaste zvončice ne bo težko prepoznati. Na vrhu enostavnega olistanega stebla se razvije socvetje modrovijoličastih zvonastih cvetov. Cvetovi so sedeči (nimajo pecljev). Dodatni cvetovi rastejo po steblu za stebelnimi listi. Steblo te zvončice je lahko pokončno (fotografije na desni strani) ali poleglo (fotografiji spodaj).

@@ -21,13 +21,6 @@ petals_joined: false
 star_shape: false
 title: Resasti sviščevec
 ---
-<div>
-
-![](http://www.zaplana.net/flowers/Gentianaceae/GentianellaCiliata(ResastiSvisc)/%s/M_2-3242_IMG.JPG)\
-![](http://www.zaplana.net/flowers/Gentianaceae/GentianellaCiliata(ResastiSvisc)/%s/M_2-3246_IMG.JPG)
-
-</div>
-
 Resasti sviščevec vas bo na izletih razveseljeval še pozno v jesen, ko drugih rož skoraj ne bo več -- raste vse do oktobra na suhih travnikih od nižin do slovenskih gora --, seveda pa se boste morali potruditi, da boste to majhno (10--25 cm visoko) rožico med suho travo sploh opazili.
 
 Oblika cveta, ki raste posamično na stebelcu, daje takoj slutiti pripadnost družini sviščevk, resice ob robu venčnih listov pa ga nedvomno uvrščajo med sviščevce. Pot naprej je zelo preprosta -- resasti sviščevec je edini sviščevec s štirimi venčnimi listi.

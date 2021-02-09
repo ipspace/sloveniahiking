@@ -1,7 +1,7 @@
 ---
 author: Alenka_Mihoric
 color: R
-date: '2006-08-27T00:00:00'
+date: 2006-08-27 00:00:00+00:00
 f_end: '8'
 f_start: '7'
 family: Asteraceae
@@ -11,14 +11,13 @@ image:
 latin: Cirsium waldsteinii
 lead: M_006031211.jpg
 lead_sample: false
-name: index
 order: Cirsium
 parallel: false
 petals_joined: false
 star_shape: false
 title: Waldsteinov osat
 ---
-Že prvi pogled na cvetove te do dva metra visoke rastline Waldsteinov osat nedvomno uvrsti med [osate](../si_Cirsium.asp). Od sorodnikov ga boste ločili takole:
+Že prvi pogled na cvetove te do dva metra visoke rastline Waldsteinov osat nedvomno uvrsti med [osate](../../genus/cirsium/). Od sorodnikov ga boste ločili takole:
 
 -   Venec je rdeč, koški so veliki okoli 2 cm.
 -   Konice ovojkovih listov so štrleče.

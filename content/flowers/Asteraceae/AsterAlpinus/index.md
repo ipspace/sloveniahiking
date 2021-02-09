@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2003-10-12T00:00:00'
+date: 2003-10-12 00:00:00+00:00
 f_end: '8'
 f_start: '7'
 family: Asteraceae
@@ -12,7 +12,6 @@ image:
 latin: Aster alpinus
 lead: M_3-6386_IMG.JPG
 lead_sample: false
-name: index
 order: Aster
 parallel: false
 petals_joined: false
@@ -25,4 +24,4 @@ Alpsko nebino boste našli sredi poletja (julija, avgusta) na suhih, prisojnih t
 -   Steblo je olistano, listi so premenjalni.
 -   Jezičasti cvetovi so široki, v enem krogu.
 
-Od ostalih nebin boste alpsko ločili zelo hitro -- poleg [marjetičaste nebine](../AsterBellidiastrum(MarjeticastaNebina)/si_AsterBellidiastrum(MarjeticastaNebina).asp) (ki pa ima bele jezičaste cvetove) je edina nebina, ki je nižja od 15 centimetrov in katere stebla imajo samo po en košek.
+Od ostalih nebin boste alpsko ločili zelo hitro -- poleg [marjetičaste nebine](../../asterbellidiastrum/marjeti&#269;asta-nebina/) (ki pa ima bele jezičaste cvetove) je edina nebina, ki je nižja od 15 centimetrov in katere stebla imajo samo po en košek.

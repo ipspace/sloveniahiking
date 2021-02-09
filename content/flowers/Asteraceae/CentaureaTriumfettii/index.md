@@ -12,14 +12,13 @@ image:
 latin: Centaurea triumfettii
 lead: M_2-3276_IMG.JPG
 lead_sample: false
-name: index
 order: Centaurea
 parallel: false
 petals_joined: false
 star_shape: false
 title: Triumfettijev glavinec
 ---
-Triumfettijev glavinec je razmeroma lahko prepoznati -- je eden od treh glavincev, ki imajo rožnato-moder cvet. Od drugih  dveh ([gorski glavinec](../CentaureaMontana(GorskiGlavinec)/si_CentaureaMontana(GorskiGlavinec).asp) in [mehki glavinec](../CentaureaMollis(mehkodlakaviGlavinec)/si_MehkodlakaviGlavinec.asp)) ga zelo hitro ločimo po barvi resic na ovojku (glej fotografije spodaj) -- Triumfettijev glavinec ima bele ali rjavkaste resice, druga dva pa črne.
+Triumfettijev glavinec je razmeroma lahko prepoznati -- je eden od treh glavincev, ki imajo rožnato-moder cvet. Od drugih dveh ([gorski glavinec](../../centaureamontana/gorski-glavinec/) in mehki glavinec ga zelo hitro ločimo po barvi resic na ovojku (glej fotografije) -- Triumfettijev glavinec ima bele ali rjavkaste resice, druga dva pa črne.
 
 Seveda pa lahko za natančnejše prepoznavanje preverite še druge znake:
 

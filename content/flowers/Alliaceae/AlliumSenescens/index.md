@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2003-09-14T00:00:00'
+date: 2003-09-14 00:00:00+00:00
 f_end: '9'
 f_start: '8'
 family: Alliaceae
@@ -11,7 +11,6 @@ image:
 latin: Allium senescens
 lead: M_9-6975_IMG.JPG
 lead_sample: false
-name: index
 order: Allium
 parallel: false
 petals: '6'
@@ -24,4 +23,4 @@ Rožnate cvetove gorskega luka boste konec poletja našli na kamnitih primorskih
 -   Listi so črtalasti, pritlični. Sveži listi so na spodnji strani zaokroženi.
 -   Socvetje je gosto, široko 2--5 cm, brez brstičev, sestavljeno iz rožnatordečih cvetov. Cvetni peclji so 2--3-krat daljši od cvetnih listov.
 -   Listi cvetnega odevala so krajši od 8 mm in niso zavihani. Prašniki so razločno daljši od cvetnih listov.
--   Pod socvetjem boste opazili dva podporna lista (vidna na sliki desno), ki sta precej krajša od socvetja, kar ga loči od [lepega luka](../AlliumCarinatumPulchellum(LepiLuk)/si_AlliumCarinatumPulchellum(LepiLuk).asp).
+-   Pod socvetjem boste opazili dva podporna lista (vidna na sliki desno), ki sta precej krajša od socvetja, kar ga loči od [lepega luka](../../alliumcarinatumpulchellum/lepi-luk/).

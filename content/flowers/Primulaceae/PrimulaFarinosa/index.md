@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2005-05-22T00:00:00'
+date: 2005-05-22 00:00:00+00:00
 f_end: '7'
 f_start: '5'
 family: Primulaceae
@@ -10,7 +10,6 @@ image:
 latin: Primula farinosa
 lead: M_4_2478.JPG
 lead_sample: false
-name: index
 order: Primula
 parallel: false
 petals: '5'
@@ -23,5 +22,5 @@ Cvetove moknatega jegliča boste od maja do julija našli na vlažnih travnikih 
 Od drugih jegličev boste moknatega ločili takole:
 
 -   Na vrhu zelo tankega, poprhanega stebla (odprite povečano fotografijo) je kobul drobnih svetlovijoličnih cvetov.
--   Listi so tanki (ne debeli kot pri [kranjskem jegliču](../PrimulaCarniolica(KranjskiJeglic)/si_PrimulaCarniolica(KranjskiJeglic).asp)) in le rahlo nagubani (ne tako močno kot pri [trobentici](../PrimulaVulgaris(Trobentica)/si_PrimulaVulgaris(Trobentica).asp)). Tudi ti so spodaj moknato poprhani.
+-   Listi so tanki (ne debeli kot pri [kranjskem jegliču](../../primulacarniolica/kranjski-jegli&#269;/)) in le rahlo nagubani (ne tako močno kot pri [trobentici](../../primulavulgaris/trobentica/)). Tudi ti so spodaj moknato poprhani.
 -   Venčna cev je tako dolga kot čaša (pri dolgocvetnem jegliču precej daljša). Venčni rob (marsikdo bi rekel cvet) ima v premeru 10 do 15 milimetrov.

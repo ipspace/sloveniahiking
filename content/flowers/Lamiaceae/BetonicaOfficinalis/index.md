@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2007-01-28T00:00:00'
+date: 2007-01-28 00:00:00+00:00
 f_end: '8'
 f_start: '6'
 family: Lamiaceae
@@ -10,7 +10,6 @@ image:
 latin: Betonica officinalis
 lead: M_4-2434_IMG.JPG
 lead_sample: false
-name: index
 order: Betonica
 parallel: false
 petals: '5'
@@ -18,14 +17,14 @@ petals_joined: false
 star_shape: false
 title: Navadni čistec
 ---
-Navadni čistec cveti sredi poletja na gozdnih travnikih in obronkih gozdov po vsej Sloveniji razen na južnem Primorskem. Po obliki cveta ga boste takoj uvrstili med [ustnatice](../l_lamiaceae.htm), določanje rodov pa je v tej družini vedno neprijetno početje. Čistec določite takole:
+Navadni čistec cveti sredi poletja na gozdnih travnikih in obronkih gozdov po vsej Sloveniji razen na južnem Primorskem. Po obliki cveta ga boste takoj uvrstili med [ustnatice](../../family/lamiaceae/), določanje rodov pa je v tej družini vedno neprijetno početje. Čistec določite takole:
 
--   Cvetovi so somerni in dvoustnati. Spodnja venčna ustna je brez gub (te imajo le cvetovi [zebratov](../GaleopsisSpeciosa(PisaniZebrat)/si_GaleopsisSpeciosa(PisaniZebrat).asp)).
+-   Cvetovi so somerni in dvoustnati. Spodnja venčna ustna je brez gub (te imajo le cvetovi [zebratov](../../galeopsisspeciosa/pisani-zebrat/)).
 -   Cvetovi imajo štiri prašnike, ki štrlijo iz venčne cevi.
 -   Cvetni venec je daljši od čaše.
 -   Prašniki so vzporedni; notranja prašnika sta krajša od zunanjih.
--   Venčna cev ni trebušasto razširjena kot pri [mrtvih koprivah](../LamiumOrvala(VelecvetnaMrtvaKopriva)/si_LamiumOrvala(VelecvetnaMrtvaKopriva).asp).
--   Čaša ni široko dvoustna kot pri [medeniki](../MelittisMelissophyllum(Medenika)/si_MelittisMelissophyllum(Medenika).asp).
+-   Venčna cev ni trebušasto razširjena kot pri [mrtvih koprivah](../../lamiumorvala/velecvetna-mrtva-kopriva/).
+-   Čaša ni široko dvoustna kot pri [medeniki](../../melittismelissophyllum/medenika/).
 -   Čašni zobci niso zrasli v obročast rob.
 -   Peclji spodnjih listov so do štirikrat daljši od listne ploskve.
 -   Rastlina ima številne prizemne listne rozete; cvetoči poganjki rastejo ob rozeti.

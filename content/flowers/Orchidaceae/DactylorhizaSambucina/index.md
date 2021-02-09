@@ -1,6 +1,6 @@
 ---
 color: YR
-date: '2004-12-12T00:00:00'
+date: 2004-12-12 00:00:00+00:00
 f_end: '6'
 f_start: '5'
 family: Orchidaceae
@@ -14,7 +14,6 @@ image:
 latin: Dactylorhiza sambucina
 lead: M_2_1215.JPG
 lead_sample: false
-name: index
 order: Dactylorhiza
 parallel: false
 petals: '6'
@@ -26,7 +25,7 @@ Bezgove prstaste kukavice boste v maju in juniju našli na suhih kamnitih travni
 
 -   Medena ustna je trikrpa, obrnjena navzdol in podaljšana v ostrogo.
 -   Srednja krpa medene ustne ni spiralasto zavita.
--   Ostroga ni nitasta (kot pri [navadnem kukovičniku](../../wildorchids/GymnadeniaConopsea/NavadniKukovicnik.asp)).
+-   Ostroga ni nitasta (kot pri [navadnem kukovičniku](../../gymnadeniaconopsea/navadni-kukovi&#269;nik/)).
 -   Podporni listi so zeleni in daljši od plodnice.
 -   Čelado sestavljajo samo trije cvetni listi.
 

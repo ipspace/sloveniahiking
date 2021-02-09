@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2006-07-16T00:00:00'
+date: 2006-07-16 00:00:00+00:00
 f_end: '8'
 f_start: '7'
 family: Asphodelaceae
@@ -10,7 +10,6 @@ image:
 latin: Hemerocallis fulva
 lead: M_G_3135.JPG
 lead_sample: false
-name: index
 order: Hemerocallis
 parallel: false
 petals: '6'
@@ -20,4 +19,4 @@ title: Rumenorjava maslenica
 ---
 Če se vam bo ponosna soseda pohvalila, da na njenem vrtu cvetijo čudovite lilije, bo marsikdaj v resnici mislila na rumenorjave maslenice. Te do meter in pol visoke rože navadno najdete na vrtovih, tu in tam pa podivjajo in vas razveselijo tudi v naravi.
 
-Tako kot  [rumena maslenica](../HemerocallisLilioasphodelus(rumenaMaslenica)/si_HemerocallisLilioasphodelus(rumenaMaslenica).asp) ima tudi rumenorjava velike cvetove s šestimi venčnimi listi, neolistano steblo in dolge črtalaste pritlične liste. Ločili ju boste seveda po barvi cveta -- rumena maslenica ima nežno rumen cvet, rumenorjava pa precej temnejšega.
+Tako kot  [rumena maslenica](../../hemerocallislilioasphodelus/rumena-maslenica/) ima tudi rumenorjava velike cvetove s šestimi venčnimi listi, neolistano steblo in dolge črtalaste pritlične liste. Ločili ju boste seveda po barvi cveta -- rumena maslenica ima nežno rumen cvet, rumenorjava pa precej temnejšega.

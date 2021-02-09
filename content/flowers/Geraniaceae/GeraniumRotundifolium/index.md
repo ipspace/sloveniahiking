@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2004-04-18T00:00:00'
+date: 2004-04-18 00:00:00+00:00
 f_end: '6'
 f_start: '4'
 family: Geraniaceae
@@ -10,7 +10,6 @@ image:
 latin: Geranium rotundifolium
 lead: M_8_0859.JPG
 lead_sample: false
-name: index
 order: Geranium
 parallel: false
 petals: '5'
@@ -28,4 +27,4 @@ Cvetovi to drobno rožico že na prvi pogled uvrstijo med krvomočnice, od drugi
 -   Vrh venčnih listov je le rahlo izrobljen, čašni listi so kratko priostreni, brez rese.
 -   Steblo in cvetni pecelj sta gostodlakava.
 
-Od zelo podobne [mehke krvomočnice](../GeraniumMolle(MehkaKrvomocnica)/si_GeraniumMolle(MehkaKrvomocnica).asp) boste okroglolistno ločili predvsem po izrobljenosti venčnih listov -- venčni listi mehke krvomočnice so dosti bolj izrobljeni, skorajda preklani (oglejte si njene fotografije).
+Od zelo podobne [mehke krvomočnice](../../geraniummolle/mehka-krvomo&#269;nica/) boste okroglolistno ločili predvsem po izrobljenosti venčnih listov -- venčni listi mehke krvomočnice so dosti bolj izrobljeni, skorajda preklani (oglejte si njene fotografije).

@@ -1,6 +1,6 @@
 ---
 color: G
-date: '2003-07-20T00:00:00'
+date: 2003-07-20 00:00:00+00:00
 f_end: '7'
 f_start: '5'
 family: Hyacinthaceae
@@ -11,7 +11,6 @@ image:
 latin: Ornithogalum pyrenaicum
 lead: M_1-6103_IMG.JPG
 lead_sample: false
-name: index
 order: Ornithogalum
 parallel: false
 petals: '6'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Pirenejsko ptičje mleko
 ---
-Od maja do julija boste ponekod v Sloveniji na travnikih opazili rastlino, ki bi jo na prvi pogled lahko zamenjali z [zlatim korenom](../../Liliaceae/Asphodelus(zlati_koren)/Zlati_Koren.asp), le da so cvetovi napačne barve (zelenkasti) in preveč pecljati -- verjetno ste našli pirenejsko ptičje mleko.
+Od maja do julija boste ponekod v Sloveniji na travnikih opazili rastlino, ki bi jo na prvi pogled lahko zamenjali z [zlatim korenom](../../asphodelusalbus/zlati-koren/), le da so cvetovi napačne barve (zelenkasti) in preveč pecljati -- verjetno ste našli pirenejsko ptičje mleko.
 
 Tako kot mnoge druge hijacintovke ima tudi pirejensko ptičje mleko pritlične liste in cvetove zbrane v grozdasto socvetje. Cvet je brez cvetne čaše, ima šest venčnih listov in nadraslo plodnico (lepo vidno na desni sliki). Venčni listi so prosti, ob cvetu pa raste podporni list, ki je krajši od cvetnega peclja.
 

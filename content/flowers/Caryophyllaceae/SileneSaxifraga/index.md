@@ -1,7 +1,7 @@
 ---
 author: Anka_Voncina
 color: R
-date: '2008-02-10T00:00:00'
+date: 2008-02-10 00:00:00+00:00
 f_end: '8'
 f_start: '5'
 family: Caryophyllaceae
@@ -12,7 +12,6 @@ image:
 latin: Silene saxifraga
 lead: M_007052603.jpg
 lead_sample: false
-name: index
 order: Silene
 parallel: false
 petals: '5'
@@ -26,7 +25,7 @@ Kamnokrečna lepnica cveti od maja do avgusta na skalovju od nižine pa skoraj d
 -   Cvetovi so zvezdasti in imajo po pet (redko štiri) venčnih in čašnih listov.
 -   Venčni listi so prosti, čašni pa so lahko zrasli v čašo.
 -   Razen jermenčice (*Corrigiola*) imajo vse klinčnice cele nasprotno razporejene liste.
--   Cvetovi imajo praviloma deset prašnikov, bodičnik (*Drypis)* jih ima pet. Cvetovi s štirimi venčnimi listi (na primer cvetovi [mahovne popkorese](../MoehringiaMuscosa(MahovnaPopkoresa)/si_MoehringiaMuscosa(MahovnaPopkoresa).asp)) imajo osem prašnikov.
+-   Cvetovi imajo praviloma deset prašnikov, bodičnik (*Drypis)* jih ima pet. Cvetovi s štirimi venčnimi listi (na primer cvetovi [mahovne popkorese](../../moehringiamuscosa/mahovna-popkoresa/)) imajo osem prašnikov.
 
 Od drugih klinčnic lepnice ločite takole:
 

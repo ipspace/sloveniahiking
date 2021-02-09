@@ -1,6 +1,6 @@
 ---
 color: W
-date: '2003-11-30T00:00:00'
+date: 2003-11-30 00:00:00+00:00
 f_end: '8'
 f_start: '6'
 family: Asteraceae
@@ -11,14 +11,13 @@ image:
 latin: Tanacetum corymbosum
 lead: M_1-6150_IMG.JPG
 lead_sample: false
-name: index
 order: Tanacetum
 parallel: false
 petals_joined: false
 star_shape: false
 title: Češuljasti vratič
 ---
-Ob prvem pogledu na češuljasti vratič bi skorajda rekli \" [ivanjščica](../LeucanthemumIrcutianum(NavadnaIvanjscica)/si_LeucanthemumIrcutianum(NavadnaIvanjscica).asp)\", že kratek premislek pa pove, da na steblu ivanjščice ne raste več koškov, kar je tudi edina lastnost, ki vratiče loči od ivanjščic. Tako kot ivanjščice imajo namreč tudi vratiči rumene cevaste cvetove in bele jezičaste cvetove brez kodeljic, golo dno koška in olistano steblo.
+Ob prvem pogledu na češuljasti vratič bi skorajda rekli \" [ivanjščica](../../leucanthemumircutianum/navadna-ivanjš&#269;ica/)\", že kratek premislek pa pove, da na steblu ivanjščice ne raste več koškov, kar je tudi edina lastnost, ki vratiče loči od ivanjščic. Tako kot ivanjščice imajo namreč tudi vratiči rumene cevaste cvetove in bele jezičaste cvetove brez kodeljic, golo dno koška in olistano steblo.
 
 Češuljasti vratič boste prepoznali takole:
 

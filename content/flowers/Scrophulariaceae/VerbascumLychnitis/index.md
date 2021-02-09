@@ -11,7 +11,6 @@ image:
 latin: Verbascum lychnitis
 lead: M_5-3569_IMG.JPG
 lead_sample: false
-name: index
 order: Verbascum
 parallel: false
 petals: '5'
@@ -21,7 +20,7 @@ title: Naprašeni lučnik
 ---
 Naprašeni lučnik (*Verbascum lychnitis*) raste od junija pa vse do jeseni na gozdnih robovih in kamnitih tleh. Razširjen naj bi bil po vsej Sloveniji; jaz sem ga doslej opazil le na Primorskem.
 
-Tako kot druge lučnike ga zlahka prepoznamo po značilni obliki rastline in socvetja, lahko pa seveda preverite lastnosti lučnikov. Od drugih lučnikov, na primer [navadnega lučnika](../VerbascumPhlomoides(NavadniLucnik)/si_VerbascumPhlomoides(NavadniLucnik).asp),  ga loči sivodlakavo socvetje, drugače pa ga lahko natančno določimo po teh znakih:
+Tako kot druge lučnike ga zlahka prepoznamo po značilni obliki rastline in socvetja, lahko pa seveda preverite lastnosti lučnikov. Od drugih lučnikov, na primer [navadnega lučnika](../../verbascumphlomoides/navadni-lu&#269;nik/),  ga loči sivodlakavo socvetje, drugače pa ga lahko natančno določimo po teh znakih:
 
--   Nekatere prašne niti so belodlakave (oglej si tudi bolj razširjeni [avstrijski lučnik](../VerbascumAustriacum(AvstrijskiLucnik)/si_VerbascumAustriacum(AvstrijskiLucnik).asp), ki ima vijolične prašne niti), prašnice vseh prašnikov so prečno na prašne niti (pri [navadnem lučniku](../VerbascumPhlomoides(NavadniLucnik)/si_VerbascumPhlomoides(NavadniLucnik).asp) sta pri dveh prašnikih prašnici ob prašni niti).
+-   Nekatere prašne niti so belodlakave (oglej si tudi bolj razširjeni [avstrijski lučnik](../../verbascumaustriacum/avstrijski-lu&#269;nik/), ki ima vijolične prašne niti), prašnice vseh prašnikov so prečno na prašne niti (pri [navadnem lučniku](../../verbascumphlomoides/navadni-lu&#269;nik/) sta pri dveh prašnikih prašnici ob prašni niti).
 -   Listi so zgoraj goli, temnozeleni, spodaj dlakavi, sivi do sivozeleni.

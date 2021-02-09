@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2003-06-15T00:00:00'
+date: 2003-06-15 00:00:00+00:00
 f_end: '9'
 f_start: '5'
 family: Lamiaceae
@@ -12,7 +12,6 @@ image:
 latin: Salvia pratensis
 lead: M_1-1139_IMG.JPG
 lead_sample: false
-name: index
 order: Salvia
 parallel: false
 petals: '5'
@@ -20,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Travniška kadulja
 ---
-Travniška kadulja cveti od maja do septembra na travnikih in pašnikih skoraj povsod v Sloveniji. Od [drugih kadulj](../l_salvia.htm) boste travniško ločili po tehle lastnostih:
+Travniška kadulja cveti od maja do septembra na travnikih in pašnikih skoraj povsod v Sloveniji. Od [drugih kadulj](../../genus/salvia/) boste travniško ločili po tehle lastnostih:
 
 -   Cvetni venec je temno modrovijoličast in v venčni cevi nima dlačic.
 -   Zgornja ustna je velika, ukrivljena.

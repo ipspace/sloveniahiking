@@ -1,6 +1,6 @@
 ---
 color: W
-date: '2006-12-03T00:00:00'
+date: 2006-12-03 00:00:00+00:00
 f_end: '8'
 f_start: '5'
 family: Rosaceae
@@ -10,7 +10,6 @@ image:
 latin: Filipendula vulgaris
 lead: M_4_7441.JPG
 lead_sample: false
-name: index
 order: Filipendula
 parallel: false
 petals: '5'
@@ -18,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Navadni oslad
 ---
-V začetku poletja na suhih travnikih po vsej Sloveniji zacveti navadni oslad. Socvetja, ki na daleč malce spominjajo na [kresnice](../AruncusDioicus(Kresnicevje)/SI_Kresnice.asp), so sestavljena iz drobnih belorumenih cvetov s petimi venčnimi in čašnimi listi. Kljub temu da oslad uvrščamo med rožnice, njegovi cvetovi nimajo zunanje čaše. To ga loči od večine sorodnic, seveda pa je dobro preveriti še te znake:
+V začetku poletja na suhih travnikih po vsej Sloveniji zacveti navadni oslad. Socvetja, ki na daleč malce spominjajo na [kresnice](../../aruncusdioicus/kresnice/), so sestavljena iz drobnih belorumenih cvetov s petimi venčnimi in čašnimi listi. Kljub temu da oslad uvrščamo med rožnice, njegovi cvetovi nimajo zunanje čaše. To ga loči od večine sorodnic, seveda pa je dobro preveriti še te znake:
 
 -   Listi so enkrat pernato deljeni.
 -   Socvetje je razvejeno (repik ima enostavno socvetje), cvetišče je brez bodic.

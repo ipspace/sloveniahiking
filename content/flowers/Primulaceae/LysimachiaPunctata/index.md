@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2004-02-08T00:00:00'
+date: 2004-02-08 00:00:00+00:00
 f_end: '8'
 f_start: '6'
 family: Primulaceae
@@ -12,7 +12,6 @@ image:
 latin: Lysimachia punctata
 lead: M_9-5945_IMG.JPG
 lead_sample: false
-name: index
 order: Lysimachia
 parallel: false
 petals: '5'
@@ -24,5 +23,5 @@ Pikasta pijavčnica cveti od junija do avgusta na vlažnih mestih (na travnikih,
 
 -   Cvetovi so v socvetjih v zalistju vretenc stebelnih listov.
 -   Venčni listi so po robu žlezastodlakavi.
--   Čašni listi nimajo rdečkastega roba (kot pri [navadni pijavčnici](../LysimachiaVulgaris(NavadnaPijavcnica)/si_LysimachiaVulgaris(NavadnaPijavcnica).asp)).
+-   Čašni listi nimajo rdečkastega roba (kot pri [navadni pijavčnici](../../lysimachiavulgaris/navadna-pijav&#269;nica/)).
 -   Steblo je oglato, visoko do enega metra.

@@ -20,12 +20,4 @@ petals_joined: false
 star_shape: false
 title: Navadni kukovičnik
 ---
-Navadni kukovičnik boste prepoznali predvsem po obliki cvetov, združenih v gosto socvetje  -- ostroga cvetov je daljša od plodnice, zato se ostroge posameznih cvetov med seboj prepletajo.
-
-![](http://www.zaplana.net/flowers/wildorchids/GymnadeniaConopsea/%s/M_3-1341_IMG.jpg)![](http://www.zaplana.net/flowers/wildorchids/GymnadeniaConopsea/%s/M_3-1342_IMG.jpg)
-
-Dodatne informacije:
-
--   Nemški opis
--   Dodatne slike iz galerije slovenskih orhidej
--   Išči z Googlom
+Navadni kukovičnik boste prepoznali predvsem po obliki cvetov, združenih v gosto socvetje -- ostroga cvetov je daljša od plodnice, zato se ostroge posameznih cvetov med seboj prepletajo.

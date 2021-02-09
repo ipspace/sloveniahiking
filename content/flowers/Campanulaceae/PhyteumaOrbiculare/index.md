@@ -12,7 +12,6 @@ image:
 latin: Phyteuma orbiculare
 lead: M_7-1778_IMG.JPG
 lead_sample: false
-name: index
 order: Phyteuma
 parallel: false
 petals: '5'
@@ -20,10 +19,4 @@ petals_joined: false
 star_shape: false
 title: Glavičasti repuš
 ---
-Glavičastega repuša (*Phyteuma orbiculare*) ne bo težko prepoznati. Je nekoliko manjši kot njegov sorodnik [jajčasti repuš](../Phyteuma_Ovatum(Jajcasti_Repus)/JajcastiRepus.asp), cevasti cvetovi pa so ravno tako modrovijoličaste barve in zaviti navzgor, le da so združeni v oblo, glavičasto socvetje. Zunanji ovojkovi listi so jajčasti ali suličasti (glej slike spodaj) in krajši od cvetne glavice.
-
-![](http://www.zaplana.net/flowers/Campanulaceae/Phyteuma_Orbiculare(Glavicasti_Repus)/%s/M_8-1891_IMG.JPG)![](http://www.zaplana.net/flowers/Campanulaceae/Phyteuma_Orbiculare(Glavicasti_Repus)/%s/M_7-1779_IMG.JPG)![](http://www.zaplana.net/flowers/Campanulaceae/Phyteuma_Orbiculare(Glavicasti_Repus)/%s/M_7-1780_IMG.JPG) ![](http://www.zaplana.net/flowers/Campanulaceae/Phyteuma_Orbiculare(Glavicasti_Repus)/%s/M_7-1778_IMG.JPG)
-
-Več informacij:
-
--   Išči z Googlom
+Glavičastega repuša (*Phyteuma orbiculare*) ne bo težko prepoznati. Je nekoliko manjši kot njegov sorodnik [jajčasti repuš](../../phyteumaovatum/jaj&#269;asti-repuš/), cevasti cvetovi pa so ravno tako modrovijoličaste barve in zaviti navzgor, le da so združeni v oblo, glavičasto socvetje. Zunanji ovojkovi listi so jajčasti ali suličasti (glej slike spodaj) in krajši od cvetne glavice.

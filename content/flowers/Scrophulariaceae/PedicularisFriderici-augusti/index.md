@@ -1,6 +1,6 @@
 ---
 color: W
-date: '2004-03-14T00:00:00'
+date: 2004-03-14 00:00:00+00:00
 f_end: '5'
 f_start: '4'
 family: Scrophulariaceae
@@ -11,7 +11,6 @@ image:
 latin: Pedicularis friderici-augusti
 lead: M_4-5441_IMG.JPG
 lead_sample: false
-name: index
 order: Pedicularis
 parallel: false
 petals: '5'
@@ -24,7 +23,7 @@ Bledorumeni ušivec je ena tistih rož, ki jih boste zagotovo prepoznali na prvi
 Od drugih črnobinovk ušivce ločijo te lastnosti:
 
 -   Cvetovi imajo štiri prašnike, vsi štirje so plodni.
--   Venec pri dnu nima ostroge ali izbokline (kot cvetni venec [madronščice](../LinariaVulgaris(NavadnaMadronscica)/si_LinariaVulgaris(NavadnaMadronscica).asp) ali [poponca](../CymbalariaMuralis(ZidniPoponec)/si_CymbalariaMuralis(ZidniPoponec).asp)).
+-   Venec pri dnu nima ostroge ali izbokline (kot cvetni venec [madronščice](../../linariavulgaris/navadna-madronš&#269;ica/) ali [poponca](../../cymbalariamuralis/zidni-poponec/)).
 -   Zgornja ustna venca je čeladasta (dobro vidno na desni fotografiji).
 
  Poleg dlakavega socvetja (to je zagotovo najbolj opazen določevalni znak) se bledorumeni ušivec od drugih ušivcev loči še po takole:

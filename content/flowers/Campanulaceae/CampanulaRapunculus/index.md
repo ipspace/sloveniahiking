@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2005-01-23T00:00:00'
+date: 2005-01-23 00:00:00+00:00
 f_end: '8'
 f_start: '5'
 family: Campanulaceae
@@ -11,7 +11,6 @@ image:
 latin: Campanula rapunculus
 lead: M_4_1401.JPG
 lead_sample: false
-name: index
 order: Campanula
 parallel: false
 petals: '5'
@@ -25,4 +24,4 @@ Repuščeva zvončica cveti od maja do avgusta na toplih kraških travnikih (fot
 -   Cvetovi so zbrani v rahlem dolgem grozdastem socvetju.
 -   Spodnji stebelni listi so suličasti, sedeči ali pa imajo nerazločne peclje.
 
-Repuščevi zvončici sta po obliki listov najbolj podobni [breskvolistna](../CampanulaPersicifolia(BreskvolistnaZvoncica)/si_CampanulaPersicifolia(BreskvolistnaZvoncica).asp) in [razprostrta](../CampanulaPatula(RazprostrtaZvoncica)/si_CampanulaPatula(RazprostrtaZvoncica).asp) zvončica. Breskvolistna zvončica ima manj (do osem) precej večjih cvetov, razprostrta zvončica pa zelo rahlo latasto ali češuljasto socvetje, sestavljeno iz dolgih tankih vejic.
+Repuščevi zvončici sta po obliki listov najbolj podobni [breskvolistna](../../campanulapersicifolia/breskvolistna-zvon&#269;ica/) in [razprostrta](../../campanulapatula/razprostrta-zvon&#269;ica/) zvončica. Breskvolistna zvončica ima manj (do osem) precej večjih cvetov, razprostrta zvončica pa zelo rahlo latasto ali češuljasto socvetje, sestavljeno iz dolgih tankih vejic.

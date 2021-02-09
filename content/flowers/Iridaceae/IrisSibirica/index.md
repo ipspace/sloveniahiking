@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2003-06-15T00:00:00'
+date: 2003-06-15 00:00:00+00:00
 f_end: '6'
 f_start: '5'
 family: Iridaceae
@@ -11,7 +11,6 @@ image:
 latin: Iris sibirica
 lead: M_8-5812_IMG.JPG
 lead_sample: false
-name: index
 order: Iris
 parallel: false
 petals: '6'
@@ -21,8 +20,8 @@ title: Sibirska perunika
 ---
 Sibirska perunika cveti v maju in juniju na močvirskih travnikih ponekod v Sloveniji. Od drugih perunik jo zlahka ločimo:
 
--   Spodnji cvetni listi nimajo brkatih dlačic (kot cvetovi [ilirske perunike](../IrisPallidaIllyrica(IlirskaPerunika)/si_IrisPallidaIllyrica(IlirskaPerunika).asp)).
--   Cvetovi so modrovijolični ([vodna perunika](../IrisPseudacorus(VodnaPerunika)/si_IrisPseudacorus(VodnaPerunika).asp) ima rumene).
--   Steblo je valjasto (pri [travnolistni peruniki](../IrisGraminea(TravnolistnaPerunika)/TravnolistnaPerunika.asp) krilato), visoko nad 50 cm.
--   Pritlični listi so krajši od cvetnih stebel (listi [travnolistne perunike](../IrisGraminea(TravnolistnaPerunika)/TravnolistnaPerunika.asp)  so precej daljši od cvetnih stebel).
--   Rastlina raste na močvirskih travnikih ([kojniška perunika](../IrisSibiricaErirrhiza(KojniskaPerunika)/si_IrisSibiricaErirrhiza(KojniskaPerunika).asp) raste na suhih kraških travnikih).
+-   Spodnji cvetni listi nimajo brkatih dlačic (kot cvetovi [ilirske perunike](../../irispallidaillyrica/ilirska-perunika/)).
+-   Cvetovi so modrovijolični ([vodna perunika](../../irispseudacorus/vodna-perunika/) ima rumene).
+-   Steblo je valjasto (pri [travnolistni peruniki](../../irisgraminea/travnolistna-perunika/) krilato), visoko nad 50 cm.
+-   Pritlični listi so krajši od cvetnih stebel (listi [travnolistne perunike](../../irisgraminea/travnolistna-perunika/)  so precej daljši od cvetnih stebel).
+-   Rastlina raste na močvirskih travnikih ([kojniška perunika](../../irissibiricassp.erirrhiza/kojniška-perunika/) raste na suhih kraških travnikih).

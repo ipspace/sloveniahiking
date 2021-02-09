@@ -28,10 +28,3 @@ Zvezdasto kukavico boste prepoznali po teh lastnostih:
 -   Podporni listi niso daljši od plodnice.
 
 Od zelo podobne stasite kukavice (*Orchis mascula*) boste zvezdasto ločili le po obliki cvetnih listov -- ti so pri zvezdasti kukavici priostreni in imajo ukrivljene konice. Medena ustna je pri zvezdasti kukavici grobo nazobčana, njena srednja krpa pa je daljša od stranskih krp (glej desno fotografijo).
-
-![](http://www.zaplana.net/flowers/Orchidaceae/OrchisSignifera(ZvezdnataKukavica)/%s/M_8-0832_IMG.jpg)![](http://www.zaplana.net/flowers/Orchidaceae/OrchisSignifera(ZvezdnataKukavica)/%s/M_8-0833_IMG.jpg)![](http://www.zaplana.net/flowers/Orchidaceae/OrchisSignifera(ZvezdnataKukavica)/%s/M_8-0845_IMG.jpg)
-
-Dodatne informacije:
-
--   Dodatne slike iz galerije slovenskih orhidej
--   Išči z Googlom

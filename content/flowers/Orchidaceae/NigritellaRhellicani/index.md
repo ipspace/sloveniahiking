@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2004-12-26T00:00:00'
+date: 2004-12-26 00:00:00+00:00
 f_end: '9'
 f_start: '6'
 family: Orchidaceae
@@ -11,7 +11,6 @@ image:
 latin: Nigritella rhellicani
 lead: M_7_1717.JPG
 lead_sample: false
-name: index
 order: Nigritella
 parallel: false
 petals: '6'
@@ -23,4 +22,4 @@ title: Črna murka
 
 Od drugih kukavičevk (murke spadajo v to družino) boste murke ločili po zgradbi cveta: medena ustna je sicer podaljšana v ostrogo, vendar obrnjena navzgor (pri vseh drugih kukavičevkah razen pri nadbradcu je medena ustna spodnji list v cvetu). Zgradba cveta se lepo vidi na fotografijah iz galerije slovenskih orhidej.
 
-V Sloveniji rastejo tri vrste murk, poleg črne (ki jo bodo hitro izdali temni cvetovi) še [kamniška](../NigritellaLithopolitanica(KamniskaMurka)/si_NigritellaLithopolitanica(KamniskaMurka).asp) in [rdeča](../NigritellaRubra(RdecaMurka)/si_NigritellaRubra(RdecaMurka).asp).
+V Sloveniji rastejo tri vrste murk, poleg črne (ki jo bodo hitro izdali temni cvetovi) še [kamniška](../../nigritellalithopolitanica/kamniška-murka/) in [rdeča](../../nigritellarubra/rde&#269;a-murka/).

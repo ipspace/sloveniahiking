@@ -20,11 +20,6 @@ petals_joined: false
 star_shape: false
 title: Gozdni šebenik
 ---
-![](http://www.zaplana.net/flowers/Brassicaceae/Erysimum(Sebenik)/%s/M_9-0951_IMG.jpg)![](http://www.zaplana.net/flowers/Brassicaceae/Erysimum(Sebenik)/%s/M_9-0944_IMG.jpg)Šebenik boste najverjetneje našli na suhih, kamnitih tleh (posnetki so iz melišča na Polhograjski gori), kjer bo s svojimi lepimi rumenimi cvetovi popestril sivino kamna.
+Gozdni šebenik boste najverjetneje našli na suhih, kamnitih tleh (posnetki so iz melišča na Polhograjski gori), kjer bo s svojimi lepimi rumenimi cvetovi popestril sivino kamna.
 
-![](http://www.zaplana.net/flowers/Brassicaceae/Erysimum(Sebenik)/%s/M_9-0949_IMG.jpg) ![](http://www.zaplana.net/flowers/Brassicaceae/Erysimum(Sebenik)/%s/M_9-0946_IMG.jpg)Na vrhu stebla, obraščenega z ozkimi, suličastimi listi, ki še potrjujejo šebenikovo prilagojenost na suha tla, se spomladi razcveti socvetje rumenih štirilistnih cvetov.
-
-Več informacij:
-
--   [Lastnosti križnic](../l_brassicaceae.htm)
--   Išči z Googlom ali z najdi.si
+Na vrhu stebla, obraščenega z ozkimi, suličastimi listi, ki še potrjujejo šebenikovo prilagojenost na suha tla, se spomladi razcveti socvetje rumenih štirilistnih cvetov.

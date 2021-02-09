@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2002-10-31T00:00:00'
+date: 2002-10-31 00:00:00+00:00
 f_end: '8'
 f_start: '7'
 family: Campanulaceae
@@ -12,7 +12,6 @@ image:
 latin: Campanula pyramidalis
 lead: M_5-3575_IMG.JPG
 lead_sample: false
-name: index
 order: Campanula
 parallel: false
 petals: '5'
@@ -22,6 +21,6 @@ title: Piramidasta zvončica
 ---
 Piramidasto zvončico boste od julija do sredine jeseni našli na suhih, kamnitih tleh na Primorskem (včasih raste celo v skalnih razpokah).
 
-![](http://www.zaplana.net/flowers/Campanulaceae/CampanulaPyramidalis(PiramidastaZvoncica)/%s/M_5-3575_IMG.JPG)Steblo te zvončice je golo, včasih razraslo (s šibastimi poganjki). Vsi listi so jajčasti in imajo razločne peclje (po tem se razlikuje od [bolonjske](../CampanulaBononiensis(BolonjskaZvoncica)/si_CampanulaBononiensis(BolonjskaZvoncica).asp) ali repuščeve zvončice).
+Steblo te zvončice je golo, včasih razraslo (s šibastimi poganjki). Vsi listi so jajčasti in imajo razločne peclje (po tem se razlikuje od [bolonjske](../../campanulabononiensis/bolonjska-zvon&#269;ica/) ali repuščeve zvončice).
 
-Cvetovi so pecljati in goli (tako jo ločimo od [repuščevolistne](../CampanulaRapunculoides(RepuscevolistnaZvoncica)/si_CampanulaRapunculoides(RepuscevolistnaZvoncica).asp) ali [koprivaste](../CampanulaTrachelium(KoprivastaZvoncica)/si_CampanulaTrachelium(KoprivastaZvoncica).asp) zvončice). Čašni listi so zavihani precej vstran od venčnih (pri drugače zelo podobni repuščevi zvončici so le malo zavihani).
+Cvetovi so pecljati in goli (tako jo ločimo od [repuščevolistne](../../campanularapunculoides/repuš&#269;evolistna-zvon&#269;ica/) ali [koprivaste](../../campanulatrachelium/koprivasta-zvon&#269;ica/) zvončice). Čašni listi so zavihani precej vstran od venčnih (pri drugače zelo podobni repuščevi zvončici so le malo zavihani).

@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2005-01-23T00:00:00'
+date: 2005-01-23 00:00:00+00:00
 f_end: '8'
 f_start: '7'
 family: Asteraceae
@@ -11,14 +11,13 @@ image:
 latin: Centaurea dichroantha
 lead: M_5_1524.JPG
 lead_sample: false
-name: index
 order: Centaurea
 parallel: false
 petals_joined: false
 star_shape: false
 title: Dvobarvni glavinec
 ---
-Dvobarvni glavinec je poleg [skalnega](../CentaureaRupestris(SkalniGlavinec)/si_CentaureaRupestris(SkalniGlavinec).asp) edini v Sloveniji rastoči glavinec z rumenim cvetom (starejši viri omenjajo še poletni glavinec, vendar Mala flora Slovenije navaja, da novejših najdb ni). Od skalnega glavinca ga boste hitro ločili po teh znakih:
+Dvobarvni glavinec je poleg [skalnega](../../centaurearupestris/skalni-glavinec/) edini v Sloveniji rastoči glavinec z rumenim cvetom (starejši viri omenjajo še poletni glavinec, vendar Mala flora Slovenije navaja, da novejših najdb ni). Od skalnega glavinca ga boste hitro ločili po teh znakih:
 
 -   Listi dvobarvnega glavinca so gladki, listi skalnega pa vsaj po robu raskavi.
 -   Dvobarvni glavinec je precej visok, skalni pa je pritlikava rastlina.

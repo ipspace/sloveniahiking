@@ -1,6 +1,6 @@
 ---
 color: G
-date: '2003-02-09T00:00:00'
+date: 2003-02-09 00:00:00+00:00
 f_end: '8'
 f_start: '7'
 family: Euphorbiaceae
@@ -12,14 +12,13 @@ image:
 latin: Euphorbia nicaeensis
 lead: M_3-3396_IMG.JPG
 lead_sample: false
-name: index
 order: Euphorbia
 parallel: false
 petals_joined: false
 star_shape: false
 title: Gladki mleček
 ---
-Cvetovi gladki mleček že na prvi pogled uvrščajo med [mlečke](../l_euphorbia.htm). Našli ga boste na kamnitih kraških gmajnah -- v poletnih mesecih bo cvetel, jeseni pa boste lahko občudovali živo obarvane liste (slika desno). Od ostalih mlečkov ga boste ločili takole:
+Cvetovi gladki mleček že na prvi pogled uvrščajo med [mlečke](../../genus/euphorbia/). Našli ga boste na kamnitih kraških gmajnah -- v poletnih mesecih bo cvetel, jeseni pa boste lahko občudovali živo obarvane liste (slika desno). Od ostalih mlečkov ga boste ločili takole:
 
 -   Rastline so večinoma brez stranskih poganjkov.
 -   Listi so razporejeni premenjalno, nekoliko usnjati, sinjezeleni. So suličaste oblike, celi, brez prilistov, najširši v sredini ali malo nad njo.

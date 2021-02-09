@@ -1,7 +1,7 @@
 ---
 author: Anton_Poler
 color: B
-date: '2006-04-09T00:00:00'
+date: 2006-04-09 00:00:00+00:00
 f_end: '6'
 f_start: '4'
 family: Violaceae
@@ -12,7 +12,6 @@ image:
 latin: Viola riviniana
 lead: M_006040102.JPG
 lead_sample: false
-name: index
 order: Viola
 parallel: false
 petals: '5'
@@ -23,9 +22,9 @@ title: Rivinova vijolica
 Rivinova vijolica cveti v pozni pomladi (do aprila do junija) v gozdovih po vsej Sloveniji. Od drugih vijolic jo ločimo po teh znakih:
 
 -   Trije venčni listi so obrnjeni navzdol.
--   Ostroga je svetla, debela, topa, rahlo ukrivljena navzgor (pri [gozdni vijolici](../ViolaReichenbachiana(GozdnaVijolica)/si_ViolaReichenbachiana(GozdnaVijolica).asp) temnovijolična, ozka, priostrena, ukrivljena rahlo navzdol).
--   Čašni listi so priostreni. Priveski čašnih listov so skoraj kvadratni (pri [gozdni vijolici](../ViolaReichenbachiana(GozdnaVijolica)/si_ViolaReichenbachiana(GozdnaVijolica).asp) kratki).
+-   Ostroga je svetla, debela, topa, rahlo ukrivljena navzgor (pri [gozdni vijolici](../../violareichenbachiana/gozdna-vijolica/) temnovijolična, ozka, priostrena, ukrivljena rahlo navzdol).
+-   Čašni listi so priostreni. Priveski čašnih listov so skoraj kvadratni (pri [gozdni vijolici](../../violareichenbachiana/gozdna-vijolica/) kratki).
 -   Steblo je olistano, razvito že v začetku cvetenja in ni enoredno dlakavo.
 -   Prilisti srednjih stebelnih listov so mnogo krajši od listnih pecljev.
 -   Listi so jajčasti s srčastim dnom in razločno nazobčani.
--   Rastlina ima pritlično listno rozeto ([pasja vijolica](../ViolaCanina(PasjaVijolica)/si_ViolaCanina(PasjaVijolica).asp) je nima).
+-   Rastlina ima pritlično listno rozeto ([pasja vijolica](../../violacanina/pasja-vijolica/) je nima).

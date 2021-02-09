@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2004-10-31T00:00:00'
+date: 2004-10-31 00:00:00+00:00
 f_end: '10'
 f_start: '6'
 family: Primulaceae
@@ -11,7 +11,6 @@ image:
 latin: Anagallis arvensis
 lead: M_7_1778.JPG
 lead_sample: false
-name: index
 order: Anagallis
 parallel: false
 petals: '5'
@@ -21,7 +20,7 @@ title: Navadna kurja češnjica
 ---
 Drobne cinobrastordeče cvetove navadne kurje češnjice boste v poznem poletju in zgodnji jeseni opazili ob njivah, vrtovih in poteh po vsej Sloveniji.
 
-Cvetovi s petimi zraslimi venčnimi listi, petimi čašnimi listi, nadraslo plodnico in petimi prašniki uvrščajo to drobno rožico med jegličevke (je torej sorodnica [trobentice](../PrimulaVulgaris(Trobentica)/si_PrimulaVulgaris(Trobentica).asp)), od drugih jegličevk pa jo ločijo te lastnosti:
+Cvetovi s petimi zraslimi venčnimi listi, petimi čašnimi listi, nadraslo plodnico in petimi prašniki uvrščajo to drobno rožico med jegličevke (je torej sorodnica [trobentice](../../primulavulgaris/trobentica/)), od drugih jegličevk pa jo ločijo te lastnosti:
 
 -   Steblo je olistano.
 -   Listi so nasprotni.

@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2006-09-17T00:00:00'
+date: 2006-09-17 00:00:00+00:00
 f_end: '9'
 f_start: '5'
 family: Scrophulariaceae
@@ -11,7 +11,6 @@ image:
 latin: Rhinanthus freynii
 lead: M_G_3104.JPG
 lead_sample: false
-name: index
 order: Rhinanthus
 parallel: false
 petals: '5'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Freynov škrobotec
 ---
-Freynov škrobotec cveti od maja do oktobra na travnikih po vsej Sloveniji. Tako kot dosti bolj pogostega [resastega](../RhinanthusGlacialis(ResastiSkrobotec)/si_RhinanthusGlacialis(ResastiSkrobotec).asp) (tam si preberite tudi več o lastnostih škrobotcev) boste tudi Freynovega prepoznali po napihnjeni čaši, od drugih škrobotcev pa ga boste ločili takole:
+Freynov škrobotec cveti od maja do oktobra na travnikih po vsej Sloveniji. Tako kot dosti bolj pogostega [resastega](../../rhinanthusglacialis/resasti-škrobotec/) (tam si preberite tudi več o lastnostih škrobotcev) boste tudi Freynovega prepoznali po napihnjeni čaši, od drugih škrobotcev pa ga boste ločili takole:
 
 -   Zobca zgornje ustne sta prisekana.
 -   Spodnja ustna je primaknjena k zgornji, vhod v venčno cev je tako zaprt.

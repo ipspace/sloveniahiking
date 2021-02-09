@@ -1,6 +1,6 @@
 ---
 color: W
-date: '2006-04-30T00:00:00'
+date: 2006-04-30 00:00:00+00:00
 f_end: '7'
 f_start: '4'
 family: Brassicaceae
@@ -11,7 +11,6 @@ image:
 latin: Arabis turrita
 lead: M_9_0907.JPG
 lead_sample: false
-name: index
 order: Arabis
 parallel: false
 petals: '4'
@@ -21,7 +20,7 @@ title: Slokastoplodni repnjak
 ---
 Slokastoplodni repnjak raste na toplih apnenčastih tleh po vsej Sloveniji. Njegove rumenkastobele cvetove boste opazili od aprila do julija.
 
-Repnjake ločite od [drugih križnic](../l_brassicaceae.htm) po:
+Repnjake ločite od [drugih križnic](../../family/brassicaceae/) po:
 
 -   obliki ploda, ki je podolgovat (lusk), in
 -   celih priostrenih listih (zgornji objemajo steblo).

@@ -1,6 +1,6 @@
 ---
 color: W
-date: '2002-12-05T00:00:00'
+date: 2002-12-05 00:00:00+00:00
 f_end: '8'
 f_start: '7'
 family: Alliaceae
@@ -13,7 +13,6 @@ image:
 latin: Allium ericetorum
 lead: M_0-3092_IMG.JPG
 lead_sample: false
-name: index
 order: Allium
 parallel: false
 petals: '6'
@@ -26,4 +25,4 @@ Rumenkasti luk boste na suhih kamnitih travnikih našli od julija do septembra. 
 -   Cvetno odevalo je rahlo rumenkasto (glej sliko levo spodaj).
 -   Listi so črtalasti, pritlični.
 -   Listi cvetnega odevala so kratki (manj kot 8 mm) in niso zavihani.
--   Socvetje nima izrazitega podpornega lista (kot npr. pri [lepem luku](../AlliumCarinatumPulchellum(LepiLuk)/si_AlliumCarinatumPulchellum(LepiLuk).asp)).
+-   Socvetje nima izrazitega podpornega lista (kot npr. pri [lepem luku](../../alliumcarinatumpulchellum/lepi-luk/)).

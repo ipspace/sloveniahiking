@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2003-05-11T00:00:00'
+date: 2003-05-11 00:00:00+00:00
 f_end: '6'
 f_start: '4'
 family: Lamiaceae
@@ -11,7 +11,6 @@ image:
 latin: Glechoma hederacea
 lead: M_0-5029_IMG.JPG
 lead_sample: false
-name: index
 order: Glechoma
 parallel: false
 petals: '5'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Bršljanasta grenkuljica
 ---
-Bršljanasto grenkuljico boste na kamnitih, travnatih pobočjih po vsej Sloveniji opazili od aprila do junija. Od [drugih ustnatic](../l_lamiaceae.htm) jo boste ločili po tehle znakih:
+Bršljanasto grenkuljico boste na kamnitih, travnatih pobočjih po vsej Sloveniji opazili od aprila do junija. Od [drugih ustnatic](../../family/lamiaceae/) jo boste ločili po tehle znakih:
 
 -   Stebelni listi so pecljati, ledvičasto-srčasti in grobo, topo nazobčani.
 -   Cvetovi so dlakavi, modrovijoličasti (na fotografiji nekoliko presvetli), po dva ali trije v zalistju (glejte desno fotografijo).

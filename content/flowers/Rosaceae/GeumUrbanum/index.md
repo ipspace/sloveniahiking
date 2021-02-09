@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2005-03-20T00:00:00'
+date: 2005-03-20 00:00:00+00:00
 f_end: '9'
 f_start: '5'
 family: Rosaceae
@@ -10,7 +10,6 @@ image:
 latin: Geum urbanum
 lead: M_4_1438.JPG
 lead_sample: false
-name: index
 order: Geum
 parallel: false
 petals: '5'
@@ -22,6 +21,6 @@ Navadna sretena cveti od maja do septembra na gozdnih robovih, med grmovjem in p
 
 Od drugih sreten boste navadno ločili takole:
 
--   Cvetovi so rumeni in pokončni ([potočna sretena](../GeumRivale(PotocnaSretena)/si_GeumRivale(PotocnaSretena).asp) ima kimaste rdečkaste cvetove).
+-   Cvetovi so rumeni in pokončni ([potočna sretena](../../geumrivale/poto&#269;na-sretena/) ima kimaste rdečkaste cvetove).
 -   Steblo je večcvetno, cvetovi so majhni (do centrimetra in pol v premeru).
 -   Čašni listi so po odcvetu zavihani navzdol.

@@ -11,7 +11,6 @@ image:
 latin: Dactylorhiza fuchsii
 lead: M_7-1744_IMG.JPG
 lead_sample: false
-name: index
 order: Dactylorhiza
 parallel: false
 petals: '6'
@@ -19,12 +18,4 @@ petals_joined: false
 star_shape: false
 title: Fuchsova prstasta kukavica
 ---
-Fuchsovo prstasto kukavico (*Dactylorhiza fuchsii*) boste prepoznali po istih znakih kot [pegasto prstasto kukavico,](../DactylorhizaMaculata/PegastaPrstasta.asp) razlikujeta se le v obliki spodnjega cvetnega lista, ki je globlje deljen in ima izrazit srednji del.
-
-![](http://www.zaplana.net/flowers/wildorchids/DactylorhizaFuchsii/%s/M_7-1744_IMG.JPG)![](http://www.zaplana.net/flowers/wildorchids/DactylorhizaFuchsii/%s/M_1-1173_IMG.jpg)
-
-Dodatne informacije:
-
--   Nemški opis
--   Dodatne slike iz galerije slovenskih orhidej
--   Išči z Googlom
+Fuchsovo prstasto kukavico (*Dactylorhiza fuchsii*) boste prepoznali po istih znakih kot [pegasto prstasto kukavico,](../../dactylorhizamaculata/pegasta-prstasta-kukavica/) razlikujeta se le v obliki spodnjega cvetnega lista, ki je globlje deljen in ima izrazit srednji del.

@@ -1,6 +1,6 @@
 ---
 color: B
-date: '2004-04-11T00:00:00'
+date: 2004-04-11 00:00:00+00:00
 f_end: '5'
 f_start: '3'
 family: Violaceae
@@ -10,7 +10,6 @@ image:
 latin: Viola odorata
 lead: M_6_0688.jpg
 lead_sample: false
-name: index
 order: Viola
 parallel: false
 petals: '5'
@@ -18,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Dišeča vijolica
 ---
-Omamno dišeče cvetove dišeče vijolice boste od marca do maja opazili v živih mejah, ob poteh, na gozdnih robovih in suhih travnikih. Razširjena je skoraj po vsej Sloveniji, v primerjavi z drugimi vijolicami (na primer [srhkodlakavo vijolico](../ViolaHirta(SrhkodlakavaVijolica)/si_ViolaHirta(SrhkodlakavaVijolica).asp)) pa je precej bolj redka.
+Omamno dišeče cvetove dišeče vijolice boste od marca do maja opazili v živih mejah, ob poteh, na gozdnih robovih in suhih travnikih. Razširjena je skoraj po vsej Sloveniji, v primerjavi z drugimi vijolicami (na primer [srhkodlakavo vijolico](../../violahirta/srhkodlakava-vijolica/)) pa je precej bolj redka.
 
 Od drugih vijolic boste dišečo ločili po teh lastnostih:
 

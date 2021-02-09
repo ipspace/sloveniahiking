@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2003-12-14T00:00:00'
+date: 2003-12-14 00:00:00+00:00
 f_end: '7'
 f_start: '5'
 family: Fabaceae
@@ -11,7 +11,6 @@ image:
 latin: Genista januensis
 lead: M_0-6091_IMG.JPG
 lead_sample: false
-name: index
 order: Genista
 parallel: false
 petals: '5'
@@ -21,7 +20,7 @@ title: Triroba košeničica
 ---
 Triroba košeničica cveti od maja do julija na skalnatih mestih in pustih travnikih. Najpogosteje jo boste opazili v Zasavju, raste pa tudi drugod po Sloveniji (fotografije so s planine pod Poreznom).
 
-Podroben pogled na zgradbo cvetov, zbranih v gostem socvetju, pokaže, da je pred nami rastlina iz družine metuljnic. Od večine metuljnic bomo [košeničice](../l_genista.htm) ločili takole:
+Podroben pogled na zgradbo cvetov, zbranih v gostem socvetju, pokaže, da je pred nami rastlina iz družine metuljnic. Od večine metuljnic bomo [košeničice](../../genus/genista/) ločili takole:
 
 -   Košeničice so trajni polgrmički.
 -   Večina košeničic ima enostavne cele liste.
