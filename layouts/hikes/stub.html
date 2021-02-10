@@ -8,11 +8,7 @@
   {{ else }}
     <h2 class="firstHeading">The Basics</h2>
   {{ end }}
-  {{ if .Params.lead }}
-    <span class="flower__lead flower__item">
-    {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}">{{ end }}
-    </span>
-  {{ end }}
+  {{ .Scratch.Set "lead" "NOLEAD" }}
   <dl class='flower__data'>
     <dt>Peak height</dt>
     <dd>{{ .Params.height }}</dd>
@@ -27,20 +23,7 @@
   <p>We don't have an English description of this hike yet.
   Why don't you take the hike and contribute a description? Thank you!</p>
   {{ end }}
-  {{ $images := .Resources.Match "M*.[jJ][pP][gG]" }}
-  {{ $lead := .Params.lead }}
-  {{ if gt (len $images) 1 }}
-    <h3>Photo Gallery</h3>
-    <section class="flower__gallery">
-    {{ range $images }}
-      {{ if and (ne .Name $lead) (not (in .Name "map")) }}
-        <div class='flower__item'>
-          <img src="{{ .Permalink }}">
-        </div>
-      {{ end }}
-    {{ end }}
-    </section>
-  {{ end }}
+  {{ partial "photo-gallery" . }}
   {{ $views := .Resources.Match "Raz*.[jJ][pP][gG]" }}
   {{ if gt (len $views) 0 }}
     {{ if eq (len $views) 1 }}
@@ -49,7 +32,14 @@
       <h3>Views from the top</h3>
     {{ end }}
     {{ range $views }}
-      <p class='separator'><img src="{{ .Permalink }}"></p>
+      <div class="fancy-figure box caption-position-default">
+        <figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+          <div class="img">
+            <img itemprop="thumbnail" src="{{ .Permalink }}">
+          </div>
+          <a href="{{ .Permalink }}" itemprop="contentUrl"></a>
+        </figure>
+      </div>
     {{ end }}
   {{ end }}
   {{ partial "hike-map.html" . }}

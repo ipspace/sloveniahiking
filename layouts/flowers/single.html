@@ -2,10 +2,12 @@
 {{ $title := dict "title" (printf "%s (%s)" .Title .Params.latin) "page" . }}
 {{ partial "multi-title.html" $title }}
 <article id="left-column">
-  {{ if .Params.lead }}
+  {{ if and .Content .Params.lead }}
     <span class="flower__item flower__lead">
     {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}">{{ end }}
     </span>
+  {{ else }}
+    {{ .Scratch.Set "lead" "NOLEAD" }}
   {{ end }}
   <dl class="flower__data">
     {{ $family := $.Site.Data.botany.family }}
@@ -28,23 +30,7 @@
     {{ partial (printf "flower-period-%s" .Lang) . }}
   </dl>
   {{ .Content }}
-  {{ if gt (len .Params.image) 1 }}
-    <h3>{{ i18n "MorePhotos" }} </h3>
-    <section class='flower__gallery'>
-      {{ $me := . }}
-      {{ $lead := .Params.lead }}
-      {{ range .Params.image }}
-        {{ if ne . $lead }}
-          {{ $img := . }}
-          {{ with $me }}
-            <div class='flower__item'>
-              {{ with .Resources.GetMatch $img }}<img src="{{ .Permalink }}">{{ end }}
-            </div>
-          {{ end }}
-        {{ end }}
-      {{ end }}
-    </section>
-  {{ end }}
+  {{ partial "photo-gallery" . }}
   <div style='clear: both;'></div>
   <!-- comments -->
   <div class='post__meta flower__meta'>

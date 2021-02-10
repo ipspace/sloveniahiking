@@ -42,8 +42,11 @@ other="Similar flowers"
 [flowerrandom]
 other="A few randomly selected flowers"
 
-[MorePhotos]
-other="More photos"
+[flowersPhotos]
+other="Photo Gallery"
+
+[hikesPhotos]
+other="Photo Gallery"
 
 [recentupdates]
 other="Recent updates"

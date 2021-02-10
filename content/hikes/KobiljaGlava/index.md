@@ -13,7 +13,7 @@ title: Kobilja glava
 x: 407
 y: 117
 ---
-![](M_0_00656.JPG)
+{{<figure src="M_0_00656.JPG">}}
 
 Kobilja glava (1475 m) je travnat razgleden vrh vzhodno od Tolmina z verjetno najlepšim pogledom na greben Peči (zaradi boljšega »marketinga« Bohinjcev večina Slovencev te vrhove pozna kot Spodnje Bohinjske gore). Nanj vodi (obledelo in borno) markirana pot, ki jo domačini tako dobro skrivajo, da je ne boste našli niti na zemljevidih niti v Miheličevem vodniku po Julijskih Alpah.
 
@@ -58,6 +58,6 @@ Tik pred kočo vas kažipot usmeri navzgor med lesenimi ograjami. Naslednji kaž
 
 Z vrha se spustite do sedelca med Šprinco in Kobiljo glavo, potem pa se desno od grebena hitro dvignete do pastirskega stana (vikenda?) na zahodnem travnatem pobočju Kobilje glave, od koder je vrh že dobro viden. Večina pohodnikov se odloči za nekaj lažji dostop po severnem grebenu: po travnikih levo od vrha se mimo kala vzpnete do grebena in po njem do vrha. Malce bolj naporen je vzpon z juga: ves čas se držite ograje na robu planine nad strmimi južnimi pobočji, se sprehodite skozi skalno škrbino (od tod je čudovit pogled proti jugu) in nato po grebenu do vrha.
 
-{{<figure src="Razgled_Sever.jpg" caption="Pogled proti severu">}}
+{{<figure src="Razgled_Sever.jpg" caption="Pogled proti severu" caption-position="bottom" caption-effect="slide">}}
 
 Na planino Stador se vrnete po poti, po kateri ste se povzpeli, lahko pa se odpravite še do bližnjega Jalovnika (15 minut hoje) ali se spustite po severnem grebenu Kobilje glavo do planine Lom in s te po položni makadamski cesti do izhodišča.

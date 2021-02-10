@@ -1,0 +1,20 @@
+{{ $images := .Resources.Match "M*.[jJ][pP][gG]" }}
+{{ $lead := .Scratch.Get "lead" | default .Params.lead }}
+{{ if gt (len $images) 1 }}
+  <h3>{{ i18n (printf "%sPhotos" .Type) }}</h3>
+  <div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition"
+    itemscope="" itemtype="http://schema.org/ImageGallery" style="clear: both;">
+  {{ range $images }}
+    {{ if and (ne .Name $lead) (not (in .Name "map")) }}
+      <div class="fancy-figure box caption-position-default">
+        <figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+          <div class="img" style="background-image: url('{{ .Permalink }}');">
+            <img itemprop="thumbnail" src="{{ .Permalink }}">
+          </div>
+          <a href="{{ .Permalink }}" itemprop="contentUrl"></a>
+        </figure>
+      </div>
+    {{ end }}
+  {{ end }}
+  </div>
+{{ end }}
