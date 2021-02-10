@@ -2633,6 +2633,10 @@ Grid Layout Styles
   .gallery.hover-effect-zoom figure:hover .img {
     transform: scale(1.05); }
 
+/* Make sure PhotoSwipe sits on top of Sidebar */
+.pswp {
+  z-index: 2061; }
+
 @media (min-width: 768px) {
   .flower__gallery {
     display: flex;
