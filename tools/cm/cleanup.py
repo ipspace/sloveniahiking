@@ -81,8 +81,12 @@ def replace_shortcode(matchobject):
   sc = sc.replace('\\','')
   return sc
 
+def insert_figure(matchobject):
+  return '\n{{<figure src="%s">}}\n\n' % matchobject.group(1)
+
 def cleanup_shortcode(md):
   md = re.sub('{{.*?}}',replace_shortcode,md)
+  md = re.sub('!\\[\\]\\((.*?)\\)',insert_figure,md)
   return md
 
 def html_to_markdown(html):

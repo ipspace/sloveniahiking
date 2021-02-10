@@ -14,7 +14,7 @@ def extract_images(html,dir):
     if not '..' in src and src.find('/') != 0 and src.find('://') < 0:
       src = recover_image_name(src)
       imglist.append(src)
-      image['src'] = dir+"/"+src
+      image['src'] = dir+"/"+src if dir else src
   return imglist
 
 def find_lead_image(html):

@@ -21,11 +21,10 @@ def read_hike_page(url,hike_dir,image_dir):
 
   page = {}
   cm.parse.extract_page_heading(page,html)
-  page['image'] = cm.parse.extract_images(html,image_dir)
   lead = cm.parse.find_lead_image(html)
   if lead:
     page['lead'] = lead
-
+  page['image'] = cm.parse.extract_images(html,None)
   page['text'] = extract_hike_text(html)
   return page
 
@@ -119,8 +118,8 @@ def fetch_hike(hike_row,config):
 
   hike['markdown'] = cm.cleanup.html_to_markdown(hike['html'])
   augment_hike_data(hike,hike_row)
-  cm.write.create_output_file(data=hike,target_path=config['ExFilePath'])
-  fetch_hike_images(hike=hike,url_pattern=config['HikeImageUrl'],target_pattern=config['ExImagePath'])
+  cm.write.create_output_file(data=hike,target_path=config['ExFilePath']+'/'+hike['name'],name='index')
+  fetch_hike_images(hike=hike,url_pattern=config['HikeImageUrl'],target_pattern=config['ExFilePath']+'/%s')
 
   if not cm.web.probe(config['HikeUrlEn'] % (hike_row['ExDirectory'],1)):
     return hike
@@ -130,7 +129,7 @@ def fetch_hike(hike_row,config):
     hike['markdown'] = cm.cleanup.html_to_markdown(hike['html'])
     augment_hike_data(hike,hike_row)
     hike['title'] = hike_row.get('ExEnglishName',hike['title'])
-    cm.write.create_output_file(data=hike,target_path=config['ExFilePathEn'])
-    fetch_hike_images(hike=hike,url_pattern=config['HikeImageUrl'],target_pattern=config['ExImagePath'])
+    cm.write.create_output_file(data=hike,target_path=config['ExFilePathEn']+'/'+hike['name'],name='index.en')
+    fetch_hike_images(hike=hike,url_pattern=config['HikeImageUrl'],target_pattern=config['ExFilePath']+'/%s')
 
   return hike
