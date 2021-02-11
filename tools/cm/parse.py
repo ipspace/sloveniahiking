@@ -3,7 +3,7 @@
 #
 
 def recover_image_name(src):
-  return src.replace('L_','M_').replace('T_','M_')
+  return src.replace('L_','M_').replace('T_','M_').replace('t_','M_')
 
 def extract_images(html,dir):
   imglist = []
