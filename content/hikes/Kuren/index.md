@@ -20,12 +20,11 @@ title: Kuren
 x: 444
 y: 93
 ---
-{{<figure src="M_0-3048_img.jpg" caption="Kuren s Planine">}} 
-
 Kuren je osamljen zaselek na pobočju Planine -- hribovja, ki ločuje Zaplano od Vrhnike in Ljubljanskega barja. Sestavlja ga le nekaj kmetij, od katerih je naseljena le ena, in prijazna cerkvica sv. Miklavža, ki oživi (tako kot marsikatera druga slovenska cerkev) le enkrat na leto. V zadnjih letih se na Kuren vrača življenje -- eno od kmetij so obnovili in v njej oživeli gostilno, ki postaja vedno bolj znana po odlični hrani pripravljeni v krušni peči. Ta kmetija bo tudi naš cilj.
 
-Osnovni podatki
-===============
+{{<figure src="M_0-3048_img.jpg" caption="Kuren s Planine">}} 
+
+## Osnovni podatki
 
 Zahtevnost
 :   Enostavna, dobro označena pot. Idealno kot prijeten družinski sprehod na nedeljsko kosilo.
