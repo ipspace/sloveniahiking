@@ -1,6 +1,8 @@
-<section class='hike__blurb'>
+<section class='post__blurb'>
   {{ if .Params.lead }}
-    {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}" alt="{{ .Title }}">{{ end }}
+    <div class='blurb__thumb'>
+      {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}" alt="{{ .Title }}">{{ end }}
+    </div>
   {{ end }}
   <article class='post__content'>
     <h3 class='post__title' itemprop='name headline'>

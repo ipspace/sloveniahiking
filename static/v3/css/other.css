@@ -2683,27 +2683,32 @@ Grid Layout Styles
   margin-top: 1em; }
 
 @media (min-width: 768px) {
-  .hike__blurb {
+  .post__blurb {
     display: flex; } }
 
-.hike__blurb img {
+.post__blurb .blurb__thumb {
   max-width: 100%;
   margin-bottom: 12px; }
   @media (min-width: 768px) {
-    .hike__blurb img {
+    .post__blurb .blurb__thumb {
       max-width: 25%;
-      height: auto;
+      max-height: calc(25vw - 1em);
+      padding-left: 1em;
       order: 99;
       margin-bottom: 24px; } }
-.hike__blurb article {
+  .post__blurb .blurb__thumb img {
+    width: 100%;
+    height: auto; }
+
+.post__blurb article {
   margin-top: 0; }
   @media (min-width: 768px) {
-    .hike__blurb article {
+    .post__blurb article {
       margin-right: 12px; } }
   @media (min-width: 1025px) {
-    .hike__blurb article {
+    .post__blurb article {
       margin-right: 24px; } }
-  .hike__blurb article h3, .hike__blurb article h2 {
+  .post__blurb article h3, .post__blurb article h2 {
     margin-top: 0; }
 
 @media (min-width: 768px) {
