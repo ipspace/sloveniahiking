@@ -13,6 +13,7 @@ def extract_hike_text(html,figure=True):
   text = ""
   cm.cleanup.remove_style(html)
   cm.cleanup.remove_internal_links(html)
+  cm.cleanup.img2figure(html)
   for td in html.find_all('td',id='content'):
     for span in td.find_all(re.compile('^(span|div)'),id='content'):
       for element in span.contents:

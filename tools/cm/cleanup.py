@@ -4,6 +4,7 @@
 
 import re
 import subprocess
+import bs4
 
 def whitespace(text,cr=True,lf=False):
   if cr:
@@ -66,10 +67,16 @@ def table_to_dl(table):
   text = text + "</dl>\n"
   return text
 
+def html_inner(e):
+  text = ""
+  for child in e.children:
+    text = text + str(child)
+  return text
+
 def html_element(element,do_figure=True,do_table=True):
   text = str(element)
-  if element.name == 'div' and do_figure:
-    return figure(element)
+  if element.name == 'div':
+    return html_inner(element)
   if element.name == 'table' and do_table:
     return table_to_dl(element)
   return text
@@ -110,3 +117,41 @@ def remove_internal_links(html):
       del(a['href'])
     if a.get('href','').find('index.asp') >= 0:
       del(a['href'])
+
+def figure_markup(src,caption):
+  if not src:
+    return
+  if not caption:
+    return '{{--figure src="%s"--}}\n' % (src)
+  return '{{--figure src="%s" caption="%s"--}}\n' % (src,caption.strip())
+
+def wrap2figure(wrap):
+  text = ""
+  src = ""
+  caption = ""
+  for element in wrap.children:
+    if isinstance(element,bs4.element.NavigableString):
+      caption = caption + str(element)
+    elif element.name == "img":
+      if src:
+        text = text + figure_markup(src,caption)
+      caption = ""
+      src = element.get("src")
+  
+  if src:
+    text = text + figure_markup(src,caption)
+  wrap.string = text
+
+def img2figure(html):
+  while True:
+    img = html.find(lambda tag: 
+      tag.name == "img" and (tag.get("onclick",None) or not
+        ("/" in tag.get("src","") or "map" in tag.get("src") or ".gif" in tag.get("src"))))
+    if not img:
+      break
+    wrapper = img.parent
+    if not wrapper or (wrapper.name != "div" and wrapper.name != "td"):
+      markup = bs4.NavigableString(figure_markup(img.get("src"),None))
+      img.replace_with(markup)
+    else:
+      wrap2figure(wrapper)
