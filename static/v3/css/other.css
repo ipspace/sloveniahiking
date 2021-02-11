@@ -2692,6 +2692,7 @@ Grid Layout Styles
   @media (min-width: 768px) {
     .hike__blurb img {
       max-width: 25%;
+      height: auto;
       order: 99;
       margin-bottom: 24px; } }
 .hike__blurb article {
