@@ -4,7 +4,7 @@
 <article id="left-column">
 {{ .Content }}
 {{ range .Pages.ByDate.Reverse }}
-  {{ partial "hike-blurb.html" . }}
+  {{ partial "post-blurb.html" . }}
 {{ end }}
 </article>
 {{ partial "hikes-sidebar.html" . }}

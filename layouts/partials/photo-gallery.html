@@ -1,6 +1,6 @@
 {{ $images := .Resources.Match "M*.[jJ][pP][gG]" }}
 {{ $lead := .Scratch.Get "lead" | default .Params.lead }}
-{{ if gt (len $images) 1 }}
+{{ if or (gt (len $images) 1) (eq $lead "NOLEAD") }}
   <h3>{{ i18n (printf "%sPhotos" .Type) }}</h3>
   <div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition"
     itemscope="" itemtype="http://schema.org/ImageGallery" style="clear: both;">

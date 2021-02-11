@@ -17,7 +17,7 @@ body {
   font-weight: normal;
   font-style: normal; }
 
-.back-btn, .jump-link, .post__comment-link, .post__read-more, .btn--icon .btn__text, .btn, .post .planCompare .external.text,
+.page-heading__btn, .back-btn, .jump-link, .post__comment-link, .post__read-more, .btn--icon .btn__text, .btn, .post .planCompare .external.text,
 .post .planCompare .mw-redirect, .post .jump-link a, form.labeled .action-row input, form.labeled .action-row button, form.labeled .action-row a:not(.image), .teaserBox .buttons a, .buyButton, .header_button,
 .container.main .sidebar .btn,
 .container.main .sidebar .post .planCompare .mw-redirect,
@@ -2729,3 +2729,65 @@ Grid Layout Styles
 
 .post__header {
   width: 100%; }
+
+.sidebar__flag {
+  position: relative; }
+  .sidebar__flag .translation__flag {
+    position: absolute;
+    top: 0;
+    right: 0;
+    line-height: 0.5;
+    font-size: 36px;
+    font-weight: 100; }
+
+.page-heading {
+  background: url("../images/picture_ip_space_promobanner_640.jpg") no-repeat center top/cover;
+  overflow: hidden; }
+  .page-heading__wrp {
+    position: relative; }
+  @media (max-width: 767px) {
+    .page-heading .container {
+      padding: 0; } }
+  .page-heading .page-title {
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    margin: 0;
+    color: #fff;
+    line-height: 1.4;
+    max-width: 100%;
+    padding: 65px 25px 15px 0;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
+  .page-heading__btn {
+    display: block;
+    margin-top: 15px;
+    width: 160px;
+    height: 30px;
+    position: relative;
+    z-index: 2;
+    color: #ff9f01;
+    line-height: 30px;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #fff;
+    border: 2px solid #fff;
+    transition: all 0.3s ease-in-out; }
+    @media (min-width: 768px) {
+      .page-heading__btn {
+        transform: translateX(-40px); } }
+    @media (min-width: 1025px) {
+      .page-heading__btn {
+        transform: translateX(-20px); } }
+    @media (min-width: 1440px) {
+      .page-heading__btn {
+        width: 240px;
+        height: 40px;
+        margin-top: 20px;
+        line-height: 40px;
+        font-size: 14px; } }
+    .page-heading__btn:hover {
+      background-color: transparent;
+      color: #fff; }

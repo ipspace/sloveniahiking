@@ -1,9 +1,0 @@
-{{ partial "header.html" . }}
-<h1 class='firstHeading'>{{ .Title }}</h1>
-{{ .Content }}
-{{ $pag := .Paginate (sort .Pages "Lastmod" "desc") }}
-{{ range $pag.Pages }}
-  {{ partial "hike-blurb.html" . }}
-{{ end }}
-{{ partial "post-pagination.html" . }}
-{{ partial "footer.html" . }}
