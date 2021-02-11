@@ -40,7 +40,7 @@ def figure(element):
   if element.find('td',class_='image'):
     return nested_figure_table(element)
   class_ = element.attrs.get('class','')
-  if 'Image' in class_ or 'image' in class_:
+  if 'image' in class_.lower() or element.find('img'):
     return figure_markup(element)
   return str(element)
 
@@ -98,3 +98,15 @@ def html_to_markdown(html):
 
   md = result.stdout
   return cleanup_shortcode(md)
+
+def remove_style(html):
+  for attr in ('lang','style','class'):
+    for tag in html.findAll(lambda tag: tag.get(attr,None)):
+      del(tag[attr])
+
+def remove_internal_links(html):
+  for a in html.find_all('a'):
+    if a.get('href','').find('javascript') >= 0:
+      del(a['href'])
+    if a.get('href','').find('index.asp') >= 0:
+      del(a['href'])

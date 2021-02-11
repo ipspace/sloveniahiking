@@ -7,9 +7,12 @@ import bs4
 import yaml
 import os
 import re
+import sys
 
 def extract_hike_text(html,figure=True):
   text = ""
+  cm.cleanup.remove_style(html)
+  cm.cleanup.remove_internal_links(html)
   for td in html.find_all('td',id='content'):
     for span in td.find_all(re.compile('^(span|div)'),id='content'):
       for element in span.contents:
@@ -95,7 +98,10 @@ def augment_hike_data(hike,hike_data):
 
   for k in ['height','delta','x','y','duration']:
     if hike.get(k):
-      hike[k] = int(hike[k])
+      try:
+        hike[k] = int(hike[k])
+      except ValueError:
+        hike[k] = float(hike[k])
 
   return
 
@@ -107,7 +113,7 @@ def fetch_hike_images(hike=None,url_pattern=None,target_pattern=None):
     image_list=hike.get('image',[]))
 
 def fetch_hike(hike_row,config):
-  if os.path.exists('%s/%s.md' % (config['ExFilePath'],hike_row['ExDirectory'])):
+  if os.path.exists('%s/%s/index.md' % (config['ExFilePath'],hike_row['ExDirectory'])):
     if not config.get('force'):
       print("%s has already been migrated, skipping" % hike_row['ExDirectory'])
       return
