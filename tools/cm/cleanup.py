@@ -70,6 +70,10 @@ def table_to_dl(table):
 def html_inner(e):
   text = ""
   for child in e.children:
+    if isinstance(child,bs4.element.Tag):
+      if child.find('td',class_='image') or ("{{--figure" in str(child)):
+        text = text + html_inner(child)
+        continue
     text = text + str(child)
   return text
 
@@ -150,7 +154,7 @@ def img2figure(html):
     if not img:
       break
     wrapper = img.parent
-    if not wrapper or (wrapper.name != "div" and wrapper.name != "td"):
+    if not wrapper or (wrapper.name != "div" and wrapper.name != "td" and wrapper.name != "span"):
       markup = bs4.NavigableString(figure_markup(img.get("src"),None))
       img.replace_with(markup)
     else:
