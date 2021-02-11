@@ -1,6 +1,6 @@
 <section class='hike__blurb'>
   {{ if .Params.lead }}
-    <img src="{{ $.Site.BaseURL }}images/hikes/{{ .Params.name }}/{{ .Params.lead }}" alt="{{ .Title }}">
+    {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}" alt="{{ .Title }}">{{ end }}
   {{ end }}
   <article class='post__content'>
     <h3 class='post__title' itemprop='name headline'>
