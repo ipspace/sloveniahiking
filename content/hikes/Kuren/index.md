@@ -5,6 +5,7 @@ description: Če ste se odločili, da boste nedeljsko kosilo v gostilni z odlič
   hrano združili s krajšim sprehodom, je Kuren nad Staro Vrhniko skoraj idealen izbor.
 duration: 2
 height: 520
+lead: M_0-3048_img.jpg
 image:
 - M_0-3048_img.jpg
 - M_9-2994_IMG.JPG
