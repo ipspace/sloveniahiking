@@ -1,0 +1,9 @@
+{{ $pages := where (where .Site.Pages ".Layout" "eq" "") "Description" "ne" "" }}
+<div class="regbox decorated">
+  <h3 class="sidebar__title">{{ i18n "recentupdates" . }}</h3>
+  <ul>
+{{ range first 10 $pages.ByDate.Reverse }}
+  <li><a href='{{ .Permalink }}'>{{ .Title }}</a></li>
+{{ end }}
+  </ul>
+</div>

@@ -1,0 +1,17 @@
+<section class='hike__blurb'>
+  {{ if .Params.lead }}
+    {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}" alt="{{ .Title }}">{{ end }}
+  {{ end }}
+  <article class='post__content'>
+    <h3 class='post__title' itemprop='name headline'>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ if .Draft }}(draft)
+      {{ else }}
+        {{ with .Params.height }}({{ . }}&nbsp;m){{ end }}
+      {{ end }}
+    </h3>
+    {{ with .Params.description }}
+      <div>{{ . | markdownify }}</div>
+    {{ end }}
+  </article>
+</section>

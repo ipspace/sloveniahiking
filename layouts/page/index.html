@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+<article id="left-column">
+{{ .Content }}
+<h2>{{ i18n "latestarticles" }}</h2>
+{{ range (first 20 (where $.Site.Pages ".Description" "ne" "")).ByDate.Reverse }}
+  {{ partial "post-blurb.html" . }}
+{{ end }}
+</article>
+{{ partial "top-sidebar.html" . }}
+{{ partial "footer.html" . }}

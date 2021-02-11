@@ -1,0 +1,14 @@
+{{ $flags := .page.Site.Data.flags }}
+{{ $lang := .lang | default "???" }}
+{{ $page := .page }}
+{{ range .page.Translations }}
+  {{ if ne .Lang $lang }}
+    {{ if $page.Scratch.Get .Lang }}
+    {{ else }}
+      <span class="translation__flag">
+        <a href="{{.Permalink}}">{{ index $flags .Lang }}</a>
+      </span>
+      {{ $page.Scratch.Set .Lang "Done" }}
+    {{ end }}
+  {{ end }}
+{{ end }}
