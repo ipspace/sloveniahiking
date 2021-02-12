@@ -9,15 +9,29 @@ import os
 import re
 import sys
 
+def extract_element_text(td,figure):
+  text = ""
+  found_content = False
+  for child in td.children:
+    if isinstance(child,bs4.NavigableString):
+      text = text + str(child)
+    else:
+      if child.name == "span" and "content" in child.get("id",""):
+        text = text + extract_element_text(child,figure)
+        found_content = True
+      else:
+        if (not found_content) or (not 'note' in child.get("class","")):
+          text = text + cm.cleanup.html_element(child,do_figure=figure)
+  return text
+  
 def extract_hike_text(html,figure=True):
   text = ""
   cm.cleanup.remove_style(html)
   cm.cleanup.remove_internal_links(html)
   cm.cleanup.img2figure(html)
   for td in html.find_all('td',id='content'):
-    for span in td.find_all(re.compile('^(span|div)'),id='content'):
-      for element in span.contents:
-        text = text + cm.cleanup.html_element(element,do_figure=figure)
+    text = text + extract_element_text(td,figure)
+  
   return cm.cleanup.whitespace(text)
 
 def read_hike_page(url,subdir):
@@ -38,6 +52,9 @@ def get_target_directory(exrow):
   target = hike_dir.split('/')[0]
   if subdir:
     target = target + "/" + subdir
+  else:
+    if '?' in hike_dir:
+      target = hike_dir.split('/')[0]+"/"+hike_dir.split("=")[1]
   return target
 
 def read_hike(hike_data={},url_pattern=None):
@@ -46,15 +63,20 @@ def read_hike(hike_data={},url_pattern=None):
 
   hike_dir = hike_data.get('ExDirectory')
   subdir = hike_data.get("ExSubdirectory")
-  target = hike_dir
   hike_dir_parts = hike_dir.split('/')
   hike_pfx = ""
+
+  target = hike_dir
   if subdir:
     target = hike_dir_parts[0] + "/" + subdir
 
   if "?" in hike_dir:
     hike_dir = hike_dir_parts[0]
     hike_pfx = hike_dir_parts[1].replace("?","&")
+    if not subdir:
+      target = hike_dir_parts[0] + "/" + hike_dir_parts[1].split("=")[1]
+      print("Missing subdirectory, target set to %s" % target)
+      sys.exit(1)
 
   if 'External' in hike_dir:
     print("Not handling external hikes at this time %s" % hike_dir)
@@ -93,6 +115,8 @@ def read_hike(hike_data={},url_pattern=None):
 
   hike['html'] = text
   hike['name'] = target
+#  print(hike)
+#  sys.exit(1)
   return hike
 
 def augment_hike_data(hike,hike_data):
@@ -150,7 +174,7 @@ def fetch_hike(hike_row,config):
 
   if '?' in hike_row['ExDirectory']:
     return
-  if not cm.web.probe(config['HikeUrlEn'] % (hike_row['ExDirectory'],1)):
+  if not cm.web.probe(config['HikeUrlEn'] % (hike_row['ExDirectory'],1,"")):
     return hike
   
   hike = read_hike(hike_data=hike_row,url_pattern=config['HikeUrlEn'],image_pattern=config['UrlImagePath'])

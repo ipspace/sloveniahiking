@@ -111,9 +111,12 @@ def html_to_markdown(html):
   return cleanup_shortcode(md)
 
 def remove_style(html):
-  for attr in ('lang','style','class'):
+  for attr in ('lang','style'):
     for tag in html.findAll(lambda tag: tag.get(attr,None)):
       del(tag[attr])
+
+  for tag in html.findAll(lambda tag: tag.get("class") and not "note" in tag.get("class","")):
+    del(tag["class"])
 
 def remove_internal_links(html):
   for a in html.find_all('a'):
@@ -154,7 +157,9 @@ def img2figure(html):
     if not img:
       break
     wrapper = img.parent
-    if not wrapper or (wrapper.name != "div" and wrapper.name != "td" and wrapper.name != "span"):
+    if not wrapper \
+       or not (wrapper.name in ['div','td','span']) \
+       or (wrapper.name == 'span' and 'content' in wrapper.get('id')):
       markup = bs4.NavigableString(figure_markup(img.get("src"),None))
       img.replace_with(markup)
     else:
