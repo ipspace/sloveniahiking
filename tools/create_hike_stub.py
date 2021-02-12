@@ -26,7 +26,11 @@ def is_a_page(target):
 def create_stub(path):
   target = path.replace("index.md","index.en.md")
   if is_a_page(target):
-#    print("%s is a full-blown page, skipping" % target)
+    print("%s is a full-blown page, skipping" % target)
+    return
+
+  if is_a_page(target.replace("_","")):
+    print("%s has an alternate full-blown page, skipping" % target)
     return
 
   print("Creating stub for %s from %s" % (target,path))
@@ -37,15 +41,20 @@ def create_stub(path):
 
   ExDirectory = page['name']
   data = ExData.get(ExDirectory,None)
+  if not(data) and '/' in ExDirectory:
+    data = ExSubDir.get(ExDirectory.split('/')[1],None)
+
   if not(data):
     print("... cannot find original data for %s" % ExDirectory)
     return
 
   page['title'] = data.get('ExEnglishName',page['title'])
   page['layout'] = 'stub'
-  cm.write.create_output_file(page,os.path.dirname(target),name="index.en")
+  fname = os.path.basename(target).replace('.md','')
+  cm.write.create_output_file(page,os.path.dirname(target),name=fname)
 
 ExTarget = cm.msaccess.read(config['ExTargetPath'])
 ExData = cm.msaccess.dictionary(ExTarget,'ExDirectory')
+ExSubDir = cm.msaccess.dictionary(ExTarget,'ExSubdirectory')
 
 cm.traverse.walk(config['ExFilePath'],r'index\.md$',create_stub)
