@@ -3,7 +3,6 @@ date: '2004-01-18T00:00:00'
 delta: 1100
 description: Eden najdaljših vzponov na Blegoš se začne v Hotavljah, vasi v Poljanski
   dolini, najbolj znani po kamnolomu zelo kakovostnega hotaveljskega kamna.
-dirty: true
 duration: 6
 height: 1562
 image:

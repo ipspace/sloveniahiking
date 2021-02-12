@@ -3,7 +3,6 @@ date: '2006-04-23T00:00:00'
 delta: 420
 description: Pot na Planino iz Kurje vasi je nedvomno najbolj prometna pot na vrhniško
   »hišno goro«.
-dirty: true
 duration: 2
 height: 735
 image:
