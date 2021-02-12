@@ -3,8 +3,10 @@
 {{ partial "multi-title.html" $title }}
 <article id="left-column">
 {{ .Content }}
-{{ range .Pages.ByDate.Reverse }}
-  {{ partial "post-blurb.html" . }}
+{{ if not (.Scratch.Get "HikesListed") }}
+  {{ range .Pages.ByDate.Reverse }}
+    {{ partial "post-blurb.html" . }}
+  {{ end }}
 {{ end }}
 </article>
 {{ partial "hikes-sidebar.html" . }}

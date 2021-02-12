@@ -1,0 +1,19 @@
+{{ $.Page.Scratch.Set "HikesListed" 1 }}
+{{ range $.Page.Pages.ByTitle }}
+<section class='post__blurb'>
+  {{ if .Params.multilead }}
+    <div class='blurb__thumb'>
+      {{ with .Resources.GetMatch .Params.multilead }}<img src="{{ .Permalink }}" alt="{{ .Title }}">{{ end }}
+    </div>
+  {{ end }}
+  <article class='post__content'>
+    <h3 class='post__title' itemprop='name headline'>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      ({{ .Params.delta }} m, {{ .Params.duration }} {{ i18n "hour" (int .Params.duration) }})
+    </h3>
+    {{ with .Params.description }}
+      <div>{{ . | markdownify }}</div>
+    {{ end }}
+  </article>
+</section>
+{{ end }}

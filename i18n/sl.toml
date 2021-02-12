@@ -45,6 +45,12 @@ other="Nekaj naključno izbranih rož"
 [flowersPhotos]
 other="Več fotografij"
 
+[hour]
+one="ura"
+two="uri"
+few="ure"
+other="ur"
+
 [latestarticles]
 other="Zadnje objave"
 
