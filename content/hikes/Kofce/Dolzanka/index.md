@@ -6,6 +6,7 @@ description: S planine Dolžanka vodi na Kofce prijetna (čeprav varčno markira
 duration: 3
 height: 1488
 multipath: True
+multilead: M_3_0302.JPG
 image:
 - M_3_0331.JPG
 - M_2_0300.JPG

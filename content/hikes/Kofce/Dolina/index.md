@@ -18,6 +18,7 @@ title: Kofce iz Doline
 author: Mojca Luštrek
 lead: M_006120703.jpg
 multipath: True
+multilead: M_006120704.jpg
 ---
 Če ste že bili na [Kofcah](../) in ste se tja odpravili s planine [Dolžanka](../dolzanka), ste se na poti proti Jelendolu peljali tudi skozi vasico Dolina. Naslednjič se ustavite že tam pri precej slikoviti domačiji Lukec ob potoku Kališniku. To je dobro izhodišče za Kofce, saj spotoma »pospravite« še preval Kal, ki bi se vam sam zase utegnil zdeti nekoliko skromen cilj. Je zelo prijeten kraj za počitek, tam pa navsezadnje lahko tudi »odložite« koga, ki so mu Kofce zaradi česarkoli že predaleč ali previsoko.
 

@@ -33,8 +33,11 @@ Vzhodno od Ljubelja se točno na slovensko-avstrijski meji dviguje dolg greben K
 
 Na Kofce se lahko povzpnemo po markiranih poteh iz Podljubelja (avto navadno pustimo [pri kmetu Matizovcu](matizovec)), [iz Doline čez preval Kal](dolina), iz [Jelendola čez planino Dolžanka](dolzanka), najbolj leni se bodo z avtomobilom pripeljali vse do planine Šija, od koder je do Kofc le slabih 30 minut položne hoje, najbolj zahtevni pa bodo začeli kar v Tržiču ter v dobrih treh urah in po 950 metrih višinske razlike prisopihali do cilja.
 
-{{<debug>}}
+## Izbor poti
 
+{{<multipath-hike-list>}}
+
+## Razgledi s Kofc
 Izpred Doma na Kofcah se odprejo čudoviti razgledi -- na skrajni desni silijo kvišku Grintovci in Kočna, pred nami pa so strma pobočja Storžiča, gozdovi Kriške gore in (pozimi pogosto meglena) Ljubljanska kotlina.
 
 {{<figure src="Razgled_Kofce_Vzhod.jpg" caption="Pogled proti vzhodu -- Grintovci in Storžič">}}

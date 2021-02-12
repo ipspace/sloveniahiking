@@ -16,6 +16,7 @@ title: Kofce od Matizovca
 author: Mojca Luštrek
 multipath: True
 lead: M_007031604.jpg
+multilead: M_007031602.jpg
 ---
 {{<figure src="M_007031604.jpg">}}
 
