@@ -12,6 +12,7 @@ image:
 - M_006120703.jpg
 layout: stub
 lead: M_006120703.jpg
+multilead: M_006120704.jpg
 multipath: true
 name: Kofce/Dolina
 title: Kofce from Dolina

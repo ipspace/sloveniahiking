@@ -12,6 +12,7 @@ image:
 - M_007031604.jpg
 layout: stub
 lead: M_007031604.jpg
+multilead: M_007031602.jpg
 multipath: true
 name: Kofce/Matizovec
 title: Kofce from Matizovec

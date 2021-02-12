@@ -19,6 +19,7 @@ image:
 layout: stub
 lead: M_3_0327.JPG
 map: 1
+multilead: M_3_0302.JPG
 multipath: true
 name: Kofce/Dolzanka
 title: Kofce from Dolžanka meadow
