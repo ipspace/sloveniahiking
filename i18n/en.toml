@@ -48,6 +48,10 @@ other="Photo Gallery"
 [hikesPhotos]
 other="Photo Gallery"
 
+[hour]
+one="hour"
+other="hours"
+
 [latestarticles]
 other="Latest Articles"
 
