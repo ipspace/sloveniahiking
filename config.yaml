@@ -60,7 +60,7 @@ languages:
       12: December
 
 permalinks:
-  hikes: "/hikes/:filename"
+  hikes: ":sections/:filename"
   izleti: "/izleti/:filename"
   flowers: ":sections/:filename/:title"
   tags: "/tag/:title"
