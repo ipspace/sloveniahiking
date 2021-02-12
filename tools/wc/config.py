@@ -14,6 +14,6 @@ config = {
   'DataPath': "../data/%s",
   'FlowersTopURL': "http://www.zaplana.net/flowers/",
   'FlowersTargetURL': '/flowers/',
-  'HikeUrl': "http://www.zaplana.net/izleti/%s/index.asp?sect=%d",
+  'HikeUrl': "http://www.zaplana.net/izleti/%s/index.asp?sect=%d%s",
   'HikeImageUrl': "http://www.zaplana.net/izleti/%s/%s",
-  'HikeUrlEn': "http://www.zaplana.net/izleti/%s/_en_index.asp?sect=%d" }
+  'HikeUrlEn': "http://www.zaplana.net/izleti/%s/_en_index.asp?sect=%d%s" }

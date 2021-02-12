@@ -20,7 +20,7 @@ def extract_hike_text(html,figure=True):
         text = text + cm.cleanup.html_element(element,do_figure=figure)
   return cm.cleanup.whitespace(text)
 
-def read_hike_page(url,hike_dir,image_dir):
+def read_hike_page(url,subdir):
   html = bs4.BeautifulSoup(cm.web.fetch_html(url),"html.parser")
 
   page = {}
@@ -28,26 +28,40 @@ def read_hike_page(url,hike_dir,image_dir):
   lead = cm.parse.find_lead_image(html)
   if lead:
     page['lead'] = lead
-  page['image'] = cm.parse.extract_images(html,None)
+  page['image'] = cm.parse.extract_images(html,remove_dir=subdir)
   page['text'] = extract_hike_text(html)
   return page
 
-def read_hike(hike_data={},url_pattern=None,image_pattern=None):
-  if hike_data.get('ExTextAuthor'):
-    return
+def get_target_directory(exrow):
+  hike_dir = exrow.get('ExDirectory')
+  subdir   = exrow.get('ExSubdirectory')
+  target = hike_dir.split('/')[0]
+  if subdir:
+    target = target + "/" + subdir
+  return target
+
+def read_hike(hike_data={},url_pattern=None):
+#  if hike_data.get('ExTextAuthor'):
+#    return
 
   hike_dir = hike_data.get('ExDirectory')
-  image_dir = image_pattern % hike_dir
+  subdir = hike_data.get("ExSubdirectory")
+  target = hike_dir
+  hike_dir_parts = hike_dir.split('/')
+  hike_pfx = ""
+  if subdir:
+    target = hike_dir_parts[0] + "/" + subdir
+
+  if "?" in hike_dir:
+    hike_dir = hike_dir_parts[0]
+    hike_pfx = hike_dir_parts[1].replace("?","&")
 
   if 'External' in hike_dir:
     print("Not handling external hikes at this time %s" % hike_dir)
     return
-  if 'pfx=' in hike_dir:
-    print("Have no idea how to handle multi-path hikes %s" % hike_dir)
-    return
-  if '/' in hike_dir:
-    print("Have no idea how to handle subdirectory hikes %s" % hike_dir)
-    return
+#  if '/' in hike_dir:
+#    print("Have no idea how to handle subdirectory hikes %s" % hike_dir)
+#    return
   print("Fetching %s" % hike_dir)
 
   text = ""
@@ -56,7 +70,7 @@ def read_hike(hike_data={},url_pattern=None,image_pattern=None):
 
   hike = { 'image': [] }
   while True:
-    page = read_hike_page(url_pattern % (hike_dir,section),hike_dir,image_dir)
+    page = read_hike_page(url_pattern % (hike_dir,section,hike_pfx),subdir)
     if section == 1 and not page['text']:
       raise Exception('First page in a hike has no usable text')
     if not first_page:
@@ -78,24 +92,29 @@ def read_hike(hike_data={},url_pattern=None,image_pattern=None):
     section = section + 1
 
   hike['html'] = text
+  hike['name'] = target
   return hike
 
 def augment_hike_data(hike,hike_data):
   hike['date'] = hike_data['ExChangeDate']
-  hike['name'] = hike_data['ExDirectory']
   hike['title'] = hike_data['ExName']
   hike['description'] = str(hike_data['ExDescription'])
-  hike['height'] = hike_data['ExAbsHeight']
 
-  if 'ExRelHeight' in hike_data:
-    hike['delta'] = hike_data['ExRelHeight']
+  for k_from,k_to in {
+        'ExAbsHeight':'height',
+        'ExRelHeight':'delta',
+        'ExTime':'duration',
+        'ExLocX':'x',
+        'ExLocY':'y',
+        'ExTextAuthor':'author',
+        'ExPhotoAuthor':'photo_author'}.items():
+    v = hike_data.get(k_from)
+    if v:
+      hike[k_to] = v
 
-  if 'ExTime' in hike_data:
-    hike['duration'] = hike_data['ExTime']
-
-  hike['x'] = hike_data.get('ExLocX')
-  hike['y'] = hike_data.get('ExLocY')
-  hike['draft'] = True
+  hike['dirty'] = True
+  if '?' in hike_data['ExDirectory']:
+    hike['multipath'] = True
 
   for k in ['height','delta','x','y','duration']:
     if hike.get(k):
@@ -114,12 +133,13 @@ def fetch_hike_images(hike=None,url_pattern=None,target_pattern=None):
     image_list=hike.get('image',[]))
 
 def fetch_hike(hike_row,config):
-  if os.path.exists('%s/%s/index.md' % (config['ExFilePath'],hike_row['ExDirectory'])):
+  target = get_target_directory(hike_row)
+  if os.path.exists('%s/%s/index.md' % (config['ExFilePath'],target)):
     if not config.get('force'):
       print("%s has already been migrated, skipping" % hike_row['ExDirectory'])
       return
 
-  hike = read_hike(hike_data=hike_row,url_pattern=config['HikeUrl'],image_pattern=config['UrlImagePath'])
+  hike = read_hike(hike_data=hike_row,url_pattern=config['HikeUrl'])
   if not hike:
     return
 
@@ -128,6 +148,8 @@ def fetch_hike(hike_row,config):
   cm.write.create_output_file(data=hike,target_path=config['ExFilePath']+'/'+hike['name'],name='index')
   fetch_hike_images(hike=hike,url_pattern=config['HikeImageUrl'],target_pattern=config['ExFilePath']+'/%s')
 
+  if '?' in hike_row['ExDirectory']:
+    return
   if not cm.web.probe(config['HikeUrlEn'] % (hike_row['ExDirectory'],1)):
     return hike
   

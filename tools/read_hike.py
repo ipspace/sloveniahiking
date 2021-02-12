@@ -23,7 +23,14 @@ config['force'] = args.force
 ExTarget = cm.msaccess.read(config['ExTargetPath'])
 
 for hike_row in ExTarget:
-  if args.hikes and not hike_row['ExDirectory'] in args.hikes:
+  target = str(hike_row['ExDirectory'])
+  include = True
+  if args.hikes:
+    include = False
+    for pattern in args.hikes:
+      include = include or pattern in target
+
+  if not include:
     continue
 
   if not wc.hike.fetch_hike(hike_row,config):

@@ -5,16 +5,21 @@
 def recover_image_name(src):
   return src.replace('L_','M_').replace('T_','M_').replace('t_','M_')
 
-def extract_images(html,dir):
+def extract_images(html,add_dir=None,remove_dir=None):
   imglist = []
   for image in html.find_all('img'):
     src = image['src']
     image.attrs.pop('width',None)
     image.attrs.pop('height',None)
+    if remove_dir:
+      if src.find(remove_dir+"/") == 0:
+        src = src.replace(remove_dir+"/","")
     if not '..' in src and src.find('/') != 0 and src.find('://') < 0:
       src = recover_image_name(src)
       imglist.append(src)
-      image['src'] = dir+"/"+src if dir else src
+      if add_dir:
+        src = add_dir+"/"+src
+      image['src'] = src
   return imglist
 
 def find_lead_image(html):

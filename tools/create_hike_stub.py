@@ -32,7 +32,7 @@ def create_stub(path):
   print("Creating stub for %s from %s" % (target,path))
   page = cm.read.page(path)
 
-  for k in ('markdown','draft','description'):
+  for k in ('markdown','draft','dirty','description'):
     page.pop(k,None)
 
   ExDirectory = page['name']
