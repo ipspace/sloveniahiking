@@ -40,12 +40,12 @@ Na Kofce se lahko povzpnemo po markiranih poteh iz Podljubelja (avto navadno pus
 ## Razgledi s Kofc
 Izpred Doma na Kofcah se odprejo čudoviti razgledi -- na skrajni desni silijo kvišku Grintovci in Kočna, pred nami pa so strma pobočja Storžiča, gozdovi Kriške gore in (pozimi pogosto meglena) Ljubljanska kotlina.
 
-{{<figure src="Razgled_Kofce_Vzhod.jpg" caption="Pogled proti vzhodu -- Grintovci in Storžič">}}
+{{<figure src="Razgled_Kofce_Vzhod.jpg" caption="Pogled proti vzhodu -- Grintovci in Storžič" caption-position="bottom">}}
 
 Desno od Ljubljanske kotline boste najprej opazili Šmarno goro, za njo vrhove polhograjskega hribovja, med katerimi izstopata [Grmada](../PolhograjskaGrmada) in [Tošč](../Tosc), za Kranjskim poljem se počasi dviga [Jelovica](../Jamnik_Vodice), nad katero bo dobro oko opazilo travnati vrh Blegoša. Nekoliko desno od Blegoša se (še vedno nad Jelovico) dvigajo [Spodnje Bohinjske gore](../CrnaPrst), ki jim sledi [Pokljuka](../Lipanca), ter [vrhovi nad Pokljuko](../DebelaPec), nad katerimi kraljuje Triglav. Pod vrhovi Julijskih Alp nas pozdravlja gozdnato pobočje [Dobrče](../Dobrca), ki se onkraj prevala Vrh Luž zlije z Begunjščico, za katero lahko opazimo vrh Stola.
 
-{{<figure src="Razgled_Kofce_Zahod.jpg" caption="Pogled proti zahodu -- predalpska hribovja, Julijske Alpe in Karavanke">}}
+{{<figure src="Razgled_Kofce_Zahod.jpg" caption="Pogled proti zahodu -- predalpska hribovja, Julijske Alpe in Karavanke"  caption-position="bottom">}}
 
 Če se zazremo proti severu, nas pozdravi celoten greben Košute -- od Velikega vrha na levi do Kladiva, Košutnikovega turna in Tolste Košute na skrajni desni strani.
 
-{{<figure src="Razgled_Kofce_Greben.jpg" caption="Greben Košute">}}
+{{<figure src="Razgled_Kofce_Greben.jpg" caption="Greben Košute"  caption-position="bottom">}}
