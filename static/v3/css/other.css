@@ -2506,6 +2506,9 @@ form.labeled.profile {
 Put this file in /static/css/hugo-easy-gallery.css
 Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 */
+img {
+  max-width: 100%; }
+
 .fancy-figure:not(.caption-effect-appear) figcaption {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
