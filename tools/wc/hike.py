@@ -16,7 +16,7 @@ def extract_element_text(td,figure):
     if isinstance(child,bs4.NavigableString):
       text = text + str(child)
     else:
-      if child.name == "span" and "content" in child.get("id",""):
+      if child.name in ['span','div'] and "content" in child.get("id",""):
         text = text + extract_element_text(child,figure)
         found_content = True
       else:
@@ -57,26 +57,21 @@ def get_target_directory(exrow):
       target = hike_dir.split('/')[0]+"/"+hike_dir.split("=")[1]
   return target
 
-def read_hike(hike_data={},url_pattern=None):
-#  if hike_data.get('ExTextAuthor'):
-#    return
+def get_hike_prefix(exrow):
+  hike_dir = exrow.get('ExDirectory')
+  if "?" in hike_dir:
+    if "/?pfx" in hike_dir:
+      return hike_dir.split("/?pfx=")
+    raise Exception("Don't know how to deal with hike directory %s" % hike_dir)
+  else:
+    return (hike_dir,"")
 
+def read_hike(hike_data={},url_pattern=None):
   hike_dir = hike_data.get('ExDirectory')
   subdir = hike_data.get("ExSubdirectory")
-  hike_dir_parts = hike_dir.split('/')
-  hike_pfx = ""
 
-  target = hike_dir
-  if subdir:
-    target = hike_dir_parts[0] + "/" + subdir
-
-  if "?" in hike_dir:
-    hike_dir = hike_dir_parts[0]
-    hike_pfx = hike_dir_parts[1].replace("?","&")
-    if not subdir:
-      target = hike_dir_parts[0] + "/" + hike_dir_parts[1].split("=")[1]
-      print("Missing subdirectory, target set to %s" % target)
-      sys.exit(1)
+  target = get_target_directory(hike_data)
+  (hike_dir,hike_pfx) = get_hike_prefix(hike_data)
 
   if 'External' in hike_dir:
     print("Not handling external hikes at this time %s" % hike_dir)
@@ -84,7 +79,7 @@ def read_hike(hike_data={},url_pattern=None):
 #  if '/' in hike_dir:
 #    print("Have no idea how to handle subdirectory hikes %s" % hike_dir)
 #    return
-  print("Fetching %s" % hike_dir)
+  print("Fetching %s target %s" % (hike_dir,target))
 
   text = ""
   first_page = ""
@@ -92,7 +87,7 @@ def read_hike(hike_data={},url_pattern=None):
 
   hike = { 'image': [] }
   while True:
-    page = read_hike_page(url_pattern % (hike_dir,section,hike_pfx),subdir)
+    page = read_hike_page(url_pattern % (hike_dir,section,"&pfx="+hike_pfx if hike_pfx else ""),subdir)
     if section == 1 and not page['text']:
       raise Exception('First page in a hike has no usable text')
     if not first_page:
