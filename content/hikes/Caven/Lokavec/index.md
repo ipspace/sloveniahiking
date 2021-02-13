@@ -1,5 +1,6 @@
 ---
 date: '2003-12-14T00:00:00'
+lastmod: 2021-02-13 10:15:00
 delta: 1080
 description: Tudi v zimskih dneh si lahko brez posebne opreme privošćimo dolge vzpone
   - na primer iz Lokavca do Doma na Čavnu

@@ -1216,6 +1216,7 @@
 <ExTarget>
 <ExID>1059845905</ExID>
 <ExDirectory>Kucelj/?pfx=PM</ExDirectory>
+<ExSubdirectory>Predmeja</ExSubdirectory>
 <ExChangeDate>2003-08-03T00:00:00</ExChangeDate>
 <ExName>Kucelj iz Predmeje</ExName>
 <ExShortName>Kucelj</ExShortName>
@@ -2504,6 +2505,7 @@
 <ExTarget>
 <ExID>1130688669</ExID>
 <ExDirectory>Kucelj/?pfx=VT</ExDirectory>
+<ExSubdirectory>Vrtovin</ExSubdirectory>
 <ExChangeDate>2005-12-18T00:00:00</ExChangeDate>
 <ExName>Kucelj iz Vrtovina</ExName>
 <ExShortName>Kucelj</ExShortName>

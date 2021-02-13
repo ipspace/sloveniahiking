@@ -1,5 +1,6 @@
 ---
 date: '2007-03-18T00:00:00'
+lastmod: 2021-02-13 10:20:00
 delta: 416
 description: Ena krajših vzponov na Kofce se začne nad Podljubeljem pri Matizovcu,
   do koder se pripeljete po ne preslabi makadamski cesti.
