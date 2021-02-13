@@ -1,7 +1,8 @@
 ---
-date: '2002-07-15T00:00:00'
+date: 2002-07-15 00:00:00+00:00
 delta: 550
-description: Če bo vročina med počitnicami v slovenskem primorju le prehuda, si privoščite kratko osvežitev z izletom na Snežnik.
+description: Če bo vročina med počitnicami v slovenskem primorju le prehuda, si privoščite
+  kratko osvežitev z izletom na Snežnik.
 duration: 4
 height: 1796
 image:
@@ -114,9 +115,9 @@ Proti vrhu postaja pot vse bolj skalnata, travniške rože zamenjajo planinske, 
 
 Napor in znoj, ki ga povzroči pot, sta bogato poplačana, ko pridete na vrh Snežnika (1796 m), od koder se odpre čudovit razgled na okoliške gozdove. Če imate srečo in se odpravite na Snežnik v idealnem vremenu boste lahko na severni strani videli celotne Julijske Alpe, večino Karavank in celotne Kamniške Alpe ter vse višje primorske hribe, od Nanosa in Vremščice do grebena Slavniškega pogorja. Proti jugu se s Snežnika odpira pogled na Učko, Kvarnerski zaliv in otoke v njem (Cres, Krk, Lošinj), v lepem vremenu pa boste opazili za Gorskim Kotarjem še greben Velebita.
 
-{{<figure src="Razgled_Sever.jpg" caption="Pogled proti severu, od Nanosa na levi do Kamniških Alp na desni">}}
+{{<figure src="Razgled_Sever.jpg" caption="Pogled proti severu, od Nanosa na levi do Kamniških Alp na desni" caption-position="bottom">}}
 
-{{<figure src="Razgled_jug.jpg" caption="Pogled proti jugu, na desni strani se vidita Kvarnerski zaliv in Učka">}}
+{{<figure src="Razgled_jug.jpg" caption="Pogled proti jugu, na desni strani se vidita Kvarnerski zaliv in Učka" caption-position="bottom">}}
 
 Po počitku pri planinskem domu se odpočijte na mehkih travnikih na vrhu Snežnika, nato pa si oglejte še kraško brezno, v katerem boste še v začetku julija našli sneg.
 

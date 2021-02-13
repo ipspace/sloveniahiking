@@ -82,7 +82,7 @@ Pobočje, po katerem hodimo, se najprej dviguje precej položno, že kmalu pa po
 
 Že ves čas vzpona na Viševnik smo lahko uživali v razgledu na Pokljuko, od trenutka, ko smo se povzpeli nad Plesišče, smo lahko opazovali Bohinjske gore, z vrha Viševnika se odpre še razgled na Triglav in njegove sosede, vidimo pa lahko tudi del Bohinjskega jezera -- v lepem vremenu je razgled enkraten.
 
-{{<figure src="Razgled.jpg" caption="Razgled z Viševnika">}}
+{{<figure src="Razgled.jpg" caption="Razgled z Viševnika" caption-position="bottom">}}
 
 Po krajšem počitku se lahko vrnemo do izhodišča po poti, po kateri smo se povzpeli, lahko pa nadaljujemo izlet do Blejske koče na Lipanci, od koder se vrnemo na Rudno polje.
 

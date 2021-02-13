@@ -66,7 +66,7 @@ Nad prevalom postane pot spet bolj položna in se vije najprej preko travnatega 
 
 {{<figure src="M_1-7110_IMG.JPG" caption="Po grebenu do vrha">}}
 
-{{<figure src="Razgled_Vogel.jpg" caption="Pogled na sever - levo in desno greben Spodnjih Bohinjskih gora, v sredini v ozadju Triglav">}}
+{{<figure src="Razgled_Vogel.jpg" caption="Pogled na sever - levo in desno greben Spodnjih Bohinjskih gora, v sredini v ozadju Triglav" caption-position="bottom">}}
 
 Vrnitev
 -------

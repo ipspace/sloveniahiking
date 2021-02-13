@@ -1,7 +1,8 @@
 ---
-date: '2002-10-20T00:00:00'
+date: 2002-10-20 00:00:00+00:00
 delta: 400
-description: Pozno-gotska cerkvica na obronkih Velike planine nad Kamnikom je idealen cilj za nedeljski izlet
+description: Pozno-gotska cerkvica na obronkih Velike planine nad Kamnikom je idealen
+  cilj za nedeljski izlet
 duration: 2
 height: 826
 image:
@@ -98,7 +99,7 @@ Pri cerkvici sv. Primoža vas najprej pričakajo klopi na sončni in razgledni s
 
 Po kratkem počitku pa le zberite še nekaj energije in se povzpnite nekaj metrov višje do cerkve sv. Petra, od koder boste imeli najlepši pogled na sv. Primoža, pa tudi na sosednji pogorji Menine Planine in Krvavca ter na Kamnik in za njim ležečo ljubljansko kotlino.
 
-{{<figure src="Pogled_Krvavec.jpg" caption="Pogled na Krvavec">}}
+{{<figure src="Pogled_Krvavec.jpg" caption="Pogled na Krvavec" caption-position="bottom">}}
 
 Okoli cerkve sv. Petra boste našli tudi zanimive rože -- poleti navzkrižnolistni svišč, jeseni resasti sviščevec, precej je tudi bodečih než.
 

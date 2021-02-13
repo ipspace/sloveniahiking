@@ -17,7 +17,7 @@ Vremščica je greben, ki se med Postojnskim poljem in dolino Reke razteza od Di
 
 Na Vremščico se največkrat odpravijo tisti, ki hodijo v naravo iskat tišino (na srečo daleč naokoli ni planinskih koč), prijetne sprehode in lepe razglede, ki segajo od Nanosa na severu do Slavnika in Snežnika na jugu. Še posebej pa bodo v izletu na Vremščico uživali ljubitelji rož, saj jih je v izobilju -- maja boste na njej zagotovo našli narcise, potonike in perunike.
 
-{{<figure src="Vremscica_Razgled.jpg">}}
+{{<figure src="Vremscica_Razgled.jpg" caption-position="bottom">}}
 
 ## Vzponi na Vremščico
 

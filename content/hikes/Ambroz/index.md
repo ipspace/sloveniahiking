@@ -1,5 +1,5 @@
 ---
-date: '2003-11-09T00:00:00'
+date: 2003-11-09 00:00:00+00:00
 delta: 490
 description: Do sončnega zaselka pod strminami Krvavca se lahko povzpnemo po markiranih
   poteh s Klemenčevega ali iz Šenturške gore, lahko pa ga izkoristimo tudi kot izhodišče
@@ -90,4 +90,4 @@ Na koncu poti nas čaka še zadnje presenečenje -- markacije nas popeljejo na d
 
 Po krajšem počitku v gostilni Florijan (v ponedeljek so zaprti) se lahko vrnete na Klemenčevo po poti, po kateri ste se povzpeli, lahko pa si izlet popestrite s krožno potjo mimo cerkvice sv. Lenarta ali z vzponom do planine Osredek, s katere se nato mimo Korošaških slapov spustite na Klemenčevo.
 
-{{<figure src="Razgled.jpg" caption="Razgled z Ambroža">}}
+{{<figure src="Razgled.jpg" caption="Razgled z Ambroža" caption-position="bottom">}}

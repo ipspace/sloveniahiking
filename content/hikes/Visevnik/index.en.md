@@ -117,7 +117,7 @@ Throughout the climb to Viševnik you can enjoy views of Pokljuka and as soon as
 
 After a short rest you can return by the same route to your starting-point or continue the trip to the mountain hut Blejska koča on Lipanca, from where you return to Rudno polje.
 
-{{<figure src="Razgled.jpg" caption="The view from Viševnik">}}
+{{<figure src="Razgled.jpg" caption="The view from Viševnik" caption-position="bottom">}}
 
 Another suggestion for a considerably shorter round tour -- drop down from Viševnik over the saddle Srenjski preval towards the Lipanca alp but then turn right onto the path which climbs from Pokljuka over Kačji rob to Lipanca, and return by this route to Rudno polje.
 

@@ -72,6 +72,6 @@ Andrej nad Zmincem
 
 ![](M_0_1017.JPG)![](M_9_0989.jpg)Med hojo po gozdni cesti boste lahko začeli uživati v prvih razgledih -- najprej se med drevesi pojavi Lubnik, kmalu se mu pridruži še Križna gora, za njima pa se počasi odpira pogled na Karavanke. Čez nekaj ovinkov se skozi gozd zasveti cerkvica sv. Andreja, od katere vas loči le še kakšnih 500 metrov. Gozdna cesta vas pripelje najprej do prve kmetije (Šinka), nato pa na prepišne travnike, od koder se končno odpre čudovit razgled na obe strani -- na vzhodu vas pozdravljajo bližnji vrhovi Polhograjskega hribovja, na zahodu in severu pa lahko občudujete vso verigo Škofjeloškega hribovja, od Črnega vrha prek Blegoša, Kopitnika in Starega vrha do Lubnika in Križne gore. V ozadju se v lepem vremenu vidi greben osrednjih Karavank, od Stola do Begunjščice, ki jo delno zakriva Dobrča, desno od Dobrče pa se s Kriško goro in Storžičem začnejo Kamniške Alpe.
 
-{{<figure src="Razgled_Vzhod.jpg" caption="Vrhovi Polhograjskega hribovja">}} {{<figure src="Razgled_Zahod.jpg" caption="Škofjeloško hribovje, oblaki skrivajo Karavanke v ozadju">}}
+{{<figure src="Razgled_Vzhod.jpg" caption="Vrhovi Polhograjskega hribovja" caption-position="bottom">}} {{<figure src="Razgled_Zahod.jpg" caption="Škofjeloško hribovje, oblaki skrivajo Karavanke v ozadju" caption-position="bottom">}}
 
 V soboto in nedeljo se lahko pred vrnitvijo okrepčate na kmečkem turizmu le nekaj metrov pod cerkvijo, nato pa se vrnete v dolino po poti, po kateri ste se povzpeli.

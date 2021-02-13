@@ -1,12 +1,12 @@
 ---
-date: '2002-07-29T00:00:00'
-lastmod: 2021-02-13 17:10:00
+date: 2002-07-29 00:00:00+00:00
 delta: 400
 description: Izlet iz Logarske doline na Okrešelj je idealen za vse, ki bi radi brez
   prevelikih naporov okusili lepote slovenskih alp.
 duration: 2
 height: 1395
-image:
+image: null
+lastmod: 2021-02-13 17:10:00
 lead: M_6-1674_IMG.JPG
 name: Okreselj
 title: Iz Logarske doline na Okrešelj
@@ -98,11 +98,11 @@ Tik pred planino Okrešelj se pot zravna in po zložni poti boste prišli do cil
 
 Pravi planinci bodo po kratkem počitku nadaljevali pot proti vrhovom v okolici Okrešlja ali proti Kamniškemu sedlu, tisti nekoliko manj pripravljeni pa se bomo vrnili proti Logarski dolini, seveda pa si bomo najprej ogledali čudovit razgled izpred Doma.
 
-{{<figure src="Razgled_Frischauf_Logarska.jpg" caption="Pogled na Logarsko dolino izpred Frischaufovega doma">}}
+{{<figure src="Razgled_Frischauf_Logarska.jpg" caption="Pogled na Logarsko dolino izpred Frischaufovega doma" caption-position="bottom">}}
 
 Le kakšnih 100 metrov od Doma se od poti proti Logarski dolini odcepi pot na planino Okrešelj. Če ste ljubitelji rož ali lepih razgledov, je obisk le-te obvezen. Videli boste vse vrhove (večinoma višje od 2000 metrov), ki obkrožajo Okrešelj, pa tudi vrsto planinskih rož, tudi zlato jabolka in zlato pogačico.
 
-{{<figure src="Razgled_Okreselj.jpg" caption="Pogled na okoliške vrhove s planine Okrešelj">}}
+{{<figure src="Razgled_Okreselj.jpg" caption="Pogled na okoliške vrhove s planine Okrešelj" caption-position="bottom">}}
 
 Povratek
 --------

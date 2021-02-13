@@ -1,13 +1,13 @@
 ---
-date: '2002-10-27T00:00:00'
+date: 2002-10-27 00:00:00+00:00
 delta: 510
 description: Ko bo burja spet razpihala oblake, se odpravite na Slavnik - po vzponu
   po prijetni položni poti iz Podgorja vas čaka čudovit razgled na Jadransko morje.
 duration: 3
 height: 1028
-multipath: true
 lead: M_5-3534_IMG.JPG
 multilead: M_5-3534_IMG.JPG
+multipath: true
 name: Slavnik/Podgorje
 title: Slavnik in Grmada iz Podgorja
 ---
@@ -90,7 +90,7 @@ Od začetka kraških travnikov do Tumove koče na Slavniku je slabih 15 minut ho
 
 Razočaranje nad pomanjkanjem rož pa bodo več kot nadomestili čudoviti razgledi -- pred kočo se vam odpira razgled proti jugu in zahodu, na vrhu Slavnika pa vas čaka še čudovit pogled na ostalo Slovenijo, lepo se vidi Trnovski gozd z Nanosom, v zelo lepem vremenu pa celo slovenske Alpe.
 
-{{<figure src="TrnovskiGozd_Nanos.jpg" caption="Pogled proti Trnovskemu gozdu in Nanosu, na desni strani Vremščica">}} {{<figure src="Pogled_vzhod.jpg" caption="Pogled s Slavnika proti vzhodu">}}
+{{<figure src="TrnovskiGozd_Nanos.jpg" caption="Pogled proti Trnovskemu gozdu in Nanosu, na desni strani Vremščica" caption-position="bottom">}} {{<figure src="Pogled_vzhod.jpg" caption="Pogled s Slavnika proti vzhodu" caption-position="bottom">}}
 
 Po krajšem počitku pri Tumovi koči si vzemite še dobre pol ure časa in se odpravite na bližnjo Grmado, od koder boste imeli še lepši pogled na Slovensko primorje (ki ga s Slavnika zakriva prav Grmada), lahko pa se seveda vrnete v Podgorje -- po lažji ali po strmi poti.
 

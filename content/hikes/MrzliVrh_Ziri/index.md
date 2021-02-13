@@ -1,10 +1,10 @@
 ---
-date: '2010-11-10T00:00:00'
+date: 2010-11-10 00:00:00+00:00
 delta: 517
-description: Ko vas bo pot zanesla mimo Žiri, si vzamite še nekaj ur časa in se sprehodite na Mrzli vrh - travnat, razgleden vrh zahodno od Žiri.
+description: Ko vas bo pot zanesla mimo Žiri, si vzamite še nekaj ur časa in se sprehodite
+  na Mrzli vrh - travnat, razgleden vrh zahodno od Žiri.
 duration: 3.5
 height: 987
-lead: M_8-3831_IMG.JPG
 image:
 - M_8-3831_IMG.JPG
 - M_7-3785_IMG.JPG
@@ -36,6 +36,7 @@ image:
 - M_8-3826_IMG.JPG
 - M_8-3828_IMG.JPG
 - M_8-3829_IMG.JPG
+lead: M_8-3831_IMG.JPG
 name: MrzliVrh_Ziri
 title: Mrzli vrh nad Žirmi
 x: 428
@@ -108,7 +109,7 @@ Po dobri polovici poti postane ta nekoliko bolj strma, izginejo pa tudi markacij
 
 {{<figure src="M_7-3799_IMG.JPG" caption="Mrzli vrh">}} 
 
-{{<figure src="Razgled_sever.jpg" caption="Pogled proti severu">}}
+{{<figure src="Razgled_sever.jpg" caption="Pogled proti severu" caption-position="bottom">}}
 
 Mrzli vrh
 ---------

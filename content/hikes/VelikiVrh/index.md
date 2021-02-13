@@ -92,9 +92,9 @@ Na Velikem vrhu nas pričaka veličasten razgled -- proti jugu se kot prej dvigu
 
 {{<figure src="M_3_0355.JPG" caption="Begunjščica, Stol in Vrtača, za njimi Triglav">}}
 
-{{<figure src="Razgled_VelikiVrh_Vzhod.jpg" caption="Pogled z Velikega vrha proti vzhodu: v sredini greben Košute, desno Kamniške Alpe">}} 
+{{<figure src="Razgled_VelikiVrh_Vzhod.jpg" caption="Pogled z Velikega vrha proti vzhodu: v sredini greben Košute, desno Kamniške Alpe" caption-position="bottom">}} 
 
-{{<figure src="Razgled_VelikiVrh_Zahod.jpg" caption="Pogled z Velikega vrha proti zahodu: Levo Dobrča, v sredini vrhovi Karavank, za njimi Julijske Alpe">}}
+{{<figure src="Razgled_VelikiVrh_Zahod.jpg" caption="Pogled z Velikega vrha proti zahodu: Levo Dobrča, v sredini vrhovi Karavank, za njimi Julijske Alpe" caption-position="bottom">}}
 
 Po počitku na Velikem vrhu se lahko vrnemo na Kofce po poti, po kateri smo se povzpeli, lahko pa izlet nekoliko popestrimo z vrnitvijo mimo Kofce gore. Tisti, ki ste se v bližino Kofc pripeljali z avtomobilom, boste morda mimo Kofce gore nadaljevali pot proti Kladivu, izletniki, ki so pot začeli v dolini, pa si bodo verjetno obisk Kladiva prihranili za kakšno drugo priložnost.
 

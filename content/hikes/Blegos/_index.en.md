@@ -21,7 +21,7 @@ Blegoš is the highest summit in the Škofja Loka hills and (together with Ratit
 
 It\'s no wonder that a number of waymarked paths lead up to such an important summit, offering a broad range of trips -- from a short half-hour walk to short trips from Črni Kal, ridge walks from Stari vrh above Škofja Loka or from Črni vrh above Cerkno to quite demanding ascents from the valleys of the Poljanščica and the Selščica.
 
-{{<figure src="Razgled_Blegos.jpg" caption="The view from Blegoš">}}
+{{<figure src="Razgled_Blegos.jpg" caption="The view from Blegoš" caption-position="bottom">}}
 
 ### Ascents to Blegoš
 

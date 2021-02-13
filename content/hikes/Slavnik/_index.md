@@ -26,7 +26,7 @@ Poleg vseh teh markiranih poti se lahko na Slavnik odpravimo še po množici nem
 Na vrhu Slavnika vas v lepem vremenu čaka čudovit razgled -- lepo se vidi Trnovski gozd z Nanosom, v zelo lepem vremenu pa celo slovenske Alpe. Pred Tumovo kočo boste uživali v pogledu na okoliška hribovja in slovensko Istro, z bližnje Grmade pa boste imeli še lepši pogled na Slovensko primorje (ki ga s Slavnika zakriva prav Grmada)
 
 {{<figure src="TrnovskiGozd_Nanos.jpg" caption="Trnovski Gozd in Nanos, desno Vremščica">}}
-{{<figure src="Pogled_vzhod.jpg" caption="Pogled proti vzhodu">}}
+{{<figure src="Pogled_vzhod.jpg" caption="Pogled proti vzhodu" caption-position="bottom">}}
 
 ## Izberi pot
 

@@ -1,5 +1,5 @@
 ---
-date: '2003-01-26T00:00:00'
+date: 2003-01-26 00:00:00+00:00
 delta: 530
 description: Vzpon iz Trebije je ena lepših poti na Ermanovec - skoraj v celoti se
   izogiba asfaltnih cest, zaradi odličnih markacij pa je primerna tudi za zimski vzpon.
@@ -100,7 +100,7 @@ Prvi razgledi
 
 Ko se boste naužili lepih razgledov, se boste v zimskem času verjetno odločili za povratek v Trebijo, poleti pa bo smiselno nadaljevati pot proti koči na Ermanovcu \... to pa je že druga zgodba.
 
-{{<figure src="razgled_vrh_jug.jpg" caption="Razgled proti jugu: Koprivnik, Vrsnik, Žiri in Goropeke">}}
-{{<figure src="razgled_vrh_zahod.jpg" caption="Pogled proti zahodu na Cerkljansko hribovje">}}
+{{<figure src="razgled_vrh_jug.jpg" caption="Razgled proti jugu: Koprivnik, Vrsnik, Žiri in Goropeke" caption-position="bottom">}}
+{{<figure src="razgled_vrh_zahod.jpg" caption="Pogled proti zahodu na Cerkljansko hribovje" caption-position="bottom">}}
 
  

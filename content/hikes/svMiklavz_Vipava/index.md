@@ -1,7 +1,8 @@
 ---
-date: '2004-04-25T00:00:00'
+date: 2004-04-25 00:00:00+00:00
 delta: 200
-description: Kratek sprehod vas bo iz Gradišča popeljal do cerkvice visoko nad Vipavsko dolino
+description: Kratek sprehod vas bo iz Gradišča popeljal do cerkvice visoko nad Vipavsko
+  dolino
 duration: 2
 height: 445
 image:
@@ -57,7 +58,7 @@ Iz Gradišča proti sv. Miklavžu
 
 Izlet začnete v Gradišču pri Vipavi (bolj natančno v zaselku Žgavska vas nad Gradiščem). Avtocesto, ki pelje po Vipavski dolini, zapustite na izvozu Vipava, zavijete desno proti Vipavi, nato pa takoj na začetku Vipave sledite kažipotu v Gradišče, ki vas po ozki stranski cesti pripelje nad Vipavsko klet. Na križišču z glavno cesto zavijete desno, nato pa sledite glavni cesti skozi Gradišče. Cesta se precej hitro vzpenja skozi naselje, dobrih sto metrov za zadnjimi hišami pa zavijete desno na prostrano parkirišče, kjer lahko brez skrbi pustite avto.
 
-{{<figure src="Razgled_Nanos.jpg" caption="Strme skalnate stene Nanosa nad Gradiščem. Vrh na desni je Gradiška tura.">}}
+{{<figure src="Razgled_Nanos.jpg" caption="Strme skalnate stene Nanosa nad Gradiščem. Vrh na desni je Gradiška tura." caption-position="bottom">}}
 
 Pred začetkom izleta si oglejte strme stene Nanosa, ki se dvigujejo nad vami, nato pa se odpravite naravnost proti njim po precej strmi poti, na katero vas usmerita kažipota za Nanos in Turo. Po krajšem vzponu se pot položi in vas pripelje do razcepa, kjer levi krak zavije na zahtevno plezalno pot proti Gradiški turi, desno pa položen kolovoz vodi proti sv. Miklavžu (na kažipotu piše seveda sv. Miklav). Naslednjih 20 minut vas razgiban kolovoz vodi po mešanem gozdu, v katerem prevladujejo borovci, opazili pa boste tudi neverjetno mnogo bršljana. Nato se pot malce spusti, na levo pa se odpre pogled na gladke skale, na katerih se urijo športni plezalci.
 

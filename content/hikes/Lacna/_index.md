@@ -1,5 +1,5 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 description: Tisti, ki ste se odpravili v hrvaško Istro po cesti mimo Buzeta, Lačno
   že poznate;  je najvišji vrh grebena, ki vas na levi strani spremlja med zadnjimi
   kilometri ceste proti Hrvaški meji. Z razglednega stolpa na vrhu vas čaka čudovit
@@ -26,4 +26,4 @@ Lačna je eden od vrhov hribovja, ki na južnem koncu objema Rižansko dolino in
 
 Turistično društvo iz Gračišča je s postavitvijo razglednega stolpa poskrbelo tudi za razgled s tega sicer precej zaraščenega vrha. Z njega se razprostira pogled na [Slavniško pogorje](../Slavnik), [Kojnik](../Kojnik) in [Golič](../Golic), [Kraški rob](../Lipnik), [Bržanijo](../HrastovljeZazid), [Tinjan](../Tinjan), slovensko morje in [Šavrinsko gričevje](../Padna).
 
-{{<figure src="Panorama_vzhod.jpg" caption="Pogled na Kraški rob in Slavniško pogorje">}}
+{{<figure src="Panorama_vzhod.jpg" caption="Pogled na Kraški rob in Slavniško pogorje" caption-position="bottom">}}

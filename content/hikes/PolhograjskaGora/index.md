@@ -1,5 +1,5 @@
 ---
-date: '2004-04-11T00:00:00'
+date: 2004-04-11 00:00:00+00:00
 delta: 420
 description: Če se želite pošteno prepotiti, bo izlet na Polhograjsko goro kar pravi
   - 400 metrov višinske razlike prehodite po precej strmi poti v manj kot eni uri.
@@ -70,7 +70,7 @@ Tik nad Polhovim Gradcem se dviguje strm hrib -- Gora s cerkvico sv. Lovrenca. P
 **Priporočam**
 :   Dobro obutev (planinske čevlje), če se le da pohodne palice.
 
-{{<figure src="Polhov_gradec.jpg" caption="Pogled na Polhov Gradec in polhograjsko Goro iz Srednje vasi">}}
+{{<figure src="Polhov_gradec.jpg" caption="Pogled na Polhov Gradec in polhograjsko Goro iz Srednje vasi" caption-position="bottom">}}
 
 Vzpon mimo graščine
 -------------------
@@ -112,11 +112,11 @@ Desno od poti je kmetija Logar (konec tedna se lahko pri njih okrepčate), pot p
 
 Le kakšnih 20 metrov višinske razlike pod vrhom vas čaka še en lep razgled, tokrat na zahodno stran, vidite pa tudi že končni cilj -- cerkvico sv. Lovrenca na vrhu polhograjske Gore.
 
-{{<figure src="Razgled_pod_vrhom_zahod.jpg" caption="Pogled proti zahodu">}}
+{{<figure src="Razgled_pod_vrhom_zahod.jpg" caption="Pogled proti zahodu" caption-position="bottom">}}
 
 Z vrha Gore se v lepem dnevu odpre čudovit razgled na [Grmado](../polhograjskagrmada) in [Tošč](../tosc), proti jugovzhodu pa vse do Ljubljane in hribov na južnem robu Ljubljanskega barja, pred katerimi boste hitro opazili [Koreno](../korena), [Špico](../spica) in [Ulovko](../ulovka).  Tisti, ki pozorno gledate okoli sebe, pa boste poleg tega pod južnim zidom cerkvice opazili bogata rastišča kokoševca in planinskega glavinca.
 
-{{<figure src="Razgled_z_vrha_jug.jpg" caption="Pogled proti jugu">}}
+{{<figure src="Razgled_z_vrha_jug.jpg" caption="Pogled proti jugu" caption-position="bottom">}}
 
 V dolino se lahko vrnete po štirih poteh:
 

@@ -1,5 +1,5 @@
 ---
-date: '2010-12-08T00:00:00'
+date: 2010-12-08 00:00:00+00:00
 delta: 380
 description: S travnatih vrhov na grebenu južno od Polhovega Gradca boste imeli lep
   razgled na Ljubljansko kotlino in Polhograjsko hribovje.
@@ -154,7 +154,7 @@ Nekaj minut hoje vas pripelje do asfaltne ceste. Če se boste ozrli nazaj, boste
 
 Od priključka na asfaltno cesto vas do cerkve sv. Mohorja in Fortunata loči le še nekaj sto metrov. Po zadnjem vzponu do cerkve in sosednjega razglednega vrha se na vrhu odpočijte (razen v vetrovnem vremenu -- mene je z vrha skoraj odpihnilo) in uživajte v razgledu. Med vikendom se lahko pred povratkom okrepčate v kmečkem turizmu tik pod cerkvijo, nato pa se po ogledu zemljevida odločite za povratek po isti poti ali za eno od krožnih poti.
 
-{{<figure src="Razgled_koreno.jpg" caption="Razgled na vrhu">}}
+{{<figure src="Razgled_koreno.jpg" caption="Razgled na vrhu" caption-position="bottom">}}
 
 Korena iz Zaklanca
 ------------------

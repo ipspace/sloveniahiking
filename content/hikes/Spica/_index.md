@@ -1,5 +1,5 @@
 ---
-date: '2003-02-09T00:00:00'
+date: 2003-02-09 00:00:00+00:00
 description: Špica je razgleden južni vrh grebena Planine, ki ločuje Zaplano od Ljubljanske
   kotline in Vrhniki najbližji hrib, na katerega se je res vredno povzpeti.
 height: 735
@@ -31,7 +31,7 @@ Vzpon na Planino vas najprej pripelje do planinske koče, ki jo upravlja PD Vrhn
 {{<figure src="M_5-4545_IMG.JPG" caption="Megleno morje">}}
 {{<figure src="M_5-4546_IMG.JPG" caption="Polhograjski dolomiti">}}
 {{</gallery>}}
-{{<figure src="Razgled_Planina.jpg" caption="Poletni razgled s Špice">}}
+{{<figure src="Razgled_Planina.jpg" caption="Poletni razgled s Špice" caption-position="bottom">}}
 
 Planinska koča je odprta vse dni razen ponedeljka, in obisk vam lahko toplo priporočam -- vrhniški štruklji so fenomenalni.
 

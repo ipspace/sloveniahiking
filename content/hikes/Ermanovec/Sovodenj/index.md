@@ -1,5 +1,5 @@
 ---
-date: '2003-07-13T00:00:00'
+date: 2003-07-13 00:00:00+00:00
 delta: 430
 description: Najkrajša pot na Ermanovec vodi s Sovodnja. Pot je kratka, poteka večinoma
   v senci, na koncu poti pa vas čakajo travniki in planinski dom – skratka idealen
@@ -103,7 +103,7 @@ Koča na Ermanovcu leži tik ob asfaltni cesti iz Stare Oselice proti prevalu Kl
 
 Med počitkom pri koči lahko uživate v razgledu na hribe jugo-zahodno od vas -- hitro boste opazili Mrzli vrh nad Žirmi ter levo od njega greben Žirovskega vrha, naravnost pred vami vas preko doline Hobovščice pozdravlja Bevkov vrh, levo od njega pa se vrstijo vrhovi Cerkljanskega hribovja. Med Bevkovim vrhom in Mrzlim vrhom boste opazili tudi strma pobočja Jelenka nad Spodnjo Idrijo.
 
-{{<figure src="Pogled_JZ.jpg" caption="Pogled od planinske koče proti jugo-zahodu">}}  
+{{<figure src="Pogled_JZ.jpg" caption="Pogled od planinske koče proti jugo-zahodu" caption-position="bottom">}}  
 
 Tisti, ki želite občudovati tudi pogled na Škofjeloško hribovje, se boste morali povzpeti vsaj na bližnji Štor (5 minut vzpona), od koder boste naravnost pred sabo opazili Blegoš, levo od njega vrhove proti Črnemu vrhu nad Cerknim, desno pa greben, ki se konča z Lubnikom nad Škofjo Loko. Še lepši razgled boste seveda imeli z vrha Ermanovca -- od doma nadaljujete s hojo po asfaltni cesti proti Stari Oselici, na razcepu asfaltnih cest pa vas markacije usmerijo na kolovoz, ki vas v nekaj minutah pripelje do vrha Ermanovca.
 

@@ -1,5 +1,5 @@
 ---
-date: '2010-11-24T00:00:00'
+date: 2010-11-24 00:00:00+00:00
 delta: 280
 description: Z vrha nad Trebnjim boste imeli lep razgled na dolino Temenice in Mirne
   ter na dolenjsko hribovje, vse do Kuma.
@@ -23,9 +23,9 @@ image:
 - M_6-3652_IMG.JPG
 - M_6-3654_IMG.JPG
 - M_6-3656_IMG.JPG
+lead: M_6-3650_IMG.JPG
 name: TrebnjiVrh
 title: Trebnji vrh
-lead: M_6-3650_IMG.JPG
 x: 500
 y: 83
 ---
@@ -107,7 +107,7 @@ Trebnji vrh in Vrhtrebnje
 
 Po slabi uri hoje od izhodišča nas planinska pot pripelje do prvih hiš na Vrhtrebnjem -- gručasti vasici tik pod Trebnjim vrhom. Že pri teh hišah vas čaka lep razgled v dolino, ob le nekaj deset metrov oddaljenem Domu na Vrhtrebnjem pa se vam odpre čudovit razgled na dolino Temenice in okoliške dolenjske hribe. Na travnikih okoli doma boste še sredi jeseni našli nekatere najbolj vztrajne rože -- glavince, primožke, jajčarje in popone.
 
-{{<figure src="Razgled_Dom.jpg" caption="Pogled proti dolinama Temenice in Mirne">}}
+{{<figure src="Razgled_Dom.jpg" caption="Pogled proti dolinama Temenice in Mirne" caption-position="bottom">}}
 
 Od Doma na Vrhtrebnjem lahko nadaljujete pot proti središču vasi po asfaltni cesti, lahko pa se sprehodite še mimo Trebnjega vrha. V tem primeru morate prečkati asfaltno cesto in se naslednjih nekaj sto metrov v celoti zanesti na svoj orientacijski občutek -- markacij na tem delčku poti ni (zgubiti pa se tudi skoraj ne morete). Po nekaj minutah hoje boste prišli do Trebnjega vrha, kjer vas čaka vpisna knjiga, zaradi pomanjkanja razgleda pa se boste verjetno hitro vrnili na Vrhtrebnje.
 

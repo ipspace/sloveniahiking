@@ -14,7 +14,7 @@ title: Kokoš from Lokev
 x: 415
 y: 56
 ---
-{{<figure src="Pogled_Kokos.jpg" caption="A view of Veliko Gradišče (left) and Kokoš (right) from Lokavsko polje">}}
+{{<figure src="Pogled_Kokos.jpg" caption="A view of Veliko Gradišče (left) and Kokoš (right) from Lokavsko polje" caption-position="bottom">}}
 
 Kokoš is one of the summits in the range of hills that divides the Sežana Karst (more accurately Lokavsko polje) from the Gulf of Trieste. These hills are criss-crossed with hiking paths and cycling and horse-riding tracks and so are ideal for spring and autumn walks (you\'ll probably avoid going in summer because of the heat); the paths take you right from Lipica and practically as far as the caves Škocjanske jame.
 
@@ -91,7 +91,7 @@ After joining the cycling track, you start slowly to climb again towards Kokoš,
 
 You can return the same way to Lokev or a little after the beginning of the path turn left onto the mountain path that takes you straight to Lokev. For a time this route runs through sparse forest (like the path from Prelože towards the Vroče spring), but you soon reach Lokavsko polje, across which the macadam road leads you towards Lokev.
 
-{{<figure src="Razgled_Vrh.jpg" caption="View from Kokoš">}}
+{{<figure src="Razgled_Vrh.jpg" caption="View from Kokoš" caption-position="bottom">}}
 
 On this stage as well you can observe the wealth of wild flowers in the neighbouring meadows (they\'ll be finest in spring, when the pasque flowers/spring anemones are blooming and in early summer before the first haymaking), but it\'s also pleasant in autumn to sit on a bench beside the road and enjoy looking at the karst countryside.
 

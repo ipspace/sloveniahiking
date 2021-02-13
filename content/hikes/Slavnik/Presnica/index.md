@@ -1,12 +1,12 @@
 ---
-date: '2004-05-09T00:00:00'
+date: 2004-05-09 00:00:00+00:00
 delta: 560
 description: Na Slavnik se lahko po zahodnem pobočju povzpnemo tudi po prijetni položni
   poti iz Prešnice, kraške vasice, stisnjene pod pobočja Slavniškega pogorja.
 duration: 5
 height: 1028
-map: 1
 lead: M_4-5411_IMG.JPG
+map: 1
 multilead: M_4-5411_IMG.JPG
 multipath: true
 name: Slavnik/Presnica
@@ -70,7 +70,7 @@ Od skalnega razglednika dalje postaja pot čedalje bolj položna in nas kmalu pr
 
 Pot se nadaljuje v glavnem čez travnike, le tu in tam zavije v redek gozdiček, ki v poletnih mesecih daje vsaj malo sence. Po krajšem vzponu boste dosegli sedlo, kjer boste prečkali makadamsko cesto, po kateri se lahko na Slavnik pripeljete iz Kozine (ne boste verjeli, toda videl sem »pohodnike«, ki so se do tod pripeljali z avtomobilom, ga parkirali kar sredi travnika in se nato odpravili »osvajat Slavnik«).
 
-{{<figure src="Razgled_Travniki.jpg" caption="Razgled s kraških travnikov pod Grmado">}}
+{{<figure src="Razgled_Travniki.jpg" caption="Razgled s kraških travnikov pod Grmado" caption-position="bottom">}}
 
 Gozda ob poti je spet nekoliko več, tik pod Grmado pa se začne bukov (ki mora biti precej vlažen, sodeč po rastlinah, ki rastejo v njem), pot postane malce bolj strma in vas po nekaj minutah pripelje tik pod vrh Grmade, na kraške travnike okoli vrha Slavnika, od koder boste že videli Tumovo kočo pod vrhom Slavnika. K njej se lahko odpravite po makadamski cesti, lahko pa jo uberete po dobro uhojeni poti čez manjši kucelj in nato naravnost po travnikih do koče.
 

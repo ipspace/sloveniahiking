@@ -13,7 +13,7 @@ title: Kokoš nad Lokvijo
 x: 415
 y: 56
 ---
-{{<figure src="Pogled_Kokos.jpg" caption="Pogled na Veliko Gradišče (levo) in Kokoš (desno) z Lokavskega polja">}}
+{{<figure src="Pogled_Kokos.jpg" caption="Pogled na Veliko Gradišče (levo) in Kokoš (desno) z Lokavskega polja" caption-position="bottom">}}
 
 Kokoš je eden od vrhov gričevja, ki ločuje Sežanski Kras (bolj natančno, Lokavsko polje) od Tržaškega zaliva. Gričevje je prepredeno s pešpotmi, kolesarskimi in jahalnimi stezami in kot takšno idealno za spomladanske ali jesenske sprehode (poletnim se boste zaradi vročine verjetno izognili); poti vas ponesejo vse od Lipice pa skoraj do Škocjanskih jam. Kokoš in bližnji izvir Vroče sta očitno priljubljena cilja lokalnih planincev, če sodim po odlično urejenih poteh, klopcah in mizah, postavljenih ob njih. Iz Lokve vodita na Kokoš dve poti, kar nam omogoča lep krožen izlet.
 
@@ -100,7 +100,7 @@ Po priključku na kolesarsko pot se začnete spet počasi vzpenjati proti Kokoš
 
 V Lokev se lahko vrnete po poti, po kateri ste prišli, lahko pa kmalu po začetku poti zavijete levo na planinsko pot, ki vas pripelje naravnost v Lokev. Ta pot nekaj časa poteka po redkem gozdu (podobno kot pot iz Prelož proti izviru Vroče), že kmalu pa prispemo na Lokavsko polje, po katerem nas makadamska cesta vodi proti Lokvi.
 
-{{<figure src="Razgled_Vrh.jpg" caption="360-stopinjski pogled s Kokoši">}}
+{{<figure src="Razgled_Vrh.jpg" caption="360-stopinjski pogled s Kokoši" caption-position="bottom">}}
 
 Tudi na tem delu poti si oglejte bogastvo rož na sosednjih travnikih (najlepši bodo spomladi, ko na njih zacvetijo kosmatinci, in zgodaj poleti pred prvo košnjo), pa tudi jeseni je prijetno posedeti na klopci ob poti in uživati v pogledu na kraško pokrajino.
 

@@ -1,7 +1,9 @@
 ---
-date: '2002-06-16T00:00:00'
+date: 2002-06-16 00:00:00+00:00
 delta: 550
-description: V lepem zgodnje-poletnem dnevu se splača odpraviti v čarovniške kraje - na Slivnico. Doživeli boste lepe razglede, videli obilico rož, tudi redko kranjsko lilijo, pa tudi zbirališče čarovnic - čarovniško jamo.
+description: V lepem zgodnje-poletnem dnevu se splača odpraviti v čarovniške kraje
+  - na Slivnico. Doživeli boste lepe razglede, videli obilico rož, tudi redko kranjsko
+  lilijo, pa tudi zbirališče čarovnic - čarovniško jamo.
 duration: 2.5
 height: 1114
 image:
@@ -71,7 +73,7 @@ Tukaj se začne raj za ljubitelje rož - najprej boste opazili tipične travniš
 
 Ko pridete do Debelega vrha (958m), vas čaka čudovit razgled proti severu (vidi se vse do slovenskih Alp), pa tudi prava poslastica za oči - našli boste zlato jabolko in travnolistno peruniko. Da bo užitek popoln, vas pod vrhom Slivnice čakajo še kokoševec, čemaž, orlice, jajčasti repuš in zlati koren.  Pa tudi do vrha ni več daleč - manj kot 60m višinske razlike.
 
-{{<figure src="RazgledDebeliVrh.jpg">}}
+{{<figure src="RazgledDebeliVrh.jpg" caption-position="bottom">}}
 
 Čarovniška Slivnica
 -------------------
@@ -86,7 +88,7 @@ Dom je (bil nekoč) odprt vsak dan od 12:00 dalje, ob vikendih pa tudi prej, pri
 
 Od doma je le nekaj minut do vrha Slivnice, kamor se odpravite izključno samo po planinski pečat (če jih zbirate). Vrh je zarasel, imeli boste imeniten razgled na Telekomove in Mobitelove oddajnike postavljene na vrhu, drugam pa ne.
 
-{{<figure src="Razgled_Slivnica.jpg" caption="Razgled s Slivnice">}}
+{{<figure src="Razgled_Slivnica.jpg" caption="Razgled s Slivnice" caption-position="bottom">}}
 
 Po okrepčilu v Domu na Slivnici je obvezen tudi obisk čarovniške jame, ki je le dobrih 5 minut hoda oddaljena od doma.
 

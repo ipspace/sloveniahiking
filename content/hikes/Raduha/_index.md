@@ -17,7 +17,7 @@ y: 141
 
 Kot bi lahko pričakovali, so pobočja Raduhe prepredena z markiranimi potmi, gozdnimi cestami, kolovozi in stezicami, kar nam omogoča, da vedno najdemo pot, ki ustreza našim željam in kondiciji. Nanjo se lahko odpravimo iz doline Savinje ali pa se po dobro vzdrževanih gozdnih cestah dvignemo precej visoko, skoraj do koče na Loki, in tako namesto vzpona po bukovih gozdovih uživamo v sprehodu po redkem iglastem gozdu in visokogorskih travnikih. Planinski sladokusci se lahko odločijo tudi za vzpon po zahtevni zavarovani poti s planine Grohot.
 
-{{<figure src="KolazRazgled.jpg" caption="Razgled z vrha Raduhe">}}
+{{<figure src="KolazRazgled.jpg" caption="Razgled z vrha Raduhe" caption-position="bottom">}}
 
 ## Izleti na Raduho
 

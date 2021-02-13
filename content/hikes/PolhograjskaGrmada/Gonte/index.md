@@ -1,5 +1,5 @@
 ---
-date: '2004-03-28T00:00:00'
+date: 2004-03-28 00:00:00+00:00
 delta: 500
 description: Južna skalnata pobočja Polhograjske Grmade so pozimi večkrat poledenela,
   poleti pa nas na njih pogosto neusmiljeno preganja vroče sonce. V takšnih dneh se
@@ -7,8 +7,8 @@ description: Južna skalnata pobočja Polhograjske Grmade so pozimi večkrat pol
 duration: 3
 height: 898
 lead: M_5_0514.JPG
-multilead: M_5_0514.JPG
 map: 1
+multilead: M_5_0514.JPG
 multipath: true
 name: PolhograjskaGrmada/Gonte
 title: Polhograjska Grmada čez Gonte
@@ -59,5 +59,5 @@ Pot skozi Mačkov graben nas pripelje skozi bukov gozd do travnikov pred kmetijo
 
 Po stezici se spustimo nekaj metrov niže, nato pa nas čaka precej strm vzpon po severnem pobočju Grmade. Pot teče po bukovem gozdu; na bolj strmih delih nam pomagajo stopnice, vsa izpostavljena mesta pa so zavarovana z jeklenicami. Po dobrih 15 minutah vzpona pridemo do klopce pod Grmado, kjer nas čaka razgled na okoliške hribe in Kamniške Alpe v ozadju, od tod do vrha pa je le še nekaj korakov.
 
-{{<figure src="Razgled_Kamniske.jpg" caption="Pogled na Kamniške Alpe, levo Tošč">}}
-{{<figure src="Razgled_Triglav.jpg" caption="Julijske Alpe s Triglavom">}}
+{{<figure src="Razgled_Kamniske.jpg" caption="Pogled na Kamniške Alpe, levo Tošč" caption-position="bottom">}}
+{{<figure src="Razgled_Triglav.jpg" caption="Julijske Alpe s Triglavom" caption-position="bottom">}}

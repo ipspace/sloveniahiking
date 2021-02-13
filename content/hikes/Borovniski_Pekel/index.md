@@ -1,5 +1,5 @@
 ---
-date: '2002-05-09T00:00:00'
+date: 2002-05-09 00:00:00+00:00
 delta: 300
 description: Pekel je najlepši nekaj dni po obilnem deževju, ko ima Borovniščica zadosti
   vode, pot pa ni več blatna.
@@ -130,7 +130,7 @@ Položna pot vas od petega slapa po levem bregu Otavščice pripelje do Hudičev
 
 Čaka vas še krajši vzpon na Hudičev zob, ki vas nagradi s prelepim razgledom na okoliške hribe, ob lepih dneh pa se vidi vse do Kamniških Alp.
 
-{{<figure src="Razgled.jpg">}}
+{{<figure src="Razgled.jpg" caption-position="bottom">}}
 
 Nazadnje je pred vami še zanimiv spust -- najprej plezanje po klinih do razcepa nad tretjim slapom, potem po lestvah do njega, še nekaj klinov in že ste v dolini.
 

@@ -19,4 +19,4 @@ Ni čudno, da na tako pomemben vrh vodi vrsta markiranih poti, ki nam nudijo ši
 
 {{<multipath-hike-list>}}
 
-{{<figure src="Razgled_Blegos.jpg" caption="Pogled proti severu na greben Spodnjih Bohinjskih gora">}}
+{{<figure src="Razgled_Blegos.jpg" caption="Pogled proti severu na greben Spodnjih Bohinjskih gora" caption-position="bottom">}}

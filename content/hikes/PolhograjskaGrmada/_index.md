@@ -1,9 +1,9 @@
 ---
 date: 2003-05-04 00:00:00+00:00
-description: 'Polhograjska Grmada je eden od najvišjih vrhov v Polhograjskem hribovju.
+description: Polhograjska Grmada je eden od najvišjih vrhov v Polhograjskem hribovju.
   Po sorazmerno položnih dostopih do Grmade se srečamo z zelo strmim in skalnatim
   vrhom, ki kljub nizki nadmorski višini (manj kot 900 metrov) daje vtis prave visokogorske
-  pokrajine.'
+  pokrajine.
 height: 898
 lead: M_0-5040_IMG.JPG
 name: PolhograjskaGrmada
@@ -22,11 +22,11 @@ Razgled z vrha Grmade
 
 Razgled z Grmade je eden najlepših razgledov, ki jih lahko doživite v Polhograjskem hribovju. Z vrha si boste lahko ogledali celotno Ljubljansko kotlino s Krimom v ozadju, [Ulovko](../Ulovka), [Koreno](../Korena) in [Kožljek](../Kozljek) pred njo, [Polhograjsko goro](../PolhograjskaGora) pod vami, [Tošč](../Tosc) na severu, Blegoš in Porezen za Toščem ter Julijske Alpe in Karavanke v ozadju. S klopce pod Grmado, ki gleda proti vzhodu, pa boste v daljavi zagledali cerkev sv. Katarine na Topolu. 
 
-{{<figure src="razgled_jug.jpg" caption="Pogled proti jugu: Krim, Ulovka, Korena, Kožljek in Polhograjska gora">}}
+{{<figure src="razgled_jug.jpg" caption="Pogled proti jugu: Krim, Ulovka, Korena, Kožljek in Polhograjska gora" caption-position="bottom">}}
 
-{{<figure src="razgled_tosc.jpg" caption="Greben Tošča">}}
+{{<figure src="razgled_tosc.jpg" caption="Greben Tošča" caption-position="bottom">}}
 
-{{<figure src="razgled_vzhod.jpg" caption="Pogled proti vzhodu: vrhovi Polhograjskega hribovja, v ozadju Kamniške Alpe">}}
+{{<figure src="razgled_vzhod.jpg" caption="Pogled proti vzhodu: vrhovi Polhograjskega hribovja, v ozadju Kamniške Alpe" caption-position="bottom">}}
 
 Težko je izbrati, katera izmed poti iz Polhovega Gradca je bolj zanimiva -- poti iz doline Božne (skozi Setnice in po Mačkovem grabnu) in iz Belice tečejo večinoma po gozdu, medtem ko pot čez Ravnek prečka nekaj zelo razglednih travnikov. Katerakoli pot iz Polhovega Gradca vam nudi možnost krožne poti, tako se lahko na primer na Grmado povzpnete čez Ravnek, vrnete pa se skozi Setnico.
 

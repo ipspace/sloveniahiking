@@ -1,6 +1,5 @@
 ---
-date: '2003-11-02T00:00:00'
-lastmod: 2021-02-13 10:31:00
+date: 2003-11-02 00:00:00+00:00
 delta: 640
 description: Po zanimivem strmem vzponu na Plešo, najbolj znan vrh Nanosa, boste (če
   vas ne bo odnesla burja) uživali v čudovitih razgledih na Vipavsko dolino in okolico.
@@ -25,9 +24,10 @@ image:
 - mapgps.jpg
 - path_1.gif
 - alt.gif
+lastmod: 2021-02-13 10:31:00
 lead: M_1_0184.JPG
-multilead: M_1_0184.JPG
 map: 1
+multilead: M_1_0184.JPG
 multipath: true
 name: Nanos/Razdrto
 title: Nanos iz Razdrtega
@@ -108,7 +108,7 @@ Pot do vrha tako raje nadaljujemo po markirani poti, za kar bomo tudi obilno nag
 
 A pustimo takšna ugibanja ob strani -- po dobre četrt ure vzpona nas pot pripelje do grebena, kjer nas pogosto pozdravi prava nanoška burja. Čaka nas le še pet minut hoje po grebenu, najprej mimo oddajnika, nato pa še kratek vzpon in že se znajdemo na razgledišču, od koder se odpre širen pogled, ki zajame pokrajino od Javornikov nad Cerknico do Julijskih Alp v ozadju. Vmes boste v lepem vremenu opazili še Snežnik, Vremščico, Slavnik, kraške hribe, med katerimi kraljuje Trstelj, pod vami leži Vipavska dolina, za njo pa se dvigajo strma pobočja Čavna, izza katerih se tu in tam zableščijo dvatisočaki zahodnih Julijskih Alp.
 
-{{<figure src="Razgled_Vipava_PF.jpg" caption="Razgled pred TV oddajnikom - levo Vipavska dolina, v sredini Čaven, desno nanoški gozdovi">}}
+{{<figure src="Razgled_Vipava_PF.jpg" caption="Razgled pred TV oddajnikom - levo Vipavska dolina, v sredini Čaven, desno nanoški gozdovi" caption-position="bottom">}}
 
 Z razgledišča se po stezi pod oddajnikom spustite do Vojkove koče na Nanosu, ki je poleti odprta vsak dan, v bolj zimskih razmerah pa le med vikendi. Koča je postavljena v zavetrju, tako da bo počitek pri njej dobrodošel tudi takrat, ko je zaprta. Po krajšem počitku se lahko odločite za vračanje po poti, po kateri ste se povzpeli, lahko pa si izlet popestrite z vračanjem po položni poti.
 

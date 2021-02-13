@@ -14,7 +14,7 @@ y: 141
 ---
 Raduha is one of the highest peaks in the eastern parts of Kamnik-Savinja Alps. The simplest ascent follows waymarked paths from the [Planina Loka](loka), or you could take a day-long hike from [Robanov Kot](robanovkot). 
 
-{{<figure src="KolazRazgled.jpg" caption="View from the summit">}}
+{{<figure src="KolazRazgled.jpg" caption="View from the summit" caption-position="bottom">}}
 
 ## Ascents
 

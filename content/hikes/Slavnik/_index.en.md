@@ -1,8 +1,8 @@
 ---
 date: 1900-01-01 00:00:00+00:00
-description: 'Slavnik is the highest peak of the Slavnik range, the last mountain
-  range before the gentle slopes of Slovenian Istra. It\''s also the last peak above
-  1000 meters visited by the Slovenian Mountain Hiking Trail.'
+description: Slavnik is the highest peak of the Slavnik range, the last mountain range
+  before the gentle slopes of Slovenian Istra. It\'s also the last peak above 1000
+  meters visited by the Slovenian Mountain Hiking Trail.
 height: 1028
 lead: M_5-3555_IMG.JPG
 name: Slavnik
@@ -20,7 +20,7 @@ The shortest routes to Slavnik lead from Podgorje, a small karst village south-w
 
 {{<figure src="TrnovskiGozd_Nanos.jpg" caption="View toward the north (Trnovski gozd, Nanos and Vremščica)">}} 
 
-{{<figure src="Pogled_vzhod.jpg" caption="Karst hills and meadows east of Slavnik">}}
+{{<figure src="Pogled_vzhod.jpg" caption="Karst hills and meadows east of Slavnik" caption-position="bottom">}}
 
 ## Choose a path
 
