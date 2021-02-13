@@ -2,7 +2,6 @@
 date: '2003-09-07T00:00:00'
 delta: 450
 description: Razgleden vrh nad dolino Idrijce
-draft: true
 duration: 3
 height: 1051
 image:

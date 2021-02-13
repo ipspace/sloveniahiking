@@ -3,7 +3,6 @@ date: 1900-01-01 00:00:00+00:00
 description: Lipanca je manjša planina nad Pokljuko, tik pod grebenom, ki ločuje Pokljuško
   planoto od doline Krme. Z Lipance boste imeli lep razgled na pokljuške gozdove in
   bohinjske gore, nad vami pa se bodo dvigale strme stene Lipanskega vrha.
-draft: true
 height: 1630
 image:
 - M_9-5985_IMG.JPG

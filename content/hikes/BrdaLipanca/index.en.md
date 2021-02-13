@@ -1,0 +1,24 @@
+---
+date: 2006-06-25 00:00:00+00:00
+delta: 590
+duration: 3
+height: 2008
+image:
+- M_1_0167.JPG
+- M_1_0128.JPG
+- M_1_0124.JPG
+- M_1_0143.JPG
+- M_1_0139.jpg
+- M_1_0146.JPG
+- M_1_0145.jpg
+- M_130003.JPG
+- mapgps.jpg
+- path_1.gif
+layout: stub
+lead: M_1_0167.JPG
+map: 1
+name: BrdaLipanca
+title: Brda near Lipanca
+x: 418
+y: 138
+---
