@@ -2528,7 +2528,10 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 .fancy-figure img {
   max-width: 100%;
   border: 1px solid #372f2d; }
-
+  @media only screen and (min-width: 768px) {
+    .fancy-figure img {
+      max-width: 568px;
+      max-height: 568px; } }
 .fancy-figure figcaption {
   position: absolute;
   bottom: 0;
@@ -2547,6 +2550,17 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 
 .fancy-figure.caption-position-default figure {
   padding-bottom: 0.2em; }
+
+.fancy-figure.caption-position-default figure {
+  padding-bottom: 0.2em; }
+
+.fancy-figure.caption-position-bottom figure {
+  padding-bottom: 3em; }
+
+@media only screen and (min-width: 768px) {
+  .fancy-figure.caption-position-bottom img {
+    max-width: 100%;
+    max-height: auto; } }
 
 .fancy-figure.caption-position-none figcaption {
   display: none; }
