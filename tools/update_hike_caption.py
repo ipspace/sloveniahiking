@@ -1,7 +1,5 @@
+#!/usr/bin/env python3
 #
-#
-import cm.msaccess
-
 from wc.config import config
 import cm.read
 import cm.write
@@ -11,6 +9,7 @@ import argparse
 import os
 import glob
 import re
+import cm.traverse
 
 def parse_cli():
   parser = argparse.ArgumentParser(description='Update flower links')
@@ -31,7 +30,8 @@ def fix_caption(match):
     return match.group(1) + text + ' caption-position="bottom"' + match.group(3)
   return original
 
-def updateFile(hike_file):
+def update_captions(hike_file):
+  print("Hike_File: %s" % hike_file)
   page = cm.read.page(hike_file)
   md = page.get('markdown',None)
 
@@ -40,10 +40,13 @@ def updateFile(hike_file):
 
   md = re.sub('({{<figure)(.*?)(>}})',fix_caption,md)
   if md != page.get('markdown'):
-    print(md)
     page['markdown'] = md
     print("Updating: "+hike_file)
-#    cm.write.create_output_file(page,os.path.dirname(hike_file),os.path.basename(hike_file).replace(".md",""))
+    cm.write.create_output_file(page,os.path.dirname(hike_file),os.path.basename(hike_file).replace(".md",""))
+    args.count = args.count - 1
+    if args.count <= 0:
+      print("Enough, exiting...")
+      sys.exit(0)
     return True
 
   return False
@@ -51,11 +54,5 @@ def updateFile(hike_file):
 args = parse_cli()
 count = args.count
 print("Fixing at most %d files" % count)
-path = config['ExFilePath']
 
-for hike_file in glob.glob(path+'/Kofce/*index*.md'):
-  print("Hike_File: %s" % hike_file)
-  if updateFile(hike_file):
-    count = count - 1
-  if count <= 0:
-    break
+cm.traverse.walk(path=config['ExFilePath'],pattern='_?index\.(en\.)?md',callback=update_captions)
