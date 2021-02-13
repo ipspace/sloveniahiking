@@ -3,7 +3,6 @@ date: '2008-03-16T00:00:00'
 delta: 550
 description: Če vam je vzpon na Kovk s Cola prekratek, se odpravite nanj iz Vipavske
   doline, bolj natančno s ceste Ajdovščina–Col.
-dirty: true
 duration: 3
 height: 961
 lead: M_0_00679.JPG
