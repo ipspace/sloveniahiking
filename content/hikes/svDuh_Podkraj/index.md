@@ -3,9 +3,7 @@ date: 2002-10-06 00:00:00+00:00
 delta: 413
 description: 'Pot v Vipavsko dolino po stari rimski cesti mimo Stare pošte na Hrušici
   lahko združite z izletom na sv. Duh in Križno goro nad le nekaj kilometrov oddaljenim
-  Podkrajem.
-
-  '
+  Podkrajem.'
 duration: 3
 height: 1213
 lead: M_3-3357_IMG.JPG
@@ -14,7 +12,7 @@ title: Sv. Duh in Križna gora nad Podkrajem
 x: 427
 y: 82
 ---
-![](M_3-3357_IMG.JPG)
+{{<figure src="M_3-3357_IMG.JPG">}}
 
 Sv. Duh in Križna gora sta sosednja vrhova v hribovju, ki s severne strani objema dolino Bele, v kateri leži Podkraj, in jo tako ločuje od vrhov idrijskega hribovja (Javornik). Z vrha Križne gore boste imeli čudovit pogled na sosednjo Hrušico, Nanos, Vipavsko dolino, hribovje južno od Vipavske doline, pa tudi na morje, v lepem vremenu vse tja do Benetk.
 
@@ -82,7 +80,7 @@ Pot proti sv. Duhu je idealna za prijeten jesenski izlet -- kratki strmi vzponi,
 
 Enak vzorec se ponavlja tudi ko pot zavije v bukov gozd, v katerem boste lahko opazili lepi luk in lepljivo kaduljo. V tem delu poti so sprehodi skozi gozd kratki, kmalu se spet znajdemo na travnikih, s katerih že vidimo podrobnosti poti proti Križni gori, sv. Duh pa se še skriva v gozdu nad nami.
 
-{{<figure src="Razgled_1.jpg" caption="Pogled na Hrušico in Nanos">}}
+{{<figure src="Razgled_1.jpg" caption="Pogled na Hrušico in Nanos" caption-position="bottom">}}
 
 Ti travniki so kot nalašč za krajši počitek in pogled preko doline Bele proti Hrušici in Nanosu, potem pa nadaljujemo z vzponom do razcepa, kjer se moramo odločiti ali se bomo podali najprej na sv. Duh ali na Križno goro.
 
@@ -134,6 +132,6 @@ Po teh strminah sem se le vračal, saj sem na Križno goro prišel preko sv. Duh
 
 Kakorkoli boste že prišli na Križno goro, na vrhu vas bo čakal čudovit prizor -- pod vami bo kot na dlani ležal Podkraj, razgled pa bo segal od sv. Duha in Srednje gore na skrajni levi strani, Hrušice, Nanosa in oddaljenih hribov za njima do Vipavske doline na skrajni desni strani. Za Vipavsko dolino boste, tako kot s sv. Duha, ob lepem vremenu videli vse do Jadranskega morja.
 
-{{<figure src="Razgled_3.jpg" caption="Razgled s Križne gore">}}
+{{<figure src="Razgled_3.jpg" caption="Razgled s Križne gore" caption-position="bottom">}}
 
 S Križne gore se lahko vrnete v Podkraj, lahko pa seveda nadaljujete pot (ali povratek) proti sv. Duhu.
