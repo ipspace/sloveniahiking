@@ -102,7 +102,7 @@ def cleanup_shortcode(md):
 
 def html_to_markdown(html):
   result = subprocess.run( \
-    "pandoc --from=html --to=markdown+definition_lists --column=9999 --wrap=none", \
+    "pandoc --from=html-native_divs-native_spans --to=markdown+definition_lists --column=9999 --wrap=none", \
     shell=True, check=True, \
     capture_output=True, \
     input=html,text=True)
@@ -111,7 +111,7 @@ def html_to_markdown(html):
   return cleanup_shortcode(md)
 
 def remove_style(html):
-  for attr in ('lang','style'):
+  for attr in ('lang','style','name'):
     for tag in html.findAll(lambda tag: tag.get(attr,None)):
       del(tag[attr])
 
