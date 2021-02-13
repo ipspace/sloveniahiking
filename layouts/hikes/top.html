@@ -1,9 +1,10 @@
 {{ partial "header.html" . }}
 {{ $title := dict "title" .Title "page" . }}
 {{ partial "multi-title.html" $title }}
+{{ $pages := where (where .Site.Pages "Section" .Type) "Kind" "page" }}
 <article id="left-column">
 {{ .Content }}
-{{ range (first 20 (where .Pages "Params.description" "!=" nil)).ByLastmod.Reverse }}
+{{ range (first 10 (where $pages "Params.description" "!=" nil)).ByDate.Reverse }}
   {{ partial "post-blurb.html" . }}
 {{ end }}
 </article>
