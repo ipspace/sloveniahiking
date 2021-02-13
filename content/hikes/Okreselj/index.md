@@ -4,7 +4,6 @@ lastmod: 2021-02-13 17:10:00
 delta: 400
 description: Izlet iz Logarske doline na Okrešelj je idealen za vse, ki bi radi brez
   prevelikih naporov okusili lepote slovenskih alp.
-dirty: true
 duration: 2
 height: 1395
 image:
