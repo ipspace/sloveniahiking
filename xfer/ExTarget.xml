@@ -70,6 +70,7 @@
 <ExTarget>
 <ExID>-1879629161</ExID>
 <ExDirectory>VelikaPlanina/?pfx=SP</ExDirectory>
+<ExSubdirectory>Sprehod</ExSubdirectory>
 <ExChangeDate>2004-08-22T00:00:00</ExChangeDate>
 <ExName>Potepanje po Veliki planini</ExName>
 <ExShortName>Velika planina</ExShortName>
@@ -471,7 +472,7 @@
 <ExChangeDate>2002-10-27T00:00:00</ExChangeDate>
 <ExName>Slavnik in Grmada iz Podgorja</ExName>
 <ExShortName>Slavnik iz Podgorja</ExShortName>
-<ExEnglishName>Slavnik from Podgorje</ExEnglishName>
+<ExEnglishName>Slavnik and Grmada from Podgorje (easy path)</ExEnglishName>
 <ExDescription>Ko bo burja spet razpihala oblake, se odpravite na Slavnik - po vzponu po prijetni, položni poti vas čaka čudovit razgled na Jadransko morje.</ExDescription>
 <ExAbsHeight>1028</ExAbsHeight>
 <ExRelHeight>510</ExRelHeight>
@@ -1561,7 +1562,7 @@
 <ExID>1075022153</ExID>
 <ExDirectory>Slavnik</ExDirectory>
 <ExChangeDate>1900-01-01T00:00:00</ExChangeDate>
-<ExName>Slavnik in Grmada</ExName>
+<ExName>Slavnik</ExName>
 <ExShortName>Slavnik</ExShortName>
 <ExEnglishName>Slavnik</ExEnglishName>
 <ExDescription>Slavnik je najbolj obiskan vrh Slavniškega pogorja in eden zadnjih tisočakov pred slovenskim morjem s čudovitim razgledom na Piranski in Tržaški zaliv, Istro ter na okoliške vrhove.</ExDescription>
@@ -1880,6 +1881,7 @@
 <ExTarget>
 <ExID>1089534021</ExID>
 <ExDirectory>VelikaPlanina/?pfx=VL</ExDirectory>
+<ExSubdirectory>Volovjek</ExSubdirectory>
 <ExChangeDate>2004-07-11T00:00:00</ExChangeDate>
 <ExName>Velika planina z Volovljeka</ExName>
 <ExShortName>Velika planina</ExShortName>
@@ -2622,7 +2624,7 @@
 <ExChangeDate>2006-03-19T00:00:00</ExChangeDate>
 <ExName>Strma pot na Slavnik iz Podgorja</ExName>
 <ExShortName>Slavnik iz Podgorja</ExShortName>
-<ExEnglishName>Slavnik from Podgorje</ExEnglishName>
+<ExEnglishName>Slavnik from Podgorje (steep path)</ExEnglishName>
 <ExDescription>Strma pot na Slavnik iz Podgorja je verjetno najbolj zanimiva za tiste, ki bi si radi s strmimi vzponi nabirali kondicijo.</ExDescription>
 <ExAbsHeight>1028</ExAbsHeight>
 <ExRelHeight>510</ExRelHeight>
