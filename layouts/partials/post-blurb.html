@@ -1,7 +1,9 @@
 <section class='post__blurb'>
   {{ if .Params.lead }}
     <div class='blurb__thumb'>
-      {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}" alt="{{ .Title }}">{{ end }}
+      <a href="{{ .Permalink }}">
+        {{ with .Resources.GetMatch .Params.lead }}<img src="{{ .Permalink }}" alt="{{ .Title }}">{{ end }}
+      </a>
     </div>
   {{ end }}
   <article class='post__content'>
