@@ -25,7 +25,11 @@ Viševnik je eden od najvišjih vrhov v grebenu, ki ločuje Pokljuško planoto o
 :   Na Viševnik se bomo povzpeli z Rudnega polja na Pokljuki.
 
 **Dolžina**
-:   **Posamezni odseki:**
+:   **Posamezni odseki:**\
+Rudno polje – Viševnik: 2 uri\
+Vrnitev na Rudno polje: 1 ura 30 minut\
+Viševnik – Blejska koča na Lipanci: 2 uri\
+Lipanca – Rudno polje: 1 ura 15 minut
 
 **Višina**
 :   2050 m
