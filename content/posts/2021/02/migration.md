@@ -1,18 +1,20 @@
 ---
-title: Zaplana.net se seli na novo lokacijo
+title: Zaplana.net se je preselila
 date: 2021-02-14 15:10:00
 ---
 Po skoraj dvajsetih letih obstoja in vsaj desetih letih počitka se Zaplana.net seli na novo lokacijo -- večino vsebine boste našli na *[Pohajkovanjih po Sloveniji](https://sloveniahiking.rocks/start.si.html)*.
 <!--more-->
 ### Zakaj ste se preselili?
 
-Staro spletišče je bilo narejeno s tehnologijo ki se je uporabljala pred dvajsetimi leti. Posodabljanje te tehnologije ni imelo smisla; dosti enostavneje je bilo pobrati vsebino, jo prenesti v novo obliko, in objaviti na novi platformi.
+Ste kdaj poskusili uporabiti zaplana.net ko ste med izletom naleteli na zanimivo rožo? Vsebina je bila na majhnem zaslonu pametnega telefona praktično neuporabna -- čas je bil za temeljito prenovo.
+
+Staro spletišče je bilo narejeno s tehnologijo in oblikovalskimi pristopi ki so se uporabljali pred dvajsetimi leti. Posodabljanje te tehnologije ni imelo smisla; dosti enostavneje je bilo pobrati vsebino, jo prenesti v novo obliko, in objaviti na novi platformi.
 
 ### Zakaj je prva stran v angleščini?
 
 Zaplana.net je bila prva spletna stran v Sloveniji ki je objavljala opise izletov po Sloveniji in fotografije slovenskih divjih rož. V dveh desetletjih od njenega nastanka se je pojavila kopica strani ki opravljajo isto funkcijo, marsikdaj precej bolje ali bolj obširno (primer: [hribi.net](http://www.hribi.net/) in [članki Mojce Luštrek](http://pohribih.blogspot.com/)). 
 
-Po drugi strani se večina strani, ki opisujejo izlete po Sloveniji v angleščini, osredotoča na vsebine ki so zanimive za masovni turizem... morda pa bo tistih nekaj tujcev ki v Sloveniji iščejo več kot kremne rezine s pogledom na Blejski grad našlo kaj zase ;)
+Po drugi strani se večina strani, ki opisujejo izlete po Sloveniji v angleščini, osredotoča na vsebine ki so zanimive za masovni turizem. Morda bo tistih nekaj tujcev ki v Sloveniji iščejo več kot kremne rezine s pogledom na Blejski grad našlo na teh straneh kaj zase ;)
 
 Sicer pa: vse kar morate storiti da vas to dejstvo ne moti (več) je klik na slovensko zastavo.
 
