@@ -1,5 +1,5 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 delta: 50
 description: Samotorica in Korena sta zaselka tik pod grebenom hribovja med Horjulom
   in Polhovim gradcem. Ob grebenu teče markirana razgledna pot, kot nalašč za prijeten
@@ -87,7 +87,7 @@ Pot proti vrhu lahko nadaljujete po asfaltu (kot kažejo markacije), lahko pa se
 
 Moram priznati, da ne razumem, zakaj je markirana pot speljana po asfaltu, če obstaja do vrha alternativna pot, ki se asfaltu v celoti izogne -- še več, celo na zemljevidu je markirana pot zarisana po makadamski cesti. Morda so spet v igri kakšne lokalne zamere -- kakorkoli že, med hojo po makadamu in kasneje kolovozu proti vrhu nas ni nihče grdo pogledal. Alternativni poti pa se vsekakor izogibajte pred in med košnjo, saj na vrhu pelje preko travnikov.
 
-{{<figure src="Razgled_Korena.jpg" caption="Polhograjsko hribovje z vrha Korene">}}
+{{<figure src="Razgled_Korena.jpg" caption="Polhograjsko hribovje z vrha Korene" caption-position="bottom">}}
 
 Vrnitev
 -------

@@ -1,5 +1,5 @@
 ---
-date: '2003-03-02T00:00:00'
+date: 2003-03-02 00:00:00+00:00
 delta: 540
 description: Trstelj je najvišji, razgleden vrh v grebenu Črnih hribov, ki ločuje
   Vipavsko dolino od Kraške planote.
@@ -88,4 +88,4 @@ Po počitku pri koči se morate povzpeti na vrh Trstelja, kjer boste uživali v 
 
 V Dornberk se vrnete po poti, po kateri ste se vzpeli, tisti, ki imate več smisla za orientacijo, pa se lahko poskusite spustiti v Oševljek (pot se odcepi od asfaltne ceste pri Železnih vratih) in nato po cesti skozi Gradišče nazaj v Dornberk.
 
-{{<figure src="pogled_vrh_3.jpg" caption="Pogled proti vzhodu greben Črnih hribov, v ozadju Nanos, pokrit z oblaki">}} {{<figure src="pogled_vrh_2.jpg" caption="Pogled proti severu Vipavska dolina, Čaven, levo Nova Gorica, v ozadju Sveta gora in Julijske Alpe">}} {{<figure src="Pogled_vrh_1.jpg" caption="Pogled proti jugu -- v ospredju kraška planota, v ozadju Tržaški zaliv in Jadransko morje">}}
+{{<figure src="pogled_vrh_3.jpg" caption="Pogled proti vzhodu greben Črnih hribov, v ozadju Nanos, pokrit z oblaki" caption-position="bottom">}} {{<figure src="pogled_vrh_2.jpg" caption="Pogled proti severu Vipavska dolina, Čaven, levo Nova Gorica, v ozadju Sveta gora in Julijske Alpe" caption-position="bottom">}} {{<figure src="Pogled_vrh_1.jpg" caption="Pogled proti jugu -- v ospredju kraška planota, v ozadju Tržaški zaliv in Jadransko morje" caption-position="bottom">}}

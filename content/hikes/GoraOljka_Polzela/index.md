@@ -1,5 +1,5 @@
 ---
-date: '2003-03-23T00:00:00'
+date: 2003-03-23 00:00:00+00:00
 delta: 440
 description: Gora Oljka je kraški osamelec nad severo-vzhodnim robom Savinjske doline.
   Na njej so 18. stoletju postavili veličastno romarsko cerkev sv. Križa, ki z značilnim
@@ -29,7 +29,7 @@ title: Gora Oljka iz Polzele
 x: 505
 y: 131
 ---
-{{<figure src="intro.jpg" caption="Vimperk (levo) in Gora Oljka (desno) - pogled iz Savinjske doline">}} Gora Oljka je kraški osamelec, ki se dviga nad vzhodnim robom Savinjske doline. V 18. stoletju so na vrhu postavili veličastno romarsko cerkev sv. Križa, ki z značilnim profilom dveh zvonikov pritegne pogled popotnika po celotni Savinjski dolini. Vrh sam je precej zaraščen, kar nekoliko ovira razgled, a že med vzponom se nam ob lepem vremenu odpirajo razgledi na vse strani -- od Kamniško-Savinjskih Alp do Posavskega hribovja, Velenjskega hribovja in Pohorja.
+{{<figure src="intro.jpg" caption="Vimperk (levo) in Gora Oljka (desno) - pogled iz Savinjske doline" caption-position="bottom">}} Gora Oljka je kraški osamelec, ki se dviga nad vzhodnim robom Savinjske doline. V 18. stoletju so na vrhu postavili veličastno romarsko cerkev sv. Križa, ki z značilnim profilom dveh zvonikov pritegne pogled popotnika po celotni Savinjski dolini. Vrh sam je precej zaraščen, kar nekoliko ovira razgled, a že med vzponom se nam ob lepem vremenu odpirajo razgledi na vse strani -- od Kamniško-Savinjskih Alp do Posavskega hribovja, Velenjskega hribovja in Pohorja.
 
 Na Goro Oljko se lahko povzpnemo po najkrajši poti iz Šmartnega ob Paki, lahko pa izberemo eno od daljših poti, ki nas vodijo po prijetnih poteh in kolovozih gričevja ob Savinjski dolini. Te poti vodijo na Goro Oljko s Polzele, Andraža nad Polzelo in Šoštanja.
 
@@ -95,7 +95,7 @@ Po dobrih 15 minutah zmerne hoje se začne pot ponovno spuščati, se priključi
 
 Za zadnjimi hišami (tudi tukaj boste markacijo verjetno iskali) se pot nadaljuje skozi gozd. Z desne se ji priključi Andraška pot, že kmalu pa pridemo do naslednjega travnika, kjer se kolovoz, ki vodi nad vinogradi, spet spremeni v makadamsko cesto, le-ta pa že po 400 metrih rahlega spusta privede do asfalta, ki mu zdaj res ne morete več pobegniti -- pred vami je dober kilometer hoje po asfaltu, najprej skozi mešan gozd, nato med strmimi travniki, ki se spuščajo proti dolini Hotunjščice.
 
-{{<figure src="razgled_NE.jpg" caption="Pogled preko travnikov na Velenjsko hribovje in Pohorje v ozadju">}} {{<figure src="M_7-4778_IMG.JPG" caption="Po asfaltu proti Zabukovniku">}} {{<figure src="M_7-4769_IMG.JPG" caption="Prvi pogled na Goro Oljko">}}
+{{<figure src="razgled_NE.jpg" caption="Pogled preko travnikov na Velenjsko hribovje in Pohorje v ozadju" caption-position="bottom">}} {{<figure src="M_7-4778_IMG.JPG" caption="Po asfaltu proti Zabukovniku">}} {{<figure src="M_7-4769_IMG.JPG" caption="Prvi pogled na Goro Oljko">}}
 
 Bolečine v nogah bodo vsaj malce omilili razgledi, ki se odpirajo na teh travnikih -- naravnost pred vami je cerkev sv. Andreja v Andražu, za njo se dviguje Velenjsko hribovje in Pohorje. Nekoliko višje se odpre še pogled proti jugu, na Savinjsko dolino ter Posavsko hribovje za njo. Po približno 20 minutah uničevanja nog po asfaltu boste prišli do gostilne Zabukovnik, kjer se lahko pred zadnjim vzponom okrepčate.
 
@@ -110,7 +110,7 @@ Planinska pot vas vodi skozi gozd, nekajkrat prečka kolovoze ali pa se jim za n
 
 Ob koncu tedna se lahko na Gori Oljki okrepčate v planinskem domu tik pod cerkvijo, na vsak način pa se morate povzpeti do cerkve in se prepustiti razgledom, ki se vam ponujajo - preko drevesnih vrhov boste videli na vse štiri strani - od Kamniško-Savinjskih Alp na zahodu, Pohorja na severovzhodu do Posavskega hribovja na jugu.
 
-{{<figure src="razgled_vrh.jpg" caption="Pogled izpred cerkve proti jugozahodu">}}
+{{<figure src="razgled_vrh.jpg" caption="Pogled izpred cerkve proti jugozahodu" caption-position="bottom">}}
 
 Vrnitev v Polzelo
 -----------------

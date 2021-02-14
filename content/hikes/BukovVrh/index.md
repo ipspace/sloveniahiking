@@ -1,5 +1,5 @@
 ---
-date: '2003-03-16T00:00:00'
+date: 2003-03-16 00:00:00+00:00
 delta: 440
 description: Bukov vrh je razgleden vrh nad Poljanami v Poljanski dolini s čudovitim
   razgledom na Škofjeloško hribovje in slovenske Alpe ter lepo cerkvico sv. Sobote
@@ -70,7 +70,7 @@ Začetek poti
 
 Po približno pol ure vzpona boste iz gozda prišli na prvi travnik, kjer se že odpre lep razgled na Blegoš in Cerkljansko hribovje za njim. Tu markacije popolnoma izginejo -- sledite poti, ki teče levo navzgor čez travnik proti kmetiji Ahternik, ki jo že vidite za prvim slemenom na levi.
 
-{{<figure src="prvi_razgledi.jpg" caption="Prvi razgledi s travnikov pred Ahternikom">}}
+{{<figure src="prvi_razgledi.jpg" caption="Prvi razgledi s travnikov pred Ahternikom" caption-position="bottom">}}
 
 Bukov vrh
 ---------
@@ -79,7 +79,7 @@ Bukov vrh
 
 Kolovoz vas vodi nad kmetijo do gozdne ceste, ki se po slemenu nad travniki vzpenja proti gozdu. Po nekajminutni hoji skozi gozd se znajdete pred naslednjo kmetijo (Kamenšek). Od Hotovlje ste nabrali že toliko višinske razlike, da boste onkraj sedla med Blegošem in Koprivnikom zagledali vrh Triglava, od prvega cilja pa vas loči le še krajši vzpon -- na hribu pred vami že vidite cerkev sv. Sobote.
 
-{{<figure src="razgled_bukov_vrh_360.jpg" caption="360-stopinjska panorama z Bukovega vrha">}} {{<figure src="M_5-4568_IMG.JPG" caption="Sv. Sobota">}}
+{{<figure src="razgled_bukov_vrh_360.jpg" caption="360-stopinjska panorama z Bukovega vrha" caption-position="bottom">}} {{<figure src="M_5-4568_IMG.JPG" caption="Sv. Sobota">}}
 
 Razgled izpred cerkve je naravnost fantastičen -- pogled na jug sicer zastira Pasja ravan, od jugozahoda (Žirovski vrh) do vzhoda (Škofja Loka) pa se vam odpira pogled na Cerkljansko hribovje, Škofjeloško hribovje, v ozadju se vidijo Porezen in Bohinjske gore, bolj proti vzhodu Stari vrh in Lubnik, za njima pa Karavanke in Kamniške Alpe. Lepo se vidita tudi cerkvici sv. Volbenka nad Logom in sv. Filipa in Jakoba na sosednjem, nekoliko nižjem hribu.
 

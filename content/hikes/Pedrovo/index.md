@@ -1,5 +1,5 @@
 ---
-date: '2003-03-30T00:00:00'
+date: 2003-03-30 00:00:00+00:00
 delta: 300
 description: Pedrovo je kraška vasica, stisnjena v pobočje Črnih hribov visoko nad
   Branikom, z razgledom na Vipavsko dolino, Trnovski gozd in Nanos.
@@ -98,7 +98,7 @@ Iz Branika na Pedrovo
 
 Kolovoz, po katerem hodite, se najprej vzpenja, nato pa se začne počasi spuščati. Položen spust se konča pri potočku, kjer se planinska pot odcepi od kolovoza, prečka potok in se začne v ključih strmo vzpenjati proti Pedrovemu. Dobrih sto metrov vzpona vas pripelje do prvih hiš v Pedrovem. Že pri prvih hišah se vam bo odprl pogled na zahoden del Vipavske doline, če boste v vasi zavili levo proti cerkvici sv. Duha, pa boste uživali še v razgledih na Nanos ter na grad Rihemberg nad Branikom.
 
-{{<figure src="Pedrovo_NW_2.jpg" caption="Pogled na Vipavsko dolino in Trnovski gozd">}} {{<figure src="Pedrovo_NE.jpg" caption="Pogled izpred cerkvice sv. Duha proti severo-vzhodu">}} {{<figure src="M_5-4524_IMG.JPG" caption="Vrnitev ob sončnih pobočjih Čuka">}} {{<figure src="M_5-4525_IMG.JPG" caption="Pogled na Rihemberk">}} {{<figure src="M_5-4526_IMG.JPG" caption="Viadukt v Braniku">}}
+{{<figure src="Pedrovo_NW_2.jpg" caption="Pogled na Vipavsko dolino in Trnovski gozd" caption-position="bottom">}} {{<figure src="Pedrovo_NE.jpg" caption="Pogled izpred cerkvice sv. Duha proti severo-vzhodu" caption-position="bottom">}} {{<figure src="M_5-4524_IMG.JPG" caption="Vrnitev ob sončnih pobočjih Čuka">}} {{<figure src="M_5-4525_IMG.JPG" caption="Pogled na Rihemberk">}} {{<figure src="M_5-4526_IMG.JPG" caption="Viadukt v Braniku">}}
 
 S Pedrovega se lahko vrnete v Branik, lahko pa nadaljujete pot proti Železnim vratom in Trstelju. Vrnitev v Branik lahko popestrite s krožno potjo (skoraj osmico) -- odpravite se do konca Pedrovega (kot da bi hoteli nadaljevati pot proti Železnim vratom), nato pa zavijete na desni kolovoz, ki se spušča proti dolini. Če se boste na vseh razcepih držali desnega kolovoza, boste kmalu prišli do potoka, ob katerem ste kolovoz zapustili (glej tudi zemljevid). Po kolovozu se nato spuščate proti Braniku, na mestu, kjer se planinska pot odcepi levo navzdol pa nadaljujete pot po kolovozu. Le-ta vas bo po južnih, sončnih pobočjih Čuka, s katerih boste imeli odličen pogled na grad Rihemberk, pripeljal pod drugih železniškim mostom nazaj v Branik (v bližino železniške postaje). Od tod vas čaka še kilometer hoje do parkirišča, kjer ste pustili avto.
 

@@ -1,5 +1,5 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 delta: 430
 description: Samotorica je majhna vasica med razglednimi travniki, tik pod Kožljekom,
   najvišjim vrhom v grebenu, ki ločuje povirje Gradaščice od doline Horjulščice.
@@ -103,7 +103,7 @@ Krajši vzpon med smrekami vas pripelje na strm travnik, preko katerega se povzp
 
 Po krajšem počitku na klopci, ki je postavljena na vrhu Kožljeka, bo čas za vrnitev. V Vrzdenec se lahko vrnete po poti, po kateri ste se povzpeli, lahko pa izberete eno od daljših poti -- s Kožljeka se lahko odpravite v smeri Šentjošta, ter pri Hlipč zavijete na pot proti Vrzdencu, lahko pa se s Samotorice odpravite proti Koreni ter se s Korene vrnete v Vrzdenec.
 
-{{<figure src="Razgled_Kozljek.jpg" caption="Razgled z vrha Kožljeka na Polhograjsko hribovje">}}
+{{<figure src="Razgled_Kozljek.jpg" caption="Razgled z vrha Kožljeka na Polhograjsko hribovje" caption-position="bottom">}}
 
 Če se boste odločili za vrnitev preko Samotorice, si lahko pot do vasi popestrite s krajšo vajo iz orientacije -- malo za kapelico se od makadamske ceste v desno odcepi kolovoz. Če boste pozorno pogledali, boste verjetno opazili markacijo na enem od dreves ob kolovozu. Opravite se za temi markacijami, po precej zaraščeni poti vas bodo pripeljale do ene od hiš v bližini cerkve.
 
