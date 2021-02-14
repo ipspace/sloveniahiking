@@ -35,6 +35,14 @@ def watermark(p,author=get_default_author):
   print("Watermarked %s" % p)
 
 def replace_image(p,lookup={},do_watermark=True,author=get_default_author):
+  try:
+    img = Image.open(p)
+    (w,h) = img.size
+    if (w >= 1024) or (h >= 1024):
+      print("Image %s already updated, skipping..." % p)
+      return
+  except:
+    pass
   original = lookup.get(os.path.basename(p),None)
   if original:
     if len(original) > 1:
