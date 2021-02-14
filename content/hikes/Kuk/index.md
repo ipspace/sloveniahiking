@@ -1,5 +1,5 @@
 ---
-date: '2020-11-17T00:00:00'
+date: 2020-11-17 00:00:00+00:00
 delta: 320
 description: Naslednjič, ko bo Slovenija spet ovita v oblake in meglo, na Primorskem
   pa bo sijalo sonce, se povzpnite na Kuk, razgleden hrib nad Hrastovljami, od koder
@@ -22,9 +22,9 @@ image:
 - M_8-3860_IMG.JPG
 - M_8-3865_IMG.JPG
 - M_8-3867_IMG.JPG
+lead: M_8-3867_IMG.JPG
 name: Kuk
 title: Kuk nad Hrastovljami
-lead: M_8-3867_IMG.JPG
 x: 415
 y: 38
 ---
@@ -94,7 +94,7 @@ Makadamska cesta najprej prečka železnico, nato pa se položno vzpenja ob kra�
 
 Kljub temu, da je pot na zemljevidih označena kot markirana pot, ne boste v prvi polovici poti opazili niti ene markacije, zgubili pa se tudi ne boste, dokler boste hodili po najširši poti, ki vodi zložno navkreber.
 
-Ko boste počasi »nabirali višino«, se bodo za vami odpirali prvi razgledi -- na Kraški rob, dolino Rižane, oddaljeni Tinjan in bližnjo [Lačno](../Lacna/), po približno 40 minutah hoje pa boste prišli na križišče, kjer se naši poti priključi pot s [Slavnika](../Slavnik/) -- od tega mesta naprej so tudi markacije zelo pogoste. Še zadnji vzpon po makadamski poti vas pripelje do začetka travnikov tik pod vrhom Gradeža.
+Ko boste počasi »nabirali višino«, se bodo za vami odpirali prvi razgledi -- na Kraški rob, dolino Rižane, oddaljeni Tinjan in bližnjo [Lačno](../lacna/), po približno 40 minutah hoje pa boste prišli na križišče, kjer se naši poti priključi pot s [Slavnika](../slavnik/) -- od tega mesta naprej so tudi markacije zelo pogoste. Še zadnji vzpon po makadamski poti vas pripelje do začetka travnikov tik pod vrhom Gradeža.
 
 {{<gallery>}}
 {{<figure src="M_8-3845_IMG.JPG" caption="Vedno po najširši poti navzgor">}}

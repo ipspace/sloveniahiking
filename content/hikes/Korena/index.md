@@ -38,7 +38,7 @@ y: 99
 ---
 {{<figure src="M_2-2216_IMG.JPG" caption="Pogled na Koreno s Špice, v ozadju Tošč in Grmada">}}
 
-Korena (tudi Karena -- tako domačini) ali Koreno (tako uradni zemljevidi) je razgleden vrh v hribovju, ki ločuje dolino Horjulščice od doline Gradaščice (v kateri leži Polhov Gradec). Z vrha, blizu katerega stoji cerkev sv. Mohorja in Fortunata, boste imeli odličen razgled na Ljubljansko kotlino, Krim, Zaplano in [Planino](../Spica) ter na Škoflejoško hribovje in Polhograjske dolomite (glej tudi zemljevid).
+Korena (tudi Karena -- tako domačini) ali Koreno (tako uradni zemljevidi) je razgleden vrh v hribovju, ki ločuje dolino Horjulščice od doline Gradaščice (v kateri leži Polhov Gradec). Z vrha, blizu katerega stoji cerkev sv. Mohorja in Fortunata, boste imeli odličen razgled na Ljubljansko kotlino, Krim, Zaplano in [Planino](../spica) ter na Škoflejoško hribovje in Polhograjske dolomite (glej tudi zemljevid).
 
 Na Koreno vodi množica poti, opisan je dostop z južne in vzhodne smeri: iz Zaklanca, Podolnice in od prevala na cesti Zaklanec -- Dvor Dolenja vas pri Polhovem Gradcu.
 

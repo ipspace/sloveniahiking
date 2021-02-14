@@ -10,7 +10,7 @@ title: Slavnik
 x: 420
 y: 43
 ---
-![](M_5-3555_IMG.JPG)
+{{<figure src="M_5-3555_IMG.JPG">}}
 
 Slavnik is the highest peak of the Slavnik range, the last mountain range before the gentle slopes of Slovenian Istra. It\'s also the last peak above 1000 meters visited by the Slovenian mountaneering path (a circuitous path that winds its way around across major Slovenian peaks). From its top, you'll have a magnificent view of Adriatic sea, surrounding hills (including Vremščica and Nanos) as well as the high peaks of the Julian Alps in the distance.
 

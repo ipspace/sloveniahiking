@@ -12,7 +12,7 @@ title: Krvavec in Zvoh
 x: 464
 y: 129
 ---
-![](M_8_1858.JPG)
+{{<figure src="M_8_1858.JPG">}}
 
 Od glavne osi Kamniških Alp se južno od Kokrskega sedla odcepi stranski greben, v katerem se med dolinama Kokre in Kamniške Bistrice dviga nekaj dvatisočakov (Kalška gora in Kalški greben), nato pa se greben zlagoma spušča do Krvavca, katerega visokogorske travnike so izkoristili za eno najbolj znanih slovenskih smučišč.
 

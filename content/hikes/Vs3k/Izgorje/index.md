@@ -1,5 +1,5 @@
 ---
-date: '2003-04-06T00:00:00'
+date: 2003-04-06 00:00:00+00:00
 delta: 280
 description: Na razgleden travnat Vrh svetih treh kraljev se bomo povzpeli po skritih
   poteh in stezah iz Izgorij, vasice nad dolino Sovre.
@@ -73,7 +73,7 @@ Traktorska pot v začetku sledi potoku, nato pa se od njega odcepi v levo in po 
 
 {{<figure src="M_8-4877_IMG.JPG" caption="Ob potoku navzgor">}} 
 
-Po krajšem vzponu se splača ustaviti in se razgledati po travnikih okoli Hleviš, ki ležijo pod vami, kakor tudi na sosednja hribovja -- lepo se vidijo [Vrsnik](../../Vrsnik_Ziri) in [Mrzli vrh](../../MrzliVrh_Ziri) ter Ravne na sosednjem grebenu.
+Po krajšem vzponu se splača ustaviti in se razgledati po travnikih okoli Hleviš, ki ležijo pod vami, kakor tudi na sosednja hribovja -- lepo se vidijo [Vrsnik](../../vrsnik_ziri) in [Mrzli vrh](../../mrzlivrh_ziri) ter Ravne na sosednjem grebenu.
 
 Kolovoz vas kmalu pripelje do naslednje kmetije, kjer izgine. Brez skrbi -- odpravite se kar naravnost, levo mimo hiše, in na robu gozda boste opazili ozko gozdno pot, ki vodi naravnost v želeno smer. Že nekaj korakov po tej poti vas bo pripeljalo v popolnoma drug svet -- po sončnih travnikih ste prišli v gost, a dobro prehoden gozd. Tukaj je zaradi senčne lege tako mrzlo, da boste še v začetku aprila našli ostanke snega.
 

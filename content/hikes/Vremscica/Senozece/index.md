@@ -1,5 +1,5 @@
 ---
-date: '2002-09-08T00:00:00'
+date: 2002-09-08 00:00:00+00:00
 delta: 470
 description: Ena najdaljših, pa tudi najbolj položnih poti na vrh Vremščice vodi iz
   Senožeč.
@@ -90,7 +90,7 @@ Približno 100 metrov pod vrhom Vremščice se gozd neha, spet se znajdete na kr
 
 Tudi ti travniki so vredni ogleda -- poleg rož, ki ste jih opazili že okoli Slatne, boste tu našli še divji klinček (še ena posebnost), navadni klinček, šentjanževko in pritlikavo šesterokotno homuljico.
 
-Vrh Vremščice je eden tistih, ki ga ljubijo samotni pohodniki. Na njem razen miru, samote in lepega razgleda na okoliške primorske hribe, [Nanos](../../Nanos) in [Slavnik](../../Slavnik) ne boste našli prav dosti, razen če boste imeli srečo in doživeli invazijo pikapolonic.
+Vrh Vremščice je eden tistih, ki ga ljubijo samotni pohodniki. Na njem razen miru, samote in lepega razgleda na okoliške primorske hribe, [Nanos](../../nanos) in [Slavnik](../../slavnik) ne boste našli prav dosti, razen če boste imeli srečo in doživeli invazijo pikapolonic.
 
 {{<gallery>}}
 {{<figure src="M_3-2342_IMG.JPG" caption="Pod vrhom Vremščice">}} {{<figure src="M_3-2309_IMG.JPG" caption="Pikapolonice na vrhu">}}

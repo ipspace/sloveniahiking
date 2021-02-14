@@ -12,7 +12,7 @@ title: Sv. Ivan in Šebreljska planota
 x: 416
 y: 107
 ---
-![](M_8_1840.JPG)
+{{<figure src="M_8_1840.JPG">}}
 
 Ko ste se vozili med Idrijo ali Cerknim in Tolminom, ste morda že opazili cerkev sv. Ivana, ki se blešči vrh visokih strmih sten nad dolino Idrijce. Ob pogledu nanjo in na strma pobočja in grape, ki jo obdajajo z vseh strani, si lahko le redkokdo predstavlja, da se za njo začenja skorajda neznan sončen gričevnat svet Šebreljske planote. Do sv. Ivana se lahko povzpnete po markirani poti iz Reke, do njega vodi tudi pot mimo Divjih bab (jam, v katerih so že v pradavnini igrali na koščene piščalke), od tam pa se lahko po krajšem počitku odpravite na lagoden sprehod po s soncem obsijanem gričevnatem svetu.
 

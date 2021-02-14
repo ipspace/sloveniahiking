@@ -1,13 +1,13 @@
 ---
-date: '2003-06-22T00:00:00'
+date: 2003-06-22 00:00:00+00:00
 delta: 310
 description: Pot z Rudnega polja vas bo popeljala po senčnih smrekovih gozdovih in
   sončnih travnikih nad Pokljuko do Blejske koče na Lipanci.
 duration: 3
 height: 1630
 lead: M_9-5930_IMG.JPG
-multilead: M_9-5930_IMG.JPG
 map: 1
+multilead: M_9-5930_IMG.JPG
 multipath: true
 name: Lipanca/RudnoPolje
 title: Lipanca z Rudnega polja
@@ -74,7 +74,7 @@ S čedalje redkejšim gozdom postaja pot zlagoma bolj strma -- čaka nas še zad
 {{<figure src="M_9-5930_IMG.JPG">}}
 {{</gallery>}}
 
-Na Rudno polje se je najbolje vrniti po poti, po kateri ste se povzpeli, lahko pa se odločite za dodatno popestritev izleta -- z Lipance lahko nadaljujete pot na vrhove v grebenu nad njo. Najkrajši, a precej strm, bo vzpon na [Lipanski vrh](../LipanskiVrh), nekoliko daljši in bolj položen na [Debelo peč](../DebelaPec), najbolj zahtevni pa se lahko vrnete na Rudno polje čez [Viševnik](../Visevnik). 
+Na Rudno polje se je najbolje vrniti po poti, po kateri ste se povzpeli, lahko pa se odločite za dodatno popestritev izleta -- z Lipance lahko nadaljujete pot na vrhove v grebenu nad njo. Najkrajši, a precej strm, bo vzpon na [Lipanski vrh](../lipanskivrh), nekoliko daljši in bolj položen na [Debelo peč](../debelapec), najbolj zahtevni pa se lahko vrnete na Rudno polje čez [Viševnik](../visevnik). 
 
 {{<figure src="Lipanca.jpg" caption="Lipanca, levo v ozadju Lipanski vrh">}}
 

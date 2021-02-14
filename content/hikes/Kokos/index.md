@@ -108,4 +108,5 @@ Tudi na tem delu poti si oglejte bogastvo rož na sosednjih travnikih (najlepši
 
 Makadamska pot se izteče na koncu Lokve, pri pokopališču, od koder je do parkirišča, kjer ste pustili avto, le dobrih pet minut hoda. Lakoto, ki se je porodila med hojo, lahko uspešno zatrete v gostišču Ražem (preizkušeno, imajo odlične ribje jedi), če imate več časa, si lahko ogledate vojaški muzej, v nedeljo pa se lahko odpravite tudi v Divaško jamo ali Vilenico. Tisti, ki ste med potjo nabirali rože, pa le pohitite domov -- z jesenskim bogastvom Krasa lahko naredite čudovite ikebane.
 
-![](M_4-3420_IMG.JPG)
+{{<figure src="M_4-3420_IMG.JPG">}}
+

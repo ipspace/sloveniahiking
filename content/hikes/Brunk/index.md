@@ -1,5 +1,5 @@
 ---
-date: '2003-04-13T00:00:00'
+date: 2003-04-13 00:00:00+00:00
 delta: 350
 description: Brunk je zaselek na razglednem vrhu južno od Radeč s cerkvico sv. Treh
   kraljev. Izpred cerkve boste v lepem vremenu videli večino Posavskega hribovja,
@@ -90,75 +90,3 @@ Razgledna makadamska cesta vas med travniki vodi ob pobočju rahlo navzgor skozi
 {{<figure src="M_8-4819_IMG.JPG" caption="Pogled na Brunk izpod Rudne vasi">}}
 
 Na prvem razcepu vas markacije usmerjajo levo, vi pa se odpravite desno proti Hotemežu (seveda se lahko spustite tudi do Radeč, vendar vas potem čaka nekaj-kilometrska pot po glavni cesti). V začetku je pot makadamska, med hišami Brunške gore se pojavi asfalt, ki nato spet izgine, zadnji kilometer ceste pa je spet asfaltiran. Cesta vas pripelje na začetek Hotemeža, približno 300 metrov od mesta, kjer ste pustili avto.
-
-Zgodnje-pomladne rože ob poti
------------------------------
-
-Če se boste na Brunk odpravili v drugi polovici marca, boste ob poti opazili poleg \"pričakovanih\" zgodnje-pomladanskih rož tudi nekoliko redkejši votli petelinček. This file lists the flowers selected by the objRS Recordset in a 5-images-per-line table Required input variables: objRS - Open recordset based on Flowers table F1 - First name to display (column from Flowers table) F2 - Second name to display
-
-### Gozdovi pod Brunkom
-
-[
-{{<figure src="../../flowers/Asteraceae/TussilagoFarfara(Lapuh">}}
-
-/L_3-0394_IMG.JPG)\
-Lapuh (Tussilago farfara)](../../flowers/Asteraceae/TussilagoFarfara(Lapuh)/si_TussilagoFarfara(Lapuh).asp)
-:   [
-{{<figure src="../../flowers/Asteraceae/PetasitesAlbus(BeliRepuh">}}
-
-/L_8-4811_IMG.JPG)\
-    Beli repuh (Petasites albus)](../../flowers/Asteraceae/PetasitesAlbus(BeliRepuh)/si_PetasitesAlbus(BeliRepuh).asp)
-:   [
-{{<figure src="../../flowers/Apocynaceae/VincaMinor(Zimzelen">}}
-
-/L_7-4757_IMG.JPG)\
-    Zimzelen (Vinca minor)](../../flowers/Apocynaceae/VincaMinor(Zimzelen)/si_VincaMinor(Zimzelen).asp)
-:   [
-{{<figure src="../../flowers/Ericaceae/EricaCarnea(SpomladanskaResa">}}
-
-/L_7-4726_IMG.JPG)\
-    Spomladanska resa (Erica carnea)](../../flowers/Ericaceae/EricaCarnea(SpomladanskaResa)/si_EricaCarnea(SpomladanskaResa).asp)
-
-### Travniki okoli Brunka
-
-[
-{{<figure src="../../flowers/Fumariaceae/CorydalisCava(VotliPetelincek">}}
-
-/L_8-4815_IMG.JPG)\
-Votli petelinček (Corydalis cava)](../../flowers/Fumariaceae/CorydalisCava(VotliPetelincek)/si_CorydalisCava(VotliPetelincek).asp)
-:   [
-{{<figure src="../../flowers/Amaryllidaceae/GalanthusNivalis(MaliZvoncek">}}
-
-/L_7-4720_IMG.JPG)\
-    Mali zvonček (Galanthus nivalis)](../../flowers/Amaryllidaceae/GalanthusNivalis(MaliZvoncek)/si_GalanthusNivalis(MaliZvoncek).asp)
-:   [
-{{<figure src="../../flowers/Iridaceae/CrocusVernus(PomladanskiZafran">}}
-
-/L_0-0066_IMG.JPG)\
-    Pomladanski žafran (Crocus vernus)](../../flowers/Iridaceae/CrocusVernus(PomladanskiZafran)/si_CrocusVernus(PomladanskiZafran).asp)
-:   [
-{{<figure src="../../flowers/Primulaceae/PrimulaVulgaris(Trobentica">}}
-
-/L_2-0251_IMG.JPG)\
-    Trobentica (Primula vulgaris)](../../flowers/Primulaceae/PrimulaVulgaris(Trobentica)/si_PrimulaVulgaris(Trobentica).asp)
-:   [
-{{<figure src="../../flowers/Violaceae/ViolaHirta(SrhkodlakavaVijolica">}}
-
-/L_7-4727_IMG.JPG)\
-    Srhkodlakava vijolica (Viola hirta)](../../flowers/Violaceae/ViolaHirta(SrhkodlakavaVijolica)/si_ViolaHirta(SrhkodlakavaVijolica).asp)
-
-[
-{{<figure src="../../flowers/Ranunculaceae/HelleborusOdorus(BlagodiseciTeloh">}}
-
-/L_4-4479_IMG.JPG)\
-Blagodišeči teloh (Helleborus odorus)](../../flowers/Ranunculaceae/HelleborusOdorus(BlagodiseciTeloh)/si_HelleborusOdorus(BlagodiseciTeloh).asp)
-:   [
-{{<figure src="../../flowers/Violaceae/ViolaAlba(BelaVijolica">}}
-
-/L_7-4764_IMG.JPG)\
-    Bela vijolica (Viola alba)](../../flowers/Violaceae/ViolaAlba(BelaVijolica)/si_ViolaAlba(BelaVijolica).asp)
-:   [
-{{<figure src="../../flowers/Asteraceae/BellisPerennis(NavadnaMarjetica">}}
-
-/L_3-0365_IMG.JPG)\
-    Navadna marjetica (Bellis perennis)](../../flowers/Asteraceae/BellisPerennis(NavadnaMarjetica)/si_BellisPerennis(NavadnaMarjetica).asp)

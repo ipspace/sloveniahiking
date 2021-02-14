@@ -20,7 +20,7 @@ Kot se za tako zanimiv vrh spodobi, vodi na Grmado več markiranih poti -- nanjo
 Razgled z vrha Grmade
 ---------------------
 
-Razgled z Grmade je eden najlepših razgledov, ki jih lahko doživite v Polhograjskem hribovju. Z vrha si boste lahko ogledali celotno Ljubljansko kotlino s Krimom v ozadju, [Ulovko](../Ulovka), [Koreno](../Korena) in [Kožljek](../Kozljek) pred njo, [Polhograjsko goro](../PolhograjskaGora) pod vami, [Tošč](../Tosc) na severu, Blegoš in Porezen za Toščem ter Julijske Alpe in Karavanke v ozadju. S klopce pod Grmado, ki gleda proti vzhodu, pa boste v daljavi zagledali cerkev sv. Katarine na Topolu. 
+Razgled z Grmade je eden najlepših razgledov, ki jih lahko doživite v Polhograjskem hribovju. Z vrha si boste lahko ogledali celotno Ljubljansko kotlino s Krimom v ozadju, [Ulovko](../ulovka), [Koreno](../korena) in [Kožljek](../kozljek) pred njo, [Polhograjsko goro](../polhograjskagora) pod vami, [Tošč](../tosc) na severu, Blegoš in Porezen za Toščem ter Julijske Alpe in Karavanke v ozadju. S klopce pod Grmado, ki gleda proti vzhodu, pa boste v daljavi zagledali cerkev sv. Katarine na Topolu. 
 
 {{<figure src="razgled_jug.jpg" caption="Pogled proti jugu: Krim, Ulovka, Korena, Kožljek in Polhograjska gora" caption-position="bottom">}}
 

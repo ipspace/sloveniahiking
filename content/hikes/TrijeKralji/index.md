@@ -12,7 +12,7 @@ title: Trije kralji na Pohorju
 x: 535
 y: 143
 ---
-![](M_1_2101.JPG)
+{{<figure src="M_1_2101.JPG">}}
 
 Visoko na pobočju Pohorja, tik pod Velikim vrhom, stoji cerkev sv. Treh kraljev, priljubljen cilj planincev iz okolice Slovenske Bistrice. Ob cerkvi so postavili Štuhecov dom, v zadnjih letih pa je okoli nje zraslo tudi manjše smučarsko središče. Do Treh kraljev vodi markirana pot iz Oplotnice, iz Slovenske Bistrice pa so speljane kar tri (skozi Veliko Tinje, mimo Močnika in različica mimo cerkve sv. Urha).
 
@@ -57,7 +57,7 @@ Po nekaj metrih se od te v desno odcepi makadam, pred zadnjimi hišami pa zavije
 
 Krajši vzpon po dobro označenih stezicah, speljanih po pretežno smrekovem gozdu, vas pripelje na rob travnika, ob katerem se vzpnete v desno. Na klopci, ki jo boste našli ob potočku, si vzemite nekaj časa za uživanje, saj tako lepih razgledov med vzponom ne boste več imeli, nato pa nadaljujete hojo do kapelice. Ob njej zavijete naravnost navzgor ob gozdu (čaka vas nekaj akrobacij med žicami električnih pastirjev), nato pa levo po kolovozu pod hišami do asfalta.
 
-![](M_1_2102.JPG)
+{{<figure src="M_1_2102.JPG">}}
 
 Vzpon do Treh kraljev
 ---------------------
@@ -66,7 +66,7 @@ Na cesti zavijete desno navzgor, na naslednjem križišču pa vas markacije usme
 
 Sodeč po zemljevidu vas čaka neprijetna hoja po asfaltu, na srečo pa so planinci našli prijeten \"obvoz\" -- markacije vas najprej popeljejo po starem kolovozu, ki sprva teče vzporedno s cesto, nato pa zavije nekoliko bolj v desno in vas pripelje na travnik, čez dobrih deset minut pa do Planine pod Šumikom.
 
-![](M_1_2103.JPG)
+{{<figure src="M_1_2103.JPG">}}
 
 Nad Planino pod Šumikom postane pot orientacijsko nekoliko bolj zahtevna, saj so markacije redkeje posejane. Odpravite se po poti levo mimo kapelice proti zadnjim hišam zaselka, nato pa na prvem kolovozu zavijte desno navzgor (tam je tudi stara obledela puščica).
 

@@ -25,7 +25,7 @@ title: S Samotorice do Korene
 x: 444
 y: 99
 ---
-{{<figure src="M_8-4852_IMG.JPG">}} Samotorica in [Korena](../Korena) sta zaselka tik pod grebenom hribovja, ki ločuje dolino Horjulščice od doline Gradaščice. Ob grebenu teče markirana razgledna pot, kot nalašč za prijeten nedeljski izlet, ki ga lahko dodatno popestrimo s kosilom na enem od kmečkih turizmov na Koreni.
+{{<figure src="M_8-4852_IMG.JPG">}} Samotorica in [Korena](../korena) sta zaselka tik pod grebenom hribovja, ki ločuje dolino Horjulščice od doline Gradaščice. Ob grebenu teče markirana razgledna pot, kot nalašč za prijeten nedeljski izlet, ki ga lahko dodatno popestrimo s kosilom na enem od kmečkih turizmov na Koreni.
 
 Tisti, ki si želite položnega nedeljskega sprehoda, se boste do Samotorice pripeljali z avtomobilom, drugi pa se boste nanjo povzpeli iz Vrzdenca.
 
@@ -35,7 +35,7 @@ Tisti, ki si želite položnega nedeljskega sprehoda, se boste do Samotorice pri
 :   Dobro označena, zelo položna pot.
 
 **Dostop**
-:   Na Samotorico se lahko pripeljemo po asfaltni cesti iz Horjula ali pa se nanjo[povzpnemo po markirani poti iz Vrzdenca](../Kozljek).
+:   Na Samotorico se lahko pripeljemo po asfaltni cesti iz Horjula ali pa se nanjo[povzpnemo po markirani poti iz Vrzdenca](../kozljek).
 
 **Dolžina**
 :   Samotorica -- Korena (in obratno): 1\

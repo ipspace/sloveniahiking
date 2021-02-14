@@ -13,7 +13,7 @@ x: 418
 y: 40
 ---
 {{<figure src="M_0-4054_IMG.JPG">}}
-Kojnik je položen vrh v grebenu nad Kraškim robom južno od Slavnika. Podobno kot s Slavnika boste imeli tudi s Kojnika lep razgled na slovensko morje in Istro, razgled proti severu (Nanos, [Vremščica](../Vremscica/)) pa vam bo zakrival [Slavnik](../Slavnik/). Če hočete uživati v razgledu, bo torej Slavnik bolj primeren cilj, če pa iščete lažji vzpon, združen s prijetnim sprehodom po skalah tik nad Kraškim robom, pa se raje povzpnite na Kojnik.
+Kojnik je položen vrh v grebenu nad Kraškim robom južno od Slavnika. Podobno kot s Slavnika boste imeli tudi s Kojnika lep razgled na slovensko morje in Istro, razgled proti severu (Nanos, [Vremščica](../vremscica/)) pa vam bo zakrival [Slavnik](../slavnik/). Če hočete uživati v razgledu, bo torej Slavnik bolj primeren cilj, če pa iščete lažji vzpon, združen s prijetnim sprehodom po skalah tik nad Kraškim robom, pa se raje povzpnite na Kojnik.
 
 Osnovni podatki
 ===============
@@ -57,7 +57,7 @@ V Podgorje najlaže pridete tako, da primorsko avtocesto zapustite na odcepu Kas
 
 {{<figure src="M_0-4026_IMG.JPG" caption="Pogled na Podgorje s Kojnika, v ozadju Slavnik">}} 
 
-Tik pred začetkom vasi boste prečkali železnico (ob železniški postaji), kmalu nato pa vas bo kažipot za parkirišče usmeril desno na lepo urejeno turistično parkirišče, kjer vas čaka tudi zemljevid okolice z označenimi potmi na Slavnik in [Kojnik](../Kojnik).
+Tik pred začetkom vasi boste prečkali železnico (ob železniški postaji), kmalu nato pa vas bo kažipot za parkirišče usmeril desno na lepo urejeno turistično parkirišče, kjer vas čaka tudi zemljevid okolice z označenimi potmi na Slavnik in [Kojnik](../kojnik).
 
 {{<figure src="M_0-4055_IMG.JPG" caption="Zemljevid poti na Kojnik">}}
 

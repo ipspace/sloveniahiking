@@ -11,7 +11,7 @@ title: St. Ivan and Šebrelje
 x: 416
 y: 107
 ---
-![](M_8_1840.JPG)
+{{<figure src="M_8_1840.JPG">}}
 
 When you\'ve been driving between Idrija or Cerkno and Tolmin, you\'ve perhaps noticed St John\'s church (sv. Ivan) gleaming on top of the high steep faces above the Idrijca valley. Seeing it and the steep slopes and gullies that surround it on all sides, scarcely anyone can imagine that behind the church stretches the practically unknown sunny and hilly plateau Šebreljska planota. You can climb up to sv. Ivan by a waymarked path from Reka, and another path leads to it past Divje babe (now famous caves where even in prehistoric times they played on bone flutes), and after a short rest there, you can set off on a leisurely walk through this sunlit, hilly region.
 

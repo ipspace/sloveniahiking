@@ -1,5 +1,5 @@
 ---
-date: '2002-11-03T00:00:00'
+date: 2002-11-03 00:00:00+00:00
 delta: 220
 description: Na Lačno je iz Kubeda speljana prijetna grebenska pot, ki vas tu in tam
   razveseli z razgledi na morje in Julijske Alpe, jeseni pa boste na njej nedvomno
@@ -7,13 +7,13 @@ description: Na Lačno je iz Kubeda speljana prijetna grebenska pot, ki vas tu i
 duration: 2.5
 height: 451
 lead: M_7-3711_IMG.JPG
-multilead: M_7-3711_IMG.JPG
 map: 1
+multilead: M_7-3711_IMG.JPG
 multipath: true
 name: Lacna/Kubed
 title: Lačna iz Kubeda
 ---
-Iz Kubeda, kraja ob cesti proti mejnemu prehodu Mlini, je na Lačno po borovih gozdičkih in kraških travnikih speljana prijetna grebenska pot, ki bo nedvomno najlepša jeseni, ko se ruj odene v živo rdeče barve. S poti si boste mimogrede lahko ogledali Tinjan ter sosednji Kraški rob in [Slavniško pogorje](../Slavnik/).
+Iz Kubeda, kraja ob cesti proti mejnemu prehodu Mlini, je na Lačno po borovih gozdičkih in kraških travnikih speljana prijetna grebenska pot, ki bo nedvomno najlepša jeseni, ko se ruj odene v živo rdeče barve. S poti si boste mimogrede lahko ogledali Tinjan ter sosednji Kraški rob in [Slavniško pogorje](../slavnik/).
 
 ### Osnovni podatki
 
@@ -62,7 +62,7 @@ Začetek planinske poti je eden bolj nenavadnih, kar sem jih videl -- takoj na z
 Pot na Lačno
 ------------
 
-Po prvem, nekoliko bolj strmem vzponu, pridete na greben hribovja in po položni poti hodite po kraških travnikih, ki se občasno menjavajo z mešanim ali borovim gozdom. Med potjo se vam na levi strani odpirajo pogledi na okoliške hribe -- najprej na Tinjan in Julijske Alpe v ozadju, nato na Črni Kal ter na Kraški rob s [Slavniškim pogorjem](../Slavnik/) v ozadju. Lepo se vidi tudi Podpeč z obrambnim stolpom na vrhu stene Kraškega roba. 
+Po prvem, nekoliko bolj strmem vzponu, pridete na greben hribovja in po položni poti hodite po kraških travnikih, ki se občasno menjavajo z mešanim ali borovim gozdom. Med potjo se vam na levi strani odpirajo pogledi na okoliške hribe -- najprej na Tinjan in Julijske Alpe v ozadju, nato na Črni Kal ter na Kraški rob s [Slavniškim pogorjem](../slavnik/) v ozadju. Lepo se vidi tudi Podpeč z obrambnim stolpom na vrhu stene Kraškega roba. 
 
 {{<gallery>}} {{<figure src="M_7-3707_IMG.JPG">}} {{<figure src="M_7-3715_IMG.JPG">}} {{<figure src="M_7-3727_IMG.JPG">}} {{<figure src="M_7-3718_IMG.JPG">}}{{</gallery>}} 
 

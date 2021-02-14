@@ -1,5 +1,5 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 description: Kofce so prijazna, sončna planina pod travnatim grebenom Košute.
 height: 1488
 image:
@@ -42,7 +42,7 @@ Izpred Doma na Kofcah se odprejo čudoviti razgledi -- na skrajni desni silijo k
 
 {{<figure src="Razgled_Kofce_Vzhod.jpg" caption="Pogled proti vzhodu -- Grintovci in Storžič" caption-position="bottom">}}
 
-Desno od Ljubljanske kotline boste najprej opazili Šmarno goro, za njo vrhove polhograjskega hribovja, med katerimi izstopata [Grmada](../PolhograjskaGrmada) in [Tošč](../Tosc), za Kranjskim poljem se počasi dviga [Jelovica](../Jamnik_Vodice), nad katero bo dobro oko opazilo travnati vrh Blegoša. Nekoliko desno od Blegoša se (še vedno nad Jelovico) dvigajo [Spodnje Bohinjske gore](../CrnaPrst), ki jim sledi [Pokljuka](../Lipanca), ter [vrhovi nad Pokljuko](../DebelaPec), nad katerimi kraljuje Triglav. Pod vrhovi Julijskih Alp nas pozdravlja gozdnato pobočje [Dobrče](../Dobrca), ki se onkraj prevala Vrh Luž zlije z Begunjščico, za katero lahko opazimo vrh Stola.
+Desno od Ljubljanske kotline boste najprej opazili Šmarno goro, za njo vrhove polhograjskega hribovja, med katerimi izstopata [Grmada](../polhograjskagrmada) in [Tošč](../tosc), za Kranjskim poljem se počasi dviga [Jelovica](../jamnik_vodice), nad katero bo dobro oko opazilo travnati vrh Blegoša. Nekoliko desno od Blegoša se (še vedno nad Jelovico) dvigajo [Spodnje Bohinjske gore](../crnaprst), ki jim sledi [Pokljuka](../lipanca), ter [vrhovi nad Pokljuko](../debelapec), nad katerimi kraljuje Triglav. Pod vrhovi Julijskih Alp nas pozdravlja gozdnato pobočje [Dobrče](../dobrca), ki se onkraj prevala Vrh Luž zlije z Begunjščico, za katero lahko opazimo vrh Stola.
 
 {{<figure src="Razgled_Kofce_Zahod.jpg" caption="Pogled proti zahodu -- predalpska hribovja, Julijske Alpe in Karavanke"  caption-position="bottom">}}
 

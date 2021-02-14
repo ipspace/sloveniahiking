@@ -15,7 +15,7 @@ title: Veliki vrh nad Kofcami
 x: 447
 y: 143
 ---
-![](M_3_0366.JPG)
+{{<figure src="M_3_0366.JPG">}}
 
 Atlas Slovenije pozna kar 83 Velikih V/vrhov, od teh 11 zaselkov (Vrhov) in 72 vzpetin (vrhov). Najnižja vzpetina je visoka 311 metrov (verjetno ste takoj uganili, da je tako nizek Veliki vrh lahko le v Prekmurju), trije pa si zares zaslužijo to ime, saj segajo nad dva tisoč metrov -- enega od teh dvatisočakov boste našli vzhodno od Ojstrice, drugega na Begunjščici (najvišji vrh grebena Begunjščice), tretjega, na katerega se bomo povzpeli, pa v grebenu Košute, v katerem je najzahodnejši dvatisočak.
 

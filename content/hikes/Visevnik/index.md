@@ -12,7 +12,7 @@ title: Viševnik
 x: 416
 y: 136
 ---
-![](M_7-2715_IMG.JPG)
+{{<figure src="M_7-2715_IMG.JPG">}}
 
 Viševnik je eden od najvišjih vrhov v grebenu, ki ločuje Pokljuško planoto od doline Krme. Po strmem vzponu vas na vrhu čaka čudovit razgled na vrhove okoli Triglava, Pokljuko in Bohinjske gore, tisti z nekoliko več kondicije pa boste lahko od Viševnika nadaljevali pot po pravi visokogorski pokrajini proti Blejski koči ali Vodnikovemu domu.
 

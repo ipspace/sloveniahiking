@@ -32,7 +32,7 @@ title: Iz Branika na Pedrovo
 x: 404
 y: 80
 ---
-{{<figure src="M_4-4488_IMG.JPG" caption="Cerkev sv. Duha na Pedrovem">}} Pedrovo je kraška vasica, stisnjena v pobočje Črnih hribov visoko nad Branikom. Iz Branika se lahko povzpnete samo do Pedrovega, kar je prijeten dvourni izlet, lahko pa nadaljujete s potjo po pobočju Ovčjaka in mimo Kopice proti [Železnim vratom](../Trstelj_Dornberk/?sect=2) od koder se povzpnete na Trstelj. Že s Pedrovega boste imeli čudovit razgled na Vipavsko dolino, Trnovski gozd in Nanos, s Trstelja pa se vam bo odprl še čudovit pogled proti jugu.
+{{<figure src="M_4-4488_IMG.JPG" caption="Cerkev sv. Duha na Pedrovem">}} Pedrovo je kraška vasica, stisnjena v pobočje Črnih hribov visoko nad Branikom. Iz Branika se lahko povzpnete samo do Pedrovega, kar je prijeten dvourni izlet, lahko pa nadaljujete s potjo po pobočju Ovčjaka in mimo Kopice proti [Železnim vratom](../trstelj_dornberk/?sect=2) od koder se povzpnete na Trstelj. Že s Pedrovega boste imeli čudovit razgled na Vipavsko dolino, Trnovski gozd in Nanos, s Trstelja pa se vam bo odprl še čudovit pogled proti jugu.
 
 Osnovni podatki
 ===============
@@ -111,4 +111,4 @@ Planinska pot teče najprej po kraških travnikih, nato pa se skozi gozd spusti 
 
 {{<figure src="M_5-4502_IMG.JPG" caption="Pogled na Dornberk">}}
 
-Po krajšem počitku po kolovozu nadaljujemo s potjo proti Železnim vratom. Markirana pot se kmalu odcepi levo v gozd, lahko pa nadaljujete pot po kolovozu, ki vas bo pripeljal v zaselek Gora, od koder se boste do Železnih vrat povzpeli po asfaltni cesti. Če boste nadaljevali pot po markirani poti, se boste najprej prebijali skozi precej zaraščen (a odlično markiran) gozd, ki ga bodo kmalu zamenjali kraški travniki -- spet z odličnim razgledom proti severu. Krajši vzpon po teh travnikih in skozi borov gozdiček vas bo po gozdni poti pripeljal do [Železnih vrat](../Trstelj_Dornberk/?sect=2), od koder nadaljujete vzpon na Trstelj.
+Po krajšem počitku po kolovozu nadaljujemo s potjo proti Železnim vratom. Markirana pot se kmalu odcepi levo v gozd, lahko pa nadaljujete pot po kolovozu, ki vas bo pripeljal v zaselek Gora, od koder se boste do Železnih vrat povzpeli po asfaltni cesti. Če boste nadaljevali pot po markirani poti, se boste najprej prebijali skozi precej zaraščen (a odlično markiran) gozd, ki ga bodo kmalu zamenjali kraški travniki -- spet z odličnim razgledom proti severu. Krajši vzpon po teh travnikih in skozi borov gozdiček vas bo po gozdni poti pripeljal do [Železnih vrat](../trstelj_dornberk/?sect=2), od koder nadaljujete vzpon na Trstelj.

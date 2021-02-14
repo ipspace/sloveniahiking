@@ -99,4 +99,4 @@ On this stage as well you can observe the wealth of wild flowers in the neighbou
 
 The macadam road ends on the outskirts of Lokev, by the cemetery, from where it\'s only a good five minutes\' walk to the carpark and your car. The hunger which has developed during the walk can be successfully appeased in the Ražem restaurant (tried out, they have excellent fish dishes), if you have more time, you can visit the War Museum, while on  a Sunday you can also go to the Divača cave or Vilenica.  Those who have gathered wild flowers on the way should simply hurry home  - you can make marvellous ikebana arrangements with the autumnal riches of the Karst.
 
-![](M_4-3420_IMG.JPG)
+{{<figure src="M_4-3420_IMG.JPG">}}
