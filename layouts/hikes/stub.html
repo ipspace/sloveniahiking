@@ -10,13 +10,29 @@
   {{ end }}
   {{ .Scratch.Set "lead" "NOLEAD" }}
   <dl class='flower__data'>
-    <dt>Peak height</dt>
-    <dd>{{ .Params.height }}</dd>
-    <dt>Hike duration</dt>
-    <dd>{{ .Params.duration }}</dd>
-    <dt>Height difference</dt>
-    <dd>{{ .Params.delta }}</dd>
+    {{ if .Params.height }}
+      <dt>Peak height</dt>
+      <dd>{{ .Params.height }}</dd>
+    {{ else }}
+      {{ $parent = .GetPage "../" }}
+      {{ with $parent.Params.height }}
+        <dt>Peak height</dt>
+        <dd>{{ .Params.height }}</dd>
+      {{ end }}
+    {{ end }}
+    {{ with .Params.duration }}
+      <dt>Hike duration</dt>
+      <dd>{{ . }}</dd>
+    {{ end }}
+    {{ with .Params.delta }}
+      <dt>Height difference</dt>
+      <dd>{{ . }}</dd>
+    {{ end }}
   </dl>
+  {{ if .Pages }}
+    <h3>Hikes to this peak</h3>
+    {{ partial "multipath-hike-short" .}}
+  {{ end }}
   {{ if .Content }}
     {{ .Content }}
   {{ else }}

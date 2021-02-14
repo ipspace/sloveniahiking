@@ -1,0 +1,5 @@
+<ul>
+{{ range .Pages.ByTitle }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ .Params.delta }} m, {{ .Params.duration }} {{ i18n "hour" (int .Params.duration) }})</li>
+{{ end }}
+</ul>
