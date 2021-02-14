@@ -17,7 +17,7 @@ body {
   font-weight: normal;
   font-style: normal; }
 
-.page-heading__btn, .back-btn, .jump-link, .post__comment-link, .post__read-more, .btn--icon .btn__text, .btn, .post .planCompare .external.text,
+.page-heading__btn, .post__blurb .jump-link, .back-btn, .jump-link, .post__comment-link, .post__read-more, .btn--icon .btn__text, .btn, .post .planCompare .external.text,
 .post .planCompare .mw-redirect, .post .jump-link a, form.labeled .action-row input, form.labeled .action-row button, form.labeled .action-row a:not(.image), .teaserBox .buttons a, .buyButton, .header_button,
 .container.main .sidebar .btn,
 .container.main .sidebar .post .planCompare .mw-redirect,
@@ -2727,6 +2727,21 @@ Grid Layout Styles
       margin-right: 24px; } }
   .post__blurb article h3, .post__blurb article h2 {
     margin-top: 0; }
+
+.post__blurb .jump-link {
+  text-decoration: none;
+  color: #d26400;
+  background: transparent;
+  text-transform: uppercase; }
+  .post__blurb .jump-link a {
+    display: inline-block;
+    color: #d26400;
+    font-size: inherit;
+    text-align: left;
+    padding: 0 0;
+    transition: color 0.3s ease-in-out;
+    padding-right: 34px;
+    background: url(../images/icon_arrow_right.svg) right center no-repeat; }
 
 @media (min-width: 768px) {
   #left-column dl {

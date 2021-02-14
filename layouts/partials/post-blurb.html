@@ -12,8 +12,13 @@
         {{ with .Params.height }}({{ . }}&nbsp;m){{ end }}
       {{ end }}
     </h3>
-    {{ with .Params.description }}
-      <div>{{ . | markdownify }}</div>
+    {{ if .Params.description }}
+      <div>{{ .Params.description | markdownify }}</div>
+    {{ else }}
+      {{ if .Summary }}
+        <div>{{ .Summary }}</div>
+        <div class='jump-link'><a href="{{ .Permalink }}">{{ i18n "more" }}</a></div>
+      {{ end }}
     {{ end }}
   </article>
 </section>
