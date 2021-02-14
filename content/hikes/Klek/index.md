@@ -33,7 +33,7 @@ title: Klek in Golica
 x: 425
 y: 149
 ---
-{{<figure src="M_008051108.jpg">}} Klek? Kje pa je to? Mnogi, ki hodijo tam mimo na božjepotno [Golico](../Golica) in na precej oblegano Babo, znano tudi kot Dovška Baba ali Dovška Rožca, mogoče niti ne bi znali odgovoriti. A manj razvpiti in oblegani vrhovi so pogosto prav tako ali pa še bolj ljubi planincem, posebno takim, ki iščejo miru in stika z naravo.
+{{<figure src="M_008051108.jpg">}} Klek? Kje pa je to? Mnogi, ki hodijo tam mimo na božjepotno [Golico](../golica) in na precej oblegano Babo, znano tudi kot Dovška Baba ali Dovška Rožca, mogoče niti ne bi znali odgovoriti. A manj razvpiti in oblegani vrhovi so pogosto prav tako ali pa še bolj ljubi planincem, posebno takim, ki iščejo miru in stika z naravo.
 
 ### Osnovni podatki
 
@@ -76,7 +76,7 @@ y: 149
 Planina pod Golico
 ------------------
 
-{{<figure src="M_008051112.jpg">}} Po asfaltni lokalni cesti z Jesenic je do Planine pod Golico (954 m) 4 km. Vasico so zgradili v časih fužinarstva. Ostanki rudarskih rovov so vidni blizu Savskih jam. Zgodnjebaročna rudarska cerkev sv. Križa je bila zgrajena leta 1683 v spomin na zmago nad Turki pred Dunajem. Zvonik z zanimivo »kapo« je bil prizidan pozneje. Okrog razpela na glavnem oltarju je 15 medaljonov, delo slikarske delavnice Layer. Na pokopališču ob cerkvi je pokopan starosta slovenskih gornikov Joža Čop (1893--1975). Vasica je znana tudi po lepih znamenjih in kapelah, še bolj pa po obilici [gorskih narcis](../../flowers/Amaryllidaceae/NarcissusPoeticus(BeliNarcis)/si_NarcissusPoeticus(BeliNarcis).asp) ali ključavnic, kot jim pravijo domačini. Proti vzhodu je speljana sedežnica na Španov vrh, kjer je nekaj smučarskih prog.
+{{<figure src="M_008051112.jpg">}} Po asfaltni lokalni cesti z Jesenic je do Planine pod Golico (954 m) 4 km. Vasico so zgradili v časih fužinarstva. Ostanki rudarskih rovov so vidni blizu Savskih jam. Zgodnjebaročna rudarska cerkev sv. Križa je bila zgrajena leta 1683 v spomin na zmago nad Turki pred Dunajem. Zvonik z zanimivo »kapo« je bil prizidan pozneje. Okrog razpela na glavnem oltarju je 15 medaljonov, delo slikarske delavnice Layer. Na pokopališču ob cerkvi je pokopan starosta slovenskih gornikov Joža Čop (1893--1975). Vasica je znana tudi po lepih znamenjih in kapelah, še bolj pa po obilici gorskih narcis ali ključavnic, kot jim pravijo domačini. Proti vzhodu je speljana sedežnica na Španov vrh, kjer je nekaj smučarskih prog.
 
 Parkiramo lahko pred gostilno Pr\' Čop, pod katero stoji turistični zemljevid, lahko pa malo naprej pri gostišču Dom pod Golico (933 m; Planina pod Golico 32; Klinar dodaja »po domače Belcijan«, na fasadi pa se še vidi napis *Boštjanov*).
 

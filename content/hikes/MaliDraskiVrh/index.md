@@ -85,7 +85,7 @@ Prvih nekaj metrov poti je dobro vidnih, ko pa se grušč spremeni v skrotje, po
 Vzhodni (nižji) vrh Malega Draškega vrha je oddaljen le dobrih 20 metrov od sedla, pa vendar se boste morali do njega potruditi: malce poplezavanja v desno po položni skali (zgornji rob je odličen za oprijemanje) vas bo pripeljalo do izrazitega roglja, ki se mu izognete v desno na ozko stezico. Ta se onkraj njega razširi v udobno pot do vrha, kjer vas čaka celo žig.
 
 {{<figure src="M_0_00600.JPG" caption=", v ozadju">}} {{<figure src="M_0_00602.JPG">}}\
-[Viševnik](../Visevnik) {{<figure src="M_0_00605.JPG">}}\
+[Viševnik](../visevnik) {{<figure src="M_0_00605.JPG">}}\
 Jezerce s Srenjskega\
 prevala
 

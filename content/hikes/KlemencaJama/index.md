@@ -1,6 +1,6 @@
 ---
 author: Mojca_Lustrek
-date: '2007-09-30T00:00:00'
+date: 2007-09-30 00:00:00+00:00
 delta: 440
 description: Planina Klemenča jama, imenovana tudi Spodnja jama (Zgornja jama je više
   pod Ojstrico) ali Klemenškova planina leži pod severno steno Ojstrice. Do nje lahko
@@ -106,7 +106,7 @@ Macesen
 
 Koča premore še nekaj pritiklin. Številne klopce in mize vabijo k počitku. Na tablici na ovinku ganka piše, da je do stranišča 8 sekund, na naslednjem vogalu pa le še 3 (to je včasih hudo dobrodošel podatek \...). Za kočo sta kegljišče in gugalnica, v leseno korito niže doli pa teče voda. Nad novo drvarnico je zimska soba. Pod potjo na začetku planine je še ena lesena hiška z nekaj ležišči. Oskrbnik Martin Slapnik ve marsikaj o okolici in tamkajšnjih poteh in dekleti, ki ga včasih nadomeščata, tudi.
 
-Številni kažipoti in table nam povedo, kam vse se lahko napotimo s te planine, in še slavospev markaciji si lahko preberemo: *Rdeči obroček, belo oko te varno pripelje gor na goro.* Razgled na okoliške gore je imeniten: vidimo Krofičko, Ojstrico, Rjavčki vrh, Planjavo, [Okrešelj](../Okreselj), Skuto, Rinke, Mrzlo goro, gorski greben med Logarsko dolino in Matkovim kotom, del Olševe \...
+Številni kažipoti in table nam povedo, kam vse se lahko napotimo s te planine, in še slavospev markaciji si lahko preberemo: *Rdeči obroček, belo oko te varno pripelje gor na goro.* Razgled na okoliške gore je imeniten: vidimo Krofičko, Ojstrico, Rjavčki vrh, Planjavo, [Okrešelj](../okreselj), Skuto, Rinke, Mrzlo goro, gorski greben med Logarsko dolino in Matkovim kotom, del Olševe \...
 
 Skratka --
 
