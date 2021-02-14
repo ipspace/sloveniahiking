@@ -1,0 +1,14 @@
+<p class="crumbs">
+  {{ $topname := printf "/%s" .Type }}
+  {{ $top := .GetPage $topname }}
+  {{ with $top }}
+    <a href="{{ .Permalink }}">{{ .Title }}</a> »
+  {{ end }}
+  {{ $parent := .GetPage "../" }}
+  {{ with $parent }}
+    {{ if .Params.height }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a> »
+    {{ end }}
+  {{ end }}
+  {{ .Title }}
+</p>

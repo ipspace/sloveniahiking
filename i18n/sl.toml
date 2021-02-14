@@ -4,14 +4,14 @@ V naši bazi boste našli te rože iz roda <em>{{ .Title }}</em>:
 """
 
 [genusnamelatin]
-other="{{ .Title }} ({{ index $.Site.Data.botany.genus .Title }})"
+other="{{ .Title }} ({{ index $.Site.Data.sl.botany.genus .Title }})"
 
 [genusname]
-other="{{ index $.Site.Data.botany.genus .Title }} ({{ .Title }})"
+other="{{ index $.Site.Data.sl.botany.genus .Title }} ({{ .Title }})"
 
 [genustitle]
 other="""
-Botanični rod: {{ index $.Site.Data.botany.genus .Title }} ({{ .Title }})
+Botanični rod: {{ index $.Site.Data.sl.botany.genus .Title }} ({{ .Title }})
 """
 
 [familylist]
@@ -20,14 +20,14 @@ V naši bazi boste našli te rože iz družine <em>{{ .Title }}</em>:
 """
 
 [familynamelatin]
-other="{{ .Title }} ({{ index $.Site.Data.botany.family .Title }})"
+other="{{ .Title }} ({{ index $.Site.Data.sl.botany.family .Title }})"
 
 [familyname]
-other="{{ index $.Site.Data.botany.family .Title }} ({{ .Title }})"
+other="{{ index $.Site.Data.sl.botany.family .Title }} ({{ .Title }})"
 
 [familytitle]
 other="""
-Botanična družina: {{ index $.Site.Data.botany.family .Title }} ({{ .Title }})
+Botanična družina: {{ index $.Site.Data.sl.botany.family .Title }} ({{ .Title }})
 """
 
 [flowerfamily]

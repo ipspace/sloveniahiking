@@ -1,4 +1,4 @@
-{{ if eq .lang "sl" }}
+{{ if .map }}
   {{ index .map .value|humanize }} ({{ .value }})
 {{ else }}
   {{ .value }}

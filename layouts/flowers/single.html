@@ -2,6 +2,7 @@
 {{ $title := dict "title" (printf "%s (%s)" .Title .Params.latin) "page" . }}
 {{ partial "multi-title.html" $title }}
 <article id="left-column">
+  {{ partial "flower-crumbs.html" . }}
   {{ if and .Content .Params.lead }}
     {{ with .Resources.GetMatch .Params.lead }}
       <div class="fancy-figure box caption-position-default flower__item flower__lead">
@@ -17,9 +18,10 @@
     {{ .Scratch.Set "lead" "NOLEAD" }}
   {{ end }}
   <dl class="flower__data">
-    {{ $family := $.Site.Data.botany.family }}
-    {{ $genus  := $.Site.Data.botany.genus }}
-    {{ $lang   := .Lang }}
+    {{ $lang    := .Lang }}
+    {{ $langmap := index $.Site.Data $lang }}
+    {{ $family  := cond (ne $langmap.botany nil) $langmap.botany.family nil }}
+    {{ $genus   := cond (ne $langmap.botany nil) $langmap.botany.genus nil }}
     {{ with .Params.family }}
       <dt>{{ i18n "flowerfamily" }}</dt>
       <dd>

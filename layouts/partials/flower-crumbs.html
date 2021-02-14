@@ -1,0 +1,20 @@
+<p class="crumbs">
+  {{ $topname := printf "/%s" .Type }}
+  {{ $top := .GetPage $topname }}
+  {{ with $top }}
+    <a href="{{ .Permalink }}">{{ .Title }}</a> »
+  {{ end }}
+  {{ if .Params.family }}
+    {{ $family := .GetPage (printf "/family/%s" .Params.family) }}
+    {{ with $family }}
+      <a href="{{ .Permalink }}">{{ i18n "familyname" . }}</a> »
+    {{ end }}
+  {{ end }}
+  {{ if .Params.order }}
+    {{ $genus := .GetPage (printf "/order/%s" .Params.order) }}
+    {{ with $genus }}
+      <a href="{{ .Permalink }}">{{ i18n "genusname" . }}</a> »
+    {{ end }}
+  {{ end }}
+  {{ .Title }}
+</p>
