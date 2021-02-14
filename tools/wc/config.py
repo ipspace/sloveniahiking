@@ -11,6 +11,7 @@ config = {
   'ExFlowersFamilyPath': "../xfer/FamilyLookup.xml",
   'ExFlowersGenusPath': "../xfer/GenusLookup.xml",
   'FlowersPath': "../content/flowers/%s/%s",
+  'FlowersContent': "../content/flowers",
   'DataPath': "../data/%s",
   'FlowersTopURL': "http://www.zaplana.net/flowers/",
   'FlowersTargetURL': '/flowers/',
