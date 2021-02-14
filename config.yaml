@@ -65,10 +65,9 @@ frontmatter:
 
 permalinks:
   hikes: ":sections/:filename"
-  izleti: "/izleti/:filename"
-  flowers: ":sections/:filename/:title"
+  flowers: ":sections/:filename"
   tags: "/tag/:title"
-  family: "/flowers/family/:title"
+  family: "/flowers/family/:slug"
   order: "/flowers/genus/:title"
 
 taxonomies:
