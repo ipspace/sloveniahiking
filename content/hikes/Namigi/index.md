@@ -1,5 +1,5 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 description: V gozdovih med Logatcem in Colom boste našli ostanke rimske utrdbe in
   gostilno, o kateri piše že Valvazor.
 dirty: true
@@ -10,7 +10,6 @@ image:
 - M_2-3251_IMG.JPG
 - M_2-3254_IMG.JPG
 lead: M_2-3254_IMG.JPG
-name: Namigi
 title: Stara pošta na Hrušici
 x: 431
 y: 80
@@ -39,7 +38,7 @@ Po obisku muzeja si oglejte še ostanke rimske utrdbe (vidijo se v glavnem samo 
 
 **Opomba:** Pred odhodom na izlet si [na spletu](http://www.gostilna-staraposta.com/) oglejte kdaj je gostilna odprta.
 
-Pot proti Novi Gorici nadaljujete čez Col in Ajdovščino, če pa vas je lepota narave premagala in ste se odpovedali obisku Nove Gorice, se [ustavite v Podkraju in se povzpnite na okoliške hribe](../../svDuh_Podkraj) ali pa se odpeljite iz Cola v Predmejo in si [oglejte lepote Trnovskega gozda](../../Kucelj).
+Pot proti Novi Gorici nadaljujete čez Col in Ajdovščino, če pa vas je lepota narave premagala in ste se odpovedali obisku Nove Gorice, se [ustavite v Podkraju in se povzpnite na okoliške hribe](../../svduh_podkraj) ali pa se odpeljite iz Cola v Predmejo in si [oglejte lepote Trnovskega gozda](../../kucelj).
 
 Dodatne informacije:
 
