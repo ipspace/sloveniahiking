@@ -146,7 +146,7 @@ Pot na Veliki Rogatec se začne na sedlu, nekaj metrov nad bivakom. Ozka stezica
 
 V nadaljevanju nas čaka najbolj zahteven košček poti -- najprej se vzpnemo na precej zračen greben, nato pa nas pot, ki je v tem delu v hladnem rada poledenela, vodi le dober meter pod grebenom na njegovi severni strani, tik nad strmimi severnimi stenami. Jeklenic ob poti ni, zato se boste morali zanesti le na čvrstost svojega koraka in trdnost bližnjih skal. Že po nekaj minutah je težav konec, pot se zlagoma spusti nazaj v gozd in nas pod grebenom pripelje pod vrh, na katerega se spet vzpnemo po skalnatem travniku.
 
-Vrh Rogatca nas obilno nagradi za trud -- poleg razgledov na Kamniške Alpe, ki so še nekaj lepši kot tisti s Kala, se tukaj odpre še pogled na vzhod -- na Medvedjak, Boskovec, Smrekovec in [Raduho](../Raduha), za katero se skrivata Olševa in Peca.
+Vrh Rogatca nas obilno nagradi za trud -- poleg razgledov na Kamniške Alpe, ki so še nekaj lepši kot tisti s Kala, se tukaj odpre še pogled na vzhod -- na Medvedjak, Boskovec, Smrekovec in [Raduho](../raduha), za katero se skrivata Olševa in Peca.
 
 {{<figure src="Razgled_Rogatec_Sever.jpg" caption="Pogled z Rogatca proti severu" caption-position="bottom">}} {{<figure src="Razgled_Rogatec_Jug.jpg" caption="Pogled proti jugu -- levo Golte, v ozadju meglena Celjska kotlina, desno Menina planina" caption-position="bottom">}}
 
@@ -168,11 +168,11 @@ Povratek z vrha Velikega Rogatca proti Zgornjemu Špehu nas vodi po komaj vidni 
 Kogel in travniki okoli Zgornjega Špeha {{<figure src="M_4_0453.JPG">}}\
 Čez travnike do\
 Spodnjega Špeha {{<figure src="M_4_0456.JPG">}}\
-Koroški \"veliki trije\" -- v sredini [Raduha](../Raduha), za njo levo Olševa, desno Peca {{<figure src="M_4_0458.JPG">}}\
+Koroški \"veliki trije\" -- v sredini [Raduha](../raduha), za njo levo Olševa, desno Peca {{<figure src="M_4_0458.JPG">}}\
 Pastirski stan pri Spodnjem Špehu
 
 Pot mimo Lamprečnika se začne na sedlu, čez katerega pripelje do Zgornjega Špeha makadamska cesta. Kažipot nas pošlje na komaj viden kolovoz, ki nas popelje čez travnik pod Koglom (če niste v časovni stiski, si privoščite še kratek vzpon do kapelice na Koglu). Smer hoje morate večinoma uganiti po položaju vratc in les v ograjah, na robu gozda pa vas spet pričakajo markacije, ki vas popeljejo do naslednjega travnika okoli ličnega pastirskega stana pri Spodnjem Špehu. Na teh travnikih je kolovoz nekoliko bolj očiten, lahko pa se spet prepustite vratcem v ogradah \... da le ne boste naredili takšne neumnosti kot jaz -- moj sopotnik se je izvrstno zabaval, ko sem se hotel stlačiti skozi vratca, ki so osamljena stala sredi travnika (žice električnega pastirja očitno jeseni pospravijo).
 
-{{<figure src="M_4_0459.JPG">}} Markacije nas na koncu travnika usmerijo na kolovoz pod pastirskim stanom. Kolovoz se hitro spremeni v ozko stezico, ki teče med resjem natančno po grebenu po pokrajini, ki je na las podobna tisti pod [Polhograjsko Grmado](../PolhograjskaGrmada). Po krajšem prijetnem sprehodu se začne stezica nekoliko bolj strmo spuščati in nas pripelje do gozdne ceste. Spust nadaljujemo naravnost po gozdni cesti, že čez nekaj minut pa nas markacije pošljejo na ozko stezico, ki se spušča strmo desno navzdol. Po tej stezici se spustimo do naslednje gozdne ceste, nato pa markacije, ki bi nas pripeljale v Gornji Grad, zapustimo in se odpravimo desno po cesti navzdol.
+{{<figure src="M_4_0459.JPG">}} Markacije nas na koncu travnika usmerijo na kolovoz pod pastirskim stanom. Kolovoz se hitro spremeni v ozko stezico, ki teče med resjem natančno po grebenu po pokrajini, ki je na las podobna tisti pod [Polhograjsko Grmado](../polhograjskagrmada). Po krajšem prijetnem sprehodu se začne stezica nekoliko bolj strmo spuščati in nas pripelje do gozdne ceste. Spust nadaljujemo naravnost po gozdni cesti, že čez nekaj minut pa nas markacije pošljejo na ozko stezico, ki se spušča strmo desno navzdol. Po tej stezici se spustimo do naslednje gozdne ceste, nato pa markacije, ki bi nas pripeljale v Gornji Grad, zapustimo in se odpravimo desno po cesti navzdol.
 
 Na naslednjem križišču zavijemo desno do kmetije Kokalj, kjer nas pod hlevom pričaka kolovoz, ki nas bo čez strme travnike popeljal v dolino. Kolovoz se nekajkrat cepi; vedno sledimo širšemu kraku (najprej desno, nato levo) do travnikov nad Rogljem, kjer postane pot tako neopazna, da se je najbolje spustiti naravnost navzdol do kmetije, od koder nas makadamska cesta popelje ob potoku do mostička, ki ga prečkamo, nato pa se po dolini spustimo do parkirišča, kjer smo pustili avto.

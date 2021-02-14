@@ -1,5 +1,5 @@
 ---
-date: '2005-05-29T00:00:00'
+date: 2005-05-29 00:00:00+00:00
 delta: 440
 description: Za ljubitelje rož je obisk doline Zalipnik med Goličem in Kraškim robom
   v maju skorajda obvezen. Ta izlet lahko zaključite z vzponom na Kavčič, zadnji slovenski
@@ -21,7 +21,7 @@ title: Kavčič iz Podgorja
 x: 421
 y: 37
 ---
-{{<figure src="M_5_2520.JPG">}} Za ljubitelje rož je obisk doline Zalipnik med [Goličem](../Golic) in Kraškim robom v maju skorajda obvezen. Do te doline vas pripeljejo precej dolgi krožni izleti na [Golič](../Golic) ali [Lipnik](../Lipnik) (čez Golič naberete skupaj blizu 20 kilometrov), lahko pa se tja podate tudi z gorskim kolesom. V tem primeru vam verjetno ne bo odveč planinski zaključek izleta na Kavčič; zadnji slovenski vrh nad Kraškim robom je kot nalašč za to.
+{{<figure src="M_5_2520.JPG">}} Za ljubitelje rož je obisk doline Zalipnik med [Goličem](../golic) in Kraškim robom v maju skorajda obvezen. Do te doline vas pripeljejo precej dolgi krožni izleti na [Golič](../golic) ali [Lipnik](../lipnik) (čez Golič naberete skupaj blizu 20 kilometrov), lahko pa se tja podate tudi z gorskim kolesom. V tem primeru vam verjetno ne bo odveč planinski zaključek izleta na Kavčič; zadnji slovenski vrh nad Kraškim robom je kot nalašč za to.
 
 ### Osnovni podatki
 
@@ -29,7 +29,7 @@ y: 37
 :   Nemarkirana položna pot
 
 **Dostop**
-:   Z avtomobilom se pripeljete do Podgorja pod[Slavnikom](../Slavnik), nato z gorskim kolesom pod Kavčič, od tam pa je do vrha le še krajši sprehod.
+:   Z avtomobilom se pripeljete do Podgorja pod[Slavnikom](../slavnik), nato z gorskim kolesom pod Kavčič, od tam pa je do vrha le še krajši sprehod.
 
 **Dolžina**
 :   Vožnja z gorskim kolesom: 1 ura\
@@ -56,7 +56,7 @@ y: 37
 Kratek opis poti
 ----------------
 
-Z avtomobilom se pripeljete do Podgorja pod Slavnikom (opis dostopa boste našli v opisu vzpona na Slavnik). Avto pustite na parkirišču in se z gorskim kolesom odpravite proti Kojniku (natančen opis poti je v [opisu izleta na Kojnik](../Kojnik)). Sledite markacijam po široki makadamski cesti, ko pa markacije zapustijo cesto in zavijejo levo na kolovoz, vztrajajte na cesti, ki se začne zlagoma vzpenjati v desno med travniki. Na razcepu cest zavijete levo; sledi daljši vzpon skozi zračen borov gozd do naslednjega razcepa. Leva cesta vodi proti lovski koči (mimo te se spušča pot s Kojnika), vi pa se odpeljete naravnost po kolovozu, ki vas v nekaj minutah pripelje do Zalipnika, kjer se začne botanično uživanje.
+Z avtomobilom se pripeljete do Podgorja pod Slavnikom (opis dostopa boste našli v opisu vzpona na Slavnik). Avto pustite na parkirišču in se z gorskim kolesom odpravite proti Kojniku (natančen opis poti je v [opisu izleta na Kojnik](../kojnik)). Sledite markacijam po široki makadamski cesti, ko pa markacije zapustijo cesto in zavijejo levo na kolovoz, vztrajajte na cesti, ki se začne zlagoma vzpenjati v desno med travniki. Na razcepu cest zavijete levo; sledi daljši vzpon skozi zračen borov gozd do naslednjega razcepa. Leva cesta vodi proti lovski koči (mimo te se spušča pot s Kojnika), vi pa se odpeljete naravnost po kolovozu, ki vas v nekaj minutah pripelje do Zalipnika, kjer se začne botanično uživanje.
 
 {{<figure src="M_5_2521.JPG" caption="Pogled k sosedom: Žbevnica, v ozadju Učka">}}
 

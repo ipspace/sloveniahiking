@@ -1,5 +1,5 @@
 ---
-date: '2003-09-07T00:00:00'
+date: 2003-09-07 00:00:00+00:00
 delta: 450
 description: Razgleden vrh nad dolino Idrijce
 duration: 3
@@ -32,7 +32,7 @@ y: 105
 ---
 {{<figure src="M_8-6846_IMG.JPG">}} 
 
-Sovodenj, kraj ob sotočju Podosojnice in Podjelovščice ob cesti Škofja Loka -- Cerkno, z obeh strani obdajajo strma pobočja -- na severu se dviguje [Ermanovec](../Ermanovec), na jugu pa pogled zapira greben, ki Sovodenj ločuje od doline Idrijce. V tem grebenu boste našli tudi [Mrzli vrh](../MrzliVrh_Ziri), na katerega se lahko povzpnete iz Žirov, tik nad Sovodnjem pa vas čaka najvišji vrh v grebenu -- razgleden in osamljen Bevkov vrh.
+Sovodenj, kraj ob sotočju Podosojnice in Podjelovščice ob cesti Škofja Loka -- Cerkno, z obeh strani obdajajo strma pobočja -- na severu se dviguje [Ermanovec](../ermanovec), na jugu pa pogled zapira greben, ki Sovodenj ločuje od doline Idrijce. V tem grebenu boste našli tudi [Mrzli vrh](../mrzlivrh_ziri), na katerega se lahko povzpnete iz Žirov, tik nad Sovodnjem pa vas čaka najvišji vrh v grebenu -- razgleden in osamljen Bevkov vrh.
 
 Že hoja na Bevkov vrh je posebno doživetje -- po prvih vzponih se znajdete na poteh, ki se med raztresenimi domačijami vijejo po razglednih travnikih, ki vam kar sami prikličejo v spomin podobe iz Bevkovih knjig ali nekaterih slovenskih filmov, pogovor z domačini pa tudi izda, da smo zašli že precej na primorsko stran Slovenije. A vsa ta lepota ni še nič v primerjavi z razgledom s samega vrha -- kot na dlani leži pred vami dolina Idrijce, za njo Idrijsko hribovje okoli Javornika, na severu boste opazili »predalpske trojčke« - Blegoš, Ratitovec in Porezen, levo od Porezna pa celoten greben Spodnjih Bohinjskih gora, ob lepem vremenu pa tudi Krn, Kanin in Matajur.
 
@@ -117,7 +117,7 @@ Nad kozolcem se kolovoz dviguje po robu travnika, dokler se končno ne izgubi na
 
 Na teh travnikih boste opazili, da ste vrh »zgrešili«, saj se zdaj dviga za vami, a nič hudega -- spustite se skoraj do makadamske ceste pod sabo, nato pa zavijte desno po kolovozu, ki se razločno dviguje po travniku. Kolovoz postaja vedno bolj neopazen, vi pa kar vztrajajte s hojo proti poseki v gozdu na koncu travnika. Tik pred poseko zavijete desno ob gozdnem robu in v nekaj trenutkih dosežete vrh.
 
-Po krajšem počitku je čas za razglede -- južno od vas leži Idrija, obdana s strmimi gozdnatimi pobočji, proti severu boste opazili celoten greben Spodnjih Bohinjskih gora, pred katerim se dviga Porezen in tako zakriva Koblo, desno od Porezna se dvigajo strma skalnata pobočja Ratitovca, bolj proti levi pa boste hitro opazili piramidasti vrh [Vogla](../Vogel) ter sedlo Globoko in Škrbino. Ob odličnem vremenu bo pogled segel še nekoliko dlje -- levo od Škrbine se dviga Krn, za njim boste opazili Kaninsko skupino, nekoliko bolj proti jugu pa Bovški Stol in travnike okoli vrha Matajurja.
+Po krajšem počitku je čas za razglede -- južno od vas leži Idrija, obdana s strmimi gozdnatimi pobočji, proti severu boste opazili celoten greben Spodnjih Bohinjskih gora, pred katerim se dviga Porezen in tako zakriva Koblo, desno od Porezna se dvigajo strma skalnata pobočja Ratitovca, bolj proti levi pa boste hitro opazili piramidasti vrh [Vogla](../vogel) ter sedlo Globoko in Škrbino. Ob odličnem vremenu bo pogled segel še nekoliko dlje -- levo od Škrbine se dviga Krn, za njim boste opazili Kaninsko skupino, nekoliko bolj proti jugu pa Bovški Stol in travnike okoli vrha Matajurja.
 
 {{<gallery>}}
 {{<figure src="M_8-6875_IMG.JPG" caption="Porezen">}}
@@ -127,4 +127,4 @@ Po krajšem počitku je čas za razglede -- južno od vas leži Idrija, obdana s
 Če ste na Sovodenj prišli z avtomobilom, se boste prisiljeni vrniti po poti, po kateri ste se vzpeli, drugače pa vam množica poti, ki vodijo na Bevkov vrh, nudi več možnosti:
 
 -   Po makadamski cesti mimo kmetije Slabe se lahko sprehodite do Kladja ali pa se po precej daljši poti spustite do Straže v dolini Idrijce.
--   Vrnete se do razcepa makadamskih cest pod kmetijo Pleč in zavijete proti jugu. Ta cesta vas pripelje nad zaselek Jazne, skozi katerega se lahko spustite v dolino Idrijce ali pa nadaljujete pot proti [Mrzlemu vrhu](../MrzliVrh_Ziri), s katerega se spustite v Žiri.
+-   Vrnete se do razcepa makadamskih cest pod kmetijo Pleč in zavijete proti jugu. Ta cesta vas pripelje nad zaselek Jazne, skozi katerega se lahko spustite v dolino Idrijce ali pa nadaljujete pot proti [Mrzlemu vrhu](../mrzlivrh_ziri), s katerega se spustite v Žiri.

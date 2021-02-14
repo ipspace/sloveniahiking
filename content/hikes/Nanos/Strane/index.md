@@ -1,13 +1,13 @@
 ---
-date: '2004-02-29T00:00:00'
+date: 2004-02-29 00:00:00+00:00
 delta: 610
 description: Na Nanos se lahko odpravimo tudi Iz Stran, majhne vasice na obronkih
   Postojnske kotline
 duration: 4
 height: 1262
 lead: M_5_0528.JPG
-multilead: M_5_0528.JPG
 map: 1
+multilead: M_5_0528.JPG
 multipath: true
 name: Nanos/Strane
 title: Nanos iz Stran
@@ -70,7 +70,7 @@ Med prijetno hojo po gozdu se bomo sprehodili mimo več poti, ki peljejo na Suhi
 {{<figure src="M_5_0534.JPG">}}
 {{</gallery>}}
 
-Po počitku pri koči se morate vsekakor sprehoditi do razglednika desno od televizijskega oddajnika (tam vas čaka pogled na Vipavsko dolino in Julijske Alpe) in na vrh Pleše, ki se skriva levo za kočo. Na vrh Pleše vas opozori tabla »razgledna točka«, ki se sramežljivo skriva za kočo, po krajšem vzponu skozi gozd (pot ni markirana) pa boste prišli do vrha, od koder se odpre pogled na [Polhograjsko hribovje](../PolhograjskaGrmada), Kamniške Alpe, [Slivnico](../Slivnica), [Javornike](../Javorniki), [Snežnik](../Sneznik), [Vremščico](../Vremscica) in [Slavnik](../Slavnik). Z vrha Pleše se naravnost skozi gozd spustimo do markirane poti, po kateri smo se povzpeli, in se po njej vrnemo v Strane.
+Po počitku pri koči se morate vsekakor sprehoditi do razglednika desno od televizijskega oddajnika (tam vas čaka pogled na Vipavsko dolino in Julijske Alpe) in na vrh Pleše, ki se skriva levo za kočo. Na vrh Pleše vas opozori tabla »razgledna točka«, ki se sramežljivo skriva za kočo, po krajšem vzponu skozi gozd (pot ni markirana) pa boste prišli do vrha, od koder se odpre pogled na [Polhograjsko hribovje](../polhograjskagrmada), Kamniške Alpe, [Slivnico](../slivnica), [Javornike](../javorniki), [Snežnik](../sneznik), [Vremščico](../vremscica) in [Slavnik](../slavnik). Z vrha Pleše se naravnost skozi gozd spustimo do markirane poti, po kateri smo se povzpeli, in se po njej vrnemo v Strane.
 
 Kje je že sv. Bric?
 -------------------

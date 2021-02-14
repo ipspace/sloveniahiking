@@ -63,7 +63,7 @@ Vzpon iz Stare Fužine
 
 Vzpon na Vogar začnete na lepo urejenem parkirišču na robu Stare Fužine (opis poti do parkirišča boste našli v opisu izleta na Krstenico). S parkirišča se odpravite po desni potki. Ta v začetku vodi po travniku, nato pa hitro zavije v gozd, kjer lahko že slišite šumenje Mostnice, ki se pretaka skozi korita globoko pod vami. Steza se sprva rahlo spušča in vas kmalu pripelje do gozdne ceste in Hudičevega mostu, s katerega se odpre res lep pogled na korita Mostnice.
 
-Pot nadaljujete po gozdni cesti levo od mostu. V desno se kmalu odcepi nekaj stezic, ki vodijo proti Mostnici, vi pa vztrajate na makadamski cesti, ki vas kmalu pripelje na travnike pod Vogarjem, s katerih boste lahko v lepem vremenu občudovali pobočja [Tosca](../ToscBohinj) nad dolino Voj. Med travniki se sprehodite do asfaltne ceste, zavijete desno, nato pa kmalu pri znamenju levo na ozko stezo, ki vodi proti gozdu.
+Pot nadaljujete po gozdni cesti levo od mostu. V desno se kmalu odcepi nekaj stezic, ki vodijo proti Mostnici, vi pa vztrajate na makadamski cesti, ki vas kmalu pripelje na travnike pod Vogarjem, s katerih boste lahko v lepem vremenu občudovali pobočja [Tosca](../toscbohinj) nad dolino Voj. Med travniki se sprehodite do asfaltne ceste, zavijete desno, nato pa kmalu pri znamenju levo na ozko stezo, ki vodi proti gozdu.
 
 {{<figure src="M_9_1916.JPG">}} {{<figure src="M_9_1917.JPG" caption="Planina Spodnji Vogar">}}
 

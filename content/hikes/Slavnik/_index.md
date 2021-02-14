@@ -15,7 +15,7 @@ y: 43
 ---
 {{<figure src="M_5-3555_IMG.JPG">}}
 
-Slavnik je najbolj obiskan vrh Slavniškega pogorja -- zadnjega grebena pred Kraškim robom in slovensko Istro -- in eden zadnjih tisočakov pred slovenskim morjem s čudovitim razgledom na Piranski in Tržaški zaliv, Istro ter na okoliške vrhove -- [Vremščico](../Vremscica), [Nanos](../Nanos) s Trnovskim gozdom in [Snežnik](../Sneznik). Ni čudno, da je priljubljen cilj primorskih izletnikov.
+Slavnik je najbolj obiskan vrh Slavniškega pogorja -- zadnjega grebena pred Kraškim robom in slovensko Istro -- in eden zadnjih tisočakov pred slovenskim morjem s čudovitim razgledom na Piranski in Tržaški zaliv, Istro ter na okoliške vrhove -- [Vremščico](../vremscica), [Nanos](../nanos) s Trnovskim gozdom in [Snežnik](../sneznik). Ni čudno, da je priljubljen cilj primorskih izletnikov.
 
 Na Slavnik vodi množica markiranih poti -- iz Hrpelj pelje pot po grebenu, s Podgorskega krasa (jugozahodno od Slavnika) vodijo nanj Slovenska planinska pot (SPP) iz Prešnice ter dve poti iz Podgorja, iz Matarskega podolja (severovzhodno od Slavnika) pa poti iz Bača pri Materiji, Markovščine in Skadanščine. Pot čez Skadanščino si lahko še dodatno podaljšamo z ovinkom mimo Malih vrat.
 

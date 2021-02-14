@@ -58,7 +58,7 @@ Vzpon iz Zakobiljeka
 
 Izlet začnete v Zakobiljeku, zaselku nad Poljanami. Do Poljan se pripeljete po glavni cesti Škofja Loka--Cerkno (ali Žiri), s katere zavijete v središče Poljan. Skoznje se odpeljete naravnost (smer Volča), v Volči se držite desne ceste, za prvimi hišami pa zavijete levo v hrib (poleg oznak za Lom in Zakobiljek boste opazili tudi kažipot proti vrtnarstvu Stanonik). Ozka cesta se hitro vzpne po pobočju, kmalu postane precej položna in vas skozi gozd odpelje proti izhodišču izleta. Prvi odcep v levo vodi na Lom, približno štiristo metrov za tem pa se gozd konča in pred vami se odpre prvi pogled na travnike okoli Zakobiljeka.
 
-Pot do Poljan je opisana tudi v izletu na [Bukov vrh](../BukovVrh).
+Pot do Poljan je opisana tudi v izletu na [Bukov vrh](../bukovvrh).
 
 Parkirate lahko pri kapelici na začetku zaselka, nato pa se odpravite naravnost naprej po asfaltni cesti proti rumeni hiši, ki jo vidite nad seboj. Cesta vodi levo od hiše, mimo stare kmetije, takoj nato pa zavijete levo na kolovoz, ki prečka travnik in vas pripelje do vodnega zbiralnika na robu gozda. Med vzponom po travniku boste lahko uživali v pogledih na vrhove Polhograjskega hribovja, ki se dvigajo onstran Poljanske Sore, proti vzhodu pa se že vidijo Javorje in Stari vrh za njimi.
 

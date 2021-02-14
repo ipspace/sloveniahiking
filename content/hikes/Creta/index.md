@@ -1,5 +1,5 @@
 ---
-date: '2004-02-08T00:00:00'
+date: 2004-02-08 00:00:00+00:00
 delta: 600
 description: Čreta pri Kokarjah je vrh v grebenu, ki povezuje Dobroveljsko planoto  z
   Menino planino in tako ločuje Vransko od Zgornje Savinjske doline.
@@ -99,7 +99,7 @@ Ropasijske blodnje
 
 {{<figure src="M_5_0578.JPG" caption="Razgled s ceste pod Petelinjekom">}}
 
-Odločil sem se, da bom vzpon na Čreto združil z obiskom [sv. Jošta](../svJost) (ki se mi je izmuznil med enim od prejšnih izletov), a očitno me sv. Jošt še vedno ni bil pripravljen sprejeti \... spust v dolino se je začel obetavno, markacije so me vodile navzdol po makadamski poti mimo sv. Katarine do asfaltne ceste, ki se začne zlagoma spuščati v dolino. Po slabih 400 metrih bi bil moral opaziti markiran kolovoz (po njem teče evropska pešpot E6), ki se odcepi v desno, pa sem ga uspešno spregledal, kar me je sicer pripeljalo do enkratnih razgledov na ostrem ovinku južno od Petelinjeka (za Celjsko kotlino, ki leži nekaj sto metrov niže, se vidi celoten greben Posavskega hribovja), žal pa sem med spustom izgubil precej višine in se zato odločil, da se bom raje vrnil na Vransko.
+Odločil sem se, da bom vzpon na Čreto združil z obiskom [sv. Jošta](../svjost) (ki se mi je izmuznil med enim od prejšnih izletov), a očitno me sv. Jošt še vedno ni bil pripravljen sprejeti \... spust v dolino se je začel obetavno, markacije so me vodile navzdol po makadamski poti mimo sv. Katarine do asfaltne ceste, ki se začne zlagoma spuščati v dolino. Po slabih 400 metrih bi bil moral opaziti markiran kolovoz (po njem teče evropska pešpot E6), ki se odcepi v desno, pa sem ga uspešno spregledal, kar me je sicer pripeljalo do enkratnih razgledov na ostrem ovinku južno od Petelinjeka (za Celjsko kotlino, ki leži nekaj sto metrov niže, se vidi celoten greben Posavskega hribovja), žal pa sem med spustom izgubil precej višine in se zato odločil, da se bom raje vrnil na Vransko.
 
 Sodeč po zemljevidu je naloga precej preprosta-- skozi Ropasijo se sprehodiš do prvega odcepa, kjer zaviješ desno proti kmetiji Mlačnik, nato pa pred kmetijo levo navzdol po kolovozu naravnost do Tešove. Mačji kašelj \... le da namesto kolovoza naletiš na pajkovo mrežo širših in ožjih poti in stezic (očitnega kolovoza pa nikjer), kjer moraš pazljivo izbirati smer -- če zaviješ preveč v levo, te poti pripeljejo do kmetije Krničnik (in spet te čaka hoja po asfaltu), če zaviješ preveč v desno, boš končal na Španovem griču. Meni je nekako uspelo slediti črti, zarisani na zemljevidu, ob upoštevanju tega recepta:
 

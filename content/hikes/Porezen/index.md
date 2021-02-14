@@ -31,7 +31,7 @@ title: Porezen iz Jesenice
 x: 421
 y: 115
 ---
-{{<figure src="M_1-6154_IMG.JPG">}} Porezen je najvišji vrh Cerkljanskega hribovja in eden od treh najvišjih vrhov južnega predgorja Julijskih Alp (druga dva sta Ratitovec in [Blegoš](../Blegos)), s čudovitim razgledom na Cerkljansko hribovje, Bohinjske gore in Julijske Alpe. Na Porezen vodi množica poti -- iz cerkljanske smeri se lahko nanj povzpnemo iz Poč ali Poljan, iz Baške grape vodita poti iz Hude Južne in skozi Zakojco, s severne strani se lahko na nanj povzpnemo iz Petrovega Brda, z vzhodne strani pa vodita poti iz Davč in Novakov.
+{{<figure src="M_1-6154_IMG.JPG">}} Porezen je najvišji vrh Cerkljanskega hribovja in eden od treh najvišjih vrhov južnega predgorja Julijskih Alp (druga dva sta Ratitovec in [Blegoš](../blegos)), s čudovitim razgledom na Cerkljansko hribovje, Bohinjske gore in Julijske Alpe. Na Porezen vodi množica poti -- iz cerkljanske smeri se lahko nanj povzpnemo iz Poč ali Poljan, iz Baške grape vodita poti iz Hude Južne in skozi Zakojco, s severne strani se lahko na nanj povzpnemo iz Petrovega Brda, z vzhodne strani pa vodita poti iz Davč in Novakov.
 
 Večina teh poti je prav nesramno strmih, marsikatera od njih je poleg tega še precej varljiva -- ko misliš, da si tik pod vrhom, se za ovinkom odpre razgled na vrh daleč nad teboj. Tako ni čudno, da so bili komentarji, ki sem jih slišal od vsakega, ki se je že kdaj odpravil na Porezen, med seboj zelo podobni -- vsi so omenjali strme poti, na katerih zgrizeš lastna kolena.
 
@@ -74,7 +74,7 @@ Iz Jesenice do planine Otavnik
 
 Na Porezen se bomo odpravili iz središča Jesenice, vasice nad Cerknim (dostop do Jesenice je opisan v opisu izleta na Kojco). Avto lahko pustimo pri spomeniku sredi vasi ali pa se odpeljemo vse do prevala Vrh Ravni, kjer boste prav tako našli dovolj prostora za parkiranje (in si prihranili slabo uro hoje ter 130 metrov višinske razlike).
 
-Če ste se odločili za daljši vzpon, vas bodo sredi vasi pričakale markacije, ki vas bodo usmerjale po strmi asfaltni cesti skozi vas proti prevalu. Tu in tam so v vasi markacije nekoliko redkeje posejane, a nič hudega -- ves čas se morate vzpenjati malce desno od [Kojce](../Kojca) (hriba, ki ga imate tik pred seboj). Proti koncu vasi se asfaltna cesta spremeni v makadam, ki pri zadnjih hišah postane kolovoz in vas v nekaj minutah pripelje do prevala Vrh Ravni.
+Če ste se odločili za daljši vzpon, vas bodo sredi vasi pričakale markacije, ki vas bodo usmerjale po strmi asfaltni cesti skozi vas proti prevalu. Tu in tam so v vasi markacije nekoliko redkeje posejane, a nič hudega -- ves čas se morate vzpenjati malce desno od [Kojce](../kojca) (hriba, ki ga imate tik pred seboj). Proti koncu vasi se asfaltna cesta spremeni v makadam, ki pri zadnjih hišah postane kolovoz in vas v nekaj minutah pripelje do prevala Vrh Ravni.
 
 Na prevalu vas že čaka kažipot na Porezen in planino Otavnik, ki vas napoti na desni kolovoz. S kolovoza, ki se večinoma položno vzpenja, se tu in tam odcepi stranska pot. Na večini odcepov so markacije dovolj vidne, da ni nikakršnega dvoma, katero pot izbrati, nikoli pa se ne boste zmotili, če se boste odpravili navzgor po širšem (bolje uhojenem) kolovozu.
 

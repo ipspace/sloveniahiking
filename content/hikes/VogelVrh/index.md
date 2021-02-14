@@ -12,7 +12,7 @@ title: Vogel
 x: 409
 y: 122
 ---
-Vogel je zagotovo najbolj znan vrh Spodnjih Bohinjskih gora, a ne zaradi svojega razgleda (ki je podoben razgledu z ostalih vrhov istega grebena) ali lepe piramidaste oblike temveč zaradi smučarskega središča, ki mu je posodil tudi svoje ime. Smučarsko središče (bolj natančno, gondola z Bohinjskega jezera) je krivo tudi za poletno gnečo, saj postane markirana steza od zgornje postaje gondole do Šije in Vogla prava romarska pot. Da se bomo izognili poletni gneči ali pa uživali v jesenskih sončnih žarkih, se bomo na Vogel povzpeli preko njegovega jugo-zahodnega pobočja s [planine Razor](PlaninaRazor.html).
+Vogel je zagotovo najbolj znan vrh Spodnjih Bohinjskih gora, a ne zaradi svojega razgleda (ki je podoben razgledu z ostalih vrhov istega grebena) ali lepe piramidaste oblike temveč zaradi smučarskega središča, ki mu je posodil tudi svoje ime. Smučarsko središče (bolj natančno, gondola z Bohinjskega jezera) je krivo tudi za poletno gnečo, saj postane markirana steza od zgornje postaje gondole do Šije in Vogla prava romarska pot. Da se bomo izognili poletni gneči ali pa uživali v jesenskih sončnih žarkih, se bomo na Vogel povzpeli preko njegovega jugo-zahodnega pobočja s [planine Razor](planinarazor.html).
 
 {{<figure src="M_8-6819_IMG.jpg" caption="Severna pobočja Vogla">}}
 
@@ -22,13 +22,13 @@ Vogel je zagotovo najbolj znan vrh Spodnjih Bohinjskih gora, a ne zaradi svojega
 :   Odlično označena, le mestoma strma pot.
 
 **Dostop**
-:   Vzpon na Vogel bomo začeli na[planini Razor](PlaninaRazor.html), do katere vodijo poti iz Tolminskih Raven ali planin Lom in Kuk.
+:   Vzpon na Vogel bomo začeli na[planini Razor](planinarazor.html), do katere vodijo poti iz Tolminskih Raven ali planin Lom in Kuk.
 
 **Dolžina**
 :   Planina Razor -- Vogel: 2 uri\
     Vrnitev: 1 ura 30 minut\
     Skupaj: 4 ure\
-    [Tolminske Ravne -- planina Razor](PlaninaRazor.html)-- Vogel in povratek: 6-7 ur
+    [Tolminske Ravne -- planina Razor](planinarazor.html)-- Vogel in povratek: 6-7 ur
 
 **Višina**
 :   1922 m
@@ -71,11 +71,11 @@ Nad prevalom postane pot spet bolj položna in se vije najprej preko travnatega 
 Vrnitev
 -------
 
-Z vrha Vogla se lahko na planino Razor vrnemo po poti, po kateri smo se povzpeli (če ste utrujeni, se raje odločite za to pot), lahko pa naredimo krajši krog preko prevala Globoko. Pot proti prevalu Globoko se z vrha spusti po zahodnem grebenu (smer [Črna prst](../CrnaPrst)) in na prvem sedlu med Voglom in Vrhom Krnic zapusti greben ter se spusti približno 100 metrov nižje na bohinjsko stran.
+Z vrha Vogla se lahko na planino Razor vrnemo po poti, po kateri smo se povzpeli (če ste utrujeni, se raje odločite za to pot), lahko pa naredimo krajši krog preko prevala Globoko. Pot proti prevalu Globoko se z vrha spusti po zahodnem grebenu (smer [Črna prst](../crnaprst)) in na prvem sedlu med Voglom in Vrhom Krnic zapusti greben ter se spusti približno 100 metrov nižje na bohinjsko stran.
 
 {{<figure src="M_1-7126_IMG.JPG" caption="Po grebenu proti sedlu Globoko -- nižje na pobočju se vidi markirana pot">}}
 
-Če niste izkušeni planinci ali pa če vam vreme le malce nagaja, vam predlagam, da se držite markirane poti, ki vas bo po krajšem spustu povedla pod pobočji Vrha Krnic do prevala Globoko, kjer zavijete levo (nazaj proti [planini Razor](../PlaninaRazor)). Tisti nekoliko bolj »odštekani« se lahko odločite za mnogo bolj zanimivo in zelo razgledno pot, ki vodi prav po grebenu skoraj do prevala Globoko. Na prvem sedlu med Voglom in Vrhom Krnic nadaljujete s hojo po dobro vidni stezici, ki se najprej vzpne na Vrh Krnic, nato pa se začne zlagoma spuščati. Za naslednjim vrhom vas čaka nekaj metrov lahkega plezanja, nato pa se stezica prevesi na primorsko stran ter nas v strmem spustu pripelje do naslednjega sedla.
+Če niste izkušeni planinci ali pa če vam vreme le malce nagaja, vam predlagam, da se držite markirane poti, ki vas bo po krajšem spustu povedla pod pobočji Vrha Krnic do prevala Globoko, kjer zavijete levo (nazaj proti [planini Razor](../planinarazor)). Tisti nekoliko bolj »odštekani« se lahko odločite za mnogo bolj zanimivo in zelo razgledno pot, ki vodi prav po grebenu skoraj do prevala Globoko. Na prvem sedlu med Voglom in Vrhom Krnic nadaljujete s hojo po dobro vidni stezici, ki se najprej vzpne na Vrh Krnic, nato pa se začne zlagoma spuščati. Za naslednjim vrhom vas čaka nekaj metrov lahkega plezanja, nato pa se stezica prevesi na primorsko stran ter nas v strmem spustu pripelje do naslednjega sedla.
 
 {{<figure src="M_1-7130_IMG.JPG" caption="Spust preko melišča">}}
 

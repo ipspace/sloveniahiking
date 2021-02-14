@@ -1,5 +1,5 @@
 ---
-date: '2003-10-05T00:00:00'
+date: 2003-10-05 00:00:00+00:00
 delta: 630
 description: Najenostavnejši vzpon na Raduho teče po markiranih poteh s planine Loka.
   Po dobro vzdrževanih gozdnih cestah se lahko dvignemo precej visoko, skoraj do koče
@@ -7,8 +7,8 @@ description: Najenostavnejši vzpon na Raduho teče po markiranih poteh s planin
   iglastem gozdu in visokogorskih travnikih.
 duration: 3.5
 height: 2062
-map: 1
 lead: M_1-7157_IMG.JPG
+map: 1
 multilead: M_1-7157_IMG.JPG
 multipath: true
 name: Raduha/Loka
@@ -54,7 +54,7 @@ Planina Loka
 
 Vzpon proti Raduhi (če smo bolj natančni, proti Veliki Raduhi, vzhodno od nje leži namreč še 30 metrov nižja Mala Raduha) bomo začeli pod planino Loka, na kateri leži tudi planinska koča. Do planine vas bo pripeljala gozdna cesta iz Struge, zaselka v zgornji Savinjski dolini.
 
-Do Struge se boste najenostavneje pripeljali po cesti, ki od odcepa Šentrupert na avtocesti Ljubljana -- Maribor vodi proti Logarski dolini (glej tudi [opis izleta na Okrešelj](../../Okreselj)). Tisti, ki prihajate iz zahodne Slovenije in se raje vozite po ožjih, a bolj slikovitih cestah, se lahko odločite za pot preko Gornjega Grada (ali pa za še bolj avanturistično cesto preko Kranjskega Raka). V obeh primerih boste nekaj kilometrov pred krajem Luče v Strugi opazili kažipot proti Snežni jami pod Raduho. Sledite kažipotu po ozki asfaltni cesti, ki v začetku sledi potoku Dupljenik, nato pa se po prvem vzponu razcepi. Na razcepu zavijete desno (smer Raduha / Snežna jama) na gozdno cesto, ki vas po 11 kilometrih pripelje do parkirišča pod planino Loka. S parkirišča do koče na Loki vas čaka približno 15 minut vzpona po prijetnem kolovozu med sončnimi travniki na planini.
+Do Struge se boste najenostavneje pripeljali po cesti, ki od odcepa Šentrupert na avtocesti Ljubljana -- Maribor vodi proti Logarski dolini (glej tudi [opis izleta na Okrešelj](../../okreselj)). Tisti, ki prihajate iz zahodne Slovenije in se raje vozite po ožjih, a bolj slikovitih cestah, se lahko odločite za pot preko Gornjega Grada (ali pa za še bolj avanturistično cesto preko Kranjskega Raka). V obeh primerih boste nekaj kilometrov pred krajem Luče v Strugi opazili kažipot proti Snežni jami pod Raduho. Sledite kažipotu po ozki asfaltni cesti, ki v začetku sledi potoku Dupljenik, nato pa se po prvem vzponu razcepi. Na razcepu zavijete desno (smer Raduha / Snežna jama) na gozdno cesto, ki vas po 11 kilometrih pripelje do parkirišča pod planino Loka. S parkirišča do koče na Loki vas čaka približno 15 minut vzpona po prijetnem kolovozu med sončnimi travniki na planini.
 
 {{<gallery>}}
 {{<figure src="M_1-7191_img.jpg" caption="Kapelica na planini Loka">}} {{<figure src="M_1-7140_IMG.JPG" caption="Planinska koča">}}

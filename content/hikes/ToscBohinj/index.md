@@ -1,5 +1,5 @@
 ---
-date: '2004-08-08T00:00:00'
+date: 2004-08-08 00:00:00+00:00
 delta: 1000
 description: Tosc je zelo privlačen cilj za planince, ki iščejo predvsem samoto, mir
   in naravne lepote.
@@ -68,7 +68,7 @@ Severno od Bohinjskega jezera se nad zatrepom doline Voje dvigujejo strma poboč
 Z Rudnega polja proti Vodnikovemu domu
 --------------------------------------
 
-Vzpon na Tosc začnete pri vojašnici na Rudnem polju, do katere vodi asfaltna cesta čez Pokljuko (glejte tudi vzpon na [Viševnik](../Visevnik) in opis poti na Pokljuko). Za vojašnico, ob kateri je obsežno parkirišče, vas kažipot proti Triglavu usmeri na gozdno cesto, ki kmalu pripelje do smučišča. Tisti, ki se vam mudi, lahko hitro zavijete levo na markirano stezo, ki se vzpenja po gozdnem pobočju, drugi pa lahko nadaljujete hojo po makadamu do razcepa, na katerem zavijete levo in se po nekaj minutah zložne hoje spet srečate z markacijami.
+Vzpon na Tosc začnete pri vojašnici na Rudnem polju, do katere vodi asfaltna cesta čez Pokljuko (glejte tudi vzpon na [Viševnik](../visevnik) in opis poti na Pokljuko). Za vojašnico, ob kateri je obsežno parkirišče, vas kažipot proti Triglavu usmeri na gozdno cesto, ki kmalu pripelje do smučišča. Tisti, ki se vam mudi, lahko hitro zavijete levo na markirano stezo, ki se vzpenja po gozdnem pobočju, drugi pa lahko nadaljujete hojo po makadamu do razcepa, na katerem zavijete levo in se po nekaj minutah zložne hoje spet srečate z markacijami.
 
 Najbolj vztrajni se s svojim jeklenim prijateljem pripeljejo do mesta, kjer markirana pot dokončno zapusti gozdno cesto. Tam je tudi manjše parkirišče.
 
@@ -81,7 +81,7 @@ Strma pobočja Sivih polic {{<figure src="M_6_1686.JPG">}}\
 Jezerce {{<figure src="M_7_1753.JPG" caption="Jezerce s Studorskega prevala, levo Mali Draški vrh, desno Viševnik">}} {{<figure src="M_6_1687.JPG">}}\
 Vzpon na Studorski preval
 
-Naslednjih nekaj minut lahko med zložnim sprehodom visoko nad Konjščico uživate v razgledih (čez dolino Save Bohinjke se vidi tudi greben Spodnjih Bohinjskih gora), nato pa steza spet zavije strmo navzgor, tik pod Sive police (če bi bile laže dostopne, bi bile zagotovo raj za športne plezalce), pa spet malce v levo proti Ablanci (ali Špiku), komajda dvatisočaku (visok je le 2004 metre), ki ga vidite naravnost pred seboj. Čaka vas še kratek, nekoliko bolj strm vzpon in že se znajdete na eni od najlepših točk izleta -- krnici Jezerce (tudi Na jezercu), ki jo z vseh strani obdajajo strma pobočja Ablance, Velikega in Malega Draškega vrha in [Viševnika](../Visevnik).
+Naslednjih nekaj minut lahko med zložnim sprehodom visoko nad Konjščico uživate v razgledih (čez dolino Save Bohinjke se vidi tudi greben Spodnjih Bohinjskih gora), nato pa steza spet zavije strmo navzgor, tik pod Sive police (če bi bile laže dostopne, bi bile zagotovo raj za športne plezalce), pa spet malce v levo proti Ablanci (ali Špiku), komajda dvatisočaku (visok je le 2004 metre), ki ga vidite naravnost pred seboj. Čaka vas še kratek, nekoliko bolj strm vzpon in že se znajdete na eni od najlepših točk izleta -- krnici Jezerce (tudi Na jezercu), ki jo z vseh strani obdajajo strma pobočja Ablance, Velikega in Malega Draškega vrha in [Viševnika](../visevnik).
 
 {{<figure src="M_6_1693.JPG" caption="Pobočja Tosca">}} {{<figure src="M_6_1696.JPG" caption="Spodnje Bohinjske gore">}}
 
@@ -102,11 +102,11 @@ Tik pred grapo zavije steza v levo in poišče prehod med skalami (tudi tu je za
 Vrh Tosca, v ozadju Triglav {{<figure src="M_7_1729.JPG">}}\
 Pogled na zahod: levo Debeli vrh, v sredini Mišelj vrh {{<figure src="M_7_1731.JPG">}}\
 Spodnje Bohinjske gore, pod njimi planota pod vrhom Tosca {{<figure src="M_7_1720.JPG">}}\
-Pogled na [Viševnik](../Visevnik), levo pred njim Ablanca
+Pogled na [Viševnik](../visevnik), levo pred njim Ablanca
 
 V zadnjem delu vzpona že lahko začnete občudovati poglede na Triglav in vrhove zahodno od njega, na vrhu pa se odpre čudovit razgled -- na zahodu na sosednje dvatisočake, med katerimi izstopa Debeli vrh s svojo značilno opečnato skalo, severno od vas se dvigujeta Triglav in Rjavina, vzhodno leži greben, ki ločuje Krmo od Pokljuke, za njim pa boste opazili večino vrhov Karavank in Kamniških Alp. Proti jugu se med mogočnimi pokljuškimi gozdovi bleščijo bohinjske planine, za njimi pa se za Bohinjskim jezerom (vidite le njegov vzhodni del) dviguje greben Spodnjih Bohinjskih gora.
 
 S Tosca se do markirane poti spustite po stezici, po kateri ste se povzpeli (pazite, da ne boste zgrešili prehoda čez skale), do Rudnega polja pa se lahko odpravite po poti, po kateri ste prišli, ali pa se odločite za malce daljšo krožno pot:
 
--   Na Studorskem prevalu zavijete levo (smer [Lipanca](../Lipanca)), se povzpnete pod Mali Draški vrh in spustite na Srenjski preval.
+-   Na Studorskem prevalu zavijete levo (smer [Lipanca](../lipanca)), se povzpnete pod Mali Draški vrh in spustite na Srenjski preval.
 -   S Srenjskega prevala se lahko spustite v dolino pod Viševnikom in nato mimo Malega Selišnika čez Kačji rob v dolino ali pa se povzpnete še na Viševnik, od koder se mimo Plesišča spustite na Rudno polje.

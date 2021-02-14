@@ -71,7 +71,7 @@ Do planine Blato, kjer bomo začeli naš izlet, pelje dobro vzdrževana makadams
 
 Cesta proti planini Blato se začne v centru Stare Fužine, prijetnega kraja ob Bohinjskem jezeru. Če ste se do Bohinjskega jezera pripeljali po »klasični« poti, zavijte pri cerkvici sv. Janeza desno proti Stari Fužini, sledite glavni cesti do trgovin v centru Stare Fužine, kjer glavna cesta zavije desno preko zanimivega lesenega mostu, vi pa zavijte levo navzgor na ozko cesto, ki se dviguje med hišami (pozor: na istem križišču vodi še ena cesta naravnost naprej ob potoku).
 
-Cesta se hitro dviguje med zanimivi hišami v vasi, na koncu vasi pa se od nje v levo odcepi ožja cesta (ne morete je zgrešiti -- vsi ostali »sumljivi« odcepi so označeni z znaki za prepoved vožnje), na kateri vas po nekaj sto metrih čaka plačilo cestnine in parkirišče za tiste, ki se bodo na [Vogar](../Vogar), Voje ali [Uskovnico](../Uskovnica) odpravili peš.
+Cesta se hitro dviguje med zanimivi hišami v vasi, na koncu vasi pa se od nje v levo odcepi ožja cesta (ne morete je zgrešiti -- vsi ostali »sumljivi« odcepi so označeni z znaki za prepoved vožnje), na kateri vas po nekaj sto metrih čaka plačilo cestnine in parkirišče za tiste, ki se bodo na [Vogar](../vogar), Voje ali [Uskovnico](../uskovnica) odpravili peš.
 
 Precej hiter vzpon po asfaltirani cesti se nadaljuje do odcepa pešpoti za Vogar, kjer postane cesta bolj položna in se spremeni v makadam, ki vas bo (razen krajših asfaltiranih odsekov) spremljal vse do planine Blato. Na poti vas čakata dva razcepa -- najprej se desno odcepi cesta proti Vojam, nato pa se po vzponu skozi dolino Suhe in ob strmih pobočjih Oplankarice v levo odcepi cesta proti Vogarju. Oba razcepa sta dobro označena, od zadnjega razcepa pa vas do parkirišča pred planino Blato loči še približno 600 metrov vožnje.
 
@@ -113,7 +113,7 @@ Od lovske koče vas do stanov na Krstenici loči le še dobre četrt ure hoje --
 
 Do Krstenice se lahko povzpnete po kolovozu, lahko pa vztrajate na pešpoti, ki zavije nekoliko v levo in se skozi zadnji gozdiček povzpne na razgledne travnike. Pred seboj boste zagledali lepo urejene stanove, nad katerimi se dviga kopasti vrh Malega Stoga (stog je senena kopica, na katero so planšarje očitno spominjali okoliški vrhovi), za vami pa se odpira razgled na okoliške hribe in dvatisočake v ozadju.
 
-Po krajšem počitku na planini se lahko vrnete v dolino, lahko pa se odločite tudi za nadaljevanje poti -- s planine Krstenice se lahko odpravite do planine v Lazu, od koder se po markirani poti vrnete na Blato, lahko pa se odločite za izlet do drobne planine Jezerce ali pa za vzpon na [Jezerski Stog](../JezerskiStog).
+Po krajšem počitku na planini se lahko vrnete v dolino, lahko pa se odločite tudi za nadaljevanje poti -- s planine Krstenice se lahko odpravite do planine v Lazu, od koder se po markirani poti vrnete na Blato, lahko pa se odločite za izlet do drobne planine Jezerce ali pa za vzpon na [Jezerski Stog](../jezerskistog).
 
 {{<figure src="Krstenica.jpg" caption="Del razgleda s Krstenice" caption-position="bottom">}}
 

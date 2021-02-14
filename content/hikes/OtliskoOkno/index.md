@@ -1,5 +1,5 @@
 ---
-date: '2003-09-14T00:00:00'
+date: 2003-09-14 00:00:00+00:00
 delta: 600
 description: Vzpon iz Vipavske doline do naravne znamenitosti na robu Vipavske Gore.
 dirty: true
@@ -29,7 +29,7 @@ title: Otliško okno
 x: 416
 y: 86
 ---
-{{<figure src="M_9-6987_IMG.JPG">}} Severno nad Vipavsko dolino se dvigujejo strma apnenčasta pobočja -- na vzhodu Nanos, od Cola do Predmeje sega Gora, zahodno od Predmeje pa se razteza [Čaven](../Kucelj), ki se proti severu nadaljuje v obširni Trnovski gozd. Na teh pobočjih boste hitro opazili vrsto zanimivih kraških pojavov, od vrtač in škrapelj do manjših kraških jam, tik pod vrhom pa je narava izoblikovala več naravnih oken, od katerih je najbolj znano Otliško okno.
+{{<figure src="M_9-6987_IMG.JPG">}} Severno nad Vipavsko dolino se dvigujejo strma apnenčasta pobočja -- na vzhodu Nanos, od Cola do Predmeje sega Gora, zahodno od Predmeje pa se razteza [Čaven](../kucelj), ki se proti severu nadaljuje v obširni Trnovski gozd. Na teh pobočjih boste hitro opazili vrsto zanimivih kraških pojavov, od vrtač in škrapelj do manjših kraških jam, tik pod vrhom pa je narava izoblikovala več naravnih oken, od katerih je najbolj znano Otliško okno.
 
 Ljudje so si nastanek Otliškega okna razlagali z zanimivimi legendami -- tako naj bi okno v jezi naredil hudič s svojim rogom (celotno zgodbo si lahko preberete če se boste povzpeli do okna) -- dejstvo pa je, da je okno poimenovalo bližnjo vas Otlica (ki se tako imenuje zato, ker je gora v njeni bližini votla), vas pa je potem vrnila ime oknu.
 
