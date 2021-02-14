@@ -1,4 +1,4 @@
-#
+#/usr/bin/env python3
 #
 import cm.msaccess
 
@@ -34,3 +34,5 @@ if args.hikes:
     path = config['ExFilePath']+"/"+hike_name
     print("Updating pictures in %s" % path)
     cm.traverse.walk(path=path,pattern='(?i)\.jpg',callback=lambda p: cm.images.replace_image(p,lookup))
+else:
+  cm.traverse.walk(path=config['ExFilePath'],pattern='(?i)\.jpg',callback=lambda p: cm.images.replace_image(p,lookup))

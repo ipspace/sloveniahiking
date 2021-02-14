@@ -18,10 +18,10 @@ def parse_cli():
   return parser.parse_args()
 
 def fix_caption(match):
-  print("L: %s M: %s R: %s" % (match.group(1),match.group(2),match.group(3)))
+#  print("L: %s M: %s R: %s" % (match.group(1),match.group(2),match.group(3)))
   original = match.group(0)
   text = match.group(2)
-  print("text to work with: %s" % text)
+#  print("text to work with: %s" % text)
   if "caption-position" in text:
     return original
   if 'src="M' in text:
@@ -31,7 +31,7 @@ def fix_caption(match):
   return original
 
 def update_captions(hike_file):
-  print("Hike_File: %s" % hike_file)
+#  print("Hike_File: %s" % hike_file)
   page = cm.read.page(hike_file)
   md = page.get('markdown',None)
 

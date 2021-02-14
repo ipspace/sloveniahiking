@@ -152,12 +152,16 @@ def fetch_hike_images(hike=None,url_pattern=None,target_pattern=None):
     image_list=hike.get('image',[]))
 
 def fetch_hike(hike_row,config):
-  target = get_target_directory(hike_row)
-  if os.path.exists('%s/%s/index.md' % (config['ExFilePath'],target)):
-    if not config.get('force'):
-      print("%s has already been migrated, skipping" % hike_row['ExDirectory'])
-      return
+  if 'External' in hike_row['ExDirectory']:
+    return
 
+  target = get_target_directory(hike_row)
+  for index_file in ['index.md','_index.md']:
+    if os.path.exists('%s/%s/%s' % (config['ExFilePath'],target,index_file)):
+      if not config.get('force'):
+        print("%s has already been migrated, skipping" % hike_row['ExDirectory'])
+        return
+  
   hike = read_hike(hike_data=hike_row,url_pattern=config['HikeUrl'])
   if not hike:
     return
