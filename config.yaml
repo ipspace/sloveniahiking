@@ -78,7 +78,7 @@ taxonomies:
 
 services:
   rss:
-    limit: 30
+    limit: 200
 
 #outputs:
 #  home: [ html, atom, rss ]
