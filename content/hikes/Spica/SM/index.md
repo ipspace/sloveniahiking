@@ -10,6 +10,8 @@ multilead: M_5-4537_IMG.JPG
 name: Spica/SM
 title: Planina od Starega malna
 ---
+Ko vas bo mučila poletna vročina, se odpravite na [Špico](../) (Planino nad Vrhniko) od Starega (Star'ga) malna v senčni dolini Bele.
+
 ## Osnovni podatki
 
 Zahtevnost
@@ -36,6 +38,7 @@ Zemljevid
 :   Ljubljana in okolica, 1:50.000, PZS
 
 ## Star maln
+
 Star maln leži globoko v dolini Bele, prijazno tekočega potoka, ki izvira pod pobočji Jelovca in se v Vrhniki izlije v Ljubljanico. Kot že ime pove, je bil včasih na tem mestu mlin, na katerega danes spominja le še jez in veliko mlinsko kolo ob koči turističnega društva Vrhnika. V okolici koče je idealno mesto za poletne piknike -- lega v ozki dolini potoka preprečuje poletno vročino, ki jo še dodatno hladi sam potok.
 
 Do Starga malna boste najlažje prišli iz Vrhnike po makadamski cesti po dolini Bele -- v Vrhniki pri zadnjem semaforju (če prihajate z avtoceste ali iz ljubljanske smeri) zavijete desno (med kupom kažipotov, ki na tem križišču kažejo v desno, bo pozorno oko opazilo tudi tistega za Star maln), nato pa vozite ves čas naravnost mimo pekarne Baškovč, skozi Kačjo vas do makadamske ceste.

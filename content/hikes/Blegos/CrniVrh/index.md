@@ -18,7 +18,7 @@ title: Od Črnega vrha do Blegoša
 ---
 {{<figure src="M_4_1416.JPG" caption="Pot po grebenu">}}
 
-Od Črnega vrha nad Cerknim do Blegoša vodi prijetna senčna grebenska pot, kot nalašč za prijeten poletni izlet.
+Od [Črnega vrha nad Cerknim](../../crnivrhcerkno) do [Blegoša](../) vodi prijetna senčna grebenska pot, kot nalašč za prijeten poletni izlet.
 
 ### Osnovni podatki
 

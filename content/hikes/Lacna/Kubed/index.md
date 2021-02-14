@@ -13,7 +13,7 @@ multipath: true
 name: Lacna/Kubed
 title: Lačna iz Kubeda
 ---
-Iz Kubeda, kraja ob cesti proti mejnemu prehodu Mlini, je na Lačno po borovih gozdičkih in kraških travnikih speljana prijetna grebenska pot, ki bo nedvomno najlepša jeseni, ko se ruj odene v živo rdeče barve. S poti si boste mimogrede lahko ogledali Tinjan ter sosednji Kraški rob in [Slavniško pogorje](../slavnik/).
+Iz Kubeda, kraja ob cesti proti mejnemu prehodu Mlini, je na [Lačno](../) po borovih gozdičkih in kraških travnikih speljana prijetna grebenska pot, ki bo nedvomno najlepša jeseni, ko se ruj odene v živo rdeče barve. S poti si boste mimogrede lahko ogledali Tinjan ter sosednji Kraški rob in [Slavniško pogorje](../slavnik/).
 
 ### Osnovni podatki
 

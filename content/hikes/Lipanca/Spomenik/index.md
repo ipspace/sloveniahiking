@@ -14,7 +14,7 @@ title: Na Lipanco od spomenika Pri rupah
 ---
 {{<figure src="M_2_2208.JPG">}}
 
-Ena najkrajših poti na Lipanco se začne Pri rupah, ob spomeniku, ki stoji tik ob makadamski cesti, speljani čez Pokljuko. Pot je nekaj krajša kot tista s planine Javornik, višinska razlika pa je še vedno skoraj tristo metrov, kot nalašč za tiste, ki jim za druge vzpone zmanjkuje časa, vzpon iz Medvedove konte pa jim je prekratek. Cesta do spomenika Pri rupah je pozimi skoraj vedno splužena, zato je ta pot tudi najkrajši zimski dostop na Lipanco.
+Ena najkrajših poti na [Lipanco](../) se začne Pri rupah, ob spomeniku, ki stoji tik ob makadamski cesti, speljani čez Pokljuko. Pot je nekaj krajša kot tista s planine Javornik, višinska razlika pa je še vedno skoraj tristo metrov, kot nalašč za tiste, ki jim za druge vzpone zmanjkuje časa, vzpon iz Medvedove konte pa jim je prekratek. Cesta do spomenika Pri rupah je pozimi skoraj vedno splužena, zato je ta pot tudi najkrajši zimski dostop na Lipanco.
 
 ### Osnovni podatki
 

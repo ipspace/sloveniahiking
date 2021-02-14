@@ -14,7 +14,7 @@ title: Nanos iz Stran
 ---
 {{<figure src="M_5_0528.JPG">}}
 
-Slovenska planinska pot (SPP) pride na Nanos po položnih gozdovih iz Podkraja, nato pa se s Pleše zlagoma spusti v Strane, vasico na severnem robu Postojnskega polja, od koder ji lahko po vzhodnih obronkih Nanosa sledimo do Predjamskega gradu. Markirano pot bomo izkoristili za vzpon na Plešo, ki ga lahko popestrimo še z obiskom cerkvice svetega Brica (na zemljevidih boste našli tudi sv. Brikcij, več o tem v razdelku Kje je že sv. Bric) in z vzponom na Suhi vrh, najvišji vrh Nanosa.
+Slovenska planinska pot (SPP) pride na [Nanos](../) po položnih gozdovih iz Podkraja, nato pa se s Pleše zlagoma spusti v Strane, vasico na severnem robu Postojnskega polja, od koder ji lahko po vzhodnih obronkih Nanosa sledimo do Predjamskega gradu. Markirano pot bomo izkoristili za vzpon na Plešo, ki ga lahko popestrimo še z obiskom cerkvice svetega Brica (na zemljevidih boste našli tudi sv. Brikcij, več o tem v razdelku Kje je že sv. Bric) in z vzponom na Suhi vrh, najvišji vrh Nanosa.
 
 ### Osnovni podatki
 

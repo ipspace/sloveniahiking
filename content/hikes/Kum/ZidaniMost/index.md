@@ -19,7 +19,7 @@ name: Kum/ZidaniMost
 photo_author: Gregor_Skok
 title: Kum iz Zidanega Mosta
 ---
-Pot iz Zidanega Mosta je ena najlepših in tudi najmanj obljudenih poti na Kum. Najprej vodi čez Savo. Ker v bližini ni mostu, je treba za prečkanje reke uporabiti malo ročno nihajko (seveda na lastno odgovornost). Nihajki se lahko izognemo, če parkiramo na južnem bregu Save. Do tja je možno priti po lokalnih cestah po južnem bregu reke iz Hrastnika ali Radeč. Onstran reke se začne pot strmo vzpenjati po globeli mimo številnih zapuščenih mlinov, dokler ne pridemo do bolj položne in precej dolge Škratove doline. Zadnji del poti nas počasi vodi do vrha Kuma.
+Pot iz Zidanega Mosta je ena najlepših in tudi najmanj obljudenih poti na [Kum](../). Najprej vodi čez Savo. Ker v bližini ni mostu, je treba za prečkanje reke uporabiti malo ročno nihajko (seveda na lastno odgovornost). Nihajki se lahko izognemo, če parkiramo na južnem bregu Save. Do tja je možno priti po lokalnih cestah po južnem bregu reke iz Hrastnika ali Radeč. Onstran reke se začne pot strmo vzpenjati po globeli mimo številnih zapuščenih mlinov, dokler ne pridemo do bolj položne in precej dolge Škratove doline. Zadnji del poti nas počasi vodi do vrha Kuma.
 
 ### Osnovni podatki
 

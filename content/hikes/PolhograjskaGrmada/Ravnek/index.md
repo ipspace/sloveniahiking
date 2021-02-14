@@ -14,7 +14,7 @@ multipath: true
 name: PolhograjskaGrmada/Ravnek
 title: Polhograjska Grmada čez Ravnek
 ---
-Iz Polhovega Gradca se lahko na Polhograjsko Grmado odpravimo po zanimivi krožni poti -- izpred gostilne Pratkar se skozi gozd in čez razgledne travnike povzpnemo do zaselka Ravnek, nato do lovske koče pod Grmado, od tod pa lahko vzpon nadaljujemo naravnost po grebenu ali po malce manj zahtevni poti po pobočjih Grmade. Za popestritev izleta se lahko v Polhov Gradec vrnemo čez Setnico.
+Iz Polhovega Gradca se lahko na [Polhograjsko Grmado](../) odpravimo po zanimivi krožni poti -- izpred gostilne Pratkar se skozi gozd in čez razgledne travnike povzpnemo do zaselka Ravnek, nato do lovske koče pod Grmado, od tod pa lahko vzpon nadaljujemo naravnost po grebenu ali po malce manj zahtevni poti po pobočjih Grmade. Za popestritev izleta se lahko v Polhov Gradec vrnemo čez Setnico.
 
 ### Osnovni podatki
 

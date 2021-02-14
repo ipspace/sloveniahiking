@@ -14,7 +14,7 @@ title: Blegoš iz Leskovice
 ---
 {{<figure src="M_0_00630.JPG">}}
 
-Če vam je vzpon na Blegoš s Črnega Kala (od lovske koče) prekratek, tisti iz doline pa predolg, se nanj odpravite iz Leskovice, vasice visoko na južnih pobočjih Kovka (enega od vrhov med Blegošem in Črnim vrhom).
+Če vam je vzpon na [Blegoš](../) s Črnega Kala (od lovske koče) prekratek, tisti iz doline pa predolg, se nanj odpravite iz Leskovice, vasice visoko na južnih pobočjih Kovka (enega od vrhov med Blegošem in Črnim vrhom).
 
 ## Osnovni podatki
 

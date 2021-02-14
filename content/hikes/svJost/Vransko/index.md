@@ -15,7 +15,7 @@ title: Sveti Jošt z Vranskega
 ---
 {{<figure src="M_006050905.jpg">}} 
 
-Sveti Jošt je priljubljen izletniški cilj na južnem pobočju Šentjoškega vrha (1077 m), najvišjega vrha Dobrovelj. Potem ko se boste podali k njemu s prevala Lipa in se vam bo brez dvoma priljubil, poskusite še daljšo različico z Vranskega, vrnite pa se po drugi poti ter tako odkrijte tudi kraško jamo Škadavnico in slikovito cerkev sv. Jeronima. In seveda Vransko.
+[Sveti Jošt](../) je priljubljen izletniški cilj na južnem pobočju Šentjoškega vrha (1077 m), najvišjega vrha Dobrovelj. Potem ko se boste podali k njemu s prevala Lipa in se vam bo brez dvoma priljubil, poskusite še daljšo različico z Vranskega, vrnite pa se po drugi poti ter tako odkrijte tudi kraško jamo Škadavnico in slikovito cerkev sv. Jeronima. In seveda Vransko.
 
 ### Osnovni podatki
 

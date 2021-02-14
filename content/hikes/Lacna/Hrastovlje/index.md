@@ -12,7 +12,7 @@ multipath: true
 name: Lacna/Hrastovlje
 title: Lačna iz Hrastovelj
 ---
-Vzpon na Lačno iz Hrastovelj je ena tistih poti, za katere bi bilo morda bolje, če jih ne bi bilo. Markacije vas v večjem delu vodijo naravnost čez zoprno sončno melišče, kjer si boste odlično uničili noge, sonce pa bo poskrbelo še za glavobol. Te poti zato nikakor ne priporočam kot samostojen izlet, če pa se boste odpravili na nekoliko daljši krožni pohod, vam bo omogočila zanimive kombinacije.
+Vzpon na [Lačno](../) iz Hrastovelj je ena tistih poti, za katere bi bilo morda bolje, če jih ne bi bilo. Markacije vas v večjem delu vodijo naravnost čez zoprno sončno melišče, kjer si boste odlično uničili noge, sonce pa bo poskrbelo še za glavobol. Te poti zato nikakor ne priporočam kot samostojen izlet, če pa se boste odpravili na nekoliko daljši krožni pohod, vam bo omogočila zanimive kombinacije.
 
 ### Osnovni podatki
 

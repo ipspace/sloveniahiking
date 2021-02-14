@@ -15,7 +15,7 @@ title: Polhograjska Grmada čez Gonte
 ---
 {{<figure src="M_5_0508.JPG">}}
 
-Južna skalnata pobočja Polhograjske Grmade so pozimi večkrat poledenela in zato precej nevarna, poleti pa nas na njih pogosto neusmiljeno preganja vroče sonce. V takšnih dneh se lahko na Grmado povzpnemo po senčni, precej položni poti čez Gonte, ki je, poleg grebenskega sprehoda s Katarine, tudi najbolj »gosposki« vzpon na Grmado.
+Južna skalnata pobočja [Polhograjske Grmade](../) so pozimi večkrat poledenela in zato precej nevarna, poleti pa nas na njih pogosto neusmiljeno preganja vroče sonce. V takšnih dneh se lahko na Grmado povzpnemo po senčni, precej položni poti čez Gonte, ki je, poleg grebenskega sprehoda s Katarine, tudi najbolj »gosposki« vzpon na Grmado.
 
 ### Osnovni podatki
 

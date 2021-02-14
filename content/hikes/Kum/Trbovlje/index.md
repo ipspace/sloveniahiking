@@ -15,7 +15,7 @@ title: Kum iz Trbovelj
 ---
 {{<figure src="M_010055.JPG">}}
 
-Pot na Kum iz Trbovelj po Čebulovi dolini je ena lepših, vendar zaradi velike višinske razlike malo obljudena. Začne se zelo blizu železniške postaje -- na južni strani cestnega mostu čez Savo. Na začetku se strmo vzpne, dokler ne pridemo do zelo lepe in mirne Čebulove doline. Sledi položen vzpon skoznjo, zadnja tretjina poti pa je vzpon na vrh.
+Pot na [Kum](../) iz Trbovelj po Čebulovi dolini je ena lepših, vendar zaradi velike višinske razlike malo obljudena. Začne se zelo blizu železniške postaje -- na južni strani cestnega mostu čez Savo. Na začetku se strmo vzpne, dokler ne pridemo do zelo lepe in mirne Čebulove doline. Sledi položen vzpon skoznjo, zadnja tretjina poti pa je vzpon na vrh.
 
 ### Osnovni podatki
 
