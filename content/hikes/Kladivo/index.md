@@ -1,6 +1,6 @@
 ---
 author: Mojca_Lustrek
-date: '2006-07-23T00:00:00'
+date: 2006-07-23 00:00:00+00:00
 delta: 606
 description: Kladivo je poleg Velikega vrha in Košutnikovega turna najmikavnejši cilj
   v dolgem pogorju Košute.
@@ -26,7 +26,7 @@ title: Kladivo
 x: 450
 y: 144
 ---
-{{<figure src="M_006070701.jpg">}} Zdaj ko ste na [Kofcah](../Kofce) (1488 m) že čisto domači, je čas, da se ozrete še nekoliko više. Tam gori desno od planine bo pritegnil vaš pogled precej \"strumen\" vrh: Kladivo. Gospod Klinar meni, da je »Kwadu« poleg [Velikega vrha](../VelikiVrh) (2088 m) in najvišjega Košutnikovega turna (2133 m) najmikavnejši cilj v dolgem pogorju Košute. Odlično priporočilo! In še nekaj odlikuje tu opisani pohod: krožna pot vam odkriva venomer kaj novega. Seveda pa se iz tega ali onega razloga lahko vsak čas vrnete po isti poti.
+{{<figure src="M_006070701.jpg">}} Zdaj ko ste na [Kofcah](../kofce) (1488 m) že čisto domači, je čas, da se ozrete še nekoliko više. Tam gori desno od planine bo pritegnil vaš pogled precej \"strumen\" vrh: Kladivo. Gospod Klinar meni, da je »Kwadu« poleg [Velikega vrha](../velikivrh) (2088 m) in najvišjega Košutnikovega turna (2133 m) najmikavnejši cilj v dolgem pogorju Košute. Odlično priporočilo! In še nekaj odlikuje tu opisani pohod: krožna pot vam odkriva venomer kaj novega. Seveda pa se iz tega ali onega razloga lahko vsak čas vrnete po isti poti.
 
 ### Osnovni podatki
 
@@ -34,7 +34,7 @@ y: 144
 :   Ne preveč zahtevna, čeprav občasno kar strma pot (vrtoglavim najbrž ne bosta najbolj všeč spusta z obeh Kladiv, pa ni prehudo). Označena je dovolj dobro.
 
 **Dostop**
-:   Naše izhodišče je planina[Kofce](../Kofce), do nje pa se vam ponuja več poti.
+:   Naše izhodišče je planina[Kofce](../kofce), do nje pa se vam ponuja več poti.
 
 **Dolžina**
 :   Kofce--Kofce gora 1 ura
@@ -65,7 +65,7 @@ Kladivce \...
 
 {{<figure src="M_006070703.jpg" caption="Dom na Kofcah">}}
 
-S Kofc se povzpnemo po širokem travniku in se za trenutek ustavimo pri križu kakih 100 m više (tam lahko tudi »odložimo« tiste, ki bodo ostali na planini), od koder je še nekoliko lepši razgled kot od [Doma na Kofcah](../Kofce). Potka vijuga dalje med skalami, ruševjem in v vsakem letnem času drugačnim cvetjem. Po 20 minutah se poslovimo od tistih, ki so se odločili za pot na Veliki vrh; naša se namreč odcepi v desno. Zeleno obrobljene markacije tukaj prepustimo osvajalcem Velikega vrha, ki daleč prevladujejo. Nad odcepom je na rogovili kozolček s kažipoti; naša pot se vzpne v levo. Spomladi nas ob njej razveseljujejo avriklji, alpski kosmatinci, wulfenovi jegliči, velike zaplate resja.
+S Kofc se povzpnemo po širokem travniku in se za trenutek ustavimo pri križu kakih 100 m više (tam lahko tudi »odložimo« tiste, ki bodo ostali na planini), od koder je še nekoliko lepši razgled kot od [Doma na Kofcah](../kofce). Potka vijuga dalje med skalami, ruševjem in v vsakem letnem času drugačnim cvetjem. Po 20 minutah se poslovimo od tistih, ki so se odločili za pot na Veliki vrh; naša se namreč odcepi v desno. Zeleno obrobljene markacije tukaj prepustimo osvajalcem Velikega vrha, ki daleč prevladujejo. Nad odcepom je na rogovili kozolček s kažipoti; naša pot se vzpne v levo. Spomladi nas ob njej razveseljujejo avriklji, alpski kosmatinci, wulfenovi jegliči, velike zaplate resja.
 
 Pot je strma in nekoliko je treba tudi poplezati. V tričetrt ure dosežemo vrh Kofce gore (imenovane tudi Mali turn, Kovca ali Kovca gora). Na njem je mejni kamen in drugega nič. Levo vidimo Toplar (2000 m), za njim pa Veliki vrh. Desno so Malo in (Veliko) Kladivo ((Kleiner) Hainzturm/Hainschturm), Tegoška gora (Hohespitze, 2044 m), Macesje (Breitwand/Breitkopf, 2124 m), Košutnikov turn (2133 m, toda avstrijski podatek za Koschutnikturm je 2136 m) in Tolsta Košuta (Breite/Dicke Koschuta 2057 m; sosedje baje vztrajajo pri višini 2059 m).
 
@@ -76,7 +76,7 @@ Vrnemo se malce niže na T-križišče in zavijemo levo. Pot teče nekaj časa p
 \... in Kladivo
 ---------------
 
-Z Malega Kladiva se spustimo po stezici, ki vijuga med velikimi skalami. Na avstrijsko in slovensko stran je hud prepad. Razgledi so lepi (v obe dolini, nazaj na prehojeno pot in še na [Veliki vrh](../VelikiVrh) in [Košutico](../Kosutica) ter naprej do Košutnikovega turna), a ko jih uživamo, se je najbolje ustaviti, saj je potka zelo ozka, tako da je treba ves čas skrbno gledati pod noge. S sedla med Kladivoma se v desno po travnati strmini spusti neoznačena pot na planino Šija, po kateri se vrača v dolino kar precej planincev.
+Z Malega Kladiva se spustimo po stezici, ki vijuga med velikimi skalami. Na avstrijsko in slovensko stran je hud prepad. Razgledi so lepi (v obe dolini, nazaj na prehojeno pot in še na [Veliki vrh](../velikivrh) in [Košutico](../kosutica) ter naprej do Košutnikovega turna), a ko jih uživamo, se je najbolje ustaviti, saj je potka zelo ozka, tako da je treba ves čas skrbno gledati pod noge. S sedla med Kladivoma se v desno po travnati strmini spusti neoznačena pot na planino Šija, po kateri se vrača v dolino kar precej planincev.
 
 V pol ure smo na Kladivu. Na jugu vidimo planini Ilovico in Šijo, na severu pa Srednji kot. Proti Hajnžu se spušča 900 m visoka stena, najvišja v Karavankah in dobro znana alpinistom. Izzivalna štrlina na severni steni kakih 100 m pod vrhom se imenuje Zob; zelo lepo jo je videti z Velikega vrha.  Skrinjica za vpisno knjigo je prazna.
 

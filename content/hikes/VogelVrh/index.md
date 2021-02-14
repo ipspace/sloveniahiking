@@ -12,7 +12,7 @@ title: Vogel
 x: 409
 y: 122
 ---
-Vogel je zagotovo najbolj znan vrh Spodnjih Bohinjskih gora, a ne zaradi svojega razgleda (ki je podoben razgledu z ostalih vrhov istega grebena) ali lepe piramidaste oblike temveč zaradi smučarskega središča, ki mu je posodil tudi svoje ime. Smučarsko središče (bolj natančno, gondola z Bohinjskega jezera) je krivo tudi za poletno gnečo, saj postane markirana steza od zgornje postaje gondole do Šije in Vogla prava romarska pot. Da se bomo izognili poletni gneči ali pa uživali v jesenskih sončnih žarkih, se bomo na Vogel povzpeli preko njegovega jugo-zahodnega pobočja s [planine Razor](planinarazor.html).
+Vogel je zagotovo najbolj znan vrh Spodnjih Bohinjskih gora, a ne zaradi svojega razgleda (ki je podoben razgledu z ostalih vrhov istega grebena) ali lepe piramidaste oblike temveč zaradi smučarskega središča, ki mu je posodil tudi svoje ime. Smučarsko središče (bolj natančno, gondola z Bohinjskega jezera) je krivo tudi za poletno gnečo, saj postane markirana steza od zgornje postaje gondole do Šije in Vogla prava romarska pot. Da se bomo izognili poletni gneči ali pa uživali v jesenskih sončnih žarkih, se bomo na Vogel povzpeli preko njegovega jugo-zahodnega pobočja s [planine Razor](../planinarazor).
 
 {{<figure src="M_8-6819_IMG.jpg" caption="Severna pobočja Vogla">}}
 
@@ -22,13 +22,13 @@ Vogel je zagotovo najbolj znan vrh Spodnjih Bohinjskih gora, a ne zaradi svojega
 :   Odlično označena, le mestoma strma pot.
 
 **Dostop**
-:   Vzpon na Vogel bomo začeli na[planini Razor](planinarazor.html), do katere vodijo poti iz Tolminskih Raven ali planin Lom in Kuk.
+:   Vzpon na Vogel bomo začeli na[planini Razor](../planinarazor), do katere vodijo poti iz Tolminskih Raven ali planin Lom in Kuk.
 
 **Dolžina**
 :   Planina Razor -- Vogel: 2 uri\
     Vrnitev: 1 ura 30 minut\
     Skupaj: 4 ure\
-    [Tolminske Ravne -- planina Razor](planinarazor.html)-- Vogel in povratek: 6-7 ur
+    [Tolminske Ravne -- planina Razor](../planinarazor)-- Vogel in povratek: 6-7 ur
 
 **Višina**
 :   1922 m

@@ -85,6 +85,6 @@ The path over the meadows becomes increasingly open and sunny (in such places fa
 
 {{<figure src="M_9-5930_IMG.JPG" caption="Above Blejska koča">}}
 
-It is best to return to Rudno polje the same way as you came but you can decide on adding more variety to your trip -- you can carry on from Lipanca to the summits in the ridge above. The shortest, though pretty steep climb will be to [Lipanski vrh](lipanskivrh.html), a longer and easier one takes you to [Debela peč](debelapec.html), while the most demanding one means returning to Rudno polje over [Viševnik](visevnik.html).
+It is best to return to Rudno polje the same way as you came but you can decide on adding more variety to your trip -- you can carry on from Lipanca to the summits in the ridge above. The shortest, though pretty steep climb will be to [Lipanski vrh](../../lipanskivrh), a longer and easier one takes you to [Debela peč](../../debelapec), while the most demanding one means returning to Rudno polje over [Viševnik](../../visevnik).
 
 {{<figure src="Lipanca.jpg" caption="Lipanca, with Lipanski vrh beyond on the left">}}

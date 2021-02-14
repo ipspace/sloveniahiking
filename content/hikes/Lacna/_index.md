@@ -24,6 +24,6 @@ Lačna je eden od vrhov hribovja, ki na južnem koncu objema Rižansko dolino in
 
 ### Razgled z Lačne
 
-Turistično društvo iz Gračišča je s postavitvijo razglednega stolpa poskrbelo tudi za razgled s tega sicer precej zaraščenega vrha. Z njega se razprostira pogled na [Slavniško pogorje](../Slavnik), [Kojnik](../Kojnik) in [Golič](../Golic), [Kraški rob](../Lipnik), [Bržanijo](../HrastovljeZazid), [Tinjan](../Tinjan), slovensko morje in [Šavrinsko gričevje](../Padna).
+Turistično društvo iz Gračišča je s postavitvijo razglednega stolpa poskrbelo tudi za razgled s tega sicer precej zaraščenega vrha. Z njega se razprostira pogled na [Slavniško pogorje](../slavnik), [Kojnik](../kojnik) in [Golič](../golic), [Kraški rob](../lipnik), [Bržanijo](../hrastovljezazid), [Tinjan](../tinjan), slovensko morje in [Šavrinsko gričevje](../padna).
 
 {{<figure src="Panorama_vzhod.jpg" caption="Pogled na Kraški rob in Slavniško pogorje" caption-position="bottom">}}

@@ -64,7 +64,7 @@ Kratek opis poti
 
 Tisti brez občutka za orientacijo lahko uberete tudi lažjo pot -- nadaljujete vzpon po makadamski cesti, na prvem križišču zavijete levo, nato pa vas kažipoti vodijo do cilja.
 
-Po krajšem počitku in občudovanju razgleda proti severu (zagotovo boste prepoznali Gorico globoko spodaj, čez dolino pa [Čaven](../Caven) in Sveto goro), ki ga lahko v lepem vremenu popestrijo tudi vrhovi Julijskih Alp v ozadju, se lahko vrnete do parkirišča po poti, po kateri ste se povzpeli, lahko pa si privoščite posladek -- spust po ozki stezici čez razgledne travnike.
+Po krajšem počitku in občudovanju razgleda proti severu (zagotovo boste prepoznali Gorico globoko spodaj, čez dolino pa [Čaven](../caven) in Sveto goro), ki ga lahko v lepem vremenu popestrijo tudi vrhovi Julijskih Alp v ozadju, se lahko vrnete do parkirišča po poti, po kateri ste se povzpeli, lahko pa si privoščite posladek -- spust po ozki stezici čez razgledne travnike.
 
 {{<figure src="Razgled.jpg" caption="Pogled na Gorico in Vipavsko dolino, desno v ozadju Čaven" caption-position="bottom">}}
 

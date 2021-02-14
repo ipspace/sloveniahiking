@@ -28,7 +28,7 @@ title: Veliki Draški vrh
 x: 414
 y: 136
 ---
-{{<figure src="M_0_3195.JPG">}} Veliki Draški vrh je drugi najvišji vrh v grebenu jugovzhodno od Krme (najvišji je [Tosc](../ToscBohinj)). Z Bohinjske strani je videti kot piramida blagih oblik s položnimi pobočji, na katerih uživajo turni smučarji, v prepadnih severnih stenah pa poleti uživajo alpinisti. Nanj ne pelje markirana pot, »brezpotje« do vrha pa je bolje  uhojeno kot marsikatera markirana steza, zato se z malce smisla za orientacijo v lepem vremenu zlahka podate tja (a pazite na meglo -- tavanje po njej ne bo prav nič prijetno).
+{{<figure src="M_0_3195.JPG">}} Veliki Draški vrh je drugi najvišji vrh v grebenu jugovzhodno od Krme (najvišji je [Tosc](../toscbohinj)). Z Bohinjske strani je videti kot piramida blagih oblik s položnimi pobočji, na katerih uživajo turni smučarji, v prepadnih severnih stenah pa poleti uživajo alpinisti. Nanj ne pelje markirana pot, »brezpotje« do vrha pa je bolje  uhojeno kot marsikatera markirana steza, zato se z malce smisla za orientacijo v lepem vremenu zlahka podate tja (a pazite na meglo -- tavanje po njej ne bo prav nič prijetno).
 
 ### Osnovni podatki
 
@@ -65,7 +65,7 @@ y: 136
 Vzpon s Studorskega prevala
 ---------------------------
 
-Večina planincev začne vzpon na Veliki Draški vrh na Rudnem polju, lahko pa se nanj podate tudi z Uskovnice ali od Vodnikovega doma. Z Rudnega polja se odpravite po poti proti Triglavu (opis poti boste našli v opisu [izleta na sosednji Tosc](../ToscBohinj)) do Studorskega prevala nad planino Jezerce.
+Večina planincev začne vzpon na Veliki Draški vrh na Rudnem polju, lahko pa se nanj podate tudi z Uskovnice ali od Vodnikovega doma. Z Rudnega polja se odpravite po poti proti Triglavu (opis poti boste našli v opisu [izleta na sosednji Tosc](../toscbohinj)) do Studorskega prevala nad planino Jezerce.
 
 {{<figure src="M_0_3204.JPG" caption="Med ruševjem">}} {{<figure src="M_0_3205.JPG" caption="Ablanca">}}
 

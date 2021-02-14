@@ -1,6 +1,6 @@
 ---
 author: Mojca_Lustrek
-date: '2008-05-25T00:00:00'
+date: 2008-05-25 00:00:00+00:00
 delta: 740
 description: Kamnik je precej slikovit hrib, malo drzen; zaradi skalnatega vrha in
   prepadnih pečin, v katerih se preizkušajo tudi plezalci, si ime kar zasluži. Hom  je
@@ -67,7 +67,7 @@ y: 118
 Po znanem začetku nekaj orientacijskih zadreg
 ---------------------------------------------
 
-Za izhodišče nam bo spet parkirišče pri Minervi v Zabukovici, tako kot pri pohodu na Gozdnik in Kotečnik. Od tam se napotimo čez potoček Artišnico in takoj za mostom desno po cesti proti Pongracu (podrobnosti glejte pri [Gozdniku in Kotečniku](../Kotecnik)). Pred tablo za konec Zabukovice še enkrat prečkamo Artišnico in gremo mimo pekarne Uduč. Nad cesto je lep brezov gozd. Čez četrt ure pridemo do mostička levo čez Artišnico (kažipoti *Grobišče talcev* ter *LD Gozdnik 1 h* in *Gozdnik*). Tja smo zavili, ko smo šli na Gozdnik in Kotečnik. Onkraj mostu pri grobišču bi tudi lahko parkirali.
+Za izhodišče nam bo spet parkirišče pri Minervi v Zabukovici, tako kot pri pohodu na Gozdnik in Kotečnik. Od tam se napotimo čez potoček Artišnico in takoj za mostom desno po cesti proti Pongracu (podrobnosti glejte pri [Gozdniku in Kotečniku](../kotecnik)). Pred tablo za konec Zabukovice še enkrat prečkamo Artišnico in gremo mimo pekarne Uduč. Nad cesto je lep brezov gozd. Čez četrt ure pridemo do mostička levo čez Artišnico (kažipoti *Grobišče talcev* ter *LD Gozdnik 1 h* in *Gozdnik*). Tja smo zavili, ko smo šli na Gozdnik in Kotečnik. Onkraj mostu pri grobišču bi tudi lahko parkirali.
 
 {{<figure src="M_008052302.jpg">}} Pot nadaljujemo po cesti mimo ostankov Klemenovega mlina, kjer je ribnik s postrvmi, in Pongraca 116a, kjer ob ostanku stare peči stoji velika preša. Po 10 minutah zagledamo na električnem drogu markaciji na mestu, kjer bi po zemljevidu in vodniku morali zapustiti asfaltno cesto po poti v desno. Lesena tablica brez napisa na drevesu ob tej poti je bila morebiti nekoč res planinski kažipot. Naloga markacij je najverjetneje prepričati pohodnika, naj se vzpenja dalje po cesti, in ko se klanec malce položi, je nasproti Pongraca 139 v desno neoznačen makadamski odcep mimo Pongraca 117a. S te gozdne ceste zavijemo levo k hiši, ki jo še gradijo (marca 2007) in za katero stoji podirajoča se lesenjača. Če od tu po naključju pogledamo navzgor v gozd ravno v pravo smer, zagledamo naslednjo markacijo. Po gozdu ležijo velike skale. Čez dolino vidimo nazaj k Šteflaku in k hiši, za katero smo na poti na Gozdnik videli celo polje teloha. Po kakih 20 minutah se vrnemo na gozdno cesto in takoj se z nje odcepi v levo gozdna steza, na drugem večjem drevesu pa nas pričaka stara markacija. Iz gozda stopimo pri hiši, pri kateri se cesta konča, naša pot pa pelje levo v breg mimo slabe preže. Nekoliko v desno s poti stoji stara hiša, kakršne naj bi bile značilne za te kraje (spodaj zidana, zgoraj lesena), zraven pa je šupa ali garaža. Za njima so skale, iz pipice pa lahko pijemo kar tako ali iz »priloženega« kozarčka.
 

@@ -1,5 +1,5 @@
 ---
-date: '2002-12-01T00:00:00'
+date: 2002-12-01 00:00:00+00:00
 delta: 440
 description: Ko bo Ljubljansko kotlino spet ovijala megla, se splača ogledati megleno
   morje z vrha - na primer s sv. Jakoba nad Preddvorom.
@@ -25,7 +25,7 @@ y: 130
 ---
 {{<figure src="M_9-3980_IMG.JPG">}} Sv. Jakob je majhna cerkvica na razglednem obronku Potoške gore nad Preddvorom. Izpred cerkvice se odpira razgled na Kranjsko polje in Julijske alpe, ki je še posebej zanimiv v jesenskih in zimskih mesecih ko je dolina zavita v meglo.
 
-Sv. Jakob je (podobno kot [sv. Primož nad Kamnikom](../svPrimoz_Kamnik/)) očitno zelo priljubljena izletniška točka, saj boste tudi sredi tedna srečali veliko število obiskovalcev.
+Sv. Jakob je (podobno kot [sv. Primož nad Kamnikom](../svprimoz_kamnik/)) očitno zelo priljubljena izletniška točka, saj boste tudi sredi tedna srečali veliko število obiskovalcev.
 
 Osnovni podatki
 ===============

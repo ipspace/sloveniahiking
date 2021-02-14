@@ -11,9 +11,9 @@ y: 114
 ---
 {{<figure src="M_4_0469.JPG">}}
 
-Blegoš (1562 m) je najvišji vrh Škofjeloškega hribovja in (poleg Ratitovca in Porezna) eden od »velikih treh« predalpskih vrhov. Travnat vrh nam v lepem vremenu zagotavlja enkraten razgled: poleg okoliških vrhov bomo opazili celoten greben Spodnjih Bohinjskih gora, najvišje vrhove okoli Triglava, celotne Karavanke in Kamniške Alpe, v dneh z zelo čistim ozračjem pa seže pogled na jugu vse do [Snežnika](Sneznik.html).
+Blegoš (1562 m) je najvišji vrh Škofjeloškega hribovja in (poleg Ratitovca in Porezna) eden od »velikih treh« predalpskih vrhov. Travnat vrh nam v lepem vremenu zagotavlja enkraten razgled: poleg okoliških vrhov bomo opazili celoten greben Spodnjih Bohinjskih gora, najvišje vrhove okoli Triglava, celotne Karavanke in Kamniške Alpe, v dneh z zelo čistim ozračjem pa seže pogled na jugu vse do [Snežnika](../sneznik).
 
-Ni čudno, da na tako pomemben vrh vodi vrsta markiranih poti, ki nam nudijo široko paleto izletov -- od kratkega polurnega sprehoda do kratkih izletov s Črnega Kala, grebenskih sprehodov s Starega vrha nad Škofjo Loko ali [Črnega vrha](CrniVrhCerkno.html) nad Cerknim do precej zahtevnih vzponov iz doline Poljanščice ali Selščice.
+Ni čudno, da na tako pomemben vrh vodi vrsta markiranih poti, ki nam nudijo široko paleto izletov -- od kratkega polurnega sprehoda do kratkih izletov s Črnega Kala, grebenskih sprehodov s Starega vrha nad Škofjo Loko ali [Črnega vrha](../crnivrhcerkno) nad Cerknim do precej zahtevnih vzponov iz doline Poljanščice ali Selščice.
 
 ### Vzponi na Blegoš
 

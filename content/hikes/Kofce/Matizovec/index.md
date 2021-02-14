@@ -1,6 +1,6 @@
 ---
-date: '2007-03-18T00:00:00'
-lastmod: 2021-02-13 10:20:00
+author: Mojca Luštrek
+date: 2007-03-18 00:00:00+00:00
 delta: 416
 description: Ena krajših vzponov na Kofce se začne nad Podljubeljem pri Matizovcu,
   do koder se pripeljete po ne preslabi makadamski cesti.
@@ -12,12 +12,12 @@ image:
 - M_007031601.jpg
 - M_007031603.jpg
 - M_007031604.jpg
-name: Kofce/Matizovec
-title: Kofce od Matizovca
-author: Mojca Luštrek
-multipath: True
+lastmod: 2021-02-13 10:20:00
 lead: M_007031604.jpg
 multilead: M_007031602.jpg
+multipath: true
+name: Kofce/Matizovec
+title: Kofce od Matizovca
 ---
 {{<figure src="M_007031604.jpg">}}
 
@@ -78,7 +78,7 @@ Napotimo se po makadamski cesti desno nad Matizovcem. Knafelčeve markacije (prv
 {{<figure src="M_007031603.jpg" caption="Francijev štor">}}
 {{</gallery>}}
 
-Po 20 minutah se priključimo širšemu skalnatemu »kolovozu«, ki se dviga z desne proti levi, in se vzpnemo po njem. Brž zatem še enkrat tako. Čez dobrih 5 minut se svet odpre pri vegasti lesi na začetku manjše planine, a ne \"vstopimo\", ampak že pred planino zavijemo desno v gozd in jo obhodimo po desnem robu. Onkraj planine vidimo Veliki vrh. V dobrih 5 minutah se nam z leve priključi ožji kolovoz. Tu se oddaljimo od planine in pot se nekoliko zravna, ob njej pa teče ograja. Kmalu priteče po desnem bregu navzgor še en kolovoz in tu je v ograji lesa. Čez kakih 10 minut stopimo iz gozda na poseko. Ta je polna štorov; najimenitnejši je *Francijev štor* (poleg imena piše *19. 1. 2003 ZZZ*; če razvozlate, kaj to pomeni, se pa oglasite). Z desne priteče pot iz Doline. V 5 minutah smo na planini Kofce. Nad njo se dviga Kofce gora, lep pa je tudi pogled na Kriško planino s Tolstim vrhom, Storžič, Begunjščico, Preval in [Dobrčo](../Dobrca).
+Po 20 minutah se priključimo širšemu skalnatemu »kolovozu«, ki se dviga z desne proti levi, in se vzpnemo po njem. Brž zatem še enkrat tako. Čez dobrih 5 minut se svet odpre pri vegasti lesi na začetku manjše planine, a ne \"vstopimo\", ampak že pred planino zavijemo desno v gozd in jo obhodimo po desnem robu. Onkraj planine vidimo Veliki vrh. V dobrih 5 minutah se nam z leve priključi ožji kolovoz. Tu se oddaljimo od planine in pot se nekoliko zravna, ob njej pa teče ograja. Kmalu priteče po desnem bregu navzgor še en kolovoz in tu je v ograji lesa. Čez kakih 10 minut stopimo iz gozda na poseko. Ta je polna štorov; najimenitnejši je *Francijev štor* (poleg imena piše *19. 1. 2003 ZZZ*; če razvozlate, kaj to pomeni, se pa oglasite). Z desne priteče pot iz Doline. V 5 minutah smo na planini Kofce. Nad njo se dviga Kofce gora, lep pa je tudi pogled na Kriško planino s Tolstim vrhom, Storžič, Begunjščico, Preval in [Dobrčo](../dobrca).
 
 Če bo še prezgodaj za odlične sirove štruklje v Domu na Kofcah (kakšni so čokoladni, še nisem preverila), se odpravite na katerega bližnjih vrhov in ko si boste štruklje pošteno zaslužili, vam bodo še bolj teknili.
 

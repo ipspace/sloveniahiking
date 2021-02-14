@@ -1,12 +1,12 @@
 ---
-date: '2006-03-19T00:00:00'
+date: 2006-03-19 00:00:00+00:00
 delta: 510
 description: Strma pot na Slavnik iz Podgorja je verjetno najbolj zanimiva za tiste,
   ki bi si radi s strmimi vzponi nabirali kondicijo.
 duration: 2.5
 height: 1028
-map: 1
 lead: M_5_0586.JPG
+map: 1
 multilead: M_5_0586.JPG
 multipath: true
 name: Slavnik/Strma
@@ -46,7 +46,7 @@ Kratek opis poti
 
 V Podgorje najlaže pridete tako, da primorsko avtocesto zapustite na odcepu Kastelec (takoj za predorom, če prihajate iz smeri Ljubljane) in nato sledite znakom za Podgorje.
 
-Tik pred začetkom vasi boste prečkali železnico (ob železniški postaji), kmalu nato pa vas bo kažipot za parkirišče usmeril desno na lepo urejeno turistično parkirišče, kjer vas čaka tudi zemljevid okolice z označenimi potmi na Slavnik in [Kojnik](../Kojnik).
+Tik pred začetkom vasi boste prečkali železnico (ob železniški postaji), kmalu nato pa vas bo kažipot za parkirišče usmeril desno na lepo urejeno turistično parkirišče, kjer vas čaka tudi zemljevid okolice z označenimi potmi na Slavnik in [Kojnik](../../kojnik).
 
 S parkirišča se po asfaltu odpravite proti vasi. Markacije vas kmalu usmerijo na zgornjo asfaltno cesto (skozi vas), pred vodnjakom sredi vasi pa zavijete levo.
 

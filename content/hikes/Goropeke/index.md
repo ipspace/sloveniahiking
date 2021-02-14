@@ -1,5 +1,5 @@
 ---
-date: '2007-06-03T00:00:00'
+date: 2007-06-03 00:00:00+00:00
 delta: 200
 description: Če je Javorč žirovska Šmarna gora, so Goropeke zagotovo žirovski Rožnik.
   Prijeten polurni vzpon vas pripelje na vrh Goropeškega griča, s katerega se odpre
@@ -24,7 +24,7 @@ title: Goropeke
 x: 432
 y: 100
 ---
-{{<figure src="M_0_00742.JPG">}} Če je [Javorč](../Javorc) žirovska Šmarna gora, so Goropeke zagotovo žirovski Rožnik. Prijeten polurni vzpon vas pripelje na vrh Goropeškega griča, s katerega se odpre lep razgled vse do Triglava. Za gričem se sredi zaselka skriva cerkvica svetega Janeza \... le gostilne ni poleg cerkve; planinski dom tiči na robu gozda onkraj travnikov.
+{{<figure src="M_0_00742.JPG">}} Če je [Javorč](../javorc) žirovska Šmarna gora, so Goropeke zagotovo žirovski Rožnik. Prijeten polurni vzpon vas pripelje na vrh Goropeškega griča, s katerega se odpre lep razgled vse do Triglava. Za gričem se sredi zaselka skriva cerkvica svetega Janeza \... le gostilne ni poleg cerkve; planinski dom tiči na robu gozda onkraj travnikov.
 
 ### Osnovni podatki
 
@@ -58,7 +58,7 @@ y: 100
 
 Izlet začnete v središču Žirov, kjer vas čaka precej veliko parkirišče (le v soboto dopoldne boste imeli s parkiranjem kar nekaj dela). Od tod se odpravite čez potok (Račevo) po Jobstovi cesti proti cerkvi. Za policijsko postajo vas na levi strani ceste pričaka slabo viden kažipot in vas usmeri na ozko asfaltno cesto. Ta se pri zadnjih hišah spremeni v kolovoz, ki vodi najprej po useku med travniki, nato pa zavije v prijetno senčen mešani gozd.
 
-V gozdu boste opazili, da vodi v Goropeke cel kup poti, kolovozov in stezic. Obledele markacije vam marsikdaj ne bodo v pomoč; takrat se držite bolj uhojene dvigajoče se poti (praviloma levega kraka), na nekaterih ključnih mestih pa vam bodo stare oznake le namignile, kam zaviti. Z malce sreče (no, izgubiti se skorajda ne morete, najslabše, kar se vam lahko zgodi, je, da se znajdete na asfaltni cesti proti Goropekam) boste v slabe pol ure prišli do travnikov vrh Goropeškega griča. Povzpnite se do gaja med travniki; tam vas čaka senčna klopca, s katere lahko v miru uživate razgled na Žiri. Pogled se vam bo verjetno najprej ustavil na okoliških hribih: [Vrsniku](../Vrsnik_Ziri), [Mrzlem vrhu](../MrzliVrh_Ziri), malce bolj oddaljenem [Ermanovcu](../Ermanovec) in sosednjem [Žirovskem vrhu](../Javorc). V lepem vremenu boste za njimi opazili vse tri prvake predalpskega sredogorja: [Porezen](../Porezen), Ratitovec in [Blegoš](../Blegos), za njimi pa [Spodnje Bohinjske gore](../CrnaPrst) in v ozadju Triglav.
+V gozdu boste opazili, da vodi v Goropeke cel kup poti, kolovozov in stezic. Obledele markacije vam marsikdaj ne bodo v pomoč; takrat se držite bolj uhojene dvigajoče se poti (praviloma levega kraka), na nekaterih ključnih mestih pa vam bodo stare oznake le namignile, kam zaviti. Z malce sreče (no, izgubiti se skorajda ne morete, najslabše, kar se vam lahko zgodi, je, da se znajdete na asfaltni cesti proti Goropekam) boste v slabe pol ure prišli do travnikov vrh Goropeškega griča. Povzpnite se do gaja med travniki; tam vas čaka senčna klopca, s katere lahko v miru uživate razgled na Žiri. Pogled se vam bo verjetno najprej ustavil na okoliških hribih: [Vrsniku](../vrsnik_ziri), [Mrzlem vrhu](../mrzlivrh_ziri), malce bolj oddaljenem [Ermanovcu](../ermanovec) in sosednjem [Žirovskem vrhu](../javorc). V lepem vremenu boste za njimi opazili vse tri prvake predalpskega sredogorja: [Porezen](../porezen), Ratitovec in [Blegoš](../blegos), za njimi pa [Spodnje Bohinjske gore](../crnaprst) in v ozadju Triglav.
 
 {{<figure src="M_0_00737.JPG" caption="Goropeški vrh">}} {{<figure src="M_0_00738.JPG">}}\
 Pogled na Žiri {{<figure src="M_0_00740.JPG">}}\

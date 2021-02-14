@@ -1,5 +1,5 @@
 ---
-date: '2005-06-26T00:00:00'
+date: 2005-06-26 00:00:00+00:00
 delta: 570
 description: Med Vogarjem in Planino pri Jezeru leži severno od Bohinjskega jezera
   idilična planina Vodični vrh. Mimo nje je speljana osamljena redko obiskana markirana
@@ -77,7 +77,7 @@ Sredi gozda vas kar naenkrat preseneti kažipot, ki vas z vedno bolj zaraščene
 
 {{<figure src="M_9_1932.JPG" caption="Pogled na Bohinjske gore">}}
 
-Po počitku se vrnete na markirano pot, pred nadaljevanjem poti proti Planini pri Jezeru pa se odpravite še na razglednik, ki vas čaka le dobrih 50 metrov v desno. S skalnega roba se odpre čudovit pogled na planino Blato globoko pod vami, nad njo pa se dvigujejo vrhovi Bohinjskih gora -- Debeli vrh, Mišelj vrh, vsi trije Stogi (Prevalski, [Jezerski](../JezerskiStog) in Krsteniški Stog) s planino [Krstenica](../Krstenica), [Tosc](../ToscBohinj), za njim pa Draški vrh, Ablanca in [Viševnik](../Visevnik).
+Po počitku se vrnete na markirano pot, pred nadaljevanjem poti proti Planini pri Jezeru pa se odpravite še na razglednik, ki vas čaka le dobrih 50 metrov v desno. S skalnega roba se odpre čudovit pogled na planino Blato globoko pod vami, nad njo pa se dvigujejo vrhovi Bohinjskih gora -- Debeli vrh, Mišelj vrh, vsi trije Stogi (Prevalski, [Jezerski](../jezerskistog) in Krsteniški Stog) s planino [Krstenica](../krstenica), [Tosc](../toscbohinj), za njim pa Draški vrh, Ablanca in [Viševnik](../visevnik).
 
 Ko se z razglednika vrnete na križišče, vas markacije popeljejo po razgibani ozki stezici, ki se kmalu razširi, ko se ji pridruži pot s planine Vodični vrh. Po prvem vzponu to pot zapustite, markacije vas pošljejo navzgor proti Vodičnemu vrhu, ki se mu izognete (a nič hudega, saj ni razgleden), in se začnete zlagoma spuščati proti Planini pri Jezeru.
 

@@ -1,5 +1,5 @@
 ---
-date: '2007-05-06T00:00:00'
+date: 2007-05-06 00:00:00+00:00
 delta: 50
 description: Severozahodno od Socerba leži Zgornji Kras, planota, porasla z redkimi
   borovimi gozdički, med katerimi se razprostirajo vabeči kraški travniki.
@@ -20,7 +20,7 @@ title: Zgornji Kras
 x: 413
 y: 51
 ---
-{{<figure src="M_9_2968.JPG">}} Severozahodno od [Socerba](../Socerb) leži Zgornji Kras, planota, porasla z redkimi borovimi gozdički, med katerimi se razprostirajo vabeči kraški travniki. Po njej je speljanih precej makadamskih cest in kolovozov, ki vam ponujajo obilo možnosti za kratke družinske izlete. Tokrat se bomo odpravili s poti proti gradu Socerb in naredili dobre štiri kilometre dolgo krožno pot.
+{{<figure src="M_9_2968.JPG">}} Severozahodno od [Socerba](../socerb) leži Zgornji Kras, planota, porasla z redkimi borovimi gozdički, med katerimi se razprostirajo vabeči kraški travniki. Po njej je speljanih precej makadamskih cest in kolovozov, ki vam ponujajo obilo možnosti za kratke družinske izlete. Tokrat se bomo odpravili s poti proti gradu Socerb in naredili dobre štiri kilometre dolgo krožno pot.
 
 ### Osnovni podatki
 
