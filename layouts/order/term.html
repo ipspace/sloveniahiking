@@ -1,8 +1,13 @@
 {{ partial "header.html" . }}
-{{ partial "multi-title.html" ( dict "title" (i18n "genustitle" .) "page" . ) }}
+{{ partial "multi-title.html" ( dict "title" (.Params.pagetitle | default (i18n "genustitle" . )) "page" . ) }}
 <article id="left-column">
+  {{ partial "flower-crumbs.html" . }}
   <div class="post__content">
-    <p>{{ i18n "genuslist" . | safeHTML }}</p>
+    {{ if .Content }}
+      {{ .Content }}
+    {{ else }}
+      <p>{{ i18n "genuslist" . | safeHTML }}</p>
+    {{ end }}
     <section class='flower__gallery'>
     {{ range (sort .Pages "Title") }}
       {{ partial "flower-item.html" . }}

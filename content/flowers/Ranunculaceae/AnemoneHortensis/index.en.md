@@ -16,5 +16,5 @@ parallel: false
 petals: '10'
 petals_joined: false
 star_shape: false
-title: Anemone hortensis
+title: Broad-leaved Anemone
 ---

@@ -19,5 +19,5 @@ parallel: false
 petals: '6'
 petals_joined: false
 star_shape: false
-title: Pulsatilla grandis
+title: Greater Pasque Flower
 ---

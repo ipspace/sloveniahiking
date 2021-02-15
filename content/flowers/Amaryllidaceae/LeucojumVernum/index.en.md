@@ -11,11 +11,10 @@ image:
 latin: Leucojum vernum
 lead: M_7-4748_IMG.JPG
 lead_sample: false
-name: index.en
 order: Leucojum
 parallel: false
 petals: '6'
 petals_joined: false
 star_shape: false
-title: Snowpake
+title: Spring Snowflake
 ---
