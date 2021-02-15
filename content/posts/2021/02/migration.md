@@ -64,3 +64,7 @@ Tudi reklam na naših straneh ne boste našli -- skorajda nespodobno je mazati s
 * **Gitlab Pages** za prikaz vsebine.
 
 V ozadju je seveda še precej lepila (v Pythonu) ki olajša pisanje tekstov.
+
+Mimogrede, če razumete kako narediti *fork* in *pull request* bom zelo vesel popravkov in novih vsebin ;)
+
+[Ivan Pepelnjak](https://www.ipspace.net/About_Ivan_Pepelnjak)
