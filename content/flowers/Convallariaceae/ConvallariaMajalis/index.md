@@ -19,4 +19,4 @@ petals_joined: false
 star_shape: false
 title: Šmarnica
 ---
-![](../../../images/flowers/poison.gif)Šmarnica, kot bi pričakovali iz njenega imena, cveti v maju (šmarnu). Rastlina ima dva stebelna lista (včasih tri) z nožnicama, ki dajeta vtis stebla (podobno [čmeriki](../../veratrumalbumlobelianum/zelena-&#269;merika/)). Majhni cvetovi zvonaste oblike v grozdastem, mnogocvetnem socvetju imajo 6 zraslih belih listov.
+![](../../images/flowers)Šmarnica, kot bi pričakovali iz njenega imena, cveti v maju (šmarnu). Rastlina ima dva stebelna lista (včasih tri) z nožnicama, ki dajeta vtis stebla (podobno [čmeriki](../veratrumalbumlobelianum/)). Majhni cvetovi zvonaste oblike v grozdastem, mnogocvetnem socvetju imajo 6 zraslih belih listov.

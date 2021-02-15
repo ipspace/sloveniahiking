@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Najmanjši alpski zvonček
 ---
-Najmanjši alpski zvonček zacveti pozno pomladi na vlažnem grušču (navadno ob talečem se snegu) visoko v gorah (fotografija je z Lipance). Od nekaj večjega [navadnega alpskega zvončka](../../soldanellaalpina/navadni-alpski-zvon&#269;ek/) (tam si oglejte tudi opis njunih lastnosti) ga ločite takole:
+Najmanjši alpski zvonček zacveti pozno pomladi na vlažnem grušču (navadno ob talečem se snegu) visoko v gorah (fotografija je z Lipance). Od nekaj večjega [navadnega alpskega zvončka](../soldanellaalpina/) (tam si oglejte tudi opis njunih lastnosti) ga ločite takole:
 
 -   Listi so široki največ 1 cm (listi navadnega alpskega zvončka so širši).
 -   Steblo je enocvetno, visoko do 10 cm (navadni alpski zvonček ima do tri cvetove na steblu, ki je visoko do 20 cm).

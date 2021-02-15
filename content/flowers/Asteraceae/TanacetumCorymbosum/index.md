@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Češuljasti vratič
 ---
-Ob prvem pogledu na češuljasti vratič bi skorajda rekli \" [ivanjščica](../../leucanthemumircutianum/navadna-ivanjš&#269;ica/)\", že kratek premislek pa pove, da na steblu ivanjščice ne raste več koškov, kar je tudi edina lastnost, ki vratiče loči od ivanjščic. Tako kot ivanjščice imajo namreč tudi vratiči rumene cevaste cvetove in bele jezičaste cvetove brez kodeljic, golo dno koška in olistano steblo.
+Ob prvem pogledu na češuljasti vratič bi skorajda rekli \" [ivanjščica](../leucanthemumircutianum/)\", že kratek premislek pa pove, da na steblu ivanjščice ne raste več koškov, kar je tudi edina lastnost, ki vratiče loči od ivanjščic. Tako kot ivanjščice imajo namreč tudi vratiči rumene cevaste cvetove in bele jezičaste cvetove brez kodeljic, golo dno koška in olistano steblo.
 
 Češuljasti vratič boste prepoznali takole:
 

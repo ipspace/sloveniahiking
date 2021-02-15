@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Jesenska vresa
 ---
-Jesenska vresa je grmiček s kipečimi poganjki, ki ga bomo od avgusta do sredine jeseni opazili na zakisanih travnikih, predvsem na nekarbonatni podlagi. Vresa je na prvi pogled, pa tudi po imenu, zelo podobna [spomladanski resi (*Erica carnea*)](../../ericacarnea/spomladanska-resa/), le da cveti v drugem letnem času in raste na drugačnih tleh (resa raste predvsem na kamnitih apnenčastih tleh), kar nekatere ljudi navaja k napačnemu mnenju, da resa cveti dvakrat na leto.
+Jesenska vresa je grmiček s kipečimi poganjki, ki ga bomo od avgusta do sredine jeseni opazili na zakisanih travnikih, predvsem na nekarbonatni podlagi. Vresa je na prvi pogled, pa tudi po imenu, zelo podobna [spomladanski resi (*Erica carnea*)](../ericacarnea/), le da cveti v drugem letnem času in raste na drugačnih tleh (resa raste predvsem na kamnitih apnenčastih tleh), kar nekatere ljudi navaja k napačnemu mnenju, da resa cveti dvakrat na leto.
 
 Tako kot resa ima tudi vresa cvetove s štirimi venčnimi listi, cvetno čašo in nadraslo plodnico, botaniki pa ju ločijo po
 

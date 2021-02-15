@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2007-01-28T00:00:00'
+date: 2007-01-28 00:00:00+00:00
 f_end: '7'
 f_start: '6'
 family: Geraniaceae
@@ -10,7 +10,6 @@ image:
 latin: Geranium macrorrhizum
 lead: M_G_3073.JPG
 lead_sample: false
-name: index
 order: Geranium
 parallel: false
 petals: '5'
@@ -18,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Korenikasta krvomočnica
 ---
-Korenikasta krvomočnica uspeva na senčnih skalnatih pobočjih v Julijskih Alpah in Trnovskem gozdu (fotografija je izpod [Dolskega maja](../../../Izleti/DolskiMaj/)). Od drugih krvomočnic boste korenikasto najhitreje ločili po dolgopecljatih pritličnih listih, seveda pa preverite še te znake:
+Korenikasta krvomočnica uspeva na senčnih skalnatih pobočjih v Julijskih Alpah in Trnovskem gozdu (fotografija je izpod [Dolskega maja](../../Izleti/)). Od drugih krvomočnic boste korenikasto najhitreje ločili po dolgopecljatih pritličnih listih, seveda pa preverite še te znake:
 
 -   Cvetovi so karminastordeči (na fotografiji so malce bledi).
 -   Venčni listi so daljši od 1 cm in precej daljši od čašnih.

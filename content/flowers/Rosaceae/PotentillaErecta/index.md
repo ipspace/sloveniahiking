@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Srčna moč
 ---
-Srčna moč je eden najbolj razširjenih slovenskih [petoprstnikov](../../genus/potentilla/). Na zakisanih travnikih, v gozdovih in na šotnih tleh cveti od maja do avgusta.
+Srčna moč je eden najbolj razširjenih slovenskih [petoprstnikov](../genus/potentilla/). Na zakisanih travnikih, v gozdovih in na šotnih tleh cveti od maja do avgusta.
 
 Od drugih drugih rožnic boste srčno moč ločili takole:
 

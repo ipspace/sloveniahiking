@@ -21,7 +21,7 @@ title: Pisani zebrat
 ---
 Barvite cvetove pisanega zebrata boste marsikje v Sloveniji opazili v gozdovih in na posekah od julija do septembra. Prepoznavanje zaradi edinstvenih barv cveta sploh ne bi smelo biti vprašljivo, lahko pa seveda preverite še tele znake:
 
--   Tako kot pri [vseh ustnaticah](../../family/lamiaceae/) so cvetovi ustnati, listi pa razvrščeni navzkrižno.
+-   Tako kot pri [vseh ustnaticah](../family/lamiaceae/) so cvetovi ustnati, listi pa razvrščeni navzkrižno.
 -   Prašniki so štirje, vzporedni (glej sliko desno spodaj) in štrlijo iz venčne cevi. Notranja prašnika sta krajša od zunanjih.
 -   Cvetna čaša je nejasno dvoustna in ima pet zobcev.
 -   Spodnja venčna ustna ima na vsaki strani gubo. Vsa spodnja ustna ali njena srednja krpa je vijoličasta.

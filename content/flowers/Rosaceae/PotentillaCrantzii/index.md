@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Crantzev petoprstnik
 ---
-Crantzev petoprstnik cveti od junija do avgusta na alpskih travnikih, našli pa ga boste tudi na Snežniku in Blegošu. Cvet s po petimi venčnimi in čašnimi listi ter zunanjo čašo ga uvršča med rožnice, dlanasto razrezani listi in priostreni lističi zunanje čaše pa med [petoprstnike](../../genus/potentilla/).
+Crantzev petoprstnik cveti od junija do avgusta na alpskih travnikih, našli pa ga boste tudi na Snežniku in Blegošu. Cvet s po petimi venčnimi in čašnimi listi ter zunanjo čašo ga uvršča med rožnice, dlanasto razrezani listi in priostreni lističi zunanje čaše pa med [petoprstnike](../genus/potentilla/).
 
 Od drugih petoprstnikov boste Crantzevega ločili takole:
 

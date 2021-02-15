@@ -20,4 +20,4 @@ title: Jagodasta hrušica
 ---
 Jagodasta hrušica cveti v aprilu in maju na suhih travnikih jugozahodne Slovenije (posnetki so bili narejeni v bližini Postojne).  Okroglo svetlomodro cvetno odevalo je sestavljeno iz šestih zraslih lističev, cvetovi pa so zbrani na vrhu stebla v grozdastem socvetju.
 
-Jagodasto hrušico boste od podobne in nekoliko bolj razširjene [grozdaste hrušice](../../muscarineglectum/grozdasta-hrušica/) ločili po listih -- ti so krajši od stebla, praviloma pokončni, na vrhu razširjeni, na hrbtni strani pa boste opazili nežne črte.
+Jagodasto hrušico boste od podobne in nekoliko bolj razširjene [grozdaste hrušice](../muscarineglectum/) ločili po listih -- ti so krajši od stebla, praviloma pokončni, na vrhu razširjeni, na hrbtni strani pa boste opazili nežne črte.

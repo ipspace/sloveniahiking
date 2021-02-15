@@ -21,4 +21,4 @@ title: Konjska griva
 ---
 Konjsko grivo, do 1,75 m visoko rastlino, boste našli na posekah ter v svetlih in vlažnih gozdovih od julija do septembra. Od daleč bi jo po obliki socvetja hitro uvrstili med kobulnice, natančen pogled pa pokaže, da je vsak \"cvet\" košek, sestavljen iz cevastih cvetov (glej sliko desno), kar jo uvršča med nebinovke.
 
-Od podobnih nebinovk ([lepen](../../adenostylesglabra/goli-lepen/)) boste konjsko grivo ločili po listih -- ti rastejo nasprotno, na glavnih poganjkih pa so dlanasto deljeni na tri do pet suličastih, nazobčanih delov.
+Od podobnih nebinovk ([lepen](../adenostylesglabra/)) boste konjsko grivo ločili po listih -- ti rastejo nasprotno, na glavnih poganjkih pa so dlanasto deljeni na tri do pet suličastih, nazobčanih delov.

@@ -20,7 +20,7 @@ title: Beli petoprstnik
 ---
 Beli petoprstnik cveti v aprilu in maju na suhih travnikih ali grmovnatih pobočjih, predvsem na južnem Primorskem, pa tudi tu in tam po ostali Sloveniji. Cvet z mnogo prašniki, petimi venčnimi in čašnimi listi ter zunanjo čašo ga hitro uvrsti med rožnice, dlanasto razrezani listi in priostreni lističi zunanje čaše pa med petoprstnike.
 
-Od drugih [petoprstnikov](../../genus/potentilla/) boste belega ločili takole:
+Od drugih [petoprstnikov](../genus/potentilla/) boste belega ločili takole:
 
 -   Venčni listi so beli.
 -   Listi so dlanasto deljeni na pet lističev.

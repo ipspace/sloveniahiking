@@ -20,4 +20,4 @@ title: Potočna sretena
 ---
 Potočno sreteno boste od maja do julija opazili na močvirnih travnikih in v vlažnih gozdovih, najpogosteje v severozahodni Sloveniji. Tako kot večina rožnic ima tudi potočna sretena cvet s po petimi čašnimi in venčnimi listi, zunanjo čašo ter velikim številom prašnikov.
 
-Od [drugih rožnic](../../family/rosaceae/) boste sretene ločili po listih, ki so pernato deljeni in imajo veliko končno krpo (glej levo sliko), potočno sreteno pa bodo nato hitro "izdali" kimasti cvetovi z rumenimi venčnimi listi in rdečkasto čašo.
+Od [drugih rožnic](../family/rosaceae/) boste sretene ločili po listih, ki so pernato deljeni in imajo veliko končno krpo (glej levo sliko), potočno sreteno pa bodo nato hitro "izdali" kimasti cvetovi z rumenimi venčnimi listi in rdečkasto čašo.

@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Latasta preobjeda
 ---
-Latasto preobjedo (*Aconitum degenii, Aconitum variegatum paniculatum*) boste podobno kot [ozkočeladasto](../../aconitumlycoctonumssp.vulparia/navadna-preobjeda/) prepoznali predvsem po njenih cvetovih -- v rahlem socvetju rastejo modrovijolični somerni cvetovi z izrazito čelado.
+Latasto preobjedo (*Aconitum degenii, Aconitum variegatum paniculatum*) boste podobno kot [ozkočeladasto](../aconitumlycoctonumssp.vulparia/) prepoznali predvsem po njenih cvetovih -- v rahlem socvetju rastejo modrovijolični somerni cvetovi z izrazito čelado.
 
 Ostali znaki, po katerih boste latasto preobjedo ločili od ostalih preobjed, so še:
 

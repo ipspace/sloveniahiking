@@ -1,6 +1,6 @@
 ---
 color: R
-date: '2004-05-09T00:00:00'
+date: 2004-05-09 00:00:00+00:00
 f_end: '6'
 f_start: '4'
 family: Primulaceae
@@ -11,7 +11,6 @@ image:
 latin: Primula carniolica
 lead: M_0_1059.JPG
 lead_sample: false
-name: index
 order: Primula
 parallel: false
 petals: '5'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Kranjski jeglič
 ---
-Endemični kranjski jeglič cveti v vlažnih skalnih razpokah po bukovih gozdovih od aprila do junija. Najlaže ga boste našli v Idrijskem hribovju, pa tudi ponekod na Notranjskem ([Borovniški Pekel](../../../Izleti/Borovniski_Pekel), Iški Vintgar).
+Endemični kranjski jeglič cveti v vlažnih skalnih razpokah po bukovih gozdovih od aprila do junija. Najlaže ga boste našli v Idrijskem hribovju, pa tudi ponekod na Notranjskem ([Borovniški Pekel](../../Izleti), Iški Vintgar).
 
 To čudovito rožico boste verjetno prepoznali že na prvi pogled, od drugih jegličev pa jo boste ločili takole:
 

@@ -20,7 +20,7 @@ title: Slokastoplodni repnjak
 ---
 Slokastoplodni repnjak raste na toplih apnenčastih tleh po vsej Sloveniji. Njegove rumenkastobele cvetove boste opazili od aprila do julija.
 
-Repnjake ločite od [drugih križnic](../../family/brassicaceae/) po:
+Repnjake ločite od [drugih križnic](../family/brassicaceae/) po:
 
 -   obliki ploda, ki je podolgovat (lusk), in
 -   celih priostrenih listih (zgornji objemajo steblo).

@@ -19,4 +19,4 @@ title: Rumenorjava maslenica
 ---
 Če se vam bo ponosna soseda pohvalila, da na njenem vrtu cvetijo čudovite lilije, bo marsikdaj v resnici mislila na rumenorjave maslenice. Te do meter in pol visoke rože navadno najdete na vrtovih, tu in tam pa podivjajo in vas razveselijo tudi v naravi.
 
-Tako kot  [rumena maslenica](../../hemerocallislilioasphodelus/rumena-maslenica/) ima tudi rumenorjava velike cvetove s šestimi venčnimi listi, neolistano steblo in dolge črtalaste pritlične liste. Ločili ju boste seveda po barvi cveta -- rumena maslenica ima nežno rumen cvet, rumenorjava pa precej temnejšega.
+Tako kot  [rumena maslenica](../hemerocallislilioasphodelus/) ima tudi rumenorjava velike cvetove s šestimi venčnimi listi, neolistano steblo in dolge črtalaste pritlične liste. Ločili ju boste seveda po barvi cveta -- rumena maslenica ima nežno rumen cvet, rumenorjava pa precej temnejšega.

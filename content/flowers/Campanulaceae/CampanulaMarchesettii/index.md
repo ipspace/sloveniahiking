@@ -17,8 +17,8 @@ petals_joined: false
 star_shape: false
 title: Marchesettijeva zvončica
 ---
-Endemično Marchesettijevo zvončico boste našli le na travnikih v Trnovskem gozdu (konec poletja jo boste hitro opazili ob poti proti Kuclju na Čavnu) in v bližini Škocjanskih jam. Prepoznavanje bo zelo preprosto -- tako kot mnogo bolj pogosti [Scheuchzerjeva zvončica](../../campanulascheuchzeri/scheuchzerjeva-zvon&#269;ica/) ali [Witasekina zvončica](../../campanulawitasekiana/witasekina-zvon&#269;ica/) ima tudi ta črtalaste stebelne liste in posamična stebla, cvetni popki pa so pokončni (pri ostalih dveh zvončicah kimasti). Pokončne cvetne popke ima še nekaj zvončic, od katerih boste Marchesettijevo ločili takole:
+Endemično Marchesettijevo zvončico boste našli le na travnikih v Trnovskem gozdu (konec poletja jo boste hitro opazili ob poti proti Kuclju na Čavnu) in v bližini Škocjanskih jam. Prepoznavanje bo zelo preprosto -- tako kot mnogo bolj pogosti [Scheuchzerjeva zvončica](../campanulascheuchzeri/) ali [Witasekina zvončica](../campanulawitasekiana/) ima tudi ta črtalaste stebelne liste in posamična stebla, cvetni popki pa so pokončni (pri ostalih dveh zvončicah kimasti). Pokončne cvetne popke ima še nekaj zvončic, od katerih boste Marchesettijevo ločili takole:
 
 -   Steblo je golo (okroglolistna zvončica ima kratkodlakavo steblo).
 -   Stebelni listi so sedeči ali nerazločno pecljati.
--   Čašni zobci so prilegli in ne štrleči kakor pri [Justinovi zvončici](../../campanulajustiniana/justinova-zvon&#269;ica/).
+-   Čašni zobci so prilegli in ne štrleči kakor pri [Justinovi zvončici](../campanulajustiniana/).

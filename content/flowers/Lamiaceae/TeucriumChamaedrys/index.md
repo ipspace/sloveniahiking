@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Navadni vrednik
 ---
-Navadni vrednik je nizek polgrmiček, ki uspeva na suhih, kamnitih pobočjih po vsej Sloveniji. Njegove rožnate cvetove boste opazili od maja do septembra, od [drugih vrednikov](../../genus/teucrium/) pa ga boste ločili takole:
+Navadni vrednik je nizek polgrmiček, ki uspeva na suhih, kamnitih pobočjih po vsej Sloveniji. Njegove rožnate cvetove boste opazili od maja do septembra, od [drugih vrednikov](../genus/teucrium/) pa ga boste ločili takole:
 
 -   Socvetje je nerazločno, stebelni listi postopno prehajajo v podporne liste cvetov (žajbljasti in rumeni vrednik imata ovršno socvetje).
 -   Listi so kratkopecljati (listi grozdastega vrednika so dolgopecljati), jajčasti in globoko nazobčani (po obliki spominjajo na hrastove liste).

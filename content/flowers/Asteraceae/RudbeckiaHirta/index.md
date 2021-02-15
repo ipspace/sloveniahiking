@@ -26,4 +26,4 @@ Srhkodlakava rudbekija je precej visoka rastlina (do 1 m) z velikimi koški (do 
 -   Jezičasti cvetovi so rumeni, jalovi, cevasti cvetovi so rjavi do črni. Vsi cvetovi v košku so brez kodeljice.
 -   Listi so celi, nazobčani.
 
-Od zelo podobne [deljenolistne rudbekije](../../rudbeckialaciniata/deljenolistna-rudbekija/) boste srhkodlakavo ločili po celih listih in dlakavem, enostavnem steblu.
+Od zelo podobne [deljenolistne rudbekije](../rudbeckialaciniata/) boste srhkodlakavo ločili po celih listih in dlakavem, enostavnem steblu.

@@ -19,4 +19,4 @@ petals_joined: false
 star_shape: false
 title: Hermelika
 ---
-Hermeliko boste našli na kamnitih pobočjih od junija do oktobra -- včasih pokončno (tako kot je tale s sv. Lovrenca), včasih visečo. Prepoznavanje sploh ne bo težko -- mesnati listi jo uvrščajo med tolstičevke, pet venčnih listov  med homulice, edina homulica, ki ima poleg hermelike sploščene in široke liste, pa je [neprava homulica](../../sedumspurium/neprava-homulica/) (Sedum spurium), od katere jo boste zlahka ločili že na prvi pogled.
+Hermeliko boste našli na kamnitih pobočjih od junija do oktobra -- včasih pokončno (tako kot je tale s sv. Lovrenca), včasih visečo. Prepoznavanje sploh ne bo težko -- mesnati listi jo uvrščajo med tolstičevke, pet venčnih listov  med homulice, edina homulica, ki ima poleg hermelike sploščene in široke liste, pa je [neprava homulica](../sedumspurium/) (Sedum spurium), od katere jo boste zlahka ločili že na prvi pogled.

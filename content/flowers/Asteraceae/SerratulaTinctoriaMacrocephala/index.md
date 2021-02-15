@@ -16,4 +16,4 @@ petals_joined: false
 star_shape: false
 title: Veleglava mačina
 ---
-Veleglavo mačino boste v Sloveniji našli na travnikih in pašnikih visoko v gorah, kjer cveti v juniju in juliju. Od mnogo pogostejše [barvilne mačine](../../serratulatinctoria/barvilna-ma&#269;ina/)  (tam boste našli tudi podrobnejši opis) jo ločite le po koških. Ti so zvonasti (barvilna mačina ima valjaste), široki do 12 mm, zbrani v zgoščenem maloštevilnem socvetju (barvilna mačina ima razraslo socvetje).
+Veleglavo mačino boste v Sloveniji našli na travnikih in pašnikih visoko v gorah, kjer cveti v juniju in juliju. Od mnogo pogostejše [barvilne mačine](../serratulatinctoria/)  (tam boste našli tudi podrobnejši opis) jo ločite le po koških. Ti so zvonasti (barvilna mačina ima valjaste), široki do 12 mm, zbrani v zgoščenem maloštevilnem socvetju (barvilna mačina ima razraslo socvetje).

@@ -22,7 +22,7 @@ title: Šentjanževka
 ---
 Zdravilno šentjanževko boste našli marsikje v Sloveniji, predvsem na apnenčastih tleh. Razrasel nižji grmiček z rumenimi cvetovi z množico prašnikov je skoraj nemogoče spregledati; da boste prepričani, da ste res našli šentjanževko, pa preverite še tele znake:
 
--   Listi so **jajčasti** in **nasprotni** (vedno sta dva lista na steblu v paru). V bližini šentjanževke boste marsikdaj našli navidez zelo podobne rože (grinte ali [navadne zlate rozge](../../solidagovirgaureavirgaurea/navadna-zlata-rozga/)), ki pa imajo liste na steblu v spirali.
+-   Listi so **jajčasti** in **nasprotni** (vedno sta dva lista na steblu v paru). V bližini šentjanževke boste marsikdaj našli navidez zelo podobne rože (grinte ali [navadne zlate rozge](../solidagovirgaureavirgaurea/)), ki pa imajo liste na steblu v spirali.
 -   Steblo je pokončno, **golo** in **okroglo, razraslo** z veliko poganjki.
 -   Na koncu poganjkov je vedno **socvetje** rumenih cvetov.
 -   Cvetovi imajo **veliko prašnikov,** venčni listi so rahlo asimetrični in **na enem robu nazobčani** (glej sliko desno spodaj).

@@ -18,9 +18,9 @@ petals_joined: false
 star_shape: false
 title: Puhasti zebrat
 ---
-Puhasti zebrat je poleg [pisanega zebrata](../../galeopsisspeciosa/pisani-zebrat/) najbolj razširjen slovenski zebrat; od julija do septembra ga boste našli na toplejših senčnatih tleh. Tako kot vsi zebrati ima tudi puhasti someren dvoustnat cvet (kar ni čudno, saj spada med [ustnatice](../../family/lamiaceae/)) s štirimi vzporednimi prašniki, ki štrlijo iz venčne cevi. Cvetna čaša je nejasno dvoustna, spodnja venčna ustna pa ima na vsaki strani gubo, kar (poleg razvejenega stebla) ločuje zebrate od mrtvih kopriv.
+Puhasti zebrat je poleg [pisanega zebrata](../galeopsisspeciosa/) najbolj razširjen slovenski zebrat; od julija do septembra ga boste našli na toplejših senčnatih tleh. Tako kot vsi zebrati ima tudi puhasti someren dvoustnat cvet (kar ni čudno, saj spada med [ustnatice](../family/lamiaceae/)) s štirimi vzporednimi prašniki, ki štrlijo iz venčne cevi. Cvetna čaša je nejasno dvoustna, spodnja venčna ustna pa ima na vsaki strani gubo, kar (poleg razvejenega stebla) ločuje zebrate od mrtvih kopriv.
 
-Od nekaterih bolj redkih zebratov boste puhastega ločili po listih, ki imajo vsaj sedem parov stranskih žil, od [pisanega zebrata](../../galeopsisspeciosa/pisani-zebrat/) ga že na prvi pogled loči barva cvetov, od navadnega in drobnocvetnega pa ga ločijo tile znaki:
+Od nekaterih bolj redkih zebratov boste puhastega ločili po listih, ki imajo vsaj sedem parov stranskih žil, od [pisanega zebrata](../galeopsisspeciosa/) ga že na prvi pogled loči barva cvetov, od navadnega in drobnocvetnega pa ga ločijo tile znaki:
 
 -   Rastlina je nižja, visoka do 60 cm.
 -   Cvetni venec je navadno dolg nad 2 cm, rožnat do vijoličen in ima rumeno venčno cev.

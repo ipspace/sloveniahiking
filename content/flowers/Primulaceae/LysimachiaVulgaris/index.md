@@ -19,9 +19,9 @@ petals_joined: false
 star_shape: false
 title: Navadna pijavčnica
 ---
-Rumene cvetove navadne pijavčnice boste od maja do avgusta opazili na vlažnih tleh -- na nabrežjih, močvirjih, travnikih in gozdnih robovih. Cvet ima zrasle venčne liste, nadraslo plodnico z enim vratom in pet prašnikov, kar uvršča pijavčnice med jegličevke (ta več kot meter visoka rastlina je torej bližnja sorodnica [trobentice](../../primulavulgaris/trobentica/)).
+Rumene cvetove navadne pijavčnice boste od maja do avgusta opazili na vlažnih tleh -- na nabrežjih, močvirjih, travnikih in gozdnih robovih. Cvet ima zrasle venčne liste, nadraslo plodnico z enim vratom in pet prašnikov, kar uvršča pijavčnice med jegličevke (ta več kot meter visoka rastlina je torej bližnja sorodnica [trobentice](../primulavulgaris/)).
 
-Od drugih jegličevk boste pijavčnice hitro ločili po stebelnih listih -- olistano steblo s stebelnimi listi, razporejenimi v vretenca, ima le še [kurja češnjica](../../anagallisarvensis/navadna-kurja-&#269;ešnjica/), ki pa nima rumenih cvetov.
+Od drugih jegličevk boste pijavčnice hitro ločili po stebelnih listih -- olistano steblo s stebelnimi listi, razporejenimi v vretenca, ima le še [kurja češnjica](../anagallisarvensis/), ki pa nima rumenih cvetov.
 
 Navadno pijavčnico boste od drugih pijavčnic ločili po teh znakih:
 

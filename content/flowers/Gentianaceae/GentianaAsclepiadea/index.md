@@ -20,7 +20,7 @@ petals_joined: false
 star_shape: false
 title: Svečnik
 ---
-Svečnik ali svilničasti svišč boste našli na travnikih ali v gozdovih marsikje v Sloveniji. Če bodo cvetovi popolnoma odprti, ga ne bo težko prepoznati, saj dobijo cvetovi obliko, značilno za [večino sviščev](../../genus/gentiana/). Prepoznavanje rastline z bolj zaprtimi cvetovi pa bo malce bolj zahtevno, a ne prehudo.
+Svečnik ali svilničasti svišč boste našli na travnikih ali v gozdovih marsikje v Sloveniji. Če bodo cvetovi popolnoma odprti, ga ne bo težko prepoznati, saj dobijo cvetovi obliko, značilno za [večino sviščev](../genus/gentiana/). Prepoznavanje rastline z bolj zaprtimi cvetovi pa bo malce bolj zahtevno, a ne prehudo.
 
 Tako kot večina sviščev ima tudi svečnik
 

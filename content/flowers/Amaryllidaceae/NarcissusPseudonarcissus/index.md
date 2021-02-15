@@ -17,4 +17,4 @@ petals_joined: false
 star_shape: false
 title: Rumena narcisa
 ---
-Tu in tam po Sloveniji boste v marcu in aprilu tudi na travnikih daleč od hiš opazili podivjane rumene narcise, ki jih boste zagotovo prepoznali že na prvi pogled. Od avtohtonih [gorskih narcis](../../narcissuspoeticusradiiflorus/gorska-narcisa/) jih boste seveda ločili po barvi cveta, ki je v celoti rumen.
+Tu in tam po Sloveniji boste v marcu in aprilu tudi na travnikih daleč od hiš opazili podivjane rumene narcise, ki jih boste zagotovo prepoznali že na prvi pogled. Od avtohtonih [gorskih narcis](../narcissuspoeticusradiiflorus/) jih boste seveda ločili po barvi cveta, ki je v celoti rumen.

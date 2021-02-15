@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Dišeči Salomonov pečat
 ---
-Dišeči Salomonov pečat cveti v svetlih gozdovih, na gozdnih robovih in suhih travnikih od konca aprila do junija. Od [drugih Salomonovih pečatov](../../genus/polygonatum/) ga boste ločili takole:
+Dišeči Salomonov pečat cveti v svetlih gozdovih, na gozdnih robovih in suhih travnikih od konca aprila do junija. Od [drugih Salomonovih pečatov](../genus/polygonatum/) ga boste ločili takole:
 
 -   Cvetovi so posamični, dišeči.
 -   Listi so premenjalni, elipsasti, spodaj goli.

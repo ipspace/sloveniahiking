@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Waldsteinov osat
 ---
-Že prvi pogled na cvetove te do dva metra visoke rastline Waldsteinov osat nedvomno uvrsti med [osate](../../genus/cirsium/). Od sorodnikov ga boste ločili takole:
+Že prvi pogled na cvetove te do dva metra visoke rastline Waldsteinov osat nedvomno uvrsti med [osate](../genus/cirsium/). Od sorodnikov ga boste ločili takole:
 
 -   Venec je rdeč, koški so veliki okoli 2 cm.
 -   Konice ovojkovih listov so štrleče.

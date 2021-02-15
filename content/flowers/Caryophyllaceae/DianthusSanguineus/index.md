@@ -24,4 +24,4 @@ Od junija do avgusta boste na suhih kraških travnikih, predvsem na Primorskem, 
 -   Čašne luske so rjave, suhokožnate, zožene v tanko resasto konico (dobro vidno na spodnji fotografiji).
 -   Rastlina je sinjezelena.
 
-Krvavordečemu klinčku je najbolj podoben precej bolj razširjen [navadni klinček](../../dianthuscarthusianorum/navadni-klin&#269;ek/), ki ima svetlejše (rožnate) cvetove, ploščica venčnih listov pa ni dosti krajša od žebice.
+Krvavordečemu klinčku je najbolj podoben precej bolj razširjen [navadni klinček](../dianthuscarthusianorum/), ki ima svetlejše (rožnate) cvetove, ploščica venčnih listov pa ni dosti krajša od žebice.

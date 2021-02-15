@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Navadni alpski zvonček
 ---
-Alpski zvonček cveti v začetku poletja ob talečem se snegu visoko v slovenskih Alpah. Na prvi pogled ga nikakor ne bi uvrstili med jegličevke, sorodnice [trobentice](../../primulavulgaris/trobentica/), zelo podroben pogled na njegov nacepljen cvetni venec pa le pokaže, da je ta sestavljen iz petih nacepljenih zraslih venčnih listov. Od drugih jegličevk boste alpske zvončke ločili že na prvi pogled, navadni alpski zvonček pa boste prepoznali takole:
+Alpski zvonček cveti v začetku poletja ob talečem se snegu visoko v slovenskih Alpah. Na prvi pogled ga nikakor ne bi uvrstili med jegličevke, sorodnice [trobentice](../primulavulgaris/), zelo podroben pogled na njegov nacepljen cvetni venec pa le pokaže, da je ta sestavljen iz petih nacepljenih zraslih venčnih listov. Od drugih jegličevk boste alpske zvončke ločili že na prvi pogled, navadni alpski zvonček pa boste prepoznali takole:
 
 -   Listi (zbrani so v pritlični rozeti) so širši od enega centimetra.
 -   Steblo je visoko do 20 cm, pogosto večcvetno.

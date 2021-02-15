@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Navadna kompava
 ---
-Navadno kompavo boste hitro prepoznali po cvetu, ki je podoben cvetu [bodeče neže](../../carlinaacaulis/bode&#269;a-neža/), le da je precej manjši (do 2 cm) in raste na precej dolgem steblu. V Sloveniji uspevata poleg navadne kompave še srednja (ta je nekoliko višja) in dolgolistna (ta ima sploščene stebelne liste s šibkimi trni). Navadno kompavo boste našli po gozdovih, posekah in suhih travnikih po vsej Sloveniji, srednjo le v okolici Celja in Krškega, dolgolistno pa na Kočevskem.
+Navadno kompavo boste hitro prepoznali po cvetu, ki je podoben cvetu [bodeče neže](../carlinaacaulis/), le da je precej manjši (do 2 cm) in raste na precej dolgem steblu. V Sloveniji uspevata poleg navadne kompave še srednja (ta je nekoliko višja) in dolgolistna (ta ima sploščene stebelne liste s šibkimi trni). Navadno kompavo boste našli po gozdovih, posekah in suhih travnikih po vsej Sloveniji, srednjo le v okolici Celja in Krškega, dolgolistno pa na Kočevskem.

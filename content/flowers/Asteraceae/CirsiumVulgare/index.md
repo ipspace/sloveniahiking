@@ -16,7 +16,7 @@ petals_joined: false
 star_shape: false
 title: Navadni osat
 ---
-Navadni osat (*Cirsium vulgare*) boste našli v svetlih gozdovih, na posekah in travnikih po vsej Sloveniji. Od [drugih osatov](../../genus/cirsium/) ga boste ločili po teh znakih:
+Navadni osat (*Cirsium vulgare*) boste našli v svetlih gozdovih, na posekah in travnikih po vsej Sloveniji. Od [drugih osatov](../genus/cirsium/) ga boste ločili po teh znakih:
 
 -   Cvetovi so škrlatni, košek je jajčaste oblike.
 -   Po visokem steblu (do 2 metra) se iztezajo listi.

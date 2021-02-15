@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Navadna ivanjščica
 ---
-Navadne ivanjščice verjetno ni treba podrobno opisovati, saj je ena najbolj pogostih slovenskih travniških rož. Omenimo le, da boste tu in tam naleteli na precej podobne [vratiče](../../tanacetumcorymbosum/&#268;ešuljasti-vrati&#269;/), ki pa imajo na enem steblu več cvetov.
+Navadne ivanjščice verjetno ni treba podrobno opisovati, saj je ena najbolj pogostih slovenskih travniških rož. Omenimo le, da boste tu in tam naleteli na precej podobne [vratiče](../tanacetumcorymbosum/), ki pa imajo na enem steblu več cvetov.
 
 Poleg navadne ivanjščice boste v Sloveniji opazili še šest drugih (precej bolj redkih), od katerih se navadna loči takole:
 

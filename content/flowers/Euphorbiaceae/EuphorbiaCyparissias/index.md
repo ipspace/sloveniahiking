@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Cipresasti mleček
 ---
-Cipresasti mleček boste zaradi njegovih cvetov takoj uvrstili med [mlečke](../../genus/euphorbia/). Od drugih mlečkov ga boste ločili po več značilnostih:
+Cipresasti mleček boste zaradi njegovih cvetov takoj uvrstili med [mlečke](../genus/euphorbia/). Od drugih mlečkov ga boste ločili po več značilnostih:
 
 -   Listi so črtalasti, široki 2--3 mm ali še ožji, brez prilistov, premenjalni.
 -   V kobulastih socvetjih je po več kot 5 ciatijev.
@@ -29,6 +29,6 @@ Cipresasti mleček boste našli od aprila do avgusta na suhih, sončnih tleh -- 
 
 Več informacij:
 
--   [Lastnosti mlečkov](../../genus/euphorbia/)
+-   [Lastnosti mlečkov](../genus/euphorbia/)
 -   Fotografiji iz Nemčije in Francije
 -   Išči z Googlom

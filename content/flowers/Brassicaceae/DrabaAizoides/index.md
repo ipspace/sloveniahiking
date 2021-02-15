@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Vednozelena gladnica
 ---
-Vednozelena gladnica cveti od aprila do avgusta v skalnih razpokah visoko v gorah. Našli jo boste povsod v slovenskih Alpah, pa tudi ponekod v predalpskem hribovju, na Snežniku in Donački gori. Že prvi pogled na cvetove s štirimi venčnimi in čašnimi listi ter šestimi prašniki jo uvrsti med [križnice](../../family/brassicaceae/). Ker v gorah ne boste našli prav mnogo tako nizkih križnic z rumenimi cvetovi, prepoznavanje ne bi smelo biti pretežko, vsekakor pa lahko preverite te znake:
+Vednozelena gladnica cveti od aprila do avgusta v skalnih razpokah visoko v gorah. Našli jo boste povsod v slovenskih Alpah, pa tudi ponekod v predalpskem hribovju, na Snežniku in Donački gori. Že prvi pogled na cvetove s štirimi venčnimi in čašnimi listi ter šestimi prašniki jo uvrsti med [križnice](../family/brassicaceae/). Ker v gorah ne boste našli prav mnogo tako nizkih križnic z rumenimi cvetovi, prepoznavanje ne bi smelo biti pretežko, vsekakor pa lahko preverite te znake:
 
 -   Rastlina je blazinasto razrasla.
 -   Plod je lušček (največ trikrat tako dolg kot širok).

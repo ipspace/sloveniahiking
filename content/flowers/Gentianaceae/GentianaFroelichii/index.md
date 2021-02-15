@@ -18,9 +18,9 @@ petals_joined: false
 star_shape: false
 title: Froelichov svišč
 ---
-Froelichov svišč cveti v zgodnji jeseni na kamnitih tratah visoko v Kamniško-Savinjskih Alpah in vzhodnih Karavankah. Po značilnem cvetu ga boste zagotovo prepoznali že na prvi pogled, za bolj zanesljivo določitev pa le preverite še znake, ki ga ločijo od [drugih sviščev](../../genus/gentiana/):
+Froelichov svišč cveti v zgodnji jeseni na kamnitih tratah visoko v Kamniško-Savinjskih Alpah in vzhodnih Karavankah. Po značilnem cvetu ga boste zagotovo prepoznali že na prvi pogled, za bolj zanesljivo določitev pa le preverite še znake, ki ga ločijo od [drugih sviščev](../genus/gentiana/):
 
--   Cvetovi so posamični. Venčni listi so svetlomodri ([Clusijev svišč](../../gentianaclusii/clusijev-sviš&#269;/) ima temnejše cvetove).
+-   Cvetovi so posamični. Venčni listi so svetlomodri ([Clusijev svišč](../gentianaclusii/) ima temnejše cvetove).
 -   Rastlina je trajnica z jalovimi (necvetočimi) poganjki.
--   Pritlični listi so v izraziti rozeti. Vsi listi so črtalastosuličasti ([Clusijev svišč](../../gentianaclusii/clusijev-sviš&#269;/) ima elipsaste pritlične liste).
--   Cvet je daljši od treh centimetrov; venčne krpe niso pladnjasto razširjene (kot pri  [spomladanskem svišču](../../gentianavernassp.verna/spomladanski-sviš&#269;/)).
+-   Pritlični listi so v izraziti rozeti. Vsi listi so črtalastosuličasti ([Clusijev svišč](../gentianaclusii/) ima elipsaste pritlične liste).
+-   Cvet je daljši od treh centimetrov; venčne krpe niso pladnjasto razširjene (kot pri  [spomladanskem svišču](../gentianavernassp.verna/)).

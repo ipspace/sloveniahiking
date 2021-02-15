@@ -17,4 +17,4 @@ petals_joined: false
 star_shape: false
 title: Volnatoglavi osat
 ---
-Volnatoglavega osata (Cirsium Eriophorum) zaradi značilne oblike njegovih koškov ne bo mogoče zamenjati z nobenim [drugim](../../genus/cirsium/) [osatom](../../genus/cirsium/). Našli ga boste po vsej Sloveniji na gozdnih obronkih in posekah, predvsem v višjih legah (posnetek je s planine Javornik na Pokljuki).
+Volnatoglavega osata (Cirsium Eriophorum) zaradi značilne oblike njegovih koškov ne bo mogoče zamenjati z nobenim [drugim](../genus/cirsium/) [osatom](../genus/cirsium/). Našli ga boste po vsej Sloveniji na gozdnih obronkih in posekah, predvsem v višjih legah (posnetek je s planine Javornik na Pokljuki).

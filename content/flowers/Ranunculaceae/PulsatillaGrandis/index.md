@@ -22,4 +22,4 @@ title: Velikonočnica
 ---
 V marcu in aprilu zacveti na pobočjih Boča in v okolici Ponikve nežna rožica, v celoti porasla z gostimi dolgimi dlakami, ki jo varujejo pred zmrzaljo. Ker jo navadno opazimo v bližini velike noči, so jo ljudje poimenovali velikonočnica.
 
-Velikonočnico že ob prvem pogledu na cvet z nadraslimi plodnicami, množico prašnikov in brez čašnih listov uvrstimo med zlatičevke, med njimi pa so le kosmatinci tako dlakavi. Tudi ločevanje od [drugih kosmatincev](../../genus/pulsatilla/) bo preprosto -- velikonočnica je edini kosmatinec, ki ima pokončen modrovijoličen cvet.
+Velikonočnico že ob prvem pogledu na cvet z nadraslimi plodnicami, množico prašnikov in brez čašnih listov uvrstimo med zlatičevke, med njimi pa so le kosmatinci tako dlakavi. Tudi ločevanje od [drugih kosmatincev](../genus/pulsatilla/) bo preprosto -- velikonočnica je edini kosmatinec, ki ima pokončen modrovijoličen cvet.

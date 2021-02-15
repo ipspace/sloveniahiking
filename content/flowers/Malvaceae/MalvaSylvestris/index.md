@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Gozdni slezenovec
 ---
-Gozdni slezenovec raste ob poteh, njivah in travnikih od junija do oktobra. Od drugih [slezenovk](../../family/malvaceae/) ga boste ločili takole:
+Gozdni slezenovec raste ob poteh, njivah in travnikih od junija do oktobra. Od drugih [slezenovk](../family/malvaceae/) ga boste ločili takole:
 
 -   Venčni listi so 3 do 4-krat daljši od čaše, škrlatnordeči s temnimi progami.
 -   Cvet ima 3-listno zunanjo čašo, njeni lističi niso zrasli.

@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Pirenejsko ptičje mleko
 ---
-Od maja do julija boste ponekod v Sloveniji na travnikih opazili rastlino, ki bi jo na prvi pogled lahko zamenjali z [zlatim korenom](../../asphodelusalbus/zlati-koren/), le da so cvetovi napačne barve (zelenkasti) in preveč pecljati -- verjetno ste našli pirenejsko ptičje mleko.
+Od maja do julija boste ponekod v Sloveniji na travnikih opazili rastlino, ki bi jo na prvi pogled lahko zamenjali z [zlatim korenom](../asphodelusalbus/), le da so cvetovi napačne barve (zelenkasti) in preveč pecljati -- verjetno ste našli pirenejsko ptičje mleko.
 
 Tako kot mnoge druge hijacintovke ima tudi pirejensko ptičje mleko pritlične liste in cvetove zbrane v grozdasto socvetje. Cvet je brez cvetne čaše, ima šest venčnih listov in nadraslo plodnico (lepo vidno na desni sliki). Venčni listi so prosti, ob cvetu pa raste podporni list, ki je krajši od cvetnega peclja.
 

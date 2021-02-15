@@ -23,8 +23,8 @@ Nepazljiv popotnik bo travnolistno peruniko zlahka spregledal -- sredi šopa lis
 
 Od drugih perunik boste travnolistno ločili takole:
 
--   Spodnji listi cvetnega odevala niso brkati (kot pri [ilirski peruniki](../../irispallidaillyrica/ilirska-perunika/)).
--   Cvetovi so vijolični (cvetovi [vodne perunike](../../irispseudacorus/vodna-perunika/) so rumeni).
--   Cvetno steblo je močno stisnjeno in krilato, visoko največ 40 cm in precej krajše od listov (cvetno steblo [sibirske perunike](../../irissibirica/sibirska-perunika/) je daljše od listov in ni krilato).
+-   Spodnji listi cvetnega odevala niso brkati (kot pri [ilirski peruniki](../irispallidaillyrica/)).
+-   Cvetovi so vijolični (cvetovi [vodne perunike](../irispseudacorus/) so rumeni).
+-   Cvetno steblo je močno stisnjeno in krilato, visoko največ 40 cm in precej krajše od listov (cvetno steblo [sibirske perunike](../irissibirica/) je daljše od listov in ni krilato).
 
 Cvetove travnolistne perunike boste v maju in juniju našli na suhih toplih travnikih in v grmovju.

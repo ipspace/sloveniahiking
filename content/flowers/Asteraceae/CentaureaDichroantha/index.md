@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Dvobarvni glavinec
 ---
-Dvobarvni glavinec je poleg [skalnega](../../centaurearupestris/skalni-glavinec/) edini v Sloveniji rastoči glavinec z rumenim cvetom (starejši viri omenjajo še poletni glavinec, vendar Mala flora Slovenije navaja, da novejših najdb ni). Od skalnega glavinca ga boste hitro ločili po teh znakih:
+Dvobarvni glavinec je poleg [skalnega](../centaurearupestris/) edini v Sloveniji rastoči glavinec z rumenim cvetom (starejši viri omenjajo še poletni glavinec, vendar Mala flora Slovenije navaja, da novejših najdb ni). Od skalnega glavinca ga boste hitro ločili po teh znakih:
 
 -   Listi dvobarvnega glavinca so gladki, listi skalnega pa vsaj po robu raskavi.
 -   Dvobarvni glavinec je precej visok, skalni pa je pritlikava rastlina.

@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Premenjalnolistni vraničnik
 ---
-Ko boste zagledali drobna socvetja vraničnika od daleč, boste morda naredili podobno napako kot jaz in najprej pomislili, da je pred vami mleček (meni je prišel na misel [bradavičasti mleček](../../euphorbiaverrucosa/bradavi&#269;asti-mle&#269;ek/)), nekoliko bolj natančen pogled na cvet pa bo pokazal, da ima ta štiri čašne liste (venčnih ni) in osem prašnikov, kar ga skupaj s podraslo plodnico uvršča med kamnokrečevke.
+Ko boste zagledali drobna socvetja vraničnika od daleč, boste morda naredili podobno napako kot jaz in najprej pomislili, da je pred vami mleček (meni je prišel na misel [bradavičasti mleček](../euphorbiaverrucosa/)), nekoliko bolj natančen pogled na cvet pa bo pokazal, da ima ta štiri čašne liste (venčnih ni) in osem prašnikov, kar ga skupaj s podraslo plodnico uvršča med kamnokrečevke.
 
 Premenjalnolistni vraničnik (tako dolgo ime ima zato, da ga ločimo od nasprotnolistnega, ki ga v Sloveniji verjetno ni) raste po vsej Sloveniji. Našli ga boste na senčnih in vlažnih mestih, predvsem v gozdovih in na gozdnih robovih. Za zanesljivo določitev preverite poleg zgradbe cveta še te znake:
 

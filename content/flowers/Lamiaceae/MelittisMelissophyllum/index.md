@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Medenika
 ---
-Medeniko boste maja in junija opazili v svetlih gozdovih in na grmovnatih pobočjih. Dvoustnata oblika cveta in navzkrižno rastoči listi jo nedvomno uvrščajo med ustnatice, od [drugih ustnatic](../../family/lamiaceae/) pa jo boste ločili po teh lastnostih:
+Medeniko boste maja in junija opazili v svetlih gozdovih in na grmovnatih pobočjih. Dvoustnata oblika cveta in navzkrižno rastoči listi jo nedvomno uvrščajo med ustnatice, od [drugih ustnatic](../family/lamiaceae/) pa jo boste ločili po teh lastnostih:
 
 -   Steblo je enostavno in dlakavo.
 -   Listi so pecljati, jajčasti, enakomerno grobo nazobčani.

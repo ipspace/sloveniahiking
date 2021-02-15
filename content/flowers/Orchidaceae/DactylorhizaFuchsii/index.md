@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Fuchsova prstasta kukavica
 ---
-Fuchsovo prstasto kukavico (*Dactylorhiza fuchsii*) boste prepoznali po istih znakih kot [pegasto prstasto kukavico,](../../dactylorhizamaculata/pegasta-prstasta-kukavica/) razlikujeta se le v obliki spodnjega cvetnega lista, ki je globlje deljen in ima izrazit srednji del.
+Fuchsovo prstasto kukavico (*Dactylorhiza fuchsii*) boste prepoznali po istih znakih kot [pegasto prstasto kukavico,](../dactylorhizamaculata/) razlikujeta se le v obliki spodnjega cvetnega lista, ki je globlje deljen in ima izrazit srednji del.

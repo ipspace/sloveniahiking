@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Hribski bodak
 ---
-Hribski [bodak](../../genus/carduus/) cveti v juniju in juliju na suhih travnikih, zlasti na Krasu. Na prvi pogled je precej podoben [alpskemu](../../carduusdefloratusssp.defloratus/alpski-bodak/) in [debelolistnemu bodaku](../../carduuscrassifoliusssp.crassifolius/debelolistni-bodak/), saj ima tako kot ta dva ravne ovojkove liste (ki niso zažeti tako kot ovojkovi listi [kimastega bodaka](../../carduusnutansssp.nutans/kimasti-bodak/)) in posamične koške na pretežno neolistanih steblih.  Od njiju ga ločimo po listih -- listi hribskega bodaka so:
+Hribski [bodak](../genus/carduus/) cveti v juniju in juliju na suhih travnikih, zlasti na Krasu. Na prvi pogled je precej podoben [alpskemu](../carduusdefloratusssp.defloratus/) in [debelolistnemu bodaku](../carduuscrassifoliusssp.crassifolius/), saj ima tako kot ta dva ravne ovojkove liste (ki niso zažeti tako kot ovojkovi listi [kimastega bodaka](../carduusnutansssp.nutans/)) in posamične koške na pretežno neolistanih steblih.  Od njiju ga ločimo po listih -- listi hribskega bodaka so:
 
 -   vsaj na spodnji strani pajčevinastovolnati,
 -   globoko pernato deljeni,

@@ -21,7 +21,7 @@ title: Grozdasta hrušica
 ---
 Grozdasto hrušico boste aprila in maja našli marsikje v Sloveniji. Temno modro cvetno odevalo je skoraj kroglasto, sestavljeno iz šestih zraslih listov (število listov lahko ugotovite po zobcih na koncu cvetnega odevala). Listi so pritlični, vzporedno žilnati, črtalasti, široki do 5 mm.
 
-Od zelo podobne [jagodaste hrušice](../../muscaribotryoides/jagodasta-hrušica/) boste grozdasto ločili po dolžini listov -- ti so vsaj tako dolgi kot steblo ali daljši od njega.
+Od zelo podobne [jagodaste hrušice](../muscaribotryoides/) boste grozdasto ločili po dolžini listov -- ti so vsaj tako dolgi kot steblo ali daljši od njega.
 
 Več informacij:
 

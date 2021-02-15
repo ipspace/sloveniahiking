@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Črna detelja
 ---
-Črna detelja je skoraj zagotovo najbolj razširjena slovenska [detelja](../../genus/trifolium/). Njene rdečkaste cvetove boste od maja do septembra našli na travnikih in kamnitih gmajnah po vsej Sloveniji, celo na alpskih travnikih.
+Črna detelja je skoraj zagotovo najbolj razširjena slovenska [detelja](../genus/trifolium/). Njene rdečkaste cvetove boste od maja do septembra našli na travnikih in kamnitih gmajnah po vsej Sloveniji, celo na alpskih travnikih.
 
 Od drugih detelj boste črno ločili takole:
 

@@ -18,9 +18,9 @@ petals_joined: false
 star_shape: false
 title: Muškatni slezenovec
 ---
-Muškatni slezenovec cveti od julija do septembra na suhih mestih, najraje med grmovjem in ob poteh. Od [sorodnikov](../../family/malvaceae/) ga boste ločili takole:
+Muškatni slezenovec cveti od julija do septembra na suhih mestih, najraje med grmovjem in ob poteh. Od [sorodnikov](../family/malvaceae/) ga boste ločili takole:
 
 -   Stebelni listi so dlanasto razrezani.
--   Venčni listi so globoko izrobljeni (glej spodnjo fotografijo), podobno kot pri [ostrolistnem slezenovcu](../../malvaalcea/ostrolistni-slezenovec/).
+-   Venčni listi so globoko izrobljeni (glej spodnjo fotografijo), podobno kot pri [ostrolistnem slezenovcu](../malvaalcea/).
 -   Zunanji čašni listi so črtalastosuličasti (glej desno fotografijo).
 -   Steblo je visoko do 50 centimetrov (ostrolistni slezenovec je višji) in štrlečedlakavo.

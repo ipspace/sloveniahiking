@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Velecvetna mrtva kopriva
 ---
-Velecvetno mrtvo koprivo boste na nekoliko bolj vlažnih mestih našli od maja do julija. Od [drugih ustnatic](../../family/lamiaceae/) boste mrtve koprive najlaže ločili po značilni obliki cveta s čeladasto zgornjo ustno, lahko pa seveda preverite še druge [razlikovalne znake mrtvih kopriv](../../genus/lamium/).
+Velecvetno mrtvo koprivo boste na nekoliko bolj vlažnih mestih našli od maja do julija. Od [drugih ustnatic](../family/lamiaceae/) boste mrtve koprive najlaže ločili po značilni obliki cveta s čeladasto zgornjo ustno, lahko pa seveda preverite še druge [razlikovalne znake mrtvih kopriv](../genus/lamium/).
 
 Od drugih mrtvih kopriv boste velecvetno ločili takole:
 

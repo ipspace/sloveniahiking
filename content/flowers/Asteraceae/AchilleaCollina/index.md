@@ -19,4 +19,4 @@ title: Hribski rman
 ---
 Hribski rman cveti od junija do septembra na prisojnih, suhih pobočjih v zahodni Sloveniji. Tako kot večina drugih rmanov ima tudi ta rastlina socvetje, sestavljeno iz koškov z belimi cvetovi, od zelo podobnih sorodnikov pa ga ločimo po stebelnih listih -- ti so debeli, zgoraj goli, spodaj dlakavi, listno vreteno pa ni nazobčano.
 
-**Opomba:** Nekateri botaniki zaradi velike podobnosti obravnavajo hribski rman kot podvrsto [navadnega rmana (*Achillea millefolium*)](../../achilleamillefolium/navadni-rman/).
+**Opomba:** Nekateri botaniki zaradi velike podobnosti obravnavajo hribski rman kot podvrsto [navadnega rmana (*Achillea millefolium*)](../achilleamillefolium/).

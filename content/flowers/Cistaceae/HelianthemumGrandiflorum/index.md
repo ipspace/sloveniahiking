@@ -20,4 +20,4 @@ title: Velecvetni popon
 ---
 Rumene cvetove velecvetnega popona (Slovenci ga poznamo tudi pod dosti lepšim imenom velecvetno sončece) boste od julija do septembra našli na travnikih in kamnitih tratah više v slovenskih gorah.
 
-Od dosti bolj razširjenega [jajčastega popona](../../helianthemumovatum/jaj&#269;asti-popon/) (tam si preberite tudi natančnejši opis njegovih lastnosti) ga loči le velikost cvetov (venčni listi so pri velecvetnem poponu dolgi 12--18 mm, pri jajčastem pa 10--13 mm) ter odsotnost zvezdastih laskov na čašnih listih (te si lahko ogledate na fotografijah [jajčastega popona](../../helianthemumovatum/jaj&#269;asti-popon/)).
+Od dosti bolj razširjenega [jajčastega popona](../helianthemumovatum/) (tam si preberite tudi natančnejši opis njegovih lastnosti) ga loči le velikost cvetov (venčni listi so pri velecvetnem poponu dolgi 12--18 mm, pri jajčastem pa 10--13 mm) ter odsotnost zvezdastih laskov na čašnih listih (te si lahko ogledate na fotografijah [jajčastega popona](../helianthemumovatum/)).

@@ -17,10 +17,10 @@ petals_joined: false
 star_shape: false
 title: Sončni mleček
 ---
-Socvetja sončnega mlečka boste od konca marca do septembra opazili na obdelanih tleh po vsej Sloveniji. Že prvi pogled na socvetje vam bo povedal, da je pred vami [mleček](../../genus/euphorbia/). Od drugih mlečkov ga boste z malce prakse ločili že na prvi pogled, prvič pa ga boste prepoznali po teh znakih:
+Socvetja sončnega mlečka boste od konca marca do septembra opazili na obdelanih tleh po vsej Sloveniji. Že prvi pogled na socvetje vam bo povedal, da je pred vami [mleček](../genus/euphorbia/). Od drugih mlečkov ga boste z malce prakse ločili že na prvi pogled, prvič pa ga boste prepoznali po teh znakih:
 
 -   Rastlina je enoletnica.
 -   Stebla so visoka 10--40 cm.
 -   Stebelni listi so spiralasto razvrščeni. Listi so sedeči, narobe jajčasti, v zgornji polovici razločno nazobčani (lepo vidno na desni fotografiji).
--   Žleze na ovoju ciatija so okroglaste (ne polmesečaste kot pri [cipresastem mlečku](../../euphorbiacyparissias/cipresasti-mle&#269;ek/)).
--   Plodnica je gladka, brez bradavic, kar ga loči od [bradavičastega mlečka](../../euphorbiaverrucosa/bradavi&#269;asti-mle&#269;ek/).
+-   Žleze na ovoju ciatija so okroglaste (ne polmesečaste kot pri [cipresastem mlečku](../euphorbiacyparissias/)).
+-   Plodnica je gladka, brez bradavic, kar ga loči od [bradavičastega mlečka](../euphorbiaverrucosa/).

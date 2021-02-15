@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Deljenolistna črnoglavka
 ---
-Rastlina z belimi cvetovi in imenom *črnoglavka* je nedvomno nenavadna, drobni, do 25 cm visoki rastlini na spodnji fotografiji pa so ime prislužile njene sorodnice, ki imajo res temnomodre cvetove. Že bežen pogled na njene cvetove bo povedal, da je pred vami [ustnatica](../../family/lamiaceae/), od drugih ustnatic pa boste črnoglavke ločili takole:
+Rastlina z belimi cvetovi in imenom *črnoglavka* je nedvomno nenavadna, drobni, do 25 cm visoki rastlini na spodnji fotografiji pa so ime prislužile njene sorodnice, ki imajo res temnomodre cvetove. Že bežen pogled na njene cvetove bo povedal, da je pred vami [ustnatica](../family/lamiaceae/), od drugih ustnatic pa boste črnoglavke ločili takole:
 
 -   Cvetni venec je dvoustnat, vsi štirje prašniki so plodni.
 -   Prašniki so vzporedni in štrlijo iz venčne cevi. Notranja prašnika sta krajša od zunanjih.

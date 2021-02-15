@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Polžarka
 ---
-Če ste med sprehodi po vlažnih gozdovih ali travnikih v aprilu ali maju opazili drobno, do 30 cm visoko rožico, ki vas je na prvi pogled spominjala na [podlesne vetrnice](../../anemonenemorosa/podlesna-vetrnica/), le da je imela olistano steblo in več cvetov, ste zelo verjetno našli navadno polžarko, za zanesljivejšo določitev pa le preverite te lastnosti:
+Če ste med sprehodi po vlažnih gozdovih ali travnikih v aprilu ali maju opazili drobno, do 30 cm visoko rožico, ki vas je na prvi pogled spominjala na [podlesne vetrnice](../anemonenemorosa/), le da je imela olistano steblo in več cvetov, ste zelo verjetno našli navadno polžarko, za zanesljivejšo določitev pa le preverite te lastnosti:
 
 -   Dolgopecljati beli zvezdasti cvetovi imajo pet belih venčnih listov, nadraslo plodnico in številne prašnike.
 -   Prašniki so krajši kot venčni listi.

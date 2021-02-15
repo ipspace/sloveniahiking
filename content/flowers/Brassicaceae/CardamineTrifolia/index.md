@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Trilistna penuša
 ---
-Trilistna penuša cveti od aprila do junija v senčnih bukovih gozdovih po vsej Sloveniji. Cvetovi s štirimi venčnimi listi, štirimi čašnimi listi in šestimi prašniki jo nedvomno uvrščajo med [križnice](../../family/brassicaceae/), od njenih sorodnic pa jo boste ločili po teh lastnostih:
+Trilistna penuša cveti od aprila do junija v senčnih bukovih gozdovih po vsej Sloveniji. Cvetovi s štirimi venčnimi listi, štirimi čašnimi listi in šestimi prašniki jo nedvomno uvrščajo med [križnice](../family/brassicaceae/), od njenih sorodnic pa jo boste ločili po teh lastnostih:
 
 -   Cvetni venec je bel.
 -   Plodovi so luski, daljši od centimetra.

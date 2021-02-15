@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Predalpski petoprstnik
 ---
-Predalpski [petoprstnik](../../genus/potentilla/) cveti sredi poletja v razpokah na sončnih visokoležečih toplih skalah (fotografija je s Srednječavenske poti). Od zelo podobnega [Clusijevega petoprstnika](../../potentillaclusiana/clusijev-petoprstnik/) (tam boste našli tudi podroben opis) ga bodo botaniki (z lupo v žepu) ločili po dolgodlakavih prašničnih nitih, ljubitelji rož pa po številu cvetov: predalpski petoprstnik ima navadno mnogocvetno socvetje, Clusijev pa do tri cvetove v socvetju.
+Predalpski [petoprstnik](../genus/potentilla/) cveti sredi poletja v razpokah na sončnih visokoležečih toplih skalah (fotografija je s Srednječavenske poti). Od zelo podobnega [Clusijevega petoprstnika](../potentillaclusiana/) (tam boste našli tudi podroben opis) ga bodo botaniki (z lupo v žepu) ločili po dolgodlakavih prašničnih nitih, ljubitelji rož pa po številu cvetov: predalpski petoprstnik ima navadno mnogocvetno socvetje, Clusijev pa do tri cvetove v socvetju.

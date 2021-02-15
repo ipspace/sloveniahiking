@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Deljenolistna črnobina
 ---
-Deljenolistna črnobina raste na grušču in v skalnih razpokah visoko na Nanosu in Snežniku, kjer boste njene cvetove opazili od julija do septembra. Cvetovi so nenavadne oblike (glej povečano fotografijo), somerni z zraslimi venčnimi listi, petimi čašnimi listi, nadraslo plodnico in štirimi prašniki. Od [sorodnic v družini črnobinovk](../../family/scrophulariaceae/) črnobine poleg zgradbe cveta ločijo še te lastnosti:
+Deljenolistna črnobina raste na grušču in v skalnih razpokah visoko na Nanosu in Snežniku, kjer boste njene cvetove opazili od julija do septembra. Cvetovi so nenavadne oblike (glej povečano fotografijo), somerni z zraslimi venčnimi listi, petimi čašnimi listi, nadraslo plodnico in štirimi prašniki. Od [sorodnic v družini črnobinovk](../family/scrophulariaceae/) črnobine poleg zgradbe cveta ločijo še te lastnosti:
 
 -   Cvetni venec nima ostroge ali vrečaste izbokline, zgornja ustna ni čeladasta ampak ravna z navzdol zavihanim robom.
 -   Steblo je razločno razvito, spodnji listi so nasprotni.

@@ -17,4 +17,4 @@ petals_joined: false
 star_shape: false
 title: Alpska madronščica
 ---
-Na meliščih visoko v slovenskih Alpah boste od junija do septembra opazili alpsko madronščico, poleglo rožico z modro-rumenim cvetom. Tako kot njena precej večja sorodnica [navadna madronščica](../../linariavulgaris/navadna-madronš&#269;ica/) ima tudi alpska dvoustnat someren cvet z zraslimi venčnimi listi, nadraslo plodnico, štirimi prašniki in ostrogo, od drugih madronščic pa jo boste hitro ločili po vijoličnih venčnih listih.
+Na meliščih visoko v slovenskih Alpah boste od junija do septembra opazili alpsko madronščico, poleglo rožico z modro-rumenim cvetom. Tako kot njena precej večja sorodnica [navadna madronščica](../linariavulgaris/) ima tudi alpska dvoustnat someren cvet z zraslimi venčnimi listi, nadraslo plodnico, štirimi prašniki in ostrogo, od drugih madronščic pa jo boste hitro ločili po vijoličnih venčnih listih.

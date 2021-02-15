@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Navadni oslad
 ---
-V začetku poletja na suhih travnikih po vsej Sloveniji zacveti navadni oslad. Socvetja, ki na daleč malce spominjajo na [kresnice](../../aruncusdioicus/kresnice/), so sestavljena iz drobnih belorumenih cvetov s petimi venčnimi in čašnimi listi. Kljub temu da oslad uvrščamo med rožnice, njegovi cvetovi nimajo zunanje čaše. To ga loči od večine sorodnic, seveda pa je dobro preveriti še te znake:
+V začetku poletja na suhih travnikih po vsej Sloveniji zacveti navadni oslad. Socvetja, ki na daleč malce spominjajo na [kresnice](../aruncusdioicus/), so sestavljena iz drobnih belorumenih cvetov s petimi venčnimi in čašnimi listi. Kljub temu da oslad uvrščamo med rožnice, njegovi cvetovi nimajo zunanje čaše. To ga loči od večine sorodnic, seveda pa je dobro preveriti še te znake:
 
 -   Listi so enkrat pernato deljeni.
 -   Socvetje je razvejeno (repik ima enostavno socvetje), cvetišče je brez bodic.

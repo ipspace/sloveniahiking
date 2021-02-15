@@ -19,7 +19,7 @@ title: Triglavska roža
 ---
 Čudovite blazinice triglavske rože boste v juliju in avgustu našli v skalovju in na skalnatih tratah visoko v slovenskih gorah (najpogosteje v Julijcih, pa tudi ponekod v Karavankah in Kamniško-Savinjskih Alpah).
 
-Prepričan sem, da boste to lepotico takoj prepoznali, če pa se boste poglobili v zgradbo njenega cveta, boste hitro ugotovili, da spada med [petoprstnike](../../genus/potentilla/). Za zanesljivo določanje nato preverite še te lastnosti:
+Prepričan sem, da boste to lepotico takoj prepoznali, če pa se boste poglobili v zgradbo njenega cveta, boste hitro ugotovili, da spada med [petoprstnike](../genus/potentilla/). Za zanesljivo določanje nato preverite še te lastnosti:
 
 -   Listi so dlanasto deljeni na tri lističe.
 -   Venčni listi so rožnatordeči.

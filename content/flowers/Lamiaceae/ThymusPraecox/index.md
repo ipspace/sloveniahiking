@@ -23,9 +23,9 @@ Rana materina dušica cveti od maja do julija na skalovju, kamnitih mestih in so
 -   Cvetni venec je razločno someren in dvoustnat.
 -   Vsi štirje prašniki imajo normalno razvite prašnice (če nimate odličnega vida, bo lupa že dobrodošla).
 -   Prašniki so daljši od venčne cevi (brez lupe že ugibamo).
--   Zgornja venčna ustna ni žličasto oblikovana kot pri [črnoglavkah](../../prunellalaciniata/deljenolistna-črnoglavka/), [zebratih](../../galeopsisspeciosa/pisani-zebrat/) ali [mrtvih koprivah](../../lamiummaculatum/lisasta-mrtva-kopriva/).
--   Listi so popolnoma celorobi in imajo izrazit aromatičen vonj (listi [šetrajnika](../../acinosalpinus/alpski-šetrajnik/) ne dišijo).
--   Cvetovi so drobni, dolgi do 6 mm (cvetovi [ožepka](../../hyssopusofficinalis/navadni-ožepek/) ali [šetraja](../../saturejamontana/kraški-šetraj/) so večji).
+-   Zgornja venčna ustna ni žličasto oblikovana kot pri [črnoglavkah](../prunellalaciniata/), [zebratih](../galeopsisspeciosa/) ali [mrtvih koprivah](../lamiummaculatum/).
+-   Listi so popolnoma celorobi in imajo izrazit aromatičen vonj (listi [šetrajnika](../acinosalpinus/) ne dišijo).
+-   Cvetovi so drobni, dolgi do 6 mm (cvetovi [ožepka](../hyssopusofficinalis/) ali [šetraja](../saturejamontana/) so večji).
 
 Določanje materinih dušic je prav tako hudo zoprno početje (to priznava celo Mala flora Slovenije), a vseeno poskusite takole:
 

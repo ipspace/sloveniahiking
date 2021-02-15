@@ -23,7 +23,7 @@ Bledorumeni ušivec je ena tistih rož, ki jih boste zagotovo prepoznali na prvi
 Od drugih črnobinovk ušivce ločijo te lastnosti:
 
 -   Cvetovi imajo štiri prašnike, vsi štirje so plodni.
--   Venec pri dnu nima ostroge ali izbokline (kot cvetni venec [madronščice](../../linariavulgaris/navadna-madronš&#269;ica/) ali [poponca](../../cymbalariamuralis/zidni-poponec/)).
+-   Venec pri dnu nima ostroge ali izbokline (kot cvetni venec [madronščice](../linariavulgaris/) ali [poponca](../cymbalariamuralis/)).
 -   Zgornja ustna venca je čeladasta (dobro vidno na desni fotografiji).
 
  Poleg dlakavega socvetja (to je zagotovo najbolj opazen določevalni znak) se bledorumeni ušivec od drugih ušivcev loči še po takole:

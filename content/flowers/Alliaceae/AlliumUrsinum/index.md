@@ -20,5 +20,5 @@ title: Čemaž
 ---
 Čemaž boste najlaže našli spomladi, ko vas bo nanj poleg kobulastih socvetij nežnih belih cvetov opozarjal značilen vonj po česnu -- čemaž je namreč njegov bližnji sorodnik, nekateri ga celo uporabljajo za začimbo namesto česna (ni čudno, da ga mnogi imenujejo divji česen).
 
-Spomladi, ko čemaž cveti, lahko mirno nabirate njegove liste in jih žvečite (so zdravilni), drugače pa tega ne počnite, saj ga hitro zamenjate s strupenim [podleskom](../../colchicumautumnale/jesenski-podlesek/).
+Spomladi, ko čemaž cveti, lahko mirno nabirate njegove liste in jih žvečite (so zdravilni), drugače pa tega ne počnite, saj ga hitro zamenjate s strupenim [podleskom](../colchicumautumnale/).
 

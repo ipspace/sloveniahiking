@@ -17,14 +17,14 @@ petals_joined: false
 star_shape: false
 title: Navadni čistec
 ---
-Navadni čistec cveti sredi poletja na gozdnih travnikih in obronkih gozdov po vsej Sloveniji razen na južnem Primorskem. Po obliki cveta ga boste takoj uvrstili med [ustnatice](../../family/lamiaceae/), določanje rodov pa je v tej družini vedno neprijetno početje. Čistec določite takole:
+Navadni čistec cveti sredi poletja na gozdnih travnikih in obronkih gozdov po vsej Sloveniji razen na južnem Primorskem. Po obliki cveta ga boste takoj uvrstili med [ustnatice](../family/lamiaceae/), določanje rodov pa je v tej družini vedno neprijetno početje. Čistec določite takole:
 
--   Cvetovi so somerni in dvoustnati. Spodnja venčna ustna je brez gub (te imajo le cvetovi [zebratov](../../galeopsisspeciosa/pisani-zebrat/)).
+-   Cvetovi so somerni in dvoustnati. Spodnja venčna ustna je brez gub (te imajo le cvetovi [zebratov](../galeopsisspeciosa/)).
 -   Cvetovi imajo štiri prašnike, ki štrlijo iz venčne cevi.
 -   Cvetni venec je daljši od čaše.
 -   Prašniki so vzporedni; notranja prašnika sta krajša od zunanjih.
--   Venčna cev ni trebušasto razširjena kot pri [mrtvih koprivah](../../lamiumorvala/velecvetna-mrtva-kopriva/).
--   Čaša ni široko dvoustna kot pri [medeniki](../../melittismelissophyllum/medenika/).
+-   Venčna cev ni trebušasto razširjena kot pri [mrtvih koprivah](../lamiumorvala/).
+-   Čaša ni široko dvoustna kot pri [medeniki](../melittismelissophyllum/).
 -   Čašni zobci niso zrasli v obročast rob.
 -   Peclji spodnjih listov so do štirikrat daljši od listne ploskve.
 -   Rastlina ima številne prizemne listne rozete; cvetoči poganjki rastejo ob rozeti.

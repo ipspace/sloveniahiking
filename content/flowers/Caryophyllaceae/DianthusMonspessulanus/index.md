@@ -28,6 +28,6 @@ Montpellierski klinček boste poleti opazili marsikje v Sloveniji, predvsem na s
 -   Ploščica venčnih listov je vsaj do 1/3 resasto razcepljena (slika skrajno desno).
 -   Čašne luske so suličaste, priostrene v dolgo ozko trikotasto zeleno reso.
 
-Montpellierski klinček boste najlaže zamenjali z zaščitenim [Sternbergovim klinčkom](../../dianthussternbergii/sternbergov-klin&#269;ek/), ki je nižji in navadno enocveten, ter z redkima peresastim klinčkom in čudovitim klinčkom, ki pa na koncu čašnih lusk nimata dolgih res.
+Montpellierski klinček boste najlaže zamenjali z zaščitenim [Sternbergovim klinčkom](../dianthussternbergii/), ki je nižji in navadno enocveten, ter z redkima peresastim klinčkom in čudovitim klinčkom, ki pa na koncu čašnih lusk nimata dolgih res.
 
 Na sprehodih boste opazili cel barvni spekter tega zanimivega klinčka: od skoraj bele do temno lila (glej spodaj).

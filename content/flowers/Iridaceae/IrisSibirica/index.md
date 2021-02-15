@@ -20,8 +20,8 @@ title: Sibirska perunika
 ---
 Sibirska perunika cveti v maju in juniju na močvirskih travnikih ponekod v Sloveniji. Od drugih perunik jo zlahka ločimo:
 
--   Spodnji cvetni listi nimajo brkatih dlačic (kot cvetovi [ilirske perunike](../../irispallidaillyrica/ilirska-perunika/)).
--   Cvetovi so modrovijolični ([vodna perunika](../../irispseudacorus/vodna-perunika/) ima rumene).
--   Steblo je valjasto (pri [travnolistni peruniki](../../irisgraminea/travnolistna-perunika/) krilato), visoko nad 50 cm.
--   Pritlični listi so krajši od cvetnih stebel (listi [travnolistne perunike](../../irisgraminea/travnolistna-perunika/)  so precej daljši od cvetnih stebel).
--   Rastlina raste na močvirskih travnikih ([kojniška perunika](../../irissibiricassp.erirrhiza/kojniška-perunika/) raste na suhih kraških travnikih).
+-   Spodnji cvetni listi nimajo brkatih dlačic (kot cvetovi [ilirske perunike](../irispallidaillyrica/)).
+-   Cvetovi so modrovijolični ([vodna perunika](../irispseudacorus/) ima rumene).
+-   Steblo je valjasto (pri [travnolistni peruniki](../irisgraminea/) krilato), visoko nad 50 cm.
+-   Pritlični listi so krajši od cvetnih stebel (listi [travnolistne perunike](../irisgraminea/)  so precej daljši od cvetnih stebel).
+-   Rastlina raste na močvirskih travnikih ([kojniška perunika](../irissibiricassp.erirrhiza/) raste na suhih kraških travnikih).

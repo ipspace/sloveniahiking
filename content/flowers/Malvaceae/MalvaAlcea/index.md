@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Ostrolistni slezenovec
 ---
-Ostrolistni slezenovec raste na suhih mestih, najraje med grmovjem ali ob poteh, po vsej Sloveniji. Njegove svetlovijolične cvetove boste opazili od julija do septembra. Od drugih [slezenovk](../../family/malvaceae/) boste to do meter visoko rastlino ločili takole:
+Ostrolistni slezenovec raste na suhih mestih, najraje med grmovjem ali ob poteh, po vsej Sloveniji. Njegove svetlovijolične cvetove boste opazili od julija do septembra. Od drugih [slezenovk](../family/malvaceae/) boste to do meter visoko rastlino ločili takole:
 
 -   Cvetovi imajo (kot pri vseh slezenovcih) trilistno zunanjo čašo. Lističi zunanje čaše niso zrasli.
 -   Stebelni listi so dlanasto razrezani (glej levo fotografijo).

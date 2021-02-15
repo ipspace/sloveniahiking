@@ -25,7 +25,7 @@ Bezgove prstaste kukavice boste v maju in juniju našli na suhih kamnitih travni
 
 -   Medena ustna je trikrpa, obrnjena navzdol in podaljšana v ostrogo.
 -   Srednja krpa medene ustne ni spiralasto zavita.
--   Ostroga ni nitasta (kot pri [navadnem kukovičniku](../../gymnadeniaconopsea/navadni-kukovi&#269;nik/)).
+-   Ostroga ni nitasta (kot pri [navadnem kukovičniku](../gymnadeniaconopsea/)).
 -   Podporni listi so zeleni in daljši od plodnice.
 -   Čelado sestavljajo samo trije cvetni listi.
 

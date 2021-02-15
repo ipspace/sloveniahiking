@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Hostni teloh
 ---
-Hostni teloh boste našli predvsem v vzhodni Sloveniji, kjer boste v februarju in marcu na travnatih pobočjih in med grmovjem opazili njegove zelene cvetove. Na prvi pogled je zelo podoben [blagodišečemu telohu](../../helleborusodorus/blagodiše&#269;i-teloh/), ločili pa ju boste takole:
+Hostni teloh boste našli predvsem v vzhodni Sloveniji, kjer boste v februarju in marcu na travnatih pobočjih in med grmovjem opazili njegove zelene cvetove. Na prvi pogled je zelo podoben [blagodišečemu telohu](../helleborusodorus/), ločili pa ju boste takole:
 
 -   Cvetni listi hostnega teloha so ozki in se ne prekrivajo, pri blagodišečem telohu pa so cvetni listi precej širši in izrazito prekriti.
 -   Segmenti pritličnih listov blagodišečega teloha so širokosuličasti (do 4 cm), segmenti listov hostnega teloha pa ozkosuličasti (do 2 cm).

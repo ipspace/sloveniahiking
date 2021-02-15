@@ -24,7 +24,7 @@ Zavito škrbico boste našli na suhih pustih travnikih z nizko pokošeno travo p
 
 To drobno, do 30 cm visoko rožo boste verjetno prepoznali na prvi pogled. Če vam ne bo šlo, lahko -- potem ko boste po obliki cveta ugotovili, da spada med kukavičevke -- preverite tudi te znake:
 
--   Cvetovi nimajo ostroge. Medena ustna je barvita in ni razločno izbočena kot pri [mačjem ušesu](../../ophryssphegodesssp.sphegodes/osjeliko-ma&#269;je-uho/).
+-   Cvetovi nimajo ostroge. Medena ustna je barvita in ni razločno izbočena kot pri [mačjem ušesu](../ophryssphegodesssp.sphegodes/).
 -   Steblo ima le zelene luskoliste.
 -   Cvetovi rastejo v nizu, ki je zasukan okoli osi socvetja.
 

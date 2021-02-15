@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Vrtna nočnica
 ---
-Vrtna nočnica je okrasna rastlina, ki večkrat podivjano raste po grmovju in na rečnih obrežjih. Cvetovi s štirimi venčnimi listi in šestimi prašniki jo uvrščajo med [križnice](../../family/brassicaceae/), od drugih križnic pa jo ločite takole:
+Vrtna nočnica je okrasna rastlina, ki večkrat podivjano raste po grmovju in na rečnih obrežjih. Cvetovi s štirimi venčnimi listi in šestimi prašniki jo uvrščajo med [križnice](../family/brassicaceae/), od drugih križnic pa jo ločite takole:
 
 -   Cvetovi so vijolični.
 -   Plod je vsaj trikrat daljši od svoje širine (lusk).

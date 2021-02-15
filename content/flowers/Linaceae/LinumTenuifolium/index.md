@@ -23,4 +23,4 @@ Drobnolistni lan cveti v juniju in juliju na toplih suhih kamnitih pobočjih (fo
 -   Venčni listi so svetlovijolični ali roza (barva cveta na levi fotografiji je napačna).
 -   Čašni listi imajo na robu žlezaste laske.
 -   Listi so črtalasti, goli in spiralasto razvrščeni.
--   Steblo je golo (zelo podoben [lepljivi lan](../../linumviscosum/lepljivi-lan/) ima štrleče dolgodlakavo steblo).
+-   Steblo je golo (zelo podoben [lepljivi lan](../linumviscosum/) ima štrleče dolgodlakavo steblo).

@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Gladki mleček
 ---
-Cvetovi gladki mleček že na prvi pogled uvrščajo med [mlečke](../../genus/euphorbia/). Našli ga boste na kamnitih kraških gmajnah -- v poletnih mesecih bo cvetel, jeseni pa boste lahko občudovali živo obarvane liste (slika desno). Od ostalih mlečkov ga boste ločili takole:
+Cvetovi gladki mleček že na prvi pogled uvrščajo med [mlečke](../genus/euphorbia/). Našli ga boste na kamnitih kraških gmajnah -- v poletnih mesecih bo cvetel, jeseni pa boste lahko občudovali živo obarvane liste (slika desno). Od ostalih mlečkov ga boste ločili takole:
 
 -   Rastline so večinoma brez stranskih poganjkov.
 -   Listi so razporejeni premenjalno, nekoliko usnjati, sinjezeleni. So suličaste oblike, celi, brez prilistov, najširši v sredini ali malo nad njo.

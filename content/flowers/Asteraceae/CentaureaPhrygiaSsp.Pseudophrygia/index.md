@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Lasuljasti glavinec
 ---
-Lasuljasti glavinec je v Sloveniji precej redek; našli ga boste na travnikih, pašnikih in gozdnih jasah visoko v gorah (posnetki so z Male Lazne). Od zelo podobnega [peresastega glavinca](../../centaureaunifloranervosa/peresasti-glavinec/) (tam boste našli tudi podrobnejši opis) lasuljastega loči razraslo steblo, na katerem je več koškov.
+Lasuljasti glavinec je v Sloveniji precej redek; našli ga boste na travnikih, pašnikih in gozdnih jasah visoko v gorah (posnetki so z Male Lazne). Od zelo podobnega [peresastega glavinca](../centaureaunifloranervosa/) (tam boste našli tudi podrobnejši opis) lasuljastega loči razraslo steblo, na katerem je več koškov.

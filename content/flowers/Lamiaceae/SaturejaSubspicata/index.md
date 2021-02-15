@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Pritlikavi šetraj
 ---
-Pritlikavi šetraj je polgrmiček, katerega rdečkastovijolične cvetove boste konec poletja opazili na kraških gmajnah, grušču ali v skalnih razpokah. Od [kraškega šetraja](../../saturejamontana/kraški-šetraj/) (tam si oglejte tudi opis skupnih znakov šetrajev) ga loči nekoliko bolj robato štirirobo golo steblo, pa tudi barva cvetov, ki so vijoličasti in imajo v ustju temnejše lise.
+Pritlikavi šetraj je polgrmiček, katerega rdečkastovijolične cvetove boste konec poletja opazili na kraških gmajnah, grušču ali v skalnih razpokah. Od [kraškega šetraja](../saturejamontana/) (tam si oglejte tudi opis skupnih znakov šetrajev) ga loči nekoliko bolj robato štirirobo golo steblo, pa tudi barva cvetov, ki so vijoličasti in imajo v ustju temnejše lise.

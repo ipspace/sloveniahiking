@@ -25,7 +25,7 @@ Kamnokrečna lepnica cveti od maja do avgusta na skalovju od nižine pa skoraj d
 -   Cvetovi so zvezdasti in imajo po pet (redko štiri) venčnih in čašnih listov.
 -   Venčni listi so prosti, čašni pa so lahko zrasli v čašo.
 -   Razen jermenčice (*Corrigiola*) imajo vse klinčnice cele nasprotno razporejene liste.
--   Cvetovi imajo praviloma deset prašnikov, bodičnik (*Drypis)* jih ima pet. Cvetovi s štirimi venčnimi listi (na primer cvetovi [mahovne popkorese](../../moehringiamuscosa/mahovna-popkoresa/)) imajo osem prašnikov.
+-   Cvetovi imajo praviloma deset prašnikov, bodičnik (*Drypis)* jih ima pet. Cvetovi s štirimi venčnimi listi (na primer cvetovi [mahovne popkorese](../moehringiamuscosa/)) imajo osem prašnikov.
 
 Od drugih klinčnic lepnice ločite takole:
 

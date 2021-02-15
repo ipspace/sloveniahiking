@@ -19,11 +19,11 @@ title: Gozdna spominčica
 ---
 Gozdna spominčica je v Sloveniji najbolj razširjena spominčica. Na travnikih in v vlažnih gozdovih jo boste našli od konca aprila pa vse do oktobra.
 
-Spominčice boste že na prvi pogled prepoznali po značilnih modrih cvetovih, ki so sestavljeni iz petih zraslih venčnih listov; zamenjate jih lahko le s [spomladansko torilnico](../../omphalodesverna/spomladanska-torilnica/), ki pa ima pecljate, navadno srčaste liste.
+Spominčice boste že na prvi pogled prepoznali po značilnih modrih cvetovih, ki so sestavljeni iz petih zraslih venčnih listov; zamenjate jih lahko le s [spomladansko torilnico](../omphalodesverna/), ki pa ima pecljate, navadno srčaste liste.
 
 Od drugih spominčic boste gozdno spominčico ločili takole:
 
--   Rastlina je visoka do 40 cm in raste v nižjih predelih (v gorah raste podobna, a precej nižja [planinska spominčica](../../myosotisalpestris/planinska-spomin&#269;ica/)).
+-   Rastlina je visoka do 40 cm in raste v nižjih predelih (v gorah raste podobna, a precej nižja [planinska spominčica](../myosotisalpestris/)).
 -   Cvetovi imajo v premeru do 8 mm, čaša je štrleče dlakava.
 -   Rastlina ima odebeljeno koreniko (trajnica).
 -   Venčna cev je le malo daljša od čaše.

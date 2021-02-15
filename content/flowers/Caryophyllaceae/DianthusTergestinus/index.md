@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Tržaški klinček
 ---
-Tržaški klinček je zelo podoben [divjemu klinčku](../../dianthussylvestris/divji-klin&#269;ek/), le da ga boste teže našli -- od julija pa vse do oktobra ga boste morda opazili na kamnitih kraških travnikih. Od drugih  klinčkov ga boste ločili po tehle lastnostih:
+Tržaški klinček je zelo podoben [divjemu klinčku](../dianthussylvestris/), le da ga boste teže našli -- od julija pa vse do oktobra ga boste morda opazili na kamnitih kraških travnikih. Od drugih  klinčkov ga boste ločili po tehle lastnostih:
 
 -   Cvetovi so posamični in imajo dve čašni luski (divji klinček ima 4--6 čašnih lusk).
 -   Ploščica venčnih listov je skoraj celoroba (pri divjem klinčku nazobčana).

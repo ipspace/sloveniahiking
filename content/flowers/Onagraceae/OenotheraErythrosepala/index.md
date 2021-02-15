@@ -17,4 +17,4 @@ petals_joined: false
 star_shape: false
 title: Rdečečašni svetlin
 ---
-Rdečečašni svetlin uspeva na gruščnatih tleh po vsej Sloveniji; njegove velike rumene cvetove boste opazili od junija pa vse do konca septembra. Od [drugih svetlinov](../../oenotherabiennis/dvoletni-svetlin/) ga boste ločili po precej večjih cvetovih (venčni listi so dolgi več kot štiri centimetre, pri drugih svetlinih pa le dva do tri) in rdečkastih čašnih listih in vrhu socvetja.
+Rdečečašni svetlin uspeva na gruščnatih tleh po vsej Sloveniji; njegove velike rumene cvetove boste opazili od junija pa vse do konca septembra. Od [drugih svetlinov](../oenotherabiennis/) ga boste ločili po precej večjih cvetovih (venčni listi so dolgi več kot štiri centimetre, pri drugih svetlinih pa le dva do tri) in rdečkastih čašnih listih in vrhu socvetja.

@@ -24,4 +24,4 @@ Repuščeva zvončica cveti od maja do avgusta na toplih kraških travnikih (fot
 -   Cvetovi so zbrani v rahlem dolgem grozdastem socvetju.
 -   Spodnji stebelni listi so suličasti, sedeči ali pa imajo nerazločne peclje.
 
-Repuščevi zvončici sta po obliki listov najbolj podobni [breskvolistna](../../campanulapersicifolia/breskvolistna-zvon&#269;ica/) in [razprostrta](../../campanulapatula/razprostrta-zvon&#269;ica/) zvončica. Breskvolistna zvončica ima manj (do osem) precej večjih cvetov, razprostrta zvončica pa zelo rahlo latasto ali češuljasto socvetje, sestavljeno iz dolgih tankih vejic.
+Repuščevi zvončici sta po obliki listov najbolj podobni [breskvolistna](../campanulapersicifolia/) in [razprostrta](../campanulapatula/) zvončica. Breskvolistna zvončica ima manj (do osem) precej večjih cvetov, razprostrta zvončica pa zelo rahlo latasto ali češuljasto socvetje, sestavljeno iz dolgih tankih vejic.

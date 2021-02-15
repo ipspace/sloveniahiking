@@ -20,6 +20,6 @@ title: Nasršeni kamnokreč
 Blazinice z belimi cvetovi nasršenega kamnokreča boste od julija do septembra našli na skalah in grušču visoko v slovenskih Alpah, pa tudi v Trnovskem gozdu. Verjetno boste hitro uganili, da je pred vami kamnokreč (seveda lahko preverite tudi lastnosti kamnokrečev), od sorodnikov pa boste nasršenega ločili takole:
 
 -   Venčni listi so beli.
--   Listi so celorobi. Na robu boste opazili bele apnenčaste luskice. Teh je največ sedem (več jih ima [skorjasti kamnokreč](../../saxifragacrustata/skorjasti-kamnokre&#269;/)).
+-   Listi so celorobi. Na robu boste opazili bele apnenčaste luskice. Teh je največ sedem (več jih ima [skorjasti kamnokreč](../saxifragacrustata/)).
 -   Steblo je večcvetno (Burserjev kamnokreč ima enocvetno steblo).
 -   Listi rozete so ukrivljeni šele na konici (listi sinjezelenega kamnokreča so ukrivljeni že pri dnu).

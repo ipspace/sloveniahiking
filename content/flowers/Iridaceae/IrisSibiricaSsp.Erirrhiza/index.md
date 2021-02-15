@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Kojniška perunika
 ---
-V začetku junija zacveti na suhih kraških travnikih Kojnika in Zalipnika, Nanosa, Lonice in Snežniške planote endemična kojniška perunika. Na prvi pogled je precej podobna [sibirski peruniki](../../irissibirica/sibirska-perunika/), ki pa raste le na vlažnih tleh. Ločili ju boste takole:
+V začetku junija zacveti na suhih kraških travnikih Kojnika in Zalipnika, Nanosa, Lonice in Snežniške planote endemična kojniška perunika. Na prvi pogled je precej podobna [sibirski peruniki](../irissibirica/), ki pa raste le na vlažnih tleh. Ločili ju boste takole:
 
 -   Steblo kojniške perunike je elipsasto, visoko do 70 cm, steblo sibirske pa je okroglo in nekaj nižje (visoko do 50 cm).
 -   Pritlični listi kojniške perunike so komaj krajši od stebla, sibirska pa ima precej krajše.
@@ -27,5 +27,5 @@ V začetku junija zacveti na suhih kraških travnikih Kojnika in Zalipnika, Nano
 
 Od drugih perunik pa boste kojniško seveda takoj ločili:
 
--   Večina drugih perunik ima večje cvetove z brkatimi dlačicami (na primer [ilirska perunika](../../irispallidaillyrica/ilirska-perunika/), ki jo boste zagotovo našli v bližini kojniške).
--   Pritlični listi [travnolistne perunike](../../irisgraminea/travnolistna-perunika/)  so precej daljši od cvetnih stebel, pa tudi njeno steblo je bolj krilato.
+-   Večina drugih perunik ima večje cvetove z brkatimi dlačicami (na primer [ilirska perunika](../irispallidaillyrica/), ki jo boste zagotovo našli v bližini kojniške).
+-   Pritlični listi [travnolistne perunike](../irisgraminea/)  so precej daljši od cvetnih stebel, pa tudi njeno steblo je bolj krilato.

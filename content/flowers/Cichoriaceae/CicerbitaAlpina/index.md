@@ -16,4 +16,4 @@ petals_joined: false
 star_shape: false
 title: Navadna gorska ločika
 ---
-Gorska ločika raste na vlažnih legah više v gorah (našli smo jo na Poreznu in Snežniku); cveti od junija do septembra. Koški jo uvrščajo med radičevke. Od [potrošnika](../../cichoriumintybus/potrošnik/), ki ima ravno tako modre cvetove, jo loči oblika socvetja -- koški rastejo v zgoščenih grozdih na vrhu do 2 m visokega stebla.
+Gorska ločika raste na vlažnih legah više v gorah (našli smo jo na Poreznu in Snežniku); cveti od junija do septembra. Koški jo uvrščajo med radičevke. Od [potrošnika](../cichoriumintybus/), ki ima ravno tako modre cvetove, jo loči oblika socvetja -- koški rastejo v zgoščenih grozdih na vrhu do 2 m visokega stebla.

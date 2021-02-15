@@ -1,6 +1,6 @@
 ---
 color: Y
-date: '2007-05-27T00:00:00'
+date: 2007-05-27 00:00:00+00:00
 f_end: '6'
 f_start: '5'
 family: Fabaceae
@@ -11,7 +11,6 @@ image:
 latin: Genista sericea
 lead: M_0_00823.JPG
 lead_sample: false
-name: index
 order: Genista
 parallel: false
 petals: '5'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Svilnata košeničica
 ---
-Svilnata [košeničica](../l_genista.htm) cveti v maju in juniju na kamnitih kraških pobočjih (hitro jo boste našli na [Mali gori](../../../Izleti/MalaGora)). Od bližnjih sorodnic jo boste ločili takole:
+Svilnata [košeničica](..) cveti v maju in juniju na kamnitih kraških pobočjih (hitro jo boste našli na [Mali gori](../../Izleti)). Od bližnjih sorodnic jo boste ločili takole:
 
 -   Rastlina nima trnov.
 -   Listi so celi in dolgi 2 do 4 centimetre.

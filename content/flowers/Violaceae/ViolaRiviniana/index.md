@@ -22,9 +22,9 @@ title: Rivinova vijolica
 Rivinova vijolica cveti v pozni pomladi (do aprila do junija) v gozdovih po vsej Sloveniji. Od drugih vijolic jo ločimo po teh znakih:
 
 -   Trije venčni listi so obrnjeni navzdol.
--   Ostroga je svetla, debela, topa, rahlo ukrivljena navzgor (pri [gozdni vijolici](../../violareichenbachiana/gozdna-vijolica/) temnovijolična, ozka, priostrena, ukrivljena rahlo navzdol).
--   Čašni listi so priostreni. Priveski čašnih listov so skoraj kvadratni (pri [gozdni vijolici](../../violareichenbachiana/gozdna-vijolica/) kratki).
+-   Ostroga je svetla, debela, topa, rahlo ukrivljena navzgor (pri [gozdni vijolici](../violareichenbachiana/) temnovijolična, ozka, priostrena, ukrivljena rahlo navzdol).
+-   Čašni listi so priostreni. Priveski čašnih listov so skoraj kvadratni (pri [gozdni vijolici](../violareichenbachiana/) kratki).
 -   Steblo je olistano, razvito že v začetku cvetenja in ni enoredno dlakavo.
 -   Prilisti srednjih stebelnih listov so mnogo krajši od listnih pecljev.
 -   Listi so jajčasti s srčastim dnom in razločno nazobčani.
--   Rastlina ima pritlično listno rozeto ([pasja vijolica](../../violacanina/pasja-vijolica/) je nima).
+-   Rastlina ima pritlično listno rozeto ([pasja vijolica](../violacanina/) je nima).

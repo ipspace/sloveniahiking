@@ -16,9 +16,9 @@ petals_joined: false
 star_shape: false
 title: Okrinkani bodak
 ---
-Okrinkani bodak raste v gozdovih, na travnikih in med ruševjem visoko v slovenskih gorah. Njegove cvetove boste julija in avgusta opazili predvsem v Karavankah in Kamniških Alpah, pa tudi v Spodnjih Bohinjskih gorah in na Poreznu. Od drugih [bodakov](../../genus/carduus/) boste to do 150 cm visoko rastlino ločili takole:
+Okrinkani bodak raste v gozdovih, na travnikih in med ruševjem visoko v slovenskih gorah. Njegove cvetove boste julija in avgusta opazili predvsem v Karavankah in Kamniških Alpah, pa tudi v Spodnjih Bohinjskih gorah in na Poreznu. Od drugih [bodakov](../genus/carduus/) boste to do 150 cm visoko rastlino ločili takole:
 
--   Ovojkovi listi niso zažeti tako kot pri [kimastem bodaku](../../carduusnutansssp.nutans/kimasti-bodak/).
+-   Ovojkovi listi niso zažeti tako kot pri [kimastem bodaku](../carduusnutansssp.nutans/).
 -   Koški so obli, zgoščeni na vrhu poganjkov razraslega stebla.
 -   Široki mehki listi so zgoraj zeleni, spodaj sivo volnatodlakavi.
 -   Spodnji listi so pernato deljeni, zgornji pa so celi.

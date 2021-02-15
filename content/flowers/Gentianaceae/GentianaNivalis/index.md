@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Snežni svišč
 ---
-Drobne modre cvetove precej redkega snežnega svišča boste v juliju in avgustu opazili na kamnitih tratah visoko v slovenskih gorah. Od [drugih sviščev](../../genus/gentiana/) ga boste zlahka ločili -- tako kot [trebušasti svišč](../../gentianautriculosa/trebušasti-sviš&#269;/) je tudi snežni enoletnica brez jalovih poganjkov, čašna cev njegovih cvetov pa ni napihnjena (kot pri trebušastem svišču) in je široka le 2--3 mm.
+Drobne modre cvetove precej redkega snežnega svišča boste v juliju in avgustu opazili na kamnitih tratah visoko v slovenskih gorah. Od [drugih sviščev](../genus/gentiana/) ga boste zlahka ločili -- tako kot [trebušasti svišč](../gentianautriculosa/) je tudi snežni enoletnica brez jalovih poganjkov, čašna cev njegovih cvetov pa ni napihnjena (kot pri trebušastem svišču) in je široka le 2--3 mm.

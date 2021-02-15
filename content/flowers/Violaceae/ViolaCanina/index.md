@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Pasja vijolica
 ---
-Pasjo vijolico bi nepozoren, hiteč pohodnik zaradi njene bele ostroge mimogrede zamenjal s precej bolj redko [hribsko vijolico](../../violacollina/hribska-vijolica/). Že na prvi pogled vas bo morda zaskrbela velikost cvetov (pasja vijolica ima za vijolice precej velike cvetove), nekoliko bolj natančen pogled pa bo pokazal še dve bistveni razliki:
+Pasjo vijolico bi nepozoren, hiteč pohodnik zaradi njene bele ostroge mimogrede zamenjal s precej bolj redko [hribsko vijolico](../violacollina/). Že na prvi pogled vas bo morda zaskrbela velikost cvetov (pasja vijolica ima za vijolice precej velike cvetove), nekoliko bolj natančen pogled pa bo pokazal še dve bistveni razliki:
 
 -   Steblo pasje vijolice je olistano.
 -   Čašni listi so priostreni (glej sliko desno).
@@ -30,4 +30,4 @@ Od drugih vijolic boste to rožico (na suhih mestih jo boste opazili od aprila d
 -   Ostroga je bela ali rumenkasta, dolga 5--6 mm.
 -   Prilisti stebelnih listov so mnogo krajši od listnih pecljev.
 -   Listi so jajčasti, nazobčani in imajo srčasto dno (glej sliko spodaj levo).
--   Rastlina nima rozete pritličnih listov ([gozdna](../../violareichenbachiana/gozdna-vijolica/) in [Rivinova vijolica](../../violariviniana/rivinova-vijolica/) jo imata).
+-   Rastlina nima rozete pritličnih listov ([gozdna](../violareichenbachiana/) in [Rivinova vijolica](../violariviniana/) jo imata).

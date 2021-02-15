@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Brezstebelni osat
 ---
-Brezstebelni osat cveti od julija do oktobra na suhih travnikih in kraških gmajnah, predvsem na Primorskem. Od [ostalih osatov](../../genus/cirsium/) ga boste hitro ločili, ker ima nizko, največ 10 cm visoko steblo.
+Brezstebelni osat cveti od julija do oktobra na suhih travnikih in kraških gmajnah, predvsem na Primorskem. Od [ostalih osatov](../genus/cirsium/) ga boste hitro ločili, ker ima nizko, največ 10 cm visoko steblo.

@@ -21,11 +21,11 @@ petals_joined: false
 star_shape: false
 title: Lisasta mrtva kopriva
 ---
-Lisasto mrtvo koprivo boste na svetlih in suhih mestih našli od aprila pa vse do začetka novembra. Od [drugih ustnatic](../../family/lamiaceae/) boste mrtve koprive najlaže ločili po značilni obliki cveta s čeladasto zgornjo ustno, lahko pa seveda preverite ostale razlikovalne znake mrtvih kopriv:
+Lisasto mrtvo koprivo boste na svetlih in suhih mestih našli od aprila pa vse do začetka novembra. Od [drugih ustnatic](../family/lamiaceae/) boste mrtve koprive najlaže ločili po značilni obliki cveta s čeladasto zgornjo ustno, lahko pa seveda preverite ostale razlikovalne znake mrtvih kopriv:
 
 -   Cvetni venec je bel ali rdeč, izrazito dvoustnat.
 -   Cvet ima štiri prašnike, ki štrlijo iz venčne cevi; notranja prašnika sta krajša od zunanjih.
 -   Cvetna čaša je nejasno dvoustna in ima zobce.
--   Spodnja venčna ustna je brez gub (zelo podobni [zebrati](../../galeopsisspeciosa/pisani-zebrat/) imajo na spodnji venčni ustni gube), venčna cev je trebušasto razširjena.
+-   Spodnja venčna ustna je brez gub (zelo podobni [zebrati](../galeopsisspeciosa/) imajo na spodnji venčni ustni gube), venčna cev je trebušasto razširjena.
 
 Od ostalih mrtvih kopriv pa boste lisasto mrtvo koprivo zlahka ločili po škrlatnem vencu s temnolisasto spodnjo ustno (glej sliko spodaj levo) in navzgor upognjeno venčno cevjo (slika spodaj desno).

@@ -20,4 +20,4 @@ title: Klasasta zvončica
 ---
 Klasasta zvončica cveti v juliju in avgustu na skalnatih mestih in med grmovjem. Našli jo boste predvsem v zahodnih Julijskih Alpah (okoli Bovca) in v Trnovskem gozdu (fotografiji sta s Čavna).
 
-Od večine drugih zvončic ločite klasasto po sedečih cvetovih, ki so (kot že njeno ime pove) združeni v klasasto socvetje (cvetovi [klobčaste zvončice](../../campanulaglomerata/klob&#269;asta-zvon&#269;ica/) so zbrani v glavičastem socvetju). V Sloveniji boste našli le še eno zvončico s podobnim socvetjem; to je [šopasta zvončica](../../campanulathyrsoidesthyrsoides/šopasta-zvon&#269;ica/), ki pa ima rumenkastobele cvetove, medtem ko so cvetovi klasaste modrovijolični.
+Od večine drugih zvončic ločite klasasto po sedečih cvetovih, ki so (kot že njeno ime pove) združeni v klasasto socvetje (cvetovi [klobčaste zvončice](../campanulaglomerata/) so zbrani v glavičastem socvetju). V Sloveniji boste našli le še eno zvončico s podobnim socvetjem; to je [šopasta zvončica](../campanulathyrsoidesthyrsoides/), ki pa ima rumenkastobele cvetove, medtem ko so cvetovi klasaste modrovijolični.

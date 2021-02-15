@@ -18,9 +18,9 @@ petals_joined: false
 star_shape: false
 title: Drobnocvetni petoprstnik
 ---
-Če sredi pomladi med sprehodi po Idrijskem ali Posavskem hribovju najdete drobno rožico, ki je nadvse podobna gozdnim jagodam (le cvetovi so malce nenavadni), je to najverjetneje drobnocvetni (ali pa zelo podoben kranjski) petoprstnik. Obrnite cvet: če ima dvojne čašne liste (pet velikih in pet manjših), je petoprstnik, drugače pa najverjetneje [navadni jagodnjak](../../fragariavesca/navadni-jagodnjak/). Od sorodnikov se drobnocvetni [petoprstnik](../../genus/potentilla/) loči takole:
+Če sredi pomladi med sprehodi po Idrijskem ali Posavskem hribovju najdete drobno rožico, ki je nadvse podobna gozdnim jagodam (le cvetovi so malce nenavadni), je to najverjetneje drobnocvetni (ali pa zelo podoben kranjski) petoprstnik. Obrnite cvet: če ima dvojne čašne liste (pet velikih in pet manjših), je petoprstnik, drugače pa najverjetneje [navadni jagodnjak](../fragariavesca/). Od sorodnikov se drobnocvetni [petoprstnik](../genus/potentilla/) loči takole:
 
--   Cvetovi so beli (takšne cvetove imajo le še  [beli](../../potentillaalba/beli-petoprstnik/), skalni, jalovi, drobnocvetni, [Clusijev](../../potentillaclusiana/clusijev-petoprstnik/) in [predalpski](../../potentillacaulescens/predalpski-petoprstnik/) petoprstnik).
+-   Cvetovi so beli (takšne cvetove imajo le še  [beli](../potentillaalba/), skalni, jalovi, drobnocvetni, [Clusijev](../potentillaclusiana/) in [predalpski](../potentillacaulescens/) petoprstnik).
 -   Listi so dlanasto deljeni v tri lističe (podobne lističe imata še jalovi in drobnocvetni petoprstnik).
 -   Jalovi petoprstnik (ki je zelo redek) ima plazeče se poganjke, kranjski in drobnocvetni pa pokončne.
 

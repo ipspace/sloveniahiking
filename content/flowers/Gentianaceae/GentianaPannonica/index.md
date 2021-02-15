@@ -19,4 +19,4 @@ petals_joined: false
 star_shape: false
 title: Panonski svišč
 ---
-Panonski svišč boste našli le na gorskih travnikih (posnetki so z Lipance). Nasprotni stebelni listi in v cev zrasli venčni listi ga takoj uvrstijo med svišče, od [drugih sviščev](../../genus/gentiana/) pa ga  boste hitro ločili po škrlatnih cvetovih, zgoščenih v ovršnem socvetju.
+Panonski svišč boste našli le na gorskih travnikih (posnetki so z Lipance). Nasprotni stebelni listi in v cev zrasli venčni listi ga takoj uvrstijo med svišče, od [drugih sviščev](../genus/gentiana/) pa ga  boste hitro ločili po škrlatnih cvetovih, zgoščenih v ovršnem socvetju.

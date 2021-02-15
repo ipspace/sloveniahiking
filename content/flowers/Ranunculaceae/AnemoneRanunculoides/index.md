@@ -18,6 +18,6 @@ petals_joined: false
 star_shape: false
 title: Zlatična vetrnica
 ---
-Na prvi pogled boste tole rožico, ki jo boste od marca do maja našli na vlažnih mestih, hitro proglasili za zlatico, saj ima vendar rumen cvet in veliko prašnikov. Motita le dve \"malenkosti\" -- cvet nima čaše, stebelni listi pa so zbrani v vretencu, kar jo uvršča med vetrnice (za natančnejši opis vseh znakov vetrnic si oglejte [podlesno vetrnico](../../anemonenemorosa/podlesna-vetrnica/)).
+Na prvi pogled boste tole rožico, ki jo boste od marca do maja našli na vlažnih mestih, hitro proglasili za zlatico, saj ima vendar rumen cvet in veliko prašnikov. Motita le dve \"malenkosti\" -- cvet nima čaše, stebelni listi pa so zbrani v vretencu, kar jo uvršča med vetrnice (za natančnejši opis vseh znakov vetrnic si oglejte [podlesno vetrnico](../anemonenemorosa/)).
 
 Od drugih vetrnic boste zlatično hitro ločili po barvi cveta -- je edina vetrnica z rumenim cvetom.

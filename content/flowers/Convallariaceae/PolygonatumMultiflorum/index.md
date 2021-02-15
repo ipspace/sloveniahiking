@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Mnogocvetni Salomonov pečat
 ---
-Mnogocvetni Salomonov pečat cveti od konca aprila do junija v slovenskih gozdovih. Od ostalih [Salomonovih pečatov](../../genus/polygonatum/) ga boste zlahka ločili -- pod vsakim stebelnim listom visi socvetje dveh do petih cvetov.
+Mnogocvetni Salomonov pečat cveti od konca aprila do junija v slovenskih gozdovih. Od ostalih [Salomonovih pečatov](../genus/polygonatum/) ga boste zlahka ločili -- pod vsakim stebelnim listom visi socvetje dveh do petih cvetov.

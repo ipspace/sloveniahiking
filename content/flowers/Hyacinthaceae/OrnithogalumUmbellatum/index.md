@@ -20,4 +20,4 @@ petals_joined: false
 star_shape: false
 title: Kobulasto ptičje mleko
 ---
-Kobulasto ptičje mleko uspeva na travnikih, v sadovnjakih, po njivah, pa tudi na mestnih zelenicah (na primer pred Škofijsko gimnazijo v Ljubljani) po vsej Sloveniji. Od zelo podobnega [Kochovega ptičjega mleka](../../ornithogalumkochii/kochovo-pti&#269;je-mleko/) (tam boste našli tudi podrobnejši opis) ga bomo ljubitelji rož ločili predvsem po rastišču -- Kochovo ptičje mleko raste na suhih toplih (predvsem kraških) travnikih --, bolj zanesljiva razlika pa so brstiči okoli čebulice kobulastega ptičjega mleka, iz katerih poganjajo številni listi. 
+Kobulasto ptičje mleko uspeva na travnikih, v sadovnjakih, po njivah, pa tudi na mestnih zelenicah (na primer pred Škofijsko gimnazijo v Ljubljani) po vsej Sloveniji. Od zelo podobnega [Kochovega ptičjega mleka](../ornithogalumkochii/) (tam boste našli tudi podrobnejši opis) ga bomo ljubitelji rož ločili predvsem po rastišču -- Kochovo ptičje mleko raste na suhih toplih (predvsem kraških) travnikih --, bolj zanesljiva razlika pa so brstiči okoli čebulice kobulastega ptičjega mleka, iz katerih poganjajo številni listi. 

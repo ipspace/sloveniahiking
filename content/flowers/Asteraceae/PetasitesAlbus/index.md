@@ -16,4 +16,4 @@ petals_joined: false
 star_shape: false
 title: Beli repuh
 ---
-Cvetoči beli repuh boste našli po skoraj vsej Sloveniji od marca do maja, šele kasneje pa se bodo razvili veliki široki listi, podobni [lapuhovim](../../tussilagofarfara/lapuh/), vendar še precej večji (tudi nad 40 cm). Prepoznavanje repuha je zelo preprosto, saj ga hitro \"izdajo\" steblo, olistano le z luskolisti, in številni koški, ki imajo samo bele cevaste cvetove z dolgo lasasto kodeljico.
+Cvetoči beli repuh boste našli po skoraj vsej Sloveniji od marca do maja, šele kasneje pa se bodo razvili veliki široki listi, podobni [lapuhovim](../tussilagofarfara/), vendar še precej večji (tudi nad 40 cm). Prepoznavanje repuha je zelo preprosto, saj ga hitro \"izdajo\" steblo, olistano le z luskolisti, in številni koški, ki imajo samo bele cevaste cvetove z dolgo lasasto kodeljico.

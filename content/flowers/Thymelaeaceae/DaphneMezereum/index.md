@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Navadni volčin
 ---
-![](../../../images/flowers/poison.gif)V marcu in aprilu boste marsikje v Sloveniji opazili grmiček z rožnatimi somernimi cvetovi v obstranskem socvetju pod šopom listov na vrhu stebla -- našli ste navadni volčin. Za vsak primer še preverite, ali so cvetovi brez čaše, imajo osem prašnikov in so sestavljeni iz štirih zraslih venčnih listov.
+![](../../images/flowers)V marcu in aprilu boste marsikje v Sloveniji opazili grmiček z rožnatimi somernimi cvetovi v obstranskem socvetju pod šopom listov na vrhu stebla -- našli ste navadni volčin. Za vsak primer še preverite, ali so cvetovi brez čaše, imajo osem prašnikov in so sestavljeni iz štirih zraslih venčnih listov.

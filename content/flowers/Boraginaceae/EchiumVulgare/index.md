@@ -19,6 +19,6 @@ petals_joined: false
 star_shape: false
 title: Navadni gadovec
 ---
-Gadovec boste od zelo podobnih [zvončic](../../family/campanulaceae/) ločili po zraslih čašnih listih. Od zvončic in drugih srhkolistnic ga boste ločili tudi po drugače razporejenih prašnikih, zaradi katerih cvet ni zvezdast, ampak je someren (glej sliko spodaj levo).
+Gadovec boste od zelo podobnih [zvončic](../family/campanulaceae/) ločili po zraslih čašnih listih. Od zvončic in drugih srhkolistnic ga boste ločili tudi po drugače razporejenih prašnikih, zaradi katerih cvet ni zvezdast, ampak je someren (glej sliko spodaj levo).
 
 Od drugih gadovcev boste navadnega, ki cveti na suhih tleh od junija do oktobra, ločili po barvi cveta (laški gadovec ima belega) in obliki listov (trpotčasti gadovec ima srčaste liste, ki objemajo steblo).

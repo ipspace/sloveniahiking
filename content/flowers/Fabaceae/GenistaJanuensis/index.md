@@ -20,7 +20,7 @@ title: Triroba košeničica
 ---
 Triroba košeničica cveti od maja do julija na skalnatih mestih in pustih travnikih. Najpogosteje jo boste opazili v Zasavju, raste pa tudi drugod po Sloveniji (fotografije so s planine pod Poreznom).
 
-Podroben pogled na zgradbo cvetov, zbranih v gostem socvetju, pokaže, da je pred nami rastlina iz družine metuljnic. Od večine metuljnic bomo [košeničice](../../genus/genista/) ločili takole:
+Podroben pogled na zgradbo cvetov, zbranih v gostem socvetju, pokaže, da je pred nami rastlina iz družine metuljnic. Od večine metuljnic bomo [košeničice](../genus/genista/) ločili takole:
 
 -   Košeničice so trajni polgrmički.
 -   Večina košeničic ima enostavne cele liste.

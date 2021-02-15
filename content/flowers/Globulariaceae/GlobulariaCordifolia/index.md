@@ -20,4 +20,4 @@ title: Srčastolistna mračica
 ---
 Modra glavičasta socvetja srčastolistne mračice boste od maja do julija opazili med skalovjem in v skalnih razpokah, predvsem v hribovitem svetu zahodne Slovenije, pa tudi tu in tam v Posavskem hribovju.
 
-Od [navadne mračice](../../globulariapunctata/navadna-mra&#269;ica/), njene bolj razširjene sorodnice, boste srčastolistno hitro ločili po golem steblu, od precej bolj redke [golostebelne](../../globularianudicaulis/golostebelna-mra&#269;ica/) pa po pritličnih listih -- ti so pri srčastolistni mračici majhni, pri golostebelni pa veliki, na koncu zaokroženi.
+Od [navadne mračice](../globulariapunctata/), njene bolj razširjene sorodnice, boste srčastolistno hitro ločili po golem steblu, od precej bolj redke [golostebelne](../globularianudicaulis/) pa po pritličnih listih -- ti so pri srčastolistni mračici majhni, pri golostebelni pa veliki, na koncu zaokroženi.

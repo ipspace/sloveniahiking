@@ -24,7 +24,7 @@ Velecvetna orlica cveti od maja do julija na apnenčastih travnikih, gozdnih obr
 -   Zgornji deli ostrog so zakrivljeni.
 -   Cvet je modrovijoličen.
 -   Prašniki so praviloma daljši kot notranji venčni listi, a le za nekaj milimetrov. Prašniki navadne orlice so navadno krajši od venčnih listov.
--   Zunanji venčni listi so dolgi 25 do 35 mm. Venčni listi [črnikastovijolične orlice](../../aquilegiaatrata/&#268;rnikastovijoli&#269;na-orlica/) so precej manjši.
+-   Zunanji venčni listi so dolgi 25 do 35 mm. Venčni listi [črnikastovijolične orlice](../aquilegiaatrata/) so precej manjši.
 -   Zgornji podporni listi (vidni na srednji fotografiji) so ozkosuličasti, več kot trikrat tako dolgi kot široki.
 -   Zgornji deli stebla in cvetni peclji so žleznodlakavi.
 -   Listne krpe so klinaste (glej desno fotografijo).

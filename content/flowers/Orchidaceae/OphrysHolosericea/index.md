@@ -22,8 +22,8 @@ title: Čmrljeliko mačje uho
 Čmrljeliko mačje uho raste na zmerno suhih travnikih, kjer boste njegove zanimive cvetove z nekaj sreče (ker je precej redko) opazili v maju in juniju. Če ste mačja ušesa že videli, boste že ob prvem pogledu na cvet vedeli da je pred vami predstavnik tega roda, sicer pa se mačja ušesa od drugih kukavičevk (orhidej) ločijo takole:
 
 -   Rastlina ima zelene liste.
--   Cvetovi nimajo ostroge (tako kot cvetovi mnogih orhidej, na primer [navadnega kukovičnika](../../gymnadeniaconopsea/navadni-kukovi&#269;nik/)).
--   Medena ustna (spodnji list cveta) ni vrečasto napihnjena kot pri [lepem čeveljcu](../../cypripediumcalceolus/lepi-&#269;eveljc/).
+-   Cvetovi nimajo ostroge (tako kot cvetovi mnogih orhidej, na primer [navadnega kukovičnika](../gymnadeniaconopsea/)).
+-   Medena ustna (spodnji list cveta) ni vrečasto napihnjena kot pri [lepem čeveljcu](../cypripediumcalceolus/).
 -   Medena ustna je izbočena, vsaj na straneh žametnodlakava, njena srednja krpa pa ima izrazito barvno risbo.
 
 Od drugih mačjih ušes boste čmrljelikega ločili po teh znakih:

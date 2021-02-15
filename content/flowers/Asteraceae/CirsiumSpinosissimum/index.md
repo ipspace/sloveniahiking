@@ -17,4 +17,4 @@ petals_joined: false
 star_shape: false
 title: Trnati osat
 ---
-Trnati osat boste našli na vlažnem grušču in kamnitih tratah, navadno v bližini staj ali na starih opuščenih planinah visoko v slovenskih Alpah, kjer cveti od julija do septembra. Od [drugih osato](../../genus/cirsium/)[v](../../genus/cirsium/) ga boste hitro ločili po značilnem vencu svetlih trnatih ovršnih listov, ki obdajajo pokončne koške, zgoščene na vrhu stebla. Listi so pernato deljeni in imajo jajčaste, ponovno deljene roglje (lepo vidne na desni fotografiji).
+Trnati osat boste našli na vlažnem grušču in kamnitih tratah, navadno v bližini staj ali na starih opuščenih planinah visoko v slovenskih Alpah, kjer cveti od julija do septembra. Od [drugih osato](../genus/cirsium/)[v](../genus/cirsium/) ga boste hitro ločili po značilnem vencu svetlih trnatih ovršnih listov, ki obdajajo pokončne koške, zgoščene na vrhu stebla. Listi so pernato deljeni in imajo jajčaste, ponovno deljene roglje (lepo vidne na desni fotografiji).

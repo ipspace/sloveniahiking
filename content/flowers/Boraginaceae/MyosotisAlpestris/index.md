@@ -20,7 +20,7 @@ title: Planinska spominčica
 ---
 Planinska spominčica raste, kot že njeno ime pove, visoko v slovenskih Alpah. Njene modre cvetove boste opazili od junija do septembra, od drugih spominčic pa jo boste ločili po teh lastnostih:
 
--   Rastlina je visoka 5--15 cm (podobna [gozdna spominčica](../../myosotissylvatica/gozdna-spomin&#269;ica/) je precej višja).
+-   Rastlina je visoka 5--15 cm (podobna [gozdna spominčica](../myosotissylvatica/) je precej višja).
 -   Sivkasta cvetna čaša je štrlečedlakava, po odcvetu ostane odprta. Čaša je daljša od cvetnega peclja.
 -   Cvetovi so večji od 4 mm, venčna cev je približno tako dolga kot čaša.
 -   Pecelj spodnjih listov je večinoma daljši od listne ploskve.

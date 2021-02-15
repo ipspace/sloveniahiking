@@ -20,6 +20,6 @@ petals_joined: false
 star_shape: false
 title: Idrijski jeglič
 ---
-Endemični [kranjski jeglič](../../primulacarniolica/kranjski-jegli&#269;/) uspeva le na vlažnih senčnih skalah, [avriklju](../../primulaauricula/avrikelj/) pa ustrezajo tople, sončne skale ali travniki. Le v okolici Idrije so topli in senčni kotički dovolj blizu skupaj, da lahko žuželke prenesejo pelod z ene vrste na drugo \... in naslednje leto tam morda zraste zelo redek idrijski jeglič. Igra genetike pripelje do najrazličnejših oblik idrijskega jegliča; pri nekaterih so prevladale avrikljeve poteze (ti imajo bledo rumene cvetove, ki pa so zadaj vseeno škrlatno nadahnjeni), pri drugih barva kranjskega jegliča (poprh in rumen golt pa sta seveda prišla od avriklja).
+Endemični [kranjski jeglič](../primulacarniolica/) uspeva le na vlažnih senčnih skalah, [avriklju](../primulaauricula/) pa ustrezajo tople, sončne skale ali travniki. Le v okolici Idrije so topli in senčni kotički dovolj blizu skupaj, da lahko žuželke prenesejo pelod z ene vrste na drugo \... in naslednje leto tam morda zraste zelo redek idrijski jeglič. Igra genetike pripelje do najrazličnejših oblik idrijskega jegliča; pri nekaterih so prevladale avrikljeve poteze (ti imajo bledo rumene cvetove, ki pa so zadaj vseeno škrlatno nadahnjeni), pri drugih barva kranjskega jegliča (poprh in rumen golt pa sta seveda prišla od avriklja).
 
 Idrijski jeglič boste z veliko sreče (ali prijazno pomočjo domačinov) našli v osamljenih skritih kotičkih Idrijskega hribovja in severnega roba Trnovskega gozda.

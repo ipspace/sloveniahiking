@@ -16,7 +16,7 @@ petals_joined: false
 star_shape: false
 title: Mehki osat
 ---
-Mehki osat (*Cirsium oleracum*) boste opazili na bolj vlažnih tleh -- na travnikih, močvirjih, pa tudi med grmovjem in v svetlih gozdovih. Od [drugih osatov](../../genus/cirsium/) ga boste zlahka ločili po teh znakih:
+Mehki osat (*Cirsium oleracum*) boste opazili na bolj vlažnih tleh -- na travnikih, močvirjih, pa tudi med grmovjem in v svetlih gozdovih. Od [drugih osatov](../genus/cirsium/) ga boste zlahka ločili po teh znakih:
 
 -   Koški so rumeni, pokončni.
 -   Listi steblo objemajo; spodnji so večinoma pernato deljeni z roglji, zgornji pa so celi in nazobčani.

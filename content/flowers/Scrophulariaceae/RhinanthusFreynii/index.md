@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Freynov škrobotec
 ---
-Freynov škrobotec cveti od maja do oktobra na travnikih po vsej Sloveniji. Tako kot dosti bolj pogostega [resastega](../../rhinanthusglacialis/resasti-škrobotec/) (tam si preberite tudi več o lastnostih škrobotcev) boste tudi Freynovega prepoznali po napihnjeni čaši, od drugih škrobotcev pa ga boste ločili takole:
+Freynov škrobotec cveti od maja do oktobra na travnikih po vsej Sloveniji. Tako kot dosti bolj pogostega [resastega](../rhinanthusglacialis/) (tam si preberite tudi več o lastnostih škrobotcev) boste tudi Freynovega prepoznali po napihnjeni čaši, od drugih škrobotcev pa ga boste ločili takole:
 
 -   Zobca zgornje ustne sta prisekana.
 -   Spodnja ustna je primaknjena k zgornji, vhod v venčno cev je tako zaprt.

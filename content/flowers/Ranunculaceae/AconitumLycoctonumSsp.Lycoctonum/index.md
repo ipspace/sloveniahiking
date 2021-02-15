@@ -21,7 +21,7 @@ Ozkočeladasto preobjedo (*Aconitum lycoctonum* subsp. *lycoctonum*) boste od ju
 
 Od sorodnih podvrst boste ozkočeladasto preobjedo ločili po teh lastnostih:
 
--   obliki socvetja: socvetje je zgoščeno ([navadna preobjeda](../../aconitumlycoctonumssp.vulparia/navadna-preobjeda/) ima bolj razraslo socvetje);
+-   obliki socvetja: socvetje je zgoščeno ([navadna preobjeda](../aconitumlycoctonumssp.vulparia/) ima bolj razraslo socvetje);
 -   položaju socvetij: stranske veje so lahko široko razprostrte (glejte levo fotografijo),  zlatična preobjeda pa ima stranske veje usločene navzgor;
 -   obliki listov: listi so navadno deljeni do manj kot 3/4 listne ploskve, krpe so široke (glej levo fotografijo); listi zlatične preobjede so globlje deljeni, njihove krpe so podolgovate;
 -   dlačicah na cvetovih in cvetnih pecljih: ozkočeladasta preobjeda ima ukrivljene dlačice, navadna pa štrleče.

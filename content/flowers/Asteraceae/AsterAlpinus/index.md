@@ -24,4 +24,4 @@ Alpsko nebino boste našli sredi poletja (julija, avgusta) na suhih, prisojnih t
 -   Steblo je olistano, listi so premenjalni.
 -   Jezičasti cvetovi so široki, v enem krogu.
 
-Od ostalih nebin boste alpsko ločili zelo hitro -- poleg [marjetičaste nebine](../../asterbellidiastrum/marjeti&#269;asta-nebina/) (ki pa ima bele jezičaste cvetove) je edina nebina, ki je nižja od 15 centimetrov in katere stebla imajo samo po en košek.
+Od ostalih nebin boste alpsko ločili zelo hitro -- poleg [marjetičaste nebine](../asterbellidiastrum/) (ki pa ima bele jezičaste cvetove) je edina nebina, ki je nižja od 15 centimetrov in katere stebla imajo samo po en košek.

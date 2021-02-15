@@ -19,4 +19,4 @@ petals_joined: false
 star_shape: false
 title: Travniška morska čebulica
 ---
-Travniška morska čebulica uspeva le na vlažnih travnikih Planinskega polja, kjer cveti konec maja ali v začetku junija. Od mnogo bolj pogoste [dvolistne morske čebulice](../../scillabifolia/dvolistna-morska-&#269;ebulica/) jo boste ločili po številu cvetov v socvetju: travniška morska čebulica ima v socvetju od 15 do 35 cvetov, dvolistna pa največ pet.
+Travniška morska čebulica uspeva le na vlažnih travnikih Planinskega polja, kjer cveti konec maja ali v začetku junija. Od mnogo bolj pogoste [dvolistne morske čebulice](../scillabifolia/) jo boste ločili po številu cvetov v socvetju: travniška morska čebulica ima v socvetju od 15 do 35 cvetov, dvolistna pa največ pet.

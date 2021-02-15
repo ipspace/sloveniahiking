@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Lepki osat
 ---
-Lepki osat (*Cirsium erisithales*) je zelo podoben [mehkemu osatu](../../cirsiumoleraceum/mehki-osat/); od njega se loči predvsem po kimastih koških. Zlahka ga boste ločili tudi od [drugih osatov](../../genus/cirsium/), saj je poleg dosti bolj redkega [kranjskega osata (*Cirsium carniolicum*)](../../cirsiumcarniolicum/kranjski-osat/) edini osat s kimastimi rumenimi koški. Našli ga boste ob poteh, na gozdnih travnikih, posekah in meliščih po vsej Sloveniji.
+Lepki osat (*Cirsium erisithales*) je zelo podoben [mehkemu osatu](../cirsiumoleraceum/); od njega se loči predvsem po kimastih koških. Zlahka ga boste ločili tudi od [drugih osatov](../genus/cirsium/), saj je poleg dosti bolj redkega [kranjskega osata (*Cirsium carniolicum*)](../cirsiumcarniolicum/) edini osat s kimastimi rumenimi koški. Našli ga boste ob poteh, na gozdnih travnikih, posekah in meliščih po vsej Sloveniji.

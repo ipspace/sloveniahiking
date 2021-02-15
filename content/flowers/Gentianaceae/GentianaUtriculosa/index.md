@@ -18,6 +18,6 @@ petals_joined: false
 star_shape: false
 title: Trebušasti svišč
 ---
-Trebušasti svišč (na kamnitih tratah in travnikih boste njegove cvetove opazili od maja do avgusta) boste mimogrede zamenjali za bolj razširjeni in precej bolj znani [spomladanski svišč](../../gentianavernassp.verna/spomladanski-sviš&#269;/) (zaspanček). Nič čudnega -- loči ju le to, da je trebušasti svišč enoletnica brez jalovih poganjkov, spomladanski pa ima jalove (necvetoče) poganjke in pritlične liste zbrane v izraziti rozeti.
+Trebušasti svišč (na kamnitih tratah in travnikih boste njegove cvetove opazili od maja do avgusta) boste mimogrede zamenjali za bolj razširjeni in precej bolj znani [spomladanski svišč](../gentianavernassp.verna/) (zaspanček). Nič čudnega -- loči ju le to, da je trebušasti svišč enoletnica brez jalovih poganjkov, spomladanski pa ima jalove (necvetoče) poganjke in pritlične liste zbrane v izraziti rozeti.
 
-Trebušasti svišč boste od [drugih sviščev](../../genus/gentiana/) ločili tudi po 2--3 mm širokih krilcih na čaši, ki je trebušasto napihnjena (glej fotografiji).
+Trebušasti svišč boste od [drugih sviščev](../genus/gentiana/) ločili tudi po 2--3 mm širokih krilcih na čaši, ki je trebušasto napihnjena (glej fotografiji).

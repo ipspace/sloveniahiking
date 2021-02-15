@@ -21,6 +21,6 @@ Navadna sretena cveti od maja do septembra na gozdnih robovih, med grmovjem in p
 
 Od drugih sreten boste navadno ločili takole:
 
--   Cvetovi so rumeni in pokončni ([potočna sretena](../../geumrivale/poto&#269;na-sretena/) ima kimaste rdečkaste cvetove).
+-   Cvetovi so rumeni in pokončni ([potočna sretena](../geumrivale/) ima kimaste rdečkaste cvetove).
 -   Steblo je večcvetno, cvetovi so majhni (do centrimetra in pol v premeru).
 -   Čašni listi so po odcvetu zavihani navzdol.

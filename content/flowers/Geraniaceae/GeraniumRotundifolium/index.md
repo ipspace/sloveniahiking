@@ -27,4 +27,4 @@ Cvetovi to drobno rožico že na prvi pogled uvrstijo med krvomočnice, od drugi
 -   Vrh venčnih listov je le rahlo izrobljen, čašni listi so kratko priostreni, brez rese.
 -   Steblo in cvetni pecelj sta gostodlakava.
 
-Od zelo podobne [mehke krvomočnice](../../geraniummolle/mehka-krvomo&#269;nica/) boste okroglolistno ločili predvsem po izrobljenosti venčnih listov -- venčni listi mehke krvomočnice so dosti bolj izrobljeni, skorajda preklani (oglejte si njene fotografije).
+Od zelo podobne [mehke krvomočnice](../geraniummolle/) boste okroglolistno ločili predvsem po izrobljenosti venčnih listov -- venčni listi mehke krvomočnice so dosti bolj izrobljeni, skorajda preklani (oglejte si njene fotografije).

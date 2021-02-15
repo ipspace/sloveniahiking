@@ -19,4 +19,4 @@ title: Kranjski osat
 ---
 Rumene kimaste koške kranjskega osata boste sredi poletja (julija in avgusta) našli med ruševjem in na travnikih ponekod v slovenskih Alpah.
 
-Od [ostalih osato](../../genus/cirsium/)[v](../../genus/cirsium/) se kranjski hitro loči po kimastih rumenkastih koških, od podobnega [lepkega osata](../../cirsiumerisithales/lepki-osat/) pa ga ločijo rjavordečkaste dlake na zgornjem delu stebla, koškovih pecljih in ovršnih listih.
+Od [ostalih osato](../genus/cirsium/)[v](../genus/cirsium/) se kranjski hitro loči po kimastih rumenkastih koških, od podobnega [lepkega osata](../cirsiumerisithales/) pa ga ločijo rjavordečkaste dlake na zgornjem delu stebla, koškovih pecljih in ovršnih listih.

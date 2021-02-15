@@ -20,7 +20,7 @@ petals_joined: false
 star_shape: false
 title: Velecvetni naprstec
 ---
-![](../../../images/flowers/poison.gif)Velecvetni naprstec cveti na suhih, pogosto skalnatih tleh od junija do oktobra. Zelo lahko ga boste prepoznali po obliki do 5 cm dolgega bledo rumenega cveta (ki spominja na naprstnik, od tod tudi njegovo ime), pa tudi po obliki socvetja -- cvetovi so zbrani v precej gostem enostranskem socvetju.
+![](../../images/flowers)Velecvetni naprstec cveti na suhih, pogosto skalnatih tleh od junija do oktobra. Zelo lahko ga boste prepoznali po obliki do 5 cm dolgega bledo rumenega cveta (ki spominja na naprstnik, od tod tudi njegovo ime), pa tudi po obliki socvetja -- cvetovi so zbrani v precej gostem enostranskem socvetju.
 
 Druge značilnosti:
 

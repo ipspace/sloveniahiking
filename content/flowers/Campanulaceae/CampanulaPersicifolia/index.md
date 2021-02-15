@@ -25,4 +25,4 @@ Cvetovi so pecljati, veliki do 4 cm, deljeni le do tretjine venčnih listov in �
 Od drugih zvončic boste to zvončico najlažje ločili po
 
 -   obliki listov (je edina, ki ima tako ozke suličaste liste z nerazločnim pecljem) in
--   velikosti cvetov (cvetovi [razprostrte zvončice](../../campanulapatula/razprostrta-zvon&#269;ica/) in repuščeve zvončice, ki imata podobne liste, so bistveno manjši).
+-   velikosti cvetov (cvetovi [razprostrte zvončice](../campanulapatula/) in repuščeve zvončice, ki imata podobne liste, so bistveno manjši).

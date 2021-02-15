@@ -19,4 +19,4 @@ title: Travniška kozja brada
 ---
 Kozjo brado boste opazili na spomladanskih travnikih, kjer vas bo hitro opozorila nase z lepim živorumenim \"cvetom\" (v resnici koškom) na vrhu daljšega olistanega stebla.
 
-Kozjo brado nekateri hitro zamenjajo z zdravilno arniko. Zamenjavi se boste najlaže izognili, če boste pogledali njen \"cvet\" -- košek arnike ima v sredini cevaste cvetove (podobno kot [marjetica](../../bellisperennis/navadna-marjetica/) ali [ivanjščica](../../leucanthemumircutianum/navadna-ivanjš&#269;ica/)), košek kozje brade pa ima samo jezičaste cvetove (podobno kot regrat)... upam, da mi botaniki ne bodo zamerili tako poenostavljene primerjave.
+Kozjo brado nekateri hitro zamenjajo z zdravilno arniko. Zamenjavi se boste najlaže izognili, če boste pogledali njen \"cvet\" -- košek arnike ima v sredini cevaste cvetove (podobno kot [marjetica](../bellisperennis/) ali [ivanjščica](../leucanthemumircutianum/)), košek kozje brade pa ima samo jezičaste cvetove (podobno kot regrat)... upam, da mi botaniki ne bodo zamerili tako poenostavljene primerjave.

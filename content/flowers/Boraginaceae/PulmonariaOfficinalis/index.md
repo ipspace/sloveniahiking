@@ -22,4 +22,4 @@ V Sloveniji raste šest vrst pljučnikov (tako imenovanih zaradi svojih zdraviln
 
 Do 40 cm visoko rastlino boste verjetno na prvi pogled prepoznali že po zelo značilni vijoličasto-modri barvi zvezdastih cvetov z razprostrtim robom, sestavljenih iz petih zraslih venčnih listov. Cvetna čaša je zrasla. Celotna rastlina je štrleče dolgodlakava. 
 
-Od večine drugih pljučnikov boste navadnega hitro ločili po ostro omejenih svetlih pegah na listih, od [štajerskega](../../pulmonariastiriaca/štajerski-plju&#269;nik/) pa predvsem po spodnjih stebelnih listih in listih jalovih poganjkov, ki imajo zaokroženo dno in izrazit pecelj.
+Od večine drugih pljučnikov boste navadnega hitro ločili po ostro omejenih svetlih pegah na listih, od [štajerskega](../pulmonariastiriaca/) pa predvsem po spodnjih stebelnih listih in listih jalovih poganjkov, ki imajo zaokroženo dno in izrazit pecelj.

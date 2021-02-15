@@ -20,4 +20,4 @@ petals_joined: false
 star_shape: false
 title: Celolistni srobot
 ---
-Če boste na kamnitih travnikih v okolici Pivke naleteli na "[planinski srobot](../../clematisalpina/planinski-srobot/)", ki se noče ovijati, ste zagotovo našli celolistnega. Ker je ta poleg [pokončnega](../../clematisrecta/pokon&#269;ni-srobot/) edini [srobot](../../genus/clematis/), ki ni ovijalka, bo prepoznavanje seveda zelo preprosto (pokončni ima majhne bele cvetove). Tu in tam boste morda naleteli tudi na rastline z belimi cvetovi; takrat preverite, ali so listi celi (listi pokončnega srobota so pernato deljeni).
+Če boste na kamnitih travnikih v okolici Pivke naleteli na "[planinski srobot](../clematisalpina/)", ki se noče ovijati, ste zagotovo našli celolistnega. Ker je ta poleg [pokončnega](../clematisrecta/) edini [srobot](../genus/clematis/), ki ni ovijalka, bo prepoznavanje seveda zelo preprosto (pokončni ima majhne bele cvetove). Tu in tam boste morda naleteli tudi na rastline z belimi cvetovi; takrat preverite, ali so listi celi (listi pokončnega srobota so pernato deljeni).

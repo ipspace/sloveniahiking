@@ -23,7 +23,7 @@ V senčnih, vlažnih gozdovih ali med grmovjem boste po vsej Sloveniji od marca 
 -   Spiralasto razvrščeni listi so dolgopecljati, podobni listom detelje (glej levo fotografijo).
 -   Zvezdasti cvetovi imajo pet ločenih venčnih čašnih listov in pet čašnih listov, deset prašnikov in nadraslo plodnico.
 
-Navadno zajčjo deteljico boste hitro spoznali tudi po značilnem vzorcu na venčnih listih (podoben vzorec ima le še [močvirna samoperka](../../parnassiapalustris/mo&#269;virska-samoperka/)).
+Navadno zajčjo deteljico boste hitro spoznali tudi po značilnem vzorcu na venčnih listih (podoben vzorec ima le še [močvirna samoperka](../parnassiapalustris/)).
 
 V Sloveniji poleg navadne zajčje deteljice rastejo še štiri druge, precej bolj redke vrste zajčje deteljice. Od njih navadno ločijo te lastnosti:
 

@@ -19,6 +19,6 @@ petals_joined: false
 star_shape: false
 title: Pasji zob
 ---
-Pasji zob, bližnjega sorodnika [slovenskih lilij](../../genus/lilium/), boste  v marcu in aprilu našli v listnatih gozdovih marsikje v Sloveniji. Cvet ima šest vijoličastih venčnih listov, ki so pri mladih rastlinah ravni, postopoma pa se, kot pri [kranjski liliji](../../liliumcarniolicum/zlato-jabolko/), zavihajo navzgor, dokler niso tako izrazito zavihani kot pri [ciklami](../../cyclamenpurpurascens/ciklama/).
+Pasji zob, bližnjega sorodnika [slovenskih lilij](../genus/lilium/), boste  v marcu in aprilu našli v listnatih gozdovih marsikje v Sloveniji. Cvet ima šest vijoličastih venčnih listov, ki so pri mladih rastlinah ravni, postopoma pa se, kot pri [kranjski liliji](../liliumcarniolicum/), zavihajo navzgor, dokler niso tako izrazito zavihani kot pri [ciklami](../cyclamenpurpurascens/).
 
 Cvetica je vedno enocvetna, visoka do 15 cm, in ima dva lisasta pritlična lista.

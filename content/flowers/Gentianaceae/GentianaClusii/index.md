@@ -20,7 +20,7 @@ title: Clusijev svišč
 ---
 Modri cvetovi Clusijevega svišča se bleščijo na suhih travniki in v kamnitih razpokah slovenskih gora od maja do julija. Našli ga boste predvsem v slovenskih Alpah, pa tudi ponekod v Trnovskem gozdu, Idrijskem hribovju in pod Snežnikom.
 
-Cvet Clusijevega svišča je tako značilen, da ga boste prepoznali že na prvi pogled, od [drugih sviščev](../../genus/gentiana/) pa ga boste zanesljivo ločili po teh značilnostih:
+Cvet Clusijevega svišča je tako značilen, da ga boste prepoznali že na prvi pogled, od [drugih sviščev](../genus/gentiana/) pa ga boste zanesljivo ločili po teh značilnostih:
 
 -   Rastlina je trajnica z jalovimi poganjki in rozeto pritličnih listov.
 -   Cvetovi so posamični, venec je temnomoder, dolg 5--6 cm, venčna cev je stožčasta.

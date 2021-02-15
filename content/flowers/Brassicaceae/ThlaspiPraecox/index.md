@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Rani mošnjak
 ---
-Rani mošnjak uspeva na suhih travnikih po vsej Sloveniji. Cveti v marcu in aprilu, pod Kraškim robom pa že konec februarja. Ker spada v (za določanje) precej neprijetno družino [križnic](../../family/brassicaceae/), boste za natančno določitev rodu potrebovali rastlino s cvetovi in plodovi, potem pa naloga ne bo več tako težka:
+Rani mošnjak uspeva na suhih travnikih po vsej Sloveniji. Cveti v marcu in aprilu, pod Kraškim robom pa že konec februarja. Ker spada v (za določanje) precej neprijetno družino [križnic](../family/brassicaceae/), boste za natančno določitev rodu potrebovali rastlino s cvetovi in plodovi, potem pa naloga ne bo več tako težka:
 
 -   Rastlina je trajnica s cvetočimi in jalovimi poganjki in ima izrazito rozeto. Cvetočih stebel je večinoma več.
 -   Plod je lušček (precej okrogel, največ trikrat daljši od svoje širine). Luščki so razločno krilati.

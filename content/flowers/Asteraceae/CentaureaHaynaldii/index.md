@@ -17,9 +17,9 @@ petals_joined: false
 star_shape: false
 title: Haynaldov glavinec
 ---
-Haynaldov glavinec je v Sloveniji zelo redek, v poznem poletju ga boste našli le v Bohinjskih gorah in na Ratitovcu. Od večine drugih glavincev ga ločite po obliki priveskov na ovojkovih listih, ki so zelo podobni priveskom [navadnega glavinca](../../centaureajacea/navadni-glavinec/) (tam si preberite tudi podrobnejši opis), od glavincev s podobnimi priveski pa ga ločite takole:
+Haynaldov glavinec je v Sloveniji zelo redek, v poznem poletju ga boste našli le v Bohinjskih gorah in na Ratitovcu. Od večine drugih glavincev ga ločite po obliki priveskov na ovojkovih listih, ki so zelo podobni priveskom [navadnega glavinca](../centaureajacea/) (tam si preberite tudi podrobnejši opis), od glavincev s podobnimi priveski pa ga ločite takole:
 
--   Listi so precej široki, podobni listom navadnega glavinca. Listi [ozkolistnega](../../centaureapannonica/ozkolistni-glavinec/) in [Gaudinovega glavinca](../../centaureagaudinii/gaudinov-glavinec/) so precej ožji.
+-   Listi so precej široki, podobni listom navadnega glavinca. Listi [ozkolistnega](../centaureapannonica/) in [Gaudinovega glavinca](../centaureagaudinii/) so precej ožji.
 -   Haynaldov glavinec je večinoma enocveten, navadni, ozkolisti in Gaudinov glavinec pa so navadno večcvetni.
 -   Koški so razmeroma veliki (18 do 22 mm).
 -   Zgornji listi so zgoščeni pod koški (lepo vidno na desni fotografiji).

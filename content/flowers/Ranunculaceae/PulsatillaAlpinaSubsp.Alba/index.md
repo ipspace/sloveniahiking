@@ -20,7 +20,7 @@ petals_joined: false
 star_shape: false
 title: Beli kosmatinec
 ---
-Beli [kosmatinec](../../genus/pulsatilla/) cveti od maja do junija visoko v slovenskih gorah. Ker ne mara apnenčastih tal, ga boste našli le v tistih redkih kotičkih slovenskih gora, ki jih sestavljajo drugačne kamnine: na Mangartu in na Komnu na Smrekovcu). Od precej bolj razširjenega alpskega kosmatinca boste belega ločili takole:
+Beli [kosmatinec](../genus/pulsatilla/) cveti od maja do junija visoko v slovenskih gorah. Ker ne mara apnenčastih tal, ga boste našli le v tistih redkih kotičkih slovenskih gora, ki jih sestavljajo drugačne kamnine: na Mangartu in na Komnu na Smrekovcu). Od precej bolj razširjenega alpskega kosmatinca boste belega ločili takole:
 
 -   Listne krpe belega kosmatinca so skoraj gole (alpski ima dlakave liste).
 -   Beli kosmatinec ima dva do tri pritlične liste, alpski enega do dva.

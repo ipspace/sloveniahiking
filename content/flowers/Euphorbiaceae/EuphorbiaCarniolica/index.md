@@ -15,11 +15,11 @@ petals_joined: false
 star_shape: false
 title: Kranjski mleček
 ---
-Kranjski mleček uspeva v listnatih gozdovih (pa tudi po gozdnih obronkih in jasah) po vsej Sloveniji. Cveti od aprila do junija, od [drugih mlečkov](../../genus/euphorbia/) pa ga boste ločili takole:
+Kranjski mleček uspeva v listnatih gozdovih (pa tudi po gozdnih obronkih in jasah) po vsej Sloveniji. Cveti od aprila do junija, od [drugih mlečkov](../genus/euphorbia/) pa ga boste ločili takole:
 
--   Steblo je pokončno in ni grmičasto razraslo kot pri [bradavičastem mlečku](../../euphorbiaverrucosa/bradavi&#269;asti-mle&#269;ek/).
+-   Steblo je pokončno in ni grmičasto razraslo kot pri [bradavičastem mlečku](../euphorbiaverrucosa/).
 -   Cvetovi (ciatiji) so združeni v kobulasta ovršna socvetja. Vsak žarek ovršnega (najvišjega) kobula ima tri vejice (vidno na fotografiji).
--   Žleze na robu ovoja ciatija so rumene in niso polmesečaste kot pri [cipresastem mlečku](../../euphorbiacyparissias/cipresasti-mle&#269;ek/).
+-   Žleze na robu ovoja ciatija so rumene in niso polmesečaste kot pri [cipresastem mlečku](../euphorbiacyparissias/).
 -   Rastlina je trajnica, korenika je valjasta in olesenela.
 -   Steblo je debelo največ 5 milimetrov in ni votlo.
 -   Plod je drobno pikčast in le redko pokrit s poloblimi bradavicami.

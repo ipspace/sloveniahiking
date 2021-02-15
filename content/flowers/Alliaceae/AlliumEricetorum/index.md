@@ -25,4 +25,4 @@ Rumenkasti luk boste na suhih kamnitih travnikih našli od julija do septembra. 
 -   Cvetno odevalo je rahlo rumenkasto (glej sliko levo spodaj).
 -   Listi so črtalasti, pritlični.
 -   Listi cvetnega odevala so kratki (manj kot 8 mm) in niso zavihani.
--   Socvetje nima izrazitega podpornega lista (kot npr. pri [lepem luku](../../alliumcarinatumpulchellum/lepi-luk/)).
+-   Socvetje nima izrazitega podpornega lista (kot npr. pri [lepem luku](../alliumcarinatumpulchellum/)).

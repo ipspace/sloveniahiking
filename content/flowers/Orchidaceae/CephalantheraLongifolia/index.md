@@ -21,4 +21,4 @@ title: Dolgolistna naglavka
 ---
 Dolgolistna naglavka, rastlina z ozko suličastimi listi in belimi cvetovi, cveti od maja do konca junija na travnikih in gozdnih jasah.
 
-Cvetovi so somerni in imajo šest cvetnih listov, medena ustna (spodnji cvetni list) je preščipnjena. Ostali listi perianta so nagnjeni navznoter in tako zakrivajo medeno ustno (po tem se razlikuje od [močvirnic](../../epipactisatrorubens/temnorde&#269;a-mo&#269;virnica/)). Podporni listi so krajši od plodnice.
+Cvetovi so somerni in imajo šest cvetnih listov, medena ustna (spodnji cvetni list) je preščipnjena. Ostali listi perianta so nagnjeni navznoter in tako zakrivajo medeno ustno (po tem se razlikuje od [močvirnic](../epipactisatrorubens/)). Podporni listi so krajši od plodnice.

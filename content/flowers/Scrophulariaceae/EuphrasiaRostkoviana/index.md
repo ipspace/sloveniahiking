@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Navadna smetlika
 ---
-Navadna smetlika cveti v začetku jeseni na travnikih po vsej Sloveniji. Od zelo podobne [toge smetlike](../../euphrasiastricta/toga-smetlika/) (tam boste našli tudi bolj podroben opis) jo ločimo po velikosti cvetov (zelo nezanesljiv znak), predvsem pa po žlezastodlakavih laskih, s katerimi so porasli podporni listi cvetov in cvetna čaša.
+Navadna smetlika cveti v začetku jeseni na travnikih po vsej Sloveniji. Od zelo podobne [toge smetlike](../euphrasiastricta/) (tam boste našli tudi bolj podroben opis) jo ločimo po velikosti cvetov (zelo nezanesljiv znak), predvsem pa po žlezastodlakavih laskih, s katerimi so porasli podporni listi cvetov in cvetna čaša.

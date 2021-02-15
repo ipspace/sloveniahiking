@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Blagodišeči teloh
 ---
-![](../../../images/flowers/poison.gif)Blagodišeči teloh je v Sloveniji najbolj razširjena vrsta [teloha](../../genus/helleborus/) z zelenim cvetom (ostali dve vrsti sta še [istrski teloh](../../helleborusmultifidusistriacus/istrski-teloh/), ki ga najdemo predvsem na Primorskem, in [hostni teloh](../../helleborusdumetorum/hostni-teloh/), ki raste v vzhodni Sloveniji). Našli ga boste od februarja do aprila, predvsem na gozdnih obronkih.  Od drugih telohov boste blagodišečega ločili po tehle značilnostih:
+![](../../images/flowers)Blagodišeči teloh je v Sloveniji najbolj razširjena vrsta [teloha](../genus/helleborus/) z zelenim cvetom (ostali dve vrsti sta še [istrski teloh](../helleborusmultifidusistriacus/), ki ga najdemo predvsem na Primorskem, in [hostni teloh](../helleborusdumetorum/), ki raste v vzhodni Sloveniji). Našli ga boste od februarja do aprila, predvsem na gozdnih obronkih.  Od drugih telohov boste blagodišečega ločili po tehle značilnostih:
 
 -   Steblo je razvejeno in ima deljene stebelne liste.
 -   Cvet ima v premeru 4--7 cm.

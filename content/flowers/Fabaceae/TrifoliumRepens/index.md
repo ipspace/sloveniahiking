@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Plazeča detelja
 ---
-Plazeča detelja cveti od maja do oktobra na travnikih po vsej Sloveniji. Prepoznali jo boste dosti laže kot večino drugih [detelj](../../genus/trifolium/):
+Plazeča detelja cveti od maja do oktobra na travnikih po vsej Sloveniji. Prepoznali jo boste dosti laže kot večino drugih [detelj](../genus/trifolium/):
 
 -   Socvetje je sestavljeno iz belih (redko rožnatih) pecljatih cvetov (vidno na spodnji fotografiji)
 -   Če cvetove previdno potrgate, boste opazili drobne podporne lističe.

@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Navzkrižnolistni svišč
 ---
-Navzkrižnolistni svišč (podsvečnik) je nizka rastlina (10--40 cm), ki jo boste našli predvsem na suhih travnikih više v gorah, lahko pa ga boste opazili tudi v alpskih dolinah (Bohinju). Steblo je gosto olistano z nasprotno rastočimi listi, za vsakim od gornjih listov pa rasteta dva do trije modri cvetovi. Podobno kot pri [drugih sviščih](../../genus/gentiana/) so cvetni listi zraščeni v cev, ki je pri navzkrižnolistnem svišču sestavljena iz štirih venčnih listov (navadno imajo cvetovi sviščev pet venčnih listov), kar zelo olajša prepoznavanje.
+Navzkrižnolistni svišč (podsvečnik) je nizka rastlina (10--40 cm), ki jo boste našli predvsem na suhih travnikih više v gorah, lahko pa ga boste opazili tudi v alpskih dolinah (Bohinju). Steblo je gosto olistano z nasprotno rastočimi listi, za vsakim od gornjih listov pa rasteta dva do trije modri cvetovi. Podobno kot pri [drugih sviščih](../genus/gentiana/) so cvetni listi zraščeni v cev, ki je pri navzkrižnolistnem svišču sestavljena iz štirih venčnih listov (navadno imajo cvetovi sviščev pet venčnih listov), kar zelo olajša prepoznavanje.

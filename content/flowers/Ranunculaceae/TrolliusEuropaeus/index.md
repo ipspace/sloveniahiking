@@ -23,7 +23,7 @@ Zlato pogačico boste našli na vlažnih tleh v višjih legah -- v alpskem in pr
 
 Steblo je olistano, listi so dlanasto deljeni v 5 do 7 trikrakih nazobčanih krp (glej sliko desno).
 
-**Opomba:** ponekod pogačico (ali zlato pogačico) imenujejo tudi [zlato jabolko](../../liliumcarniolicum/zlato-jabolko/), kar je sicer ime ene od [slovenskih lilij](../../genus/lilium/).
+**Opomba:** ponekod pogačico (ali zlato pogačico) imenujejo tudi [zlato jabolko](../liliumcarniolicum/), kar je sicer ime ene od [slovenskih lilij](../genus/lilium/).
 
 Več informacij:
 

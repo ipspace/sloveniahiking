@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Poletni veliki zvonček
 ---
-Če boste sredi maja opazili pol metra visoke zvončke ([kronice](../../leucojumvernum/veliki-zvon&#269;ek/)) z več cvetovi, ne sanjate; našli ste precej redke poletne velike zvončke, ki uspevajo na nižje ležečih močvirnih travnikih (zagotovo jih boste našli na Planinskem polju).
+Če boste sredi maja opazili pol metra visoke zvončke ([kronice](../leucojumvernum/)) z več cvetovi, ne sanjate; našli ste precej redke poletne velike zvončke, ki uspevajo na nižje ležečih močvirnih travnikih (zagotovo jih boste našli na Planinskem polju).

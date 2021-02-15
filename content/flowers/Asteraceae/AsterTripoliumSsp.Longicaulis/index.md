@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Obmorska nebina
 ---
-Obmorsko nebino boste našli na vlažnih, slanih tleh ob morju (ob pomolih ali v solinah), kjer cveti od julija do oktobra. Prepoznavanje ne bi smelo biti pretežko, saj na podobnih tleh uspeva le malo nebinovk. Seveda lahko preverite lastnosti nebin (našli jih boste v opisu [gorske nebine](../../asteramellus/gorska-nebina/)), od drugih nebin pa obmorsko nato ločite takole:
+Obmorsko nebino boste našli na vlažnih, slanih tleh ob morju (ob pomolih ali v solinah), kjer cveti od julija do oktobra. Prepoznavanje ne bi smelo biti pretežko, saj na podobnih tleh uspeva le malo nebinovk. Seveda lahko preverite lastnosti nebin (našli jih boste v opisu [gorske nebine](../asteramellus/)), od drugih nebin pa obmorsko nato ločite takole:
 
 -   Rastlina je trajnica s pritlično rozeto izrazito mesnatih listov (desna fotografija).
 -   Steblo je olistano, razvejeno, ima mnogo koškov in je višje od 30 centimetrov.

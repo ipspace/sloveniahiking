@@ -21,4 +21,4 @@ title: Planinsko kosteničevje
 ---
 Planinsko kosteničevje (našli ga boste v gozdovih, pa tudi med ruševjem) je skorajda neopazen grm z drobnimi rožnatimi cvetovi, ki cvetijo od maja do julija. Cvetovi so somerni; imajo pet zraslih venčnih listov, pet prašnikov in podraslo plodnico.
 
-Od mnogo bolj razširjenega [kovačnika](../../loniceracaprifolium/kova&#269;nik/) (ki je ovijalka) boste planinsko kosteničevje ločili tudi po razporeditvi cvetov -- ti so vedno v parih z zraslima plodnicama. Od zelo podobnega etrurskega kosteničevja (ki pa raste le na Primorskem) ga loči barva cvetov (etrursko kosteničevje ima rumenkastobele) in plodov (planinsko kosteničevje ima rdeče jagode, etrursko pa temnomodre).
+Od mnogo bolj razširjenega [kovačnika](../loniceracaprifolium/) (ki je ovijalka) boste planinsko kosteničevje ločili tudi po razporeditvi cvetov -- ti so vedno v parih z zraslima plodnicama. Od zelo podobnega etrurskega kosteničevja (ki pa raste le na Primorskem) ga loči barva cvetov (etrursko kosteničevje ima rumenkastobele) in plodov (planinsko kosteničevje ima rdeče jagode, etrursko pa temnomodre).

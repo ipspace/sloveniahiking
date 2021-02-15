@@ -18,6 +18,6 @@ petals_joined: false
 star_shape: false
 title: Pokončni srobot
 ---
-Verjetno vsi poznate [navadni srobot](../../clematisvitalba/navadni-srobot/) -- olesenelo ovijalko, ki jo pogosto najdete na drevju ali grmovju v slovenskih gozdovih. Precej bolj redek je pokončni srobot, ki ima pokončno zelnato steblo (torej ni ovijalka). Zelo lahko ga bo prepoznati po značilnih cvetovih v velikih latastih socvetjih. Tako kot drugi sroboti ima tudi pokončni cvetove brez čaše, s štirimi cvetnimi listi, nadraslo plodnico in številnimi prašniki.
+Verjetno vsi poznate [navadni srobot](../clematisvitalba/) -- olesenelo ovijalko, ki jo pogosto najdete na drevju ali grmovju v slovenskih gozdovih. Precej bolj redek je pokončni srobot, ki ima pokončno zelnato steblo (torej ni ovijalka). Zelo lahko ga bo prepoznati po značilnih cvetovih v velikih latastih socvetjih. Tako kot drugi sroboti ima tudi pokončni cvetove brez čaše, s štirimi cvetnimi listi, nadraslo plodnico in številnimi prašniki.
 
-Pokončni srobot boste hitro ločili od [večine drugih srobotov](../../genus/clematis/), ki so ovijalke, od [celolistnega](../../clematisintegrifolia/celolistni-srobot/) (ki prav tako ni ovijalka) pa ga ločuje oblika listov -- pokončni srobot ima pernato deljene, do 25 cm dolge liste -- pa tudi barva cvetov (celolistni srobot ima navadno vijoličaste cvetove).
+Pokončni srobot boste hitro ločili od [večine drugih srobotov](../genus/clematis/), ki so ovijalke, od [celolistnega](../clematisintegrifolia/) (ki prav tako ni ovijalka) pa ga ločuje oblika listov -- pokončni srobot ima pernato deljene, do 25 cm dolge liste -- pa tudi barva cvetov (celolistni srobot ima navadno vijoličaste cvetove).

@@ -23,5 +23,5 @@ Pikasta pijavčnica cveti od junija do avgusta na vlažnih mestih (na travnikih,
 
 -   Cvetovi so v socvetjih v zalistju vretenc stebelnih listov.
 -   Venčni listi so po robu žlezastodlakavi.
--   Čašni listi nimajo rdečkastega roba (kot pri [navadni pijavčnici](../../lysimachiavulgaris/navadna-pijav&#269;nica/)).
+-   Čašni listi nimajo rdečkastega roba (kot pri [navadni pijavčnici](../lysimachiavulgaris/)).
 -   Steblo je oglato, visoko do enega metra.

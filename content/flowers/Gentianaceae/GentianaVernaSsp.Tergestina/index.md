@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Tržaški svišč
 ---
-Tržaški svišč, podvrsta [spomladanskega svišča](../../gentianavernassp.verna/spomladanski-sviš&#269;/), cveti v aprilu in maju na suhih kraških travnikih jugozahodne Slovenije. Od [spomladanskega svišča](../../gentianavernassp.verna/spomladanski-sviš&#269;/) (tam si preberite tudi podrobnejši opis) ga boste ločili takole:
+Tržaški svišč, podvrsta [spomladanskega svišča](../gentianavernassp.verna/), cveti v aprilu in maju na suhih kraških travnikih jugozahodne Slovenije. Od [spomladanskega svišča](../gentianavernassp.verna/) (tam si preberite tudi podrobnejši opis) ga boste ločili takole:
 
 -   Čašna krilca tržaškega svišča so široka 2--4 mm, čašna krilca spomladanskega pa 1--2 mm.
 -   Listi rozete tržaškega svišča so ozkosuličasti, listi rozete spomladanskega svišča pa širokosuličasti ali elipsasti.

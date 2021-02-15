@@ -21,7 +21,7 @@ petals_joined: false
 star_shape: false
 title: Navadni kosmatinec
 ---
-Navadni kosmatinec cveti sredi aprila na pustih suhih travnikih v vzhodni Sloveniji (na zahodu takrat cveti njegov bližnji sorodnik [gorski kosmatinec](../../pulsatillamontana/gorski-kosmatinec/), pod Bočem pa [velikonočnica](../../pulsatillagrandis/velikono&#269;nica/)). Od drugih [kosmatincev](../../genus/pulsatilla/) boste navadnega ločili takole:
+Navadni kosmatinec cveti sredi aprila na pustih suhih travnikih v vzhodni Sloveniji (na zahodu takrat cveti njegov bližnji sorodnik [gorski kosmatinec](../pulsatillamontana/), pod Bočem pa [velikonočnica](../pulsatillagrandis/)). Od drugih [kosmatincev](../genus/pulsatilla/) boste navadnega ločili takole:
 
 -   Cvetovi so vijolični (takšne imata še gorski in velikonočnica), v času cvetenja so kimasti (cvetovi velikonočnice so pokončni).
 -   Cvetni listi so le malce daljši od prašnikov (lepo vidno na desnih fotografijah) in izrazito zavihani navzven. Gorski kosmatinec ima daljše cvetne liste, ki niso zavihani.

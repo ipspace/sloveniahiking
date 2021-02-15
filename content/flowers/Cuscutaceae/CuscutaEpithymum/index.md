@@ -1,7 +1,7 @@
 ---
 author: Alenka_Mihoric
 color: R
-date: '2006-05-21T00:00:00'
+date: 2006-05-21 00:00:00+00:00
 f_end: '10'
 f_start: '5'
 family: Cuscutaceae
@@ -11,7 +11,6 @@ image:
 latin: Cuscuta epithymum
 lead: M_006031205.jpg
 lead_sample: false
-name: index
 order: Cuscuta
 parallel: false
 petals: '5'
@@ -19,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Drobnocvetna predenica
 ---
-Drobnocvetna predenica je zajedalka, ki \"zapreda\" rastline na suhih do zmerno vlažnih traviščih (fotografija je z južnega pobočja [Kamniškega vrha](../../../Izleti/KamniskiVrh)). Predenice boste prepoznali po glavičastih socvetjih, v katera so združeni drobni zvezdasti cvetovi s petimi zraslimi venčnimi listi in zraslimi čašnimi listi, drobnocvetno predenico pa boste od drugih ločili takole:
+Drobnocvetna predenica je zajedalka, ki \"zapreda\" rastline na suhih do zmerno vlažnih traviščih (fotografija je z južnega pobočja [Kamniškega vrha](../../Izleti)). Predenice boste prepoznali po glavičastih socvetjih, v katera so združeni drobni zvezdasti cvetovi s petimi zraslimi venčnimi listi in zraslimi čašnimi listi, drobnocvetno predenico pa boste od drugih ločili takole:
 
 -   Steblo je belo, rožnato ali rumenkasto (nikoli oranžnorumeno).
 -   Socvetja so zgoščena in razločno glavičasta (kepice).

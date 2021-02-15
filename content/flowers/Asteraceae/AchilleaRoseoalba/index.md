@@ -18,4 +18,4 @@ title: Rožnatobeli rman
 ---
 Rožnatobeli rman je v Sloveniji precej redek. Našli ga boste na vlažnih travnikih ponekod ob Savi, v Vipavski dolini ter še tu in tam na Štajerskem in Primorskem (mi smo ga opazili na Bevkovem vrhu nad Idrijo).
 
-Od drugih rmanov se rožnatobeli takoj loči po rožnatih koških, seveda pa velja preveriti tudi obliko listov -- ti so debeli, 2--3-krat pernato deljeni (to pomeni, da je vsak rogelj še naprej deljen). [Navadni rman](../../achilleamillefolium/navadni-rman/) ima narezane liste, rožnatobeli pa le nacepljene.
+Od drugih rmanov se rožnatobeli takoj loči po rožnatih koških, seveda pa velja preveriti tudi obliko listov -- ti so debeli, 2--3-krat pernato deljeni (to pomeni, da je vsak rogelj še naprej deljen). [Navadni rman](../achilleamillefolium/) ima narezane liste, rožnatobeli pa le nacepljene.

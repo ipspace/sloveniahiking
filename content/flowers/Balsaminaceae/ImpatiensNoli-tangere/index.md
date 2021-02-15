@@ -24,4 +24,4 @@ Cvetovi nedotik imajo tako posebno obliko, da jih boste zagotovo prepoznali že 
 
 Navadno nedotiko boste v juliju in avgustu opazili predvsem v vzhodni Sloveniji, v hribih zahodne Slovenije pa le tam, kjer ni izrazito apnenčastih tal, saj ji ustrezajo senčna, vlažna mesta z nevtralno ali rahlo kislo zemljo.
 
-Od  [žlezave nedotike](../../impatiensglandulifera/zlezava-nedotika/) boste navadno takoj ločili po barvi cvetov, od drobnocvetne pa po velikosti cvetov in obliki ostroge -- cvetovi navadne nedotike so večji od 2 cm, viseči in imajo ukrivljeno ostrogo.
+Od  [žlezave nedotike](../impatiensglandulifera/) boste navadno takoj ločili po barvi cvetov, od drobnocvetne pa po velikosti cvetov in obliki ostroge -- cvetovi navadne nedotike so večji od 2 cm, viseči in imajo ukrivljeno ostrogo.

@@ -22,5 +22,5 @@ Sredi poletja (od julija do septembra) cveti v skalnih razpokah in na gruščnat
 
 Od drugih repušev boste Sieberjevega hitro ločili:
 
--   Tako kot [glavičasti](../../phyteumaorbiculare/glavi&#269;asti-repuš/) in [Scheuchzerjev](../../phyteumascheuchzerissp.columnae/scheuchzerjev-repuš/) ima tudi Sieberjev repuš glavičasto socvetje.
--   Zunanji ovojkovi listi so jajčasti ([Scheuchzerjev](../../phyteumascheuchzerissp.columnae/scheuchzerjev-repuš/) repuš ima dolge črtalaste ovojkove liste), dlakavi (ovojkovi listi [glavičastega repuša](../../phyteumaorbiculare/glavi&#269;asti-repuš/) so dlakavi le po robu) in imajo ostre zobce.
+-   Tako kot [glavičasti](../phyteumaorbiculare/) in [Scheuchzerjev](../phyteumascheuchzerissp.columnae/) ima tudi Sieberjev repuš glavičasto socvetje.
+-   Zunanji ovojkovi listi so jajčasti ([Scheuchzerjev](../phyteumascheuchzerissp.columnae/) repuš ima dolge črtalaste ovojkove liste), dlakavi (ovojkovi listi [glavičastega repuša](../phyteumaorbiculare/) so dlakavi le po robu) in imajo ostre zobce.

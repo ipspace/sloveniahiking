@@ -20,5 +20,5 @@ title: Navadni črnilec
 Navadni črnilec cveti avgusta in septembra v svetlih gozdovih, grmovju, ruševju, na posekah in tratah. Od drugih črnilcev ga boste ločili po teh lastnostih:
 
 -   Socvetje je rahlo, večinoma enostransko. Podporni listi cvetov se ne prekrivajo.
--   Vsi listi so zeleni (po tem se razlikuje od [podlesnega črnilca](../../melampyrumnemorosum/podlesni-&#269;rnilec/) z vijoličastimi vrhnjimi listi).
+-   Vsi listi so zeleni (po tem se razlikuje od [podlesnega črnilca](../melampyrumnemorosum/) z vijoličastimi vrhnjimi listi).
 -   Cvetni venec je večinoma bledorumen, venčna cev je ravna, ustje venca je skoraj zaprto.

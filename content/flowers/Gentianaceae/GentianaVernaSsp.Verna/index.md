@@ -21,7 +21,7 @@ title: Spomladanski svišč
 ---
 Spomladanski svišč boste v nižjih legah (500--600 m nad morjem) našli že v aprilu, više v gorah pa vas bo razveseljeval vse do poletja.
 
-Od [drugih sviščev](../../genus/gentiana/) boste spomladanskega ločili po tehle znakih:
+Od [drugih sviščev](../genus/gentiana/) boste spomladanskega ločili po tehle znakih:
 
 -   Cvetovi so posamični, modri.
 -   Rastlina je trajnica z jalovimi (necvetočimi) poganjki.
@@ -35,7 +35,7 @@ V Sloveniji rasteta dve podvrsti spomladanskega svišča. V Alpah in v severovzh
 
 Več informacij:
 
--   [Lastnosti sviščev](../../genus/gentiana/)
+-   [Lastnosti sviščev](../genus/gentiana/)
 -   Slika iz Deutschlands Flora in Abbildungen
 -   Fotografija iz Francije
 -   Išči z Googlom

@@ -21,4 +21,4 @@ title: Planinski popon
 ---
 Planinski popon (planinsko sončece) boste od sredine pomladi do konca poletja opazili predvsem na kamnitih pobočjih slovenskih Alp, pa tudi na Poreznu, Blegošu in Polhograjski Grmadi. Nežni rumeni cvetovi z nadraslo plodnico, mnogo prašniki, petimi rumenimi venčnimi listi in petimi čašnimi listi (od katerih sta dva bistveno manjša), na katerih so zelo razločno vidne žile, ga nedvomno uvrščajo med popone.
 
-Od drugih poponov ga boste hitro ločili -- rastlina je brez prilistov (ki jih ima [jajčasti popon](../../helianthemumovatum/jaj&#269;asti-popon/)) in ni sivo polstena (kot sivkasti popon). Nekoliko teže ga bo ločiti od skalnega popona, ki pa ga boste našli le na Primorskem -- planinski popon ima liste, ki so dolgi do 22 mm in široki do 5 mm, ter jajčaste popke.
+Od drugih poponov ga boste hitro ločili -- rastlina je brez prilistov (ki jih ima [jajčasti popon](../helianthemumovatum/)) in ni sivo polstena (kot sivkasti popon). Nekoliko teže ga bo ločiti od skalnega popona, ki pa ga boste našli le na Primorskem -- planinski popon ima liste, ki so dolgi do 22 mm in široki do 5 mm, ter jajčaste popke.

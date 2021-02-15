@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Travniška kadulja
 ---
-Travniška kadulja cveti od maja do septembra na travnikih in pašnikih skoraj povsod v Sloveniji. Od [drugih kadulj](../../genus/salvia/) boste travniško ločili po tehle lastnostih:
+Travniška kadulja cveti od maja do septembra na travnikih in pašnikih skoraj povsod v Sloveniji. Od [drugih kadulj](../genus/salvia/) boste travniško ločili po tehle lastnostih:
 
 -   Cvetni venec je temno modrovijoličast in v venčni cevi nima dlačic.
 -   Zgornja ustna je velika, ukrivljena.

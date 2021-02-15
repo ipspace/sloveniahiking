@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Izrodna zvončica
 ---
-Izrodna zvončica cveti v juliju in avgustu med skalami in v svetlih gozdovih visoko v gorah. Našli jo boste v Julijskih in Savinjskih Alpah, pa tudi v Trnovskem gozdu. Od zelo podobnih [Marchesettijeve](../../campanulamarchesettii/marchesettijeva-zvon&#269;ica/) in [Witasekine zvončice](../../campanulawitasekiana/witasekina-zvon&#269;ica/) jo boste ločili le po dolžini prašnic. Izrodna zvončica ima kratke prašnice (dolge do 3,5 mm), ki so le malce daljše od prašnične niti, prašnice vseh njej podobnih zvončic pa so precej daljše (5 do 10 mm).
+Izrodna zvončica cveti v juliju in avgustu med skalami in v svetlih gozdovih visoko v gorah. Našli jo boste v Julijskih in Savinjskih Alpah, pa tudi v Trnovskem gozdu. Od zelo podobnih [Marchesettijeve](../campanulamarchesettii/) in [Witasekine zvončice](../campanulawitasekiana/) jo boste ločili le po dolžini prašnic. Izrodna zvončica ima kratke prašnice (dolge do 3,5 mm), ki so le malce daljše od prašnične niti, prašnice vseh njej podobnih zvončic pa so precej daljše (5 do 10 mm).

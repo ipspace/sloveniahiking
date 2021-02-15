@@ -19,6 +19,6 @@ title: Marjetičasta nebina
 ---
 Marjetičasto nebino boste od aprila pa vse do septembra našli na vlažnih kamnitih ali travnatih tleh, predvsem više v slovenskih gorah, v vlažnih soteskah pa včasih tudi v nižjih legah. To drobno rožico bi na prvi pogled zamenjali z marjetico (od tod tudi njeno ime), pozornemu opazovalcu pa se vendarle zazdi malce drugačna.
 
-Razločevanje te rožice od dosti bolj razširjene [navadne marjetice](../../bellisperennis/navadna-marjetica/) je res precej težko, saj ima tudi marjetičasta nebina liste zbrane v pritlični rozeti, na steblu pa rase le en košek z rumenimi cevastimi in belimi jezičastimi cvetovi. Da je zmeda še večja, so tudi pri marjetičasti nebini beli cvetovi včasih rdečkasto nadahnjeni.
+Razločevanje te rožice od dosti bolj razširjene [navadne marjetice](../bellisperennis/) je res precej težko, saj ima tudi marjetičasta nebina liste zbrane v pritlični rozeti, na steblu pa rase le en košek z rumenimi cevastimi in belimi jezičastimi cvetovi. Da je zmeda še večja, so tudi pri marjetičasti nebini beli cvetovi včasih rdečkasto nadahnjeni.
 
 Za zanesljivo določanje marjetičaste nebine morate zato razdreti njen košek -- cvetovi marjetice so namreč brez kodeljice, cvetovi marjetičaste nebine pa imajo kodeljico iz približno 3 mm dolgih laskov.

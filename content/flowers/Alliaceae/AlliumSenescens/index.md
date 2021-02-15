@@ -23,4 +23,4 @@ Rožnate cvetove gorskega luka boste konec poletja našli na kamnitih primorskih
 -   Listi so črtalasti, pritlični. Sveži listi so na spodnji strani zaokroženi.
 -   Socvetje je gosto, široko 2--5 cm, brez brstičev, sestavljeno iz rožnatordečih cvetov. Cvetni peclji so 2--3-krat daljši od cvetnih listov.
 -   Listi cvetnega odevala so krajši od 8 mm in niso zavihani. Prašniki so razločno daljši od cvetnih listov.
--   Pod socvetjem boste opazili dva podporna lista (vidna na sliki desno), ki sta precej krajša od socvetja, kar ga loči od [lepega luka](../../alliumcarinatumpulchellum/lepi-luk/).
+-   Pod socvetjem boste opazili dva podporna lista (vidna na sliki desno), ki sta precej krajša od socvetja, kar ga loči od [lepega luka](../alliumcarinatumpulchellum/).

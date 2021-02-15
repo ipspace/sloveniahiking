@@ -21,7 +21,7 @@ petals_joined: false
 star_shape: false
 title: Sedmerolistni petoprstnik
 ---
-Sedmerolistni [petoprstnik](../../genus/potentilla/) (ime je skoraj daljše od te rastlinice) raste na suhih, svetlih mestih marsikje v Sloveniji. Njegove majcene rumene cvetove boste opazili od konca marca do junija.
+Sedmerolistni [petoprstnik](../genus/potentilla/) (ime je skoraj daljše od te rastlinice) raste na suhih, svetlih mestih marsikje v Sloveniji. Njegove majcene rumene cvetove boste opazili od konca marca do junija.
 
 Cvet z nadraslo plodnico, številnimi prašniki in zunanjo cvetno čašo (glej sliko cveta spodaj) skupaj z deljenimi premenjalnimi listi uvršča to rastlinico med rožnice, od drugih rožnic pa jo boste ločili po teh lastnostih:
 

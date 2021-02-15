@@ -20,4 +20,4 @@ title: Planinski srobot
 ---
 Temne, modrovijoličaste cvetove planinskega srobota boste od junija do avgusta našli med rušjem in na kamnitih pobočjih, predvsem v slovenskih Alpah, pa tudi ponekod v predalpskem svetu zahodne Slovenije.
 
-Tako kot večina [srobotov](../../genus/clematis/) je tudi planinski ovijalka z deljenimi nasprotnimi listi. Cvet je brez cvetne čaše, sestavljajo ga štirje venčni listi, v njem pa boste opazili 10 do 12 belkastih medovnikov (na levi fotografiji spodaj so slabo vidni; laže jih boste opazili na risbi planinskega srobota).
+Tako kot večina [srobotov](../genus/clematis/) je tudi planinski ovijalka z deljenimi nasprotnimi listi. Cvet je brez cvetne čaše, sestavljajo ga štirje venčni listi, v njem pa boste opazili 10 do 12 belkastih medovnikov (na levi fotografiji spodaj so slabo vidni; laže jih boste opazili na risbi planinskega srobota).

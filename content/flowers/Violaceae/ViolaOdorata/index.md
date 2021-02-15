@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Dišeča vijolica
 ---
-Omamno dišeče cvetove dišeče vijolice boste od marca do maja opazili v živih mejah, ob poteh, na gozdnih robovih in suhih travnikih. Razširjena je skoraj po vsej Sloveniji, v primerjavi z drugimi vijolicami (na primer [srhkodlakavo vijolico](../../violahirta/srhkodlakava-vijolica/)) pa je precej bolj redka.
+Omamno dišeče cvetove dišeče vijolice boste od marca do maja opazili v živih mejah, ob poteh, na gozdnih robovih in suhih travnikih. Razširjena je skoraj po vsej Sloveniji, v primerjavi z drugimi vijolicami (na primer [srhkodlakavo vijolico](../violahirta/)) pa je precej bolj redka.
 
 Od drugih vijolic boste dišečo ločili po teh lastnostih:
 

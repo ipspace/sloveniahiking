@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Turška lilija
 ---
-Podobno kot [kranjska lilija](../../liliumcarniolicum/zlato-jabolko/) ima tudi turška na vrhu olistanega stebla kimaste cvetove, le da ima turška navadno več cvetov s pikastimi cvetnimi listi škrlatnovijoličaste barve. Podobno kot pri kranjski liliji se tudi pri turški cvetni listi zavihajo nazaj, vendar manj, tako da njihova oblika spominja na turban -- od tod tudi njeno ime.
+Podobno kot [kranjska lilija](../liliumcarniolicum/) ima tudi turška na vrhu olistanega stebla kimaste cvetove, le da ima turška navadno več cvetov s pikastimi cvetnimi listi škrlatnovijoličaste barve. Podobno kot pri kranjski liliji se tudi pri turški cvetni listi zavihajo nazaj, vendar manj, tako da njihova oblika spominja na turban -- od tod tudi njeno ime.
 
 Več informacij:
 

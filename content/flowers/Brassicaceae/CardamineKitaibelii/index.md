@@ -19,4 +19,4 @@ petals_joined: false
 star_shape: false
 title: Mnogolistna konopnica
 ---
-V bukovih gozdovih jugovzhodne Slovenije boste spomladi našli mnogolistno konopnico; nizko cvetico, ki je na prvi pogled zelo podobna mnogo bolj razširjeni  [deveterolistni konopnici](../../cardamineenneaphyllos/deveterolistna-konopnica/) (tam si preberite tudi bolj podroben opis), le da njeno socvetje ni kimasto, listi pa so pernato in ne dlanasto deljeni.
+V bukovih gozdovih jugovzhodne Slovenije boste spomladi našli mnogolistno konopnico; nizko cvetico, ki je na prvi pogled zelo podobna mnogo bolj razširjeni  [deveterolistni konopnici](../cardamineenneaphyllos/) (tam si preberite tudi bolj podroben opis), le da njeno socvetje ni kimasto, listi pa so pernato in ne dlanasto deljeni.

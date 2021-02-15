@@ -20,9 +20,9 @@ petals_joined: false
 star_shape: false
 title: Gorski grobeljnik
 ---
-Gorski grobeljnik raste na Primorskem, kjer uspeva na suhih travnikih, skalah in med gruščem. Rumene cvetove te nizke [križnice](../../family/brassicaceae/) boste od marca do začetka maja našli na skalah Kraškega roba (zagotovo ob poti od Črnega Kala do Podpeči). Od njenih sorodnic jo boste ločili takole:
+Gorski grobeljnik raste na Primorskem, kjer uspeva na suhih travnikih, skalah in med gruščem. Rumene cvetove te nizke [križnice](../family/brassicaceae/) boste od marca do začetka maja našli na skalah Kraškega roba (zagotovo ob poti od Črnega Kala do Podpeči). Od njenih sorodnic jo boste ločili takole:
 
--   Plod je okrogel lušček, ki ni podoben očalom (kot lušček [navadne šparnice](../../biscutellalaevigata/navadna-šparnica/)).
+-   Plod je okrogel lušček, ki ni podoben očalom (kot lušček [navadne šparnice](../biscutellalaevigata/)).
 -   Cvetovi so rumeni, vsi venčni listi so enako veliki.
 -   Steblo je olistano s sedečimi listi.
 -   Listi so celi, pri dnu zoženi in gosto zvezdastodlakavi.

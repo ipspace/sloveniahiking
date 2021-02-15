@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Navadna prevezanka
 ---
-Navadno prevezanko, nizek polgrmiček s široko sploščenim krilatim steblom, boste našli na suhih travnikih po vsej Sloveniji, kjer cveti od maja do julija. Cvetovi jo nedvomno uvrščajo med metuljnice, na prvi pogled pa bi jo hitro zamenjali za eno od [košeničic](../../genus/genista/), od katerih jo loči predvsem krilato steblo (dobro vidno na povečani desni fotografiji). Za zanesljivo prepoznavanje še preverite, ali so listi enostavni in celi.
+Navadno prevezanko, nizek polgrmiček s široko sploščenim krilatim steblom, boste našli na suhih travnikih po vsej Sloveniji, kjer cveti od maja do julija. Cvetovi jo nedvomno uvrščajo med metuljnice, na prvi pogled pa bi jo hitro zamenjali za eno od [košeničic](../genus/genista/), od katerih jo loči predvsem krilato steblo (dobro vidno na povečani desni fotografiji). Za zanesljivo prepoznavanje še preverite, ali so listi enostavni in celi.

@@ -22,4 +22,4 @@ title: Črna murka
 
 Od drugih kukavičevk (murke spadajo v to družino) boste murke ločili po zgradbi cveta: medena ustna je sicer podaljšana v ostrogo, vendar obrnjena navzgor (pri vseh drugih kukavičevkah razen pri nadbradcu je medena ustna spodnji list v cvetu). Zgradba cveta se lepo vidi na fotografijah iz galerije slovenskih orhidej.
 
-V Sloveniji rastejo tri vrste murk, poleg črne (ki jo bodo hitro izdali temni cvetovi) še [kamniška](../../nigritellalithopolitanica/kamniška-murka/) in [rdeča](../../nigritellarubra/rde&#269;a-murka/).
+V Sloveniji rastejo tri vrste murk, poleg črne (ki jo bodo hitro izdali temni cvetovi) še [kamniška](../nigritellalithopolitanica/) in [rdeča](../nigritellarubra/).

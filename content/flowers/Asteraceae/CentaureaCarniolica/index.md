@@ -21,4 +21,4 @@ title: Kranjski glavinec
 ---
 Kranjski glavinec (*Centaurea carniolica* ali *Centaurea nigrescens vochinensis*), nizko, do 60 cm visoko rastlino, boste od julija do oktobra našli marsikje po Sloveniji.
 
-Značilna oblika koška ga takoj uvrsti med glavince, od drugih glavincev pa ga ločite po obliki priveskov na ovojkovih listih. Priveski se ne iztezajo po ovojkovih listih, so češljati in zelo kratki (na vsaki strani je le nekaj resic -- glej fotografiji spodaj), kar ga ločuje od [travniškega glavinca](../../centaureamacroptilon/travniški-glavinec/), ki ima bistveno daljše priveske.
+Značilna oblika koška ga takoj uvrsti med glavince, od drugih glavincev pa ga ločite po obliki priveskov na ovojkovih listih. Priveski se ne iztezajo po ovojkovih listih, so češljati in zelo kratki (na vsaki strani je le nekaj resic -- glej fotografiji spodaj), kar ga ločuje od [travniškega glavinca](../centaureamacroptilon/), ki ima bistveno daljše priveske.

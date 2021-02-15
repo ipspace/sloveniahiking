@@ -23,7 +23,7 @@ title: Temnordeča močvirnica
 Temnordeča močvirnica cveti v začetku poletja na svetlih in suhih legah.  Uvrščanje med močvirnice ne bo težko, saj jih od drugih kukavičevk ločijo tile znaki:
 
 -   Medena ustna je preščipnjena v dva dela -- hipofil (v notranjosti cveta) in epifil (zunanji del medene ustne). Glej tudi fotografijo spodaj levo.
--   Cvetovi so pecljati (pri [naglavkah](../../cephalantheralongifolia/dolgolistna-naglavka/) sedeči). Cvetni listi so štrleči ali zvonasto razporejeni.
+-   Cvetovi so pecljati (pri [naglavkah](../cephalantheralongifolia/) sedeči). Cvetni listi so štrleči ali zvonasto razporejeni.
 
 Od drugih močvirnic temnordečo ločujejo tele lastnosti:
 

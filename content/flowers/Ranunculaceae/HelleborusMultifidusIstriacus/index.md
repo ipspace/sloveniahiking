@@ -20,7 +20,7 @@ petals_joined: false
 star_shape: false
 title: Istrski teloh
 ---
-Istrski [teloh](../../genus/helleborus/) cveti v februarju in marcu na suhih kraških travnikih v slovenskem primorju. Od dosti bolj pogostega [blagodišečega teloha](../../helleborusodorus/blagodiše&#269;i-teloh/) ga boste zanesljivo ločili le po pritličnih listih, ki pa se navadno razvijejo šele po koncu cvetenja. Pritlični listi istrskega teloha so usnjati, listni segmenti so drobno nazobčani in deljeni v več rogljev (glej desno fotografijo), segmenti pritličnih listov blagodišečega teloha pa so le redko deljeni.
+Istrski [teloh](../genus/helleborus/) cveti v februarju in marcu na suhih kraških travnikih v slovenskem primorju. Od dosti bolj pogostega [blagodišečega teloha](../helleborusodorus/) ga boste zanesljivo ločili le po pritličnih listih, ki pa se navadno razvijejo šele po koncu cvetenja. Pritlični listi istrskega teloha so usnjati, listni segmenti so drobno nazobčani in deljeni v več rogljev (glej desno fotografijo), segmenti pritličnih listov blagodišečega teloha pa so le redko deljeni.
 
 Ker je ločevanje istrskega in blagodišečega teloha s pomočjo pritličnih listov skoraj nemogoče (v času cvetenja ti listi še niso razviti), lahko poskusite še takole:
 

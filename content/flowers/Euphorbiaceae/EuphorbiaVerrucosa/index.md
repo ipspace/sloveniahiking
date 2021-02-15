@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Bradavičasti mleček
 ---
-Bradavičastega mlečka (na suhih travnikih in v gozdovih ga boste našli v maju in juniju) na prvi pogled nikakor ne bi uvrstili med [mlečke](../../genus/euphorbia/), saj se zdi, kot bi na vrhu nizkega stebelca rasel en sam, nekoliko večji, rumen cvet.
+Bradavičastega mlečka (na suhih travnikih in v gozdovih ga boste našli v maju in juniju) na prvi pogled nikakor ne bi uvrstili med [mlečke](../genus/euphorbia/), saj se zdi, kot bi na vrhu nizkega stebelca rasel en sam, nekoliko večji, rumen cvet.
 
 Šele zelo natančen pogled na cvet pokaže njegovo sestavo -- ciatiji, značilni za mlečke, so zbrani v zelo gostem kobulu, ki ga obdajajo podporni listi enake rumene barve, kar na daleč daje vtis enotnega cveta.
 

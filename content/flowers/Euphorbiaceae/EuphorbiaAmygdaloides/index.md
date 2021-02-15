@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Mandljevolistni mleček
 ---
-Cvetovi že na prvi pogled uvrščajo mandljevolistni mleček med [mlečke](../../genus/euphorbia/). Od ostalih mlečkov ga boste najlaže ločili po zimzelenih listih mandljeve oblike, zbranih v rozeto na vrhu olesenelega poganjka, iz katerega spomladi požene kobulasto socvetje.
+Cvetovi že na prvi pogled uvrščajo mandljevolistni mleček med [mlečke](../genus/euphorbia/). Od ostalih mlečkov ga boste najlaže ločili po zimzelenih listih mandljeve oblike, zbranih v rozeto na vrhu olesenelega poganjka, iz katerega spomladi požene kobulasto socvetje.
 
 Socvetje ima v začetku le nekaj cvetov (glej slike spodaj), sčasoma pa se lahko precej razraste (glej sliko desno). Kot pri vseh mlečkih je socvetje sestavljeno iz ciatijev, ki imajo pri mandljevolistnem mlečku polmesečaste žleze in zrasle podporne liste.
 

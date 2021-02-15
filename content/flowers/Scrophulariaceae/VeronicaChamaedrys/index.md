@@ -22,12 +22,12 @@ Jetičniki so precej zanimiv rod: že prvi pogled na cvet vam bo povedal, da ste
 
 Vrednikov jetičnik je po podatkih iz Gradiva za Atlas flore Slovenije najbolj razširjeni predstavnik svojega rodu v Sloveniji. Od sorodnikov ga ločite takole:
 
--   Venčna cev je zelo kratka ([Barrelierov pajetičnik](../../pseudolysimachionbarrelieri/barrelierov-pajeti&#269;nik/), ki ga zadnja Mala flora Slovenije po krajšem izletu v samostojen rod pajetičnikov že spet uvršča med jetičnike, ima precej dolgo venčno cev).
+-   Venčna cev je zelo kratka ([Barrelierov pajetičnik](../pseudolysimachionbarrelieri/), ki ga zadnja Mala flora Slovenije po krajšem izletu v samostojen rod pajetičnikov že spet uvršča med jetičnike, ima precej dolgo venčno cev).
 -   Cvetovi so zbrani v manjša socvetja, ki poganjajo iz zalistja stebelnih listov. Če se vam zdi tale opis (tako kot meni) preveč zamotan, si oglejte [zelo nazorno ilustracijo](http://commons.wikimedia.org/wiki/Image:Veronica_chamaedrys_Sturm37.jpg).
 -   Rastlina je razločno dlakava.
 -   Cvetoči poganjki so pokončni in daljši od 10 cm.
 -   Listi so celi in nazobčani.
--   Cvetovi so modri (precej podoben [koprivolistni jetičnik](../../veronicaurticifolia/koprivolistni-jeti&#269;nik/) ima rožnate cvetove).
+-   Cvetovi so modri (precej podoben [koprivolistni jetičnik](../veronicaurticifolia/) ima rožnate cvetove).
 
 Od zelo podobnega velikega jetičnika ločijo vrednikovega te lastnosti:
 

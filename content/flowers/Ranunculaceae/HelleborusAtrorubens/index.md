@@ -18,4 +18,4 @@ petals_joined: false
 star_shape: false
 title: Temnoškrlatni teloh
 ---
-Temnoškrlatni teloh boste zanesljivo takoj prepoznali; že na prvi pogled boste videli, da je pred vami [teloh](../../genus/helleborus/), \"izdajo\" pa ga temni škrlatni ali škrlatnozeleni cvetovi. V Sloveniji je precej redek; našli ga boste le v okolici Krškega in pod Bohorjem, kjer od konca marca do maja cveti na nizko ležečih sončnih travnikih in gozdnih obronkih (do približno 400 metrov nadmorske višine).  
+Temnoškrlatni teloh boste zanesljivo takoj prepoznali; že na prvi pogled boste videli, da je pred vami [teloh](../genus/helleborus/), \"izdajo\" pa ga temni škrlatni ali škrlatnozeleni cvetovi. V Sloveniji je precej redek; našli ga boste le v okolici Krškega in pod Bohorjem, kjer od konca marca do maja cveti na nizko ležečih sončnih travnikih in gozdnih obronkih (do približno 400 metrov nadmorske višine).  

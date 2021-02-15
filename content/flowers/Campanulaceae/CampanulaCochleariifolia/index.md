@@ -21,7 +21,7 @@ title: Trebušasta zvončica
 ---
 Trebušasto zvončico, nizko, do 15 cm visoko rastlino, boste od julija do konca septembra našli predvsem v alpskem svetu v skalnih razpokah, na grušču ali prodiščih. Ima črtalaste, celorobe stebelne liste, nazobčane spodnje liste ter kimaste popke in cvetove.
 
-Od zelo podobne [rušnate zvončice](../../campanulacespitosa/rušnata-zvon&#269;ica/) boste trebušasto ločili takole:
+Od zelo podobne [rušnate zvončice](../campanulacespitosa/) boste trebušasto ločili takole:
 
 -   Cvetovi so zvonasti, na vrhu široko odprti, posamični ali po 2--6 v socvetju.
 -   Listi jalovih pritličnih poganjkov imajo dolg pecelj (lepo viden na desni fotografiji spodaj).

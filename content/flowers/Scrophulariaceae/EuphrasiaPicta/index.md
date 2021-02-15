@@ -21,6 +21,6 @@ Pisana smetlika cveti v avgustu in septembru na kamnitih travnikih in pašnikih 
 
 -   Listi so širokojajčasti, največ dvakrat tako dolgi kot široki.
 -   Cvetni venec je daljši od 1 cm.
--   Podporni listi cvetov in cvetne čaše niso žlezastodlakavi kot pri [navadni smetliki](../../euphrasiarostkoviana/navadna-smetlika/).
+-   Podporni listi cvetov in cvetne čaše niso žlezastodlakavi kot pri [navadni smetliki](../euphrasiarostkoviana/).
 -   Stebelni listi so topi in imajo tope zobce.
 -   Podporni listi cvetov so širokojajčasti in naglo zoženi v kratek pecelj.

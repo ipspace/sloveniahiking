@@ -24,6 +24,6 @@ Barva cveta na fotografijah je preveč vijolična, v naravi je dosti bolj rdeč.
 
 Od drugih krvomočnic boste krvavordečo ločili takole:
 
--   Krvavordeča krvomočnica je rastlina nižjih predelov (podobna [srebrna krvomočnica](../../geraniumargenteum/srebrna-krvomo&#269;nica/) raste v Julijskih Alpah), visoka 20 do 40 cm.
+-   Krvavordeča krvomočnica je rastlina nižjih predelov (podobna [srebrna krvomočnica](../geraniumargenteum/) raste v Julijskih Alpah), visoka 20 do 40 cm.
 -   Rdeči venčni listi so dolgi do 2 cm in srčasto izrobljeni (glej spodnjo fotografijo).
 -   Listi so do dna deljeni, posamezne krpe pa so spet deljene v ozke roglje (glej desno fotografijo). Podobne liste imata še nacepljenolistna krvomočnica in golobja krvomočnica, vendar so cvetovi teh dveh rastlin bistveno manjši.

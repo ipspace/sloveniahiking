@@ -17,4 +17,4 @@ petals_joined: false
 star_shape: false
 title: Gredljasti luk
 ---
-Gredljasti luk je zelo podoben [lepemu luku](../../alliumcarinatumpulchellum/lepi-luk/) -- na vrhu neolistanega stebla se nad dvema dolgima ovršnima listoma odpre socvetje nežnih vijoličastih cvetov na dolgih pecljih; od lepega luka ga ločijo le brstiči v socvetju (dobro vidni na desni fotografiji).
+Gredljasti luk je zelo podoben [lepemu luku](../alliumcarinatumpulchellum/) -- na vrhu neolistanega stebla se nad dvema dolgima ovršnima listoma odpre socvetje nežnih vijoličastih cvetov na dolgih pecljih; od lepega luka ga ločijo le brstiči v socvetju (dobro vidni na desni fotografiji).
