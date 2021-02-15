@@ -20,4 +20,4 @@ title: Kosmuljek
 ---
 Kosmuljek (Anthericum ramosum) raste v poletnih mesecih na suhih travnikih in v svetlih gozdovih po vsej Sloveniji. 
 
-Zlahka ga boste prepoznali predvsem po rahlem latastem socvetju -- zvezdasti beli cvetovi s šestimi venčnimi listi so rahlo posejani po golem, razvejenem steblu. Listi rastejo iz tal (podobno kot pri [narcisah](../daffodils) ali [zlatem korenu](../Asphodelus(zlati_koren))), le da so kosmuljkovi listi krajši (dolgi do 40 cm) in ožji (do 7 mm).
+Zlahka ga boste prepoznali predvsem po rahlem latastem socvetju -- zvezdasti beli cvetovi s šestimi venčnimi listi so rahlo posejani po golem, razvejenem steblu. Listi rastejo iz tal (podobno kot pri [narcisah](../genus/narcissus) ali [zlatem korenu](../asphodelusalbus)), le da so kosmuljkovi listi krajši (dolgi do 40 cm) in ožji (do 7 mm).

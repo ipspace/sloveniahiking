@@ -20,7 +20,7 @@ title: Gorska narcisa
 ---
 Če bi poslušali nekatere slovenske novinarje, bi dobili vtis, da rastejo gorske narcise (tudi bedenice ali ključavnice) v naravi le na Golici, Primorci pa dobro vedo, da to ni res -- narcise boste aprila in maja našli tudi na Krasu, na vrhu Slavnika in ob slovenski obali (pa tudi ponekod v Prekmurju in tu in tam v Zasavju).
 
-Narcis v naravi ne bo težko prepoznati, saj jih vsako pomlad vidimo [na vrtovih in gredicah](../daffodils), pa vseeno omenimo, kako boste prave gorske narcise ločili od podivjanih gojenih vrst:
+Narcis v naravi ne bo težko prepoznati, saj jih vsako pomlad vidimo na vrtovih in gredicah, pa vseeno omenimo, kako boste prave gorske narcise ločili od podivjanih gojenih vrst:
 
 -   Cvetovi so posamični.
 -   Privenček je rumen in ima rdeč rob (glej spodnji fotografiji).

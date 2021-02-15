@@ -18,6 +18,6 @@ petals_joined: false
 star_shape: false
 title: Veliki zvonček
 ---
-V Sloveniji spomladi rasteta dva zvončka, oba bližnja sorodnika [narcis](../daffodils) -- veliki zvonček (tudi kronica) in mali zvonček. Oba boste našli na vlažnih tleh, od nižine pa vse do gora.  Ločili ju boste že na prvi pogled, predvsem po obliki cveta -- veliki zvonček ima vseh šest cvetnih listov enakih, pri malem pa so notranji listi mnogo krajši.
+V Sloveniji spomladi rasteta dva zvončka, oba bližnja sorodnika [narcis](../genus/narcissus) -- veliki zvonček (tudi kronica) in [mali zvonček](../galanthusnivalis/). Oba boste našli na vlažnih tleh, od nižine pa vse do gora.  Ločili ju boste že na prvi pogled, predvsem po obliki cveta -- veliki zvonček ima vseh šest cvetnih listov enakih, pri malem pa so notranji listi mnogo krajši.
 
-Na močvirnih nižinskih tleh boste našli tudi kronici precej podoben [poletni veliki zvonček](../LeucojumAestivum(PoletniVelikiZvoncek)), ki cveti precej kasneje (od maja do junija).
+Na močvirnih nižinskih tleh boste našli tudi kronici precej podoben [poletni veliki zvonček](../leucojumaestivum/), ki cveti precej kasneje (od maja do junija).
