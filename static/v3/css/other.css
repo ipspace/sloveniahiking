@@ -2829,3 +2829,10 @@ Grid Layout Styles
     .page-heading__btn:hover {
       background-color: transparent;
       color: #fff; }
+
+#migrated.site-header {
+  background-color: #d26400;
+  color: #fff;
+  padding: 12px 0; }
+  #migrated.site-header .container {
+    display: block; }

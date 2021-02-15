@@ -1,0 +1,20 @@
+<header id="migrated" class='site-header migrated' style='display: none'>
+  <div class='container'>
+    {{ i18n "migrated" }}
+    {{ with $.Site.GetPage "/posts/2021/02/migration" }}
+      <a class='header-logo text' href='{{ .Permalink }}'>{{ i18n "more" }}</a>
+    {{ end }}
+  </div>
+</header>
+<script>
+console.log("migrated");
+
+$(function() {
+  if(location.search.indexOf("redirect") >= 0) {
+    console.log("Redirecting header");
+    mheader = $("#migrated");
+    mheader.insertAfter($("#page-header-line"));
+    mheader.fadeIn(3000);
+  }
+})
+</script>
