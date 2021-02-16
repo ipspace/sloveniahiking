@@ -1,0 +1,18 @@
+{{ $views := .Resources.Match "Raz*.[jJ][pP][gG]" }}
+{{ if gt (len $views) 0 }}
+  {{ if eq (len $views) 1 }}
+    <h3>View from the top</h3>
+  {{ else }}
+    <h3>Views from the top</h3>
+  {{ end }}
+  {{ range $views }}
+    <div class="fancy-figure box caption-position-bottom">
+      <figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+        <div class="img">
+          <img itemprop="thumbnail" src="{{ .Permalink }}">
+        </div>
+        <a href="{{ .Permalink }}" itemprop="contentUrl"></a>
+      </figure>
+    </div>
+  {{ end }}
+{{ end }}

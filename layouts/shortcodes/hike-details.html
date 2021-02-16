@@ -1,0 +1,33 @@
+{{ if $.Page.Params.Lead }}
+  {{ with $.Page.Resources.GetMatch $.Page.Params.Lead }}
+    <div class="fancy-figure box caption-position-default">
+      <figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+        <div class="img" style="background-image: url('{{ .Permalink }}');">
+          <img itemprop="thumbnail" src="{{ .Permalink }}">
+        </div>
+        <a href="{{ .Permalink }}" itemprop="contentUrl"></a>
+      </figure>
+    </div>
+  {{ end }}
+{{ end }}
+<h3>{{ .Get "title" | default (i18n "hikesFacts") }}</h3>
+{{ partial "hike-details" $.Page }}
+{{ with $.Page }}
+<p class="buttonRow">
+  {{ with .Params.start }}
+    <a href="https://www.google.com/maps/search/?api=1&query={{ . }}" class="buyButton secondary" target="_blank">Starting point</a>
+  {{ end }}
+  {{ with .Params.maplink }}
+    <a href="{{ . }}" class="buyButton secondary" target="_blank">Hiking map</a>
+  {{ end }}
+</p>
+{{ end }}
+{{ with $.Page.Params.video }}
+<div style="position: relative; padding-bottom: 56%; height: 0; margin: 1.5em 0; overflow: hidden;">
+  <iframe src="{{ . }}widget" frameborder="0" scrolling="no" allowfullscreen width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;">
+  </iframe>
+</div>
+<p class="buttonRow">
+  <a href="{{ . }}explore" class="buyButton secondary" target="_blank">Interactive route</a>
+</p>
+{{ end }}

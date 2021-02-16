@@ -1,0 +1,44 @@
+<dl class='flower__data'>
+  {{ with .Params.difficulty }}
+    <dt>Difficulty</dt>
+    <dd>{{ . | markdownify }}</dd>
+  {{ end }}
+  {{ if .Params.height }}
+    <dt>Altitude</dt>
+    <dd>{{ .Params.height }}</dd>
+  {{ else }}
+    {{ $parent = .GetPage "../" }}
+    {{ with $parent.Params.height }}
+      <dt>Peak height</dt>
+      <dd>{{ .Params.height }}</dd>
+    {{ end }}
+  {{ end }}
+  {{ if .Params.timing }}
+    <dt>Duration</dt>
+    <dd>
+      {{ range .Params.timing }}
+        {{ . }}<br />
+      {{ end}}
+    </dd>
+  {{ else }}
+    {{ with .Params.duration }}
+      <dt>Hike duration</dt>
+      <dd>{{ . }}</dd>
+    {{ end }}
+  {{ end }}
+  {{ with .Params.delta }}
+    <dt>Height difference</dt>
+    <dd>{{ . }}</dd>
+  {{ end }}
+  {{ if or .Params.start .Params.peak }}
+    <dt>Coordinates</dt>
+    <dd>
+      {{ with .Params.start }}
+      Start: {{ . }}<br />
+      {{ end }}
+      {{ with .Params.peak }}
+      Peak: {{ . }}<br />
+      {{ end }}
+    </dd>
+  {{ end }}
+</dl>

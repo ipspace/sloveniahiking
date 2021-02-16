@@ -3,27 +3,14 @@
 {{ partial "multi-title.html" $title }}
 <article id="left-column">
   {{ partial "hike-crumbs" . }}
-  {{ if .Params.description }}
-    {{ .Params.description | markdownify }}
-    <h2>The Basics</h2>
-  {{ else }}
-    <h2 class="firstHeading">The Basics</h2>
-  {{ end }}
-  {{ .Scratch.Set "lead" "NOLEAD" }}
-  {{ partial "hike-details" . }}
-  {{ if .Pages }}
-    <h3>Hikes to this peak</h3>
-    {{ partial "multipath-hike-short" .}}
-  {{ end }}
-  {{ if .Content }}
-    {{ .Content }}
-  {{ else }}
-  <p>We don't have an English description of this hike yet.
-  Why don't you take the hike and contribute a description? Thank you!</p>
-  {{ end }}
+  {{ .Content }}
   {{ partial "photo-gallery" . }}
   {{ partial "hike-views" . }}
-  {{ partial "hike-map.html" . }}
+  {{ if eq .Lang "sl" }}
+    {{ partial "izlet-zemljevid.html" . }}
+  {{ else }}
+    {{ partial "hike-map.html" . }}
+  {{ end }}
   <div style='clear: both;'></div>
   <!-- comments -->
   <div class='post__meta'>
@@ -36,4 +23,5 @@
 </article>
 {{ partial "hikes-sidebar.html" . }}
 {{ partial "load-photoswipe.html" . }}
+{{ partial "migrated-footer.html" . }}
 {{ partial "footer.html" . }}
