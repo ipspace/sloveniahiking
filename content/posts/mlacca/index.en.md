@@ -22,7 +22,7 @@ Don't despair; there's a solution. Pavel Skumavc has been turning the [Mlačca g
 
 If you're an experienced ice climber, you're probably not reading this article anyway (or you already left this page and picked up your phone to call Pavel). Everyone else, read carefully. I shall write this only once[^2]
 
-Ice climbing is not without risk. Don't ever try to figure out an activity that could kill you by watching YouTube videos (and lie to the team at Mlačca gorge that you know what you're doing). Hire an instructor -- the best option would be one of the many [Slovenian Mountain guides](http://zgvs.si/en/mountain-guide/).  Need a recommendation? [Miha Habjan](https://www.facebook.com/miha.habjan.3) was an excellent guide when he took me there.
+Ice climbing is not without risk. Don't ever try to figure out an activity that could kill you by watching YouTube videos (and lie to the team at Mlačca gorge that you know what you're doing). Hire an instructor -- the best option would be one of the many [Slovenian Mountain guides](http://zgvs.si/en/mountain-guide/).  Need a recommendation? Climbing in Mlačca with [Miha Habjan](https://www.facebook.com/miha.habjan.3) was a great experience.
 
 {{<photo-gallery pattern="mlacca-*.jpg">}}
 
