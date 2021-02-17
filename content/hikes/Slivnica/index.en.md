@@ -1,6 +1,6 @@
 ---
 date: 2021-02-16 14:51:00
-delta: 550
+delta: 540
 Difficulty:
   Well-trodden waymarked path with stimulating steep sections. The meadows in the upper half get hot during summer months.
 duration: 3
