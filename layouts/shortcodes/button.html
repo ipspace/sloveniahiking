@@ -1,0 +1,7 @@
+{{ if not (.Get "href") }}
+<div>ERROR: Need HREF in BUTTON shortcode</div>
+{{ end }}
+{{ if not (.Get "text") }}
+<div>ERROR: Need TEXT in BUTTON shortcode</div>
+{{ end }}
+<a href='{{ .Get "href" }}' class="buyButton secondary" target="_blank">{{ .Get "text" }}</a>

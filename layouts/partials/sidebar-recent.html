@@ -1,4 +1,4 @@
-{{ $pages := where (where .Site.Pages ".Layout" "eq" "") "Description" "ne" "" }}
+{{ $pages := where (where .Site.Pages ".Layout" "ne" "stub") "Description" "ne" "" }}
 <div class="regbox decorated">
   <h3 class="sidebar__title">{{ i18n "recentupdates" . }}</h3>
   <ul>

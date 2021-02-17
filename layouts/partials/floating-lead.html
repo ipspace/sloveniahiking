@@ -1,0 +1,14 @@
+{{ if and .Content .Params.lead }}
+  {{ with .Resources.GetMatch .Params.lead }}
+    <div class="fancy-figure box caption-position-default flower__item flower__lead">
+      <figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+        <div class="img">
+          <img itemprop="thumbnail" src="{{ .Permalink }}">
+        </div>
+        <a href="{{ .Permalink }}" itemprop="contentUrl"></a>
+      </figure>
+    </div>
+  {{ end }}
+{{ else }}
+  {{ .Scratch.Set "lead" "NOLEAD" }}
+{{ end }}
