@@ -14,7 +14,7 @@ If you _REALLY_ know what you're doing (or think you do), you could hike a bit h
 
 But here's another snag: the varying temperatures aren't exactly great if you're trying to freeze a waterfall. Also, some of those waterfalls that managed to get frozen tend to be under steep slopes. Avalanche anyone?
 
-Don't despair; there's a solution. Pavel Skumavc has been turning the [Mlačca gorge](https://lednoplezanje.com/en/ice-climbing/) into an artificial ice-climbing area for decades and manages to build fantastic ice sculptures almost every year. Contact him to check the ice conditions, pick up your crampons and ice axes, and spend a wonderful day trying out something you never dared to dream about.
+Don't despair; there's a solution. Pavel Skumavc has been turning the [Mlačca gorge](https://lednoplezanje.com/en/ice-climbing/) into an ice-climbing area for decades and manages to build fantastic ice sculptures almost every year. Contact him to check the ice conditions, pick up your crampons and ice axes, and spend a wonderful day trying out something you never dared to dream about.
 
 {{<button href="https://lednoplezanje.com/en/ice-climbing/" text="Explore">}}
 
