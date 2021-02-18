@@ -1,0 +1,50 @@
+#!/usr/bin/env python3
+#
+import cm.read
+import cm.write
+
+from wc.config import config
+import sys
+import os
+import yaml
+import argparse
+import readline
+
+def parse_cli():
+  parser = argparse.ArgumentParser(description='Import hikes from Zaplana.net')
+  parser.add_argument('data', nargs=1,action='store',help='Data file to fix')
+  parser.add_argument('--template',dest='template',action='store', \
+    default=os.path.dirname(__file__)+"/hikes-template.yaml", \
+    help='Data template')
+  return parser.parse_args()
+
+args = parse_cli()
+page_name = args.data[0]
+template  = cm.read.data(args.template)
+
+page = cm.read.page(page_name)
+
+for (k,v) in template.items():
+  page_v = page.get(k,v)
+  if isinstance(v,list):
+    print("Cannot handle list %s" % k)
+    if not page_v:
+      page_v = v
+  else:
+    result = input("%s (%s) ==> " % (k,page_v))
+    if result == "-":
+      page_v = None
+    elif result != "":
+      if isinstance(v,int):
+        page_v = cm.read.number(result)
+      else:
+        page_v = result
+    else:
+      print("Kept %s at %s" % (k,page_v))
+
+  page[k] = page_v
+
+cm.write.create_output_file( \
+  data=page, \
+  target_path=os.path.dirname(page_name), \
+  name=os.path.basename(page_name).replace(".md",""))

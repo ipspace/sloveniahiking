@@ -11,6 +11,20 @@ import dateutil.tz
 
 YAML_DELIMITER="---\n"
 
+def data(path):
+  with open(path, 'r') as stream:
+    try:
+      data = yaml.safe_load(stream)
+    except yaml.YAMLError as exc:
+      raise Exception("Error parsing YAML data in %s: %s" % (path,exc))
+  return data
+
+def number(v):
+  try:
+    return int(v)
+  except ValueError:
+    return float(v)
+
 def page(path):
   with open(path, 'r') as stream:
     content = re.split(YAML_DELIMITER,stream.read())
