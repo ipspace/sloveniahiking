@@ -5,7 +5,7 @@
   {{ end }}
   {{ if .Params.height }}
     <dt>Altitude</dt>
-    <dd>{{ .Params.height }}</dd>
+    <dd>{{ .Params.height }} m</dd>
   {{ else }}
     {{ $parent = .GetPage "../" }}
     {{ with $parent.Params.height }}
@@ -23,12 +23,12 @@
   {{ else }}
     {{ with .Params.duration }}
       <dt>Hike duration</dt>
-      <dd>{{ . }}</dd>
+      <dd>{{ . }} h</dd>
     {{ end }}
   {{ end }}
   {{ with .Params.delta }}
     <dt>Height difference</dt>
-    <dd>{{ . }}</dd>
+    <dd>{{ . }} m</dd>
   {{ end }}
   {{ if or .Params.start .Params.peak }}
     <dt>Coordinates</dt>
