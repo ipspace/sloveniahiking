@@ -10,7 +10,7 @@ import cm.images
 def parse_cli():
   parser = argparse.ArgumentParser(description='Import pictures into Hiking directory')
   parser.add_argument('pics', nargs='*',action='store',help='Pictures to import')
-  parser.add_argument('-p','--prefix',dest='prefix',action='store',help='Prefix to use when importing pictures',required=True)
+  parser.add_argument('-p','--prefix',dest='prefix',action='store',help='Prefix to use when importing pictures')
   parser.add_argument('-a','--author',dest='author',action='store',help='Author')
   return parser.parse_args()
 
@@ -34,8 +34,11 @@ for img in args.pics:
     print("Failed to import picture(s) %s\n%s" % (img,str(sys.exc_info()[1])))
     break
 
-  pic_dir  = os.path.dirname(img)
-  pic_name = os.path.basename(img)
-  new_name = args.prefix + "-" + pic_name.replace(" ","-").lower()
-  print("Renaming %s to %s" % (pic_name,new_name))
-  os.rename(img,pic_dir+"/"+new_name)
+  if args.prefix:
+    pic_dir  = os.path.dirname(img)
+    pic_name = os.path.basename(img)
+    new_name = args.prefix + "-" + pic_name.replace(" ","-").lower()
+    print("Renaming %s to %s" % (pic_name,new_name))
+    if pic_dir:
+      pic_dir = pic_dir + "/"
+    os.rename(img,pic_dir+new_name)

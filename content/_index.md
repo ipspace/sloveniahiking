@@ -25,6 +25,12 @@ url: /index.html
 {{</tile>}}
 {{</tile-column>}}
 {{<tile-column>}}
+{{<tile title="Pojdimo v naravo" image="/images/climbing-greben.jpg">}}
+* [Izleti](/hikes/)
+* [Plezanje](https://www.plezanje.net/climbing/index.asp)
+* [Alpinizem](https://www.plezanje.net/climbing/db/cragIntro.asp?cc=SI&type=W)
+* [Ledno plezanje](https://www.plezanje.net/climbing/db/index.asp?file=iceKamSavAlpe.xml)
+{{</tile>}}
 {{<tile title="Izleti po Sloveniji" image="/hikes/kovk/budanje/M_0_00679.JPG">}}
 * 150 izletov po Sloveniji
 * [Novosti](/hikes)
