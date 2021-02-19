@@ -14,6 +14,7 @@ image:
 - mapgps.jpg
 - path_1.gif
 layout: stub
+lead: M_9_0990.jpg
 map: 1
 name: svAndrej_Zminec
 title: Andrej above Zminec
