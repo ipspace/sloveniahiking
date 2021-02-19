@@ -10,14 +10,6 @@ Ste kdaj poskusili uporabiti zaplana.net ko ste med izletom naleteli na zanimivo
 
 Staro spletišče je bilo narejeno s tehnologijo in oblikovalskimi pristopi ki so se uporabljali pred dvajsetimi leti. Posodabljanje te tehnologije ni imelo smisla; dosti enostavneje je bilo pobrati vsebino, jo prenesti v novo obliko, in objaviti na novi platformi.
 
-### Zakaj je prva stran v angleščini?
-
-Zaplana.net je bila prva spletna stran v Sloveniji ki je objavljala opise izletov po Sloveniji in fotografije slovenskih divjih rož. V dveh desetletjih od njenega nastanka se je pojavila kopica strani ki opravljajo isto funkcijo, marsikdaj precej bolje ali bolj obširno (primer: [hribi.net](http://www.hribi.net/) in [članki Mojce Luštrek](http://pohribih.blogspot.com/)). 
-
-Po drugi strani se večina strani, ki opisujejo izlete po Sloveniji v angleščini, osredotoča na vsebine ki so zanimive za masovni turizem. Morda bo tistih nekaj tujcev, ki v Sloveniji iščejo več kot kremne rezine s pogledom na Blejski grad, našlo na teh straneh kaj zase ;)
-
-Sicer pa: vse kar morate storiti da vas to dejstvo ne moti (več) je klik na slovensko zastavo.
-
 ### Kaj pa nova domena?
 
 Razlogov je več, večina je tehnične narave. Povsem nemogoče je bilo obdržati enaka imena posameznih strani, zato bodo vsaj začasno strani na zaplana.net obiskovalce preusmerjale na novo spletišče.
@@ -52,6 +44,12 @@ Ne, hvala.
 Sladkarij imamo zadosti, osnovne informacije o obisku spletnih strani nam daje CloudFlare, tako da ne potrebujemo "prijazne pomoči" Googla in njegovih piškotkov.
 
 Tudi reklam na naših straneh ne boste našli -- skorajda nespodobno je mazati spletne strani za tistih nekaj fičenkov ki se naberejo z reklamami.
+
+### Zakaj je večina novosti v angleščini?
+
+Zaplana.net je bila prva spletna stran v Sloveniji ki je objavljala opise izletov po Sloveniji in fotografije slovenskih divjih rož. V dveh desetletjih od njenega nastanka se je pojavila kopica strani ki opravljajo isto funkcijo, marsikdaj precej bolje ali bolj obširno (primer: [hribi.net](http://www.hribi.net/) in [članki Mojce Luštrek](http://pohribih.blogspot.com/)). 
+
+Po drugi strani se večina strani, ki opisujejo izlete po Sloveniji v angleščini, osredotoča na vsebine ki so zanimive za masovni turizem. Morda bo tistih nekaj tujcev, ki v Sloveniji iščejo več kot kremne rezine s pogledom na Blejski grad, našlo na teh straneh kaj zase ;)
 
 ### Za radovedne
 

@@ -1,0 +1,6 @@
+{{ $pages := where (where $.Site.Pages "Section" "hikes") "Kind" "page" }}
+{{ range $pages.ByTitle }}
+  {{ if and .Params.duration .Params.description }}
+    {{ partial "post-blurb.html" . }}
+  {{ end }}
+{{ end }}

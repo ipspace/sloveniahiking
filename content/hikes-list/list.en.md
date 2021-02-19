@@ -1,5 +1,5 @@
 ---
-title: Hiking in Slovenia - Overview
+title: Hiking in Slovenia – Overview
 layout: special
 listing: names
 ---

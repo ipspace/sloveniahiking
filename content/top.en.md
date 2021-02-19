@@ -1,6 +1,6 @@
 ---
 title: Hiking in Slovenia
-url: /index.html
+url: /start.en.html
 layout: index
 translationKey: top
 banner: top-banner-1.jpg

@@ -1,0 +1,8 @@
+{{ partial "header-head.html" . }}
+{{ partial "body-svg.html" }}
+{{ partial "body-header.html" . }}
+<div id="content-wrapper" class="content-wrapper">
+  <div class='post flex {{ .Params.css_class }}'>
+{{ .Content }}
+  </div>
+</div>

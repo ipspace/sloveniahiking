@@ -1,7 +1,7 @@
 ---
 title: Pohajkovanja po Sloveniji
 layout: index
-url: start.si.html
+url: /start.si.html
 translationKey: top
 banner: top-banner-1.jpg
 ---

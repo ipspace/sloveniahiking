@@ -1,5 +1,5 @@
 ---
-title: Izleti po Sloveniji - spisek izletov
+title: Izleti po Sloveniji – seznam izletov
 layout: special
 listing: names
 ---

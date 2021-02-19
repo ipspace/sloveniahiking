@@ -1,0 +1,20 @@
+{{ if .Get "empty" }}
+<div class="tile__empty"></div>
+{{ else }}
+<div class="tile">
+  {{ with .Get "image" }}
+    <div class="thumb">
+      <img src="{{ . }}">
+    </div>
+  {{ end }}
+  <div>
+    {{ with .Get "title" }}
+    <h3>{{ . }}</h3>
+    {{ end }}
+    {{ .Inner | markdownify }}
+    {{ if .Get "link" }}
+      <a class="buyButton" href='{{ .Get "link" }}'>{{ .Get "link_text" | default "More" }}</a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
