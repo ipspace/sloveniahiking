@@ -2,31 +2,20 @@
 author: Mojca_Lustrek
 date: 2007-09-30 00:00:00+00:00
 delta: 440
-description: Planina Klemenča jama, imenovana tudi Spodnja jama (Zgornja jama je više
-  pod Ojstrico) ali Klemenškova planina leži pod severno steno Ojstrice. Do nje lahko
-  pridete po več markiranih poteh iz Logarske doline.
-dirty: true
+description: |
+  Planina Klemenča jama, imenovana tudi Spodnja jama (Zgornja jama je više pod Ojstrico) ali Klemenškova planina leži pod severno steno Ojstrice. Do nje lahko pridete po več markiranih poteh iz Logarske doline.
 duration: 3
 height: 1208
-image:
-- M_007090707.jpg
-- M_007090702.jpg
-- M_007090709.jpg
-- M_007090703.jpg
-- M_007090710.jpg
-- M_007090711.jpg
-- M_007090705.jpg
-- M_007090706.jpg
-- M_007090701.jpg
-- M_007090708.jpg
-- M_007090704.jpg
+lead: M_X07090701.jpg
 name: KlemencaJama
 photo_author: Mojca_Lustrek
 title: Klemenča jama
 x: 472
 y: 137
 ---
-{{<figure src="../KlemencaJama/L_X07090701.jpg">}} Planina Klemenča jama (ime je menda dobila zaradi kotanjaste oblike), imenovana tudi Spodnja jama (Zgornja jama je više pod Ojstrico) ali Klemenškova planina leži pod severno steno Ojstrice. Bolj kot zaradi številnih imen vas bo najbrž zanimala kot izhodišče za več prijetnih pohodov in vzponov, pa tudi sama je čisto zadovoljiv cilj, če nimate ves dan časa ali dovolj moči za kaj zahtevnejšega. Do nje lahko pridete po več markiranih poteh iz Logarske doline.
+{{<figure src="M_X07090701.jpg">}}
+
+Planina Klemenča jama (ime je menda dobila zaradi kotanjaste oblike), imenovana tudi Spodnja jama (Zgornja jama je više pod Ojstrico) ali Klemenškova planina leži pod severno steno Ojstrice. Bolj kot zaradi številnih imen vas bo najbrž zanimala kot izhodišče za več prijetnih pohodov in vzponov, pa tudi sama je čisto zadovoljiv cilj, če nimate ves dan časa ali dovolj moči za kaj zahtevnejšega. Do nje lahko pridete po več markiranih poteh iz Logarske doline.
 
 ### Osnovni podatki
 
@@ -84,13 +73,16 @@ Kratka pot od Doma planincev
 
 Če ne utegnete ali ne zmorete ali pa ste se odločili za krožno pot, se zapeljite do Doma planincev v Logarski dolini. Njegovo parkirišče je, kakor nas pouči tabla, samo za njegove goste, ampak nasproti je še eno manjše, ki je tudi čisto dobro. Čeprav je že ob njem kažipot za Klemenčo jamo, se vrnemo na cesto, zavijemo levo nanjo in kakih 30 m onkraj mostu sledimo drugemu kažipotu za naš cilj. Na gozdni cesti je zapornica, ki zavrača vozila, planinca pa vabijo Knafelčeve markacije. Cesto zapustimo že čez nekaj minut in se začnemo vzpenjati v levo.
 
-{{<figure src="M_007090703.jpg" caption="Dom planincev">}} {{<figure src="M_007090710.jpg" caption="Spomenik pri domu planincev">}} {{<figure src="M_007090711.jpg" caption="Slap Sušica">}}
+{{<figure src="M_007090703.jpg" caption="Dom planincev">}}
 
 Čez kakih 10 minut smo pri slapu Sušica, prečkamo mostiček nad njim in pod jeklenico tovorne žičnice nadaljujemo vzpon po dobro nadelani poti, ki hodcu pomaga z lepo speljanimi ključi. Prej kot v 10 minutah smo na 1000 m (tablica) in kmalu nato pri spominski plošči ob mostičku čez eno številnih grap. Pri studenčku kakih 5 minut nad njim piše: *Tukaj žuborim, tebi postreči si želim.* Na klopci lahko posedimo ob lesenem koritu, v katero po lesenem žlebu curlja voda (iz napisa bi sklepala, da je pitna). Takoj zatem z leve priteče pot od Doma v Logarski dolini (to je od izhodišča iz prejšnjega razdelka) in zdaj že vemo, da je do koče na Klemenči jami le še 10 minut.
 
+{{<figure src="M_007090711.jpg" caption="Slap Sušica">}}
+
 Pri Domu planincev v Logarski dolini (837 m) stoji spomenik Franu Kocbeku (1863--1930), nadučitelju v Gornjem Gradu, publicistu, privržencu slovenstva in Savinjskih Alp, ki je leta 1893 ustanovil Savinjsko podružnico SPD, organiziral gradnjo planinskih postojank in poti, ter Johannesu Frischaufu (1837--1924), profesorju matematike in astronomije na graški univerzi, publicistu, alpinistu, velikemu ljubitelju gora in prijatelju Slovencev, ki je od leta 1874 sistematično raziskoval Savinjske Alpe in jih odkrival svetu.
 
- 
+{{<figure src="M_007090710.jpg" caption="Spomenik pri domu planincev">}}
+
 
 Koča na Klemenči jami
 ---------------------
@@ -99,12 +91,15 @@ Na planini stoji koča in na njej je tabla: *Macesen na Klemenči jami* *Larix d
 
 Iz drugih napisov na pročelju še izvemo, da je bila Koča Klemenča jama pod Ojstrico zgrajena 25. 9. 1983. Prvo planinsko postojanko so solčavski planinci tu uredili iz pastirske koče že leta 1954, a je odslužila svoje. Zdaj stojita tam obe. Če vam bo »dnevna ponudba« žlinkrofi z nadevom iz suhih hrušk vzbudila radovednost in »nemir«, je silno priporočljivo, da oboje potolažite z ravno pravšnjo porcijo te imenitne jedi.
 
-{{<figure src="M_007090705.jpg" caption="Koča na Klemenči jami">}} {{<figure src="M_007090706.jpg">}}\
-Krofička {{<figure src="M_007090701.jpg">}}\
-Voda {{<figure src="M_007090708.jpg">}}\
-Macesen
+{{<figure src="M_007090705.jpg" caption="Koča na Klemenči jami">}}
 
 Koča premore še nekaj pritiklin. Številne klopce in mize vabijo k počitku. Na tablici na ovinku ganka piše, da je do stranišča 8 sekund, na naslednjem vogalu pa le še 3 (to je včasih hudo dobrodošel podatek \...). Za kočo sta kegljišče in gugalnica, v leseno korito niže doli pa teče voda. Nad novo drvarnico je zimska soba. Pod potjo na začetku planine je še ena lesena hiška z nekaj ležišči. Oskrbnik Martin Slapnik ve marsikaj o okolici in tamkajšnjih poteh in dekleti, ki ga včasih nadomeščata, tudi.
+
+{{<gallery>}}
+{{<figure src="M_007090706.jpg" caption="Krofička">}}
+{{<figure src="M_007090701.jpg" caption="Voda">}}
+{{<figure src="M_007090708.jpg" caption="Macesen">}}
+{{</gallery>}}
 
 Številni kažipoti in table nam povedo, kam vse se lahko napotimo s te planine, in še slavospev markaciji si lahko preberemo: *Rdeči obroček, belo oko te varno pripelje gor na goro.* Razgled na okoliške gore je imeniten: vidimo Krofičko, Ojstrico, Rjavčki vrh, Planjavo, [Okrešelj](../okreselj), Skuto, Rinke, Mrzlo goro, gorski greben med Logarsko dolino in Matkovim kotom, del Olševe \...
 
@@ -113,6 +108,8 @@ Skratka --
 Vrnitev
 -------
 
-{{<figure src="M_007090704.jpg">}} Če si izberemo eno ali drugo tu opisano možnost, se seveda lahko vrnemo po isti poti, dosti prijetneje pa je napraviti krog: po eni gor in po drugi dol. Razdalje niso tolikšne, da bi si bilo treba priskrbeti prevoz na drugi strani, saj je med hotelom Plesnik in Domom planincev komaj dobre pol ure hoda, kakšni lepi razgledi nam pri tem krajšajo čas, sem pa že povedala. Ko se že odpeljemo, pa se moramo še enkrat ustaviti ob pašniku, kjer se pase zanimivo dolgodlako govedo -- prav slikovito je.
+Če si izberemo eno ali drugo tu opisano možnost, se seveda lahko vrnemo po isti poti, dosti prijetneje pa je napraviti krog: po eni gor in po drugi dol. Razdalje niso tolikšne, da bi si bilo treba priskrbeti prevoz na drugi strani, saj je med hotelom Plesnik in Domom planincev komaj dobre pol ure hoda, kakšni lepi razgledi nam pri tem krajšajo čas, sem pa že povedala. Ko se že odpeljemo, pa se moramo še enkrat ustaviti ob pašniku, kjer se pase zanimivo dolgodlako govedo -- prav slikovito je.
+
+{{<figure src="M_007090704.jpg">}}
 
 Če se vračamo po krajši poti, se od Doma planincev napotimo desno od ceste (saj po cesti ni posebno prijetno hoditi) po neoznačeni poti skozi gozd. Ob njej je nekaj poučnih tabel (na primer pri posebno zanimivem brinu, ki je zrasel v drevo; pri veliki preži piše o divjadi -- gamsih, kozorogih, srnjadi, jelenjadi, planinskih zajcih, gozdnih kurah, ruševcu), med njimi pa nas vodijo zelene puščice. Pripeljejo nas do asfaltne ceste po mostu čez suho strugo Kotovca mimo penziona Na razpotju, od tam pa že poznamo pot do parkirišča.

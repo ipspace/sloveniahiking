@@ -6,6 +6,7 @@ description: Če vam je vzpon na Blegoš s Črnega Kala (od lovske koče) prekra
   Kovka.
 duration: 4
 height: 1562
+lead: M_0_00630.JPG
 map: 1
 multipath: true
 multilead: M_0_00630.JPG

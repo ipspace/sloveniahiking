@@ -10,7 +10,9 @@ image:
 - razgled_sever.jpg
 - mapgps.jpg
 - track.jpg
+lead: M_6-4626_IMG.JPG
 map: 1
+multilead: M_6-4626_IMG.JPG
 multipath: true
 name: Javorc/GorenjaVas
 title: Javorč iz Gorenje vasi

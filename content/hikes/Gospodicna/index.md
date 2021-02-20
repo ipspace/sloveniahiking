@@ -1,8 +1,8 @@
 ---
 date: 2003-08-24 00:00:00+00:00
 delta: 460
-description: Najbolj znan izvir na Gorjancih
-dirty: true
+description: |
+  Kljub temu, da na Gorjancih, gozdnatem pobočju, ki se južno od Novega mesta dviguje tik ob meji s Hrvaško, vedno primanjkuje vode, boste nekje na sredini pobočja, tam kjer apnenec zamenjajo nepropustne (predvsem laporne) kamnine, našli vrsto studencev, med katerimi je najznamenitejša Gospodična, katere voda naj bi prinašala večno mladost. 
 duration: 2.5
 height: 828
 image:
@@ -64,8 +64,6 @@ Na Internetu boste o Gorjancih in Gospodični našli še precej podatkov na nasl
 Gabrje
 ------
 
-{{<figure src="M_7-6709_IMG.JPG" caption="Začetek poti">}}
-
 Pot bomo začeli v Gabrjah, majhni vasici pod Gorjanci, vzhodno od Novega mesta. V Gabrje boste z magistralne ceste Ljubljana -- Krško najlažje prišli takole:
 
 -   Magistralno cesto zapustite na izvozu Otočec (odcep je malce kompleksen - tisti, ki prihajate iz Ljubljane, zavijete s ceste takoj za bencinsko črpalko, tisti, ki prihajate iz krške smeri, pa pred njo, nato pa zavijete levo pod most). Na stari cesti ob Krki zavijete desno (smer Otočec/Novo mesto).
@@ -87,18 +85,25 @@ Vzpon do Gospodične
 
 Na začetku vzpona proti Gospodični vas čaka edina orientacijska zanka na celotni poti -- pred vami sta dve makadamski cesti, ena vodi naravnost, druga zavije desno v klanec, markacij pa ni videti nikjer. No, že malce bolj pozoren pogled opazi ozko stezico, ki se med njima izgubi v gozd, ko pa si stezico ogledate malce bolj podrobno, hitro opazite markacijo v gozdu.
 
+{{<gallery>}}
+{{<figure src="M_7-6709_IMG.JPG" caption="Začetek poti">}}
 {{<figure src="M_7-6711_IMG.JPG" caption="Prvi razgledi">}}
+{{</gallery>}}
 
 Že po prvih metrih hoje boste videli, da so Gorjanci naravnost prepredeni z mrežo gozdnih cest, kolovozov in pešpoti (seveda na zemljevidu večina le-teh sploh ni vrisanih). Planinci PD Novo Mesto, ki vzdržujejo to pot, so spretno izbrali optimalno pot proti cilju, tako da stalno preskakujemo z gozdnih cest na kolovoze in ozke pešpoti, tu in tam pa nas markacije usmerijo na komaj vidno stezico, ki se vije po gozdnem pobočju in je skorajda popolnoma skrita pod bukovim listjem. A brez skrbi -- markacije so tako pogoste in tako dobro vzdrževane, da bi se lahko izgubil le največji nerodnež.
 
-{{<figure src="M_7-6712_IMG.JPG" caption="Preko košenice">}}
-
 Dobre pol ure vzpona po razgibani poti nas pripelje iz bukovega gozda na rob prvega travnika, ob katerem se začnemo vzpenjati. Na tem mestu se velja ustaviti in se ozreti nazaj -- med drevesi se že odprejo prvi pogledi na razgibano dolenjsko pokrajino, a le za hip, saj pot hitro zavije nazaj v gozd in spet nas čaka približno polurni vzpon do naslednje košenice, kjer so razgledi bistveno lepši, saj smo se dvignili že za dobrih 350 metrov.
+
+{{<figure src="M_7-6712_IMG.JPG" caption="Preko košenice">}}
 
 Pot nas vodi ob zgornjem robu travnika, kjer boste lahko sredi poletja uživali v bogastvu travniških rož (morda vas tu in tam čaka tudi zlato jabolko), konec poletja in v začetku jeseni pa se boste morali zadovoljiti z rožami, ki jih boste opazili ob travniškem robu, saj te travnike še vedno skrbno kosijo. A nič hudega -- pod nogami se bodo svetili pisani cvetovi zebrata, drobcene smetlike, tu in tam cveti še osamljena šentjanževka, na travniku pa prvi podleski že najavljajo prihod jeseni.
 
-{{<figure src="Razgled.jpg" caption="Pogled na dolenjske griče, v ozadju Zasavsko hribovje" caption-position="bottom">}} {{<figure src="M_7-6715_IMG.JPG" caption="Gospodična">}} {{<figure src="M_7-6716_IMG.JPG" caption="Planinski dom">}}
-
 Do cilja naše poti je od zadnjega travnika le še slabih 15 minut hoje skozi gozd (razen če si boste izlet podaljšali z obiranjem malin, ki jih boste našli takoj za travnikom) in že boste nad seboj med drevesi opazili streho Doma Vinka Paderšiča. Do tja se lahko sprehodite po kolovozu, po katerem hodite, lahko pa uberete krajšo pot po stopnicah, ki vas desno po pobočju pripeljejo mimo izvira Gospodična do doma.
 
+{{<gallery>}}
+{{<figure src="M_7-6715_IMG.JPG" caption="Gospodična">}} {{<figure src="M_7-6716_IMG.JPG" caption="Planinski dom">}}
+{{</gallery>}}
+
 Po osvežitvi in nabiranju mladosti pri izviru ter okrepčilu v domu se lahko odločite za nadaljevanje poti na Trdinov vrh (do tja vas loči le še ura vzpona) ali pa se vrnete nazaj v dolino, najbolje po poti, po kateri ste se povzpeli.
+
+{{<figure src="Razgled.jpg" caption="Pogled na dolenjske griče, v ozadju Zasavsko hribovje" caption-position="bottom">}}

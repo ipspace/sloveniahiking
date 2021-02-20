@@ -1,7 +1,8 @@
 ---
 date: 2003-09-07 00:00:00+00:00
 delta: 450
-description: Razgleden vrh nad dolino Idrijce
+description: |
+  Bevkov Vrhnika je razgleden vrh nad dolino Idrijce s čudovitim pogledom na Idrijsko hribovje in Spodnje Bohinjske gore. Če se nanj odpravite poleti, boste med vzponom med raztresenimi kmetijami uživali v bogastvu travniških rož.
 duration: 3
 height: 1051
 image:
