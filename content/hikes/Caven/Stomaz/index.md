@@ -1,5 +1,5 @@
 ---
-date: '2004-09-12T00:00:00'
+date: 2004-09-12 00:00:00+00:00
 delta: 950
 description: Med izleti na Čaven ima tisti iz Stomaža zagotovo najbolj razgledno izhodišče,
   saj je vasica stisnjena visoko pod pobočje Čavna in tako ponuja obiskovalcu razgled
@@ -19,9 +19,13 @@ image:
 - path_1.gif
 lead: M_7_1797.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/32492
 multilead: M_7_1797.JPG
 multipath: true
 name: Caven/Stomaz
+peak: 45.928964,13.852867
+region: vipava
+start: 45.899641,13.856601
 title: Čaven iz Stomaža
 ---
 Med izleti na [Čaven](../) ima tisti iz Stomaža zagotovo najbolj razgledno izhodišče, saj je vasica stisnjena visoko pod pobočje Čavna in tako ponuja obiskovalcu razgled po vsej Vipavski dolini. Pot na Čaven vodi čez Malo goro, zato je za ljubitelje rož še bolj privlačna, saj boste tam našli kar nekaj zelo redkih cvetlic.

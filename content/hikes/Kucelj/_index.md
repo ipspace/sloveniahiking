@@ -1,12 +1,16 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 description: Kucelj je najvišji vrh v grebenu, ki severo-zahodno od Ajdovščine s strmimi
   stenami ločuje Vipavsko dolino od Trnovske planote.
 height: 1237
 image:
 - M_4-6459_IMG.JPG
 lead: M_4-6459_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/5257
 name: Kucelj
+peak: 45.928761, 13.825091
+region: vipava
+start: null
 title: Kucelj na Čavnu
 x: 409
 y: 88

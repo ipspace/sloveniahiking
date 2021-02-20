@@ -1,5 +1,5 @@
 ---
-date: '2008-02-17T00:00:00'
+date: 2008-02-17 00:00:00+00:00
 delta: 900
 description: Če se radi povzpnete na Kucelj nad Vipavsko dolino, in ste izčrpali že
   večino drugih možnosti, si pot iz Vrtovina podaljšajte z obiskom Školja svetega
@@ -7,9 +7,13 @@ description: Če se radi povzpnete na Kucelj nad Vipavsko dolino, in ste izčrpa
 duration: 5
 height: 1237
 lead: M_0_10275.JPG
+maplink: https://mapzs.projekti.si/path/32602
 multilead: M_0_10275.JPG
 multipath: true
 name: Kucelj/svPavel
+peak: 45.928761,13.825091
+region: vipava
+start: 45.909515,13.818130
 title: Na Kucelj mimo Školja svetega Pavla
 ---
 {{<figure src="M_0_10275.JPG">}}

@@ -1,17 +1,21 @@
 ---
-date: '2005-12-18T00:00:00'
+date: 2005-12-18 00:00:00+00:00
 delta: 1100
 description: Vzpon na Kucelj (ali do Doma na Čavnu) iz Vrtovina je verjetno eden najdaljših
   v tem delu Slovenije, saj se pot začne čisto na dnu Vipavske doline.
 duration: 6.5
 height: 1237
+lastmod: 2021-02-13 10:19:00
 lead: M_1_2128.JPG
-multilead: M_1_2128.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/32602
+multilead: M_1_2128.JPG
 multipath: true
 name: Kucelj/Vrtovin
+peak: 45.928761,13.825091
+region: vipava
+start: 45.9016051,13.8146674
 title: Kucelj iz Vrtovina
-lastmod: 2021-02-13 10:19:00
 x: 0
 y: 0
 ---

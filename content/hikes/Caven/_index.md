@@ -6,7 +6,11 @@ height: 1242
 image:
 - M_2_0264.JPG
 lead: M_2_0264.JPG
+maplink: https://mapzs.projekti.si/poi/1062
 name: Caven
+peak: 45.928964,13.852867
+region: vipava
+start: null
 title: Čaven
 x: 412
 y: 88

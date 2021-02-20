@@ -1,16 +1,20 @@
 ---
-date: '2003-12-14T00:00:00'
-lastmod: 2021-02-13 10:15:00
+date: 2003-12-14 00:00:00+00:00
 delta: 1080
 description: Tudi v zimskih dneh si lahko brez posebne opreme privošćimo dolge vzpone
   - na primer iz Lokavca do Doma na Čavnu
 duration: 5
 height: 1242
+lastmod: 2021-02-13 10:15:00
 lead: M_2_0291.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/32565
 multilead: M_2_0291.JPG
 multipath: true
 name: Caven/Lokavec
+peak: 45.928964,13.852867
+region: vipava
+start: 45.902378,13.881665
 title: Čaven iz Lokavca
 ---
 Severozahodno od Ajdovščine se nad sončno in toplo Vipavsko dolino vzpenjajo strme skalnate stene [Čavna](../), grebena, ki na južni strani omejuje Trnovski gozd. Najvišji vzpon nanj vas čaka, če se boste na pot odpravili iz Lokavca, vasi na robu Vipavske doline. Ta izlet je med vsemi potmi na Čaven tudi najbolj razgleden -- gozd se spremeni v kraške travnike že precej pod robom Male gore, ko se povzpnete nad njen skalnat rob pa boste ves preostali čas vzpona uživali v pogledu na Vipavsko dolino.

@@ -1,5 +1,5 @@
 ---
-date: '2003-08-03T00:00:00'
+date: 2003-08-03 00:00:00+00:00
 delta: 570
 description: Vzpon na Kucelj iz Predmeje je prijeten, ne pretežak izlet, ki v začetku
   teče po senčnem bukovem gozdu, od Doma na Čavnu pa pretežno po cvetočih kraških
@@ -7,10 +7,14 @@ description: Vzpon na Kucelj iz Predmeje je prijeten, ne pretežak izlet, ki v z
 duration: 3.5
 height: 1237
 lead: M_5-6505_IMG.JPG
-multilead: M_5-6505_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31049
+multilead: M_5-6505_IMG.JPG
 multipath: true
 name: Kucelj/Predmeja
+peak: 45.928761,13.825091
+region: vipava
+start: 45.946729,13.870261
 title: Kucelj iz Predmeje
 ---
 {{<figure src="M_4-6459_IMG.JPG" caption="Pogled na Kucelj iz Vipavske doline">}}

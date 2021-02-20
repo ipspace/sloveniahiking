@@ -1,5 +1,5 @@
 ---
-date: '2006-11-26T00:00:00'
+date: 2006-11-26 00:00:00+00:00
 delta: 580
 description: Po pobočjih Čavna se od Predmeje pa vsaj do Vitovelj vije položna, tu
   in tam zelo razgledna dobro uhojena pot, ki je ne boste našli na nobenem zemljevidu.
@@ -13,10 +13,14 @@ image:
 - path_1.gif
 - BosnarskaPot.jpg
 lead: M_0_00616.JPG
-multilead: M_0_00616.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1062
+multilead: M_0_00616.JPG
 multipath: true
 name: Caven/Srednja
+peak: 45.928964,13.852867
+region: vipava
+start: 45.937787,13.869216
 title: Na Čaven po Srednječavenski poti
 ---
 {{<figure src="M_0_00616.JPG">}}
