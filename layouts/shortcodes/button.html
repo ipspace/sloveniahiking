@@ -4,4 +4,6 @@
 {{ if not (.Get "text") }}
 <div>ERROR: Need TEXT in BUTTON shortcode</div>
 {{ end }}
-<a href='{{ .Get "href" }}' class="buyButton secondary" target="_blank">{{ .Get "text" }}</a>
+<a href='{{ .Get "href" }}' class='buyButton secondary'
+  style='display: inline-block; {{ with .Get "top" }}margin-top: {{ . }};{{ end }} {{ with .Get "bottom" }}margin-bottom: {{ . }};{{ end }}'
+  target="_blank">{{ .Get "text" }}</a>
