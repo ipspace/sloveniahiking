@@ -17,8 +17,11 @@ image:
 layout: stub
 lead: M_7_1797.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/32492
 multilead: M_7_1797.JPG
 multipath: true
 name: Caven/Stomaz
+peak: 45.928964,13.852867
+start: 45.899641,13.856601
 title: Čaven from Stomaž
 ---

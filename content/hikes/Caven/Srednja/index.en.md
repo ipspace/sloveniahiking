@@ -13,8 +13,11 @@ image:
 layout: stub
 lead: M_0_00616.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1062
 multilead: M_0_00616.JPG
 multipath: true
 name: Caven/Srednja
+peak: 45.928964,13.852867
+start: 45.937787,13.869216
 title: Čaven from Predmeja
 ---

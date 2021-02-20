@@ -7,9 +7,12 @@ lastmod: 2021-02-13 10:19:00
 layout: stub
 lead: M_1_2128.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/32602
 multilead: M_1_2128.JPG
 multipath: true
 name: Kucelj/Vrtovin
+peak: 45.928761,13.825091
+start: 45.9016051,13.8146674
 title: Kucelj from Vrtovin
 x: 0
 y: 0

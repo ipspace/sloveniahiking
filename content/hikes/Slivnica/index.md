@@ -19,8 +19,12 @@ image:
 - M_4-1422_IMG.jpg
 - M_3-1390_IMG.jpg
 lead: M_3-1364_IMG.jpg
+maplink: https://mapzs.projekti.si/poi/5679
 name: Slivnica
+peak: 45.7899991,14.3990229
+start: 45.792868,14.367291
 title: Čarovniška Slivnica
+video: https://www.relive.cc/view/vQvy1dzE8Kv/
 x: 454
 y: 72
 ---
