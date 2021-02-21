@@ -25,7 +25,9 @@ image:
 - alM_t2.gif
 layout: stub
 map: 1
+maplink: https://mapzs.projekti.si/poi/55911
 name: Pedrovo
+peak: 45.856958,13.762335
 title: Branik - Pedrovo
 x: 404
 y: 80

@@ -1,5 +1,5 @@
 ---
-date: '2004-12-19T00:00:00'
+date: 2004-12-19 00:00:00+00:00
 delta: 270
 description: Severno od Vrtovina, vasi med Ajdovščino in Novo Gorico, se na pobočjih
   Kuclja nad Vipavsko dolino dviga zanimiva razgledna planotasta vzpetina s cerkvico
@@ -20,7 +20,11 @@ image:
 - path_1.gif
 lead: M_1_2136.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/2669
 name: SkoljSvPavla
+peak: 45.909096,13.810788
+region: vipava
+start: 45.9016051,13.8146674
 title: Školj sv. Pavla
 x: 408
 y: 86

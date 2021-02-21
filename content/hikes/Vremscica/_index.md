@@ -6,7 +6,9 @@ height: 1027
 image:
 - M_2-2267_IMG.JPG
 - Vremscica_Razgled.jpg
+maplink: https://mapzs.projekti.si/poi/1227
 name: Vremscica
+peak: 45.688293,14.061574
 title: Vremščica
 x: 427
 y: 61

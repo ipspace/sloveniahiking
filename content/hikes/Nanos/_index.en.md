@@ -6,7 +6,9 @@ image:
 - Razgled_Vipava_PF.jpg
 layout: stub
 lead: M_2_0206.JPG
+maplink: https://mapzs.projekti.si/poi/3080
 name: Nanos
+peak: 45.769507,14.056388
 title: Nanos
 x: 426
 y: 70

@@ -19,8 +19,11 @@ image:
 - M_007051811.jpg
 layout: stub
 lead: M_007051810.jpg
+maplink: https://mapzs.projekti.si/poi/1022
 name: SuhiVrh
+peak: 45.798405,14.066979
 photo_author: Mojca_Lustrek
+start: 45.797993,14.119475
 title: Suhi vrh on Nanos
 x: 428
 y: 73

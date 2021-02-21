@@ -15,7 +15,10 @@ image:
 layout: stub
 lead: M_003074.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/36608
 name: DolskiMaj
+peak: 45.933692,13.893652
+start: 45.943531,13.876619
 title: Dolski maj
 x: 414
 y: 88

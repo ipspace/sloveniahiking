@@ -1,5 +1,5 @@
 ---
-date: '2010-12-22T00:00:00'
+date: 2010-12-22 00:00:00+00:00
 delta: 450
 description: Hoja po neoznačenih poteh po hribovju nad Planino pri Rakeku je v zimskem
   času še posebej zanimiva.
@@ -25,7 +25,10 @@ image:
 - M_1-4126_IMG.JPG
 - M_1-4127_IMG.JPG
 lead: M_1-4119_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/5751
 name: Oblenk
+peak: 45.834089,14.213203
+start: 45.825786,14.236644
 title: Iz Planine na Petričev hrib (Oblenk)
 x: 439
 y: 77

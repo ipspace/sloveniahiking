@@ -5,7 +5,10 @@ duration: 3
 height: 1213
 layout: stub
 lead: M_3-3357_IMG.JPG
+maplink: https://mapzs.projekti.si/path/31642
 name: svDuh_Podkraj
+peak: 45.871767,14.062456
+start: 45.863916,14.062982
 title: Sv. Duh in Križna gora nad Podkrajem
 x: 427
 y: 82

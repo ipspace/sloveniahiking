@@ -1,5 +1,5 @@
 ---
-date: '2006-01-29T00:00:00'
+date: 2006-01-29 00:00:00+00:00
 delta: 400
 description: Le malokdo ve, da je soška fronta, ki nam je najbolj znana po svojih
   ostankih z gora okoli Tolmina, Kobarida in Bovca, segala tudi na slovenski Kras,
@@ -22,7 +22,10 @@ image:
 - alt.gif
 lead: M_0_1023.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31618
 name: CrniHribi
+peak: 45.868196,13.642593
+region: karst
 title: 'Črni hribi: od meje z Italijo do Renškega vrha'
 x: 396
 y: 80

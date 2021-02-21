@@ -17,7 +17,10 @@ image:
 layout: stub
 lead: M_9_1976.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/389
 name: GradiskaTura
+peak: 45.829279,13.979692
+start: 45.832270,13.971014
 title: Gradiška Tura
 x: 421
 y: 77

@@ -1,5 +1,5 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 description: Kovk je najbolj jugovzhodni vrh Gore, planote, ki se visoko nad Vipavsko
   dolino dviga vzhodno od Ajdovščine.
 height: 961
@@ -15,7 +15,10 @@ image:
 - path_1.gif
 - alt.gif
 lead: M_4_1434.JPG
+maplink: https://mapzs.projekti.si/poi/1288
 name: Kovk
+peak: 45.887981,13.969153
+region: vipava
 title: Kovk nad Colom
 x: 420
 y: 83

@@ -15,7 +15,11 @@ image:
 - path_1.gif
 lead: M_9_0910.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1661
 name: svMiklavz_Vipava
+peak: 45.819506,13.982114
+region: vipava
+start: 45.832270,13.971014
 title: Sveti Miklavž nad Vipavsko dolino
 x: 421
 y: 76

@@ -16,7 +16,11 @@ image:
 - path_1.gif
 lead: M_2_2245.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1501
 name: Plaz
+peak: 45.842405,13.972171
+region: vipava
+start: 45.832270,13.971014
 title: Plaz
 x: 420
 y: 78

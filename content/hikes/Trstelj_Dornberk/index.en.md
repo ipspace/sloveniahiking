@@ -19,7 +19,10 @@ image:
 - Pogled_vrh_1.jpg
 layout: stub
 lead: M_0-4079_IMG.JPG
+maplink: https://mapzs.projekti.si/path/31945
 name: Trstelj_Dornberk
+peak: 45.857869,13.703780
+start: 45.883553,13.737850
 title: Trstelj from Dornberk
 x: 400
 y: 80

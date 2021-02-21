@@ -14,7 +14,9 @@ image:
 - alt.gif
 layout: stub
 lead: M_4_1434.JPG
+maplink: https://mapzs.projekti.si/poi/1288
 name: Kovk
+peak: 45.887981,13.969153
 title: Kovk above Col
 x: 420
 y: 83

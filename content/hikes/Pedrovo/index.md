@@ -1,13 +1,16 @@
 ---
 date: 2003-03-30 00:00:00+00:00
 delta: 300
-description: 
-  Pedrovo je kraška vasica, stisnjena v pobočje Črnih hribov visoko nad Branikom, z razgledom na Vipavsko dolino, Trnovski gozd in Nanos.
+description: Pedrovo je kraška vasica, stisnjena v pobočje Črnih hribov visoko nad
+  Branikom, z razgledom na Vipavsko dolino, Trnovski gozd in Nanos.
 duration: 2
 height: 380
 lead: M_4-4488_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/55911
 name: Pedrovo
+peak: 45.856958,13.762335
+region: vipava
 title: Iz Branika na Pedrovo
 x: 404
 y: 80

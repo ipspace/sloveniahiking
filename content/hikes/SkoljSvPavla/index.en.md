@@ -17,7 +17,10 @@ image:
 layout: stub
 lead: M_1_2136.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/2669
 name: SkoljSvPavla
+peak: 45.909096,13.810788
+start: 45.9016051,13.8146674
 title: Saint Paul above Vrtovin
 x: 408
 y: 86

@@ -13,7 +13,10 @@ image:
 layout: stub
 lead: M_5_2552.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1220
 name: MalaGora
+peak: 45.922396,13.850510
+start: 45.928964,13.852867
 title: Mala gora
 x: 411
 y: 87

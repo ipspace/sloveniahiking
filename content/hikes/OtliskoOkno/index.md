@@ -24,7 +24,11 @@ image:
 - path_1.gif
 lead: M_9-6987_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/5296
 name: OtliskoOkno
+peak: 45.917544,13.911851
+region: vipava
+start: 45.903995,13.912370
 title: Otliško okno
 x: 416
 y: 86

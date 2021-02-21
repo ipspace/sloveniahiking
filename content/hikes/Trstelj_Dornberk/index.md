@@ -21,7 +21,11 @@ image:
 - pogled_vrh_2.jpg
 - Pogled_vrh_1.jpg
 lead: M_0-4079_IMG.JPG
+maplink: https://mapzs.projekti.si/path/31945
 name: Trstelj_Dornberk
+peak: 45.857869,13.703780
+region: vipava
+start: 45.883553,13.737850
 title: Na Trstelj iz Dornberka
 x: 400
 y: 80

@@ -1,6 +1,6 @@
 ---
 author: Mojca_Lustrek
-date: '2007-05-20T00:00:00'
+date: 2007-05-20 00:00:00+00:00
 delta: 723
 description: Nanos je visoka kraška planota, ki jo poznamo predvsem po Pleši (1262
   m) in njeni Vojkovi koči (1240 m), manj znani pa so drugi njegovi vrhov. Pogled
@@ -22,8 +22,11 @@ image:
 - M_007051810.jpg
 - M_007051811.jpg
 lead: M_007051810.jpg
+maplink: https://mapzs.projekti.si/poi/1022
 name: SuhiVrh
+peak: 45.798405,14.066979
 photo_author: Mojca_Lustrek
+start: 45.797993,14.119475
 title: Suhi vrh na Nanosu
 x: 428
 y: 73

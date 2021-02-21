@@ -18,7 +18,9 @@ image:
 layout: stub
 lead: M_0_1023.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31618
 name: CrniHribi
+peak: 45.868196,13.642593
 title: 'Črni hribi: from Italian border to Renče peak'
 x: 396
 y: 80

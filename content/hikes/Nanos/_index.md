@@ -7,7 +7,10 @@ image:
 - M_2_0206.JPG
 - Razgled_Vipava_PF.jpg
 lead: M_2_0206.JPG
+maplink: https://mapzs.projekti.si/poi/3080
 name: Nanos
+peak: 45.769507,14.056388
+region: vipava
 title: Pleša na Nanosu
 x: 426
 y: 70

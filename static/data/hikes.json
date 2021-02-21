@@ -1,0 +1,3997 @@
+[
+  {
+    "date": "2005-05-29 00:00:00+00:00",
+    "delta": 440,
+    "description": {
+      "sl": "Za ljubitelje ro\u017e je obisk doline Zalipnik med Goli\u010dem in Kra\u0161kim robom v maju skorajda obvezen. Ta izlet lahko zaklju\u010dite z vzponom na Kav\u010di\u010d, zadnji slovenski vrh Kra\u0161kega roba.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 883,
+    "lead": "M_5_2520.JPG",
+    "map": 1,
+    "name": "Kavcic",
+    "title": {
+      "sl": "Kav\u010di\u010d iz Podgorja",
+      "en": "Kav\u010di\u010d"
+    },
+    "x": 421,
+    "y": 37
+  },
+  {
+    "date": "2004-08-08 00:00:00+00:00",
+    "delta": 1000,
+    "description": {
+      "sl": "Tosc je zelo privla\u010den cilj za planince, ki i\u0161\u010dejo predvsem samoto, mir in naravne lepote.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 7.5,
+    "height": 2275,
+    "lead": "M_5-6601.JPG",
+    "map": 1,
+    "name": "ToscBohinj",
+    "title": {
+      "sl": "Tosc z Rudnega polja",
+      "en": "Tosc from Rudno polje"
+    },
+    "x": 413,
+    "y": 135
+  },
+  {
+    "date": "2004-05-09 00:00:00+00:00",
+    "delta": 560,
+    "description": {
+      "sl": "Na Slavnik se lahko po zahodnem pobo\u010dju povzpnemo tudi po prijetni polo\u017eni poti iz Pre\u0161nice, kra\u0161ke vasice, stisnjene pod pobo\u010dja Slavni\u0161kega pogorja.",
+      "en": null
+    },
+    "duration": 5,
+    "height": 1028,
+    "lead": "M_4-5411_IMG.JPG",
+    "map": 1,
+    "multilead": "M_4-5411_IMG.JPG",
+    "multipath": true,
+    "name": "Slavnik/Presnica",
+    "title": {
+      "sl": "Na Slavnik iz Pre\u0161nice",
+      "en": "Slavnik from Pre\u0161nica"
+    }
+  },
+  {
+    "date": "2004-01-25 00:00:00+00:00",
+    "delta": 470,
+    "description": {
+      "sl": "Po severnih pobo\u010djih Slavnika se lahko na vrh povzpnemo po ve\u010d markiranih poteh. Najkraj\u0161a bo pot iz Skadan\u0161\u010dine, izlet si lahko malce podalj\u0161amo \u010de za\u010dnemo v Markov\u0161\u010dini, najdalj\u0161o pot pa bomo opravili, \u010de bomo poleg vrha Slavnika obiskali \u0161e Mala vrata.",
+      "en": null
+    },
+    "duration": 5,
+    "height": 1028,
+    "map": 1,
+    "lead": "M_9-4934_IMG.JPG",
+    "multilead": "M_9-4934_IMG.JPG",
+    "multipath": true,
+    "name": "Slavnik/Markovscina",
+    "title": {
+      "sl": "Slavnik iz Markov\u0161\u010dine",
+      "en": "Slavnik from Markov\u0161\u010dina"
+    }
+  },
+  {
+    "date": "2006-03-19 00:00:00+00:00",
+    "delta": 510,
+    "description": {
+      "sl": "Strma pot na Slavnik iz Podgorja je verjetno najbolj zanimiva za tiste, ki bi si radi s strmimi vzponi nabirali kondicijo.",
+      "en": null
+    },
+    "duration": 2.5,
+    "height": 1028,
+    "lead": "M_5_0586.JPG",
+    "map": 1,
+    "multilead": "M_5_0586.JPG",
+    "multipath": true,
+    "name": "Slavnik/Strma",
+    "title": {
+      "sl": "Strma pot na Slavnik iz Podgorja",
+      "en": "Slavnik from Podgorje (steep path)"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Slavnik je najbolj obiskan vrh Slavni\u0161kega pogorja in eden zadnjih tiso\u010dakov pred slovenskim morjem s \u010dudovitim razgledom na Piranski in Tr\u017ea\u0161ki zaliv, Istro ter na okoli\u0161ke vrhove.",
+      "en": "Slavnik is the highest peak of the Slavnik range, the last mountain range before the gentle slopes of Slovenian Istra. It\\'s also the last peak above 1000 meters visited by the Slovenian Mountain Hiking Trail."
+    },
+    "height": 1028,
+    "name": "Slavnik",
+    "title": {
+      "sl": "Slavnik in Grmada",
+      "en": "Slavnik"
+    },
+    "x": 420,
+    "y": 43
+  },
+  {
+    "date": "2002-10-27 00:00:00+00:00",
+    "delta": 510,
+    "description": {
+      "sl": "Ko bo burja spet razpihala oblake, se odpravite na Slavnik - po vzponu po prijetni polo\u017eni poti iz Podgorja vas \u010daka \u010dudovit razgled na Jadransko morje.",
+      "en": "The shortest routes to Slavnik lead from Podgorje, a small karst village south-west of the mountain, where you'll find abundance of little paths and cart-tracks across Slavnik's southern slopes.\n"
+    },
+    "duration": 3,
+    "height": 1028,
+    "lead": "M_5-3534_IMG.JPG",
+    "multilead": "M_5-3534_IMG.JPG",
+    "multipath": true,
+    "name": "Slavnik/Podgorje",
+    "title": {
+      "sl": "Slavnik in Grmada iz Podgorja",
+      "en": "Slavnik and Grmada from Podgorje"
+    }
+  },
+  {
+    "date": "2003-10-12 00:00:00+00:00",
+    "delta": 1000,
+    "description": {
+      "sl": "Vogel je zagotovo najbolj znan vrh Spodnjih Bohinjskih gora. \u017de od dale\u010d vas bo vabila njegova lepa, piramidasta oblika, razgled z vrha pa bo le \u0161e potrdil pravilnost va\u0161e odlo\u010ditve.",
+      "en": "Vogel is certainly the best known summit of the Lower Bohinj Mountains, with a majestic view of Bohinj lake and Triglav.\n"
+    },
+    "duration": 6,
+    "height": 1922,
+    "lead": "M_8-6819_IMG.jpg",
+    "name": "VogelVrh",
+    "title": {
+      "sl": "Vogel",
+      "en": "Vogel"
+    },
+    "x": 409,
+    "y": 122
+  },
+  {
+    "date": "2002-12-01 00:00:00+00:00",
+    "delta": 440,
+    "description": {
+      "sl": "Ko bo Ljubljansko kotlino spet ovijala megla, se spla\u010da ogledati megleno morje z vrha - na primer s sv. Jakoba nad Preddvorom.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 961,
+    "lead": "M_9-3980_IMG.JPG",
+    "name": "svJakob_Preddvor",
+    "title": {
+      "sl": "Sv. Jakob nad Preddvorom",
+      "en": "Saint Jakob above Preddvor"
+    },
+    "x": 457,
+    "y": 130
+  },
+  {
+    "date": "2005-03-27 00:00:00+00:00",
+    "delta": 1280,
+    "description": {
+      "sl": "Kamni\u0161ko sedlo (v\u010dasih je bilo bolj raz\u0161irjeno ime Jermanova vrata) je zagotovo ena najbolj priljubljenih izletni\u0161kih to\u010dk v Kamni\u0161kih Alpah.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 1876,
+    "lead": "M_00001.jpg",
+    "map": 1,
+    "name": "KamniskoSedlo",
+    "title": {
+      "sl": "Kamni\u0161ko sedlo",
+      "en": "Kamni\u0161ko sedlo"
+    },
+    "x": 469,
+    "y": 135
+  },
+  {
+    "date": "2006-07-09 00:00:00+00:00",
+    "delta": 250,
+    "description": {
+      "sl": "Dolski maj je najbolj zahodna razgledna vzpetina na robu Gore, planote med Predmejo in Colom severno od Vipavske doline.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 912,
+    "lead": "M_003074.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/36608",
+    "name": "DolskiMaj",
+    "peak": "45.933692,13.893652",
+    "region": "vipava",
+    "start": "45.943531,13.876619",
+    "title": {
+      "sl": "Dolski maj",
+      "en": "Dolski maj"
+    },
+    "x": 414,
+    "y": 88
+  },
+  {
+    "date": "2003-10-05 00:00:00+00:00",
+    "delta": 630,
+    "description": {
+      "sl": "Najenostavnej\u0161i vzpon na Raduho te\u010de po markiranih poteh s planine Loka. Po dobro vzdr\u017eevanih gozdnih cestah se lahko dvignemo precej visoko, skoraj do ko\u010de na Loki, in tako namesto vzpona po bukovih gozdovih u\u017eivamo v sprehodu po redkem iglastem gozdu in visokogorskih travnikih.",
+      "en": "The simplest ascent of Raduha follows waymarked paths from the Planina Loka."
+    },
+    "duration": 3.5,
+    "height": 2062,
+    "lead": "M_1-7157_IMG.JPG",
+    "map": 1,
+    "multilead": "M_1-7157_IMG.JPG",
+    "multipath": true,
+    "name": "Raduha/Loka",
+    "title": {
+      "sl": "Raduha s planine Loka",
+      "en": "Raduha from Planina Loka"
+    }
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2005-11-13 00:00:00+00:00",
+    "delta": 1480,
+    "description": {
+      "sl": "\u010ce vam je izlet na vrh Raduhe od Ko\u010de na Loki prekratek, \u010de bi si za Raduho radi vzeli ves dan ali \u010de si lahko zanjo privo\u0161\u010dite celo dva dni in nekje pod njo ali na njej tudi prespite, se odlo\u010dite za dalj\u0161o razli\u010dico iz doline.",
+      "en": null
+    },
+    "duration": 8,
+    "height": 2062,
+    "multilead": "M_005102908.jpg",
+    "multipath": true,
+    "name": "Raduha/RobanovKot",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Raduha iz Robanovega kota",
+      "en": "Raduha from Robanov Kot"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Z najvi\u0161jega vrha vzhodnih Savinjskih Alp vas v lepem vremenu poleg \u010dudovitega razgleda \u010daka tudi nenavaden pogled na Julijske Alpe in Karavanke.",
+      "en": "On the highest peak of eastern Savinje Alps you'll enjoy a fantastic panorama of the surrounding mountains and Logar valley, as well as an interesting view of Julian Alps and Karavanke ridge."
+    },
+    "height": 2062,
+    "name": "Raduha",
+    "title": {
+      "sl": "Raduha",
+      "en": "Raduha"
+    },
+    "x": 480,
+    "y": 141
+  },
+  {
+    "date": "2010-04-13 00:00:00+00:00",
+    "delta": 440,
+    "description": {
+      "sl": "Kuk je prvi vrh v grebenu med Idrijco in Hotenjo, \u0160krbina pa sedlo med Kukom in Ple\u0161arskim vrhom.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 627,
+    "lead": "M_0_11251.JPG",
+    "map": 1,
+    "name": "SkrbinaKuk",
+    "title": {
+      "sl": "\u0160krbina in Kuk",
+      "en": "\u0160krbina in Kuk"
+    },
+    "x": 411,
+    "y": 106
+  },
+  {
+    "date": "2004-02-08 00:00:00+00:00",
+    "delta": 600,
+    "description": {
+      "sl": "\u010creta pri Kokarjah je vrh v grebenu, ki povezuje Dobroveljsko planoto  z Menino planino in tako lo\u010duje Vransko od Zgornje Savinjske doline.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4,
+    "height": 944,
+    "lead": "M_5_0546.JPG",
+    "map": 1,
+    "name": "Creta",
+    "title": {
+      "sl": "\u010creta z Vranskega",
+      "en": "Vransko - \u010creta"
+    },
+    "x": 497,
+    "y": 126
+  },
+  {
+    "date": "2005-09-04 00:00:00+00:00",
+    "delta": 1150,
+    "description": {
+      "sl": "Kal\u0161ki greben je najvi\u0161ji vrh v grebenu, ki se ju\u017eno od Kokrskega sedla odcepi od glavnega grebena Kamni\u0161kih Alp.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 7,
+    "height": 2224,
+    "lead": "M_8_1889.JPG",
+    "map": 1,
+    "name": "KalskiGreben",
+    "title": {
+      "sl": "Kal\u0161ki greben",
+      "en": "Kal\u0161ki greben"
+    },
+    "x": 464,
+    "y": 132
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "delta": 430,
+    "description": {
+      "sl": "Samotorica je majhna vasica med razglednimi travniki, tik pod Ko\u017eljekom, najvi\u0161jim vrhom v grebenu, ki lo\u010duje povirje Grada\u0161\u010dice od doline Horjul\u0161\u010dice.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 788,
+    "lead": "M_8-4841_IMG.JPG",
+    "map": 1,
+    "name": "Kozljek",
+    "title": {
+      "sl": "Iz Vrzdenca na Samotorico in Ko\u017eljek",
+      "en": "Iz Vrzdenca na Samotorico in Ko\u017eljek"
+    },
+    "x": 443,
+    "y": 99
+  },
+  {
+    "date": "2004-06-13 00:00:00+00:00",
+    "delta": 600,
+    "description": {
+      "sl": "Veliki vrh se proti zahodu in severu brani pred obiskovalci s strmimi pe\u010dinami, \u010dez katere je speljana zanimiva plezalna pot, z vzhoda pa se s Kofc nanj zlahka povzpnemo po travnatih pobo\u010djih Kofce gore in nato po grebenu Ko\u0161ute.\n",
+      "en": null
+    },
+    "duration": 3,
+    "height": 2088,
+    "lead": "M_3_0366.JPG",
+    "map": 1,
+    "name": "VelikiVrh",
+    "title": {
+      "sl": "Veliki vrh nad Kofcami",
+      "en": "Veliki vrh"
+    },
+    "x": 447,
+    "y": 143
+  },
+  {
+    "date": "2003-07-13 00:00:00+00:00",
+    "delta": 430,
+    "description": {
+      "sl": "Najkraj\u0161a pot na Ermanovec vodi s Sovodnja. Pot je kratka, poteka ve\u010dinoma v senci, na koncu poti pa vas \u010dakajo travniki in planinski dom \u2013 skratka idealen dru\u017einski izlet.",
+      "en": null
+    },
+    "duration": 2.5,
+    "height": 1026,
+    "lead": "M_0-6051_IMG.JPG",
+    "map": 1,
+    "multilead": "M_0-6051_IMG.JPG",
+    "multipath": true,
+    "name": "Ermanovec/Sovodenj",
+    "title": {
+      "sl": "Ermanovec s Sovodnja",
+      "en": "Ermanovec from Sovodenj"
+    }
+  },
+  {
+    "date": "2003-01-26 00:00:00+00:00",
+    "delta": 530,
+    "description": {
+      "sl": "Vzpon iz Trebije je ena lep\u0161ih poti na Ermanovec - skoraj v celoti se izogiba asfaltnih cest, zaradi odli\u010dnih markacij pa je primerna tudi za zimski vzpon.",
+      "en": null
+    },
+    "duration": 2.5,
+    "height": 968,
+    "lead": "M_4-4438_IMG.JPG",
+    "map": 1,
+    "multilead": "M_4-4438_IMG.JPG",
+    "multipath": true,
+    "name": "Ermanovec/Trebija",
+    "title": {
+      "sl": "Iz Trebije proti Ermanovcu",
+      "en": "Ermanovec from Trebija"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Ermanovec je najvi\u0161ji vrh v grebenu, ki s severo-zahodnega konca zapira Poljansko dolino.",
+      "en": null
+    },
+    "height": 968,
+    "lead": "M_4-4463_IMG.JPG",
+    "name": "Ermanovec",
+    "title": {
+      "sl": "Ermanovec",
+      "en": "Ermanovec"
+    },
+    "x": 428,
+    "y": 106
+  },
+  {
+    "date": "2006-03-12 00:00:00+00:00",
+    "delta": 500,
+    "description": {
+      "sl": "Markirana pot na Ermanovec iz Kopa\u010dnice je speljana po starem kolovozu, ki najprej sledi grapi Podkov\u0161\u010dice, nato pa se po severnih pobo\u010djih Ermanovca vzpne do razglednih travnikov pod njegovim grebenom.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1026,
+    "lead": "M_6_2691.JPG",
+    "map": 1,
+    "multilead": "M_6_2691.JPG",
+    "multipath": true,
+    "name": "Ermanovec/Kopacnica",
+    "title": {
+      "sl": "Ermanovec iz Kopa\u010dnice",
+      "en": "Ermanovec from Kopa\u010dnica"
+    }
+  },
+  {
+    "date": "2003-08-31 00:00:00+00:00",
+    "delta": 350,
+    "description": {
+      "sl": "Kratka kro\u017ena pot po planinah v Spodnjih Bohinjskih gorah",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 1700,
+    "lead": "M_8-6806_IMG.JPG",
+    "map": 1,
+    "name": "Vogel",
+    "title": {
+      "sl": "Po planinah pod Voglom",
+      "en": "Pastures around Vogel"
+    },
+    "x": 410,
+    "y": 124
+  },
+  {
+    "author": "Milos_Kobe",
+    "date": "2005-01-16 00:00:00+00:00",
+    "delta": 250,
+    "description": {
+      "sl": "Stegovnik je izrazit razgleden grebenski vrh med dolino Tr\u017ei\u0161ke Bistrice in dolino Kokre.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 1692,
+    "lead": "M_00004.jpg",
+    "name": "Stegovnik",
+    "photo_author": "Milos_Kobe",
+    "title": {
+      "sl": "Stegovnik",
+      "en": "Stegovnik"
+    },
+    "x": 455,
+    "y": 139
+  },
+  {
+    "date": "2004-11-21 00:00:00+00:00",
+    "delta": 500,
+    "description": {
+      "sl": "Jugovzhodno od Slavnika se v grebenu Slavni\u0161kega pogorja tik ob meji s Hrva\u0161ko dvigajo \u0161tirje tiso\u010daki, ki za nekaj metrov presegajo dosti bolj znani Slavnik: Ostri\u010d, Gri\u017ea, Medvi\u017eica in Razsu\u0161ica. Na tri od njih vas popelje kro\u017ena markirana pot iz Matarskega podgorja.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3.5,
+    "height": 1054,
+    "lead": "M_9_1992.JPG",
+    "name": "Ostric",
+    "title": {
+      "sl": "Ostri\u010d in Medvi\u017eica",
+      "en": "Ostri\u010d"
+    },
+    "x": 428,
+    "y": 39
+  },
+  {
+    "date": "2004-06-06 00:00:00+00:00",
+    "delta": 420,
+    "description": {
+      "sl": "Na Kra\u0161kem robu, kjer se apnen\u010dasti kra\u0161ki svet terasasto spu\u0161\u010da proti fli\u0161nim pobo\u010djem Br\u017eanije, stoji neizrazit travnat vrh Lipnik.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4,
+    "height": 804,
+    "lead": "M_2_1203.JPG",
+    "map": 1,
+    "name": "Lipnik",
+    "title": {
+      "sl": "Lipnik iz Zazida",
+      "en": "Lipnik from Zazid"
+    },
+    "x": 420,
+    "y": 38
+  },
+  {
+    "date": "2008-02-03 00:00:00+00:00",
+    "delta": 490,
+    "description": {
+      "sl": "Mali Golak je (kljub svojemu imenu) najvi\u0161ji vrh Trnovskega gozda.",
+      "en": null
+    },
+    "duration": 2.5,
+    "height": 1495,
+    "lead": "M_0_00684.jpg",
+    "map": 1,
+    "name": "MaliGolak",
+    "title": {
+      "sl": "Mali Golak",
+      "en": "Mali Golak"
+    },
+    "x": 412,
+    "y": 93
+  },
+  {
+    "date": "2004-05-16 00:00:00+00:00",
+    "delta": 260,
+    "description": {
+      "sl": "Le uro vzpona iz \u0160kofje Loke stoji na grebenu Polhograjskega hribovja nad Poljansko Soro cerkvica sv. Andreja.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 616,
+    "lead": "M_9_0990.jpg",
+    "map": 1,
+    "name": "svAndrej_Zminec",
+    "title": {
+      "sl": "Andrej nad Zmincem",
+      "en": "Andrej above Zminec"
+    },
+    "x": 446,
+    "y": 110
+  },
+  {
+    "date": "2003-05-11 00:00:00+00:00",
+    "delta": 250,
+    "description": {
+      "sl": "U\u017eivanje v vodnih radostih Term \u010cate\u017e lahko popestrite s kraj\u0161im izletom okoli bli\u017enje \u0160entvi\u0161ke gore.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 386,
+    "lead": "M_1-5142_IMG.JPG",
+    "map": 1,
+    "name": "svVid_Catez",
+    "title": {
+      "sl": "Sv. Vid nad \u010cate\u017eem",
+      "en": "Sv. Vid nad \u010cate\u017eem"
+    },
+    "x": 547,
+    "y": 82
+  },
+  {
+    "date": "2005-12-11 00:00:00+00:00",
+    "delta": 990,
+    "description": {
+      "sl": "Vzpon na Blego\u0161 iz doline Vola\u0161\u010dice je zagotovo najbolj intenziven vzpon na Blego\u0161 iz Poljanske doline. Vi\u0161inska razlika je le za 130 metrov manj\u0161a, kot \u010de bi se na Blego\u0161 odpravili iz Hotavelj, pot pa se \u017ee takoj zagrize v strma pobo\u010dja pod Blego\u0161em.",
+      "en": "Want to check the view from Blego\u0161 but hate the crowds? Try the solitary hike from Volaka -- you'll rarely meet someone on the old footpaths in the first half of the ascent and might encounter a like-minded soul when your path merges with the road from Leskovica."
+    },
+    "duration": 4.5,
+    "height": 1562,
+    "lead": "M_4_0493.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4875",
+    "multilead": "M_4_0493.JPG",
+    "multipath": true,
+    "name": "Blegos/Volaka",
+    "peak": "46.164802,14.113583",
+    "start": "46.143675,14.105743",
+    "title": {
+      "sl": "Blego\u0161 iz Volake",
+      "en": "Blego\u0161 from Volaka"
+    }
+  },
+  {
+    "date": "2006-08-06 00:00:00+00:00",
+    "delta": 820,
+    "description": {
+      "sl": "Od \u010crnega vrha nad Cerknim do Blego\u0161a vodi prijetna sen\u010dna grebenska pot, kot nala\u0161\u010d za prijeten poletni izlet.",
+      "en": null
+    },
+    "duration": 6,
+    "height": 1562,
+    "map": 1,
+    "multipath": true,
+    "multilead": "M_4_1416.JPG",
+    "name": "Blegos/CrniVrh",
+    "title": {
+      "sl": "Od \u010crnega vrha do Blego\u0161a",
+      "en": "Blego\u0161 from \u010crni vrh"
+    }
+  },
+  {
+    "date": "2007-12-16 00:00:00+00:00",
+    "delta": 750,
+    "description": {
+      "sl": "\u010ce vam je vzpon na Blego\u0161 s \u010crnega Kala (od lovske ko\u010de) prekratek, tisti iz doline pa predolg, se nanj odpravite iz Leskovice, vasice visoko na ju\u017enih pobo\u010djih Kovka.",
+      "en": null
+    },
+    "duration": 4,
+    "height": 1562,
+    "lead": "M_0_00630.JPG",
+    "map": 1,
+    "multipath": true,
+    "multilead": "M_0_00630.JPG",
+    "name": "Blegos/Leskovica",
+    "title": {
+      "sl": "Blego\u0161 iz Leskovice",
+      "en": "Blego\u0161 from Leskovica"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Blego\u0161 je najvi\u0161ji vrh \u0160kofjelo\u0161kega hribovja in (poleg Ratitovca in Porezna) eden od \u00bbvelikih treh\u00ab predalpskih vrhov s prekrasnim razgledom.",
+      "en": "Blego\u0161 is the highest summit in the \u0160kofja Loka hills and (together with Ratitovec and Porezen) one of the \u00bbbig three\u00ab subalpine peaks.\n"
+    },
+    "height": 1562,
+    "lead": "Hotavlje/M_4_0469.JPG",
+    "name": "Blegos",
+    "title": {
+      "sl": "Blego\u0161",
+      "en": "Blego\u0161"
+    },
+    "x": 432,
+    "y": 114
+  },
+  {
+    "date": "2004-01-18 00:00:00+00:00",
+    "delta": 1100,
+    "description": {
+      "sl": "Eden najdalj\u0161ih vzponov na Blego\u0161 se za\u010dne v Hotavljah, vasi v Poljanski dolini, najbolj znani po kamnolomu zelo kakovostnega hotaveljskega kamna.",
+      "en": "One of the longest ascents to Blego\u0161 begins in Hotavlje, a village in the valley Poljanska dolina, best known for its quarry of high-quality Hotavlje stone. \n"
+    },
+    "duration": 6,
+    "height": 1562,
+    "lead": "M_4_0466.JPG",
+    "map": 1,
+    "multilead": "M_4_0466.JPG",
+    "multipath": true,
+    "name": "Blegos/Hotavlje",
+    "title": {
+      "sl": "Blego\u0161 iz Hotavelj",
+      "en": "Blego\u0161 from Hotavlje"
+    }
+  },
+  {
+    "date": "2004-05-02 00:00:00+00:00",
+    "delta": 650,
+    "description": {
+      "sl": "Na Bo\u010du (enem najbolj vzhodnih vrhov Karavank) vas bodo poleg lepega razgleda v aprilu razveselile tudi zelo redke velikono\u010dnice.",
+      "en": null
+    },
+    "duration": 4,
+    "height": 978,
+    "lead": "M_9_0958.JPG",
+    "map": 1,
+    "name": "Boc",
+    "title": {
+      "sl": "Bo\u010d",
+      "en": "Bo\u010d"
+    },
+    "x": 547,
+    "y": 127
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2006-02-12 00:00:00+00:00",
+    "delta": 608,
+    "description": {
+      "sl": "Uskovnica na robu Pokljuke nad Gornjo Bohinjsko dolino in dolino Voje je izhodi\u0161\u010de za \u0161tevilne izlete in vzpone, priljubljen cilj pohodnikov in smu\u010darjev pa je tudi sama.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 1154,
+    "lead": "M_005021110.jpg",
+    "name": "Uskovnica",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Uskovnica pozimi",
+      "en": "Uskovnica in winter"
+    },
+    "x": 416,
+    "y": 131
+  },
+  {
+    "date": "2004-11-07 00:00:00+00:00",
+    "delta": 500,
+    "description": {
+      "sl": "Po strmih pobo\u010djih Nanosa nad Vipavo je do Gradi\u0161ke Ture speljana najni\u017eja slovenska zavarovana planinska pot, kjer si lahko tudi sredi zime privo\u0161\u010dite \u010dudovite plezalne u\u017eitke.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3.5,
+    "height": 793,
+    "lead": "M_9_1976.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/389",
+    "name": "GradiskaTura",
+    "peak": "45.829279,13.979692",
+    "region": "vipava",
+    "start": "45.832270,13.971014",
+    "title": {
+      "sl": "Gradi\u0161ka Tura",
+      "en": "Gradi\u0161ka Tura"
+    },
+    "x": 421,
+    "y": 77
+  },
+  {
+    "date": "2004-10-10 00:00:00+00:00",
+    "delta": 420,
+    "description": {
+      "sl": "Za strmimi skalnatimi pobo\u010dji nad dolino Idrijce se skriva son\u010den gri\u010devnat svet \u0160ebreljske planote",
+      "en": "A steep hike from Idrijca valley to the church of St. John (Sv. Ivan) brings you to the sunny \u0160ebrelje plateau."
+    },
+    "duration": 3,
+    "height": 630,
+    "lead": "M_8_1840.JPG",
+    "map": 1,
+    "name": "Sebrelje",
+    "title": {
+      "sl": "Sv. Ivan in \u0160ebreljska planota",
+      "en": "St. Ivan and \u0160ebrelje"
+    },
+    "x": 416,
+    "y": 107
+  },
+  {
+    "date": "2004-03-28 00:00:00+00:00",
+    "delta": 500,
+    "description": {
+      "sl": "Ju\u017ena skalnata pobo\u010dja Polhograjske Grmade so pozimi ve\u010dkrat poledenela, poleti pa nas na njih pogosto neusmiljeno preganja vro\u010de sonce. V tak\u0161nih dneh se lahko na Grmado povzpnemo po sen\u010dni, precej polo\u017eni poti \u010dez Gonte.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 898,
+    "lead": "M_5_0514.JPG",
+    "map": 1,
+    "multilead": "M_5_0514.JPG",
+    "multipath": true,
+    "name": "PolhograjskaGrmada/Gonte",
+    "title": {
+      "sl": "Polhograjska Grmada \u010dez Gonte",
+      "en": "Polhograjska Grmada via Gonte"
+    }
+  },
+  {
+    "date": "2003-12-21 00:00:00+00:00",
+    "lastmod": "2021-02-13 12:22:00",
+    "delta": 560,
+    "description": {
+      "sl": "Ena najbolj strmih poti na Polhograjsko Grmado vodi iz Belice. Poleg strmega vzpona na vrh Grmade vas \u010daka \u0161e podobno strm vzpon v za\u010detku poti \u2013 idealno torej za tiste, ki \u017eelijo nabirati kondicijo za zahtevnej\u0161e planinske pohode.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 898,
+    "map": 1,
+    "lead": "M_2-6217_IMG.JPG",
+    "multilead": "M_2-6217_IMG.JPG",
+    "multipath": true,
+    "name": "PolhograjskaGrmada/Belica",
+    "title": {
+      "sl": "Na Polhograjsko Grmado iz Belice",
+      "en": "Polhograjska Grmada from Belica"
+    }
+  },
+  {
+    "date": "2003-05-04 00:00:00+00:00",
+    "lastmod": "2021-02-13 12:37:00",
+    "delta": 520,
+    "description": {
+      "sl": "Iz Polhovega Gradca se lahko odpravimo na zanimivo kro\u017eno pot \u010dez Grmado - izlet za\u010dnemo pri gostilni Pratkar, se mimo zaselka Ravnek vzpnemo na Grmado, nato pa se vrnemo mimo cerkvice sv. Ur\u0161ule na Setnici.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 898,
+    "lead": "M_0-5074_IMG.JPG",
+    "multilead": "M_0-5074_IMG.JPG",
+    "map": 1,
+    "multipath": true,
+    "name": "PolhograjskaGrmada/Ravnek",
+    "title": {
+      "sl": "Polhograjska Grmada \u010dez Ravnek",
+      "en": "Polhograjska grmada - ascent through Ravnek"
+    }
+  },
+  {
+    "date": "2003-05-04 00:00:00+00:00",
+    "description": {
+      "sl": "Polhograjska Grmada je eden od najvi\u0161jih vrhov v Polhograjskem hribovju. Po sorazmerno polo\u017enih dostopih do Grmade se sre\u010damo z zelo strmim in skalnatim vrhom, ki kljub nizki nadmorski vi\u0161ini (manj kot 900 metrov) daje vtis prave visokogorske pokrajine.",
+      "en": null
+    },
+    "height": 898,
+    "lead": "M_0-5040_IMG.JPG",
+    "name": "PolhograjskaGrmada",
+    "title": {
+      "sl": "Polhograjska Grmada",
+      "en": "Polhograjska Grmada"
+    },
+    "x": 449,
+    "y": 105
+  },
+  {
+    "date": "2005-05-22 00:00:00+00:00",
+    "delta": 500,
+    "description": {
+      "sl": "Kakor je Toplar v grebenu Ko\u0161ute s svojimi 2000 metri najni\u017eji slovenski dvatiso\u010dak, je Vrh Korena zagotovo najvi\u0161ji skoraj dvatiso\u010dak, namerili so mu namre\u010d natan\u010dno 1999 metrov nadmorske vi\u0161ine.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 1999,
+    "lead": "M_9_1908.JPG",
+    "map": 1,
+    "name": "VrhKorena",
+    "title": {
+      "sl": "Vrh Korena",
+      "en": "Vrh Korena"
+    },
+    "x": 466,
+    "y": 130
+  },
+  {
+    "date": "2007-12-02 00:00:00+00:00",
+    "delta": 650,
+    "description": {
+      "sl": "\u010ce u\u017eivate v ti\u0161ini in pogledih na strma jesensko obarvana pobo\u010dja Idrijskega hribovja, se novembra odpravite na Hlevi\u0161ke planine.",
+      "en": null
+    },
+    "duration": 5,
+    "height": 908,
+    "lead": "M_0_10596.JPG",
+    "map": 1,
+    "name": "HleviskePlanine",
+    "title": {
+      "sl": "Hlevi\u0161ke planine",
+      "en": "Hlevi\u0161ke planine"
+    },
+    "x": 442,
+    "y": 94
+  },
+  {
+    "date": "2004-05-23 00:00:00+00:00",
+    "delta": 930,
+    "description": {
+      "sl": "Najbolj polo\u017een vzpon na Porezen, travnat vrh, ki kraljuje nad Cerknim, vodi iz Jesenice \u010dez planino Otavnik",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 1630,
+    "lead": "M_1-6154_IMG.JPG",
+    "map": 1,
+    "name": "Porezen",
+    "title": {
+      "sl": "Porezen iz Jesenice",
+      "en": "Porezen"
+    },
+    "x": 421,
+    "y": 115
+  },
+  {
+    "date": "2003-09-27 00:00:00+00:00",
+    "delta": 420,
+    "description": {
+      "sl": "Planina Razor je son\u010dna, razgledna planina tik pod strmimi stenami Spodnjih Bohinjskih gora.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2.5,
+    "height": 1315,
+    "lead": "M_1-7133_img.jpg",
+    "map": 1,
+    "name": "PlaninaRazor",
+    "title": {
+      "sl": "Planina Razor",
+      "en": "Razor pasture"
+    },
+    "x": 407,
+    "y": 122
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2008-03-30 00:00:00+00:00",
+    "delta": 1060,
+    "description": {
+      "sl": "Gozdnik in Kote\u010dnik sta kar slikovita vrhova v Posavskem hribovju, \u017eal pa nista razgledna. Gozdnik je zaradi svoje lepe oblike in zna\u010dilne konice simbol Savinjske planinske poti.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 1090,
+    "lead": "M_008032703.jpg",
+    "name": "Kotecnik",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Gozdnik in Kote\u010dnik",
+      "en": "Gozdnik and Kote\u010dnik"
+    },
+    "x": 514,
+    "y": 117
+  },
+  {
+    "date": "2003-03-16 00:00:00+00:00",
+    "delta": 440,
+    "description": {
+      "sl": "Bukov vrh je razgleden vrh nad Poljanami v Poljanski dolini s \u010dudovitim razgledom na \u0160kofjelo\u0161ko hribovje in slovenske Alpe ter lepo cerkvico sv. Sobote",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4.5,
+    "height": 832,
+    "lead": "M_5-4588_IMG.JPG",
+    "map": 1,
+    "name": "BukovVrh",
+    "title": {
+      "sl": "Bukov vrh in Vinharje nad Poljanami",
+      "en": "Bukov vrh in Vinharje nad Poljanami"
+    },
+    "x": 439,
+    "y": 107
+  },
+  {
+    "date": "2007-07-22 00:00:00+00:00",
+    "delta": 430,
+    "description": {
+      "sl": "Kobilja glava je travnat razgleden vrh vzhodno od Tolmina z verjetno najlep\u0161im pogledom na greben Pe\u010di (zaradi bolj\u0161ega \u00bbmarketinga\u00ab Bohinjcev ve\u010dina Slovencev te vrhove pozna kot Spodnje Bohinjske gore).",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1475,
+    "lead": "M_0_00656.JPG",
+    "map": 1,
+    "name": "KobiljaGlava",
+    "title": {
+      "sl": "Kobilja glava",
+      "en": "Kobilja glava"
+    },
+    "x": 407,
+    "y": 117
+  },
+  {
+    "date": "2002-09-08 00:00:00+00:00",
+    "delta": 470,
+    "description": {
+      "sl": "Ena najdalj\u0161ih, pa tudi najbolj polo\u017enih poti na vrh Vrem\u0161\u010dice vodi iz Seno\u017ee\u010d.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1027,
+    "lead": "M_2-2267_IMG.JPG",
+    "multipath": true,
+    "name": "Vremscica/Senozece",
+    "title": {
+      "sl": "Vrem\u0161\u010dica iz Seno\u017ee\u010d",
+      "en": "Vrem\u0161\u010dica from Seno\u017ee\u010de"
+    }
+  },
+  {
+    "date": "2006-05-27 00:00:00+00:00",
+    "delta": 360,
+    "description": {
+      "sl": "Najbolj strma pot na vrh Vrem\u0161\u010dice je speljana iz Gornjih Le\u017ee\u010d, vasi na pobo\u010djih severno od doline Reke.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 1027,
+    "lead": "M_0_3032.JPG",
+    "multilead": "M_0_3033.JPG",
+    "multipath": true,
+    "name": "Vremscica/GornjeLezece",
+    "title": {
+      "sl": "Vrem\u0161\u010dica iz Gornjih Le\u017ee\u010d",
+      "en": "Vrem\u0161\u010dica from Gornje Le\u017ee\u010de"
+    }
+  },
+  {
+    "date": "2002-09-08 00:00:00+00:00",
+    "description": {
+      "sl": "Vrem\u0161\u010dica je zelo polo\u017ena in prijazna gora in kot taka primerna predvsem za tiste, ki hodijo v naravo iskat ti\u0161ino, prijetne sprehode in lepe razglede.",
+      "en": null
+    },
+    "height": 1027,
+    "maplink": "https://mapzs.projekti.si/poi/1227",
+    "name": "Vremscica",
+    "peak": "45.688293,14.061574",
+    "title": {
+      "sl": "Vrem\u0161\u010dica",
+      "en": "Vrem\u0161\u010dica"
+    },
+    "x": 427,
+    "y": 61
+  },
+  {
+    "date": "2004-07-11 00:00:00+00:00",
+    "delta": 640,
+    "description": {
+      "sl": "Vzpon na Veliko planino z Volovjeka je kraj\u0161i od dolgih \"kondicijskih\" vzponov iz doline in ravno prav dolg za prijeten dopoldanski izlet.\n",
+      "en": null
+    },
+    "duration": 4,
+    "height": 1666,
+    "lead": "M_3_1382.JPG",
+    "multilead": "M_3_1379.JPG",
+    "map": 1,
+    "multipath": true,
+    "name": "VelikaPlanina/Volovjek",
+    "title": {
+      "sl": "Velika planina z Volovljeka",
+      "en": "Velika planina from Volovljek"
+    },
+    "x": 473,
+    "y": 128
+  },
+  {
+    "date": "2004-08-22 00:00:00+00:00",
+    "delta": 350,
+    "description": {
+      "sl": "Poleti, ko vas na Veliko planino pripelje vzpenja\u010da, lahko u\u017eivate njene travnike in gozdi\u010dke med kraj\u0161im dru\u017einskim izletom.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1666,
+    "lead": "M_3_1378.JPG",
+    "multilead": "M_6_1655.JPG",
+    "map": 1,
+    "multipath": true,
+    "name": "VelikaPlanina/Sprehod",
+    "title": {
+      "sl": "Potepanje po Veliki planini",
+      "en": "Hiking around Velika planina"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Na travnike Velike planine se lahko povzpnete v vseh letnih \u010dasih. Pomladi vas bo \u010dakalo prvo gorsko cvetje, poleti cveto\u010di travniki, pozimi pa sne\u017ena idila.",
+      "en": null
+    },
+    "height": 1666,
+    "lead": "M_3_1378.JPG",
+    "name": "VelikaPlanina",
+    "title": {
+      "sl": "Velika planina",
+      "en": "Velika planina"
+    },
+    "x": 473,
+    "y": 128
+  },
+  {
+    "date": "2005-11-27 00:00:00+00:00",
+    "delta": 540,
+    "description": {
+      "sl": "Ju\u017eno od Vuhreda stoji na son\u010dnem razglednem vrhu enega od stranskih grebenov Pohorja cerkev sv. Antona, ki je vrhu in bli\u017enjemu. zaselku dala tudi ime.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4,
+    "height": 854,
+    "lead": "M_7_2705.JPG",
+    "map": 1,
+    "name": "svAnton",
+    "title": {
+      "sl": "Sveti Anton na Pohorju",
+      "en": "Saint Anton on Pohorje"
+    },
+    "x": 516,
+    "y": 157
+  },
+  {
+    "date": "2003-07-20 00:00:00+00:00",
+    "delta": 700,
+    "description": {
+      "sl": "Vi\u0161evnik je eden od najvi\u0161jih vrhov v grebenu, ki lo\u010duje Poklju\u0161ko planoto od doline Krme.",
+      "en": "Vi\u0161evnik is one of the highest summits in the ridge separating the Pokljuka plateau from the Krma valley, and one of the most-popular peaks above 2000m in Slovenia.\n"
+    },
+    "duration": 4,
+    "height": 2050,
+    "lead": "M_9-5929_IMG.JPG",
+    "map": 1,
+    "name": "Visevnik",
+    "title": {
+      "sl": "Vi\u0161evnik",
+      "en": "Vi\u0161evnik"
+    },
+    "x": 416,
+    "y": 136
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2008-05-11 00:00:00+00:00",
+    "delta": 1150,
+    "description": {
+      "sl": "Mnogi, ki hodijo mimo Kleka na bo\u017ejepotno Golico in na precej oblegano Babo, znano tudi kot Dov\u0161ka Baba ali Dov\u0161ka Ro\u017eca, sploh ne vedo kje je ta vrh. A manj razvpiti in oblegani vrhovi so pogosto prav tako ali pa \u0161e bolj ljubi planincem, posebno takim, ki i\u0161\u010dejo miru in stika z naravo.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 1753,
+    "lead": "M_008051108.jpg",
+    "name": "Klek",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Klek in Golica",
+      "en": "Klek"
+    },
+    "x": 425,
+    "y": 149
+  },
+  {
+    "date": "2006-10-22 00:00:00+00:00",
+    "delta": 635,
+    "description": {
+      "sl": "Na \u017davcarjevem vrhu se greben Kozjaka, po katerem severno od Drave te\u010de meja med Slovenijo in Avstrijo, prvi\u010d povzpne nad 900 metrov. Vrh ni razgleden, izpred planinskega doma pod njim pa se odpira lep pogled na Dravsko dolino in Pohorje onkraj nje.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 915,
+    "lead": "M_7_2717.JPG",
+    "map": 1,
+    "name": "ZavcarjevVrh",
+    "title": {
+      "sl": "\u017davcarjev vrh",
+      "en": "\u017davcarjev vrh"
+    },
+    "x": 540,
+    "y": 162
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2005-10-02 00:00:00+00:00",
+    "delta": 620,
+    "description": {
+      "sl": "Baba je ne posebno znamenit vrh sredi trikotnika Poto\u010de\u2013Spodnja Kokra\u2013Javorov vrh, za katerega morda izveste, \u010de se povzpnete k bolj znanemu Domu \u010cem\u0161enik. \u010ceprav pot na Babo ni markirana, je lepa in dobro vzdr\u017eevana, zaiti tako reko\u010d ni mogo\u010de, vrh pa ponuja prelepe razglede.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2.5,
+    "height": 1119,
+    "lead": "M_5100101.jpg",
+    "name": "Baba",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Baba",
+      "en": "Baba"
+    },
+    "x": 459,
+    "y": 130
+  },
+  {
+    "date": "2005-03-13 00:00:00+00:00",
+    "delta": 270,
+    "description": {
+      "sl": "Plaz je prijeten cilj kraj\u0161ega dru\u017einskega izleta. Nanj so speljane markirane poti iz Vipave in z Gradi\u0161\u010da pri Vipavi.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 1.5,
+    "height": 529,
+    "lead": "M_2_2245.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1501",
+    "name": "Plaz",
+    "peak": "45.842405,13.972171",
+    "region": "vipava",
+    "start": "45.832270,13.971014",
+    "title": {
+      "sl": "Plaz",
+      "en": "Plaz"
+    },
+    "x": 420,
+    "y": 78
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "delta": 220,
+    "description": {
+      "sl": "Najkraj\u0161a pot na Lipanco vodi iz Medvedove konte \u2013 do Blejske ko\u010de je od parkiri\u0161\u010da le 30 minut vzpona.",
+      "en": null
+    },
+    "duration": 1,
+    "height": 1630,
+    "lead": "M_9-5979_IMG.JPG",
+    "map": 1,
+    "multilead": "M_9-5979_IMG.JPG",
+    "multipath": true,
+    "name": "Lipanca/MedvedovaKonta",
+    "title": {
+      "sl": "Lipanca iz Medvedove konte",
+      "en": "Lipanca from Medvedova konta"
+    }
+  },
+  {
+    "date": "2003-06-22 00:00:00+00:00",
+    "delta": 310,
+    "description": {
+      "sl": "Pot z Rudnega polja vas bo popeljala po sen\u010dnih smrekovih gozdovih in son\u010dnih travnikih nad Pokljuko do Blejske ko\u010de na Lipanci.",
+      "en": "The route from Rudno polje to Lipanca is an ideal family trip: it starts as a gentle walk through the mighty Pokljuka spruce forests, continues with a slight ascent on the margin of the Pokljuka plateau, becomes somewhat more diverse and ends on the fairly steep grass slopes below Lipanca."
+    },
+    "duration": 3,
+    "height": 1630,
+    "lead": "M_9-5930_IMG.JPG",
+    "map": 1,
+    "multilead": "M_9-5930_IMG.JPG",
+    "multipath": true,
+    "name": "Lipanca/RudnoPolje",
+    "title": {
+      "sl": "Lipanca z Rudnega polja",
+      "en": "Lipanca from Rudno Polje"
+    }
+  },
+  {
+    "date": "2004-02-01 00:00:00+00:00",
+    "delta": 380,
+    "description": {
+      "sl": "Ena najdalj\u0161ih markiranih poti s Pokljuke na Lipanco te\u010de iz Rudne doline skozi goste smrekove gozdove in \u010dez planino Javornik.",
+      "en": null
+    },
+    "duration": 4,
+    "height": 1630,
+    "lead": "M_1_0120.JPG",
+    "map": 1,
+    "multilead": "M_1_0120.JPG",
+    "multipath": true,
+    "name": "Lipanca/Javornik",
+    "title": {
+      "sl": "Lipanca iz Rudne doline",
+      "en": "Lipanca from Rudna valley"
+    }
+  },
+  {
+    "date": "2005-01-09 00:00:00+00:00",
+    "delta": 300,
+    "description": {
+      "sl": "Ena najkraj\u0161ih poti na Lipanco se za\u010dne Pri rupah, ob spomeniku, ki stoji tik ob makadamski cesti, speljani \u010dez Pokljuko.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 1630,
+    "lead": "M_2_2208.JPG",
+    "multilead": "M_2_2208.JPG",
+    "map": 1,
+    "multipath": true,
+    "name": "Lipanca/Spomenik",
+    "title": {
+      "sl": "Na Lipanco od spomenika Pri rupah",
+      "en": "Lipanca from Rupe"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Lipanca je manj\u0161a planina nad Pokljuko, tik pod grebenom, ki lo\u010duje Poklju\u0161ko planoto od doline Krme. Z Lipance boste imeli lep razgled na poklju\u0161ke gozdove in bohinjske gore, nad vami pa se bodo dvigale strme stene Lipanskega vrha.",
+      "en": "The route from Rudno polje to Lipanca is an ideal family trip: it starts as a gentle walk through the mighty Pokljuka spruce forests, continues with a slight ascent on the margin of the Pokljuka plateau, becomes somewhat more diverse and ends on the fairly steep grass slopes below Lipanca."
+    },
+    "height": 1630,
+    "name": "Lipanca",
+    "title": {
+      "sl": "Lipanca",
+      "en": "Lipanca pasture"
+    },
+    "x": 418,
+    "y": 137
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2007-08-19 00:00:00+00:00",
+    "delta": 1700,
+    "description": {
+      "sl": "Grintovec je najvi\u0161ji vrh Kamni\u0161ko-Savinjskih Alp. Doma\u010di pastirji in naravoslovci so ga osvojili \u017ee v 18. stoletju, saj je dostop z juga od Cojzove ko\u010de \u010dez Streho nezahteven. S severa pa vodita nanj zahtevni zavarovani Frischaufova pot \u010dez Mlinarsko sedlo in \u0160premova pot \u010dez Dol\u0161ko \u0161krbino.\n",
+      "en": null
+    },
+    "duration": 9,
+    "height": 2558,
+    "lead": "M_007080902.jpg",
+    "name": "Grintovec",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Grintovec",
+      "en": "Grintovec"
+    },
+    "x": 465,
+    "y": 135
+  },
+  {
+    "date": "2004-01-11 00:00:00+00:00",
+    "lastmod": "2021-02-13 16:49:00",
+    "delta": 320,
+    "description": {
+      "sl": "Najbolj strma markirana pot na Vrh Svetih treh kraljev vodi iz Sopota, zaselka v dolini Sovre.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 844,
+    "map": 1,
+    "lead": "M_5_0525.jpg",
+    "multilead": "M_5_0522.jpg",
+    "multipath": true,
+    "name": "Vs3k/Sopot",
+    "title": {
+      "sl": "Vrh Svetih treh kraljev iz Sopota",
+      "en": "Vrh Svetih treh kraljev from Sopot"
+    }
+  },
+  {
+    "date": "2003-04-06 00:00:00+00:00",
+    "delta": 280,
+    "description": {
+      "sl": "Na razgleden travnat Vrh svetih treh kraljev se bomo povzpeli po skritih poteh in stezah iz Izgorij, vasice nad dolino Sovre.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 844,
+    "lead": "M_8-4881_IMG.JPG",
+    "map": 1,
+    "multilead": "M_8-4879_IMG.JPG",
+    "multipath": true,
+    "name": "Vs3k/Izgorje",
+    "title": {
+      "sl": "Vrh Svetih treh kraljev iz Izgorij",
+      "en": "Vrh Svetih treh kraljev from Izgorje"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Vrh Svetih treh kraljev je najbolj razgleden vrh Rovtarskega hribovja",
+      "en": null
+    },
+    "height": 844,
+    "name": "Vs3k",
+    "title": {
+      "sl": "Vrh Svetih treh kraljev",
+      "en": "Vrh Svetih treh kraljev"
+    },
+    "x": 434,
+    "y": 96
+  },
+  {
+    "date": "2010-11-10 00:00:00+00:00",
+    "delta": 517,
+    "description": {
+      "sl": "Ko vas bo pot zanesla mimo \u017diri, si vzamite \u0161e nekaj ur \u010dasa in se sprehodite na Mrzli vrh - travnat, razgleden vrh zahodno od \u017diri.",
+      "en": null
+    },
+    "duration": 3.5,
+    "height": 987,
+    "lead": "M_8-3831_IMG.JPG",
+    "name": "MrzliVrh_Ziri",
+    "title": {
+      "sl": "Mrzli vrh nad \u017dirmi",
+      "en": "Mrzli vrh nad \u017dirmi"
+    },
+    "x": 428,
+    "y": 102
+  },
+  {
+    "date": "2006-12-17 00:00:00+00:00",
+    "delta": 360,
+    "description": {
+      "sl": "Le nekaj kilometrov vzhodno od Piranskega zaliva se v slovenski Istri dviguje mo\u010dno razbrazdano \u0160avrinsko gri\u010devje, bogato z rekami in poto\u010dki, ki so v fli\u0161na tla izdolbli globoke grape. Po ozna\u010denih poteh piranskega pode\u017eelja si lahko privo\u0161\u010dite obilico izletov; mi si bomo v \u0161tirih urah ogledali tri vasi nad dolino Drnice",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4,
+    "height": 280,
+    "lead": "M_2_2830.JPG",
+    "map": 1,
+    "name": "Padna",
+    "title": {
+      "sl": "Od Padne do Sv. Petra",
+      "en": "From Padna to st. Peter"
+    },
+    "x": 397,
+    "y": 39
+  },
+  {
+    "date": "2003-11-09 00:00:00+00:00",
+    "delta": 490,
+    "description": {
+      "sl": "Do son\u010dnega zaselka pod strminami Krvavca se lahko povzpnemo po markiranih poteh s Klemen\u010devega ali iz \u0160entur\u0161ke gore, lahko pa ga izkoristimo tudi kot izhodi\u0161\u010de za vzpon na Krvavec.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1088,
+    "lead": "M_2_0234.JPG",
+    "map": 1,
+    "name": "Ambroz",
+    "title": {
+      "sl": "Ambro\u017e pod Krvavcem",
+      "en": "Ambro\u017e near Krvavec"
+    },
+    "x": 464,
+    "y": 126
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2005-04-10 00:00:00+00:00",
+    "delta": 540,
+    "description": {
+      "sl": "Kranjska reber ali Vrh Ka\u0161ne planine (tako zemljevid) je izrazita kopasta gora v vzhodnem predgorju Grintovcev.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3.5,
+    "height": 1435,
+    "lead": "M_0006.jpg",
+    "name": "KranjskaReber",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Kranjska reber",
+      "en": "Kranjska reber"
+    },
+    "x": 478,
+    "y": 127
+  },
+  {
+    "date": "2003-04-20 00:00:00+00:00",
+    "delta": 340,
+    "description": {
+      "sl": "Tinjan je zadnji razgledni hrib, ki ga slovenska planinska pot obi\u0161\u010de preden se dokon\u010dno spusti do morja v bli\u017eini Ankarana.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 374,
+    "lead": "M_7-4705_IMG.JPG",
+    "map": 1,
+    "name": "Tinjan_Osp",
+    "title": {
+      "sl": "Tinjan iz Ospa",
+      "en": "Tinjan iz Ospa"
+    },
+    "x": 409,
+    "y": 47
+  },
+  {
+    "author": "Joze_Zugelj",
+    "date": "2007-01-21 00:00:00+00:00",
+    "delta": 307,
+    "description": {
+      "sl": "Severno od Semi\u010da se dviguje Smuk, hrib, porasel z vinsko trto in poln zidanic; najlep\u0161i vzpon nanj je iz Semi\u010da.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 1.5,
+    "height": 547,
+    "lead": "M_007011903.jpg",
+    "map": 1,
+    "name": "Smuk",
+    "photo_author": "Joze_Zugelj",
+    "title": {
+      "sl": "Smuk v Beli krajini",
+      "en": "Smuk"
+    },
+    "x": 514,
+    "y": 57
+  },
+  {
+    "date": "2003-11-02 00:00:00+00:00",
+    "delta": 640,
+    "description": {
+      "sl": "Po zanimivem strmem vzponu na Ple\u0161o, najbolj znan vrh Nanosa, boste (\u010de vas ne bo odnesla burja) u\u017eivali v \u010dudovitih razgledih na Vipavsko dolino in okolico.",
+      "en": null
+    },
+    "duration": 3.5,
+    "height": 1262,
+    "lastmod": "2021-02-13 10:31:00",
+    "lead": "M_1_0184.JPG",
+    "map": 1,
+    "multilead": "M_1_0184.JPG",
+    "multipath": true,
+    "name": "Nanos/Razdrto",
+    "title": {
+      "sl": "Nanos iz Razdrtega",
+      "en": "Nanos from Razdrto"
+    }
+  },
+  {
+    "date": "2004-02-29 00:00:00+00:00",
+    "delta": 610,
+    "description": {
+      "sl": "Na Nanos se lahko odpravimo tudi Iz Stran, majhne vasice na obronkih Postojnske kotline",
+      "en": null
+    },
+    "duration": 4,
+    "height": 1262,
+    "lead": "M_5_0528.JPG",
+    "map": 1,
+    "multilead": "M_5_0528.JPG",
+    "multipath": true,
+    "name": "Nanos/Strane",
+    "title": {
+      "sl": "Nanos iz Stran",
+      "en": "Nanos from Strane"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Najbolj izrazit vrh Nanosa je Ple\u0161a, ki jo ve\u010dina izletnikov poistoveti s celotnim Nanosom (ko re\u010demo \u00bbgremo na Nanos\u00ab, v bistvu mislimo \u00bbgremo na Ple\u0161o\u00ab).",
+      "en": null
+    },
+    "height": 1262,
+    "lead": "M_2_0206.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/3080",
+    "name": "Nanos",
+    "peak": "45.769507,14.056388",
+    "region": "vipava",
+    "title": {
+      "sl": "Ple\u0161a na Nanosu",
+      "en": "Nanos"
+    },
+    "x": 426,
+    "y": 70
+  },
+  {
+    "date": "2007-05-06 00:00:00+00:00",
+    "delta": 50,
+    "description": {
+      "sl": "Severozahodno od Socerba le\u017ei Zgornji Kras, planota, porasla z redkimi borovimi gozdi\u010dki, med katerimi se razprostirajo vabe\u010di kra\u0161ki travniki.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 1,
+    "height": 440,
+    "lead": "M_9_2968.JPG",
+    "map": 1,
+    "name": "ZgornjiKras",
+    "title": {
+      "sl": "Zgornji Kras",
+      "en": "Upper Karst"
+    },
+    "x": 413,
+    "y": 51
+  },
+  {
+    "author": "Milos_Kobe",
+    "date": "2004-02-22 00:00:00+00:00",
+    "delta": 260,
+    "description": {
+      "sl": "Sveti Ahac (ali Gora) je razgleden vrh v bli\u017eini Turjaka, na katerega se lahko povzpnemo v slabe pol ure. I",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 1,
+    "height": 748,
+    "lead": "M_01.jpg",
+    "name": "svAhac",
+    "photo_author": "Milos_Kobe",
+    "title": {
+      "sl": "Sveti Ahac (Gora) nad Turjakom",
+      "en": "Saint Ahac over Turjak"
+    },
+    "x": 470,
+    "y": 83
+  },
+  {
+    "date": "2003-08-10 00:00:00+00:00",
+    "delta": 530,
+    "description": {
+      "sl": "Krstenica je ena od najlep\u0161ih in zaradi svoje odprte lege najbolj razglednih bohinjskih planin.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 1670,
+    "lead": "M_5-6554_IMG.JPG",
+    "name": "Krstenica",
+    "title": {
+      "sl": "Krstenica",
+      "en": "Krstenica pasture"
+    },
+    "x": 412,
+    "y": 132
+  },
+  {
+    "date": "2003-03-09 00:00:00+00:00",
+    "delta": 260,
+    "description": {
+      "sl": "Vrsnik je zaselek na razglednih travnatih vrhovih ju\u017eno od \u017dirov, nad katerim kraljuje cerkvica sv. Toma\u017ea.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 743,
+    "lead": "M_6-4646_IMG.JPG",
+    "map": 1,
+    "name": "Vrsnik_Ziri",
+    "title": {
+      "sl": "Vrsnik nad \u017dirmi",
+      "en": "Vrsnik nad \u017dirmi"
+    },
+    "x": 430,
+    "y": 98
+  },
+  {
+    "date": "2005-06-26 00:00:00+00:00",
+    "delta": 570,
+    "description": {
+      "sl": "Med Vogarjem in Planino pri Jezeru le\u017ei severno od Bohinjskega jezera idili\u010dna planina Vodi\u010dni vrh. Mimo nje je speljana osamljena redko obiskana markirana pot z Vogarja proti Planini pri Jezeru, kot nala\u0161\u010d za tiste, ki jih motijo \u010drede zbiralcev \u017eigov, ki se s planine Blato valijo proti Triglavskim jezerom.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4,
+    "height": 1621,
+    "lead": "M_9_1933.JPG",
+    "map": 1,
+    "name": "VodicniVrh",
+    "title": {
+      "sl": "Vodi\u010dni vrh",
+      "en": "Vodi\u010dni vrh"
+    },
+    "x": 411,
+    "y": 129
+  },
+  {
+    "date": "2004-12-05 00:00:00+00:00",
+    "delta": 520,
+    "description": {
+      "sl": "Visoko na pobo\u010dju Pohorja, tik pod Velikim vrhom, stoji cerkev sv. Treh kraljev, priljubljen cilj planincev iz okolice Slovenske Bistrice.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1181,
+    "lead": "M_1_2101.JPG",
+    "map": 1,
+    "name": "TrijeKralji",
+    "title": {
+      "sl": "Trije kralji na Pohorju",
+      "en": "Trije kralji on Pohorje"
+    },
+    "x": 535,
+    "y": 143
+  },
+  {
+    "date": "2003-07-27 00:00:00+00:00",
+    "delta": 1150,
+    "description": {
+      "sl": "Vrta\u010da je samoten vrh v grebenu, po katerem zahodno od Ljubelja te\u010de dr\u017eavna meja med Slovenijo in Avstrijo.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 7.5,
+    "height": 2181,
+    "lead": "M_3-6358_IMG.JPG",
+    "map": 1,
+    "name": "Vrtaca",
+    "title": {
+      "sl": "Vrta\u010da z Ljubelja",
+      "en": "Vrta\u010da from Ljubelj"
+    },
+    "x": 440,
+    "y": 144
+  },
+  {
+    "date": "2006-06-25 00:00:00+00:00",
+    "delta": 590,
+    "description": {
+      "sl": "\u010ce Tine Miheli\u010d v svojem vodniku po Julijskih Alpah zapi\u0161e, da je razgled z Brd lep\u0161i kot z bli\u017enje Debele pe\u010di, je \u017ee to zadosten razlog za obisk tega kopastega dvatiso\u010daka.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 2008,
+    "lead": "M_1_0167.JPG",
+    "map": 1,
+    "name": "BrdaLipanca",
+    "title": {
+      "sl": "Brda nad Lipanco",
+      "en": "Brda near Lipanca"
+    },
+    "x": 418,
+    "y": 138
+  },
+  {
+    "date": "2005-04-23 00:00:00+00:00",
+    "delta": 530,
+    "description": {
+      "sl": "Sivka je zaobljen travnat vrh v Polhograjskem hribovju z lepim razgledom na \u0160kofjelo\u0161ko hribovje in slovenske Alpe.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4.5,
+    "height": 934,
+    "lead": "M_2_2285.JPG",
+    "map": 1,
+    "name": "Sivka",
+    "title": {
+      "sl": "Sivka iz Zaloga",
+      "en": "Sivka from Zalog"
+    },
+    "x": 439,
+    "y": 103
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2007-11-11 00:00:00+00:00",
+    "delta": 210,
+    "description": {
+      "sl": "Miklav\u0161ka gora je sicer skoraj tiso\u010dak, a ima mogo\u010de le nekoliko \u00bbpreveliko\u00ab ime, saj ni zelo podobna gori. Je pa precej prijeten cilj, posebno \u010de nimamo veliko \u010dasa ali \u010de je slabo vreme, saj po cesti in kolovozih zlahka hodimo z de\u017enikom.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 955,
+    "lead": "M_007110905.jpg",
+    "name": "MiklavskaGora",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Miklav\u0161ka gora",
+      "en": "Miklav\u0161ka gora"
+    },
+    "x": 438,
+    "y": 119
+  },
+  {
+    "date": "2003-10-19 00:00:00+00:00",
+    "lastmod": "2021-02-20 06:35",
+    "delta": 610,
+    "description": {
+      "sl": "Poklju\u0161ko planoto na njenem severozahodnem robu lo\u010duje od ledeni\u0161ke doline Krme strm greben z vrsto lahko dostopnih razglednih vrhov. Prvi dvatiso\u010dak v tem grebenu je Debela pe\u010d, travnat vrh, s katerega boste lahko u\u017eivali v razgledu na Triglavsko pogorje, Pokljuko, Bohinjske gore.\n",
+      "en": null
+    },
+    "duration": 4,
+    "height": 2014,
+    "lead": "M_1_0145.jpg",
+    "map": 1,
+    "name": "DebelaPec",
+    "title": {
+      "sl": "Debela pe\u010d",
+      "en": "Debela pe\u010d"
+    },
+    "x": 418,
+    "y": 139
+  },
+  {
+    "date": "2002-07-15 00:00:00+00:00",
+    "delta": 550,
+    "description": {
+      "sl": "\u010ce bo vro\u010dina med po\u010ditnicami v slovenskem primorju le prehuda, si privo\u0161\u010dite kratko osve\u017eitev z izletom na Sne\u017enik.",
+      "en": null
+    },
+    "duration": 4,
+    "height": 1796,
+    "lead": "M_8-1813_IMG.JPG",
+    "map": 1,
+    "name": "Sneznik",
+    "title": {
+      "sl": "Sne\u017enik s Svi\u0161\u010dakov",
+      "en": "Sne\u017enik from Svi\u0161\u010daki"
+    },
+    "x": 457,
+    "y": 50
+  },
+  {
+    "date": "2003-09-21 00:00:00+00:00",
+    "delta": 920,
+    "description": {
+      "sl": "Dobr\u010da je razgleden vrh nad Tr\u017ei\u010dem, od koder se odpre \u010dudovit razgled na greben Karavank, od Stola do Ko\u0161ute.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 1643,
+    "lead": "M_0-7053_IMG.JPG",
+    "map": 1,
+    "name": "Dobrca",
+    "title": {
+      "sl": "Dobr\u010da",
+      "en": "Dobr\u010da"
+    },
+    "x": 443,
+    "y": 138
+  },
+  {
+    "date": "2004-04-18 00:00:00+00:00",
+    "delta": 420,
+    "description": {
+      "sl": "Na precej neznanem vrhu v \u0160kofjelo\u0161kem hribovju vas \u010daka zanimiva baro\u010dna cerkev in lep razgled proti vzhodu.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2.5,
+    "height": 987,
+    "lead": "M_7_0732.JPG",
+    "map": 1,
+    "name": "MalenskiVrh",
+    "title": {
+      "sl": "Malenski vrh",
+      "en": "Malenski vrh"
+    },
+    "x": 434,
+    "y": 112
+  },
+  {
+    "date": "2002-09-29 00:00:00+00:00",
+    "delta": 300,
+    "description": {
+      "sl": "Obisk Postojnske jame ali Predjamskega gradu lahko zdru\u017eite s prijetnim izletom na sv. Lovrenc, od koder boste v lepem vremenu videli celotno Postojnsko kotlino in okoli\u0161ke hribe vse do Nanosa.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 1019,
+    "lead": "M_1-3162_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/3908",
+    "name": "svLovrenc",
+    "peak": "45.839190,14.168374",
+    "start": "45.835079,14.154237",
+    "title": {
+      "sl": "Sv. Lovrenc nad Postojno",
+      "en": "Sv. Lovrenc nad Postojno"
+    },
+    "x": 436,
+    "y": 78
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2006-09-03 00:00:00+00:00",
+    "delta": 1500,
+    "description": {
+      "sl": "Mogo\u010dni gori na koncu doline Vrat so dale ime stene, priljubljene tudi pri plezalcih; edino polo\u017enej\u0161e pobo\u010dje je tisto proti Kri\u0161kim podom.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 8,
+    "height": 2501,
+    "lead": "M_6_2636.JPG",
+    "map": 1,
+    "name": "Stenar",
+    "title": {
+      "sl": "Stenar",
+      "en": "Stenar"
+    },
+    "x": 410,
+    "y": 141
+  },
+  {
+    "date": "2003-10-26 00:00:00+00:00",
+    "delta": 390,
+    "description": {
+      "sl": "Na Goli\u010du, ju\u017eno od Slavnika, boste na\u0161li razgibane kra\u0161ke travnike, ki vas bodo prijazno sprejeli v vseh letnih \u010dasih.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 890,
+    "lead": "M_0_0030.JPG",
+    "map": 1,
+    "name": "Golic",
+    "title": {
+      "sl": "Goli\u010d",
+      "en": "Goli\u010d"
+    },
+    "x": 421,
+    "y": 39
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2005-02-13 00:00:00+00:00",
+    "delta": 800,
+    "description": {
+      "sl": "Krim, ju\u017eni \u010duvaj Ljubljanskega barja, se vidi skoraj od vsepovsod iz Ljubljane in bli\u017enje okolice.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 1107,
+    "lead": "M_2-2217_IMG.JPG",
+    "name": "Krim",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Krim",
+      "en": "Krim"
+    },
+    "x": 459,
+    "y": 87
+  },
+  {
+    "date": "2002-10-20 00:00:00+00:00",
+    "delta": 400,
+    "description": {
+      "sl": "Pozno-gotska cerkvica na obronkih Velike planine nad Kamnikom je idealen cilj za nedeljski izlet",
+      "en": null
+    },
+    "duration": 2,
+    "height": 826,
+    "name": "svPrimoz_Kamnik",
+    "title": {
+      "sl": "Sv. Primo\u017e nad Kamnikom",
+      "en": "Saint Primo\u017e above Kamnik"
+    },
+    "x": 472,
+    "y": 125
+  },
+  {
+    "date": "2003-09-07 00:00:00+00:00",
+    "delta": 450,
+    "description": {
+      "sl": "Bevkov Vrhnika je razgleden vrh nad dolino Idrijce s \u010dudovitim pogledom na Idrijsko hribovje in Spodnje Bohinjske gore. \u010ce se nanj odpravite poleti, boste med vzponom med raztresenimi kmetijami u\u017eivali v bogastvu travni\u0161kih ro\u017e.\n",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1051,
+    "lead": "M_8-6846_IMG.JPG",
+    "map": 1,
+    "name": "BevkovVrh",
+    "title": {
+      "sl": "Bevkov vrh",
+      "en": "Bevk's peak"
+    },
+    "x": 424,
+    "y": 105
+  },
+  {
+    "date": "2003-06-01 00:00:00+00:00",
+    "delta": 490,
+    "description": {
+      "sl": "Slajka in \u0160pik sta vrhova v grebenu \u0160kofjelo\u0161ka hribovja, ki se zahodno od Hotavelj preko Oselice razteza do Ermanovca.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 908,
+    "lead": "M_2-5284_IMG.JPG",
+    "map": 1,
+    "name": "Slajka",
+    "title": {
+      "sl": "Iz Hotavelj na Slajko in \u0160pik",
+      "en": "Slajka and \u0160pik from Hotavlje"
+    },
+    "x": 430,
+    "y": 108
+  },
+  {
+    "date": "2002-07-29 00:00:00+00:00",
+    "delta": 400,
+    "description": {
+      "sl": "Izlet iz Logarske doline na Okre\u0161elj je idealen za vse, ki bi radi brez prevelikih naporov okusili lepote slovenskih alp.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 1395,
+    "lastmod": "2021-02-13 17:10:00",
+    "lead": "M_6-1674_IMG.JPG",
+    "name": "Okreselj",
+    "title": {
+      "sl": "Iz Logarske doline na Okre\u0161elj",
+      "en": "Iz Logarske doline na Okre\u0161elj"
+    },
+    "x": 469,
+    "y": 136
+  },
+  {
+    "date": "2005-09-18 00:00:00+00:00",
+    "delta": 650,
+    "description": {
+      "sl": "S planine Koro\u0161ica nad Ljubeljem boste imeli enega najlep\u0161ih razgledov v Karavankah, zagotovo pa vas bodo sredi poletja pri\u010dakali izvrstni ajdovi \u017eganci in kislo mleko.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 1554,
+    "lead": "M_5_2578.JPG",
+    "map": 1,
+    "name": "Korosica",
+    "title": {
+      "sl": "Planina Koro\u0161ica",
+      "en": "Koro\u0161ica meadow"
+    },
+    "x": 445,
+    "y": 143
+  },
+  {
+    "date": "2003-06-15 00:00:00+00:00",
+    "delta": 600,
+    "description": {
+      "sl": "Strm vzpon na Kojco (enega od vi\u0161jih vrhov v Cerkljanskem hribovju) bo popla\u010dan z razgledom na Bohinjske gore, Porezen in vrhove Cerkljanskega in Idrijskega hribovja.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 1303,
+    "lead": "M_7-5762_img.jpg",
+    "map": 1,
+    "name": "Kojca",
+    "title": {
+      "sl": "Kojca iz Jesenice",
+      "en": "Kojca from Jesenica"
+    },
+    "x": 417,
+    "y": 113
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2006-07-23 00:00:00+00:00",
+    "delta": 606,
+    "description": {
+      "sl": "Kladivo je poleg Velikega vrha in Ko\u0161utnikovega turna najmikavnej\u0161i cilj v dolgem pogorju Ko\u0161ute.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 2094,
+    "lead": "M_006070701.jpg",
+    "name": "Kladivo",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Kladivo",
+      "en": "Kladivo"
+    },
+    "x": 450,
+    "y": 144
+  },
+  {
+    "date": "2003-02-16 00:00:00+00:00",
+    "delta": 500,
+    "description": {
+      "sl": "Javor\u010d je vrh v pogorju \u017dirovskega vrha, pribli\u017eno enako oddaljen od \u017dirov in Gorenje vasi v Poljanski dolini, od koder boste imeli \u010dudovit razgled na \u0160kofjelo\u0161ko hribovje in slovenske Alpe.",
+      "en": null
+    },
+    "duration": 3.5,
+    "height": 901,
+    "lead": "M_6-4626_IMG.JPG",
+    "map": 1,
+    "multilead": "M_6-4626_IMG.JPG",
+    "multipath": true,
+    "name": "Javorc/GorenjaVas",
+    "title": {
+      "sl": "Javor\u010d iz Gorenje vasi",
+      "en": "Javor\u010d from Gorenja vas"
+    }
+  },
+  {
+    "date": "2003-01-12 00:00:00+00:00",
+    "delta": 410,
+    "description": {
+      "sl": "Javor\u010d je \u017direm najbli\u017eji vrh v pogorju \u017dirovskega vrha in zato v vseh letnih \u010dasih zelo priljubljena izletni\u0161ka to\u010dka. Njegovo priljubljenost \u0161e pove\u010duje lovska ko\u010da blizu vrha, ki je odprta vsak vikend.",
+      "en": null
+    },
+    "duration": 2.5,
+    "height": 901,
+    "lead": "M_5-2568_IMG.JPG",
+    "map": 1,
+    "multipath": true,
+    "multilead": "M_5-2566_IMG.JPG",
+    "name": "Javorc/Ziri",
+    "title": {
+      "sl": "Javor\u010d iz \u017dirov",
+      "en": "Javor\u010d from \u017diri"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Javor\u010d je vrh v pogorju \u017dirovskega vrha, pribli\u017eno enako oddaljen od \u017dirov in Gorenje vasi v Poljanski dolini, od koder boste imeli \u010dudovit razgled na \u0160kofjelo\u0161ko hribovje in slovenske Alpe.",
+      "en": null
+    },
+    "height": 901,
+    "lead": "M_4-4461_IMG.JPG",
+    "name": "Javorc",
+    "title": {
+      "sl": "Javor\u010d",
+      "en": "Javor\u010d"
+    },
+    "x": 433,
+    "y": 103
+  },
+  {
+    "date": "2006-12-10 00:00:00+00:00",
+    "delta": 886,
+    "description": {
+      "sl": "\u010ce ste \u017ee bili na Kofcah in ste se tja odpravili s planine Dol\u017eanka, ste se na poti proti Jelendolu peljali tudi skozi vasico Dolina. Naslednji\u010d se ustavite \u017ee tam pri precej slikoviti doma\u010diji Lukec ob potoku Kali\u0161niku. To je dobro izhodi\u0161\u010de za Kofce, saj spotoma \u00bbpospravite\u00ab \u0161e preval Kal.",
+      "en": null
+    },
+    "duration": 4,
+    "height": 1488,
+    "name": "Kofce/Dolina",
+    "title": {
+      "sl": "Kofce iz Doline",
+      "en": "Kofce from Dolina"
+    },
+    "author": "Mojca Lu\u0161trek",
+    "lead": "M_006120703.jpg",
+    "multipath": true,
+    "multilead": "M_006120704.jpg"
+  },
+  {
+    "author": "Mojca Lu\u0161trek",
+    "date": "2007-03-18 00:00:00+00:00",
+    "delta": 416,
+    "description": {
+      "sl": "Ena kraj\u0161ih vzponov na Kofce se za\u010dne nad Podljubeljem pri Matizovcu, do koder se pripeljete po ne preslabi makadamski cesti.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 1488,
+    "lastmod": "2021-02-13 10:20:00",
+    "lead": "M_007031604.jpg",
+    "multilead": "M_007031602.jpg",
+    "multipath": true,
+    "name": "Kofce/Matizovec",
+    "title": {
+      "sl": "Kofce od Matizovca",
+      "en": "Kofce from Matizovec"
+    }
+  },
+  {
+    "date": "2003-11-30 00:00:00+00:00",
+    "delta": 450,
+    "description": {
+      "sl": "S planine Dol\u017eanka vodi na Kofce prijetna (\u010deprav var\u010dno markirana) planinska pot, na kateri ne boste sre\u010dali prav dosti (pre)glasnih pohodnikov.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1488,
+    "multipath": true,
+    "multilead": "M_3_0302.JPG",
+    "lead": "M_3_0327.JPG",
+    "map": 1,
+    "name": "Kofce/Dolzanka",
+    "title": {
+      "sl": "Kofce s planine Dol\u017eanka",
+      "en": "Kofce from Dol\u017eanka meadow"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Kofce so prijazna, son\u010dna planina pod travnatim grebenom Ko\u0161ute.",
+      "en": null
+    },
+    "height": 1488,
+    "lead": "M_3_0331.JPG",
+    "name": "Kofce",
+    "title": {
+      "sl": "Kofce",
+      "en": "Kofce"
+    },
+    "x": 448,
+    "y": 142
+  },
+  {
+    "date": "2003-09-14 00:00:00+00:00",
+    "delta": 600,
+    "description": {
+      "sl": "Vzpon iz Vipavske doline do naravne znamenitosti na robu Vipavske Gore.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 820,
+    "lead": "M_9-6987_IMG.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5296",
+    "name": "OtliskoOkno",
+    "peak": "45.917544,13.911851",
+    "region": "vipava",
+    "start": "45.903995,13.912370",
+    "title": {
+      "sl": "Otli\u0161ko okno",
+      "en": "Otlica's natural window"
+    },
+    "x": 416,
+    "y": 86
+  },
+  {
+    "date": "2010-12-08 00:00:00+00:00",
+    "delta": 380,
+    "description": {
+      "sl": "S travnatih vrhov na grebenu ju\u017eno od Polhovega Gradca boste imeli lep razgled na Ljubljansko kotlino in Polhograjsko hribovje.",
+      "en": null
+    },
+    "duration": 2.5,
+    "height": 729,
+    "lead": "M_2-2216_IMG.JPG",
+    "name": "Korena",
+    "title": {
+      "sl": "Korena nad Horjulom",
+      "en": "Korena nad Horjulom"
+    },
+    "x": 445,
+    "y": 99
+  },
+  {
+    "date": "2005-01-30 00:00:00+00:00",
+    "delta": 460,
+    "description": {
+      "sl": "Severno nad dolino Idrijce se nasproti \u0160ebreljski planoti nad Reko dvigajo Rodne, razgleden travnat vrh s \u010dudovitim pogledom na okoli\u0161ko hribovje in greben Spodnjih Bohinjskih gora.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 698,
+    "lead": "M_1_2149.JPG",
+    "map": 1,
+    "name": "Rodne",
+    "title": {
+      "sl": "Rodne",
+      "en": "Rodne"
+    },
+    "x": 417,
+    "y": 110
+  },
+  {
+    "date": "2005-08-07 00:00:00+00:00",
+    "delta": 200,
+    "description": {
+      "sl": "Mala gora je razgledna travnata planota, stisnjena med strme apnen\u010daste stene, ki se zahodno od Ajdov\u0161\u010dine dvigujejo nad Vipavsko dolino, in nekoliko vi\u0161ji \u010caven.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 1034,
+    "lead": "M_5_2552.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1220",
+    "name": "MalaGora",
+    "peak": "45.922396,13.850510",
+    "region": "vipava",
+    "start": "45.928964,13.852867",
+    "title": {
+      "sl": "Mala gora",
+      "en": "Mala gora"
+    },
+    "x": 411,
+    "y": 87
+  },
+  {
+    "date": "2002-05-09 00:00:00+00:00",
+    "delta": 300,
+    "description": {
+      "sl": "Pekel je najlep\u0161i nekaj dni po obilnem de\u017eevju, ko ima Borovni\u0161\u010dica zadosti vode, pot pa ni ve\u010d blatna.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 650,
+    "name": "Borovniski_Pekel",
+    "title": {
+      "sl": "Pekel pri Borovnici",
+      "en": "Pekel pri Borovnici"
+    },
+    "x": 451,
+    "y": 83
+  },
+  {
+    "date": "2004-07-04 00:00:00+00:00",
+    "delta": 900,
+    "description": {
+      "sl": "Severno od planine Krstenica se v Bohinjskih gorah nad Fu\u017einskimi planinami dvigajo trije vrhovi, ki so jih zaradi njihovih oblike Bohinjci poimenovali kar po kozolcih (stogih). Na srednjega od njih se lahko povzpnete po lahko dostopni nemarkirani stezici.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 2040,
+    "lead": "M_5-6560_IMG.JPG",
+    "map": 1,
+    "name": "JezerskiStog",
+    "title": {
+      "sl": "Jezerski Stog",
+      "en": "Jezerski Stog"
+    },
+    "x": 411,
+    "y": 133
+  },
+  {
+    "date": "2007-06-03 00:00:00+00:00",
+    "delta": 200,
+    "description": {
+      "sl": "\u010ce je Javor\u010d \u017eirovska \u0160marna gora, so Goropeke zagotovo \u017eirovski Ro\u017enik. Prijeten polurni vzpon vas pripelje na vrh Gorope\u0161kega gri\u010da, s katerega se odpre lep razgled vse do Triglava. Za gri\u010dem se sredi zaselka skriva cerkvica svetega Janeza ... le gostilne ni poleg cerkve; planinski dom ti\u010di na robu gozda onkraj travnikov.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 1.5,
+    "height": 698,
+    "lead": "M_0_00742.JPG",
+    "map": 1,
+    "name": "Goropeke",
+    "title": {
+      "sl": "Goropeke",
+      "en": "Goropeke"
+    },
+    "x": 432,
+    "y": 100
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2007-05-20 00:00:00+00:00",
+    "delta": 723,
+    "description": {
+      "sl": "Nanos je visoka kra\u0161ka planota, ki jo poznamo predvsem po Ple\u0161i (1262 m) in njeni Vojkovi ko\u010di (1240 m), manj znani pa so drugi njegovi vrhov. Pogled na zemljevid poka\u017ee, da vodi markirana pot samo \u0161e na Suhi vrh, najvi\u0161jo to\u010dko Nanosa.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 1313,
+    "lead": "M_007051810.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/1022",
+    "name": "SuhiVrh",
+    "peak": "45.798405,14.066979",
+    "photo_author": "Mojca_Lustrek",
+    "start": "45.797993,14.119475",
+    "title": {
+      "sl": "Suhi vrh na Nanosu",
+      "en": "Suhi vrh on Nanos"
+    },
+    "x": 428,
+    "y": 73
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2007-10-21 00:00:00+00:00",
+    "delta": 1002,
+    "description": {
+      "sl": "Str\u00e9lovec  je zadnji pomembnej\u0161i vrh v grebenu Ojstrica\u2013Krofi\u010dka\u2013Robanov kot.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 1763,
+    "name": "Strelovec",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Strelovec",
+      "en": "Strelovec"
+    },
+    "x": 474,
+    "y": 139
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2006-11-19 00:00:00+00:00",
+    "delta": 1436,
+    "description": {
+      "sl": "Sleme je travnat vrh v vzhodnih martulj\u0161kih gorah. Pot nanj je \u0161e posebno privla\u010dna jeseni, ko pozlatijo macesni na lepi Vrta\u0161ki planini, \u010dez katero se vzpnemo nanj.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 2077,
+    "lead": "M_006111906.jpg",
+    "name": "Sleme",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Sleme",
+      "en": "Sleme"
+    },
+    "x": 414,
+    "y": 146
+  },
+  {
+    "date": "2004-09-12 00:00:00+00:00",
+    "delta": 950,
+    "description": {
+      "sl": "Med izleti na \u010caven ima tisti iz Stoma\u017ea zagotovo najbolj razgledno izhodi\u0161\u010de, saj je vasica stisnjena visoko pod pobo\u010dje \u010cavna in tako ponuja obiskovalcu razgled po vsej Vipavski dolini.",
+      "en": null
+    },
+    "duration": 4,
+    "height": 1242,
+    "lead": "M_7_1797.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/32492",
+    "multilead": "M_7_1797.JPG",
+    "multipath": true,
+    "name": "Caven/Stomaz",
+    "peak": "45.928964,13.852867",
+    "region": "vipava",
+    "start": "45.899641,13.856601",
+    "title": {
+      "sl": "\u010caven iz Stoma\u017ea",
+      "en": "\u010caven from Stoma\u017e"
+    }
+  },
+  {
+    "date": "2006-11-26 00:00:00+00:00",
+    "delta": 580,
+    "description": {
+      "sl": "Po pobo\u010djih \u010cavna se od Predmeje pa vsaj do Vitovelj vije polo\u017ena, tu in tam zelo razgledna dobro uhojena pot, ki je ne boste na\u0161li na nobenem zemljevidu.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1242,
+    "lead": "M_0_00616.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1062",
+    "multilead": "M_0_00616.JPG",
+    "multipath": true,
+    "name": "Caven/Srednja",
+    "peak": "45.928964,13.852867",
+    "region": "vipava",
+    "start": "45.937787,13.869216",
+    "title": {
+      "sl": "Na \u010caven po Srednje\u010davenski poti",
+      "en": "\u010caven from Predmeja"
+    }
+  },
+  {
+    "date": "2003-12-14 00:00:00+00:00",
+    "delta": 1080,
+    "description": {
+      "sl": "Tudi v zimskih dneh si lahko brez posebne opreme privo\u0161\u0107imo dolge vzpone - na primer iz Lokavca do Doma na \u010cavnu",
+      "en": null
+    },
+    "duration": 5,
+    "height": 1242,
+    "lastmod": "2021-02-13 10:15:00",
+    "lead": "M_2_0291.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/32565",
+    "multilead": "M_2_0291.JPG",
+    "multipath": true,
+    "name": "Caven/Lokavec",
+    "peak": "45.928964,13.852867",
+    "region": "vipava",
+    "start": "45.902378,13.881665",
+    "title": {
+      "sl": "\u010caven iz Lokavca",
+      "en": "\u010caven from Lokavec near Ajdov\u0161\u010dina"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Severozahodno od Ajdov\u0161\u010dine se nad son\u010dno in toplo Vipavsko dolino vzpenjajo strme skalnate stene \u010cavna, grebena, ki na ju\u017eni strani omejuje Trnovski gozd.",
+      "en": null
+    },
+    "height": 1242,
+    "lead": "M_2_0264.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1062",
+    "name": "Caven",
+    "peak": "45.928964,13.852867",
+    "region": "vipava",
+    "title": {
+      "sl": "\u010caven",
+      "en": "\u010caven"
+    },
+    "x": 412,
+    "y": 88
+  },
+  {
+    "date": "2007-09-09 00:00:00+00:00",
+    "delta": 800,
+    "description": {
+      "sl": "Mali Dra\u0161ki vrh je najte\u017eje dostopen vrh v grebenu jugozahodno od Krme. Nanj vodi le slabo vidna stezica s Srenjskega prevala, dostop na zahodni vrh pa zahteva tudi malce plezalskega znanja.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 2132,
+    "lead": "M_0_00606.JPG",
+    "map": 1,
+    "name": "MaliDraskiVrh",
+    "title": {
+      "sl": "Mali Dra\u0161ki vrh",
+      "en": "Mali Dra\u0161ki vrh"
+    },
+    "x": 415,
+    "y": 136
+  },
+  {
+    "date": "2020-11-17 00:00:00+00:00",
+    "delta": 320,
+    "description": {
+      "sl": "Naslednji\u010d, ko bo Slovenija spet ovita v oblake in meglo, na Primorskem pa bo sijalo sonce, se povzpnite na Kuk, razgleden hrib nad Hrastovljami, od koder boste imeli lep razgled na Istro in Slavnik.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 507,
+    "lead": "M_8-3867_IMG.JPG",
+    "name": "Kuk",
+    "title": {
+      "sl": "Kuk nad Hrastovljami",
+      "en": "Kuk nad Hrastovljami"
+    },
+    "x": 415,
+    "y": 38
+  },
+  {
+    "date": "2003-11-23 00:00:00+00:00",
+    "delta": 620,
+    "description": {
+      "sl": "To\u0161\u010d je najizrazitej\u0161i vrh v Polhograjskem hribovju.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4,
+    "height": 1021,
+    "lead": "M_2-6242.JPG",
+    "map": 1,
+    "name": "Tosc",
+    "title": {
+      "sl": "To\u0161\u010d iz Ma\u010dkovega grabna",
+      "en": "To\u0161\u010d - ascent through Ma\u010dkov graben"
+    },
+    "x": 448,
+    "y": 106
+  },
+  {
+    "date": "2004-12-19 00:00:00+00:00",
+    "delta": 270,
+    "description": {
+      "sl": "Severno od Vrtovina, vasi med Ajdov\u0161\u010dino in Novo Gorico, se na pobo\u010djih Kuclja nad Vipavsko dolino dviga zanimiva razgledna planotasta vzpetina s cerkvico sv. Pavla.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 498,
+    "lead": "M_1_2136.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/2669",
+    "name": "SkoljSvPavla",
+    "peak": "45.909096,13.810788",
+    "region": "vipava",
+    "start": "45.9016051,13.8146674",
+    "title": {
+      "sl": "\u0160kolj sv. Pavla",
+      "en": "Saint Paul above Vrtovin"
+    },
+    "x": 408,
+    "y": 86
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2008-05-25 00:00:00+00:00",
+    "delta": 740,
+    "description": {
+      "sl": "Kamnik je precej slikovit hrib, malo drzen; zaradi skalnatega vrha in prepadnih pe\u010din, v katerih se preizku\u0161ajo tudi plezalci, si ime kar zaslu\u017ei. Hom  je bolj pohleven, a ponuja lepe razglede.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 856,
+    "lead": "M_008052305.jpg",
+    "name": "Kamnik",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Kamnik in Hom",
+      "en": "Kamnik and Hom"
+    },
+    "x": 510,
+    "y": 118
+  },
+  {
+    "date": "2003-02-02 00:00:00+00:00",
+    "delta": 290,
+    "description": {
+      "sl": "Kojnik je polo\u017een vrh v grebenu nad Kra\u0161kim robom ju\u017eno od Slavnika. Podobno kot s Slavnika boste imeli tudi s Kojnika lep razgled na slovensko morje in Istro.",
+      "en": null
+    },
+    "duration": 4,
+    "height": 802,
+    "lead": "M_0-4054_IMG.JPG",
+    "name": "Kojnik",
+    "title": {
+      "sl": "Na Kojnik iz Podgorja",
+      "en": "Kojnik from Podgorje"
+    },
+    "x": 418,
+    "y": 40
+  },
+  {
+    "date": "2005-03-19 00:00:00+00:00",
+    "delta": 400,
+    "description": {
+      "sl": "Visoko nad prepadnimi stenami borovni\u0161kega Pekla le\u017ei na robu gri\u010devnate kra\u0161ke planote Meni\u0161ije s soncem obsijana vas Pokoji\u0161\u010de.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 732,
+    "lead": "M_2_2241.JPG",
+    "map": 1,
+    "name": "Pokojisce",
+    "title": {
+      "sl": "Pokoji\u0161\u010de",
+      "en": "Pokoji\u0161\u010de"
+    },
+    "x": 450,
+    "y": 84
+  },
+  {
+    "author": "Gregor_Skok",
+    "date": "2007-02-04 00:00:00+00:00",
+    "delta": 1019,
+    "description": {
+      "sl": "Pot iz Zidanega Mosta je ena najlep\u0161ih in tudi najmanj obljudenih poti na Kum. Izlet \u0161e popestri pre\u010dkanje Save z malo ro\u010dno nihajko (seveda na lastno odgovornost).",
+      "en": null
+    },
+    "duration": 6.5,
+    "height": 1220,
+    "lead": "M_010046.JPG",
+    "multilead": "M_010046.JPG",
+    "multipath": true,
+    "name": "Kum/ZidaniMost",
+    "photo_author": "Gregor_Skok",
+    "title": {
+      "sl": "Kum iz Zidanega Mosta",
+      "en": "Kum from Zidani Most"
+    }
+  },
+  {
+    "author": "Gregor_Skok",
+    "date": "2007-04-01 00:00:00+00:00",
+    "delta": 1010,
+    "description": {
+      "sl": "Pot na Kum iz Trbovelj po \u010cebulovi dolini je ena lep\u0161ih, vendar zaradi velike vi\u0161inske razlike malo obljudena.",
+      "en": null
+    },
+    "duration": 6.5,
+    "height": 1220,
+    "lead": "M_010055.JPG",
+    "multilead": "M_010055.JPG",
+    "multipath": true,
+    "name": "Kum/Trbovlje",
+    "photo_author": "Gregor_Skok",
+    "title": {
+      "sl": "Kum iz Trbovelj",
+      "en": "Kum from Trbovlje"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Kum je eden najlep\u0161ih in s svojimi 1220 m tudi najvi\u0161ji vrh zasavsko-posavskega pogorja. Zgoraj je gol in ob lepem vremenu ponuja odli\u010den razgled na vse strani Slovenije.",
+      "en": null
+    },
+    "height": 1220,
+    "lead": "M_010055.JPG",
+    "name": "Kum",
+    "title": {
+      "sl": "Kum",
+      "en": "Kum"
+    },
+    "x": 506,
+    "y": 105
+  },
+  {
+    "date": "2004-05-30 00:00:00+00:00",
+    "delta": 890,
+    "description": {
+      "sl": "Severno od Jesenic se v grebenu Karavank dviguje Golica, travnat vrh, znamenit predvsem zaradi gorskih narcis, ki se v maju razcvetijo na njegovih ju\u017enih pobo\u010djih.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 1835,
+    "lead": "M_2_1262.JPG",
+    "map": 1,
+    "name": "Golica",
+    "title": {
+      "sl": "Golica",
+      "en": "Golica"
+    },
+    "x": 428,
+    "y": 150
+  },
+  {
+    "date": "2010-12-22 00:00:00+00:00",
+    "delta": 450,
+    "description": {
+      "sl": "Hoja po neozna\u010denih poteh po hribovju nad Planino pri Rakeku je v zimskem \u010dasu \u0161e posebej zanimiva.",
+      "en": null
+    },
+    "duration": 4,
+    "height": 937,
+    "lead": "M_1-4119_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/5751",
+    "name": "Oblenk",
+    "peak": "45.834089,14.213203",
+    "start": "45.825786,14.236644",
+    "title": {
+      "sl": "Iz Planine na Petri\u010dev hrib (Oblenk)",
+      "en": "Iz Planine na Petri\u010dev hrib (Oblenk)"
+    },
+    "x": 439,
+    "y": 77
+  },
+  {
+    "date": "2008-02-17 00:00:00+00:00",
+    "delta": 900,
+    "description": {
+      "sl": "\u010ce se radi povzpnete na Kucelj nad Vipavsko dolino, in ste iz\u010drpali \u017ee ve\u010dino drugih mo\u017enosti, si pot iz Vrtovina podalj\u0161ajte z obiskom \u0160kolja svetega Pavla.",
+      "en": null
+    },
+    "duration": 5,
+    "height": 1237,
+    "lead": "M_0_10275.JPG",
+    "maplink": "https://mapzs.projekti.si/path/32602",
+    "multilead": "M_0_10275.JPG",
+    "multipath": true,
+    "name": "Kucelj/svPavel",
+    "peak": "45.928761,13.825091",
+    "region": "vipava",
+    "start": "45.909515,13.818130",
+    "title": {
+      "sl": "Na Kucelj mimo \u0160kolja svetega Pavla",
+      "en": "Kucelj via Saint Paul's \u0161kolj"
+    }
+  },
+  {
+    "date": "2003-08-03 00:00:00+00:00",
+    "delta": 570,
+    "description": {
+      "sl": "Vzpon na Kucelj iz Predmeje je prijeten, ne prete\u017eak izlet, ki v za\u010detku te\u010de po sen\u010dnem bukovem gozdu, od Doma na \u010cavnu pa prete\u017eno po cveto\u010dih kra\u0161kih travnikih.",
+      "en": null
+    },
+    "duration": 3.5,
+    "height": 1237,
+    "lead": "M_5-6505_IMG.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31049",
+    "multilead": "M_5-6505_IMG.JPG",
+    "multipath": true,
+    "name": "Kucelj/Predmeja",
+    "peak": "45.928761,13.825091",
+    "region": "vipava",
+    "start": "45.946729,13.870261",
+    "title": {
+      "sl": "Kucelj iz Predmeje",
+      "en": "Kucelj from Predmeja"
+    }
+  },
+  {
+    "date": "2005-12-18 00:00:00+00:00",
+    "delta": 1100,
+    "description": {
+      "sl": "Vzpon na Kucelj (ali do Doma na \u010cavnu) iz Vrtovina je verjetno eden najdalj\u0161ih v tem delu Slovenije, saj se pot za\u010dne \u010disto na dnu Vipavske doline.",
+      "en": null
+    },
+    "duration": 6.5,
+    "height": 1237,
+    "lastmod": "2021-02-13 10:19:00",
+    "lead": "M_1_2128.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/32602",
+    "multilead": "M_1_2128.JPG",
+    "multipath": true,
+    "name": "Kucelj/Vrtovin",
+    "peak": "45.928761,13.825091",
+    "region": "vipava",
+    "start": "45.9016051,13.8146674",
+    "title": {
+      "sl": "Kucelj iz Vrtovina",
+      "en": "Kucelj from Vrtovin"
+    },
+    "x": 0,
+    "y": 0
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Kucelj je najvi\u0161ji vrh v grebenu, ki severo-zahodno od Ajdov\u0161\u010dine s strmimi stenami lo\u010duje Vipavsko dolino od Trnovske planote.",
+      "en": null
+    },
+    "height": 1237,
+    "lead": "M_4-6459_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/5257",
+    "name": "Kucelj",
+    "peak": "45.928761,13.825091",
+    "region": "vipava",
+    "title": {
+      "sl": "Kucelj na \u010cavnu",
+      "en": "Kucelj"
+    },
+    "x": 409,
+    "y": 88
+  },
+  {
+    "date": "2005-10-30 00:00:00+00:00",
+    "delta": 1070,
+    "description": {
+      "sl": "Vzhodno od Ljubelja se v glavnem grebenu Karavank prav na meji z Avstrijo dviguje skorajda 2000 metrov visoka Ko\u0161utica, precej osamljen vrh, ki ga Hajn\u017eevo sedlo lo\u010di od glavnega grebena Ko\u0161ute.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 1968,
+    "lead": "M_5_2583.JPG",
+    "map": 1,
+    "name": "Kosutica",
+    "title": {
+      "sl": "Ko\u0161utica",
+      "en": "Ko\u0161utica"
+    },
+    "x": 447,
+    "y": 144
+  },
+  {
+    "date": "2004-07-25 00:00:00+00:00",
+    "delta": 240,
+    "description": {
+      "sl": "Visoko nad Poljansko dolino stoji na razglednem vrhu nad Zmincem sveti O\u017ebolt, najvi\u0161e le\u017ee\u010da cerkev na tem grebenu, izpred katere se odpre \u010dudovit razgled na Polhograjsko in \u0160kofjelo\u0161ko hribovje.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 859,
+    "lead": "M_0_1008.JPG",
+    "map": 1,
+    "name": "svOzbolt",
+    "title": {
+      "sl": "Sveti O\u017ebolt nad Zmincem",
+      "en": "Saint Ozbolt above Zminec"
+    },
+    "x": 445,
+    "y": 108
+  },
+  {
+    "date": "2006-02-05 00:00:00+00:00",
+    "delta": 150,
+    "description": {
+      "sl": "V Tamar, ledeni\u0161ko dolino pod Poncami, se je lepo odpraviti v vseh letnih \u010dasih, najlep\u0161e pa je morda pozimi, ko se Planica in Tamar spremenita v pravo zimsko pravljico.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 1106,
+    "lead": "M_010051.JPG",
+    "name": "Tamar",
+    "photo_author": "Tina_diBatista",
+    "title": {
+      "sl": "Tamar",
+      "en": "Tamar"
+    },
+    "x": 401,
+    "y": 145
+  },
+  {
+    "date": "2003-04-27 00:00:00+00:00",
+    "delta": 770,
+    "description": {
+      "sl": "Izlet v Kropo lahko zdru\u017eimo tudi z vzponom na enega od okoli\u0161kih pobo\u010dij \u2013 od enournega sprehoda na Jamnik do peturne kro\u017ene poti po pobo\u010djih okoli Krope.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 1300,
+    "lead": "M_0-5007_IMG.JPG",
+    "map": 1,
+    "name": "Jamnik_Vodice",
+    "title": {
+      "sl": "Jamnik in Vodi\u0161ka planina nad Kropo",
+      "en": "Jamnik and Vodice from Kropa"
+    },
+    "x": 437,
+    "y": 127
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "V gozdovih med Logatcem in Colom boste na\u0161li ostanke rimske utrdbe in gostilno, o kateri pi\u0161e \u017ee Valvazor."
+    },
+    "dirty": true,
+    "height": 873,
+    "lead": "M_2-3254_IMG.JPG",
+    "title": {
+      "sl": "Stara po\u0161ta na Hru\u0161ici"
+    },
+    "x": 431,
+    "y": 80
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2005-07-24 00:00:00+00:00",
+    "delta": 1020,
+    "description": {
+      "sl": "Goli vrh je najvi\u0161ji vrh jugovzhodnega dela vr\u0161ne planote Menine, imenovanega \u0160avnice (tudi \u0160\u010davnice). Ta lepi, opazni vrh je zelo razgleden in prav vabi k sebi, pa vendar ni posebno obiskan. \u010ce nimate radi gne\u010de, vam bo gotovo v\u0161e\u010d.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4.5,
+    "height": 1426,
+    "lead": "M_01103.jpg",
+    "name": "GoliVrh_Savnice",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Goli vrh na \u0160avnicah",
+      "en": "Goli vrh on \u0160avnice"
+    },
+    "x": 490,
+    "y": 123
+  },
+  {
+    "date": "2005-05-01 00:00:00+00:00",
+    "delta": 900,
+    "description": {
+      "sl": "Le nekaj kilometrov pred Jezerskim se zahodno od doline Kokre skriva redko obiskan Kozji vrh, ki ga Stor\u017ei\u010d uspe\u0161no skriva pred ve\u010dino Slovencev.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4,
+    "height": 1628,
+    "lead": "M_00020.jpg",
+    "map": 1,
+    "name": "KozjiVrh",
+    "title": {
+      "sl": "Kozji vrh",
+      "en": "Kozji vrh"
+    },
+    "x": 458,
+    "y": 136
+  },
+  {
+    "date": "2005-10-16 00:00:00+00:00",
+    "delta": 150,
+    "description": {
+      "sl": "Najzahodnej\u0161i slovenski vrh v grebenu \u010crnih hribov ju\u017eno od Vipavske doline je Cerje, neugledna vzpetina, ki bi jo komaj opazili, \u010de ne bi bili pred nekaj leti na njej postavili ogromnega \u00bbobrambnega stolpa\u00ab.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 1.5,
+    "height": 343,
+    "lead": "M_6_2633.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5196",
+    "name": "Cerje",
+    "peak": "45.872442,13.615999",
+    "region": "vipava",
+    "start": "45.873359,13.593190",
+    "title": {
+      "sl": "Cerje",
+      "en": "Cerje"
+    },
+    "x": 393,
+    "y": 82
+  },
+  {
+    "date": "2006-08-20 00:00:00+00:00",
+    "delta": 900,
+    "description": {
+      "sl": "Vzpon na Veliki Dra\u0161ki vrh, predzadnji vrh v grebenu jugovzhodno od Krme, je eno najla\u017ejih brezpotij v Julijskih Alpah.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 2243,
+    "lead": "M_0_3195.JPG",
+    "map": 1,
+    "name": "VelikiDraskiVrh",
+    "title": {
+      "sl": "Veliki Dra\u0161ki vrh",
+      "en": "Veliki Dra\u0161ki vrh"
+    },
+    "x": 414,
+    "y": 136
+  },
+  {
+    "date": "2004-09-26 00:00:00+00:00",
+    "delta": 530,
+    "description": {
+      "sl": "\u010ce vas ne moti pogled na sede\u017enice, si lahko po smu\u010di\u0161\u010dih Krvavca in Zvoha privo\u0161\u010dite prijeten nekajurni dru\u017einski izlet.",
+      "en": null
+    },
+    "duration": 2.5,
+    "height": 1971,
+    "lead": "M_8_1858.JPG",
+    "map": 1,
+    "name": "Zvoh",
+    "title": {
+      "sl": "Krvavec in Zvoh",
+      "en": "Krvavec and Zvoh"
+    },
+    "x": 464,
+    "y": 129
+  },
+  {
+    "date": "2004-09-05 00:00:00+00:00",
+    "delta": 290,
+    "description": {
+      "sl": "\u010ce bi se radi sprehajali po visokogorskih travnikih, niso pa vam v\u0161e\u010d ozke stezice ali skalnate poti, po katerih se navadno vzpenjamo v slovenskih gorah, vam bo morda v\u0161e\u010d \u010crni vrh nad Cerknim.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 1.5,
+    "height": 1288,
+    "lead": "M_4_1410.JPG",
+    "map": 1,
+    "name": "CrniVrhCerkno",
+    "title": {
+      "sl": "\u010crni vrh nad Cerknim",
+      "en": "\u010crni vrh above Cerkno"
+    },
+    "x": 428,
+    "y": 114
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "delta": 50,
+    "description": {
+      "sl": "Samotorica in Korena sta zaselka tik pod grebenom hribovja med Horjulom in Polhovim gradcem. Ob grebenu te\u010de markirana razgledna pot, kot nala\u0161\u010d za prijeten nedeljski izlet, ki ga lahko dodatno popestrimo s kosilom na enem od kme\u010dkih turizmov na Koreni.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2.5,
+    "height": 729,
+    "lead": "M_8-4852_IMG.JPG",
+    "map": 1,
+    "name": "Korena_Samotorica",
+    "title": {
+      "sl": "S Samotorice do Korene",
+      "en": "Korena from Samotorica"
+    },
+    "x": 444,
+    "y": 99
+  },
+  {
+    "date": "2003-03-30 00:00:00+00:00",
+    "delta": 300,
+    "description": {
+      "sl": "Pedrovo je kra\u0161ka vasica, stisnjena v pobo\u010dje \u010crnih hribov visoko nad Branikom, z razgledom na Vipavsko dolino, Trnovski gozd in Nanos.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 380,
+    "lead": "M_4-4488_IMG.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/55911",
+    "name": "Pedrovo",
+    "peak": "45.856958,13.762335",
+    "region": "vipava",
+    "title": {
+      "sl": "Iz Branika na Pedrovo",
+      "en": "Branik - Pedrovo"
+    },
+    "x": 404,
+    "y": 80
+  },
+  {
+    "date": "2003-03-23 00:00:00+00:00",
+    "delta": 440,
+    "description": {
+      "sl": "Gora Oljka je kra\u0161ki osamelec nad severo-vzhodnim robom Savinjske doline. Na njej so 18. stoletju postavili veli\u010dastno romarsko cerkev sv. Kri\u017ea, ki z zna\u010dilnim profilom dveh zvonikov pritegne pogled popotnika po celotni Savinjski dolini.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4,
+    "height": 733,
+    "lead": "M_7-4784_IMG.JPG",
+    "map": 1,
+    "name": "GoraOljka_Polzela",
+    "title": {
+      "sl": "Gora Oljka iz Polzele",
+      "en": "Gora Oljka from Polzela"
+    },
+    "x": 505,
+    "y": 131
+  },
+  {
+    "date": "2003-08-17 00:00:00+00:00",
+    "delta": 1040,
+    "description": {
+      "sl": "\u010crna prst je razgleden vrh v grebenu Spodnjih Bohinjskih gora",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 1844,
+    "lead": "M_6-6688_IMG.JPG",
+    "map": 1,
+    "name": "CrnaPrst",
+    "title": {
+      "sl": "\u010crna prst",
+      "en": "\u010crna prst"
+    },
+    "x": 418,
+    "y": 121
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2006-04-09 00:00:00+00:00",
+    "delta": 860,
+    "description": {
+      "sl": "Goli vrh je sto\u017eec med Ravensko in Belsko Ko\u010dno \u0161e v Kamni\u0161ko-Savinjskih Alpah, a se \u017ee spogleduje s Karavankami. Iz gozdnatih pobo\u010dij \u0161trli gola konica, s katere je razko\u0161en razgled na vse strani.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4.5,
+    "height": 1787,
+    "lead": "M_006040100.jpg",
+    "name": "GoliVrhJezersko",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Goli vrh nad Jezerskim",
+      "en": "Goli vrh near Jezersko"
+    },
+    "x": 465,
+    "y": 139
+  },
+  {
+    "date": "2008-03-16 00:00:00+00:00",
+    "delta": 550,
+    "description": {
+      "sl": "\u010ce vam je vzpon na Kovk s Cola prekratek, se odpravite nanj iz Vipavske doline, bolj natan\u010dno s ceste Ajdov\u0161\u010dina\u2013Col.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 961,
+    "lead": "M_0_00679.JPG",
+    "multipath": true,
+    "multilead": "M_0_00679.JPG",
+    "name": "Kovk/Budanje",
+    "title": {
+      "sl": "Kovk iz Vipavske doline",
+      "en": "Kovk from Vipava Valley"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Kovk je najbolj jugovzhodni vrh Gore, planote, ki se visoko nad Vipavsko dolino dviga vzhodno od Ajdov\u0161\u010dine.",
+      "en": null
+    },
+    "height": 961,
+    "lead": "M_4_1434.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1288",
+    "name": "Kovk",
+    "peak": "45.887981,13.969153",
+    "region": "vipava",
+    "title": {
+      "sl": "Kovk nad Colom",
+      "en": "Kovk above Col"
+    },
+    "x": 420,
+    "y": 83
+  },
+  {
+    "date": "2004-06-27 00:00:00+00:00",
+    "delta": 320,
+    "description": {
+      "sl": "Kovk je najbolj jugovzhodni vrh Gore, planote, ki se visoko nad Vipavsko dolino dviga vzhodno od Ajdov\u0161\u010dine.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 961,
+    "lead": "M_4_1434.JPG",
+    "map": 1,
+    "multilead": "M_4_1448.JPG",
+    "multipath": true,
+    "name": "Kovk/Col",
+    "title": {
+      "sl": "Na Kovk s Cola",
+      "en": "Kovk from Col"
+    }
+  },
+  {
+    "date": "2004-04-25 00:00:00+00:00",
+    "delta": 200,
+    "description": {
+      "sl": "Kratek sprehod vas bo iz Gradi\u0161\u010da popeljal do cerkvice visoko nad Vipavsko dolino",
+      "en": null
+    },
+    "duration": 2,
+    "height": 445,
+    "lead": "M_9_0910.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1661",
+    "name": "svMiklavz_Vipava",
+    "peak": "45.819506,13.982114",
+    "region": "vipava",
+    "start": "45.832270,13.971014",
+    "title": {
+      "sl": "Sveti Miklav\u017e nad Vipavsko dolino",
+      "en": "Saint Nicholas above Vipava valley"
+    },
+    "x": 421,
+    "y": 76
+  },
+  {
+    "date": "2002-11-03 00:00:00+00:00",
+    "delta": 220,
+    "description": {
+      "sl": "Na La\u010dno je iz Kubeda speljana prijetna grebenska pot, ki vas tu in tam razveseli z razgledi na morje in Julijske Alpe, jeseni pa boste na njej nedvomno u\u017eivali v obilici ruja.",
+      "en": null
+    },
+    "duration": 2.5,
+    "height": 451,
+    "lead": "M_7-3711_IMG.JPG",
+    "map": 1,
+    "multilead": "M_7-3711_IMG.JPG",
+    "multipath": true,
+    "name": "Lacna/Kubed",
+    "title": {
+      "sl": "La\u010dna iz Kubeda",
+      "en": "La\u010dna from Kubed"
+    }
+  },
+  {
+    "date": "2007-02-18 00:00:00+00:00",
+    "delta": 150,
+    "description": {
+      "sl": "Iz Gra\u010di\u0161\u010da, vasi na ju\u017enih obronkih La\u010dne, tik ob glavni cesti proti Hrva\u0161ki, je do vrha La\u010dne speljana kratka razgledna pot, ki je kot nala\u0161\u010d za dru\u017einski nedeljski izlet.",
+      "en": null
+    },
+    "duration": 1.5,
+    "height": 451,
+    "lead": "M_1_2873.JPG",
+    "multilead": "M_1_2873.JPG",
+    "map": 1,
+    "multipath": true,
+    "name": "Lacna/Gracisce",
+    "title": {
+      "sl": "La\u010dna iz Gra\u010di\u0161\u010da",
+      "en": "La\u010dna from Gra\u010di\u0161\u010de"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "Tisti, ki ste se odpravili v hrva\u0161ko Istro po cesti mimo Buzeta, La\u010dno \u017ee poznate;  je najvi\u0161ji vrh grebena, ki vas na levi strani spremlja med zadnjimi kilometri ceste proti Hrva\u0161ki meji. Z razglednega stolpa na vrhu vas \u010daka \u010dudovit pogled na okoli\u0161ka hribovja.",
+      "en": null
+    },
+    "height": 451,
+    "lead": "M_1_2849.JPG",
+    "name": "Lacna",
+    "title": {
+      "sl": "La\u010dna",
+      "en": "La\u010dna"
+    },
+    "x": 413,
+    "y": 41
+  },
+  {
+    "date": "2008-01-20 00:00:00+00:00",
+    "delta": 290,
+    "description": {
+      "sl": "Na La\u010dno je iz Hrastovelj speljana markirana pot, ki vam omogo\u010da zanimive kro\u017ene izlete.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 451,
+    "lead": "M_0_2891.JPG",
+    "multilead": "M_0_2891.JPG",
+    "map": 1,
+    "multipath": true,
+    "name": "Lacna/Hrastovlje",
+    "title": {
+      "sl": "La\u010dna iz Hrastovelj",
+      "en": "La\u010dna from Hrastovlje"
+    }
+  },
+  {
+    "date": "2006-02-26 00:00:00+00:00",
+    "delta": 410,
+    "description": {
+      "sl": "Visoko nad Trstom se na robu kra\u0161ke planote nad vasico Socerb dviga istoimenski grad, izpred katerega se odpira \u010dudovit razgled na Tr\u017ea\u0161ki zaliv in slovensko Istro.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 437,
+    "lead": "M_7_7717.JPG",
+    "map": 1,
+    "name": "Socerb",
+    "title": {
+      "sl": "Od Ospa do Socerba",
+      "en": "From Osp to Socerb"
+    },
+    "x": 411,
+    "y": 50
+  },
+  {
+    "date": "2003-08-24 00:00:00+00:00",
+    "delta": 460,
+    "description": {
+      "sl": "Kljub temu, da na Gorjancih, gozdnatem pobo\u010dju, ki se ju\u017eno od Novega mesta dviguje tik ob meji s Hrva\u0161ko, vedno primanjkuje vode, boste nekje na sredini pobo\u010dja, tam kjer apnenec zamenjajo nepropustne (predvsem laporne) kamnine, na\u0161li vrsto studencev, med katerimi je najznamenitej\u0161a Gospodi\u010dna, katere voda naj bi prina\u0161ala ve\u010dno mladost. \n",
+      "en": null
+    },
+    "duration": 2.5,
+    "height": 828,
+    "lead": "M_7-6715_IMG.JPG",
+    "map": 1,
+    "name": "Gospodicna",
+    "title": {
+      "sl": "Gospodi\u010dna",
+      "en": "Gospodi\u010dna spring in Gorjanci"
+    },
+    "x": 523,
+    "y": 69
+  },
+  {
+    "date": "2007-06-17 00:00:00+00:00",
+    "delta": 150,
+    "description": {
+      "sl": "\u010ce so vam v\u0161e\u010d kra\u0161ki travniki okoli Goli\u010da ali Vrem\u0161\u010dice, boste na Volovji rebri, grebenu, ki se vzhodno od Ilirske Bistrice zlagoma dviga proti sne\u017eni\u0161kim gozdovom, nedvomno u\u017eivali.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 1099,
+    "lead": "M_0_10053.JPG",
+    "map": 1,
+    "name": "VolovjaReber",
+    "title": {
+      "sl": "Volovja reber",
+      "en": "Volovja reber"
+    },
+    "x": 446,
+    "y": 50
+  },
+  {
+    "date": "2008-06-08 00:00:00+00:00",
+    "delta": 820,
+    "description": {
+      "sl": "Tik pod grebenom Karavank vas \u010daka tiha\nrazgledna planina Se\u010da, na katero pripelje markirana pot iz Javorni\u0161kega Rovta.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4,
+    "height": 1698,
+    "lead": "M_0_00559.JPG",
+    "map": 1,
+    "name": "PlaninaSeca",
+    "title": {
+      "sl": "Planina Se\u010da",
+      "en": "Se\u010da meadow"
+    },
+    "x": 434,
+    "y": 147
+  },
+  {
+    "date": "2004-06-20 00:00:00+00:00",
+    "delta": 770,
+    "description": {
+      "sl": "Nad Stahovico se v predgorju Kamni\u0161kih Alp dviga strm Kamni\u0161ki vrh, enostavno dostopen po razglednih ju\u017enih travnatih pobo\u010djih.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4,
+    "height": 1259,
+    "lead": "M_0_1090.jpg",
+    "map": 1,
+    "name": "KamniskiVrh",
+    "title": {
+      "sl": "Kamni\u0161ki vrh",
+      "en": "Kamni\u0161ki vrh"
+    },
+    "x": 468,
+    "y": 127
+  },
+  {
+    "date": "2003-05-18 00:00:00+00:00",
+    "delta": 250,
+    "description": {
+      "sl": "Trojica je zaselek okoli razglednega vrha na obronkih Posavskega hribovja z istoimensko cerkvijo sv. Trojice.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 530,
+    "map": 1,
+    "name": "svTrojica_Dob",
+    "title": {
+      "sl": "Trojica nad Dobom",
+      "en": "Holy Trinity above Dob"
+    },
+    "x": 475,
+    "y": 109
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "delta": 360,
+    "description": {
+      "sl": "Vzpon na \u0160pico iz Starega malna bo najlep\u0161i sredi poletja, ko vas bo del poti spremljal prijazno \u017eubore\u010d hladen potok.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 735,
+    "lead": "M_5-4556_IMG.JPG",
+    "multipath": true,
+    "multilead": "M_5-4537_IMG.JPG",
+    "name": "Spica/SM",
+    "title": {
+      "sl": "Planina od Starega malna",
+      "en": "Planina from Stari maln"
+    }
+  },
+  {
+    "date": "2006-04-23 00:00:00+00:00",
+    "delta": 420,
+    "description": {
+      "sl": "Pot na Planino iz Kurje vasi je nedvomno najbolj prometna pot na vrhni\u0161ko \u00bbhi\u0161no goro\u00ab.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 735,
+    "multipath": true,
+    "multilead": "M_5-4545_IMG.JPG",
+    "name": "Spica/KV",
+    "title": {
+      "sl": "Planina iz Kurje vasi",
+      "en": "Planina from Kurja vas"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "delta": 70,
+    "description": {
+      "sl": "Vzpon na Planino z zgornje Zaplane je nedvomno najkraj\u0161i in najbolj polo\u017een vzpon na Planino in zato primeren tudi za bolj lenobne sprehajalce.",
+      "en": null
+    },
+    "duration": 1.5,
+    "height": 735,
+    "multipath": true,
+    "multilead": "M_7-3754_IMG.JPG",
+    "name": "Spica/ZZ",
+    "title": {
+      "sl": "Na Planino z zgornje Zaplane",
+      "en": "Planina from Zaplana"
+    }
+  },
+  {
+    "date": "1900-01-01 00:00:00+00:00",
+    "delta": 210,
+    "description": {
+      "sl": "Vzpon na Planino od kme\u010dkega turizma na Kurenu je idealen nedeljski izlet, ki ga boste verjetno zdru\u017eili s kosilom na Kurenu.",
+      "en": null
+    },
+    "duration": 1.5,
+    "height": 735,
+    "multipath": true,
+    "multilead": "M_0-3032_IMG.JPG",
+    "name": "Spica/KR",
+    "title": {
+      "sl": "Na Planino s Kurena",
+      "en": "Planina from Kuren"
+    }
+  },
+  {
+    "date": "2003-02-09 00:00:00+00:00",
+    "description": {
+      "sl": "\u0160pica je razgleden ju\u017eni vrh grebena Planine, ki lo\u010duje Zaplano od Ljubljanske kotline in Vrhniki najbli\u017eji hrib, na katerega se je res vredno povzpeti.",
+      "en": null
+    },
+    "height": 735,
+    "lead": "M_5-4556_IMG.JPG",
+    "name": "Spica",
+    "title": {
+      "sl": "Planina nad Vrhniko",
+      "en": "Planina nad Vrhniko"
+    },
+    "x": 442,
+    "y": 92
+  },
+  {
+    "date": "2003-11-16 00:00:00+00:00",
+    "delta": 740,
+    "description": {
+      "sl": "Javorniki so idealna izletni\u0161ka to\u010dka za tiste, ki i\u0161\u010dete nekoliko bolj zahtevne jesenske ali zimske vzpone in bolj u\u017eivate v vremenskih te\u017eavah kot v lepih razgledih",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4.5,
+    "height": 1268,
+    "lead": "M_2_0258.JPG",
+    "map": 1,
+    "name": "Javorniki",
+    "title": {
+      "sl": "Javorniki nad Cerkni\u0161kim jezerom",
+      "en": "Javorniki over lake Cerknica"
+    },
+    "x": 445,
+    "y": 68
+  },
+  {
+    "date": "2002-06-16 00:00:00+00:00",
+    "delta": 540,
+    "description": {
+      "sl": "V lepem zgodnje-poletnem dnevu se spla\u010da odpraviti v \u010darovni\u0161ke kraje - na Slivnico. Do\u017eiveli boste lepe razglede, videli obilico ro\u017e, tudi redko kranjsko lilijo, pa tudi zbirali\u0161\u010de \u010darovnic - \u010darovni\u0161ko jamo.",
+      "en": "Hiking or biking to Slivnica is always a pleasant experience -- we love snowy meadows in the winters, summer flowers on those same meadows in the summer, or the cool shade of the beech forest while biking to the top... and then there's the view of [Lake Cerknica](https://www.notranjski-park.si/en/nature/natural-sights/lake-cerknica)."
+    },
+    "duration": 2.5,
+    "height": 1114,
+    "lead": "M_3-1364_IMG.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/5679",
+    "name": "Slivnica",
+    "peak": "45.7899991,14.3990229",
+    "start": "45.792868,14.367291",
+    "title": {
+      "sl": "\u010carovni\u0161ka Slivnica",
+      "en": "Slivnica above Lake Cerknica"
+    },
+    "video": "https://www.relive.cc/view/vQvy1dzE8Kv/",
+    "x": 454,
+    "y": 72
+  },
+  {
+    "date": "2002-10-13 00:00:00+00:00",
+    "delta": 210,
+    "description": {
+      "sl": "Naslednji\u010d ko vas bo pot zanesla v bli\u017eino Se\u017eane ali Lipice, se ustavite v Lokvi in si privo\u0161\u010dite prijeten sprehod na bli\u017enjo Koko\u0161.\n",
+      "en": "Koko\u0161 is one of the summits in the hill range separating Se\u017eana Karst (more accurately Lokavsko polje) from the Gulf of Trieste. These hills are crisscrossed with hiking paths and cycling tracks, making them ideal for spring and autumn walks.\n"
+    },
+    "duration": 2.5,
+    "height": 670,
+    "lead": "M_3-3392_IMG.JPG",
+    "name": "Kokos",
+    "title": {
+      "sl": "Koko\u0161 nad Lokvijo",
+      "en": "Koko\u0161 from Lokev"
+    },
+    "x": 415,
+    "y": 56
+  },
+  {
+    "date": "2003-03-02 00:00:00+00:00",
+    "delta": 540,
+    "description": {
+      "sl": "Trstelj je najvi\u0161ji, razgleden vrh v grebenu \u010crnih hribov, ki lo\u010duje Vipavsko dolino od Kra\u0161ke planote.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 643,
+    "lead": "M_0-4079_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/path/31945",
+    "name": "Trstelj_Dornberk",
+    "peak": "45.857869,13.703780",
+    "region": "vipava",
+    "start": "45.883553,13.737850",
+    "title": {
+      "sl": "Na Trstelj iz Dornberka",
+      "en": "Trstelj from Dornberk"
+    },
+    "x": 400,
+    "y": 80
+  },
+  {
+    "date": "2007-04-15 00:00:00+00:00",
+    "delta": 200,
+    "description": {
+      "sl": "V strmih grapah na ju\u017enih pobo\u010djih Bohorja boste na\u0161li vrsto nizkih, a zato ni\u010d manj lepih slapov.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 480,
+    "lead": "M_2-5210_IMG.JPG",
+    "map": 1,
+    "name": "podBohorjem",
+    "title": {
+      "sl": "Slapovi pod Bohorjem",
+      "en": "Waterfalls near Bohor"
+    },
+    "x": 533,
+    "y": 100
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2007-09-30 00:00:00+00:00",
+    "delta": 440,
+    "description": {
+      "sl": "Planina Klemen\u010da jama, imenovana tudi Spodnja jama (Zgornja jama je vi\u0161e pod Ojstrico) ali Klemen\u0161kova planina le\u017ei pod severno steno Ojstrice. Do nje lahko pridete po ve\u010d markiranih poteh iz Logarske doline.\n",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1208,
+    "lead": "M_X07090701.jpg",
+    "name": "KlemencaJama",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Klemen\u010da jama",
+      "en": "Klemen\u010da jama"
+    },
+    "x": 472,
+    "y": 137
+  },
+  {
+    "date": "2006-09-24 00:00:00+00:00",
+    "delta": 290,
+    "description": {
+      "sl": "Severovzhodno od Roga\u0161ke Slatine se skoraj na meji s Hrva\u0161ko dviga eden zadnjih vrhov Karavank \u2013 Dona\u010dka gora.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 884,
+    "lead": "M_2_3240.JPG",
+    "map": 1,
+    "name": "DonackaGora",
+    "title": {
+      "sl": "Dona\u010dka gora",
+      "en": "Dona\u010dka gora"
+    },
+    "x": 558,
+    "y": 125
+  },
+  {
+    "date": "2003-06-08 00:00:00+00:00",
+    "delta": 770,
+    "description": {
+      "sl": "Mrzlica (1122m) je eden najvi\u0161jih vrhov severnega dela Posavskega hribovja s \u010dudovitim razgledom od Kamni\u0161kih alp do Trdinovega vrha.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 5,
+    "height": 1122,
+    "lead": "M_7-5732_img.jpg",
+    "map": 1,
+    "name": "Mrzlica",
+    "title": {
+      "sl": "Mrzlica iz Prebolda",
+      "en": "Mrzlica from Prebold"
+    },
+    "x": 509,
+    "y": 116
+  },
+  {
+    "date": "2003-12-07 00:00:00+00:00",
+    "delta": 1000,
+    "description": {
+      "sl": "Veliki Rogatec je najvi\u0161ji vrh v grebenu med dolino Drete in Podvolovjekom.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 1577,
+    "lead": "M_4_0409.JPG",
+    "map": 1,
+    "name": "VelikiRogac",
+    "title": {
+      "sl": "Veliki Rogatec",
+      "en": "Veliki Rogatec from Gornji Grad"
+    },
+    "x": 480,
+    "y": 131
+  },
+  {
+    "date": "2006-01-29 00:00:00+00:00",
+    "delta": 400,
+    "description": {
+      "sl": "Le malokdo ve, da je so\u0161ka fronta, ki nam je najbolj znana po svojih ostankih z gora okoli Tolmina, Kobarida in Bovca, segala tudi na slovenski Kras, kjer je dana\u0161njim popotnikom zapustila razvejeno omre\u017eje kolovozov in makadamskih cest, po katerih lahko obiskujemo kra\u0161ke travnike in borove gozdi\u010de.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 4.5,
+    "height": 463,
+    "lead": "M_0_1023.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31618",
+    "name": "CrniHribi",
+    "peak": "45.868196,13.642593",
+    "region": "karst",
+    "title": {
+      "sl": "\u010crni hribi: od meje z Italijo do Ren\u0161kega vrha",
+      "en": "\u010crni hribi: from Italian border to Ren\u010de peak"
+    },
+    "x": 396,
+    "y": 80
+  },
+  {
+    "date": "2004-03-14 00:00:00+00:00",
+    "delta": 350,
+    "description": {
+      "sl": "Do Lipanskega vrha, od koder se odpre \u010dudovit pogled na Triglav, bomo s planine Lipanca potrebovali manj kot uro.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 1974,
+    "lead": "M_9-6909_IMG.JPG",
+    "map": 1,
+    "name": "LipanskiVrh",
+    "title": {
+      "sl": "Lipanski vrh in Mre\u017ece",
+      "en": "Lipanski vrh and Mre\u017ece"
+    },
+    "x": 417,
+    "y": 138
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2006-10-08 00:00:00+00:00",
+    "delta": 1200,
+    "description": {
+      "sl": "\u010ceprav je Konj tako v starem kot v novem vodniku po Kamni\u0161ko-Savinjskih Alpah omenjen le kot vmesna postaja na poti h Kocbekovemu domu na Koro\u0161ici, je tudi sam zase prav lep cilj.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 1803,
+    "lead": "M_0_2070.JPG",
+    "name": "Konj",
+    "title": {
+      "sl": "Konj iz doline",
+      "en": "Konj"
+    },
+    "x": 472,
+    "y": 132
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2006-05-14 00:00:00+00:00",
+    "delta": 630,
+    "description": {
+      "sl": "Ko se vam bo sv. Jo\u0161t priljubil, poskusite \u0161e dalj\u0161o razli\u010dico vzpona z Vranskega.\n",
+      "en": null
+    },
+    "duration": 4,
+    "height": 935,
+    "multipath": true,
+    "lead": "M_006050905.jpg",
+    "multilead": "M_006050905.jpg",
+    "name": "svJost/Vransko",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Sveti Jo\u0161t z Vranskega",
+      "en": "Saint Jost from Vransko"
+    }
+  },
+  {
+    "date": "2006-01-15 00:00:00+00:00",
+    "delta": 210,
+    "description": {
+      "sl": "Vzpon do svetega Jo\u0161ta s prevala Lipa je prijeten dru\u017einski izlet.",
+      "en": null
+    },
+    "duration": 1,
+    "height": 935,
+    "lead": "M_6_2609.JPG",
+    "multilead": "M_6_2609.JPG",
+    "map": 1,
+    "multipath": true,
+    "name": "svJost/Lipa",
+    "title": {
+      "sl": "Sveti Jo\u0161t s prevala Lipa",
+      "en": "Saint Jost from Lipa"
+    }
+  },
+  {
+    "date": "2006-01-15 00:00:00+00:00",
+    "description": {
+      "sl": "Sveti Jo\u0161t je priljubljen izletni\u0161ki cilj na ju\u017enem pobo\u010dju \u0160entjo\u0161kega vrha (1077 m), najvi\u0161jega vrha Dobrovelj.\n",
+      "en": null
+    },
+    "height": 935,
+    "lead": "M_6_2617.JPG",
+    "name": "svJost",
+    "title": {
+      "sl": "Sveti Jo\u0161t nad Vranskim",
+      "en": "Saint Jost near Vransko"
+    },
+    "x": 493,
+    "y": 124
+  },
+  {
+    "date": "2006-11-05 00:00:00+00:00",
+    "delta": 180,
+    "description": {
+      "sl": "Na tekmovanju za najbolj odro\u010dno istrsko vasico bi Abitanti, zaselek na razglednem grebenu med dolinama Malinske in Miklinice, skoraj zagotovo zmagali.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 418,
+    "lead": "M_1_10002.JPG",
+    "map": 1,
+    "name": "Abitanti",
+    "title": {
+      "sl": "Abitanti",
+      "en": "Abitanti"
+    },
+    "x": 408,
+    "y": 33
+  },
+  {
+    "date": "2004-04-04 00:00:00+00:00",
+    "delta": 330,
+    "description": {
+      "sl": "Obronki Br\u017eanije skrivajo slikovite stare kra\u0161ke vasice, makadamske poti in kolovozi pa nas vodijo po zanimivi me\u0161anici tal, kjer stalno prehajamo s fli\u0161a na apnen\u010daste kra\u0161ke travnike in nazaj.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3.5,
+    "height": 450,
+    "lead": "M_7_0721.JPG",
+    "map": 1,
+    "name": "HrastovljeZazid",
+    "title": {
+      "sl": "Obronki Br\u017eanije: od Hrastovelj do Zazida",
+      "en": "Br\u017eanija from Hrastovlje to Zazid"
+    },
+    "x": 417,
+    "y": 40
+  },
+  {
+    "date": "2004-04-11 00:00:00+00:00",
+    "delta": 420,
+    "description": {
+      "sl": "\u010ce se \u017eelite po\u0161teno prepotiti, bo izlet na Polhograjsko goro kar pravi - 400 metrov vi\u0161inske razlike prehodite po precej strmi poti v manj kot eni uri. Poleg izbolj\u0161ane kondicije boste v lepih dneh nagrajeni tudi s \u010dudovitim razgledom z vrha, pozorni popotniki pa bodo opazili \u0161e vrsto zanimivih ro\u017e.",
+      "en": null
+    },
+    "duration": 2.5,
+    "height": 824,
+    "lead": "M_8-6900_IMG.JPG",
+    "map": 1,
+    "name": "PolhograjskaGora",
+    "title": {
+      "sl": "Polhograjska Gora",
+      "en": "Polhograjska Gora"
+    },
+    "x": 446,
+    "y": 103
+  },
+  {
+    "date": "2002-10-06 00:00:00+00:00",
+    "delta": 413,
+    "description": {
+      "sl": "Pot v Vipavsko dolino po stari rimski cesti mimo Stare po\u0161te na Hru\u0161ici lahko zdru\u017eite z izletom na sv. Duh in Kri\u017eno goro nad le nekaj kilometrov oddaljenim Podkrajem.",
+      "en": null
+    },
+    "duration": 3,
+    "height": 1213,
+    "lead": "M_3-3357_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/path/31642",
+    "name": "svDuh_Podkraj",
+    "peak": "45.871767,14.062456",
+    "start": "45.863916,14.062982",
+    "title": {
+      "sl": "Sv. Duh in Kri\u017ena gora nad Podkrajem",
+      "en": "Sv. Duh in Kri\u017ena gora nad Podkrajem"
+    },
+    "x": 427,
+    "y": 82
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2005-06-12 00:00:00+00:00",
+    "delta": 1200,
+    "description": {
+      "sl": "Peca je druga najvi\u0161ja gora severnih Karavank, le 14 m ni\u017eja od najvi\u0161jega Obirja; zaradi njene mogo\u010dnosti ni \u010dudno, da ravno v njej spi kralj Matja\u017e.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 6,
+    "height": 2125,
+    "lead": "M_50608015.jpg",
+    "name": "Peca",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Peca",
+      "en": "Peca"
+    },
+    "x": 483,
+    "y": 150
+  },
+  {
+    "title": {
+      "sl": "Izleti po Sloveniji",
+      "en": "Hiking in Slovenia"
+    },
+    "layout": "top",
+    "description": {
+      "sl": null,
+      "en": null
+    }
+  },
+  {
+    "date": "2004-10-24 00:00:00+00:00",
+    "delta": 480,
+    "description": {
+      "sl": "Severno od Bohinjskega jezera se dviguje strm greben, v katerem bo vsak obiskovalec Bohinja hitro opazil Vogar, najbolj vzhodni vrh.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 1054,
+    "lead": "M_9_1910.JPG",
+    "map": 1,
+    "name": "Vogar",
+    "title": {
+      "sl": "Vogar",
+      "en": "Vogar"
+    },
+    "x": 413,
+    "y": 129
+  },
+  {
+    "date": "2005-05-07 00:00:00+00:00",
+    "delta": 250,
+    "description": {
+      "sl": "Vzhodno od Pivke se na obronkih Javornikov dviga razgledni vrh Svete Trojice, pod katerim naj bi le\u017eal legendarni Vrh od Svete Trojice, dom Martina Krpana.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 2,
+    "height": 1106,
+    "lead": "M_3_2393.jpg",
+    "map": 1,
+    "name": "SvetaTrojica",
+    "title": {
+      "sl": "Sveta Trojica v Krpanovi de\u017eeli",
+      "en": "Saint Trinity"
+    },
+    "x": 444,
+    "y": 65
+  },
+  {
+    "date": "2010-12-15 00:00:00+00:00",
+    "delta": 220,
+    "description": {
+      "sl": "\u010ce ste se odlo\u010dili, da boste nedeljsko kosilo v gostilni z odli\u010dno doma\u010do hrano zdru\u017eili s kraj\u0161im sprehodom, je Kuren nad Staro Vrhniko skoraj idealen izbor.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 520,
+    "lead": "M_0-3048_img.jpg",
+    "name": "Kuren",
+    "title": {
+      "sl": "Kuren",
+      "en": "Kuren"
+    },
+    "x": 444,
+    "y": 93
+  },
+  {
+    "date": "2003-04-13 00:00:00+00:00",
+    "delta": 350,
+    "description": {
+      "sl": "Brunk je zaselek na razglednem vrhu ju\u017eno od Rade\u010d s cerkvico sv. Treh kraljev. Izpred cerkve boste v lepem vremenu videli ve\u010dino Posavskega hribovja, vklju\u010dno s Kumom, Lisco in Bohorjem, na jugu pa bo pogled segel vse do Gorjancev.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 557,
+    "lead": "M_8-4819_IMG.JPG",
+    "map": 1,
+    "name": "Brunk",
+    "title": {
+      "sl": "Brunk iz Hoteme\u017ea",
+      "en": "Brunk iz Hoteme\u017ea"
+    },
+    "x": 514,
+    "y": 99
+  },
+  {
+    "date": "2010-11-24 00:00:00+00:00",
+    "delta": 280,
+    "description": {
+      "sl": "Z vrha nad Trebnjim boste imeli lep razgled na dolino Temenice in Mirne ter na dolenjsko hribovje, vse do Kuma.",
+      "en": null
+    },
+    "duration": 2,
+    "height": 581,
+    "lead": "M_6-3650_IMG.JPG",
+    "name": "TrebnjiVrh",
+    "title": {
+      "sl": "Trebnji vrh",
+      "en": "Trebnji vrh"
+    },
+    "x": 500,
+    "y": 83
+  },
+  {
+    "author": "Mojca_Lustrek",
+    "date": "2006-06-11 00:00:00+00:00",
+    "delta": 510,
+    "description": {
+      "sl": "Med vo\u017enjo po spodnji Savinjski dolini ste morda na jugu \u017ee kdaj opazili nenavaden \u0161tirioglat \u010dok, ki se dviga vzhodno od nekaj vi\u0161je (spodobno grebensko oblikovane) \u010cem\u0161eni\u0161ke planine. Ta \u010dok ima poleg popolnoma nepri\u010dakovane oblike \u0161e stra\u0161ljivo ime (Krvavica), na njegovem vzhodnem in zahodnem pobo\u010dju pa boste na\u0161li tudi previsne stene nenavadne rde\u010de barve, \u010dez katere naj bi bili pahnili legendarno Veroniko Deseni\u0161ko.",
+      "en": null
+    },
+    "dirty": true,
+    "duration": 3,
+    "height": 909,
+    "lead": "M_0_3015.JPG",
+    "map": 1,
+    "name": "Krvavica",
+    "photo_author": "Mojca_Lustrek",
+    "title": {
+      "sl": "Krvavica",
+      "en": "Krvavica"
+    },
+    "x": 500,
+    "y": 117
+  }
+]

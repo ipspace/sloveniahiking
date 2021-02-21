@@ -17,7 +17,10 @@ image:
 - M_1-3120_IMG.JPG
 layout: stub
 lead: M_1-3162_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/3908
 name: svLovrenc
+peak: 45.839190,14.168374
+start: 45.835079,14.154237
 title: Sv. Lovrenc nad Postojno
 x: 436
 y: 78

@@ -1,5 +1,5 @@
 ---
-date: '2006-07-09T00:00:00'
+date: 2006-07-09 00:00:00+00:00
 delta: 250
 description: Dolski maj je najbolj zahodna razgledna vzpetina na robu Gore, planote
   med Predmejo in Colom severno od Vipavske doline.
@@ -16,7 +16,11 @@ image:
 - path_1.gif
 lead: M_003074.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/36608
 name: DolskiMaj
+peak: 45.933692,13.893652
+region: vipava
+start: 45.943531,13.876619
 title: Dolski maj
 x: 414
 y: 88

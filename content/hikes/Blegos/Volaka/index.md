@@ -5,7 +5,7 @@ description: Vzpon na Blegoš iz doline Volaščice je zagotovo najbolj intenziv
   na Blegoš iz Poljanske doline. Višinska razlika je le za 130 metrov manjša, kot
   če bi se na Blegoš odpravili iz Hotavelj, pot pa se že takoj zagrize v strma pobočja
   pod Blegošem.
-duration: 4.5
+duration: 5
 height: 1562
 image:
 - M_4_0464.JPG
