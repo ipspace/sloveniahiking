@@ -15,7 +15,10 @@ image:
 layout: stub
 lead: M_2_2830.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/4207
 name: Padna
+peak: 45.491149,13.689970
+start: 45.494227,13.677033
 title: From Padna to st. Peter
 x: 397
 y: 39

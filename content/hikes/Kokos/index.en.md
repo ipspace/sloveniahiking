@@ -9,7 +9,10 @@ description: 'Kokoš is one of the summits in the hill range separating Sežana 
 duration: 2.5
 height: 670
 lead: M_3-3392_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/531
 name: Kokos
+peak: 45.644495,13.899890
+start: 45.661064,13.927977
 title: Kokoš from Lokev
 x: 415
 y: 56

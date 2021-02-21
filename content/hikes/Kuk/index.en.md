@@ -21,7 +21,10 @@ image:
 - M_8-3867_IMG.JPG
 layout: stub
 lead: M_8-3867_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/1575
 name: Kuk
+peak: 45.485013,13.917515
+start: 45.509500,13.900605
 title: Kuk nad Hrastovljami
 x: 415
 y: 38

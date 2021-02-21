@@ -1,5 +1,5 @@
 ---
-date: '2004-11-21T00:00:00'
+date: 2004-11-21 00:00:00+00:00
 delta: 500
 description: 'Jugovzhodno od Slavnika se v grebenu Slavniškega pogorja tik ob meji
   s Hrvaško dvigajo štirje tisočaki, ki za nekaj metrov presegajo dosti bolj znani
@@ -19,7 +19,11 @@ image:
 - M_9_2000.JPG
 - M_0_2002.JPG
 lead: M_9_1992.JPG
+maplink: https://mapzs.projekti.si/poi/1203
 name: Ostric
+peak: 45.491474,14.073402
+region: istria
+start: 45.505571,14.056139
 title: Ostrič in Medvižica
 x: 428
 y: 39

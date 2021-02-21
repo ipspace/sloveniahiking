@@ -1,5 +1,5 @@
 ---
-date: '2006-11-05T00:00:00'
+date: 2006-11-05 00:00:00+00:00
 delta: 180
 description: Na tekmovanju za najbolj odročno istrsko vasico bi Abitanti, zaselek
   na razglednem grebenu med dolinama Malinske in Miklinice, skoraj zagotovo zmagali.
@@ -15,6 +15,9 @@ image:
 lead: M_1_10002.JPG
 map: 1
 name: Abitanti
+peak: 45.436224,13.825319
+region: istria
+start: 45.458375,13.850126
 title: Abitanti
 x: 408
 y: 33

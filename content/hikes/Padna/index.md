@@ -1,5 +1,5 @@
 ---
-date: '2006-12-17T00:00:00'
+date: 2006-12-17 00:00:00+00:00
 delta: 360
 description: Le nekaj kilometrov vzhodno od Piranskega zaliva se v slovenski Istri
   dviguje močno razbrazdano Šavrinsko gričevje, bogato z rekami in potočki, ki so
@@ -20,7 +20,11 @@ image:
 - path_1.gif
 lead: M_2_2830.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/4207
 name: Padna
+peak: 45.491149,13.689970
+region: istria
+start: 45.494227,13.677033
 title: Od Padne do Sv. Petra
 x: 397
 y: 39

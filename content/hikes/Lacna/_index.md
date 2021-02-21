@@ -9,7 +9,10 @@ image:
 - M_1_2849.JPG
 - Panorama_vzhod.jpg
 lead: M_1_2849.JPG
+maplink: https://mapzs.projekti.si/poi/1656
 name: Lacna
+peak: 45.504969,13.885283
+region: istria
 title: Lačna
 x: 413
 y: 41

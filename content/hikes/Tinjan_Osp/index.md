@@ -1,5 +1,5 @@
 ---
-date: '2003-04-20T00:00:00'
+date: 2003-04-20 00:00:00+00:00
 delta: 340
 description: Tinjan je zadnji razgledni hrib, ki ga slovenska planinska pot obišče
   preden se dokončno spusti do morja v bližini Ankarana.
@@ -15,7 +15,11 @@ image:
 - alt.gif
 lead: M_7-4705_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1827
 name: Tinjan_Osp
+peak: 45.561375,13.835055
+region: istria
+start: 45.571298,13.857212
 title: Tinjan iz Ospa
 x: 409
 y: 47

@@ -1,5 +1,5 @@
 ---
-date: '2004-04-04T00:00:00'
+date: 2004-04-04 00:00:00+00:00
 delta: 330
 description: Obronki Bržanije skrivajo slikovite stare kraške vasice, makadamske poti
   in kolovozi pa nas vodijo po zanimivi mešanici tal, kjer stalno prehajamo s fliša
@@ -23,7 +23,11 @@ image:
 - alt.gif
 lead: M_7_0721.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31057
 name: HrastovljeZazid
+peak: 45.500573,13.932688
+region: istria
+start: 45.509500,13.900605
 title: 'Obronki Bržanije: od Hrastovelj do Zazida'
 x: 417
 y: 40

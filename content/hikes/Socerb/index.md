@@ -1,5 +1,5 @@
 ---
-date: '2006-02-26T00:00:00'
+date: 2006-02-26 00:00:00+00:00
 delta: 410
 description: Visoko nad Trstom se na robu kraške planote nad vasico Socerb dviga istoimenski
   grad, izpred katerega se odpira čudovit razgled na Tržaški zaliv in slovensko Istro.
@@ -17,7 +17,11 @@ image:
 - path_1.gif
 lead: M_7_7717.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1693
 name: Socerb
+peak: 45.589477,13.860844
+region: istria
+start: 45.571298,13.857212
 title: Od Ospa do Socerba
 x: 411
 y: 50

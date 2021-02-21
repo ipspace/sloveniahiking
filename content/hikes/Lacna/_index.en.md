@@ -6,7 +6,9 @@ image:
 - Panorama_vzhod.jpg
 layout: stub
 lead: M_1_2849.JPG
+maplink: https://mapzs.projekti.si/poi/1656
 name: Lacna
+peak: 45.504969,13.885283
 title: Lačna
 x: 413
 y: 41
