@@ -283,7 +283,7 @@
     "name": "SkrbinaKuk",
     "title": {
       "sl": "\u0160krbina in Kuk",
-      "en": "\u0160krbina in Kuk"
+      "en": "\u0160krbina and Kuk"
     },
     "x": 411,
     "y": 106
@@ -582,7 +582,7 @@
     "name": "svVid_Catez",
     "title": {
       "sl": "Sv. Vid nad \u010cate\u017eem",
-      "en": "Sv. Vid nad \u010cate\u017eem"
+      "en": "St. Vid above \u010cate\u017e"
     },
     "x": 547,
     "y": 82
@@ -820,7 +820,7 @@
     "name": "PolhograjskaGrmada/Ravnek",
     "title": {
       "sl": "Polhograjska Grmada \u010dez Ravnek",
-      "en": "Polhograjska grmada - ascent through Ravnek"
+      "en": "Polhograjska Grmada through Ravnek"
     }
   },
   {
@@ -954,7 +954,7 @@
     "name": "BukovVrh",
     "title": {
       "sl": "Bukov vrh in Vinharje nad Poljanami",
-      "en": "Bukov vrh in Vinharje nad Poljanami"
+      "en": "Bukov vrh and Vinharje"
     },
     "x": 439,
     "y": 107
@@ -1389,7 +1389,7 @@
     "name": "MrzliVrh_Ziri",
     "title": {
       "sl": "Mrzli vrh nad \u017dirmi",
-      "en": "Mrzli vrh nad \u017dirmi"
+      "en": "Mrzli vrh from \u017diri"
     },
     "x": 428,
     "y": 102
@@ -1477,7 +1477,7 @@
     "start": "45.571298,13.857212",
     "title": {
       "sl": "Tinjan iz Ospa",
-      "en": "Tinjan iz Ospa"
+      "en": "Tinjan from Osp"
     },
     "x": 409,
     "y": 47
@@ -1641,7 +1641,7 @@
     "name": "Vrsnik_Ziri",
     "title": {
       "sl": "Vrsnik nad \u017dirmi",
-      "en": "Vrsnik nad \u017dirmi"
+      "en": "Vrsnik above \u017diri"
     },
     "x": 430,
     "y": 98
@@ -1860,7 +1860,7 @@
     "start": "45.835079,14.154237",
     "title": {
       "sl": "Sv. Lovrenc nad Postojno",
-      "en": "Sv. Lovrenc nad Postojno"
+      "en": "St. Lovrenc near Postojna"
     },
     "x": 436,
     "y": 78
@@ -2001,7 +2001,7 @@
     "name": "Okreselj",
     "title": {
       "sl": "Iz Logarske doline na Okre\u0161elj",
-      "en": "Iz Logarske doline na Okre\u0161elj"
+      "en": "Okre\u0161elj From Logarska Valley"
     },
     "x": 469,
     "y": 136
@@ -2232,7 +2232,7 @@
     "name": "Korena",
     "title": {
       "sl": "Korena nad Horjulom",
-      "en": "Korena nad Horjulom"
+      "en": "Korena above Horjul"
     },
     "x": 445,
     "y": 99
@@ -2528,7 +2528,7 @@
     "start": "45.509500,13.900605",
     "title": {
       "sl": "Kuk nad Hrastovljami",
-      "en": "Kuk nad Hrastovljami"
+      "en": "Kuk near Hrastovlje"
     },
     "x": 415,
     "y": 38
@@ -2548,7 +2548,7 @@
     "name": "Tosc",
     "title": {
       "sl": "To\u0161\u010d iz Ma\u010dkovega grabna",
-      "en": "To\u0161\u010d - ascent through Ma\u010dkov graben"
+      "en": "To\u0161\u010d through Ma\u010dkov graben"
     },
     "x": 448,
     "y": 106
@@ -2732,7 +2732,7 @@
     "start": "45.825786,14.236644",
     "title": {
       "sl": "Iz Planine na Petri\u010dev hrib (Oblenk)",
-      "en": "Iz Planine na Petri\u010dev hrib (Oblenk)"
+      "en": "From Planina to Petri\u010dev hrib (Oblenk)"
     },
     "x": 439,
     "y": 77
@@ -3896,7 +3896,7 @@
     "start": "45.863916,14.062982",
     "title": {
       "sl": "Sv. Duh in Kri\u017ena gora nad Podkrajem",
-      "en": "Sv. Duh in Kri\u017ena gora nad Podkrajem"
+      "en": "Kri\u017ena gora above Podkraj"
     },
     "x": 427,
     "y": 82
@@ -4006,7 +4006,7 @@
     "name": "Brunk",
     "title": {
       "sl": "Brunk iz Hoteme\u017ea",
-      "en": "Brunk iz Hoteme\u017ea"
+      "en": "Brunk from Hoteme\u017e"
     },
     "x": 514,
     "y": 99

@@ -21,7 +21,7 @@ maplink: https://mapzs.projekti.si/poi/3908
 name: svLovrenc
 peak: 45.839190,14.168374
 start: 45.835079,14.154237
-title: Sv. Lovrenc nad Postojno
+title: St. Lovrenc near Postojna
 x: 436
 y: 78
 ---

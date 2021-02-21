@@ -28,7 +28,7 @@ maplink: https://mapzs.projekti.si/poi/5751
 name: Oblenk
 peak: 45.834089,14.213203
 start: 45.825786,14.236644
-title: Iz Planine na Petričev hrib (Oblenk)
+title: From Planina to Petričev hrib (Oblenk)
 x: 439
 y: 77
 ---

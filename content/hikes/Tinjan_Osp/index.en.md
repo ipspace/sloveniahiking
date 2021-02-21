@@ -18,7 +18,7 @@ name: Tinjan_Osp
 peak: 45.561375,13.835055
 region: istria
 start: 45.571298,13.857212
-title: Tinjan iz Ospa
+title: Tinjan from Osp
 x: 409
 y: 47
 ---

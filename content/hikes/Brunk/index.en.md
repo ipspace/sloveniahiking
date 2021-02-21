@@ -18,7 +18,7 @@ layout: stub
 lead: M_8-4819_IMG.JPG
 map: 1
 name: Brunk
-title: Brunk iz Hotemeža
+title: Brunk from Hotemež
 x: 514
 y: 99
 ---

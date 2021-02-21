@@ -3,35 +3,10 @@ date: 2010-12-08 00:00:00+00:00
 delta: 380
 duration: 2.5
 height: 729
-image:
-- M_2-2216_IMG.JPG
-- M_9-3960_IMG.JPG
-- M_9-3925_IMG.JPG
-- M_9-3969_IMG.JPG
-- M_9-3965_IMG.JPG
-- M_9-3968_IMG.JPG
-- M_9-3970_IMG.JPG
-- M_9-3972_IMG.JPG
-- M_9-3920_IMG.JPG
-- M_9-3919_IMG.JPG
-- M_9-3916_IMG.JPG
-- M_9-3923_IMG.JPG
-- M_9-3926_IMG.JPG
-- M_9-3924_IMG.JPG
-- M_9-3954_IMG.JPG
-- M_9-3928_IMG.JPG
-- M_9-3927_IMG.JPG
-- M_9-3932_IMG.JPG
-- M_9-3929_IMG.JPG
-- M_9-3964_IMG.JPG
-- M_9-3962_IMG.JPG
-- M_9-3963_IMG.JPG
-- M_9-3957_IMG.JPG
-- zemljevid.JPG
 layout: stub
 lead: M_2-2216_IMG.JPG
 name: Korena
-title: Korena nad Horjulom
+title: Korena above Horjul
 x: 445
 y: 99
 ---

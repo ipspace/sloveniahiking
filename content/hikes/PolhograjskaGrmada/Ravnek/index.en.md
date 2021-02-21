@@ -10,5 +10,5 @@ map: 1
 multilead: M_0-5074_IMG.JPG
 multipath: true
 name: PolhograjskaGrmada/Ravnek
-title: Polhograjska grmada - ascent through Ravnek
+title: Polhograjska Grmada through Ravnek
 ---

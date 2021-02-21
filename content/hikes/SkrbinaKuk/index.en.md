@@ -18,7 +18,7 @@ layout: stub
 lead: M_0_11251.JPG
 map: 1
 name: SkrbinaKuk
-title: Škrbina in Kuk
+title: Škrbina and Kuk
 x: 411
 y: 106
 ---

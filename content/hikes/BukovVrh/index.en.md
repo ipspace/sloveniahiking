@@ -22,7 +22,7 @@ layout: stub
 lead: M_5-4588_IMG.JPG
 map: 1
 name: BukovVrh
-title: Bukov vrh in Vinharje nad Poljanami
+title: Bukov vrh and Vinharje
 x: 439
 y: 107
 ---

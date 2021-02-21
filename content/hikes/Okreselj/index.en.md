@@ -8,7 +8,7 @@ lastmod: 2021-02-13 17:10:00
 layout: stub
 lead: M_6-1674_IMG.JPG
 name: Okreselj
-title: Iz Logarske doline na Okrešelj
+title: Okrešelj From Logarska Valley
 x: 469
 y: 136
 ---

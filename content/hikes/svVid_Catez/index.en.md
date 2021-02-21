@@ -21,7 +21,7 @@ layout: stub
 lead: M_1-5142_IMG.JPG
 map: 1
 name: svVid_Catez
-title: Sv. Vid nad Čatežem
+title: St. Vid above Čatež
 x: 547
 y: 82
 ---
