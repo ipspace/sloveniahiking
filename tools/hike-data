@@ -2,6 +2,7 @@
 #
 import cm.read
 import cm.write
+import cm.traverse
 
 from wc.config import config
 import sys
@@ -11,40 +12,124 @@ import argparse
 import readline
 
 def parse_cli():
-  parser = argparse.ArgumentParser(description='Import hikes from Zaplana.net')
-  parser.add_argument('data', nargs=1,action='store',help='Data file to fix')
-  parser.add_argument('--template',dest='template',action='store', \
+  parser = argparse.ArgumentParser(description='Update hike data based on a template')
+  parser.add_argument('data', nargs='*',action='store',help='Data file(s) to fix')
+  parser.add_argument('-x',dest='x',action='store',help='Select hikes by X (min,max)')
+  parser.add_argument('-y',dest='y',action='store',help='Select hikes by Y (min,max)')
+  parser.add_argument('--update',dest='update',action='store_true',help='Update hikes selected by bounding box')
+  parser.add_argument('--template','-t',dest='template',action='store', \
     default=os.path.dirname(__file__)+"/hikes-template.yaml", \
     help='Data template')
   return parser.parse_args()
 
-args = parse_cli()
-page_name = args.data[0]
-template  = cm.read.data(args.template)
+def read_template(t):
+  if not os.path.exists(t):
+    if not "/" in t:
+      t = os.path.dirname(__file__)+"/"+t
+      if not os.path.exists(t):
+        print("Cannot find template file %s" % t)
+        sys.exit(1)
+  return cm.read.data(t)
 
-page = cm.read.page(page_name)
+def update_items(page,parent_page=None,template={}):
+  print("Use q to quit, - to erase\n")
 
-for (k,v) in template.items():
-  page_v = page.get(k,v)
-  if isinstance(v,list):
-    print("Cannot handle list %s" % k)
+  for (k,v) in template.items():
+    page_v = page.get(k)
+    if isinstance(v,list):
+      print("Cannot handle list %s" % k)
+      if not page_v:
+        print("... setting parameter to default value")
+        page[k] = v
+        continue
+
+    if not isinstance(v,dict):
+      v = { 'default': v }
+
     if not page_v:
-      page_v = v
-  else:
-    result = input("%s (%s) ==> " % (k,page_v))
-    if result == "-":
+      page_v = v.get('default',None)
+      if (not page_v) and v.get('inherit'):
+        if isinstance(parent_page,dict):
+          page_v = parent_page.get(k,None)
+
+    if v.get('sample') and not page_v:
+      prompt = "%s (sample: %s) ==> " % (k,v.get('sample'))
+    else:
+      prompt = "%s (now: %s) ==> " % (k,page_v)
+
+    result = input(prompt)
+    if result == "q":
+      return
+    elif result == "-":
       page_v = None
     elif result != "":
-      if isinstance(v,int):
+      if isinstance(v.get('default'),int):
         page_v = cm.read.number(result)
       else:
         page_v = result
     else:
-      print("Kept %s at %s" % (k,page_v))
+      print("Kept %s at %s" % (k,page_v))      
 
-  page[k] = page_v
+    if v.get('despace') and isinstance(page_v,str):
+      page_v = page_v.replace(" ","")
 
-cm.write.create_output_file( \
-  data=page, \
-  target_path=os.path.dirname(page_name), \
-  name=os.path.basename(page_name).replace(".md",""))
+    page[k] = page_v
+    if page_v is None:
+      page.pop(k,None)
+
+  return page
+
+def update_hike_data(page_name=None,template=None):
+  page = cm.read.page(page_name)
+  page_yaml = yaml.dump(page)
+  parent = None
+  parent_name = os.path.dirname(page_name)+"/../_"+os.path.basename(page_name)
+  if os.path.exists(parent_name):
+    parent = cm.read.page(parent_name)
+
+  print("\n\nUpdating %s" % page_name)
+  print("=" * 80)
+  update_items(page,parent,template)
+
+  if yaml.dump(page) != page_yaml:
+    print("Changed data, updating data file...")
+    cm.write.create_output_file(data=page,file_path=page_name)
+
+def check_box(path,template,x_min=None,x_max=None,y_min=None,y_max=None):
+  page = cm.read.page(path)
+  if x_min and page.get('x',0) < x_min:
+    return
+  if x_max and page.get('x',9999) > x_max:
+    return
+  if y_min and page.get('y',0) < y_min:
+    return
+  if y_max and page.get('y',9999) > y_max:
+    return
+  print("Page %s selected by the bounding box (%d,%d)" % (path,page.get('x'),page.get('y')))
+  if args.update:
+    update_hike_data(path,template)
+
+def update_hike_box(x,y,template):
+  x_min = None
+  x_max = None
+  if x:
+    x_min = int(x.split(',')[0])
+    x_max = int(x.split(',')[1])
+
+  y_min = None
+  y_max = None
+  if y:
+    y_min = int(y.split(',')[0])
+    y_max = int(y.split(',')[1])
+
+  print("Selecting hikes in the bounding box %d/%d to %d/%d" % (x_min,y_min,x_max,y_max))
+  cm.traverse.walk(config['ExFilePath'],r'index\.md$',lambda path: check_box(path,template,x_min,x_max,y_min,y_max))
+
+args = parse_cli()
+template = read_template(args.template)
+
+if args.data:
+  for page_name in args.data:
+    update_hike_data(page_name,template)
+elif args.x or args.y:
+  update_hike_box(args.x,args.y,template)

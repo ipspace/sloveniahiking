@@ -1,5 +1,13 @@
 ---
-maplink: https://mapzs.projekti.si/poi/5679
-start: 45.792868,14.367291
-peak: 45.7899991,14.3990229
-region: vipava
+maplink:
+  sample: https://mapzs.projekti.si/poi/5679
+  inherit: true
+start:
+  sample: 45.792868,14.367291
+  despace: true
+peak:
+  sample: 45.7899991,14.3990229
+  despace: true
+  inherit: true
+region:
+  default: vipava
