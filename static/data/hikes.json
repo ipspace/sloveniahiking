@@ -11,7 +11,11 @@
     "height": 883,
     "lead": "M_5_2520.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/32452",
     "name": "Kavcic",
+    "peak": "45.471239,13.983605",
+    "region": "istria",
+    "start": "45.531420,13.947151",
     "title": {
       "sl": "Kav\u010di\u010d iz Podgorja",
       "en": "Kav\u010di\u010d"
@@ -103,7 +107,10 @@
       "en": "Slavnik is the highest peak of the Slavnik range, the last mountain range before the gentle slopes of Slovenian Istra. It\\'s also the last peak above 1000 meters visited by the Slovenian Mountain Hiking Trail."
     },
     "height": 1028,
+    "maplink": "https://mapzs.projekti.si/poi/1235",
     "name": "Slavnik",
+    "peak": "45.533685,13.975236",
+    "region": "istria",
     "title": {
       "sl": "Slavnik in Grmada",
       "en": "Slavnik"
@@ -485,7 +492,11 @@
     "duration": 3.5,
     "height": 1054,
     "lead": "M_9_1992.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1203",
     "name": "Ostric",
+    "peak": "45.491474,14.073402",
+    "region": "istria",
+    "start": "45.505571,14.056139",
     "title": {
       "sl": "Ostri\u010d in Medvi\u017eica",
       "en": "Ostri\u010d"
@@ -505,7 +516,11 @@
     "height": 804,
     "lead": "M_2_1203.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4193",
     "name": "Lipnik",
+    "peak": "45.479620,13.966214",
+    "region": "istria",
+    "start": "45.499389,13.931462",
     "title": {
       "sl": "Lipnik iz Zazida",
       "en": "Lipnik from Zazid"
@@ -579,7 +594,7 @@
       "sl": "Vzpon na Blego\u0161 iz doline Vola\u0161\u010dice je zagotovo najbolj intenziven vzpon na Blego\u0161 iz Poljanske doline. Vi\u0161inska razlika je le za 130 metrov manj\u0161a, kot \u010de bi se na Blego\u0161 odpravili iz Hotavelj, pot pa se \u017ee takoj zagrize v strma pobo\u010dja pod Blego\u0161em.",
       "en": "Want to check the view from Blego\u0161 but hate the crowds? Try the solitary hike from Volaka -- you'll rarely meet someone on the old footpaths in the first half of the ascent and might encounter a like-minded soul when your path merges with the road from Leskovica."
     },
-    "duration": 4.5,
+    "duration": 5,
     "height": 1562,
     "lead": "M_4_0493.JPG",
     "map": 1,
@@ -1391,7 +1406,11 @@
     "height": 280,
     "lead": "M_2_2830.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4207",
     "name": "Padna",
+    "peak": "45.491149,13.689970",
+    "region": "istria",
+    "start": "45.494227,13.677033",
     "title": {
       "sl": "Od Padne do Sv. Petra",
       "en": "From Padna to st. Peter"
@@ -1451,7 +1470,11 @@
     "height": 374,
     "lead": "M_7-4705_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1827",
     "name": "Tinjan_Osp",
+    "peak": "45.561375,13.835055",
+    "region": "istria",
+    "start": "45.571298,13.857212",
     "title": {
       "sl": "Tinjan iz Ospa",
       "en": "Tinjan iz Ospa"
@@ -1551,7 +1574,11 @@
     "height": 440,
     "lead": "M_9_2968.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1726",
     "name": "ZgornjiKras",
+    "peak": "45.601636,13.875859",
+    "region": "istria",
+    "start": "45.588664,13.866753",
     "title": {
       "sl": "Zgornji Kras",
       "en": "Upper Karst"
@@ -1871,7 +1898,11 @@
     "height": 890,
     "lead": "M_0_0030.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1384",
     "name": "Golic",
+    "peak": "45.486241,13.978104",
+    "region": "istria",
+    "start": "45.531420,13.947151",
     "title": {
       "sl": "Goli\u010d",
       "en": "Goli\u010d"
@@ -2490,7 +2521,11 @@
     "duration": 2,
     "height": 507,
     "lead": "M_8-3867_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1575",
     "name": "Kuk",
+    "peak": "45.485013,13.917515",
+    "region": "istria",
+    "start": "45.509500,13.900605",
     "title": {
       "sl": "Kuk nad Hrastovljami",
       "en": "Kuk nad Hrastovljami"
@@ -2573,7 +2608,11 @@
     "duration": 4,
     "height": 802,
     "lead": "M_0-4054_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/322",
     "name": "Kojnik",
+    "peak": "45.506877,13.951764",
+    "region": "istria",
+    "start": "45.531420,13.947151",
     "title": {
       "sl": "Na Kojnik iz Podgorja",
       "en": "Kojnik from Podgorje"
@@ -3234,7 +3273,10 @@
     },
     "height": 451,
     "lead": "M_1_2849.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1656",
     "name": "Lacna",
+    "peak": "45.504969,13.885283",
+    "region": "istria",
     "title": {
       "sl": "La\u010dna",
       "en": "La\u010dna"
@@ -3273,7 +3315,11 @@
     "height": 437,
     "lead": "M_7_7717.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1693",
     "name": "Socerb",
+    "peak": "45.589477,13.860844",
+    "region": "istria",
+    "start": "45.571298,13.857212",
     "title": {
       "sl": "Od Ospa do Socerba",
       "en": "From Osp to Socerb"
@@ -3491,7 +3537,7 @@
       "sl": "V lepem zgodnje-poletnem dnevu se spla\u010da odpraviti v \u010darovni\u0161ke kraje - na Slivnico. Do\u017eiveli boste lepe razglede, videli obilico ro\u017e, tudi redko kranjsko lilijo, pa tudi zbirali\u0161\u010de \u010darovnic - \u010darovni\u0161ko jamo.",
       "en": "Hiking or biking to Slivnica is always a pleasant experience -- we love snowy meadows in the winters, summer flowers on those same meadows in the summer, or the cool shade of the beech forest while biking to the top... and then there's the view of [Lake Cerknica](https://www.notranjski-park.si/en/nature/natural-sights/lake-cerknica)."
     },
-    "duration": 2.5,
+    "duration": 3,
     "height": 1114,
     "lead": "M_3-1364_IMG.jpg",
     "maplink": "https://mapzs.projekti.si/poi/5679",
@@ -3516,7 +3562,11 @@
     "duration": 2.5,
     "height": 670,
     "lead": "M_3-3392_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/531",
     "name": "Kokos",
+    "peak": "45.644495,13.899890",
+    "region": "karst",
+    "start": "45.661064,13.927977",
     "title": {
       "sl": "Koko\u0161 nad Lokvijo",
       "en": "Koko\u0161 from Lokev"
@@ -3777,6 +3827,9 @@
     "lead": "M_1_10002.JPG",
     "map": 1,
     "name": "Abitanti",
+    "peak": "45.436224,13.825319",
+    "region": "istria",
+    "start": "45.458375,13.850126",
     "title": {
       "sl": "Abitanti",
       "en": "Abitanti"
@@ -3796,7 +3849,11 @@
     "height": 450,
     "lead": "M_7_0721.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31057",
     "name": "HrastovljeZazid",
+    "peak": "45.500573,13.932688",
+    "region": "istria",
+    "start": "45.509500,13.900605",
     "title": {
       "sl": "Obronki Br\u017eanije: od Hrastovelj do Zazida",
       "en": "Br\u017eanija from Hrastovlje to Zazid"
