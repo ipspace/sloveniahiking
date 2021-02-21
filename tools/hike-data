@@ -16,6 +16,7 @@ def parse_cli():
   parser.add_argument('data', nargs='*',action='store',help='Data file(s) to fix')
   parser.add_argument('-x',dest='x',action='store',help='Select hikes by X (min,max)')
   parser.add_argument('-y',dest='y',action='store',help='Select hikes by Y (min,max)')
+  parser.add_argument('--skip',dest='skip',action='append',help='Skip hikes with this parameter')
   parser.add_argument('--update',dest='update',action='store_true',help='Update hikes selected by bounding box')
   parser.add_argument('--template','-t',dest='template',action='store', \
     default=os.path.dirname(__file__)+"/hikes-template.yaml", \
@@ -72,6 +73,7 @@ def update_items(page,parent_page=None,template={}):
 
     if v.get('despace') and isinstance(page_v,str):
       page_v = page_v.replace(" ","")
+      page_v = page_v.replace("\n","")
 
     page[k] = page_v
     if page_v is None:
@@ -106,6 +108,11 @@ def check_box(path,template,x_min=None,x_max=None,y_min=None,y_max=None):
   if y_max and page.get('y',9999) > y_max:
     return
   print("Page %s selected by the bounding box (%d,%d)" % (path,page.get('x'),page.get('y')))
+  if args.skip:
+    for skip_value in args.skip:
+      if page.get(skip_value):
+        print(".. parameter %s is set, skipping" % skip_value)
+        return
   if args.update:
     update_hike_data(path,template)
 
