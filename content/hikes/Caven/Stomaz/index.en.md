@@ -22,6 +22,7 @@ multilead: M_7_1797.JPG
 multipath: true
 name: Caven/Stomaz
 peak: 45.928964,13.852867
+region: vipava
 start: 45.899641,13.856601
 title: Čaven from Stomaž
 ---

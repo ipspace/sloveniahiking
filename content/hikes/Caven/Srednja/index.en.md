@@ -18,6 +18,7 @@ multilead: M_0_00616.JPG
 multipath: true
 name: Caven/Srednja
 peak: 45.928964,13.852867
+region: vipava
 start: 45.937787,13.869216
 title: Čaven from Predmeja
 ---

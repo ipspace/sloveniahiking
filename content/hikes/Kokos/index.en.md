@@ -12,6 +12,7 @@ lead: M_3-3392_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/531
 name: Kokos
 peak: 45.644495,13.899890
+region: karst
 start: 45.661064,13.927977
 title: Kokoš from Lokev
 x: 415

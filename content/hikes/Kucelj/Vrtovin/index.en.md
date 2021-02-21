@@ -12,6 +12,7 @@ multilead: M_1_2128.JPG
 multipath: true
 name: Kucelj/Vrtovin
 peak: 45.928761,13.825091
+region: vipava
 start: 45.9016051,13.8146674
 title: Kucelj from Vrtovin
 x: 0

@@ -1,0 +1,10 @@
+{{ with $.Site.GetPage "/region" }}
+<div class="regbox decorated">
+  <h3 class="sidebar__title">{{ i18n "regions" }}</h3>
+  <ul>
+    {{ range .Pages }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

@@ -16,6 +16,7 @@ map: 1
 maplink: https://mapzs.projekti.si/path/32452
 name: Kavcic
 peak: 45.471239,13.983605
+region: istria
 start: 45.531420,13.947151
 title: Kavčič
 x: 421

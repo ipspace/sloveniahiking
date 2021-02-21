@@ -10,7 +10,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/55911
 name: Pedrovo
 peak: 45.856958,13.762335
-region: vipava
+region: karst
 title: Iz Branika na Pedrovo
 x: 404
 y: 80

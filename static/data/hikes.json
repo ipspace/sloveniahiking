@@ -2977,7 +2977,7 @@
     "maplink": "https://mapzs.projekti.si/poi/5196",
     "name": "Cerje",
     "peak": "45.872442,13.615999",
-    "region": "vipava",
+    "region": "karst",
     "start": "45.873359,13.593190",
     "title": {
       "sl": "Cerje",
@@ -3079,7 +3079,7 @@
     "maplink": "https://mapzs.projekti.si/poi/55911",
     "name": "Pedrovo",
     "peak": "45.856958,13.762335",
-    "region": "vipava",
+    "region": "karst",
     "title": {
       "sl": "Iz Branika na Pedrovo",
       "en": "Branik - Pedrovo"
@@ -3588,7 +3588,7 @@
     "maplink": "https://mapzs.projekti.si/path/31945",
     "name": "Trstelj_Dornberk",
     "peak": "45.857869,13.703780",
-    "region": "vipava",
+    "region": "karst",
     "start": "45.883553,13.737850",
     "title": {
       "sl": "Na Trstelj iz Dornberka",

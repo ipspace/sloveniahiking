@@ -21,7 +21,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/5196
 name: Cerje
 peak: 45.872442,13.615999
-region: vipava
+region: karst
 start: 45.873359,13.593190
 title: Cerje
 x: 393

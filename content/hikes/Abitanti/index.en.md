@@ -15,6 +15,7 @@ lead: M_1_10002.JPG
 map: 1
 name: Abitanti
 peak: 45.436224,13.825319
+region: istria
 start: 45.458375,13.850126
 title: Abitanti
 x: 408

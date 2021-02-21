@@ -69,11 +69,13 @@ permalinks:
   tags: "/tag/:title"
   family: "/flowers/family/:slug"
   order: "/flowers/genus/:title"
+  region: "/region/:title"
 
 taxonomies:
   tag: tags
   family: family
   genus: order
+  region: region
 
 services:
   rss:

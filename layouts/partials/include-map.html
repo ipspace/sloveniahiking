@@ -1,0 +1,11 @@
+{{ $lat := .lat | default 46 }}
+{{ $lon := .lon | default 15 }}
+{{ $lang := .lang }}
+{{ $zoom := .map_zoom | default 10 }}
+{{ $maph := .map_h | default "50em" }}
+
+<div class="map__frame">
+  <div id="mapdiv" data-lat="{{ $lat }}" data-lon="{{ $lon }}" data-zoom="{{ $zoom }}" data-lang="{{ $lang }}" class="map" style="height: {{ $maph }};"></div>
+</div>
+<script src="https://openlayers.org/api/OpenLayers.js"></script>
+<script src="/js/map.js"></script>

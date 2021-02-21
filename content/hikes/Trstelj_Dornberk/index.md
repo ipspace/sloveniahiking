@@ -24,7 +24,7 @@ lead: M_0-4079_IMG.JPG
 maplink: https://mapzs.projekti.si/path/31945
 name: Trstelj_Dornberk
 peak: 45.857869,13.703780
-region: vipava
+region: karst
 start: 45.883553,13.737850
 title: Na Trstelj iz Dornberka
 x: 400

@@ -18,6 +18,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/4207
 name: Padna
 peak: 45.491149,13.689970
+region: istria
 start: 45.494227,13.677033
 title: From Padna to st. Peter
 x: 397

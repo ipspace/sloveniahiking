@@ -2865,3 +2865,19 @@ Grid Layout Styles
   padding: 12px 0; }
   #migrated.site-header .container {
     display: block; }
+
+.map__frame {
+  margin-top: 1em;
+  margin-bottom: 2em; }
+  .map__frame .map {
+    width: 100%; }
+
+.map__popup {
+  background-color: #251f1e;
+  color: #fff;
+  padding: 0.2em 0.5em; }
+  .map__popup a {
+    color: #fff;
+    text-decoration: none; }
+    .map__popup a:hover {
+      color: #fff; }

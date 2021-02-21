@@ -8,6 +8,7 @@ lead: M_5-3555_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/1235
 name: Slavnik
 peak: 45.533685,13.975236
+region: istria
 title: Slavnik
 x: 420
 y: 43

@@ -18,6 +18,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/36608
 name: DolskiMaj
 peak: 45.933692,13.893652
+region: vipava
 start: 45.943531,13.876619
 title: Dolski maj
 x: 414

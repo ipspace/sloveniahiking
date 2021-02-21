@@ -11,6 +11,7 @@ multilead: M_5-6505_IMG.JPG
 multipath: true
 name: Kucelj/Predmeja
 peak: 45.928761,13.825091
+region: vipava
 start: 45.946729,13.870261
 title: Kucelj from Predmeja
 ---

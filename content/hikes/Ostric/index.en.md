@@ -18,6 +18,7 @@ lead: M_9_1992.JPG
 maplink: https://mapzs.projekti.si/poi/1203
 name: Ostric
 peak: 45.491474,14.073402
+region: istria
 start: 45.505571,14.056139
 title: Ostrič
 x: 428

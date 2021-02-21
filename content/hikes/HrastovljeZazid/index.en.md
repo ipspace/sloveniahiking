@@ -23,6 +23,7 @@ map: 1
 maplink: https://mapzs.projekti.si/path/31057
 name: HrastovljeZazid
 peak: 45.500573,13.932688
+region: istria
 start: 45.509500,13.900605
 title: Bržanija from Hrastovlje to Zazid
 x: 417

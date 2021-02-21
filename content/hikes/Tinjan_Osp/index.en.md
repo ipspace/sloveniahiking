@@ -16,6 +16,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1827
 name: Tinjan_Osp
 peak: 45.561375,13.835055
+region: istria
 start: 45.571298,13.857212
 title: Tinjan iz Ospa
 x: 409

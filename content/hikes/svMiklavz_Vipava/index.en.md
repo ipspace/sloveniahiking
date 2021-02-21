@@ -17,6 +17,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1661
 name: svMiklavz_Vipava
 peak: 45.819506,13.982114
+region: vipava
 start: 45.832270,13.971014
 title: Saint Nicholas above Vipava valley
 x: 421

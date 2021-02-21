@@ -20,6 +20,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/2669
 name: SkoljSvPavla
 peak: 45.909096,13.810788
+region: vipava
 start: 45.9016051,13.8146674
 title: Saint Paul above Vrtovin
 x: 408

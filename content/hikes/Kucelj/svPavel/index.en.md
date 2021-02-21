@@ -10,6 +10,7 @@ multilead: M_0_10275.JPG
 multipath: true
 name: Kucelj/svPavel
 peak: 45.928761,13.825091
+region: vipava
 start: 45.909515,13.818130
 title: Kucelj via Saint Paul's školj
 ---
