@@ -18,7 +18,7 @@ timing:
 title: Planinska Gora
 video: https://www.relive.cc/view/vRO7ng7k4Kv/
 ---
-Planinska Gora (Planina's Mountain) is the easternmost part of the ridge extending from Planina (near Postojna) to Bukovje and Predjama. It's a popular local destination with trails and footpaths going toward the top from all over Planina. Three of these trails are marked, the easternmost starting at the edge of the village near Saint Margaret's church, where you'll also find a small parking lot. The hike will take you along wide trails with only an occasional steep section or two, making it ideal for a family excursion with restless kids.
+Planinska Gora (Planina's Mountain) is the easternmost part of the ridge extending from [Planina](https://en.wikipedia.org/wiki/Planina,_Postojna) (near Postojna) to Bukovje and Predjama. It's a popular local destination with trails and footpaths going toward the top from all over Planina. Three of these trails are marked, the easternmost starting at the edge of the village near Saint Margaret's church, where you'll also find a small parking lot. The hike will take you along wide trails with only an occasional steep section or two, making it ideal for a family excursion with restless kids.
 
 {{<hike-details title="Facts First">}}
 
