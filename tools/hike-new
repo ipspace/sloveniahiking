@@ -1,0 +1,54 @@
+#!/usr/bin/env python3
+#
+import cm.read
+import cm.write
+
+import wc.data_update
+from wc.config import config
+import sys
+import os
+import yaml
+import argparse
+import readline
+import datetime
+
+def parse_cli():
+  parser = argparse.ArgumentParser(description='Create a new hike based on a template')
+  parser.add_argument('hike', nargs=1,action='store',help='Hike name')
+  parser.add_argument('--template','-t',dest='template',action='store', \
+    default="hikes-template.yaml", \
+    help='Data template')
+  return parser.parse_args()
+
+def new_hike(path,template):
+  print("Enter English data for new hike %s" % path)
+  print("=" * 80)
+  page = { 'name': path, 'date': datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'layout': 'structured' }
+  wc.data_update.update_items(page,None,template)
+  cm.write.create_output_file(data=page,target_path=path,name="index.en")
+
+  ml_template = {}
+  for (k,v) in template.items():
+    if v.get('multilingual'):
+      ml_template[k] = v
+
+  if not ml_template:
+    return
+
+  print("Enter Slovenian data for new hike %s" % path)
+  print("=" * 80)
+  wc.data_update.update_items(page,None,ml_template)
+  cm.write.create_output_file(data=page,target_path=path,name="index")
+
+args = parse_cli()
+template = wc.data_update.read_template(args.template,search_path=[os.path.dirname(__file__)])
+
+os.chdir(os.path.dirname(__file__)+"/"+config['ExFilePath'])
+hike_name = args.hike[0]
+
+if os.path.exists(hike_name):
+  print("Hike %s already exists, exiting..." % hike_name)
+  sys.exit()
+
+os.mkdir(hike_name)
+new_hike(hike_name,template)

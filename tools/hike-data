@@ -3,6 +3,7 @@
 import cm.read
 import cm.write
 import cm.traverse
+import wc.data_update
 
 from wc.config import config
 import sys
@@ -19,67 +20,9 @@ def parse_cli():
   parser.add_argument('--skip',dest='skip',action='append',help='Skip hikes with this parameter')
   parser.add_argument('--update',dest='update',action='store_true',help='Update hikes selected by bounding box')
   parser.add_argument('--template','-t',dest='template',action='store', \
-    default=os.path.dirname(__file__)+"/hikes-template.yaml", \
+    default="hikes-template.yaml", \
     help='Data template')
   return parser.parse_args()
-
-def read_template(t):
-  if not os.path.exists(t):
-    if not "/" in t:
-      t = os.path.dirname(__file__)+"/"+t
-      if not os.path.exists(t):
-        print("Cannot find template file %s" % t)
-        sys.exit(1)
-  return cm.read.data(t)
-
-def update_items(page,parent_page=None,template={}):
-  print("Use q to quit, - to erase\n")
-
-  for (k,v) in template.items():
-    page_v = page.get(k)
-    if isinstance(v,list):
-      print("Cannot handle list %s" % k)
-      if not page_v:
-        print("... setting parameter to default value")
-        page[k] = v
-        continue
-
-    if not isinstance(v,dict):
-      v = { 'default': v }
-
-    if not page_v:
-      page_v = v.get('default',None)
-      if (not page_v) and v.get('inherit'):
-        if isinstance(parent_page,dict):
-          page_v = parent_page.get(k,None)
-
-    if v.get('sample') and not page_v:
-      prompt = "%s (sample: %s) ==> " % (k,v.get('sample'))
-    else:
-      prompt = "%s (now: %s) ==> " % (k,page_v)
-
-    result = input(prompt)
-    if result == "q":
-      return
-    elif result == "-":
-      page_v = None
-    elif result != "":
-      if isinstance(v.get('default'),int):
-        page_v = cm.read.number(result)
-      else:
-        page_v = result
-    else:
-      print("Kept %s at %s" % (k,page_v))      
-
-    if v.get('despace') and isinstance(page_v,str):
-      page_v = page_v.replace(" ","")
-      page_v = page_v.replace("\n","")
-
-    page[k] = page_v
-    if page_v is None:
-      page.pop(k,None)
-
-  return page
 
 def update_hike_data(page_name=None,template=None):
   page = cm.read.page(page_name)
@@ -91,7 +34,7 @@ def update_hike_data(page_name=None,template=None):
 
   print("\n\nUpdating %s" % page_name)
   print("=" * 80)
-  update_items(page,parent,template)
+  wc.data_update.update_items(page,parent,template)
 
   if yaml.dump(page) != page_yaml:
     print("Changed data, updating data file...")
@@ -133,7 +76,7 @@ def update_hike_box(x,y,template):
   cm.traverse.walk(config['ExFilePath'],r'index\.md$',lambda path: check_box(path,template,x_min,x_max,y_min,y_max))
 
 args = parse_cli()
-template = read_template(args.template)
+template = wc.data_update.read_template(args.template,search_path=[os.path.dirname(__file__)])
 
 if args.data:
   for page_name in args.data:

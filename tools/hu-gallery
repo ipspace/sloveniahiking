@@ -1,0 +1,29 @@
+#!/usr/bin/env python3
+
+import sys
+import os
+import argparse
+from PIL import Image, ImageDraw, ImageFont
+
+import cm.images
+import datetime
+import subprocess
+
+def write_to_clipboard(output):
+  process = subprocess.Popen(
+      'pbcopy', env={'LANG': 'en_US.UTF-8'}, stdin=subprocess.PIPE)
+  process.communicate(output.encode('utf-8'))
+
+def parse_cli():
+  parser = argparse.ArgumentParser(description='Import pictures into Hiking directory')
+  parser.add_argument('pics', nargs='*',action='store',help='Pictures to import')
+  return parser.parse_args()
+
+args = parse_cli()
+
+txt = "{{<gallery>}}\n"
+for img in args.pics:
+  txt = txt + '{{<figure src="%s">}}\n' % os.path.basename(img)
+txt = txt + "{{</gallery>}}\n"
+write_to_clipboard(txt)
+print("Gallery markup is on the clipboard ;)")

@@ -1,13 +1,34 @@
 ---
-delta: 540
-difficulty: Easy hike
-duration: 3
-height: 1114
+delta: 
+  sample: 540
+duration:
+  sample: 3
+height:
+  sample: 1117
+difficulty:
+  sample: Easy hike
+  multilingual: true
+description: 
+  sample: Short description
+  multilingual: true
+title:
+  sample: Hilltop Name
+  multilingual: true
 timing:
 - "Ascent"
 - "Descent"
 - "Total"
-maplink: https://mapzs.projekti.si/poi/5679
-start: 45.792868,14.367291
-peak: 45.7899991,14.3990229
-video: "https://www.relive.cc/view/vQvy1dzE8Kv/"
+maplink:
+  sample: https://mapzs.projekti.si/poi/5679
+  inherit: true
+start:
+  sample: 45.792868,14.367291
+  despace: true
+peak:
+  sample: 45.7899991,14.3990229
+  despace: true
+  inherit: true
+region:
+  sample: istria
+video: 
+  sample: "https://www.relive.cc/view/vQvy1dzE8Kv/"

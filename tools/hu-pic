@@ -6,26 +6,21 @@ import argparse
 from PIL import Image, ImageDraw, ImageFont
 
 import cm.images
+import datetime
 
 def parse_cli():
   parser = argparse.ArgumentParser(description='Import pictures into Hiking directory')
   parser.add_argument('pics', nargs='*',action='store',help='Pictures to import')
-  parser.add_argument('-p','--prefix',dest='prefix',action='store',help='Prefix to use when importing pictures')
-  parser.add_argument('-a','--author',dest='author',action='store',help='Author')
   return parser.parse_args()
 
-def get_author(p):
-  if args.author:
-    return '© '+args.author
-
-  return None
-
-args = parse_cli()
-
+txt = "{{<gallery>}}\n"
 for img in args.pics:
-  if args.prefix in img:
-    print("%s already imported, skipping" % img)
-    continue
+  txt = txt + '{{<figure src="%s">}}\n' % os.path.basename(img)
+txt = txt + "{{</gallery>}}\n"
+  if args.prefix:
+    if args.prefix in img:
+      print("%s already imported, skipping" % img)
+      continue
 
   try:
     print("Importing %s" % img)
@@ -34,10 +29,15 @@ for img in args.pics:
     print("Failed to import picture(s) %s\n%s" % (img,str(sys.exc_info()[1])))
     break
 
-  if args.prefix:
+  if args.prefix or args.renumber:
     pic_dir  = os.path.dirname(img)
     pic_name = os.path.basename(img)
-    new_name = args.prefix + "-" + pic_name.replace(" ","-").lower()
+    if args.prefix:
+      new_name = args.prefix + "-" + pic_name.replace(" ","-").lower()
+    if args.renumber:
+      new_name = get_pic_id(pic_dir,"M_")
+
+    new_name.replace(".jpeg",".jpg")
     print("Renaming %s to %s" % (pic_name,new_name))
     if pic_dir:
       pic_dir = pic_dir + "/"
