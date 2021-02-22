@@ -1,13 +1,20 @@
 ---
-date: 2021-02-13T13:46:00
-description: |
-  The shortest routes to Slavnik lead from Podgorje, a small karst village south-west of the mountain, where you'll find abundance of little paths and cart-tracks across Slavnik's southern slopes.
-height: 1028
-duration: 3
+date: 2021-02-13 13:46:00+00:00
 delta: 510
-multilead: M_5-3534_IMG.JPG
+description: 'The shortest routes to Slavnik lead from Podgorje, a small karst village
+  south-west of the mountain, where you''ll find abundance of little paths and cart-tracks
+  across Slavnik''s southern slopes.
+
+  '
+duration: 3
+height: 1028
 lead: M_5-3534_IMG.JPG
+maplink: https://mapzs.projekti.si/path/55941
+multilead: M_5-3534_IMG.JPG
 name: Slavnik/Podgorje
+peak: 45.533685,13.975236
+region: istria
+start: 45.531420,13.947151
 title: Slavnik and Grmada from Podgorje
 x: 420
 y: 43

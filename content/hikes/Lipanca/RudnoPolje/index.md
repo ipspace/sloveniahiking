@@ -7,9 +7,13 @@ duration: 3
 height: 1630
 lead: M_9-5930_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31514
 multilead: M_9-5930_IMG.JPG
 multipath: true
 name: Lipanca/RudnoPolje
+peak: 46.375630,13.927670
+region: julian-alps
+start: 46.345450,13.923233
 title: Lipanca z Rudnega polja
 ---
 Pot z Rudnega polja na [Lipanco](../) je skoraj idealen družinski izlet -- začne se kot položen sprehod po mogočnih pokljuških smrekovih gozdovih, se nadaljuje z rahlim vzponom na robu pokljuške planote, postane nekoliko bolj razgibana in se konča na precej strmih travnikih pod Lipanco, od koder končno pridemo do Blejske koče. Bolj utrjeni planinci boste za pot potrebovali približno uro in pol, če boste s seboj vzeli otroke, pa bo verjetno treba nekoliko več časa, še posebej če se boste na pot odpravili v avgustu, ko so pokljuški gozdovi polni jagod in borovnic.

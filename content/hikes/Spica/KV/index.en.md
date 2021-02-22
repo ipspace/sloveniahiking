@@ -6,8 +6,11 @@ height: 735
 image:
 - M_5-4545_IMG.JPG
 layout: stub
+maplink: https://mapzs.projekti.si/path/31601
 multilead: M_5-4545_IMG.JPG
 multipath: true
 name: Spica/KV
+peak: 45.971434,14.251496
+start: 45.963698,14.275556
 title: Planina from Kurja vas
 ---

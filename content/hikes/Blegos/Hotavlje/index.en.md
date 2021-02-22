@@ -1,6 +1,9 @@
 ---
 date: 2004-01-18 00:00:00+00:00
 delta: 1100
+description: "One of the longest ascents to Blegoš begins in Hotavlje, a village in\
+  \ the valley Poljanska dolina, best known for its quarry of high-quality Hotavlje\
+  \ stone. \n"
 duration: 6
 height: 1562
 image:
@@ -22,12 +25,13 @@ image:
 - alt.gif
 lead: M_4_0466.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/32619
 multilead: M_4_0466.JPG
 multipath: true
 name: Blegos/Hotavlje
+peak: 46.164802,14.113583
+start: 46.124584,14.117533
 title: Blegoš from Hotavlje
-description: |
-  One of the longest ascents to Blegoš begins in Hotavlje, a village in the valley Poljanska dolina, best known for its quarry of high-quality Hotavlje stone. 
 ---
 One of the longest ascents to [Blegoš](../) begins in Hotavlje, a village in the valley Poljanska dolina, best known for its quarry of high-quality Hotavlje stone. The route starts behind the quarry and takes you through sunny Čabrače, over steep haymeadows beneath Prva ravan and through beech forests below Blegoš. You can make a round trip by descending past Jelenci.
 

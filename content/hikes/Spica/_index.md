@@ -12,7 +12,9 @@ image:
 - M_5-4553_IMG.JPG
 - Razgled_Planina.jpg
 lead: M_5-4556_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/5344
 name: Spica
+peak: 45.971434,14.251496
 title: Planina nad Vrhniko
 x: 442
 y: 92

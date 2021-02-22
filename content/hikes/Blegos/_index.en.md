@@ -10,7 +10,9 @@ image:
 - M_4_0464.JPG
 - Razgled_Blegos.jpg
 lead: M_4_0469.JPG
+maplink: https://mapzs.projekti.si/poi/4875
 name: Blegos
+peak: 46.164802,14.113583
 title: Blegoš
 x: 432
 y: 114

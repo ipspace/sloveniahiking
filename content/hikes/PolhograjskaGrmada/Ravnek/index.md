@@ -1,17 +1,20 @@
 ---
-date: '2003-05-04T00:00:00'
-lastmod: 2021-02-13T12:37:00
+date: 2003-05-04 00:00:00+00:00
 delta: 520
 description: Iz Polhovega Gradca se lahko odpravimo na zanimivo krožno pot čez Grmado
   - izlet začnemo pri gostilni Pratkar, se mimo zaselka Ravnek vzpnemo na Grmado,
   nato pa se vrnemo mimo cerkvice sv. Uršule na Setnici.
 duration: 3
 height: 898
+lastmod: 2021-02-13 12:37:00
 lead: M_0-5074_IMG.JPG
-multilead: M_0-5074_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31940
+multilead: M_0-5074_IMG.JPG
 multipath: true
 name: PolhograjskaGrmada/Ravnek
+peak: 46.083811,14.332903
+start: 46.065069,14.316842
 title: Polhograjska Grmada čez Ravnek
 ---
 Iz Polhovega Gradca se lahko na [Polhograjsko Grmado](../) odpravimo po zanimivi krožni poti -- izpred gostilne Pratkar se skozi gozd in čez razgledne travnike povzpnemo do zaselka Ravnek, nato do lovske koče pod Grmado, od tod pa lahko vzpon nadaljujemo naravnost po grebenu ali po malce manj zahtevni poti po pobočjih Grmade. Za popestritev izleta se lahko v Polhov Gradec vrnemo čez Setnico.

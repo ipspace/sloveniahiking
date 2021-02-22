@@ -1,5 +1,5 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 delta: 210
 description: Vzpon na Planino od kmečkega turizma na Kurenu je idealen nedeljski izlet,
   ki ga boste verjetno združili s kosilom na Kurenu.
@@ -9,9 +9,12 @@ image:
 - M_0-3032_IMG.JPG
 - M_0-3042_IMG.JPG
 - M_0-3041_IMG.JPG
-multipath: true
+maplink: https://mapzs.projekti.si/path/31629
 multilead: M_0-3032_IMG.JPG
+multipath: true
 name: Spica/KR
+peak: 45.971434,14.251496
+start: 45.979466,14.265043
 title: Na Planino s Kurena
 ---
 Vzpon na [Planino](../) od kmečkega turizma na Kurenu je idealen nedeljski izlet, ki ga boste verjetno združili s kosilom na [Kurenu](../../kuren). Tisti, ki iščete nekoliko daljše vzpone, pa se lahko na pot odpravite iz Stare Vrhnike.

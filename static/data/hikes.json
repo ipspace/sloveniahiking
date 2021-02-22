@@ -54,9 +54,13 @@
     "height": 1028,
     "lead": "M_4-5411_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1235",
     "multilead": "M_4-5411_IMG.JPG",
     "multipath": true,
     "name": "Slavnik/Presnica",
+    "peak": "45.533685,13.975236",
+    "region": "istria",
+    "start": "45.571174,13.938894",
     "title": {
       "sl": "Na Slavnik iz Pre\u0161nice",
       "en": "Slavnik from Pre\u0161nica"
@@ -71,11 +75,15 @@
     },
     "duration": 5,
     "height": 1028,
-    "map": 1,
     "lead": "M_9-4934_IMG.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1235",
     "multilead": "M_9-4934_IMG.JPG",
     "multipath": true,
     "name": "Slavnik/Markovscina",
+    "peak": "45.533685,13.975236",
+    "region": "istria",
+    "start": "45.559779,14.031400",
     "title": {
       "sl": "Slavnik iz Markov\u0161\u010dine",
       "en": "Slavnik from Markov\u0161\u010dina"
@@ -92,9 +100,13 @@
     "height": 1028,
     "lead": "M_5_0586.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31774",
     "multilead": "M_5_0586.JPG",
     "multipath": true,
     "name": "Slavnik/Strma",
+    "peak": "45.533685,13.975236",
+    "region": "istria",
+    "start": "45.531420,13.947151",
     "title": {
       "sl": "Strma pot na Slavnik iz Podgorja",
       "en": "Slavnik from Podgorje (steep path)"
@@ -128,9 +140,13 @@
     "duration": 3,
     "height": 1028,
     "lead": "M_5-3534_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/path/55941",
     "multilead": "M_5-3534_IMG.JPG",
     "multipath": true,
     "name": "Slavnik/Podgorje",
+    "peak": "45.533685,13.975236",
+    "region": "istria",
+    "start": "45.531420,13.947151",
     "title": {
       "sl": "Slavnik in Grmada iz Podgorja",
       "en": "Slavnik and Grmada from Podgorje"
@@ -619,9 +635,12 @@
     "duration": 6,
     "height": 1562,
     "map": 1,
-    "multipath": true,
+    "maplink": "https://mapzs.projekti.si/path/31380",
     "multilead": "M_4_1416.JPG",
+    "multipath": true,
     "name": "Blegos/CrniVrh",
+    "peak": "46.164802,14.113583",
+    "start": "46.171139,14.042610",
     "title": {
       "sl": "Od \u010crnega vrha do Blego\u0161a",
       "en": "Blego\u0161 from \u010crni vrh"
@@ -638,9 +657,12 @@
     "height": 1562,
     "lead": "M_0_00630.JPG",
     "map": 1,
-    "multipath": true,
+    "maplink": "https://mapzs.projekti.si/path/32013",
     "multilead": "M_0_00630.JPG",
+    "multipath": true,
     "name": "Blegos/Leskovica",
+    "peak": "46.164802,14.113583",
+    "start": "46.147414,14.085812",
     "title": {
       "sl": "Blego\u0161 iz Leskovice",
       "en": "Blego\u0161 from Leskovica"
@@ -654,7 +676,9 @@
     },
     "height": 1562,
     "lead": "Hotavlje/M_4_0469.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/4875",
     "name": "Blegos",
+    "peak": "46.164802,14.113583",
     "title": {
       "sl": "Blego\u0161",
       "en": "Blego\u0161"
@@ -673,9 +697,12 @@
     "height": 1562,
     "lead": "M_4_0466.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/32619",
     "multilead": "M_4_0466.JPG",
     "multipath": true,
     "name": "Blegos/Hotavlje",
+    "peak": "46.164802,14.113583",
+    "start": "46.124584,14.117533",
     "title": {
       "sl": "Blego\u0161 iz Hotavelj",
       "en": "Blego\u0161 from Hotavlje"
@@ -775,9 +802,12 @@
     "height": 898,
     "lead": "M_5_0514.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/30993",
     "multilead": "M_5_0514.JPG",
     "multipath": true,
     "name": "PolhograjskaGrmada/Gonte",
+    "peak": "46.083811,14.332903",
+    "start": "46.075996,14.313156",
     "title": {
       "sl": "Polhograjska Grmada \u010dez Gonte",
       "en": "Polhograjska Grmada via Gonte"
@@ -785,7 +815,6 @@
   },
   {
     "date": "2003-12-21 00:00:00+00:00",
-    "lastmod": "2021-02-13 12:22:00",
     "delta": 560,
     "description": {
       "sl": "Ena najbolj strmih poti na Polhograjsko Grmado vodi iz Belice. Poleg strmega vzpona na vrh Grmade vas \u010daka \u0161e podobno strm vzpon v za\u010detku poti \u2013 idealno torej za tiste, ki \u017eelijo nabirati kondicijo za zahtevnej\u0161e planinske pohode.",
@@ -793,11 +822,15 @@
     },
     "duration": 3,
     "height": 898,
-    "map": 1,
+    "lastmod": "2021-02-13 12:22:00",
     "lead": "M_2-6217_IMG.JPG",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31971",
     "multilead": "M_2-6217_IMG.JPG",
     "multipath": true,
     "name": "PolhograjskaGrmada/Belica",
+    "peak": "46.083811,14.332903",
+    "start": "46.068726,14.352170",
     "title": {
       "sl": "Na Polhograjsko Grmado iz Belice",
       "en": "Polhograjska Grmada from Belica"
@@ -805,7 +838,6 @@
   },
   {
     "date": "2003-05-04 00:00:00+00:00",
-    "lastmod": "2021-02-13 12:37:00",
     "delta": 520,
     "description": {
       "sl": "Iz Polhovega Gradca se lahko odpravimo na zanimivo kro\u017eno pot \u010dez Grmado - izlet za\u010dnemo pri gostilni Pratkar, se mimo zaselka Ravnek vzpnemo na Grmado, nato pa se vrnemo mimo cerkvice sv. Ur\u0161ule na Setnici.",
@@ -813,11 +845,15 @@
     },
     "duration": 3,
     "height": 898,
+    "lastmod": "2021-02-13 12:37:00",
     "lead": "M_0-5074_IMG.JPG",
-    "multilead": "M_0-5074_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31940",
+    "multilead": "M_0-5074_IMG.JPG",
     "multipath": true,
     "name": "PolhograjskaGrmada/Ravnek",
+    "peak": "46.083811,14.332903",
+    "start": "46.065069,14.316842",
     "title": {
       "sl": "Polhograjska Grmada \u010dez Ravnek",
       "en": "Polhograjska Grmada through Ravnek"
@@ -831,7 +867,9 @@
     },
     "height": 898,
     "lead": "M_0-5040_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/196",
     "name": "PolhograjskaGrmada",
+    "peak": "46.083811,14.332903",
     "title": {
       "sl": "Polhograjska Grmada",
       "en": "Polhograjska Grmada"
@@ -1222,9 +1260,13 @@
     "height": 1630,
     "lead": "M_9-5979_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/32992",
     "multilead": "M_9-5979_IMG.JPG",
     "multipath": true,
     "name": "Lipanca/MedvedovaKonta",
+    "peak": "46.375630,13.927670",
+    "region": "julian-alps",
+    "start": "46.374746,13.941008",
     "title": {
       "sl": "Lipanca iz Medvedove konte",
       "en": "Lipanca from Medvedova konta"
@@ -1241,9 +1283,13 @@
     "height": 1630,
     "lead": "M_9-5930_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31514",
     "multilead": "M_9-5930_IMG.JPG",
     "multipath": true,
     "name": "Lipanca/RudnoPolje",
+    "peak": "46.375630,13.927670",
+    "region": "julian-alps",
+    "start": "46.345450,13.923233",
     "title": {
       "sl": "Lipanca z Rudnega polja",
       "en": "Lipanca from Rudno Polje"
@@ -1260,9 +1306,13 @@
     "height": 1630,
     "lead": "M_1_0120.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31515",
     "multilead": "M_1_0120.JPG",
     "multipath": true,
     "name": "Lipanca/Javornik",
+    "peak": "46.375630,13.927670",
+    "region": "julian-alps",
+    "start": "46.341596,13.961097",
     "title": {
       "sl": "Lipanca iz Rudne doline",
       "en": "Lipanca from Rudna valley"
@@ -1278,10 +1328,14 @@
     "duration": 2,
     "height": 1630,
     "lead": "M_2_2208.JPG",
-    "multilead": "M_2_2208.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4972",
+    "multilead": "M_2_2208.JPG",
     "multipath": true,
     "name": "Lipanca/Spomenik",
+    "peak": "46.375630,13.927670",
+    "region": "julian-alps",
+    "start": "46.365980,13.934012",
     "title": {
       "sl": "Na Lipanco od spomenika Pri rupah",
       "en": "Lipanca from Rupe"
@@ -1294,7 +1348,10 @@
       "en": "The route from Rudno polje to Lipanca is an ideal family trip: it starts as a gentle walk through the mighty Pokljuka spruce forests, continues with a slight ascent on the margin of the Pokljuka plateau, becomes somewhat more diverse and ends on the fairly steep grass slopes below Lipanca."
     },
     "height": 1630,
+    "maplink": "https://mapzs.projekti.si/poi/32992",
     "name": "Lipanca",
+    "peak": "46.375630,13.927670",
+    "region": "julian-alps",
     "title": {
       "sl": "Lipanca",
       "en": "Lipanca pasture"
@@ -1665,6 +1722,38 @@
     },
     "x": 411,
     "y": 129
+  },
+  {
+    "date": "2021-02-22 11:39:23+00:00",
+    "delta": 410,
+    "description": {
+      "sl": "Planinska gora je najbolj vzhoden vrh v grebenu severno od Podgore (doline med Planino in Bukovjem). Nanjo vodi ve\u010d poti iz Planine, mi se bomo povzpeli po \u0161irokih kolovozih iz Spodnje Planine.\n",
+      "en": "Planinska Gora (Planina''s Mountain) is the easternmost part of the ridge extending from Planina (near Postojna) to Bukovje and Predjama. The hike will take you along wide trails with only an occasional steep section or two, making it ideal for a family excursion with restless kids.\n"
+    },
+    "difficulty": "Prijeten vzpon po \u0161irokih kolovozih",
+    "duration": 2,
+    "height": 880,
+    "lead": "M_20210222_002.jpg",
+    "maplink": "https://mapzs.projekti.si/path/31616",
+    "name": "PlaninskaGora",
+    "peak": "45.837401,14.233887",
+    "start": "45.836412,14.255054",
+    "timing": [
+      {
+        "Vzpon": "45 minut to cerkve, 1 ura do vrha"
+      },
+      {
+        "Spust": "30 - 45 minut"
+      },
+      {
+        "Skupaj": "2 uri"
+      }
+    ],
+    "title": {
+      "sl": "Planinska gora",
+      "en": "Planinska Gora"
+    },
+    "video": "https://www.relive.cc/view/vRO7ng7k4Kv/"
   },
   {
     "date": "2004-12-05 00:00:00+00:00",
@@ -3158,9 +3247,13 @@
     "duration": 3,
     "height": 961,
     "lead": "M_0_00679.JPG",
-    "multipath": true,
+    "maplink": "https://mapzs.projekti.si/poi/1288",
     "multilead": "M_0_00679.JPG",
+    "multipath": true,
     "name": "Kovk/Budanje",
+    "peak": "45.887981,13.969153",
+    "region": "vipava",
+    "start": "45.879299,13.959613",
     "title": {
       "sl": "Kovk iz Vipavske doline",
       "en": "Kovk from Vipava Valley"
@@ -3196,9 +3289,13 @@
     "height": 961,
     "lead": "M_4_1434.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1288",
     "multilead": "M_4_1448.JPG",
     "multipath": true,
     "name": "Kovk/Col",
+    "peak": "45.887981,13.969153",
+    "region": "vipava",
+    "start": "45.885151,13.994895",
     "title": {
       "sl": "Na Kovk s Cola",
       "en": "Kovk from Col"
@@ -3238,9 +3335,13 @@
     "height": 451,
     "lead": "M_7-3711_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31993",
     "multilead": "M_7-3711_IMG.JPG",
     "multipath": true,
     "name": "Lacna/Kubed",
+    "peak": "45.504969,13.885283",
+    "region": "istria",
+    "start": "45.519562,13.869997",
     "title": {
       "sl": "La\u010dna iz Kubeda",
       "en": "La\u010dna from Kubed"
@@ -3256,10 +3357,14 @@
     "duration": 1.5,
     "height": 451,
     "lead": "M_1_2873.JPG",
-    "multilead": "M_1_2873.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/32098",
+    "multilead": "M_1_2873.JPG",
     "multipath": true,
     "name": "Lacna/Gracisce",
+    "peak": "45.504969,13.885283",
+    "region": "istria",
+    "start": "45.502752,13.874163",
     "title": {
       "sl": "La\u010dna iz Gra\u010di\u0161\u010da",
       "en": "La\u010dna from Gra\u010di\u0161\u010de"
@@ -3294,10 +3399,14 @@
     "duration": 2,
     "height": 451,
     "lead": "M_0_2891.JPG",
-    "multilead": "M_0_2891.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31265",
+    "multilead": "M_0_2891.JPG",
     "multipath": true,
     "name": "Lacna/Hrastovlje",
+    "peak": "45.504969,13.885283",
+    "region": "istria",
+    "start": "45.509506,13.900638",
     "title": {
       "sl": "La\u010dna iz Hrastovelj",
       "en": "La\u010dna from Hrastovlje"
@@ -3435,9 +3544,12 @@
     "duration": 2,
     "height": 735,
     "lead": "M_5-4556_IMG.JPG",
-    "multipath": true,
+    "maplink": "https://mapzs.projekti.si/path/31485",
     "multilead": "M_5-4537_IMG.JPG",
+    "multipath": true,
     "name": "Spica/SM",
+    "peak": "45.971434,14.251496",
+    "start": "45.956459,14.249277",
     "title": {
       "sl": "Planina od Starega malna",
       "en": "Planina from Stari maln"
@@ -3452,9 +3564,12 @@
     },
     "duration": 2,
     "height": 735,
-    "multipath": true,
+    "maplink": "https://mapzs.projekti.si/path/31601",
     "multilead": "M_5-4545_IMG.JPG",
+    "multipath": true,
     "name": "Spica/KV",
+    "peak": "45.971434,14.251496",
+    "start": "45.963698,14.275556",
     "title": {
       "sl": "Planina iz Kurje vasi",
       "en": "Planina from Kurja vas"
@@ -3469,9 +3584,12 @@
     },
     "duration": 1.5,
     "height": 735,
-    "multipath": true,
+    "maplink": "https://mapzs.projekti.si/poi/5344",
     "multilead": "M_7-3754_IMG.JPG",
+    "multipath": true,
     "name": "Spica/ZZ",
+    "peak": "45.971434,14.251496",
+    "start": "45.970243,14.235464",
     "title": {
       "sl": "Na Planino z zgornje Zaplane",
       "en": "Planina from Zaplana"
@@ -3486,9 +3604,12 @@
     },
     "duration": 1.5,
     "height": 735,
-    "multipath": true,
+    "maplink": "https://mapzs.projekti.si/path/31629",
     "multilead": "M_0-3032_IMG.JPG",
+    "multipath": true,
     "name": "Spica/KR",
+    "peak": "45.971434,14.251496",
+    "start": "45.979466,14.265043",
     "title": {
       "sl": "Na Planino s Kurena",
       "en": "Planina from Kuren"
@@ -3502,7 +3623,9 @@
     },
     "height": 735,
     "lead": "M_5-4556_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/5344",
     "name": "Spica",
+    "peak": "45.971434,14.251496",
     "title": {
       "sl": "Planina nad Vrhniko",
       "en": "Planina nad Vrhniko"

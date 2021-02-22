@@ -24,9 +24,12 @@ image:
 - alt.gif
 lead: M_4_0466.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/32619
 multilead: M_4_0466.JPG
 multipath: true
 name: Blegos/Hotavlje
+peak: 46.164802,14.113583
+start: 46.124584,14.117533
 title: Blegoš iz Hotavelj
 ---
 {{<figure src="M_4_0466.JPG">}}

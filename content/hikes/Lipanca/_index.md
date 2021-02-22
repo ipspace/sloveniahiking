@@ -6,7 +6,10 @@ description: Lipanca je manjša planina nad Pokljuko, tik pod grebenom, ki loču
 height: 1630
 image:
 - M_9-5985_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/32992
 name: Lipanca
+peak: 46.375630,13.927670
+region: julian-alps
 title: Lipanca
 x: 418
 y: 137

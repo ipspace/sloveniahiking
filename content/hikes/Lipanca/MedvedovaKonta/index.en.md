@@ -6,8 +6,12 @@ height: 1630
 layout: stub
 lead: M_9-5979_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/32992
 multilead: M_9-5979_IMG.JPG
 multipath: true
 name: Lipanca/MedvedovaKonta
+peak: 46.375630,13.927670
+region: julian-alps
+start: 46.374746,13.941008
 title: Lipanca from Medvedova konta
 ---

@@ -1,17 +1,20 @@
 ---
-date: '2003-12-21T00:00:00'
-lastmod: 2021-02-13T12:22:00
+date: 2003-12-21 00:00:00+00:00
 delta: 560
 description: Ena najbolj strmih poti na Polhograjsko Grmado vodi iz Belice. Poleg
   strmega vzpona na vrh Grmade vas čaka še podobno strm vzpon v začetku poti – idealno
   torej za tiste, ki želijo nabirati kondicijo za zahtevnejše planinske pohode.
 duration: 3
 height: 898
-map: 1
+lastmod: 2021-02-13 12:22:00
 lead: M_2-6217_IMG.JPG
+map: 1
+maplink: https://mapzs.projekti.si/path/31971
 multilead: M_2-6217_IMG.JPG
 multipath: true
 name: PolhograjskaGrmada/Belica
+peak: 46.083811,14.332903
+start: 46.068726,14.352170
 title: Na Polhograjsko Grmado iz Belice
 ---
 {{<figure src="M_2-6217_IMG.JPG">}}

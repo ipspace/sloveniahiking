@@ -6,9 +6,13 @@ description: Ko bo burja spet razpihala oblake, se odpravite na Slavnik - po vzp
 duration: 3
 height: 1028
 lead: M_5-3534_IMG.JPG
+maplink: https://mapzs.projekti.si/path/55941
 multilead: M_5-3534_IMG.JPG
 multipath: true
 name: Slavnik/Podgorje
+peak: 45.533685,13.975236
+region: istria
+start: 45.531420,13.947151
 title: Slavnik in Grmada iz Podgorja
 ---
 Najkrajše poti na [Slavnik](../) vodijo iz Podgorja, kraške vasice južno od Slavnika. Od tod se lahko na Slavnik odpravimo po strmi poti (ki si zasluži to ime), položni poti (kjer se skorajda ne boste niti preznojili) ali po množici stezic in kolovozov, ki se vzpenjajo po pobočjih Slavnika.

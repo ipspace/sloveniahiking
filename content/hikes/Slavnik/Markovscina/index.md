@@ -1,5 +1,5 @@
 ---
-date: '2004-01-25T00:00:00'
+date: 2004-01-25 00:00:00+00:00
 delta: 470
 description: Po severnih pobočjih Slavnika se lahko na vrh povzpnemo po več markiranih
   poteh. Najkrajša bo pot iz Skadanščine, izlet si lahko malce podaljšamo če začnemo
@@ -7,11 +7,15 @@ description: Po severnih pobočjih Slavnika se lahko na vrh povzpnemo po več ma
   še Mala vrata.
 duration: 5
 height: 1028
-map: 1
 lead: M_9-4934_IMG.JPG
+map: 1
+maplink: https://mapzs.projekti.si/poi/1235
 multilead: M_9-4934_IMG.JPG
 multipath: true
 name: Slavnik/Markovscina
+peak: 45.533685,13.975236
+region: istria
+start: 45.559779,14.031400
 title: Slavnik iz Markovščine
 ---
 {{<figure src="M_9-4934_IMG.JPG">}}

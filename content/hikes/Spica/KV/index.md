@@ -1,5 +1,5 @@
 ---
-date: '2006-04-23T00:00:00'
+date: 2006-04-23 00:00:00+00:00
 delta: 420
 description: Pot na Planino iz Kurje vasi je nedvomno najbolj prometna pot na vrhniško
   »hišno goro«.
@@ -7,9 +7,12 @@ duration: 2
 height: 735
 image:
 - M_5-4545_IMG.JPG
-multipath: true
+maplink: https://mapzs.projekti.si/path/31601
 multilead: M_5-4545_IMG.JPG
+multipath: true
 name: Spica/KV
+peak: 45.971434,14.251496
+start: 45.963698,14.275556
 title: Planina iz Kurje vasi
 ---
 {{<figure src="M_5-4545_IMG.JPG" caption="Zimski pogled na Vrhniko">}}

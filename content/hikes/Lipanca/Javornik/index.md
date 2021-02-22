@@ -1,5 +1,5 @@
 ---
-date: '2004-02-01T00:00:00'
+date: 2004-02-01 00:00:00+00:00
 delta: 380
 description: Ena najdaljših markiranih poti s Pokljuke na Lipanco teče iz Rudne doline
   skozi goste smrekove gozdove in čez planino Javornik.
@@ -7,9 +7,13 @@ duration: 4
 height: 1630
 lead: M_1_0120.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31515
 multilead: M_1_0120.JPG
 multipath: true
 name: Lipanca/Javornik
+peak: 46.375630,13.927670
+region: julian-alps
+start: 46.341596,13.961097
 title: Lipanca iz Rudne doline
 ---
 {{<figure src="M_1_0120.JPG">}}

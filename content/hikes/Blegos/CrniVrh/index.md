@@ -1,5 +1,5 @@
 ---
-date: '2006-08-06T00:00:00'
+date: 2006-08-06 00:00:00+00:00
 delta: 820
 description: Od Črnega vrha nad Cerknim do Blegoša vodi prijetna senčna grebenska
   pot, kot nalašč za prijeten poletni izlet.
@@ -11,9 +11,12 @@ image:
 - mapgps.jpg
 - path_1.gif
 map: 1
-multipath: true
+maplink: https://mapzs.projekti.si/path/31380
 multilead: M_4_1416.JPG
+multipath: true
 name: Blegos/CrniVrh
+peak: 46.164802,14.113583
+start: 46.171139,14.042610
 title: Od Črnega vrha do Blegoša
 ---
 {{<figure src="M_4_1416.JPG" caption="Pot po grebenu">}}

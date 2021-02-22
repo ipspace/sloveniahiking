@@ -1,13 +1,17 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 delta: 360
-description: Vzpon na Špico iz Starega malna bo najlepši sredi poletja, ko vas bo del poti spremljal prijazno žuboreč hladen potok.
+description: Vzpon na Špico iz Starega malna bo najlepši sredi poletja, ko vas bo
+  del poti spremljal prijazno žuboreč hladen potok.
 duration: 2
 height: 735
 lead: M_5-4556_IMG.JPG
-multipath: true
+maplink: https://mapzs.projekti.si/path/31485
 multilead: M_5-4537_IMG.JPG
+multipath: true
 name: Spica/SM
+peak: 45.971434,14.251496
+start: 45.956459,14.249277
 title: Planina od Starega malna
 ---
 Ko vas bo mučila poletna vročina, se odpravite na [Špico](../) (Planino nad Vrhniko) od Starega (Star'ga) malna v senčni dolini Bele.

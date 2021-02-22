@@ -1,13 +1,16 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 delta: 70
 description: Vzpon na Planino z zgornje Zaplane je nedvomno najkrajši in najbolj položen
   vzpon na Planino in zato primeren tudi za bolj lenobne sprehajalce.
 duration: 1.5
 height: 735
-multipath: true
+maplink: https://mapzs.projekti.si/poi/5344
 multilead: M_7-3754_IMG.JPG
+multipath: true
 name: Spica/ZZ
+peak: 45.971434,14.251496
+start: 45.970243,14.235464
 title: Na Planino z zgornje Zaplane
 ---
 {{<figure src="M_7-3754_IMG.JPG" caption="Cerkev na Zaplani">}}

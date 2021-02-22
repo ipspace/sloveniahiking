@@ -7,9 +7,13 @@ duration: 2.5
 height: 1028
 lead: M_5_0586.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31774
 multilead: M_5_0586.JPG
 multipath: true
 name: Slavnik/Strma
+peak: 45.533685,13.975236
+region: istria
+start: 45.531420,13.947151
 title: Strma pot na Slavnik iz Podgorja
 ---
 {{<figure src="M_5_0586.JPG">}}

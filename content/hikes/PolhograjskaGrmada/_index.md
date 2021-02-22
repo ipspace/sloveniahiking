@@ -6,7 +6,9 @@ description: Polhograjska Grmada je eden od najvišjih vrhov v Polhograjskem hri
   pokrajine.
 height: 898
 lead: M_0-5040_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/196
 name: PolhograjskaGrmada
+peak: 46.083811,14.332903
 title: Polhograjska Grmada
 x: 449
 y: 105

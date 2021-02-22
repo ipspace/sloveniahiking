@@ -1,5 +1,5 @@
 ---
-date: '2007-02-18T00:00:00'
+date: 2007-02-18 00:00:00+00:00
 delta: 150
 description: Iz Gračišča, vasi na južnih obronkih Lačne, tik ob glavni cesti proti
   Hrvaški, je do vrha Lačne speljana kratka razgledna pot, ki je kot nalašč za družinski
@@ -15,10 +15,14 @@ image:
 - mapgps.jpg
 - path_1.gif
 lead: M_1_2873.JPG
-multilead: M_1_2873.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/32098
+multilead: M_1_2873.JPG
 multipath: true
 name: Lacna/Gracisce
+peak: 45.504969,13.885283
+region: istria
+start: 45.502752,13.874163
 title: Lačna iz Gračišča
 ---
 Iz Gračišča, vasi na južnih obronkih Lačne, tik ob glavni cesti proti Hrvaški, je do vrha [Lačne](../) speljana kratka razgledna pot, ki je kot nalašč za družinski nedeljski izlet.

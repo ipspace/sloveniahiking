@@ -1,15 +1,19 @@
 ---
-date: '2008-01-20T00:00:00'
+date: 2008-01-20 00:00:00+00:00
 delta: 290
 description: Na Lačno je iz Hrastovelj speljana markirana pot, ki vam omogoča zanimive
   krožne izlete.
 duration: 2
 height: 451
 lead: M_0_2891.JPG
-multilead: M_0_2891.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31265
+multilead: M_0_2891.JPG
 multipath: true
 name: Lacna/Hrastovlje
+peak: 45.504969,13.885283
+region: istria
+start: 45.509506,13.900638
 title: Lačna iz Hrastovelj
 ---
 Vzpon na [Lačno](../) iz Hrastovelj je ena tistih poti, za katere bi bilo morda bolje, če jih ne bi bilo. Markacije vas v večjem delu vodijo naravnost čez zoprno sončno melišče, kjer si boste odlično uničili noge, sonce pa bo poskrbelo še za glavobol. Te poti zato nikakor ne priporočam kot samostojen izlet, če pa se boste odpravili na nekoliko daljši krožni pohod, vam bo omogočila zanimive kombinacije.

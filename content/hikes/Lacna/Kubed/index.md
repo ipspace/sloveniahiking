@@ -8,9 +8,13 @@ duration: 2.5
 height: 451
 lead: M_7-3711_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31993
 multilead: M_7-3711_IMG.JPG
 multipath: true
 name: Lacna/Kubed
+peak: 45.504969,13.885283
+region: istria
+start: 45.519562,13.869997
 title: Lačna iz Kubeda
 ---
 Iz Kubeda, kraja ob cesti proti mejnemu prehodu Mlini, je na [Lačno](../) po borovih gozdičkih in kraških travnikih speljana prijetna grebenska pot, ki bo nedvomno najlepša jeseni, ko se ruj odene v živo rdeče barve. S poti si boste mimogrede lahko ogledali Tinjan ter sosednji Kraški rob in [Slavniško pogorje](../slavnik/).

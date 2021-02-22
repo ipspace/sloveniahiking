@@ -1,18 +1,22 @@
 ---
 alt: true
 date: 1900-01-01 00:00:00+00:00
+delta: 310
 description: 'The route from Rudno polje to Lipanca is an ideal family trip: it starts
   as a gentle walk through the mighty Pokljuka spruce forests, continues with a slight
   ascent on the margin of the Pokljuka plateau, becomes somewhat more diverse and
   ends on the fairly steep grass slopes below Lipanca.'
-height: 1630
-delta: 310
 duration: 3
+height: 1630
 lead: M_9-5930_IMG.JPG
+map: true
+maplink: https://mapzs.projekti.si/path/31514
 multilead: M_9-5930_IMG.JPG
 multipath: true
-map: true
 name: Lipanca/RudnoPolje
+peak: 46.375630,13.927670
+region: julian-alps
+start: 46.345450,13.923233
 title: Lipanca from Rudno Polje
 x: 418
 y: 137
