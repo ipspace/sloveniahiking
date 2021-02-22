@@ -10,4 +10,5 @@ peak:
   despace: true
   inherit: true
 region:
-  default: istria
+  inherit: true
+#  default: istria

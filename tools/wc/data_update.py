@@ -36,6 +36,7 @@ def update_items(page,parent_page=None,template={}):
       if (not page_v) and v.get('inherit'):
         if isinstance(parent_page,dict):
           page_v = parent_page.get(k,None)
+          print("Got value for %s from parent page: %s" % (k,page_v))
 
     if v.get('sample') and not page_v:
       prompt = "%s (sample: %s) ==> " % (k,v.get('sample'))

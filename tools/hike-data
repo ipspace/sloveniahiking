@@ -27,12 +27,14 @@ def parse_cli():
 def update_hike_data(page_name=None,template=None):
   page = cm.read.page(page_name)
   page_yaml = yaml.dump(page)
+  print("\n\nUpdating %s" % page_name)
+
   parent = None
   parent_name = os.path.dirname(page_name)+"/../_"+os.path.basename(page_name)
   if os.path.exists(parent_name):
     parent = cm.read.page(parent_name)
+    print("Found parent page %s for %s" % (parent_name,page_name))
 
-  print("\n\nUpdating %s" % page_name)
   print("=" * 80)
   wc.data_update.update_items(page,parent,template)
 
