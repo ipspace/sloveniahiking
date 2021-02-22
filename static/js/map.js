@@ -40,7 +40,18 @@ function processHikeData(json,map,l_marker,icon,lang) {
 
 function createMap(divname,lat,lon,zoom,lang) {
   map = new OpenLayers.Map(divname);
-  map.addLayer(new OpenLayers.Layer.OSM());
+/*  map.addLayer(new OpenLayers.Layer.OSM()); */
+
+  osm = new OpenLayers.Layer.OSM(
+    "OpenStreetMap",
+    // Official OSM tileset as protocol-independent URLs
+    [
+        '//a.tile.openstreetmap.org/${z}/${x}/${y}.png',
+        '//b.tile.openstreetmap.org/${z}/${x}/${y}.png',
+        '//c.tile.openstreetmap.org/${z}/${x}/${y}.png'
+    ],
+    null);
+  map.addLayer(osm);
 
   var markers = new OpenLayers.Layer.Markers( "Markers" );
   map.addLayer(markers);
