@@ -10,15 +10,15 @@
     </div>
   {{ end }}
 {{ end }}
-<h3>{{ .Get "title" | default (i18n "hikesFacts") }}</h3>
+<h3>{{ .Get "title" | default (i18n "hikeFacts") }}</h3>
 {{ partial "hike-details" $.Page }}
 {{ with $.Page }}
 <p class="buttonRow">
   {{ with .Params.start }}
-    <a href="https://www.google.com/maps/search/?api=1&query={{ . }}" class="buyButton secondary" target="_blank">Starting point</a>
+    <a href="https://www.google.com/maps/search/?api=1&query={{ . }}" class="buyButton secondary" target="_blank">{{ i18n "hikeStarting" }}</a>
   {{ end }}
   {{ with .Params.maplink }}
-    <a href="{{ . }}" class="buyButton secondary" target="_blank">Hiking map</a>
+    <a href="{{ . }}" class="buyButton secondary" target="_blank">{{ i18n "hikeMap" }}</a>
   {{ end }}
 </p>
 {{ end }}
@@ -28,6 +28,6 @@
   </iframe>
 </div>
 <p class="buttonRow">
-  <a href="{{ . }}explore" class="buyButton secondary" target="_blank">Interactive route</a>
+  <a href="{{ . }}explore" class="buyButton secondary" target="_blank">{{ i18n "hikeInteractive" }}</a>
 </p>
 {{ end }}

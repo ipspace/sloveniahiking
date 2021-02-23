@@ -51,6 +51,42 @@ two="uri"
 few="ure"
 other="ur"
 
+[hikeAltitude]
+other="Nadmorska višina"
+
+[hikeCoordinates]
+other="Koordinate"
+
+[hikeEnd]
+other="Vrh"
+
+[hikeFacts]
+other="Osnovni podatki"
+
+[hikeDifficulty]
+other="Zahtevnost"
+
+[hikeDelta]
+other="Višinska razlika"
+
+[hikeDuration]
+other="Dolžina"
+
+[hikeInteractive]
+other="Raziščite pot"
+
+[hikeMap]
+other="Zemljevid poti"
+
+[hikePeak]
+other="Višina vrha"
+
+[hikeStart]
+other="Izhodišče"
+
+[hikeStarting]
+other="Izhodišče"
+
 [latestarticles]
 other="Zadnje objave"
 

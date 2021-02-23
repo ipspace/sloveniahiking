@@ -2531,6 +2531,9 @@ form.labeled.profile {
     color: #fff;
     border: 2px inset; }
 
+.post__meta {
+  margin-top: 2em; }
+
 /*
 Put this file in /static/css/hugo-easy-gallery.css
 Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/

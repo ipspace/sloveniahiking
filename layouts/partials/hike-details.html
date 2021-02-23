@@ -1,20 +1,20 @@
 <dl class='flower__data'>
   {{ with .Params.difficulty }}
-    <dt>Difficulty</dt>
+    <dt>{{ i18n "hikeDifficulty" }}</dt>
     <dd>{{ . | markdownify }}</dd>
   {{ end }}
   {{ if .Params.height }}
-    <dt>Altitude</dt>
+    <dt>{{ i18n "hikeAltitude" }}</dt>
     <dd>{{ .Params.height }} m</dd>
   {{ else }}
     {{ $parent = .GetPage "../" }}
     {{ with $parent.Params.height }}
-      <dt>Peak height</dt>
+      <dt>{{ i18n "hikeAltitude" }}</dt>
       <dd>{{ .Params.height }}</dd>
     {{ end }}
   {{ end }}
   {{ if .Params.timing }}
-    <dt>Duration</dt>
+    <dt>{{ i18n "hikeDuration" }}</dt>
     <dd>
       {{ range .Params.timing }}
         {{ . }}<br />
@@ -22,22 +22,22 @@
     </dd>
   {{ else }}
     {{ with .Params.duration }}
-      <dt>Hike duration</dt>
+      <dt>{{ i18n "hikeDuration" }}</dt>
       <dd>{{ . }} h</dd>
     {{ end }}
   {{ end }}
   {{ with .Params.delta }}
-    <dt>Height difference</dt>
+    <dt>{{ i18n "hikeDelta" }}</dt>
     <dd>{{ . }} m</dd>
   {{ end }}
   {{ if or .Params.start .Params.peak }}
-    <dt>Coordinates</dt>
+    <dt>{{ i18n "hikeCoordinates" }}</dt>
     <dd>
       {{ with .Params.start }}
-      Start: {{ . }}<br />
+      {{ i18n "hikeStart"}}: {{ . }}<br />
       {{ end }}
       {{ with .Params.peak }}
-      Peak: {{ . }}<br />
+      {{ i18n "hikeEnd" }}: {{ . }}<br />
       {{ end }}
     </dd>
   {{ end }}

@@ -45,11 +45,44 @@ other="A few randomly selected flowers"
 [flowersPhotos]
 other="Photo Gallery"
 
+[hikeAltitude]
+other="Altitude"
+
+[hikeCoordinates]
+other="Coordinates"
+
+[hikeEnd]
+other="Peak"
+
+[hikeDifficulty]
+other="Difficulty"
+
+[hikeDelta]
+other="Height difference"
+
+[hikeDuration]
+other="Hike duration"
+
+[hikeFacts]
+other="At a glance"
+
+[hikeInteractive]
+other="Interactive route"
+
+[hikeMap]
+other="Hiking map"
+
+[hikePeak]
+other="Peak altitude"
+
+[hikeStart]
+other="Start"
+
+[hikeStarting]
+other="Starting point"
+
 [hikesPhotos]
 other="Photo Gallery"
-
-[hikesFacts]
-other="At a glance"
 
 [hour]
 one="hour"
