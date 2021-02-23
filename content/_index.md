@@ -5,13 +5,13 @@ css_class: tile_centered
 url: /index.html
 ---
 {{<tile-column>}}
-{{<tile title="Outdoors Activities" link="/start.en.html" link_text="Explore" image="/images/climbing-vrsic.jpg">}}
+{{<tile title="Outdoor Activities" link="/start.en.html" link_text="Explore" image="/images/climbing-vrsic.jpg">}}
 * Hiking
 * Climbing
 * Ice climbing
 {{</tile>}}
-{{<tile title="Hiking" image="/hikes/debelapec/M_1_0145.jpg">}}
-* 150 hikes around Slovenia
+{{<tile title="Hiking in Slovenia" image="/hikes/debelapec/M_1_0145.jpg">}}
+* 180 hikes around Slovenia
 * [Recent changes](/en/hikes)
 * [List of hikes](/en/hikes-list/list/)
 * [Hikes with descriptions](/en/hikes-list/list-photos/)
@@ -20,8 +20,8 @@ url: /index.html
 * [600 Slovenian wild flowers](/en/flowers/)
 * [Gallery](/en/flowers/list.html)
 * [Early spring flowers](/en/flowers/early-spring/)
-* [Orchids](/en/flowers/family/orchidaceae/)
-* [Lilies](/en/flowers/genus/lilium/)
+* [Slovenian Orchids](/en/flowers/family/orchidaceae/)
+* [Slovenian Lilies](/en/flowers/genus/lilium/)
 {{</tile>}}
 {{</tile-column>}}
 {{<tile-column>}}
@@ -32,7 +32,7 @@ url: /index.html
 * [Ledno plezanje](https://www.plezanje.net/climbing/db/index.asp?file=iceKamSavAlpe.xml)
 {{</tile>}}
 {{<tile title="Izleti po Sloveniji" image="/hikes/kovk/budanje/M_0_00679.JPG">}}
-* 150 izletov po Sloveniji
+* 180 izletov po Sloveniji
 * [Novosti](/hikes)
 * [Seznam izletov](/hikes-list/list/)
 * [Kratki opisi](/hikes-list/list-photos/)
