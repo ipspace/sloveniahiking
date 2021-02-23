@@ -16,7 +16,7 @@ def write_to_clipboard(output):
 
 def parse_cli():
   parser = argparse.ArgumentParser(description='Import pictures into Hiking directory')
-  parser.add_argument('pics', nargs='*',action='store',help='Pictures to import')
+  parser.add_argument('pics', nargs='+',action='store',help='Pictures to import')
   return parser.parse_args()
 
 args = parse_cli()

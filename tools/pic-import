@@ -3,26 +3,41 @@
 import sys
 import os
 import argparse
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ExifTags
 
 import cm.images
 import datetime
 
 def parse_cli():
   parser = argparse.ArgumentParser(description='Import pictures into Hiking directory')
-  parser.add_argument('pics', nargs='*',action='store',help='Pictures to import')
+  parser.add_argument('pics', nargs='+',action='store',help='Pictures to import')
+  parser.add_argument('-p','--prefix',dest='prefix',action='store',help='Prefix to use when importing pictures')
+  parser.add_argument('-a','--author',dest='author',action='store',help='Author')
+  parser.add_argument('-r','--renumber',dest='renumber',action='store_true',help='Renumber pictures when importing')
   return parser.parse_args()
 
-txt = "{{<gallery>}}\n"
+def get_author(p):
+  if args.author:
+    return '© '+args.author
+
+  return None
+
+def get_pic_id(dir,exif,prefix):
+  if dir != "":
+    dir = dir + "/"
+
+  date = exif['DateTimeOriginal']
+  return dir + prefix + date.replace(":","").replace(" ","_")+".jpg"
+
+args = parse_cli()
 for img in args.pics:
-  txt = txt + '{{<figure src="%s">}}\n' % os.path.basename(img)
-txt = txt + "{{</gallery>}}\n"
   if args.prefix:
     if args.prefix in img:
       print("%s already imported, skipping" % img)
       continue
 
   try:
+    exif = cm.images.get_exif(img)
     print("Importing %s" % img)
     cm.images.watermark(img,author=get_author)
   except:
@@ -35,7 +50,7 @@ txt = txt + "{{</gallery>}}\n"
     if args.prefix:
       new_name = args.prefix + "-" + pic_name.replace(" ","-").lower()
     if args.renumber:
-      new_name = get_pic_id(pic_dir,"M_")
+      new_name = get_pic_id(pic_dir,exif,"M_")
 
     new_name.replace(".jpeg",".jpg")
     print("Renaming %s to %s" % (pic_name,new_name))

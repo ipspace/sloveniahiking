@@ -4,7 +4,7 @@
 
 import os
 import shutil
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ExifTags
 
 config = {
   'ImagePath': '../static/images',
@@ -55,4 +55,21 @@ def replace_image(p,lookup={},do_watermark=True,author=get_default_author):
   else:
     print("Original not found: %s" % p)
 
+def get_exif(img):
+  exif_raw = Image.open(img).getexif()
+  if exif_raw is None:
+    return None
 
+  exif = {}
+  for k,v in exif_raw.items():
+    if k in ExifTags.TAGS:
+      exif[ExifTags.TAGS[k]] = v
+
+  if 'GPSInfo' in exif:
+    gpsinfo = {}
+    for key in exif['GPSInfo'].keys():
+      decode = ExifTags.GPSTAGS.get(key,key)
+      gpsinfo[decode] = exif['GPSInfo'][key]
+    exif['GPSInfo'] = gpsinfo
+
+  return exif
