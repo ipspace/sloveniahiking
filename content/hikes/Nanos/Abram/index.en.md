@@ -22,6 +22,7 @@ timing:
 - "Return: 2 hours"
 - "Total: 4.5 hours"
 title: Nanos (Pleša) from Abram
+video: https://www.relive.cc/view/vLqeGkzojdO/
 ---
 The hike across sunny Nanos meadows from [Abram](https://www.abram-si.com/ANG/page.html) (a 500-year old farm situated 800m above the Vipava valley) is my favorite way to reach Pleša, the most prominent Nanos peak. We love taking the hike in May and June, enjoying the wildflowers, or doing it in late autumn or early spring when the soil is still frozen.
 

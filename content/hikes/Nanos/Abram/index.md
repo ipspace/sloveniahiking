@@ -19,6 +19,7 @@ timing:
 - "Vrnitev: 2 uri"
 - "Skupaj: 4.5 ur"
 title: Od Abrama do Pleše
+video: https://www.relive.cc/view/vLqeGkzojdO/
 ---
 Izlet po sončnih Nanoških travnikih med [Abramom](https://www.abram-si.com/ANG/page.html) (500 let staro kmetijo visoko nad Vipavsko dolino) in [Plešo](../) (najbolj izrazitim vrhom Nanosa) je najlepši v maju in juniju ko zacvetijo perunike, pa tudi pozimi ne boste razočarani. Izogibajte se le poletne vročine.
 
