@@ -21,7 +21,11 @@ image:
 layout: stub
 lead: M_5-6560_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/130
 name: JezerskiStog
+peak: 46.338369,13.845151
+region: julian-alps
+start: 46.310815,13.849374
 title: Jezerski Stog
 x: 411
 y: 133

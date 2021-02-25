@@ -1,6 +1,6 @@
 ---
 author: Mojca_Lustrek
-date: '2006-11-19T00:00:00'
+date: 2006-11-19 00:00:00+00:00
 delta: 1436
 description: Sleme je travnat vrh v vzhodnih martuljških gorah. Pot nanj je še posebno
   privlačna jeseni, ko pozlatijo macesni na lepi Vrtaški planini, čez katero se vzpnemo
@@ -20,8 +20,12 @@ image:
 - M_006111909.jpg
 - M_006111908.jpg
 lead: M_006111906.jpg
+maplink: https://mapzs.projekti.si/poi/113
 name: Sleme
+peak: 46.451733,13.871999
 photo_author: Mojca_Lustrek
+region: julian-alps
+start: 46.458179,13.935956
 title: Sleme
 x: 414
 y: 146

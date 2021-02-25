@@ -1,5 +1,5 @@
 ---
-date: '2006-02-05T00:00:00'
+date: 2006-02-05 00:00:00+00:00
 delta: 150
 description: V Tamar, ledeniško dolino pod Poncami, se je lepo odpraviti v vseh letnih
   časih, najlepše pa je morda pozimi, ko se Planica in Tamar spremenita v pravo zimsko
@@ -10,8 +10,12 @@ height: 1106
 image:
 - M_010051.JPG
 lead: M_010051.JPG
+maplink: https://mapzs.projekti.si/poi/1145
 name: Tamar
+peak: 46.446150,13.713228
 photo_author: Tina_diBatista
+region: julian-alps
+start: 46.476903,13.724840
 title: Tamar
 x: 401
 y: 145

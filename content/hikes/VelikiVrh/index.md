@@ -10,7 +10,11 @@ duration: 3
 height: 2088
 lead: M_3_0366.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/107
 name: VelikiVrh
+peak: 46.430531,14.309551
+region: karavanke
+start: 46.417705,14.323757
 title: Veliki vrh nad Kofcami
 x: 447
 y: 143

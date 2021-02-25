@@ -28,7 +28,11 @@ image:
 layout: stub
 lead: M_8-6806_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31018
 name: Vogel
+peak: 46.239553,13.821832
+region: julian-alps
+start: 46.263587,13.840046
 title: Pastures around Vogel
 x: 410
 y: 124

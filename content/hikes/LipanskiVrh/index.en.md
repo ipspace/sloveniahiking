@@ -26,7 +26,11 @@ image:
 layout: stub
 lead: M_9-6909_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/6083
 name: LipanskiVrh
+peak: 46.378856,13.920257
+region: julian-alps
+start: 46.374746,13.941008
 title: Lipanski vrh and Mrežce
 x: 417
 y: 138

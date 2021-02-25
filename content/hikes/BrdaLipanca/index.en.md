@@ -17,7 +17,11 @@ image:
 layout: stub
 lead: M_1_0167.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/142
 name: BrdaLipanca
+peak: 46.385040,13.925494
+region: julian-alps
+start: 46.374746,13.941008
 title: Brda near Lipanca
 x: 418
 y: 138

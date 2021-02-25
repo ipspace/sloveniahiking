@@ -1,9 +1,12 @@
 ---
 date: 2003-10-19 00:00:00+00:00
-lastmod: 2021-02-20 06:35
 delta: 610
-description: |
-  Pokljuško planoto na njenem severozahodnem robu ločuje od ledeniške doline Krme strm greben z vrsto lahko dostopnih razglednih vrhov. Prvi dvatisočak v tem grebenu je Debela peč, travnat vrh, s katerega boste lahko uživali v razgledu na Triglavsko pogorje, Pokljuko, Bohinjske gore.
+description: 'Pokljuško planoto na njenem severozahodnem robu ločuje od ledeniške
+  doline Krme strm greben z vrsto lahko dostopnih razglednih vrhov. Prvi dvatisočak
+  v tem grebenu je Debela peč, travnat vrh, s katerega boste lahko uživali v razgledu
+  na Triglavsko pogorje, Pokljuko, Bohinjske gore.
+
+  '
 duration: 4
 height: 2014
 image:
@@ -23,9 +26,14 @@ image:
 - mapgps.jpg
 - path_1.gif
 - alt.gif
+lastmod: 2021-02-20 06:35
 lead: M_1_0145.jpg
 map: 1
+maplink: https://mapzs.projekti.si/poi/140
 name: DebelaPec
+peak: 46.390678,13.933335
+region: julian-alps
+start: 46.374746,13.941008
 title: Debela peč
 x: 418
 y: 139

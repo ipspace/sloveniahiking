@@ -18,8 +18,12 @@ image:
 - M_005021108.jpg
 layout: stub
 lead: M_005021110.jpg
+maplink: https://mapzs.projekti.si/poi/34918
 name: Uskovnica
+peak: 46.322242,13.907812
 photo_author: Mojca_Lustrek
+region: julian-alps
+start: 46.289737,13.897734
 title: Uskovnica in winter
 x: 416
 y: 131

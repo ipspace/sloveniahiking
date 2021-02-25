@@ -27,7 +27,11 @@ image:
 - alt.gif
 lead: M_5-6601.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/55
 name: ToscBohinj
+peak: 46.356756,13.868350
+region: julian-alps
+start: 46.345450,13.923233
 title: Tosc z Rudnega polja
 x: 413
 y: 135

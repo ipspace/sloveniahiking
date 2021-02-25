@@ -1,5 +1,5 @@
 ---
-date: '2006-06-25T00:00:00'
+date: 2006-06-25 00:00:00+00:00
 delta: 590
 description: Če Tine Mihelič v svojem vodniku po Julijskih Alpah zapiše, da je razgled
   z Brd lepši kot z bližnje Debele peči, je že to zadosten razlog za obisk tega kopastega
@@ -19,7 +19,11 @@ image:
 - path_1.gif
 lead: M_1_0167.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/142
 name: BrdaLipanca
+peak: 46.385040,13.925494
+region: julian-alps
+start: 46.374746,13.941008
 title: Brda nad Lipanco
 x: 418
 y: 138

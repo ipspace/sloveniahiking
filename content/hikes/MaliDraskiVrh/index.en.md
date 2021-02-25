@@ -17,7 +17,11 @@ image:
 layout: stub
 lead: M_0_00606.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/33033
 name: MaliDraskiVrh
+peak: 46.362985,13.891641
+region: julian-alps
+start: 46.345450,13.923233
 title: Mali Draški vrh
 x: 415
 y: 136

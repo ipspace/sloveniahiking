@@ -23,7 +23,11 @@ image:
 layout: stub
 lead: M_1_0145.jpg
 map: 1
+maplink: https://mapzs.projekti.si/poi/140
 name: DebelaPec
+peak: 46.390678,13.933335
+region: julian-alps
+start: 46.374746,13.941008
 title: Debela peč
 x: 418
 y: 139

@@ -1,6 +1,6 @@
 ---
 author: Mojca_Lustrek
-date: '2006-02-12T00:00:00'
+date: 2006-02-12 00:00:00+00:00
 delta: 608
 description: Uskovnica na robu Pokljuke nad Gornjo Bohinjsko dolino in dolino Voje
   je izhodišče za številne izlete in vzpone, priljubljen cilj pohodnikov in smučarjev
@@ -21,8 +21,12 @@ image:
 - M_005021109.jpg
 - M_005021108.jpg
 lead: M_005021110.jpg
+maplink: https://mapzs.projekti.si/poi/34918
 name: Uskovnica
+peak: 46.322242,13.907812
 photo_author: Mojca_Lustrek
+region: julian-alps
+start: 46.289737,13.897734
 title: Uskovnica pozimi
 x: 416
 y: 131

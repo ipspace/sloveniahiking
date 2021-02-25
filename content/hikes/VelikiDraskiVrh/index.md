@@ -23,7 +23,11 @@ image:
 - alt.gif
 lead: M_0_3195.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/73
 name: VelikiDraskiVrh
+peak: 46.360212,13.875946
+region: julian-alps
+start: 46.345450,13.923233
 title: Veliki Draški vrh
 x: 414
 y: 136

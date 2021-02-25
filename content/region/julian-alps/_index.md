@@ -1,7 +1,7 @@
 ---
 title: Julijske Alpe
-#lat: 45.80
-#lon: 13.92
-#map_zoom: 10
+lat: 46.35
+lon: 13.90
+map_zoom: 10
 map_h: 30em
 ---

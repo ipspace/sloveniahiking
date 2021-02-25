@@ -20,7 +20,11 @@ image:
 - M_5-6554_IMG.JPG
 - Krstenica.jpg
 lead: M_5-6554_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/4709
 name: Krstenica
+peak: 46.325865,13.851880
+region: julian-alps
+start: 46.310815,13.849374
 title: Krstenica
 x: 412
 y: 132

@@ -1,6 +1,6 @@
 ---
 author: Mojca_Lustrek
-date: '2006-09-03T00:00:00'
+date: 2006-09-03 00:00:00+00:00
 delta: 1500
 description: Mogočni gori na koncu doline Vrat so dale ime stene, priljubljene tudi
   pri plezalcih; edino položnejše pobočje je tisto proti Kriškim podom.
@@ -25,7 +25,11 @@ image:
 - path_1.gif
 lead: M_6_2636.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/18
 name: Stenar
+peak: 46.408035,13.818710
+region: julian-alps
+start: 46.412627,13.846501
 title: Stenar
 x: 410
 y: 141

@@ -24,7 +24,11 @@ image:
 layout: stub
 lead: M_1-7133_img.jpg
 map: 1
+maplink: https://mapzs.projekti.si/poi/1017
 name: PlaninaRazor
+peak: 46.235612,13.793350
+region: julian-alps
+start: 46.229377,13.771512
 title: Razor pasture
 x: 407
 y: 122
