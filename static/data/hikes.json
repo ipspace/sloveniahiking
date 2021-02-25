@@ -35,7 +35,11 @@
     "height": 2275,
     "lead": "M_5-6601.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/55",
     "name": "ToscBohinj",
+    "peak": "46.356756,13.868350",
+    "region": "julian-alps",
+    "start": "46.345450,13.923233",
     "title": {
       "sl": "Tosc z Rudnega polja",
       "en": "Tosc from Rudno polje"
@@ -162,7 +166,11 @@
     "duration": 6,
     "height": 1922,
     "lead": "M_8-6819_IMG.jpg",
+    "maplink": "https://mapzs.projekti.si/path/32030",
     "name": "VogelVrh",
+    "peak": "46.238331,13.812483",
+    "region": "julian-alps",
+    "start": "46.235612,13.793350",
     "title": {
       "sl": "Vogel",
       "en": "Vogel"
@@ -375,7 +383,11 @@
     "height": 2088,
     "lead": "M_3_0366.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/107",
     "name": "VelikiVrh",
+    "peak": "46.430531,14.309551",
+    "region": "karavanke",
+    "start": "46.417705,14.323757",
     "title": {
       "sl": "Veliki vrh nad Kofcami",
       "en": "Veliki vrh"
@@ -468,7 +480,11 @@
     "height": 1700,
     "lead": "M_8-6806_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31018",
     "name": "Vogel",
+    "peak": "46.239553,13.821832",
+    "region": "julian-alps",
+    "start": "46.263587,13.840046",
     "title": {
       "sl": "Po planinah pod Voglom",
       "en": "Pastures around Vogel"
@@ -739,8 +755,12 @@
     "duration": 5,
     "height": 1154,
     "lead": "M_005021110.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/34918",
     "name": "Uskovnica",
+    "peak": "46.322242,13.907812",
     "photo_author": "Mojca_Lustrek",
+    "region": "julian-alps",
+    "start": "46.289737,13.897734",
     "title": {
       "sl": "Uskovnica pozimi",
       "en": "Uskovnica in winter"
@@ -928,7 +948,10 @@
     "height": 1630,
     "lead": "M_1-6154_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5098",
     "name": "Porezen",
+    "peak": "46.177165,13.974299",
+    "start": "46.156137,13.944936",
     "title": {
       "sl": "Porezen iz Jesenice",
       "en": "Porezen"
@@ -948,7 +971,11 @@
     "height": 1315,
     "lead": "M_1-7133_img.jpg",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1017",
     "name": "PlaninaRazor",
+    "peak": "46.235612,13.793350",
+    "region": "julian-alps",
+    "start": "46.229377,13.771512",
     "title": {
       "sl": "Planina Razor",
       "en": "Razor pasture"
@@ -1155,7 +1182,11 @@
     "height": 2050,
     "lead": "M_9-5929_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4975",
     "name": "Visevnik",
+    "peak": "46.358914,13.898428",
+    "region": "julian-alps",
+    "start": "46.345450,13.923233",
     "title": {
       "sl": "Vi\u0161evnik",
       "en": "Vi\u0161evnik"
@@ -1562,6 +1593,35 @@
     "y": 57
   },
   {
+    "date": "2021-02-23 18:30:35+00:00",
+    "delta": "560",
+    "description": {
+      "sl": "Izlet po son\u010dnih Nano\u0161kih travnikih med Abramom (500 let staro kmetijo visoko nad Vipavsko dolino) in Ple\u0161o (najbolj izrazitim vrhom Nanosa) je najlep\u0161i v maju in juniju ko zacvetijo perunike.",
+      "en": "The hike across sunny Nanos meadows from Abram (a 500-year old farm situated 800m above the Vipava valley) is my favorite way to reach Ple\u0161a, the most prominent\nNanos peak. \n\nWe love taking the hike in May and June, enjoying the wildflowers, or doing it in late autumn or early spring when the soil is still frozen.\n"
+    },
+    "difficulty": "Prijeten sprehod z ob\u010dasnim strmim vlo\u017ekom",
+    "duration": 4.5,
+    "height": 1262,
+    "lead": "M_20210223_101205.jpg",
+    "multilead": "M_20210223_101205.jpg",
+    "maplink": "https://mapzs.projekti.si/path/30815",
+    "multipath": true,
+    "name": "Abram",
+    "peak": "45.772613,14.053047",
+    "region": "vipava",
+    "start": "45.819912,14.019444",
+    "timing": [
+      "Abram - Ple\u0161a: 2 uri",
+      "Vrnitev: 2 uri",
+      "Skupaj: 4.5 ur"
+    ],
+    "title": {
+      "sl": "Od Abrama do Ple\u0161e",
+      "en": "Nanos (Ple\u0161a) from Abram"
+    },
+    "video": "https://www.relive.cc/view/vLqeGkzojdO/"
+  },
+  {
     "date": "2003-11-02 00:00:00+00:00",
     "delta": 640,
     "description": {
@@ -1675,7 +1735,11 @@
     "duration": 3,
     "height": 1670,
     "lead": "M_5-6554_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/4709",
     "name": "Krstenica",
+    "peak": "46.325865,13.851880",
+    "region": "julian-alps",
+    "start": "46.310815,13.849374",
     "title": {
       "sl": "Krstenica",
       "en": "Krstenica pasture"
@@ -1715,7 +1779,11 @@
     "height": 1621,
     "lead": "M_9_1933.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/6050",
     "name": "VodicniVrh",
+    "peak": "46.301639,13.84331",
+    "region": "julian-alps",
+    "start": "46.296755,13.867167",
     "title": {
       "sl": "Vodi\u010dni vrh",
       "en": "Vodi\u010dni vrh"
@@ -1805,7 +1873,11 @@
     "height": 2008,
     "lead": "M_1_0167.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/142",
     "name": "BrdaLipanca",
+    "peak": "46.385040,13.925494",
+    "region": "julian-alps",
+    "start": "46.374746,13.941008",
     "title": {
       "sl": "Brda nad Lipanco",
       "en": "Brda near Lipanca"
@@ -1856,7 +1928,6 @@
   },
   {
     "date": "2003-10-19 00:00:00+00:00",
-    "lastmod": "2021-02-20 06:35",
     "delta": 610,
     "description": {
       "sl": "Poklju\u0161ko planoto na njenem severozahodnem robu lo\u010duje od ledeni\u0161ke doline Krme strm greben z vrsto lahko dostopnih razglednih vrhov. Prvi dvatiso\u010dak v tem grebenu je Debela pe\u010d, travnat vrh, s katerega boste lahko u\u017eivali v razgledu na Triglavsko pogorje, Pokljuko, Bohinjske gore.\n",
@@ -1864,9 +1935,14 @@
     },
     "duration": 4,
     "height": 2014,
+    "lastmod": "2021-02-20 06:35",
     "lead": "M_1_0145.jpg",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/140",
     "name": "DebelaPec",
+    "peak": "46.390678,13.933335",
+    "region": "julian-alps",
+    "start": "46.374746,13.941008",
     "title": {
       "sl": "Debela pe\u010d",
       "en": "Debela pe\u010d"
@@ -1967,7 +2043,11 @@
     "height": 2501,
     "lead": "M_6_2636.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/18",
     "name": "Stenar",
+    "peak": "46.408035,13.818710",
+    "region": "julian-alps",
+    "start": "46.412627,13.846501",
     "title": {
       "sl": "Stenar",
       "en": "Stenar"
@@ -2398,7 +2478,11 @@
     "height": 2040,
     "lead": "M_5-6560_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/130",
     "name": "JezerskiStog",
+    "peak": "46.338369,13.845151",
+    "region": "julian-alps",
+    "start": "46.310815,13.849374",
     "title": {
       "sl": "Jezerski Stog",
       "en": "Jezerski Stog"
@@ -2482,8 +2566,12 @@
     "duration": 6,
     "height": 2077,
     "lead": "M_006111906.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/113",
     "name": "Sleme",
+    "peak": "46.451733,13.871999",
     "photo_author": "Mojca_Lustrek",
+    "region": "julian-alps",
+    "start": "46.458179,13.935956",
     "title": {
       "sl": "Sleme",
       "en": "Sleme"
@@ -2592,7 +2680,11 @@
     "height": 2132,
     "lead": "M_0_00606.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/33033",
     "name": "MaliDraskiVrh",
+    "peak": "46.362985,13.891641",
+    "region": "julian-alps",
+    "start": "46.345450,13.923233",
     "title": {
       "sl": "Mali Dra\u0161ki vrh",
       "en": "Mali Dra\u0161ki vrh"
@@ -2967,8 +3059,12 @@
     "duration": 2,
     "height": 1106,
     "lead": "M_010051.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1145",
     "name": "Tamar",
+    "peak": "46.446150,13.713228",
     "photo_author": "Tina_diBatista",
+    "region": "julian-alps",
+    "start": "46.476903,13.724840",
     "title": {
       "sl": "Tamar",
       "en": "Tamar"
@@ -3087,7 +3183,11 @@
     "height": 2243,
     "lead": "M_0_3195.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/73",
     "name": "VelikiDraskiVrh",
+    "peak": "46.360212,13.875946",
+    "region": "julian-alps",
+    "start": "46.345450,13.923233",
     "title": {
       "sl": "Veliki Dra\u0161ki vrh",
       "en": "Veliki Dra\u0161ki vrh"
@@ -3208,7 +3308,11 @@
     "height": 1844,
     "lead": "M_6-6688_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/34894",
     "name": "CrnaPrst",
+    "peak": "46.231157,13.931631",
+    "region": "julian-alps",
+    "start": "46.258675,13.959392",
     "title": {
       "sl": "\u010crna prst",
       "en": "\u010crna prst"
@@ -3855,7 +3959,11 @@
     "height": 1974,
     "lead": "M_9-6909_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/6083",
     "name": "LipanskiVrh",
+    "peak": "46.378856,13.920257",
+    "region": "julian-alps",
+    "start": "46.374746,13.941008",
     "title": {
       "sl": "Lipanski vrh in Mre\u017ece",
       "en": "Lipanski vrh and Mre\u017ece"
@@ -4068,7 +4176,11 @@
     "height": 1054,
     "lead": "M_9_1910.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1201",
     "name": "Vogar",
+    "peak": "46.296755,13.867167",
+    "region": "julian-alps",
+    "start": "46.290398,13.886655",
     "title": {
       "sl": "Vogar",
       "en": "Vogar"
