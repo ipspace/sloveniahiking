@@ -2,14 +2,13 @@
 author: Alenka_Mihoric
 color: R
 date: 2006-08-27 00:00:00+00:00
+lastmod: 2021-02-25 17:35:00
 f_end: '8'
 f_start: '7'
 family: Asteraceae
 flower_type: K
-image:
-- M_006031211.jpg
 latin: Cirsium waldsteinii
-lead: M_006031211.jpg
+lead: M_20090630_092949.jpg
 lead_sample: false
 order: Cirsium
 parallel: false
@@ -25,3 +24,5 @@ title: Waldsteinov osat
 -   Spodnji listi objemajo steblo s krilatim pecljem z dvema ušescema.
 
 Waldsteinov osat boste našli v gozdovih, na posekah in ob potokih v slovenskih gorah. Raste le na precej zakisanih neapnenčastih tleh, zato ga boste najlaže našli na Pohorju.
+
+{{<note update>}}Februar 2021: Alenka Mihorič mi je poslala lepše fotografije tega osata. Najlepša hvala!{{</note>}}

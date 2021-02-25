@@ -20,7 +20,7 @@ Zelo verjetno res.
 
 Opisi rož bi morali biti brezhibni; morda kakšna povezava ne deluje tako kot bi morala.
 
-Opisi izletov so bili dosti večja bolečina. Približno petdeset opisov je že urejenih, ostalo jih je še okoli sto. Večina od njih je vsaj berljiva; morda so napisi pod slikami na napačnih mesti. Če boste našli katastrofalno polomljen opis me seveda obvestite... kar me pripelje do naslednje točke:
+Opisi izletov so bili dosti večja bolečina. Približno petdeset opisov je že urejenih, ostalo jih je še okoli sto. Večina od njih je vsaj berljiva; morda so napisi pod slikami na napačnih mestih. Če boste našli katastrofalno polomljen opis me seveda obvestite... kar me pripelje do naslednje točke:
 
 ### Manjka mi...
 
@@ -30,9 +30,9 @@ Opisi izletov so bili dosti večja bolečina. Približno petdeset opisov je že 
 * *knjiga gostov* -- tega danes ne dela nihče več.
 * *iskanje izletov po kriterijih* -- bo.
 * *bližnji izleti* -- tudi ti bodo prišli.
-* *prikaz izletov na zemljevidu* -- to bo ena prvih stvari ki se je bom lotil v naslednjem navalu motivacije.
+* *prikaz izletov na zemljevidu* -- Julijske Alpe, Vipavska dolina, Kras in Istra so že dokončani. Ostalo še pride...
 * *botanična določevalnica* -- te ne bo več. Že nekaj let je ni nihče uporabil.
-* *iskanje po lastnostih rož* -- o tem razmišljam. Morda...
+* *iskanje po lastnostih rož* -- Vem kako narediti, pride "nekoč".
 * *pošljite nam sporočilo* -- ne ljubi se mi več pretepati z nasilneži ki imajo neskončno časa da iščejo luknje v spletnih formularjih za širjenje svoje nesnage. Lahko mi pošljete sporočilo na [Twitterju](https://twitter.com/ioshints) ali [LinkedIn](https://www.linkedin.com/in/ivanpepelnjak/)-u.
 
 Facebook? Instagram? WhatsApp? Ne, hvala. Brezplačne storitve Marka Zuckenberga me ne zanimajo.
@@ -45,11 +45,13 @@ Sladkarij imamo zadosti, osnovne informacije o obisku spletnih strani nam daje C
 
 Tudi reklam na naših straneh ne boste našli -- skorajda nespodobno je mazati spletne strani za tistih nekaj fičenkov ki se naberejo z reklamami.
 
+<!--
 ### Zakaj je večina novosti v angleščini?
 
 Zaplana.net je bila prva spletna stran v Sloveniji ki je objavljala opise izletov po Sloveniji in fotografije slovenskih divjih rož. V dveh desetletjih od njenega nastanka se je pojavila kopica strani ki opravljajo isto funkcijo, marsikdaj precej bolje ali bolj obširno (primer: [hribi.net](http://www.hribi.net/) in [članki Mojce Luštrek](http://pohribih.blogspot.com/)). 
 
 Po drugi strani se večina strani, ki opisujejo izlete po Sloveniji v angleščini, osredotoča na vsebine ki so zanimive za masovni turizem. Morda bo tistih nekaj tujcev, ki v Sloveniji iščejo več kot kremne rezine s pogledom na Blejski grad, našlo na teh straneh kaj zase ;)
+-->
 
 ### Za radovedne
 

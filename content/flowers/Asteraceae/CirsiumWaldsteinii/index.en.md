@@ -9,7 +9,7 @@ flower_type: K
 image:
 - M_006031211.jpg
 latin: Cirsium waldsteinii
-lead: M_006031211.jpg
+lead: M_20090630_092949.jpg
 lead_sample: false
 name: index.en
 order: Cirsium
