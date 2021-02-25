@@ -19,6 +19,7 @@ def parse_cli():
   parser.add_argument('-y',dest='y',action='store',help='Select hikes by Y (min,max)')
   parser.add_argument('--skip',dest='skip',action='append',help='Skip hikes with this parameter')
   parser.add_argument('--update',dest='update',action='store_true',help='Update hikes selected by bounding box')
+  parser.add_argument('--region',dest='region',action='store',help='Default region')
   parser.add_argument('--template','-t',dest='template',action='store', \
     default="hikes-template.yaml", \
     help='Data template')
@@ -75,10 +76,13 @@ def update_hike_box(x,y,template):
     y_max = int(y.split(',')[1])
 
   print("Selecting hikes in the bounding box %d/%d to %d/%d" % (x_min,y_min,x_max,y_max))
-  cm.traverse.walk(config['ExFilePath'],r'index\.md$',lambda path: check_box(path,template,x_min,x_max,y_min,y_max))
+  search_path = os.path.dirname(__file__) + "/" + config['ExFilePath']
+  cm.traverse.walk(search_path,r'index\.md$',lambda path: check_box(path,template,x_min,x_max,y_min,y_max))
 
 args = parse_cli()
 template = wc.data_update.read_template(args.template,search_path=[os.path.dirname(__file__)])
+if args.region and template.get('region'):
+  template['region']['default'] = args.region
 
 if args.data:
   for page_name in args.data:
