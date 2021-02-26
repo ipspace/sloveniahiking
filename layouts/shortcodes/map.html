@@ -1,0 +1,6 @@
+{{ $lat := .Get "lat" | default 46 }}
+{{ $lon := .Get "lon" | default 15 }}
+{{ $zoom := .Get "zoom" | default 10 }}
+{{ $maph := .Get "h" | default "50em" }}
+
+{{ partial "include-map" (dict "lat" $lat "lon" $lon "lang" $.Page.Lang "map_zoom" $zoom "map_h" $maph) }}

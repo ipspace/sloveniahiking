@@ -75,6 +75,15 @@ other="Dolžina"
 [hikeInteractive]
 other="Raziščite pot"
 
+[hikeListDescription]
+other="Izleti s podrobnimi opisi"
+
+[hikeListRegionOther]
+other="Ostali izleti v tej regiji"
+
+[hikeList]
+other="Seznam izletov"
+
 [hikeMap]
 other="Zemljevid poti"
 

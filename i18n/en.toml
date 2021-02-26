@@ -69,6 +69,15 @@ other="At a glance"
 [hikeInteractive]
 other="Interactive route"
 
+[hikeListDescription]
+other="Hikes with detailed descriptions"
+
+[hikeListRegionOther]
+other="Other hikes in this region"
+
+[hikeList]
+other="List of hikes"
+
 [hikeMap]
 other="Hiking map"
 

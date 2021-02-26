@@ -1,4 +1,8 @@
 ---
 title: Področja
 ---
-Izleti v nekaterih delih Slovenije imajo koordinate izhodišča in cilja. Te izlete si lahko ogledate tudi na zemljevidih posameznih področij:
+Za izlete v nekatere dele Slovenije smo že poiskali koordinate izhodišča in cilja.
+
+{{<map lat="46.13" lon="15" zoom="8" h="30em">}}
+
+Te izlete si lahko ogledate tudi na zemljevidih posameznih področij:

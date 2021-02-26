@@ -8,8 +8,36 @@
     {{ if .Params.lat }}
       {{ partial "include-map" .Params }}
     {{ end }}
-    {{ range .Pages.ByTitle }}
-      {{ partial "post-blurb.html" . }}
+    {{ $short := where .Pages "Params.description" "eq" nil }}
+    {{ if len $short }}
+      {{ $long := where .Pages "Params.description" "ne" nil }}
+      {{ if len $long }}
+        <h2>{{ i18n "hikeListDescription" }}</h2>
+        {{ range $long.ByTitle }}
+          {{ partial "post-blurb.html" . }}
+        {{ end }}
+        <h2>{{ i18n "hikeListRegionOther" }}</h2>
+        <ul>
+          {{ range $short.ByTitle }}
+            {{ if .Params.Duration }}
+              {{ partial "hike-line-details" . }}
+            {{ end }}
+          {{ end }}
+        </ul>
+      {{ else }}
+        <h2>{{ i18n "hikeList" }}</h2>
+        <ul>
+          {{ range $short.ByTitle }}
+            {{ if .Params.Duration }}
+              {{ partial "hike-line-details" . }}
+            {{ end }}
+          {{ end }}
+        </ul>
+      {{ end }}
+    {{ else }}
+      {{ range .Pages.ByTitle }}
+        {{ partial "post-blurb.html" . }}
+      {{ end }}
     {{ end }}
   </div>
 </article>

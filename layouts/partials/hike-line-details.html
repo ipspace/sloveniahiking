@@ -1,0 +1,4 @@
+<li>
+  <a href="{{ .Permalink }}">{{ .Title }}</a>
+  ({{ .Params.height }} m{{ with .Params.delta }},  Δ={{ . }} m{{ end }}{{ with .Params.duration }}, {{ . }} {{ i18n "hour" (int .) }}{{ end }})
+</li>
