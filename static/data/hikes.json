@@ -4198,16 +4198,15 @@
   },
   {
     "date": "2004-10-24 00:00:00+00:00",
+    "lastmod": "2021-02-27 18:30:00",
     "delta": 480,
     "description": {
-      "sl": "Severno od Bohinjskega jezera se dviguje strm greben, v katerem bo vsak obiskovalec Bohinja hitro opazil Vogar, najbolj vzhodni vrh.",
+      "sl": "Severno od Bohinjskega jezera se dviguje strm greben, v katerem bo vsak obiskovalec Bohinja hitro opazil Vogar, najbolj vzhodni vrh.\n",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 1054,
     "lead": "M_9_1910.JPG",
-    "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1201",
     "name": "Vogar",
     "peak": "46.296755,13.867167",
@@ -4216,9 +4215,7 @@
     "title": {
       "sl": "Vogar",
       "en": "Vogar"
-    },
-    "x": 413,
-    "y": 129
+    }
   },
   {
     "date": "2005-05-07 00:00:00+00:00",
