@@ -19,3 +19,4 @@
     entry: tools/hike-precommit.sh
     language: script
     files: "/hikes/"
+    verbose: true
