@@ -20,8 +20,12 @@
   <style>svg { display: none }</style>
   {{ partial "extra-in-head.html" . }}
   {{ partial "fathom.html" . }}
-  {{ if .OutputFormats.Get "RSS" }}
-  <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml">
+  {{ if .Params.RSS }}
+    <link href='{{ .Params.RSS }}' rel='alternate' type='application/rss+xml'>
+  {{ else }}
+    {{ if .OutputFormats.Get "RSS" }}
+  <link href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}' rel='alternate' type='application/rss+xml'>
+    {{ end }}
   {{ end }}
   <script crossorigin='anonymous' integrity='sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=' src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
 </head>

@@ -3,6 +3,7 @@ title: Outdoors Slovenia
 layout: raw
 css_class: tile_centered
 url: /index.html
+RSS: https://sloveniahiking.rocks/en/index.xml
 ---
 {{<tile-column>}}
 {{<tile title="Outdoor Activities" link="/start.en.html" link_text="Explore" image="/images/climbing-vrsic.jpg">}}
