@@ -793,6 +793,38 @@
     "y": 77
   },
   {
+    "date": "2021-02-26 18:04:54+00:00",
+    "delta": 1050,
+    "description": {
+      "sl": "Veliki Rob je eden najbolj opaznih vrhov na robu \u010cavna. Ve\u010dino izletnikov bolj zanima Kucelj, zato boste med potepanjem okoli Velikega Roba verjetno do\u017eiveli ve\u010d miru in ti\u0161ine. Markirane poti iz Vipavske doline se Velikemu Robu izognejo (nekatere gredo na Kucelj, druge na Kopitnik), zato se bomo nanj povzpeli po nemarkiranih stezicah.",
+      "en": "Veliki Rob is one of the most prominent peaks on the edge of the \u010caven plateau. Most hikers focus on nearby Kucelj, making it an exciting destination a bit off the beaten track. Marked paths to Veliki Rob are pretty circuitous if you want to start in Vipava valley, so we'll take an extra-steep unmarked approach."
+    },
+    "difficulty": "Zelo strma nemarkirana pot",
+    "duration": 6,
+    "height": 1236,
+    "lead": "M_20210226_124917.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/5266",
+    "name": "VelikiRob",
+    "peak": "45.934367,13.802914",
+    "region": "vipava",
+    "start": "45.903937,13.797679",
+    "timing": [
+      "Vzpon: 2.5 uri",
+      "Sestop: 2 uri",
+      "Skupaj: 6 ur"
+    ],
+    "title": {
+      "sl": "Veliki Rob iz Goja\u010d/Zasoda",
+      "en": "Veliki Rob from Goja\u010de/Zasod"
+    },
+    "video": "https://www.relive.cc/view/veqz3XLBDBv/",
+    "alt": {
+      "start": "45.918867,13.805844",
+      "delta": 670,
+      "duration": 5
+    }
+  },
+  {
     "date": "2004-10-10 00:00:00+00:00",
     "delta": 420,
     "description": {
