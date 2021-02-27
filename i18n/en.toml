@@ -45,6 +45,12 @@ other="A few randomly selected flowers"
 [flowersPhotos]
 other="Photo Gallery"
 
+[hikeAlt]
+other="Alternate starting point"
+
+[hikeAltStarting]
+other="Alternate starting point"
+
 [hikeAltitude]
 other="Altitude"
 

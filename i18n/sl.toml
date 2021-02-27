@@ -51,6 +51,12 @@ two="uri"
 few="ure"
 other="ur"
 
+[hikeAlt]
+other="Začnete lahko tudi tule"
+
+[hikeAltStarting]
+other="Drug začetek poti"
+
 [hikeAltitude]
 other="Nadmorska višina"
 
@@ -94,7 +100,7 @@ other="Višina vrha"
 other="Izhodišče"
 
 [hikeStarting]
-other="Izhodišče"
+other="Začetek poti"
 
 [latestarticles]
 other="Zadnje objave"

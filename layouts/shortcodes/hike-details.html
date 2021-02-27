@@ -17,6 +17,11 @@
   {{ with .Params.start }}
     <a href="https://www.google.com/maps/search/?api=1&query={{ . }}" class="buyButton secondary" target="_blank">{{ i18n "hikeStarting" }}</a>
   {{ end }}
+  {{ with .Params.alt }}
+    {{ with .start }}
+    <a href="https://www.google.com/maps/search/?api=1&query={{ . }}" class="buyButton secondary" target="_blank">{{ i18n "hikeAltStarting" }}</a>
+    {{ end }}
+  {{ end }}
   {{ with .Params.maplink }}
     <a href="{{ . }}" class="buyButton secondary" target="_blank">{{ i18n "hikeMap" }}</a>
   {{ end }}
