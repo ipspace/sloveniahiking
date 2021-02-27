@@ -1,0 +1,45 @@
+<dl class='flower__data'>
+  {{ if or .Params.start .Params.peak }}
+    <dt>{{ i18n "hikeCoordinates" }}</dt>
+    <dd>
+      {{ with .Params.start }}
+      {{ i18n "hikeStart"}}: {{ . }}<br />
+      {{ end }}
+      {{ with .Params.peak }}
+      {{ i18n "hikeEnd" }}: {{ . }}<br />
+      {{ end }}
+    </dd>
+  {{ end }}
+</dl>
+{{ with .Params.alt }}
+<h3>{{ i18n "hikeAlt" }}</h3>
+<dl class='flower__data'>
+  {{ with .start }}
+    <dt>{{ i18n "hikeCoordinates" }}</dt>
+    <dd>
+      {{ i18n "hikeStart"}}: {{ . }}
+    </dd>
+  {{ end }}
+  {{ with .difficulty }}
+    <dt>{{ i18n "hikeDifficulty" }}</dt>
+    <dd>{{ . | markdownify }}</dd>
+  {{ end }}
+  {{ if .timing }}
+    <dt>{{ i18n "hikeDuration" }}</dt>
+    <dd>
+      {{ range .timing }}
+        {{ . }}<br />
+      {{ end}}
+    </dd>
+  {{ else }}
+    {{ with .duration }}
+      <dt>{{ i18n "hikeDuration" }}</dt>
+      <dd>{{ . }} h</dd>
+    {{ end }}
+  {{ end }}
+  {{ with .delta }}
+    <dt>{{ i18n "hikeDelta" }}</dt>
+    <dd>{{ . }} m</dd>
+  {{ end }}
+</dl>
+{{ end }}
