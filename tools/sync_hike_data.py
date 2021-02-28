@@ -15,7 +15,13 @@ import cm.read
 import cm.msaccess
 import yaml
 
+def parse_cli():
+  parser = argparse.ArgumentParser(description='Sync SI/EN hike data')
+  parser.add_argument('--precommit',dest='precommit',action='store_true',help='Running in pre-commit script, abort on error')
+  return parser.parse_args()
+
 def sync_hike_data(si_path):
+  global errcount
   en_path = si_path.replace("index.md","index.en.md")
   if not os.path.exists(en_path):
     print("Missing stub file %s" % en_path)
@@ -26,7 +32,7 @@ def sync_hike_data(si_path):
   en_page = cm.read.page(en_path)
   en_yaml = yaml.dump(en_page)
 
-  for key in ('delta','duration','height','maplink','start','peak','video','region'):
+  for key in ('delta','duration','height','lead','multilead','multipath','maplink','start','peak','video','region'):
     si_val = si_page.get(key)
     en_val = en_page.get(key)
     if not si_val and not en_val:
@@ -39,7 +45,16 @@ def sync_hike_data(si_path):
       print("Copying %s=%s to %s" % (key,en_val,si_path))
     elif si_val != en_val:
       print("WARNING: SI/EN mismatch %s=(%s,%s) -- %s" % (key,si_val,en_val,si_path))
-  
+      if args.precommit:
+        sys.exit(1)
+
+  for key in ('x','y','image'):
+    si_val = si_page.get(key)
+    en_val = en_page.get(key)
+    if en_val and not si_val:
+      print("Removing property %s from %s" % (key,en_path))
+      en_page.pop(key)
+
   if yaml.dump(si_page) != si_yaml:
     print("SI page changed, updating...")
     cm.write.create_output_file(si_page,file_path=si_path)
@@ -47,4 +62,5 @@ def sync_hike_data(si_path):
     print("EN page changed, updating...")
     cm.write.create_output_file(en_page,file_path=en_path)
 
+args = parse_cli()
 cm.traverse.walk(config['ExFilePath'],r'index\.md$',sync_hike_data)

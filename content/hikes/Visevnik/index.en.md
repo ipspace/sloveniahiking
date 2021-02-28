@@ -7,30 +7,6 @@ description: 'Viševnik is one of the highest summits in the ridge separating th
   '
 duration: 4
 height: 2050
-image:
-- M_7-2715_IMG.JPG
-- M_8-5839_IMG.JPG
-- M_8-5841_IMG.JPG
-- M_8-5851_IMG.JPG
-- M_8-5866_IMG.JPG
-- M_8-5867_IMG.JPG
-- M_8-5868_IMG.JPG
-- M_8-5879_IMG.JPG
-- M_8-5900_IMG.JPG
-- M_8-5893_IMG.JPG
-- Razgled.jpg
-- M_9-5901_IMG.JPG
-- M_9-5902_IMG.JPG
-- M_9-5904_IMG.JPG
-- M_9-5909_IMG.JPG
-- M_9-5923_IMG.JPG
-- M_9-5924_IMG.JPG
-- M_9-5928_IMG.JPG
-- M_9-5929_IMG.JPG
-- M_9-5930_IMG.JPG
-- mapgps.jpg
-- path_1.gif
-- alt.gif
 lead: M_7-2715_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/4975

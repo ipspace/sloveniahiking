@@ -11,6 +11,7 @@ image:
 - M_010046.JPG
 - mapgps.jpg
 layout: stub
+lead: M_010046.JPG
 multilead: M_010046.JPG
 multipath: true
 name: Kum/ZidaniMost

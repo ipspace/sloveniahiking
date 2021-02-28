@@ -6,6 +6,7 @@ height: 2062
 image:
 - M_1-7159_IMG.JPG
 - KolazRazgled.jpg
+lead: M_1-7159_IMG.JPG
 name: Raduha
 title: Raduha
 x: 480

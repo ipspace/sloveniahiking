@@ -14,9 +14,9 @@
     language: script
     types: [file, markdown]
 
-#  - id: hike-sync
-#    name: Sync hike data
-#    entry: tools/hike-precommit.sh
-#    language: script
-#    files: "/hikes/"
-#    verbose: true
+  - id: hike-sync
+    name: Sync hike data
+    entry: tools/hike-precommit.sh
+    language: script
+    files: "/hikes/"
+    verbose: true

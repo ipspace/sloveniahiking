@@ -11,13 +11,12 @@ height: 1028
 lead: M_5-3534_IMG.JPG
 maplink: https://mapzs.projekti.si/path/55941
 multilead: M_5-3534_IMG.JPG
+multipath: true
 name: Slavnik/Podgorje
 peak: 45.533685,13.975236
 region: istria
 start: 45.531420,13.947151
 title: Slavnik and Grmada from Podgorje
-x: 420
-y: 43
 ---
 The shortest routes to [Slavnik](../) lead from Podgorje, a small karst village south-west of the mountain. From this starting-point you can reach your goal by the Steep path (which deserves its name), the Gentle path (where you hardly even shed a drop of sweat) or an abundance of little paths and cart-tracks which ascend across the slopes of Slavnik.
 

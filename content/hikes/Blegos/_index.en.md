@@ -1,14 +1,9 @@
 ---
 alt: true
 date: 1900-01-01 00:00:00+00:00
-description: 'Blegoš is the highest summit in the Škofja Loka hills and (together
-  with Ratitovec and Porezen) one of the »big three« subalpine peaks.
-
-  '
+description: |
+  Blegoš is the highest summit in the Škofja Loka hills and (together with Ratitovec and Porezen) one of the »big three« subalpine peaks.
 height: 1562
-image:
-- M_4_0464.JPG
-- Razgled_Blegos.jpg
 lead: M_4_0469.JPG
 maplink: https://mapzs.projekti.si/poi/4875
 name: Blegos

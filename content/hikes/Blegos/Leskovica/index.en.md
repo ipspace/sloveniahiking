@@ -4,6 +4,7 @@ delta: 750
 duration: 4
 height: 1562
 layout: stub
+lead: M_0_00630.JPG
 map: 1
 maplink: https://mapzs.projekti.si/path/32013
 multilead: M_0_00630.JPG

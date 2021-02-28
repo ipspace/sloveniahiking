@@ -1,16 +1,16 @@
 ---
 date: 1900-01-01 00:00:00+00:00
-description: The simplest ascent of Raduha follows waymarked paths from the Planina Loka. 
-height: 2062
 delta: 630
+description: The simplest ascent of Raduha follows waymarked paths from the Planina
+  Loka.
 duration: 3.5
+height: 2062
 lead: M_1-7157_IMG.JPG
-multilead: M_1-7157_IMG.JPG
 map: 1
+multilead: M_1-7157_IMG.JPG
+multipath: true
 name: Raduha/Loka
 title: Raduha from Planina Loka
-x: 480
-y: 141
 ---
 The simplest ascent of [Raduha](../) follows waymarked paths from the Planina Loka. You can drive quite high up along well-maintained forest roads, almost as far as the mountain hut on Loka, so instead of walking up through the beech forests, you can enjoy starting the trip through sparse conifer forest and over high-altitude meadows. The trip can be extended by descending to Planina Arta and returning by a little-frequented path through dark spruce forest to Planina Loka.
 

@@ -123,6 +123,7 @@
       "en": "Slavnik is the highest peak of the Slavnik range, the last mountain range before the gentle slopes of Slovenian Istra. It\\'s also the last peak above 1000 meters visited by the Slovenian Mountain Hiking Trail."
     },
     "height": 1028,
+    "lead": "M_5-3555_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1235",
     "name": "Slavnik",
     "peak": "45.533685,13.975236",
@@ -285,6 +286,7 @@
       "en": "On the highest peak of eastern Savinje Alps you'll enjoy a fantastic panorama of the surrounding mountains and Logar valley, as well as an interesting view of Julian Alps and Karavanke ridge."
     },
     "height": 2062,
+    "lead": "M_1-7159_IMG.JPG",
     "name": "Raduha",
     "title": {
       "sl": "Raduha",
@@ -688,7 +690,7 @@
       "en": "Blego\u0161 is the highest summit in the \u0160kofja Loka hills and (together with Ratitovec and Porezen) one of the \u00bbbig three\u00ab subalpine peaks.\n"
     },
     "height": 1562,
-    "lead": "Hotavlje/M_4_0469.JPG",
+    "lead": "M_4_0469.JPG",
     "maplink": "https://mapzs.projekti.si/poi/4875",
     "name": "Blegos",
     "peak": "46.164802,14.113583",
@@ -1404,6 +1406,7 @@
       "en": "The route from Rudno polje to Lipanca is an ideal family trip: it starts as a gentle walk through the mighty Pokljuka spruce forests, continues with a slight ascent on the margin of the Pokljuka plateau, becomes somewhat more diverse and ends on the fairly steep grass slopes below Lipanca."
     },
     "height": 1630,
+    "lead": "M_9-5985_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/32992",
     "name": "Lipanca",
     "peak": "46.375630,13.927670",
@@ -4097,10 +4100,9 @@
     "date": "2004-04-04 00:00:00+00:00",
     "delta": 330,
     "description": {
-      "sl": "Obronki Br\u017eanije skrivajo slikovite stare kra\u0161ke vasice, makadamske poti in kolovozi pa nas vodijo po zanimivi me\u0161anici tal, kjer stalno prehajamo s fli\u0161a na apnen\u010daste kra\u0161ke travnike in nazaj.",
+      "sl": "Obronki Br\u017eanije skrivajo slikovite stare kra\u0161ke vasice, makadamske poti in kolovozi pa nas vodijo po zanimivi me\u0161anici tal, kjer stalno prehajamo s fli\u0161a na apnen\u010daste kra\u0161ke travnike in nazaj.\n",
       "en": null
     },
-    "dirty": true,
     "duration": 3.5,
     "height": 450,
     "lead": "M_7_0721.JPG",
@@ -4113,9 +4115,7 @@
     "title": {
       "sl": "Obronki Br\u017eanije: od Hrastovelj do Zazida",
       "en": "Br\u017eanija from Hrastovlje to Zazid"
-    },
-    "x": 417,
-    "y": 40
+    }
   },
   {
     "date": "2004-04-11 00:00:00+00:00",

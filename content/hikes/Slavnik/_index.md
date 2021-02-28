@@ -8,6 +8,7 @@ image:
 - M_5-3555_IMG.JPG
 - TrnovskiGozd_Nanos.jpg
 - Pogled_vzhod.jpg
+lead: M_5-3555_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/1235
 name: Slavnik
 peak: 45.533685,13.975236

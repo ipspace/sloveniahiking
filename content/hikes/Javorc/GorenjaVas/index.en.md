@@ -8,7 +8,9 @@ image:
 - mapgps.jpg
 - track.jpg
 layout: stub
+lead: M_6-4626_IMG.JPG
 map: 1
+multilead: M_6-4626_IMG.JPG
 multipath: true
 name: Javorc/GorenjaVas
 title: Javorč from Gorenja vas
