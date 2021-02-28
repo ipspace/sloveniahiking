@@ -10,7 +10,7 @@ def create_output_file(data=None,target_path=None,name=None,file_path=None):
   data.pop('html',None)
   if file_path:
     target_path = os.path.dirname(file_path)
-  if not os.path.exists(target_path):
+  if target_path and not os.path.exists(target_path):
     os.makedirs(target_path)
   if not file_path:
     fname = name or data.get('name','index')
