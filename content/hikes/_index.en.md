@@ -8,4 +8,4 @@ Our pages contain photo galleries from over 180 hikes in Slovenian hills and mou
 
 ## Hikes with English descriptions
 
-These hikes have English descriptions (mostly contributed by Margaret Davis).
+These hikes have English descriptions (many of them contributed by Margaret Davis).

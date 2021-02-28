@@ -540,10 +540,9 @@
     "date": "2004-06-06 00:00:00+00:00",
     "delta": 420,
     "description": {
-      "sl": "Na Kra\u0161kem robu, kjer se apnen\u010dasti kra\u0161ki svet terasasto spu\u0161\u010da proti fli\u0161nim pobo\u010djem Br\u017eanije, stoji neizrazit travnat vrh Lipnik.",
+      "sl": "Na Kra\u0161kem robu, kjer se apnen\u010dasti kra\u0161ki svet terasasto spu\u0161\u010da proti fli\u0161nim pobo\u010djem Br\u017eanije, stoji neizrazit travnat vrh Lipnik.\n",
       "en": "Lipnik is one of many barely noticeable peaks on Kra\u0161ki Rob (Karst Edge), the border between limestone Karst plateau and flysch terrain of lower Istria. Hike there in early May and enjoy the wildflowers along the way.\n"
     },
-    "dirty": true,
     "duration": 4,
     "height": 804,
     "lead": "M_2_1203.JPG",
@@ -556,9 +555,7 @@
     "title": {
       "sl": "Lipnik iz Zazida",
       "en": "Lipnik from Zazid"
-    },
-    "x": 420,
-    "y": 38
+    }
   },
   {
     "date": "2008-02-03 00:00:00+00:00",
@@ -1292,14 +1289,12 @@
     "date": "2005-03-13 00:00:00+00:00",
     "delta": 270,
     "description": {
-      "sl": "Plaz je prijeten cilj kraj\u0161ega dru\u017einskega izleta. Nanj so speljane markirane poti iz Vipave in z Gradi\u0161\u010da pri Vipavi.",
-      "en": null
+      "sl": "Plaz je prijeten cilj kraj\u0161ega dru\u017einskega izleta. Nanj so speljane markirane poti iz Vipave in z Gradi\u0161\u010da pri Vipavi.\n",
+      "en": "Plaz is a scenic viewpoint above Vipava. Pleasant footpaths lead to it from Vipava and Gradi\u0161\u010de, making it a perfect destination of an afternoon family hike.\n"
     },
-    "dirty": true,
     "duration": 1.5,
     "height": 529,
     "lead": "M_2_2245.JPG",
-    "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1501",
     "name": "Plaz",
     "peak": "45.842405,13.972171",
@@ -1307,10 +1302,8 @@
     "start": "45.832270,13.971014",
     "title": {
       "sl": "Plaz",
-      "en": "Plaz"
-    },
-    "x": 420,
-    "y": 78
+      "en": "Plaz above Vipava"
+    }
   },
   {
     "date": "1900-01-01 00:00:00+00:00",
