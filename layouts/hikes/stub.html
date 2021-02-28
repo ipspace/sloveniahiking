@@ -11,6 +11,7 @@
   {{ end }}
   {{ .Scratch.Set "lead" "NOLEAD" }}
   {{ partial "hike-details" . }}
+  {{ partial "hike-details-buttons" . }}
   {{ if .Pages }}
     <h3>Hikes to this peak</h3>
     {{ partial "multipath-hike-short" .}}
