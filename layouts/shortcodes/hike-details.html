@@ -1,3 +1,6 @@
+{{ if .Get "description" }}
+{{ $.Page.Params.description | markdownify }}
+{{ end }}
 {{ if $.Page.Params.Lead }}
   {{ with $.Page.Resources.GetMatch $.Page.Params.Lead }}
     <div class="fancy-figure box caption-position-default">
