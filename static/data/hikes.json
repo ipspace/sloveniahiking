@@ -3394,8 +3394,8 @@
   {
     "date": "1900-01-01 00:00:00+00:00",
     "description": {
-      "sl": "Kovk je najbolj jugovzhodni vrh Gore, planote, ki se visoko nad Vipavsko dolino dviga vzhodno od Ajdov\u0161\u010dine.",
-      "en": null
+      "sl": "Kovk je najbolj jugovzhodni vrh Gore, planote, ki se visoko nad Vipavsko dolino dviga vzhodno od Ajdov\u0161\u010dine.\n",
+      "en": "Kovk is a scenic hilltop at the edge of the Gora plateau high above Vipava valley with fantastic vistas of the valley, Trnovski Gozd, Julian Alps, and the Italian Dolomites.\n"
     },
     "height": 961,
     "lead": "M_4_1434.JPG",
@@ -3415,7 +3415,7 @@
     "delta": 320,
     "description": {
       "sl": "Kovk je najbolj jugovzhodni vrh Gore, planote, ki se visoko nad Vipavsko dolino dviga vzhodno od Ajdov\u0161\u010dine.",
-      "en": null
+      "en": "Getting from Col (a village along an old Roman road) to Kovk (a scenic hilltop high above Vipava valley) is a comfortable hour-long hike with a few steeper sections -- ideal for an afternoon family stroll.\n"
     },
     "duration": 2,
     "height": 961,
@@ -3431,7 +3431,8 @@
     "title": {
       "sl": "Na Kovk s Cola",
       "en": "Kovk from Col"
-    }
+    },
+    "video": "https://www.relive.cc/view/vYvrAV1xMLq/"
   },
   {
     "date": "2004-04-25 00:00:00+00:00",

@@ -15,6 +15,7 @@ peak: 45.887981,13.969153
 region: vipava
 start: 45.885151,13.994895
 title: Na Kovk s Cola
+video: https://www.relive.cc/view/vYvrAV1xMLq/
 ---
 {{<figure src="M_4_1434.JPG">}}
 
@@ -48,6 +49,8 @@ title: Na Kovk s Cola
 
 **Karta**
 :   Goriška, izletniška karta 1 : 50.000
+
+{{<hike-details-extra>}}
 
 S Cola na Kovk
 --------------
