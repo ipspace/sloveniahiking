@@ -2559,6 +2559,9 @@ img {
     right: 0;
     top: 0;
     bottom: 0; }
+  .fancy-figure figure div.img {
+    background-size: contain;
+    background-repeat: no-repeat; }
 
 .fancy-figure img {
   max-width: 100%;

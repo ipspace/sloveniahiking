@@ -5,9 +5,9 @@
   {{ partial "hike-crumbs" . }}
   {{ if .Params.description }}
     {{ .Params.description | markdownify }}
-    <h2>The Basics</h2>
+    <h2>{{ i18n "hikeFacts" }}</h2>
   {{ else }}
-    <h2 class="firstHeading">The Basics</h2>
+    <h2 class="firstHeading">{{ i18n "hikeFacts" }}</h2>
   {{ end }}
   {{ .Scratch.Set "lead" "NOLEAD" }}
   {{ partial "hike-details" . }}
@@ -18,9 +18,9 @@
   {{ end }}
   {{ if .Content }}
     {{ .Content }}
-  {{ else }}
-  <p>We don't have an English description of this hike yet.
-  Why don't you take the hike and contribute a description? Thank you!</p>
+  {{ else if eq .Lang "en" }}
+    <p>We don't have an English description of this hike yet.
+    Why don't you take the hike and contribute a description? Thank you!</p>
   {{ end }}
   {{ partial "photo-gallery" . }}
   {{ partial "hike-views" . }}

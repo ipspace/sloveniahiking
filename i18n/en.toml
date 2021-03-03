@@ -90,14 +90,14 @@ other="Hiking map"
 [hikePeak]
 other="Peak altitude"
 
+[hikesPhotos]
+other="Photo Gallery"
+
 [hikeStart]
 other="Start"
 
 [hikeStarting]
 other="Starting point"
-
-[hikesPhotos]
-other="Photo Gallery"
 
 [hour]
 one="hour"
