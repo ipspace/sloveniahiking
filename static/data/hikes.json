@@ -605,18 +605,18 @@
       "sl": "U\u017eivanje v vodnih radostih Term \u010cate\u017e lahko popestrite s kraj\u0161im izletom okoli bli\u017enje \u0160entvi\u0161ke gore.",
       "en": null
     },
-    "dirty": true,
     "duration": 2,
     "height": 386,
     "lead": "M_1-5142_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5651",
     "name": "svVid_Catez",
+    "peak": "45.884909,15.597638",
+    "region": "dolenjska",
     "title": {
       "sl": "Sv. Vid nad \u010cate\u017eem",
       "en": "St. Vid above \u010cate\u017e"
-    },
-    "x": 547,
-    "y": 82
+    }
   },
   {
     "date": "2005-12-11 00:00:00+00:00",
@@ -734,13 +734,17 @@
     "height": 978,
     "lead": "M_9_0958.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1277",
     "name": "Boc",
+    "peak": "46.289296,15.599824",
+    "region": [
+      "karavanke",
+      "stajerska"
+    ],
     "title": {
       "sl": "Bo\u010d",
       "en": "Bo\u010d"
-    },
-    "x": 547,
-    "y": 127
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -1022,18 +1026,18 @@
       "sl": "Gozdnik in Kote\u010dnik sta kar slikovita vrhova v Posavskem hribovju, \u017eal pa nista razgledna. Gozdnik je zaradi svoje lepe oblike in zna\u010dilne konice simbol Savinjske planinske poti.",
       "en": null
     },
-    "dirty": true,
     "duration": 5,
     "height": 1090,
     "lead": "M_008032703.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/360",
     "name": "Kotecnik",
+    "peak": "46.201409,15.181412",
     "photo_author": "Mojca_Lustrek",
+    "region": "savinjska",
     "title": {
       "sl": "Gozdnik in Kote\u010dnik",
       "en": "Gozdnik and Kote\u010dnik"
-    },
-    "x": 514,
-    "y": 117
+    }
   },
   {
     "date": "2003-03-16 00:00:00+00:00",
@@ -1606,19 +1610,18 @@
       "sl": "Severno od Semi\u010da se dviguje Smuk, hrib, porasel z vinsko trto in poln zidanic; najlep\u0161i vzpon nanj je iz Semi\u010da.",
       "en": null
     },
-    "dirty": true,
     "duration": 1.5,
     "height": 547,
     "lead": "M_007011903.jpg",
-    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4162",
     "name": "Smuk",
+    "peak": "45.661401,15.179623",
     "photo_author": "Joze_Zugelj",
+    "region": "bela-krajina",
     "title": {
       "sl": "Smuk v Beli krajini",
       "en": "Smuk"
-    },
-    "x": 514,
-    "y": 57
+    }
   },
   {
     "date": "2021-02-23 18:30:35+00:00",
@@ -1862,7 +1865,10 @@
     "height": 1181,
     "lead": "M_1_2101.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5353",
     "name": "TrijeKralji",
+    "peak": "46.437693,15.458936",
+    "region": "pohorje",
     "title": {
       "sl": "Trije kralji na Pohorju",
       "en": "Trije kralji on Pohorje"
@@ -2794,18 +2800,18 @@
       "sl": "Kamnik je precej slikovit hrib, malo drzen; zaradi skalnatega vrha in prepadnih pe\u010din, v katerih se preizku\u0161ajo tudi plezalci, si ime kar zaslu\u017ei. Hom  je bolj pohleven, a ponuja lepe razglede.",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 856,
     "lead": "M_008052305.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/213",
     "name": "Kamnik",
+    "peak": "46.205663,15.129281",
     "photo_author": "Mojca_Lustrek",
+    "region": "savinjska",
     "title": {
       "sl": "Kamnik in Hom",
       "en": "Kamnik and Hom"
-    },
-    "x": 510,
-    "y": 118
+    }
   },
   {
     "date": "2003-02-02 00:00:00+00:00",
@@ -2897,13 +2903,14 @@
     },
     "height": 1220,
     "lead": "M_010055.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1085",
     "name": "Kum",
+    "peak": "46.087612,15.072366",
+    "region": "posavje",
     "title": {
       "sl": "Kum",
       "en": "Kum"
-    },
-    "x": 506,
-    "y": 105
+    }
   },
   {
     "date": "2004-05-30 00:00:00+00:00",
@@ -3311,18 +3318,18 @@
       "sl": "Gora Oljka je kra\u0161ki osamelec nad severo-vzhodnim robom Savinjske doline. Na njej so 18. stoletju postavili veli\u010dastno romarsko cerkev sv. Kri\u017ea, ki z zna\u010dilnim profilom dveh zvonikov pritegne pogled popotnika po celotni Savinjski dolini.",
       "en": null
     },
-    "dirty": true,
     "duration": 4,
     "height": 733,
     "lead": "M_7-4784_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/432",
     "name": "GoraOljka_Polzela",
+    "peak": "46.325631,15.058779",
+    "region": "savinjska",
     "title": {
       "sl": "Gora Oljka iz Polzele",
       "en": "Gora Oljka from Polzela"
-    },
-    "x": 505,
-    "y": 131
+    }
   },
   {
     "date": "2003-08-17 00:00:00+00:00",
@@ -3580,13 +3587,14 @@
     "height": 828,
     "lead": "M_7-6715_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/3956",
     "name": "Gospodicna",
+    "peak": "45.766444,15.297079",
+    "region": "dolenjska",
     "title": {
       "sl": "Gospodi\u010dna",
       "en": "Gospodi\u010dna spring in Gorjanci"
-    },
-    "x": 523,
-    "y": 69
+    }
   },
   {
     "date": "2007-06-17 00:00:00+00:00",
@@ -3860,18 +3868,18 @@
       "sl": "V strmih grapah na ju\u017enih pobo\u010djih Bohorja boste na\u0161li vrsto nizkih, a zato ni\u010d manj lepih slapov.",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 480,
     "lead": "M_2-5210_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/34689",
     "name": "podBohorjem",
+    "peak": "46.052671,15.424771",
+    "region": "posavje",
     "title": {
       "sl": "Slapovi pod Bohorjem",
       "en": "Waterfalls near Bohor"
-    },
-    "x": 533,
-    "y": 100
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -3900,18 +3908,21 @@
       "sl": "Severovzhodno od Roga\u0161ke Slatine se skoraj na meji s Hrva\u0161ko dviga eden zadnjih vrhov Karavank \u2013 Dona\u010dka gora.",
       "en": null
     },
-    "dirty": true,
     "duration": 2,
     "height": 884,
     "lead": "M_2_3240.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/173",
     "name": "DonackaGora",
+    "peak": "46.262731,15.742339",
+    "region": [
+      "stajerska",
+      "karavanke"
+    ],
     "title": {
       "sl": "Dona\u010dka gora",
       "en": "Dona\u010dka gora"
-    },
-    "x": 558,
-    "y": 125
+    }
   },
   {
     "date": "2003-06-08 00:00:00+00:00",
@@ -3920,18 +3931,18 @@
       "sl": "Mrzlica (1122m) je eden najvi\u0161jih vrhov severnega dela Posavskega hribovja s \u010dudovitim razgledom od Kamni\u0161kih alp do Trdinovega vrha.",
       "en": null
     },
-    "dirty": true,
     "duration": 5,
     "height": 1122,
     "lead": "M_7-5732_img.jpg",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/34816",
     "name": "Mrzlica",
+    "peak": "46.187516,15.107444",
+    "region": "posavje",
     "title": {
       "sl": "Mrzlica iz Prebolda",
       "en": "Mrzlica from Prebold"
-    },
-    "x": 509,
-    "y": 116
+    }
   },
   {
     "date": "2003-12-07 00:00:00+00:00",
@@ -4277,18 +4288,18 @@
       "sl": "Brunk je zaselek na razglednem vrhu ju\u017eno od Rade\u010d s cerkvico sv. Treh kraljev. Izpred cerkve boste v lepem vremenu videli ve\u010dino Posavskega hribovja, vklju\u010dno s Kumom, Lisco in Bohorjem, na jugu pa bo pogled segel vse do Gorjancev.",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 557,
     "lead": "M_8-4819_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/34684",
     "name": "Brunk",
+    "peak": "46.037433,15.179605",
+    "region": "posavje",
     "title": {
       "sl": "Brunk iz Hoteme\u017ea",
       "en": "Brunk from Hoteme\u017e"
-    },
-    "x": 514,
-    "y": 99
+    }
   },
   {
     "date": "2010-11-24 00:00:00+00:00",
@@ -4300,13 +4311,14 @@
     "duration": 2,
     "height": 581,
     "lead": "M_6-3650_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/3949",
     "name": "TrebnjiVrh",
+    "peak": "45.893362,15.003060",
+    "region": "dolenjska",
     "title": {
       "sl": "Trebnji vrh",
       "en": "Trebnji vrh"
-    },
-    "x": 500,
-    "y": 83
+    }
   },
   {
     "author": "Mojca_Lustrek",

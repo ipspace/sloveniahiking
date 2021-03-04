@@ -1,14 +1,15 @@
 ---
-date: '1900-01-01T00:00:00'
+date: 1900-01-01 00:00:00+00:00
 description: Kum je eden najlepših in s svojimi 1220 m tudi najvišji vrh zasavsko-posavskega
   pogorja. Zgoraj je gol in ob lepem vremenu ponuja odličen razgled na vse strani
   Slovenije.
 height: 1220
 lead: M_010055.JPG
+maplink: https://mapzs.projekti.si/poi/1085
 name: Kum
+peak: 46.087612,15.072366
+region: posavje
 title: Kum
-x: 506
-y: 105
 ---
 {{<figure src="M_010055.JPG">}}
 

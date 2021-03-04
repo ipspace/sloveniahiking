@@ -5,29 +5,12 @@ description: Z vrha nad Trebnjim boste imeli lep razgled na dolino Temenice in M
   ter na dolenjsko hribovje, vse do Kuma.
 duration: 2
 height: 581
-image:
-- M_6-3650_IMG.JPG
-- M_6-3613_IMG.JPG
-- M_6-3612_IMG.JPG
-- M_6-3614_IMG.JPG
-- M_6-3616_IMG.JPG
-- M_6-3618_IMG.JPG
-- M_6-3620_IMG.JPG
-- M_6-3622_IMG.JPG
-- M_6-3624_IMG.JPG
-- M_6-3628_IMG.JPG
-- M_6-3630_IMG.JPG
-- M_6-3631_IMG.JPG
-- Razgled_Dom.jpg
-- M_6-3648_IMG.JPG
-- M_6-3652_IMG.JPG
-- M_6-3654_IMG.JPG
-- M_6-3656_IMG.JPG
 lead: M_6-3650_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/3949
 name: TrebnjiVrh
+peak: 45.893362,15.003060
+region: dolenjska
 title: Trebnji vrh
-x: 500
-y: 83
 ---
 {{<figure src="M_6-3650_IMG.JPG" caption="Vrhtrebnje">}}
 

@@ -1,26 +1,20 @@
 ---
 date: 2003-08-24 00:00:00+00:00
 delta: 460
-description: |
-  Kljub temu, da na Gorjancih, gozdnatem pobočju, ki se južno od Novega mesta dviguje tik ob meji s Hrvaško, vedno primanjkuje vode, boste nekje na sredini pobočja, tam kjer apnenec zamenjajo nepropustne (predvsem laporne) kamnine, našli vrsto studencev, med katerimi je najznamenitejša Gospodična, katere voda naj bi prinašala večno mladost. 
+description: "Kljub temu, da na Gorjancih, gozdnatem pobočju, ki se južno od Novega\
+  \ mesta dviguje tik ob meji s Hrvaško, vedno primanjkuje vode, boste nekje na sredini\
+  \ pobočja, tam kjer apnenec zamenjajo nepropustne (predvsem laporne) kamnine, našli\
+  \ vrsto studencev, med katerimi je najznamenitejša Gospodična, katere voda naj bi\
+  \ prinašala večno mladost. \n"
 duration: 2.5
 height: 828
-image:
-- M_7-6715_IMG.JPG
-- M_7-6709_IMG.JPG
-- M_7-6711_IMG.JPG
-- M_7-6712_IMG.JPG
-- Razgled.jpg
-- M_7-6715_IMG.JPG
-- M_7-6716_IMG.JPG
-- mapgps.jpg
-- path_1.gif
 lead: M_7-6715_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/3956
 name: Gospodicna
+peak: 45.766444,15.297079
+region: dolenjska
 title: Gospodična
-x: 523
-y: 69
 ---
 {{<figure src="M_7-6715_IMG.JPG">}} Kljub temu, da na Gorjancih, gozdnatem pobočju, ki se južno od Novega mesta dviguje tik ob meji s Hrvaško, vedno primanjkuje vode, boste nekje na sredini pobočja, tam kjer apnenec zamenjajo nepropustne (predvsem laporne) kamnine, našli vrsto studencev, med katerimi je najznamenitejša Gospodična, katere voda naj bi prinašala večno mladost. A tudi če boste sredi poletja prišli do popolnoma posušenega izvira, ne obupajte -- v planinskem domu, ki stoji le nekaj metrov nad Gospodično, vas čaka izvrsten divjačinski golaž, ki ga prijazen oskrbnik postreže v kruhovih skodelicah.
 

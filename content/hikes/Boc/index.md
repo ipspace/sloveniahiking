@@ -1,28 +1,17 @@
 ---
-date: '2004-05-02T00:00:00'
+date: 2004-05-02 00:00:00+00:00
 delta: 650
-description: 
-  Na Boču (enem najbolj vzhodnih vrhov Karavank) vas bodo poleg lepega razgleda v aprilu razveselile tudi zelo redke velikonočnice.
+description: Na Boču (enem najbolj vzhodnih vrhov Karavank) vas bodo poleg lepega
+  razgleda v aprilu razveselile tudi zelo redke velikonočnice.
 duration: 4
 height: 978
-image:
-- M_9_0958.JPG
-- M_9_0926.JPG
-- M_9_0927.JPG
-- M_9_0928.JPG
-- M_9_0946.JPG
-- M_9_0947.JPG
-- gu_5000.gif
-- gu_25000.gif
-- mapgps.jpg
-- path_1.gif
-- alt.gif
 lead: M_9_0958.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1277
 name: Boc
+peak: 46.289296,15.599824
+region: [ karavanke, stajerska ]
 title: Boč
-x: 547
-y: 127
 ---
 {{<figure src="M_9_0958.JPG">}} 
 

@@ -3,22 +3,12 @@ date: 2003-04-13 00:00:00+00:00
 delta: 350
 duration: 3
 height: 557
-image:
-- M_8-4819_IMG.JPG
-- M_8-4810_IMG.JPG
-- M_8-4812_IMG.JPG
-- M_8-4816_IMG.JPG
-- M_8-4820_IMG.JPG
-- M_8-4817_IMG.JPG
-- M_8-4819_IMG.JPG
-- mapgps.jpg
-- path_1.gif
-- alt.jpg
 layout: stub
 lead: M_8-4819_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/34684
 name: Brunk
+peak: 46.037433,15.179605
+region: posavje
 title: Brunk from Hotemež
-x: 514
-y: 99
 ---
