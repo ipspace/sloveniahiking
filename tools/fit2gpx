@@ -1,0 +1,76 @@
+#!/usr/bin/env python3
+# -*- mode:python -*-
+#
+# Converts suunto zip files (which contain json files) to a gpx file
+# until Suunto gets their act together and let me have my own data in
+# a normal way.
+# Prefers: python 3.8
+# Known to work down to: python 3.5
+
+# These zip files are producted by the Suunto app and typically on
+# android are located at:
+#   <Internal Storage>/Android/data/com.stt.suunto/files/smlzip/
+#
+
+import sys
+import gpxpy
+import gpxpy.gpx
+import json
+import datetime
+import zipfile
+import math
+import fitparse
+# The relevant json snippet which is in a json array 'Samples'
+# looks like this:
+
+#  {
+#    "Attributes": {
+#        "suunto/sml": {
+#            "Sample": {
+#                "GPSAltitude": 94,                     <-- assuming meters
+#                "Latitude": 0.88924328690504395,       <-- in radians
+#                "Longitude": 0.10261437316962527,      <-- in radians
+#                "UTC": "2019-04-18T07:25:29.000+00:00" <-- assumed what gps thinks of time?
+#            }
+#        }
+#    },
+#    "Source": "suunto-123456789",                      <-- number is the id of the device
+#    "TimeISO8601": "2019-04-18T09:25:29.000+02:00"     <-- assumed what watch thinks of time?
+#  },
+
+def fit2gpx(fit_name):
+  fit = fitparse.FitFile(fit_name)
+  fit.parse()
+
+  # Three keys make a trackpoint
+  TRKPT = ('Latitude', 'Longitude', 'UTC')
+
+  # Create the main gpx object
+  gpx = gpxpy.gpx.GPX()
+
+  # We are getting one track presumably from the points we recorded
+  track = gpxpy.gpx.GPXTrack()
+  gpx.tracks.append(track)
+
+  # Points are added to segments (take breaks into account later?)
+  segment = gpxpy.gpx.GPXTrackSegment()
+  track.segments.append(segment)
+
+  # Parse FIT file
+  for record in fit.get_messages("record"):
+    r_val = record.get_values()
+    lat = r_val.get("position_lat")
+    lon = r_val.get('position_long')
+    if lat and lon:
+      lat = lat / 11930465 # 2^32 / 360
+      lon = lon / 11930465
+      ele = r_val.get("altitude")
+      point = gpxpy.gpx.GPXTrackPoint(latitude=lat, longitude=lon,
+                                      time=r_val.get("timestamp"), elevation=ele)
+      segment.points.append(point)
+  
+  with open(fit_name.replace(".fit", ".gpx"),"w") as out:
+    out.write(gpx.to_xml())
+
+if __name__ == "__main__":
+  fit2gpx(sys.argv[1])
