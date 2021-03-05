@@ -18,5 +18,6 @@
     name: Sync hike data
     entry: tools/hike-precommit.sh
     language: script
+    require_serial: true
     files: "/hikes/"
     verbose: true
