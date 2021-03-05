@@ -7,10 +7,11 @@ height: 2062
 lead: M_1-7159_IMG.JPG
 map: 1
 map_path: Loka/
+maplink: https://mapzs.projekti.si/poi/118
 name: Raduha
+peak: 46.409848,14.737603
+region: kamnik-alps
 title: Raduha
-x: 480
-y: 141
 ---
 Raduha is one of the highest peaks in the eastern parts of Kamnik-Savinja Alps. The simplest ascent follows waymarked paths from the [Planina Loka](loka), or you could take a day-long hike from [Robanov Kot](robanovkot). 
 

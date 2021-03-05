@@ -15,7 +15,10 @@ image:
 layout: stub
 lead: M_0_00684.jpg
 map: 1
+maplink: https://mapzs.projekti.si/poi/5276
 name: MaliGolak
+peak: 45.978565,13.864346
+region: primorska
 title: Mali Golak
 x: 412
 y: 93

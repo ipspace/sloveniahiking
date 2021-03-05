@@ -1,5 +1,5 @@
 ---
-date: '2010-04-13T00:00:00'
+date: 2010-04-13 00:00:00+00:00
 delta: 440
 description: Kuk je prvi vrh v grebenu med Idrijco in Hotenjo, Škrbina pa sedlo med
   Kukom in Plešarskim vrhom.
@@ -18,7 +18,10 @@ image:
 - path_1.gif
 lead: M_0_11251.JPG
 map: 1
+maplink: https://www.opencyclemap.org/?zoom=15&lat=46.09154&lon=13.85775&layers=B0000
 name: SkrbinaKuk
+peak: 46.092487,13.853752
+region: primorska
 title: Škrbina in Kuk
 x: 411
 y: 106

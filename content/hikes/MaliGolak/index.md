@@ -1,5 +1,5 @@
 ---
-date: '2008-02-03T00:00:00'
+date: 2008-02-03 00:00:00+00:00
 delta: 490
 description: Mali Golak je (kljub svojemu imenu) najvišji vrh Trnovskega gozda.
 duration: 2.5
@@ -15,7 +15,10 @@ image:
 - alt.gif
 lead: M_0_00684.jpg
 map: 1
+maplink: https://mapzs.projekti.si/poi/5276
 name: MaliGolak
+peak: 45.978565,13.864346
+region: primorska
 title: Mali Golak
 x: 412
 y: 93

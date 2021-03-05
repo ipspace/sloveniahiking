@@ -13,8 +13,6 @@ peak: 46.238331,13.812483
 region: julian-alps
 start: 46.235612,13.793350
 title: Vogel
-x: 409
-y: 122
 ---
 Vogel je zagotovo najbolj znan vrh Spodnjih Bohinjskih gora, a ne zaradi svojega razgleda (ki je podoben razgledu z ostalih vrhov istega grebena) ali lepe piramidaste oblike temveč zaradi smučarskega središča, ki mu je posodil tudi svoje ime. Smučarsko središče (bolj natančno, gondola z Bohinjskega jezera) je krivo tudi za poletno gnečo, saj postane markirana steza od zgornje postaje gondole do Šije in Vogla prava romarska pot. Da se bomo izognili poletni gneči ali pa uživali v jesenskih sončnih žarkih, se bomo na Vogel povzpeli preko njegovega jugo-zahodnega pobočja s [planine Razor](../planinarazor).
 

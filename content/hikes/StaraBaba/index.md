@@ -1,4 +1,5 @@
 ---
+date: 2021-03-03 15:00:00
 delta: 120
 description: |
   Stara Baba je razgledna točka nad Ajdovščino s pogledom na celotno Vipavsko dolino. Nanjo se povzpnete po nemarkiranih poteh iz bližine izvira Hublja.

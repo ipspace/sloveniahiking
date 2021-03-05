@@ -1,5 +1,5 @@
 ---
-date: '2005-03-27T00:00:00'
+date: 2005-03-27 00:00:00+00:00
 delta: 1280
 description: Kamniško sedlo (včasih je bilo bolj razširjeno ime Jermanova vrata) je
   zagotovo ena najbolj priljubljenih izletniških točk v Kamniških Alpah.
@@ -18,7 +18,11 @@ image:
 - path_1.gif
 lead: M_00001.jpg
 map: 1
+maplink: https://mapzs.projekti.si/path/32669
 name: KamniskoSedlo
+peak: 46.359083,14.597487
+region: kamnik-alps
+start: 46.327151,14.589373
 title: Kamniško sedlo
 x: 469
 y: 135

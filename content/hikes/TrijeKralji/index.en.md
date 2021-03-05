@@ -11,6 +11,4 @@ name: TrijeKralji
 peak: 46.437693,15.458936
 region: pohorje
 title: Trije kralji on Pohorje
-x: 535
-y: 143
 ---

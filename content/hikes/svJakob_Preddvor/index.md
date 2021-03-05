@@ -18,7 +18,11 @@ image:
 - M_9-3983_IMG.JPG
 - M_9-3981_IMG.JPG
 lead: M_9-3980_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/1295
 name: svJakob_Preddvor
+peak: 46.315115,14.440824
+region: kamnik-alps
+start: 46.305721,14.432230
 title: Sv. Jakob nad Preddvorom
 x: 457
 y: 130

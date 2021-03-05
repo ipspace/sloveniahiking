@@ -6,11 +6,9 @@
       "sl": "Za ljubitelje ro\u017e je obisk doline Zalipnik med Goli\u010dem in Kra\u0161kim robom v maju skorajda obvezen. Ta izlet lahko zaklju\u010dite z vzponom na Kav\u010di\u010d, zadnji slovenski vrh Kra\u0161kega roba.",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 883,
     "lead": "M_5_2520.JPG",
-    "map": 1,
     "maplink": "https://mapzs.projekti.si/path/32452",
     "name": "Kavcic",
     "peak": "45.471239,13.983605",
@@ -19,9 +17,7 @@
     "title": {
       "sl": "Kav\u010di\u010d iz Podgorja",
       "en": "Kav\u010di\u010d"
-    },
-    "x": 421,
-    "y": 37
+    }
   },
   {
     "date": "2004-08-08 00:00:00+00:00",
@@ -30,7 +26,6 @@
       "sl": "Tosc je zelo privla\u010den cilj za planince, ki i\u0161\u010dejo predvsem samoto, mir in naravne lepote.",
       "en": null
     },
-    "dirty": true,
     "duration": 7.5,
     "height": 2275,
     "lead": "M_5-6601.JPG",
@@ -43,9 +38,7 @@
     "title": {
       "sl": "Tosc z Rudnega polja",
       "en": "Tosc from Rudno polje"
-    },
-    "x": 413,
-    "y": 135
+    }
   },
   {
     "date": "2004-05-09 00:00:00+00:00",
@@ -131,9 +124,7 @@
     "title": {
       "sl": "Slavnik in Grmada",
       "en": "Slavnik"
-    },
-    "x": 420,
-    "y": 43
+    }
   },
   {
     "date": "2002-10-27 00:00:00+00:00",
@@ -175,9 +166,7 @@
     "title": {
       "sl": "Vogel",
       "en": "Vogel"
-    },
-    "x": 409,
-    "y": 122
+    }
   },
   {
     "date": "2002-12-01 00:00:00+00:00",
@@ -190,7 +179,11 @@
     "duration": 2,
     "height": 961,
     "lead": "M_9-3980_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1295",
     "name": "svJakob_Preddvor",
+    "peak": "46.315115,14.440824",
+    "region": "kamnik-alps",
+    "start": "46.305721,14.432230",
     "title": {
       "sl": "Sv. Jakob nad Preddvorom",
       "en": "Saint Jakob above Preddvor"
@@ -210,7 +203,11 @@
     "height": 1876,
     "lead": "M_00001.jpg",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/32669",
     "name": "KamniskoSedlo",
+    "peak": "46.359083,14.597487",
+    "region": "kamnik-alps",
+    "start": "46.327151,14.589373",
     "title": {
       "sl": "Kamni\u0161ko sedlo",
       "en": "Kamni\u0161ko sedlo"
@@ -287,13 +284,14 @@
     },
     "height": 2062,
     "lead": "M_1-7159_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/118",
     "name": "Raduha",
+    "peak": "46.409848,14.737603",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Raduha",
       "en": "Raduha"
-    },
-    "x": 480,
-    "y": 141
+    }
   },
   {
     "date": "2010-04-13 00:00:00+00:00",
@@ -306,7 +304,10 @@
     "height": 627,
     "lead": "M_0_11251.JPG",
     "map": 1,
+    "maplink": "https://www.opencyclemap.org/?zoom=15&lat=46.09154&lon=13.85775&layers=B0000",
     "name": "SkrbinaKuk",
+    "peak": "46.092487,13.853752",
+    "region": "primorska",
     "title": {
       "sl": "\u0160krbina in Kuk",
       "en": "\u0160krbina and Kuk"
@@ -326,7 +327,10 @@
     "height": 944,
     "lead": "M_5_0546.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1305",
     "name": "Creta",
+    "peak": "46.279198,14.960822",
+    "region": "savinjska",
     "title": {
       "sl": "\u010creta z Vranskega",
       "en": "Vransko - \u010creta"
@@ -346,7 +350,10 @@
     "height": 2224,
     "lead": "M_8_1889.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/77",
     "name": "KalskiGreben",
+    "peak": "46.331441,14.537686",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Kal\u0161ki greben",
       "en": "Kal\u0161ki greben"
@@ -366,7 +373,10 @@
     "height": 788,
     "lead": "M_8-4841_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5499",
     "name": "Kozljek",
+    "peak": "46.034295,14.254920",
+    "region": "notranjska",
     "title": {
       "sl": "Iz Vrzdenca na Samotorico in Ko\u017eljek",
       "en": "Iz Vrzdenca na Samotorico in Ko\u017eljek"
@@ -443,7 +453,10 @@
     },
     "height": 968,
     "lead": "M_4-4463_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1226",
     "name": "Ermanovec",
+    "peak": "46.101523,14.063172",
+    "region": "gorenjska",
     "title": {
       "sl": "Ermanovec",
       "en": "Ermanovec"
@@ -506,8 +519,11 @@
     "duration": 3,
     "height": 1692,
     "lead": "M_00004.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/773",
     "name": "Stegovnik",
+    "peak": "46.395233,14.419961",
     "photo_author": "Milos_Kobe",
+    "region": "karavanke",
     "title": {
       "sl": "Stegovnik",
       "en": "Stegovnik"
@@ -570,7 +586,10 @@
     "height": 1495,
     "lead": "M_0_00684.jpg",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5276",
     "name": "MaliGolak",
+    "peak": "45.978565,13.864346",
+    "region": "primorska",
     "title": {
       "sl": "Mali Golak",
       "en": "Mali Golak"
@@ -1193,18 +1212,18 @@
       "sl": "Ju\u017eno od Vuhreda stoji na son\u010dnem razglednem vrhu enega od stranskih grebenov Pohorja cerkev sv. Antona, ki je vrhu in bli\u017enjemu. zaselku dala tudi ime.",
       "en": null
     },
-    "dirty": true,
     "duration": 4,
     "height": 854,
     "lead": "M_7_2705.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/32647",
     "name": "svAnton",
+    "peak": "46.560801,15.203008",
+    "region": "pohorje",
     "title": {
       "sl": "Sveti Anton na Pohorju",
       "en": "Saint Anton on Pohorje"
-    },
-    "x": 516,
-    "y": 157
+    }
   },
   {
     "date": "2003-07-20 00:00:00+00:00",
@@ -1257,18 +1276,18 @@
       "sl": "Na \u017davcarjevem vrhu se greben Kozjaka, po katerem severno od Drave te\u010de meja med Slovenijo in Avstrijo, prvi\u010d povzpne nad 900 metrov. Vrh ni razgleden, izpred planinskega doma pod njim pa se odpira lep pogled na Dravsko dolino in Pohorje onkraj nje.",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 915,
     "lead": "M_7_2717.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1352",
     "name": "ZavcarjevVrh",
+    "peak": "46.600905,15.523045",
+    "region": "stajerska",
     "title": {
       "sl": "\u017davcarjev vrh",
       "en": "\u017davcarjev vrh"
-    },
-    "x": 540,
-    "y": 162
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -1872,9 +1891,7 @@
     "title": {
       "sl": "Trije kralji na Pohorju",
       "en": "Trije kralji on Pohorje"
-    },
-    "x": 535,
-    "y": 143
+    }
   },
   {
     "date": "2003-07-27 00:00:00+00:00",
@@ -3965,6 +3982,7 @@
     "y": 131
   },
   {
+    "date": "2021-03-03 15:00:00+00:00",
     "delta": 120,
     "description": {
       "sl": "Stara Baba je razgledna to\u010dka nad Ajdov\u0161\u010dino s pogledom na celotno Vipavsko dolino. Nanjo se povzpnete po nemarkiranih poteh iz bli\u017eine izvira Hublja.\n",
@@ -4328,18 +4346,18 @@
       "sl": "Med vo\u017enjo po spodnji Savinjski dolini ste morda na jugu \u017ee kdaj opazili nenavaden \u0161tirioglat \u010dok, ki se dviga vzhodno od nekaj vi\u0161je (spodobno grebensko oblikovane) \u010cem\u0161eni\u0161ke planine. Ta \u010dok ima poleg popolnoma nepri\u010dakovane oblike \u0161e stra\u0161ljivo ime (Krvavica), na njegovem vzhodnem in zahodnem pobo\u010dju pa boste na\u0161li tudi previsne stene nenavadne rde\u010de barve, \u010dez katere naj bi bili pahnili legendarno Veroniko Deseni\u0161ko.",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 909,
     "lead": "M_0_3015.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1354",
     "name": "Krvavica",
+    "peak": "46.200792,14.993072",
     "photo_author": "Mojca_Lustrek",
+    "region": "savinjska",
     "title": {
       "sl": "Krvavica",
       "en": "Krvavica"
-    },
-    "x": 500,
-    "y": 117
+    }
   }
 ]

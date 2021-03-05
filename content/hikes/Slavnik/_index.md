@@ -14,8 +14,6 @@ name: Slavnik
 peak: 45.533685,13.975236
 region: istria
 title: Slavnik in Grmada
-x: 420
-y: 43
 ---
 {{<figure src="M_5-3555_IMG.JPG">}}
 

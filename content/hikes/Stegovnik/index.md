@@ -1,6 +1,6 @@
 ---
 author: Milos_Kobe
-date: '2005-01-16T00:00:00'
+date: 2005-01-16 00:00:00+00:00
 delta: 250
 description: Stegovnik je izrazit razgleden grebenski vrh med dolino Tržiške Bistrice
   in dolino Kokre.
@@ -16,8 +16,11 @@ image:
 - M_00006.jpg
 - StegovnikKarta.jpg
 lead: M_00004.jpg
+maplink: https://mapzs.projekti.si/poi/773
 name: Stegovnik
+peak: 46.395233,14.419961
 photo_author: Milos_Kobe
+region: karavanke
 title: Stegovnik
 x: 455
 y: 139

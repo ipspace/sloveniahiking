@@ -7,10 +7,11 @@ image:
 - M_1-7159_IMG.JPG
 - KolazRazgled.jpg
 lead: M_1-7159_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/118
 name: Raduha
+peak: 46.409848,14.737603
+region: kamnik-alps
 title: Raduha
-x: 480
-y: 141
 ---
 {{<figure src="M_1-7159_IMG.JPG">}}
 

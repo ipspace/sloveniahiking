@@ -17,7 +17,10 @@ image:
 layout: stub
 lead: M_8_1889.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/77
 name: KalskiGreben
+peak: 46.331441,14.537686
+region: kamnik-alps
 title: Kalški greben
 x: 464
 y: 132

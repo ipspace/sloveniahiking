@@ -14,8 +14,11 @@ image:
 - StegovnikKarta.jpg
 layout: stub
 lead: M_00004.jpg
+maplink: https://mapzs.projekti.si/poi/773
 name: Stegovnik
+peak: 46.395233,14.419961
 photo_author: Milos_Kobe
+region: karavanke
 title: Stegovnik
 x: 455
 y: 139

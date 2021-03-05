@@ -8,29 +8,20 @@ description: Med vožnjo po spodnji Savinjski dolini ste morda na jugu že kdaj 
   še strašljivo ime (Krvavica), na njegovem vzhodnem in zahodnem pobočju pa boste
   našli tudi previsne stene nenavadne rdeče barve, čez katere naj bi bili pahnili
   legendarno Veroniko Deseniško.
-dirty: true
 duration: 3
 height: 909
-image:
-- M_0_3015.JPG
-- M_0_2997.JPG
-- M_0_2996.JPG
-- Pogled_Sever.jpg
-- Pogled_Zahod.jpg
-- M_0_3010.JPG
-- M_0_3013.JPG
-- M_006061101.jpg
-- mapgps.jpg
-- path_1.gif
 lead: M_0_3015.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1354
 name: Krvavica
+peak: 46.200792,14.993072
 photo_author: Mojca_Lustrek
+region: savinjska
 title: Krvavica
-x: 500
-y: 117
 ---
-{{<figure src="M_0_3015.JPG">}} Med vožnjo po spodnji Savinjski dolini ste morda na jugu že kdaj opazili nenavaden štirioglat čok, ki se dviga vzhodno od nekaj višje (spodobno grebensko oblikovane) Čemšeniške planine. Ta čok ima poleg popolnoma nepričakovane oblike še strašljivo ime (Krvavica), na njegovem vzhodnem in zahodnem pobočju pa boste našli tudi previsne stene nenavadne rdeče barve, čez katere naj bi bili pahnili legendarno Veroniko Deseniško \... več kot dovolj razlogov torej, da si to čudo ogledate pobliže.
+{{<figure src="M_0_3015.JPG">}}
+
+Med vožnjo po spodnji Savinjski dolini ste morda na jugu že kdaj opazili nenavaden štirioglat čok, ki se dviga vzhodno od nekaj višje (spodobno grebensko oblikovane) Čemšeniške planine. Ta čok ima poleg popolnoma nepričakovane oblike še strašljivo ime (Krvavica), na njegovem vzhodnem in zahodnem pobočju pa boste našli tudi previsne stene nenavadne rdeče barve, čez katere naj bi bili pahnili legendarno Veroniko Deseniško \... več kot dovolj razlogov torej, da si to čudo ogledate pobliže.
 
 ### Osnovni podatki
 
@@ -72,15 +63,23 @@ Markirana pot na Krvavico se začne že v Taboru, vasi na južnem robu Celjske k
 
 Asfaltna cesta vas za Lokami pelje mimo kapelice, nato pa na čudnem trikotnem krožišču zavijte na levi (makadamski) krak (smer Presedlje). Na začetku gozda so ob cesti tri manjša parkirišča; če se boste odpravili le na Krvavico, izberite zadnjega, če boste naredili krožno pot, pa se čimprej ustavite (da ob vrnitvi ne bo preveč nepotrebne hoje).
 
-{{<figure src="M_0_2997.JPG" caption="Naravno okno">}} {{<figure src="M_0_2996.JPG" caption="Travniki pod vrhom">}}
 
 Makadamska cesta ob Suhem potoku vas pripelje do začetka steze na Krvavico, ki je lepo označena z rdečim kažipotom. V mokrem precej blatna in spolzka steza se v ključih hitro dviga po strmem pobočju in vas v dobrih dvajsetih minutah pripelje na greben. Temu sledite le dobrih sto metrov, nato pa steza spet zavije na desno pobočje in vas po krajšem strmem vzponu pripelje do razkošnih skalnatih travnikov, poraslih z redkimi drevesi.
 
 **Pozor:** pod temi travniki so previsne skale na vzhodnem delu Krvavice. Zdrs nikakor ni priporočljiv.
 
-Po krajšem strmem vzponu se znajdete pod previsnim skalnim skokom, markacije pa vas usmerijo skozi zanimivo naravno okno (zavarovano z jeklenico in klini). Nad oknom se steza hitro položi in vas v nekaj minutah pripelje na vrh, od koder se odpre čudovit pogled na Celjsko kotlino, Čemšeniško in Menino planino ter druge vrhove Posavskega hribovja, v ozadju pa boste v lepem vremenu opazili celo Kamniško-Savinjske Alpe.
+Po krajšem strmem vzponu se znajdete pod previsnim skalnim skokom, markacije pa vas usmerijo skozi zanimivo naravno okno (zavarovano z jeklenico in klini). 
 
-{{<figure src="Pogled_Sever.jpg" caption="Pogled proti severu, v ozadju Kamniško-Savinjske Alpe" caption-position="bottom">}} {{<figure src="Pogled_Zahod.jpg" caption="Pogled na zahodni del Posavskega hribovja" caption-position="bottom">}}
+{{<gallery>}}
+{{<figure src="M_0_2997.JPG" caption="Naravno okno">}}
+{{<figure src="M_0_2996.JPG" caption="Travniki pod vrhom">}}
+{{</gallery>}}
+
+Nad oknom se steza hitro položi in vas v nekaj minutah pripelje na vrh, od koder se odpre čudovit pogled na Celjsko kotlino, Čemšeniško in Menino planino ter druge vrhove Posavskega hribovja, v ozadju pa boste v lepem vremenu opazili celo Kamniško-Savinjske Alpe.
+
+{{<figure src="Pogled_Sever.jpg" caption="Pogled proti severu, v ozadju Kamniško-Savinjske Alpe" caption-position="bottom">}}
+
+{{<figure src="Pogled_Zahod.jpg" caption="Pogled na zahodni del Posavskega hribovja" caption-position="bottom">}}
 
 S Krvavice do Zajčeve koče
 --------------------------
@@ -96,11 +95,11 @@ Po prvem spustu se markirana pot odcepi s kolovoza in vas v dobrih desetih minut
 Tesen graben
 ------------
 
-{{<figure src="M_0_3013.JPG" caption="Pogled na previsne vzhodne stene">}}
-
 Pot v Tesen graben se začne zahodno od koče (če stojite pred kočo in gledate v dolino, se odpravite po levem, bolj zapuščenem kolovozu), kjer vas stara obledela puščica (tu že lahko zaslutite, kako dobro vzdrževana je ta pot) pošlje na ozko stezo, ki se po z reso poraslem pobočju hitro spušča proti potoku, ki ga slišite globoko pod seboj. Pred kolovozom, ki ga prečkate, vas čaka celo stara lesena lestev, nekaj metrov v levo pa spet obledela puščica.
 
 Naslednji spust po stezi vas pripelje do potoka, ki ga prečkate, kratek sprehod po položnem kolovozu pa se konča na gozdni cesti, kjer vas čakajo tudi čisto nove markacije. Navdušenje žal ni na mestu -- na dveh razcepih vas markacije zanesljivo usmerjajo (nazadnje se znajdete na blatnem kolovozu), nato pa izginejo v neznano; ostanejo vam le še stari ostanki bele in rdeče barve in košček lesa, pribit na drevo (pazljivo oko lahko z njega razbere tudi odtise svinčnika, ki je nekoč nanj napisal *Tabor*), ki vas usmeri desno, na stezo, ki se po pobočju spusti proti potoku.
+
+{{<figure src="M_0_3013.JPG" caption="Pogled na previsne vzhodne stene">}}
 
 Med tem spustom se boste tisti bolj previdni začeli spraševati o smiselnosti svojega početja -- steza postaja vse bolj zaraščena, čeznjo ležijo stara podrta drevesa, ko pride do skalne pregrade, skozi katero si je potok utrl pot, pa dokončno izgine. Brez panike, po pošteni dozi autana se po vlažnih kamnih spustite mimo skal in za pregrado boste opazili ostanke steze, ki pelje naprej ob potoku.
 

@@ -15,8 +15,6 @@ peak: 46.238331,13.812483
 region: julian-alps
 start: 46.235612,13.793350
 title: Vogel
-x: 409
-y: 122
 ---
 Vogel is certainly the best known summit of the Lower Bohinj Mountains, but not because of its view (which is similar to the view from the other summits along the same ridge) or its fine pyramidal shape, but because of the ski centre, to which it has lent its name. 
 

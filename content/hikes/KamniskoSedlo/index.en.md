@@ -16,7 +16,11 @@ image:
 layout: stub
 lead: M_00001.jpg
 map: 1
+maplink: https://mapzs.projekti.si/path/32669
 name: KamniskoSedlo
+peak: 46.359083,14.597487
+region: kamnik-alps
+start: 46.327151,14.589373
 title: Kamniško sedlo
 x: 469
 y: 135

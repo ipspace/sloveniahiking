@@ -19,7 +19,10 @@ image:
 layout: stub
 lead: M_8-4841_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/5499
 name: Kozljek
+peak: 46.034295,14.254920
+region: notranjska
 title: Iz Vrzdenca na Samotorico in Kožljek
 x: 443
 y: 99
