@@ -1449,6 +1449,16 @@ dl dt {
       .post .cite::before, .post__item blockquote::before {
         width: 25px;
         height: 20px; } }
+.long-quote {
+  margin: 12px 0;
+  padding: 6px 12px;
+  border-top: 1px solid #251f1e;
+  border-bottom: 1px solid #251f1e;
+  background-color: #f7f7f7; }
+  @media (min-width: 768px) {
+    .long-quote {
+      margin: 24px 0;
+      padding: 12px 24px; } }
 pre, code, div.code {
   background-color: #f7f7f7;
   border: 1px dashed; }

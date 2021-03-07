@@ -36,6 +36,12 @@
         <a href="{{ $plink }}">{{ partial "lang-lookup" (dict "value" . "map" $genus "lang" $lang) }}</a>
       </dd>
     {{ end }}
+    {{ with .Params.author }}
+      <dt>{{ i18n "photoAuthor" }}</dt>
+      <dd>
+        {{ . }}
+      </dd>
+    {{ end }}
     {{ partial (printf "flower-period-%s" .Lang) . }}
   </dl>
   {{ .Content }}
