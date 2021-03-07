@@ -1,15 +1,14 @@
 ---
+author: Alenka Mihorič
 color: Y
 date: 2003-12-14 00:00:00+00:00
+lastmod: 2021-03-07 16:16:00
 f_end: '7'
 f_start: '5'
 family: Fabaceae
 flower_type: C
-image:
-- M_0-6091_IMG.JPG
-- M_0-6092_IMG.JPG
 latin: Genista januensis
-lead: M_0-6091_IMG.JPG
+lead: M_20170414_185308.jpg
 lead_sample: false
 order: Genista
 parallel: false
@@ -30,3 +29,5 @@ Trirobo košeničico bomo prepoznali po teh lastnostih:
 
 -   Rastlina je gola in nima trnov kot nemška ali gozdna košeničica.
 -   Steblo in vejice so trirobe (od tod tudi njeno ime).
+
+{{<note update>}}Marec 2021: Alenka Mihorič mi je poslala fotografije rastline ki je zagotovo triroba košeničica. Najlepša hvala!{{</note>}}

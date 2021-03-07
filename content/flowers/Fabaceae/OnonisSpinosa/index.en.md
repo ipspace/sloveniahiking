@@ -1,4 +1,5 @@
 ---
+author: Alenka Mihorič
 color: R
 date: '2002-07-28T00:00:00'
 f_end: '9'
@@ -15,5 +16,4 @@ petals: '5'
 petals_joined: false
 star_shape: false
 title: Spiny Restharrow
-author: Alenka Mihorič
 ---
