@@ -1,5 +1,5 @@
 ---
-author: JanaSkuk
+author: Jana Skuk
 color: GR
 date: '1900-01-01T00:00:00'
 f_end: '5'

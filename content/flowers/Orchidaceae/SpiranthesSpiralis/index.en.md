@@ -1,5 +1,5 @@
 ---
-author: Florijan_Poljsak
+author: Florijan Poljšak
 color: W
 date: '2007-11-04T00:00:00'
 f_end: '9'

@@ -1,5 +1,5 @@
 ---
-author: Anka_Voncina
+author: Anka Vončina
 color: R
 date: '2008-02-10T00:00:00'
 f_end: '8'

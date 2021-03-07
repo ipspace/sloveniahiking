@@ -1,5 +1,5 @@
 ---
-author: Branko_Obranovic
+author: Branko Obranovič
 color: Y
 date: '2003-11-15T00:00:00'
 f_end: '8'

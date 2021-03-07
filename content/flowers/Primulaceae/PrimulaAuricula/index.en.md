@@ -1,5 +1,5 @@
 ---
-author: TS_Zwitter
+author: TS Zwitter
 color: Y
 date: '2004-05-23T00:00:00'
 f_end: '7'

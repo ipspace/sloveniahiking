@@ -1,5 +1,5 @@
 ---
-author: Mojca_Lustrek
+author: Mojca Luštrek
 color: B
 date: '2006-06-04T00:00:00'
 f_end: '6'

@@ -1,5 +1,5 @@
 ---
-author: Drago_Cencic
+author: Drago Cenčič
 color: R
 date: '2004-08-22T00:00:00'
 f_end: '7'

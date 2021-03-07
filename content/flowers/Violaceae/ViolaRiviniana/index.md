@@ -1,5 +1,5 @@
 ---
-author: Anton_Poler
+author: Anton Poler
 color: B
 date: 2006-04-09 00:00:00+00:00
 f_end: '6'

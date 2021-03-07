@@ -1,5 +1,5 @@
 ---
-author: Mojca_Lustrek
+author: Mojca Luštrek
 color: Y
 date: 2006-06-04 00:00:00+00:00
 f_end: '8'

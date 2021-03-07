@@ -1,5 +1,5 @@
 ---
-author: Alenka_Mihoric
+author: Alenka Mihorič
 color: W
 date: 2006-05-21 00:00:00+00:00
 f_end: '6'

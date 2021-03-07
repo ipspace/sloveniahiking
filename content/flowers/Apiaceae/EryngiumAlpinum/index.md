@@ -1,5 +1,5 @@
 ---
-author: Spela_Marincic
+author: Špela Marinčič
 color: BW
 date: 2004-08-29 00:00:00+00:00
 f_end: '9'

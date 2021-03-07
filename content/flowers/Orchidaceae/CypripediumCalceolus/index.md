@@ -1,5 +1,5 @@
 ---
-author: Miro_Stebe
+author: Miro Štebe
 color: Y
 date: '1900-01-01T00:00:00'
 f_end: '7'

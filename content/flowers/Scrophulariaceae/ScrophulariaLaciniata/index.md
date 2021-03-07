@@ -1,5 +1,5 @@
 ---
-author: Alenka_Mihoric
+author: Alenka Mihorič
 color: R
 date: 1900-01-01 00:00:00+00:00
 f_end: '9'

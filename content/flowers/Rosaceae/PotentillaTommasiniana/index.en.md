@@ -1,5 +1,5 @@
 ---
-author: Elvica_Velikonja
+author: Elvica Velikonja
 color: Y
 date: '2008-02-24T00:00:00'
 f_end: '5'

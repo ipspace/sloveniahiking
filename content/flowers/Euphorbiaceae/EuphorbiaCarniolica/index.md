@@ -1,5 +1,5 @@
 ---
-author: Marko_Pavlin
+author: Marko Pavlin
 date: 2008-06-01 00:00:00+00:00
 f_end: '6'
 f_start: '4'

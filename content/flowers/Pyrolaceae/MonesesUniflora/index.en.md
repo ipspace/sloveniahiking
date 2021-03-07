@@ -1,5 +1,5 @@
 ---
-author: Matjaz_Malezic
+author: Matjaž Maležič
 color: W
 date: '2007-09-02T00:00:00'
 f_end: '7'

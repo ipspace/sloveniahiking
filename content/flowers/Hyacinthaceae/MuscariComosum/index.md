@@ -1,5 +1,5 @@
 ---
-author: Marjan_Gresl
+author: Marjan Gresl
 color: B
 date: 2008-04-20 00:00:00+00:00
 f_end: '6'

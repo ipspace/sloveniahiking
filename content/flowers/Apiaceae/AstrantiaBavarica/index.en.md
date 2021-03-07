@@ -1,5 +1,5 @@
 ---
-author: Matjaz_Jeran
+author: Matjaž Jeran
 color: W
 date: '2007-07-29T00:00:00'
 f_end: '8'

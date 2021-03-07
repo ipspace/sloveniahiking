@@ -1,5 +1,5 @@
 ---
-author: Alenka_Mihoric
+author: Alenka Mihorič
 color: Y
 date: '2007-03-11T00:00:00'
 f_end: '5'

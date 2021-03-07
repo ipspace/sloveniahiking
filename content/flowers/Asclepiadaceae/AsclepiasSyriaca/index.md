@@ -1,5 +1,5 @@
 ---
-author: Branko_Obranovic
+author: Branko Obranovič
 color: R
 date: 2003-11-23 00:00:00+00:00
 f_end: '7'

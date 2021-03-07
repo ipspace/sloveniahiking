@@ -1,5 +1,5 @@
 ---
-author: Ivan_Jurkovic
+author: Ivan Jurkovič
 color: W
 date: '2003-11-30T00:00:00'
 f_end: '9'

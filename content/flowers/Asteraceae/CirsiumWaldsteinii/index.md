@@ -1,5 +1,5 @@
 ---
-author: Alenka_Mihoric
+author: Alenka Mihorič
 color: R
 date: 2006-08-27 00:00:00+00:00
 lastmod: 2021-02-25 17:35:00
