@@ -5,12 +5,8 @@ f_end: '9'
 f_start: '6'
 family: Fabaceae
 flower_type: C
-image:
-- M_7-0783_IMG.jpg
-- M_7-0718_IMG.jpg
-- M_7-0719_IMG.jpg
 latin: Ononis spinosa
-lead: M_8-0889_IMG.jpg
+lead: M_20090715_102240.jpg
 lead_sample: false
 name: index.en
 order: Ononis
@@ -19,4 +15,5 @@ petals: '5'
 petals_joined: false
 star_shape: false
 title: Spiny Restharrow
+author: Alenka Mihorič
 ---
