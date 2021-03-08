@@ -173,9 +173,8 @@
     "delta": 440,
     "description": {
       "sl": "Ko bo Ljubljansko kotlino spet ovijala megla, se spla\u010da ogledati megleno morje z vrha - na primer s sv. Jakoba nad Preddvorom.",
-      "en": null
+      "en": "From the church of Saint Jacob, sitting on the western ridge of Poto\u0161ka Gora high above Preddvor, you'll have a phenomenal view of the Slovenian Alps. The vista, and the legendary mountain hut next to the church, make this hilltop a beloved hiking destination.\n"
     },
-    "dirty": true,
     "duration": 2,
     "height": 961,
     "lead": "M_9-3980_IMG.JPG",
@@ -188,8 +187,7 @@
       "sl": "Sv. Jakob nad Preddvorom",
       "en": "Saint Jakob above Preddvor"
     },
-    "x": 457,
-    "y": 130
+    "video": "https://www.relive.cc/view/vrqDQp74kwv/"
   },
   {
     "date": "2005-03-27 00:00:00+00:00",
