@@ -3396,7 +3396,7 @@
     "delta": 550,
     "description": {
       "sl": "\u010ce vam je vzpon na Kovk s Cola prekratek, se odpravite nanj iz Vipavske doline, bolj natan\u010dno s ceste Ajdov\u0161\u010dina\u2013Col.",
-      "en": null
+      "en": "The steep footpath to Kovk from the hunting hut in Budanje is an excellent choice for the days when you're looking for a quick strenuous hike with a fantastic view. \n"
     },
     "duration": 3,
     "height": 961,
@@ -3938,6 +3938,35 @@
       "sl": "Dona\u010dka gora",
       "en": "Dona\u010dka gora"
     }
+  },
+  {
+    "date": "2021-03-21 18:06:05+00:00",
+    "delta": "450",
+    "description": {
+      "sl": "Son\u010dnica je izrazita previsna skala na robu Gore s \u010dudovitim pogledom na Vipavsko dolino. Do nje se lahko sprehodite s parkiri\u0161\u010da ki ga uporabljajo jadralni padalci, ali pa se povzpnete po strmi poti od lovske ko\u010de nad Budanjami.\n",
+      "en": "The steep hike from Budanje to Son\u010dnica (a prominent overhanging rocky outcrop at the edge of the Gora plateau) is an ideal opportunity to burn the few extra fat cells you were so carefully nurturing during the winter months."
+    },
+    "difficulty": "Strm vzpon skozi borov gozd",
+    "duration": "2",
+    "height": "867",
+    "maplink": "https://mapzs.projekti.si/poi/1288",
+    "lead": "M_0_00679.JPG",
+    "layout": "structured",
+    "name": "Soncnica",
+    "peak": "45.886711,13.960029",
+    "region": "vipava",
+    "start": "45.879298,13.959525",
+    "timing": [
+      "Vzpon: 1 ura",
+      "Spust: 45 minut",
+      "Skupaj: 2 uri"
+    ],
+    "title": {
+      "sl": "Son\u010dnica",
+      "en": "Son\u010dnica"
+    },
+    "video": "https://www.relive.cc/view/vMq5731A3QO/",
+    "path": "../kovk/budanje"
   },
   {
     "date": "2003-06-08 00:00:00+00:00",
