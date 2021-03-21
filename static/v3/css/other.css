@@ -72,7 +72,7 @@ a.footnote {
   vertical-align: text-top;
   padding-left: 0.2em; }
 
-div.footnotes {
+div.footnotes, section.footnotes {
   margin-top: 3em; }
 
 h1,

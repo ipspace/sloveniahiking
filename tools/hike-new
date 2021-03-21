@@ -24,7 +24,7 @@ def new_hike(path,template):
   print("Enter English data for new hike %s" % path)
   print("=" * 80)
   page = { 'name': path, 'date': datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'layout': 'structured' }
-  wc.data_update.update_items(page,None,template)
+  wc.data_update.update_items(page=page,parent_page=None,template=template,lang="en")
   cm.write.create_output_file(data=page,target_path=path,name="index.en")
 
   ml_template = {}
@@ -37,7 +37,7 @@ def new_hike(path,template):
 
   print("Enter Slovenian data for new hike %s" % path)
   print("=" * 80)
-  wc.data_update.update_items(page,None,ml_template)
+  wc.data_update.update_items(page=page,parent_page=None,template=ml_template,lang="sl")
   cm.write.create_output_file(data=page,target_path=path,name="index")
 
 args = parse_cli()

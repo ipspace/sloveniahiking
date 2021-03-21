@@ -93,6 +93,9 @@ other="Seznam izletov"
 [hikeMap]
 other="Zemljevid poti"
 
+[hikePathDescription]
+other="Opis poti"
+
 [hikePeak]
 other="Višina vrha"
 

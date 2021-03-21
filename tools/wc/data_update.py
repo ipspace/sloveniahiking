@@ -16,11 +16,16 @@ def find_template(t,search_path):
 def read_template(t,search_path=[]):
   return cm.read.data(find_template(t,search_path))
 
-def update_items(page,parent_page=None,template={}):
+def update_items(page,parent_page=None,template={},lang=None):
   print("Use q to quit, - to erase\n")
 
   for (k,v) in template.items():
     page_v = page.get(k)
+
+    if isinstance(v,dict):
+      if lang in v:
+        v = v.get(lang)
+
     if isinstance(v,list):
       print("Cannot handle list %s" % k)
       if not page_v:

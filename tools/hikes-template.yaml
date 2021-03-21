@@ -1,5 +1,5 @@
 ---
-delta: 
+delta:
   sample: 540
 duration:
   sample: 3
@@ -8,16 +8,22 @@ height:
 difficulty:
   sample: Easy hike
   multilingual: true
-description: 
+description:
   sample: Short description
   multilingual: true
 title:
   sample: Hilltop Name
   multilingual: true
 timing:
-- "Ascent"
-- "Descent"
-- "Total"
+  multilingual: true
+  en:
+    - "Ascent: "
+    - "Descent: "
+    - "Total: "
+  sl:
+    - "Vzpon: "
+    - "Spust: "
+    - "Skupaj: "
 maplink:
   sample: https://mapzs.projekti.si/poi/5679
   inherit: true
@@ -30,5 +36,5 @@ peak:
   inherit: true
 region:
   sample: istria
-video: 
+video:
   sample: "https://www.relive.cc/view/vQvy1dzE8Kv/"
