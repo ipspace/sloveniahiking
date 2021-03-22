@@ -1,5 +1,5 @@
 ---
-date: '2021-03-21 18:06:05'
+date: '2021-03-21 16:06:05'
 delta: '450'
 description: |
   Sončnica je izrazita previsna skala na robu Gore s čudovitim pogledom na Vipavsko dolino. Do nje se lahko sprehodite s parkirišča ki ga uporabljajo jadralni padalci, ali pa se povzpnete po strmi poti od lovske koče nad Budanjami.
