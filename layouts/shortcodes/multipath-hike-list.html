@@ -1,5 +1,5 @@
 {{ $.Page.Scratch.Set "HikesListed" 1 }}
-{{ range $.Page.Pages.ByTitle }}
+{{ range (where $.Page.Pages ".Params.description" "!=" nil).ByTitle }}
 <section class='post__blurb'>
   {{ if .Params.multilead }}
     <div class='blurb__thumb'>
@@ -16,4 +16,15 @@
     {{ end }}
   </article>
 </section>
+{{ end }}
+{{ $nodesc := where $.Page.Pages ".Params.description" "==" nil }}
+{{ if len $nodesc }}
+<div>
+<h3>{{ i18n "hikeNoDescription" }}</h3>
+<ul>
+  {{ range $nodesc.ByTitle }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ .Params.delta }} m, {{ .Params.duration }} {{ i18n "hour" (int .Params.duration) }})</li>
+  {{ end }}
+</ul>
+</div>
 {{ end }}

@@ -87,6 +87,9 @@ other="List of hikes"
 [hikeMap]
 other="Hiking map"
 
+[hikeNoDescription]
+other="Hikes without description"
+
 [hikePeak]
 other="Peak altitude"
 
