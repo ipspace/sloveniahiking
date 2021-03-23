@@ -6,7 +6,7 @@ url: /index.html
 RSS: https://sloveniahiking.rocks/en/index.xml
 ---
 {{<tile-column>}}
-{{<tile title="Outdoor Activities" link="/start.en.html" link_text="Explore" image="/images/climbing-vrsic.jpg">}}
+{{<tile title="Outdoor Activities" link="/en/top/" link_text="Explore" image="/images/climbing-vrsic.jpg">}}
 * Hiking
 * Climbing
 * Ice climbing
