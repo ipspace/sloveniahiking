@@ -2062,22 +2062,70 @@
     "date": "2002-09-29 00:00:00+00:00",
     "delta": 300,
     "description": {
-      "sl": "Obisk Postojnske jame ali Predjamskega gradu lahko zdru\u017eite s prijetnim izletom na sv. Lovrenc, od koder boste v lepem vremenu videli celotno Postojnsko kotlino in okoli\u0161ke hribe vse do Nanosa.",
-      "en": null
+      "sl": "Najkraj\u0161i vzpon na sv. Lovrenc se za\u010dne pri lovski ko\u010di nad Gorenjem, od koder je do vrha slaba ura ob\u010dasno strmega vzpona po prijetnih kra\u0161kih travnikih.\n",
+      "en": "The shortest hike to Sv. Lovrenc starts at the hunting hut above Gorenje, leading you across sunny meadows and through a steep forest.\n"
     },
     "duration": 2,
+    "height": 1019,
+    "lead": "M_1-3162_IMG.JPG",
+    "multilead": "M_1-3162_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/3908",
+    "name": "svLovrenc/Gorenje",
+    "peak": "45.839190,14.168374",
+    "start": "45.835079,14.154237",
+    "region": "notranjska",
+    "title": {
+      "sl": "Na Sv. Lovrenc iz Gorenja",
+      "en": "St. Lovrenc from Gorenje"
+    }
+  },
+  {
+    "date": "2021-03-23 06:38:21+00:00",
+    "delta": 420,
+    "description": {
+      "sl": "Iz Studena pelje do cerkve sv. Lovrenca \u010dez strme kra\u0161ke travnike vedno \u0161ir\u0161a pe\u0161pot.\n",
+      "en": "The steepest ascent to Sv. Lovrenc starts in Studeno, a village near Postojna. I love to take it when looking for a short but intensive morning hike after dropping the kids off at school.\n"
+    },
+    "difficulty": "Strm vzpon po son\u010dnih kra\u0161kih travnikih",
+    "duration": 2,
+    "height": 1019,
+    "layout": "stub",
+    "lead": "M_20210322_080329.jpg",
+    "multilead": "M_20210322_080329.jpg",
+    "maplink": "https://mapzs.projekti.si/path/31624",
+    "name": "Studeno",
+    "path": "http://www.hribi.net/izlet/studeno_gora_sveti_lovrenc_/26/804/1432",
+    "peak": "45.839000,14.167335",
+    "region": "notranjska",
+    "start": "45.826682,14.174066",
+    "timing": [
+      "Vzpon: 1 ura",
+      "Sestop: 45 minut",
+      "Skupaj: 2 uri"
+    ],
+    "title": {
+      "sl": "Gora (sv. Lovrenc) iz Studena",
+      "en": "Sv. Lovrenc from Studeno"
+    },
+    "video": "https://www.relive.cc/view/vLqeGYZnGRO/"
+  },
+  {
+    "date": "2002-09-29 00:00:00+00:00",
+    "description": {
+      "sl": "Obisk Postojnske jame ali Predjamskega gradu lahko zdru\u017eite s prijetnim izletom na sv. Lovrenc, od koder boste v lepem vremenu videli celotno Postojnsko kotlino in okoli\u0161ke hribe vse do Nanosa.\n",
+      "en": "If you decide to visit Postojna cave or Predjama castle, drop by Gorenje or Studeno on the way back and hike to Gora (aka: sv Lovrenc), the highest hilltop in the ridge stretching from Planina to Predjama."
+    },
     "height": 1019,
     "lead": "M_1-3162_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/3908",
     "name": "svLovrenc",
     "peak": "45.839190,14.168374",
+    "region": "notranjska",
     "start": "45.835079,14.154237",
     "title": {
-      "sl": "Sv. Lovrenc nad Postojno",
+      "sl": "Sv. Lovrenc nad Studenom",
       "en": "St. Lovrenc near Postojna"
-    },
-    "x": 436,
-    "y": 78
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -2675,6 +2723,36 @@
     }
   },
   {
+    "date": "2021-03-23 16:47:28+00:00",
+    "delta": 990,
+    "description": {
+      "sl": "Iz Kamenj (vasice visoko nad Vipavsko dolino) so doma\u010dini speljali prijetno *Pot Koscev*, ki obuja spomine na \u010dase ko so kosci in grabljice hodili pripravljat seno na Malo Goro.",
+      "en": "Farmers from Kamnje, a tiny village high above Vipava valley, had to walk two hours to reach the meadows where they were preparing hay for the winter.\n\nThe local mountaineering team decided to preserve that tradition and created a theme path leading from Kamnje to Mala Gora.\n"
+    },
+    "difficulty": "Prijeten sprehod po Poti koscev s strmim zaklju\u010dkom na pobo\u010djih \u010cavna",
+    "duration": 5,
+    "height": 1242,
+    "layout": "structured",
+    "lead": "M_20210323_093528.jpg",
+    "maplink": "https://mapzs.projekti.si/path/32535",
+    "multilead": "M_20210323_093528.jpg",
+    "name": "Kamnje",
+    "path": "http://www.hribi.net/izlet/kamnje_koca_antona_bavcerja_na_cavnu_/26/500/1483",
+    "peak": "45.928964,13.852867",
+    "region": "vipava",
+    "start": "45.901010,13.834580",
+    "timing": [
+      "Vzpon: 2 uri 30 minut",
+      "Sestop: 2 uri",
+      "Skupaj: 5 ur"
+    ],
+    "title": {
+      "sl": "Po Poti koscev iz Kamenj na \u010caven",
+      "en": "\u010caven from Kamnje"
+    },
+    "video": "https://www.relive.cc/view/vRO7nzeEdyv/"
+  },
+  {
     "date": "2003-12-14 00:00:00+00:00",
     "delta": 1080,
     "description": {
@@ -2702,7 +2780,7 @@
     "date": "1900-01-01 00:00:00+00:00",
     "description": {
       "sl": "Severozahodno od Ajdov\u0161\u010dine se nad son\u010dno in toplo Vipavsko dolino vzpenjajo strme skalnate stene \u010cavna, grebena, ki na ju\u017eni strani omejuje Trnovski gozd.",
-      "en": null
+      "en": "\u010caven is a Karst plateau (as well as one of the peaks in that plateau) high above Vipava valley north-west of Ajdov\u0161\u010dina. \n\nIts steep slopes presented a formidable challenge to local farmers, who created a web of footpaths, dirt trails, and narrow dirt roads to reach high-lying meadows and forests. You can walk along those paths to get to *Ko\u010da na \u010cavnu* (\u010caven mountain hut) from Predmeja, Vrtovin, Stoma\u017e, Kamnje, or Lokavec.\n"
     },
     "height": 1242,
     "lead": "M_2_0264.JPG",
@@ -2713,9 +2791,7 @@
     "title": {
       "sl": "\u010caven",
       "en": "\u010caven"
-    },
-    "x": 412,
-    "y": 88
+    }
   },
   {
     "date": "2007-09-09 00:00:00+00:00",
@@ -3941,14 +4017,14 @@
   },
   {
     "date": "2021-03-21 16:06:05+00:00",
-    "delta": "450",
+    "delta": 450,
     "description": {
       "sl": "Son\u010dnica je izrazita previsna skala na robu Gore s \u010dudovitim pogledom na Vipavsko dolino. Do nje se lahko sprehodite s parkiri\u0161\u010da ki ga uporabljajo jadralni padalci, ali pa se povzpnete po strmi poti od lovske ko\u010de nad Budanjami.\n",
       "en": "The steep hike from Budanje to Son\u010dnica (a prominent overhanging rocky outcrop at the edge of the Gora plateau) is an ideal opportunity to burn the few extra fat cells you were so carefully nurturing during the winter months."
     },
     "difficulty": "Strm vzpon skozi borov gozd",
-    "duration": "2",
-    "height": "867",
+    "duration": 2,
+    "height": 867,
     "maplink": "https://mapzs.projekti.si/poi/1288",
     "lead": "M_0_00679.JPG",
     "layout": "structured",

@@ -1,7 +1,7 @@
 ---
 date: 1900-01-01 00:00:00+00:00
-description: Severozahodno od Ajdovščine se nad sončno in toplo Vipavsko dolino vzpenjajo
-  strme skalnate stene Čavna, grebena, ki na južni strani omejuje Trnovski gozd.
+description: 
+  Severozahodno od Ajdovščine se nad sončno in toplo Vipavsko dolino vzpenjajo strme skalnate stene Čavna, grebena, ki na južni strani omejuje Trnovski gozd.
 height: 1242
 image:
 - M_2_0264.JPG
@@ -12,8 +12,6 @@ peak: 45.928964,13.852867
 region: vipava
 start: null
 title: Čaven
-x: 412
-y: 88
 ---
 {{<figure src="M_2_0264.JPG" caption="Pogled na Čaven iz Vipavske doline">}}
 

@@ -1,15 +1,21 @@
 ---
-date: 1900-01-01 00:00:00+00:00
+date: 2021-03-23 16:50:00
+description: |
+  Čaven is a Karst plateau (as well as one of the peaks in that plateau) high above Vipava valley north-west of Ajdovščina. 
+  
+  Its steep slopes presented a formidable challenge to local farmers, who created a web of footpaths, dirt trails, and narrow dirt roads to reach high-lying meadows and forests. You can walk along those paths to get to *Koča na Čavnu* (Čaven mountain hut) from Predmeja, Vrtovin, Stomaž, Kamnje, or Lokavec.
 height: 1242
 image:
 - M_2_0264.JPG
-layout: stub
 lead: M_2_0264.JPG
 maplink: https://mapzs.projekti.si/poi/1062
 name: Caven
 peak: 45.928964,13.852867
 region: vipava
 title: Čaven
-x: 412
-y: 88
 ---
+{{<hike-details description="yes">}}
+
+## Choose a Hike
+
+{{<multipath-hike-list>}}
