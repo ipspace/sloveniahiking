@@ -1,19 +1,24 @@
 ---
 date: 2004-10-10 00:00:00+00:00
 delta: 420
-description: 'A steep hike from Idrijca valley to the church of St. John (Sv. Ivan) brings you to the sunny Šebrelje plateau.'
+description: A steep hike from Idrijca valley to the church of St. John (Sv. Ivan)
+  brings you to the sunny Šebrelje plateau.
 duration: 3
 height: 630
+lastmod: 2021-03-25 14:58:00
 lead: M_8_1840.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1419
 name: Sebrelje
+peak: 46.110149, 13.917076
+region: primorska
+start: 46.117423, 13.921578
 title: St. Ivan and Šebrelje
-x: 416
-y: 107
+video: https://www.relive.cc/view/vZqNn3QVn3q/
 ---
 {{<figure src="M_8_1840.JPG">}}
 
-When you\'ve been driving between Idrija or Cerkno and Tolmin, you\'ve perhaps noticed St John\'s church (sv. Ivan) gleaming on top of the high steep faces above the Idrijca valley. Seeing it and the steep slopes and gullies that surround it on all sides, scarcely anyone can imagine that behind the church stretches the practically unknown sunny and hilly plateau Šebreljska planota. You can climb up to sv. Ivan by a waymarked path from Reka, and another path leads to it past Divje babe (now famous caves where even in prehistoric times they played on bone flutes), and after a short rest there, you can set off on a leisurely walk through this sunlit, hilly region.
+When you\'ve been driving between Idrija or Cerkno and Tolmin, you\'ve perhaps noticed St John\'s church (sv. Ivan) gleaming on top of the high steep faces above the Idrijca valley. Seeing it and the steep slopes and gullies that surround it on all sides, scarcely anyone can imagine that behind the church stretches the practically unknown sunny and hilly plateau Šebreljska planota. You can climb up to sv. Ivan by a waymarked path from Reka, via an old mule trail, or a steep and exposed path past Divje babe (now famous caves where even in prehistoric times they played on bone flutes), and after a short rest there, you can set off on a leisurely walk through this sunlit, hilly region.
 
 ### At a glance
 
@@ -43,21 +48,24 @@ When you\'ve been driving between Idrija or Cerkno and Tolmin, you\'ve perhaps n
 **Recommended equipment**
 :   The path is steep in some places -- good footwear and trekking sticks are appropriate. In the lower part the path is overgrown, so in summer insect repellent is virtually obligatory.
 
+**Revision history**
+: The original Slovenian text (written in 2004) was translated into English by Margaret Davis. I added short notes after visiting Šebrelje in March 2021. The poetic language is hers, the errors are mine.
+
 **Map**
 :   Škofjeloško in Cerkljansko hribovje, 1 : 50 000
+
+{{<hike-details-extra>}}
 
 From Reka to sv. Ivan
 ---------------------
 
-The route to Šebrelje begins in Reka, a hamlet on the road between Idrija and Tolmin. If you drive to the starting-point through Idrija or Cerkno, Reka is the first hamlet after the junction where the road branches off for Cerkno, while if you come from the Tolmin direction, Reka is the first hamlet after Stopnik. Opposite the junction where a side road branches off for Bukovo and Zakojca you\'ll find quite a big carpark, which you can safely use, and then set off back towards Reka. After some metres a macadam road turns off on the right down towards the Idrijca river, at the junction you\'ll also notice a signpost which promises you a walk of 1 hour, 45 minutes to Šebrelje.
+The route to Šebrelje begins in Reka, a hamlet on the road between Idrija and Tolmin. In Reka, cross the bridge across Idrijca, and park at a tiny parking lot next to the bridge.
 
 {{<figure src="M_8_1822.JPG" caption="The start of the route">}}
 
-The macadam road quickly dops down to the Idrijca, crosses it by a fairly solid bridge, and then winds by the edge of a meadow to a turn-off by a hay-hut, where the waymarks direct you sharply right. Continue uphill on the macadam as far as the last house, where with some luck you\'ll see a waymark placed high up on the meadow behind the house. Go left across the yard, and then straight up along the remnants of an old cart-track. This bears slightly right  and then completely disappears, leaving you with only a narrow, but fairly well-used little path, which climbs steeply into the forest. At first it simply heads straight up the slope, but when this becomes too steep, it changes to short zig-zags, bringing you after about half an hour\'s ascent to a ridge from which you can already see between the trees the neighbouring summits of the Idrijsko hills.
+The asphalt road winds by the edge of a meadow. Take a left on the first fork, and then a sharp right following waymarks and red arrows. Continue as far as the last house, where with some luck you\'ll see a waymark placed high up on the meadow behind the house. Go left across the yard, and then straight up along the remnants of an old cart-track. This bears slightly right  and then completely disappears, leaving you with only a narrow, but fairly well-used little path, which climbs steeply into the forest. At first it simply heads straight up the slope, but when this becomes too steep, it changes to short zig-zags, bringing you after about half an hour\'s ascent to a ridge from which you can already see between the trees the neighbouring summits of the Idrijsko hills.
 
-{{<figure src="M_8_1825.JPG" caption="The first slopes">}}
-
-On the ridge the path turns right and follows it comfortably to a rocky edge, above which you\'ll probably observe the gleaming walls of sv. Ivan. The path now turns left before the rocks and takes you into increasingly precipitous terrain, but then manages to find a natural passage through the rocks, twisting right and again left, and guides you without difficulty along fairly broad ledges above the rocks (while walking along these rock ledges watch out for snakes). 
+On the ridge the path merges with a recently-cleared mule track, turns right, and follows it comfortably to a rocky edge, above which you\'ll probably observe the gleaming walls of sv. Ivan. The path now turns left before the rocks and takes you into increasingly precipitous terrain, but then manages to find a natural passage through the rocks, twisting right and again left, and guides you without difficulty along fairly broad ledges above the rocks (while walking along these rock ledges watch out for snakes). 
 
 {{<figure src="M_8_1829.JPG" caption="The rocky ledges below sv. Ivan">}}
 
@@ -72,6 +80,22 @@ After a short rest in the shade of the trees growing around the church and befor
 {{<figure src="M_8_1830.JPG" caption="A view of the surrounding hills">}}
 
 From the church you can set off on a walk around Šebreljska planota (I recommend it!), or drop down to the caves Divje babe (the well-marked path begins right by the church) and then try to find the little path that leads into the valley, but if you\'re short of time, it\'s best to return to the valley the same way as you came.
+
+Alternate ascent via a mule track
+------------------------------------------
+The waymarked path to Šebrelje follows the shortest footpath used in the old days when people still walked to the valley to go to work. Still, when they had to transport goods to Šebrelje, they used a mule track that has been totally neglected once a road from Stopnik was built. That mule track has been cleared a few years ago and provides a pleasant alternative:
+
+* From the parking lot, follow signs for "Mulatiera" (mule track)
+* When the red arrows send you right, turn left onto a gravel road. After ~100 meters, you'll see the next signpost sending you right onto the mule track
+* In 30 minutes, the mule track merges with the marked footpath (see above).
+
+Descent via Divje Babe
+------------------------------------------
+Instead of walking around Šebrelje plateau, you could decide to visit [Divje Babe](https://www.divje-babe.si/en/about-the-park/). A well-protected path starts next to the church and safely brings you to the cave (you need a guide to visit it). 
+
+The direct return to the Idrijca Valley is not for the faint-hearted. A narrow footpath crosses a steep slope, and while you'll notice an old rusted steel cable nearby, it probably won't give you more than moral support.
+
+Fortunately, the footpath quickly expands into a steep dirt trail that will bring you back to the start of the waymarked path.
 
 A circular route around Šebreljska planota
 ------------------------------------------

@@ -8,14 +8,17 @@ height:
 difficulty:
   sample: Easy hike
   multilingual: true
+  cleanup: true
 description:
   sample: Short description
   multilingual: true
+  cleanup: true
 title:
   sample: Hilltop Name
   multilingual: true
 timing:
   multilingual: true
+  cleanup: true
   en:
     - "Ascent: "
     - "Descent: "

@@ -1,5 +1,6 @@
 ---
 date: '2004-10-10T00:00:00'
+lastmod: 2021-03-25 14:58:00
 delta: 420
 description: 
   Za strmimi skalnatimi pobočji nad dolino Idrijce se skriva sončen gričevnat svet Šebreljske planote
@@ -7,10 +8,13 @@ duration: 3
 height: 630
 lead: M_8_1840.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1419
 name: Sebrelje
+region: primorska
+start: 46.117423, 13.921578
+peak: 46.110149, 13.917076
 title: Sv. Ivan in Šebreljska planota
-x: 416
-y: 107
+video: https://www.relive.cc/view/vZqNn3QVn3q/
 ---
 {{<figure src="M_8_1840.JPG">}}
 
@@ -47,14 +51,16 @@ Ko ste se vozili med Idrijo ali Cerknim in Tolminom, ste morda že opazili cerke
 **Karta**
 :   Škofjeloško in Cerkljansko hribovje, 1 : 50.000
 
+{{<hike-details-extra>}}
+
 Iz Reke proti sv. Ivanu
 -----------------------
 
-Pot na Šebrelje se začne za Reko, zaselkom ob cesti med Idrijo in Tolminom. Če se boste do izhodišča pripeljali skozi Idrijo ali Cerkno, je Reka prvi zaselek za križiščem, kjer se odcepi cesta v Cerkno, če pa boste prišli s tolminske strani, je Reka prvi zaselek za Stopnikom. Nasproti odcepa ceste, ki vodi v Bukovo in Zakojco, boste našli precej veliko parkirišče, na katerem lahko brez skrbi parkirate, nato pa se odpravite nazaj proti Reki. Čez nekaj metrov se v desno navzdol proti Idrijci odcepi makadamska cesta, na križišču pa boste opazili tudi kažipot, ki vam do Šebrelj obljublja uro in 45 minut hoje.
+Pot na Šebrelje se začne v Reki, zaselkom ob cesti med Idrijo in Tolminom. Prečkajte moste čez Idrijco in parkirajte na majhnem parkirišču takoj za mostom (ne na travniku, kmet grozi s črto na automobile).
 
 {{<figure src="M_8_1822.JPG" caption="Začetek poti">}}
 
-Makadam se hitro spusti do Idrijce, jo prečka čez dokaj trden most, nato pa se vije ob robu travnika do razcepa ob seniku, kjer vas markacije usmerijo ostro desno. Po makadamu se povzpnete do zadnje hiše, kjer z nekaj sreče opazite markacijo visoko na travniku za hišo. Sprehodite se levo čez dvorišče, nato pa naravnost navzgor po ostankih starega kolovoza. Ta zavijuga malce v desno, potem pa se popolnoma izgubi in ostane vam le še ozka, a precej uhojena stezica, ki se strmo dviga v gozd. V začetku jo pot ubere kar naravnost navzgor po pobočju, ko pa to le postane prestrmo, začne zavijati v kratkih ključih, ki vas po približno pol ure vzpona pripeljejo do grebena, s katerega lahko med drevjem že opazite sosednje vrhove Idrijskega hribovja.
+Sledite markacijam po asfaltni cesti (prvi odcep levo, nato ostro desno). Povzpnite se do zadnje hiše, kjer z nekaj sreče opazite markacijo visoko na travniku za hišo. Sprehodite se levo čez dvorišče, nato pa naravnost navzgor po ostankih starega kolovoza. Ta zavijuga malce v desno, potem pa se popolnoma izgubi in ostane vam le še ozka, a precej uhojena stezica, ki se strmo dviga v gozd. V začetku jo pot ubere kar naravnost navzgor po pobočju, ko pa to le postane prestrmo, začne zavijati v kratkih ključih, ki vas po približno pol ure vzpona pripeljejo do grebena, s katerega lahko med drevjem že opazite sosednje vrhove Idrijskega hribovja. Tukaj se markirani poti priključi nedavno očiščena mulatjera.
 
 {{<figure src="M_8_1825.JPG" caption="Prvi vzponi">}}
 

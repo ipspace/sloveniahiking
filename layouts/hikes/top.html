@@ -4,7 +4,7 @@
 {{ $pages := where (where .Site.Pages "Section" .Type) "Kind" "page" }}
 <article id="left-column">
 {{ .Content }}
-{{ range (first 10 (where $pages "Params.description" "!=" nil)).ByDate.Reverse }}
+{{ range (first 30 (where $pages "Params.description" "!=" nil)).ByDate.Reverse }}
   {{ partial "post-blurb.html" . }}
 {{ end }}
 </article>

@@ -31,6 +31,8 @@ def new_hike(path,template):
   for (k,v) in template.items():
     if v.get('multilingual'):
       ml_template[k] = v
+      if v.get('cleanup'):
+        page.pop(k,None)        
 
   if not ml_template:
     return

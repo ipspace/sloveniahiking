@@ -846,6 +846,7 @@
   },
   {
     "date": "2004-10-10 00:00:00+00:00",
+    "lastmod": "2021-03-25 14:58:00",
     "delta": 420,
     "description": {
       "sl": "Za strmimi skalnatimi pobo\u010dji nad dolino Idrijce se skriva son\u010den gri\u010devnat svet \u0160ebreljske planote",
@@ -855,13 +856,16 @@
     "height": 630,
     "lead": "M_8_1840.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1419",
     "name": "Sebrelje",
+    "region": "primorska",
+    "start": "46.117423,13.921578",
+    "peak": "46.110149,13.917076",
     "title": {
       "sl": "Sv. Ivan in \u0160ebreljska planota",
       "en": "St. Ivan and \u0160ebrelje"
     },
-    "x": 416,
-    "y": 107
+    "video": "https://www.relive.cc/view/vZqNn3QVn3q/"
   },
   {
     "date": "2004-03-28 00:00:00+00:00",
