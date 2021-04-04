@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+{{ $title := dict "title" .Title "page" . }}
+{{ partial "multi-title.html" $title }}
+{{ $pages := where (where .Site.Pages "Section" .Type) "Kind" "page" }}
+<article id="left-column">
+{{ .Content }}
+{{ range (first 30 $pages.ByDate.Reverse) }}
+  {{ partial "post-blurb.html" . }}
+{{ end }}
+</article>
+{{ partial "biking-sidebar.html" . }}
+{{ partial "footer.html" . }}

@@ -30,6 +30,10 @@
     <dt>{{ i18n "hikeDelta" }}</dt>
     <dd>{{ . }} m</dd>
   {{ end }}
+  {{ with .Params.length }}
+    <dt>{{ i18n "hikeLength" }}</dt>
+    <dd>{{ . }} km</dd>
+  {{ end }}
   {{ if or .Params.start .Params.peak }}
     <dt>{{ i18n "hikeCoordinates" }}</dt>
     <dd>

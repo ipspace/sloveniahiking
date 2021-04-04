@@ -11,7 +11,13 @@
       <a href="{{ .Permalink }}">{{ .Title }}</a>
       {{ if .Draft }}(draft)
       {{ else }}
+        {{ if eq .Section "biking"}}
+          {{ if .Params.length }}
+            ({{.Params.length}} km{{ with .Params.delta}}, Δ={{ . }} m{{end}})
+          {{ end }}
+        {{ else }}
         {{ with .Params.height }}({{ . }}&nbsp;m){{ end }}
+        {{ end }}
       {{ end }}
     </h3>
     {{ if .Params.intro }}

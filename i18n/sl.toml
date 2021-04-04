@@ -81,6 +81,9 @@ other="Dolžina"
 [hikeInteractive]
 other="Raziščite pot"
 
+[hikeLength]
+other="Dolžina"
+
 [hikeListDescription]
 other="Izleti s podrobnimi opisi"
 

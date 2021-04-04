@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+{{ $title := dict "title" .Title "page" . }}
+{{ partial "multi-title.html" $title }}
+<article id="left-column">
+  {{ partial "hike-crumbs" . }}
+  {{ .Content }}
+  {{ if eq .Lang "sl" }}
+    {{ partial "izlet-zemljevid.html" . }}
+  {{ else }}
+    {{ partial "hike-map.html" . }}
+  {{ end }}
+  <div style='clear: both;'></div>
+  <!-- comments -->
+  <div class='post__meta'>
+    {{ partial "post-share.html" . }}
+    {{ with .Params.media }}
+      <audio src="{{ . }}" controls="controls" preload="none"></audio>
+    {{ end }}
+    {{ partial "post-tags.html" . }}
+  </div>
+</article>
+{{ partial "hikes-sidebar.html" . }}
+{{ partial "load-photoswipe.html" . }}
+{{ partial "migrated-footer.html" . }}
+{{ partial "footer.html" . }}

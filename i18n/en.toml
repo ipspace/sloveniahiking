@@ -64,16 +64,19 @@ other="Peak"
 other="Difficulty"
 
 [hikeDelta]
-other="Height difference"
+other="Elevation gain"
 
 [hikeDuration]
-other="Hike duration"
+other="Average time"
 
 [hikeFacts]
 other="At a glance"
 
 [hikeInteractive]
 other="Interactive route"
+
+[hikeLength]
+other="Distance"
 
 [hikeListDescription]
 other="Hikes with detailed descriptions"
