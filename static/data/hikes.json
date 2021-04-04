@@ -2005,22 +2005,25 @@
   },
   {
     "date": "2002-07-15 00:00:00+00:00",
-    "delta": 550,
+    "delta": 590,
     "description": {
       "sl": "\u010ce bo vro\u010dina med po\u010ditnicami v slovenskem primorju le prehuda, si privo\u0161\u010dite kratko osve\u017eitev z izletom na Sne\u017enik.",
-      "en": null
+      "en": "Sne\u017enik is the highest peak in south-western Slovenia. You could spend days wandering around huge forests surrounding it; the quickest hike to the peak starts in Svi\u0161\u010daki, a hamlet high above Ilirska Bistrica."
     },
     "duration": 4,
     "height": 1796,
     "lead": "M_8-1813_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/34824",
     "name": "Sneznik",
+    "peak": "45.588478,14.447613",
+    "region": "notranjska",
+    "start": "45.574142,14.401174",
     "title": {
       "sl": "Sne\u017enik s Svi\u0161\u010dakov",
       "en": "Sne\u017enik from Svi\u0161\u010daki"
     },
-    "x": 457,
-    "y": 50
+    "video": "https://www.relive.cc/view/v8qV9WE9D36/"
   },
   {
     "date": "2003-09-21 00:00:00+00:00",
