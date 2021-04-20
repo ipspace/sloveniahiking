@@ -1,76 +1,225 @@
 #!/usr/bin/env python3
 # -*- mode:python -*-
 #
-# Converts suunto zip files (which contain json files) to a gpx file
-# until Suunto gets their act together and let me have my own data in
-# a normal way.
-# Prefers: python 3.8
-# Known to work down to: python 3.5
-
-# These zip files are producted by the Suunto app and typically on
-# android are located at:
-#   <Internal Storage>/Android/data/com.stt.suunto/files/smlzip/
+# Converts FIT files to GPX files and perform a bit of editing:
+# 
+# * Select laps
+# * Trim start and end 
+# * Change starting point
 #
-
 import sys
 import gpxpy
 import gpxpy.gpx
 import json
 import datetime
-import zipfile
-import math
 import fitparse
-# The relevant json snippet which is in a json array 'Samples'
-# looks like this:
+import argparse
+import geopy.distance
 
-#  {
-#    "Attributes": {
-#        "suunto/sml": {
-#            "Sample": {
-#                "GPSAltitude": 94,                     <-- assuming meters
-#                "Latitude": 0.88924328690504395,       <-- in radians
-#                "Longitude": 0.10261437316962527,      <-- in radians
-#                "UTC": "2019-04-18T07:25:29.000+00:00" <-- assumed what gps thinks of time?
-#            }
-#        }
-#    },
-#    "Source": "suunto-123456789",                      <-- number is the id of the device
-#    "TimeISO8601": "2019-04-18T09:25:29.000+02:00"     <-- assumed what watch thinks of time?
-#  },
-
-def fit2gpx(fit_name):
-  fit = fitparse.FitFile(fit_name)
-  fit.parse()
-
-  # Three keys make a trackpoint
-  TRKPT = ('Latitude', 'Longitude', 'UTC')
-
-  # Create the main gpx object
+def writeGpxFile(points,fname):
+  # Create a GPX object, a track, and a track segment.
+  # Bind them together
+  #
   gpx = gpxpy.gpx.GPX()
-
-  # We are getting one track presumably from the points we recorded
   track = gpxpy.gpx.GPXTrack()
   gpx.tracks.append(track)
-
-  # Points are added to segments (take breaks into account later?)
   segment = gpxpy.gpx.GPXTrackSegment()
   track.segments.append(segment)
 
-  # Parse FIT file
+  for p in points:
+    gpoint = gpxpy.gpx.GPXTrackPoint(latitude=p['lat'], longitude=p['lon'],
+                                      time=p['timestamp'], elevation=p['elevation'])
+    segment.points.append(gpoint)
+
+  print("Creating output file %s with %d points" % (fname,len(points)))
+  with open(fname,"w") as out:
+    out.write(gpx.to_xml())
+    out.close()
+
+#
+# Read FIT file into track and laps
+#
+def readFitFile(fit_name):
+  fit = fitparse.FitFile(fit_name)
+  fit.parse()
+
+  parsed = { 'track': [], 'laps': [] }
   for record in fit.get_messages("record"):
+    point = {}
     r_val = record.get_values()
     lat = r_val.get("position_lat")
     lon = r_val.get('position_long')
     if lat and lon:
       lat = lat / 11930465 # 2^32 / 360
       lon = lon / 11930465
-      ele = r_val.get("altitude")
-      point = gpxpy.gpx.GPXTrackPoint(latitude=lat, longitude=lon,
-                                      time=r_val.get("timestamp"), elevation=ele)
-      segment.points.append(point)
+      point['lat'] = lat
+      point['lon'] = lon
+      point['elevation'] = r_val.get("altitude")
+      point['timestamp'] = r_val.get("timestamp")
+      parsed['track'].append(point)
+
+  for lap in fit.get_messages("lap"):
+    l_val = lap.get_values()
+    parsed['laps'].append({ 'start': l_val['start_time'], 'end': l_val['timestamp'] })
+
+  print("Read %d points from %s\n" % (len(parsed['track']),fit_name))
+  print("Laps:")
+  for idx,l in enumerate(parsed['laps']):
+    print ("  #%d %s --> %s" % (idx+1,l['start'],l['end']))
+
+  return parsed
+
+def extract_laps(parsed,laps):
+  if not 'laps' in parsed:
+    print("Extract laps: Input data no longer has lap info")
+    return
+
+  result = { 'track': [] }
+  lap_data = parsed['laps']
+  for lap_param in laps.split(','):
+    lapid = int(lap_param) - 1
+    if lapid < 0 or lapid >= len(lap_data):
+      print("Invalid lap ID %d, should be between 1 and %d" % (lapid + 1,len(lap_data)))
+      return
+
+    print(".. extracting points for lap# %d" % (lapid + 1))
+    lapcnt = 0
+    for p in parsed['track']:
+      if p['timestamp'] >= lap_data[lapid]['start'] and p['timestamp'] <= lap_data[lapid]['end']:
+        if not len(result['track']) or result['track'][-1]['timestamp'] != p['timestamp']:
+          result['track'].append(p)
+          lapcnt = lapcnt + 1
+    print(".. copied %d points from lap# %d" % (lapcnt,lapid+1))
+
+  return result
+
+def adjust_date(parsed,newdate_string):
+  newdate = datetime.datetime.strptime(newdate_string,'%Y-%m-%d')
+
+  for p in parsed['track']:
+    p['timestamp'] = datetime.datetime.combine(newdate.date(),p['timestamp'].time())
+
+  print("Changed date to %s for %d points" % (newdate,len(parsed['track'])))
+
+radius = 100
+
+def within_range(p,lat,lon,radius):
+  d = geopy.distance.distance((lat,lon),(p['lat'],p['lon'])) * 1000
+  return d if d < radius else None
+
+def find_closest(track,lat,lon,start,increment):
+  global radius
+
+  distance = None
+  while start < len(track) and start >= 0:
+    distance = within_range(track[start],lat,lon,radius)
+    if distance:
+      break
+    start = start + increment
+
+  if not distance:
+    return None
+
+#  print("\nFound start of cut range: %s" % track[start])
+  best_metric = distance
+  start_pos = start
+  best_pos = start
+  end_pos = start
+
+  while start < len(track) and start >= 0:
+    distance = within_range(track[start],lat,lon,radius)
+    if not distance:
+      break
+    else:
+      end_pos = start
+      if distance < best_metric:
+        best_pos = start
+        best_metric = distance
+    start = start + increment
+
+  if distance:
+    print("Warning: never got out of cut range")
   
-  with open(fit_name.replace(".fit", ".gpx"),"w") as out:
-    out.write(gpx.to_xml())
+  print("\nCut range from %d to %d, best = %d" % (start_pos,end_pos,best_pos))
+#  print("Best point: %s" % track[best_pos])
+  print("Best metric: %s" % (best_metric / 1000))
+  return { "start": start_pos, "best": best_pos,"end": end_pos }
+
+def cut(parsed,LATLON):
+  global radius
+
+  (lat,lon) = map(float,LATLON.split(','))
+  print("Cutting track on %s - %s" % (lat,lon))
+  cut_start = find_closest(parsed['track'],lat,lon,0,1)
+  if not cut_start:
+    print("Never got with %d meters of %s %s, not cutting the track" % (radius,lat,lon))
+    return parsed
+
+  cut_end = find_closest(parsed['track'],lat,lon,cut_start["end"]+1,1)
+  result = { "track": parsed['track'][0:cut_start["best"]-1] }
+  if cut_end:
+    print("Appending from %d" % cut_end["best"])
+    result["track"].extend(parsed["track"][cut_end["best"]:])
+  
+  print("\nPoints left after cutting: %d" % (len(result["track"])))
+  return result
+
+def cmd_usage():
+  print("""
+Transformation commands:
+
+laps L
+  takes list of laps (or a single lap) and creates track data just from those laps
+
+date D
+  replaces date in the track file
+
+radius R
+  sets the radius for subsequent cut or trim operation (default = 100 m)
+
+cut LAT,LON
+  use to remove a dead-end - after the track gets within the radios of the specified
+  point, the closest point is chosen, and the GPX track is cut there. Once the FIT track leaves
+  the radius, and comes back, the GPX track continues.
+
+trim LAT,LON
+  use to remove getting to a starting point and back. The FIT data is ignored until it
+  comes closest to the specified point. The same procedure is applied to the track tail.
+  """)
+  sys.exit(0)
+def transform(parsed,cmds):
+  while len(cmds):
+    cmd = cmds.pop(0)
+    if cmd == 'laps':
+      parsed = extract_laps(parsed,cmds.pop(0))
+    elif cmd == 'date':
+      adjust_date(parsed,cmds.pop(0))
+    elif cmd == 'cut':
+      parsed = cut(parsed,cmds.pop(0))
+    elif cmd == 'help':
+      cmd_usage()
+    else:
+      print("Invalid command %s, ignoring the rest\n" % cmd)
+      break
+
+  return parsed
+
+def parse_cli():
+  parser = argparse.ArgumentParser(description='Convert FIT file into a GPX file')
+  parser.add_argument('-i','--input',dest='input',required=True,action='store',help='Input FIT file')
+  parser.add_argument('-o','--output',dest='output',const='',nargs="?",action='store',help='Output GPX file')
+  parser.add_argument('cmds', nargs='*',action='store',help='Transformation commands (use help to list them)')
+  return parser.parse_args()
+
+def main():
+  args = parse_cli()
+#  print(args)
+  parsed = readFitFile(args.input)
+  if args.cmds:
+    parsed = transform(parsed,args.cmds)
+  if not args.output is None:
+    out_name = args.output  if args.output else args.input.replace('.fit','.gpx')
+    writeGpxFile(parsed['track'],out_name)
 
 if __name__ == "__main__":
-  fit2gpx(sys.argv[1])
+  main()
