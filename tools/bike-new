@@ -1,0 +1,43 @@
+#!/usr/bin/env python3
+#
+import cm.read
+import cm.write
+
+import wc.data_update
+from wc.config import config
+import sys
+import os
+import yaml
+import argparse
+import readline
+import datetime
+
+def parse_cli():
+  parser = argparse.ArgumentParser(description='Create a new biking tour based on a template')
+  parser.add_argument('tour', nargs=1,action='store',help='Tour name')
+  parser.add_argument('--template','-t',dest='template',action='store', \
+    default="biking-template.yaml", \
+    help='Data template')
+  return parser.parse_args()
+
+def new_biking_tour(path,template):
+  print("Enter English data for new biking tour %s" % path)
+  print("=" * 80)
+  page = { 'name': path, 'date': datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'layout': 'structured' }
+  wc.data_update.update_items(page=page,parent_page=None,template=template,lang="en")
+  cm.write.create_output_file(data=page,target_path=path,name="index.en")
+
+args = parse_cli()
+template = wc.data_update.read_template(args.template,search_path=[os.path.dirname(__file__)])
+
+os.chdir(os.path.dirname(__file__)+"/"+config['BikeFilePath'])
+biking_name = args.tour[0]
+
+if os.path.exists(biking_name):
+  if os.path.exists(biking_name+"/index.md"):
+    print("Index file for biking tour %s already exists, exiting..." % biking_name)
+    sys.exit()
+else:
+  os.mkdir(biking_name)
+
+new_biking_tour(biking_name,template)

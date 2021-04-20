@@ -1,0 +1,26 @@
+---
+delta:
+  sample: 540
+duration:
+  sample: 3
+height:
+  sample: 1117
+difficulty:
+  sample: Easy tour on gravel roads
+description:
+  sample: Short description
+title:
+  sample: From Here to There and Everywhere
+  multilingual: true
+length:
+  sample: 18.7
+maplink:
+  sample: https://mapzs.projekti.si/poi/5679
+  inherit: true
+start:
+  sample: 45.792868,14.367291
+  despace: true
+region:
+  sample: istria
+video:
+  sample: "https://www.relive.cc/view/vQvy1dzE8Kv/"
