@@ -140,7 +140,7 @@ def find_closest(track,lat,lon,start,increment):
   if distance:
     print("Warning: never got out of cut range")
   
-  print("\nCut range from %d to %d, best = %d" % (start_pos,end_pos,best_pos))
+  print("\nProximity range from %d to %d, best = %d" % (start_pos,end_pos,best_pos))
 #  print("Best point: %s" % track[best_pos])
   print("Best metric: %s" % (best_metric / 1000))
   return { "start": start_pos, "best": best_pos,"end": end_pos }
@@ -149,7 +149,7 @@ def cut(parsed,LATLON):
   global radius
 
   (lat,lon) = map(float,LATLON.split(','))
-  print("Cutting track on %s - %s" % (lat,lon))
+  print("\nCutting track on %s - %s" % (lat,lon))
   cut_start = find_closest(parsed['track'],lat,lon,0,1)
   if not cut_start:
     print("Never got with %d meters of %s %s, not cutting the track" % (radius,lat,lon))
@@ -163,6 +163,51 @@ def cut(parsed,LATLON):
   
   print("\nPoints left after cutting: %d" % (len(result["track"])))
   return result
+
+def trim(parsed,LATLON):
+  global radius
+
+  (lat,lon) = map(float,LATLON.split(','))
+  print("\nTrimming track on %s - %s" % (lat,lon))
+  trim_start = find_closest(parsed['track'],lat,lon,0,1)
+  trim_end   = find_closest(parsed['track'],lat,lon,len(parsed['track'])-1,-1)
+  if not trim_start or not trim_end:
+    print("Cannot find the trimming point(s)")
+    return parsed
+
+  result = { 'track': parsed['track'][trim_start["best"]:trim_end["best"]] }
+  print("\nPoints left after cutting: %d" % (len(result["track"])))
+  return result
+
+def start(parsed,LATLON):
+  global radius
+
+  (lat,lon) = map(float,LATLON.split(','))
+  print("\nStarting the track on %s - %s" % (lat,lon))
+  start = find_closest(parsed['track'],lat,lon,0,1)
+  if not start:
+    print("Cannot find the starting point")
+    return parsed
+
+  resync_point = len(parsed['track']) - start["best"]
+
+  track = parsed['track'][start["best"]:]
+  track.extend(parsed['track'][:start["best"]])
+  
+  """
+  Resync time: 
+  * start at resync point
+  * find step interval (must be negative),
+  * find time delta
+  * Add negative step interval (to push the first part even further back)
+  """
+  resync_time = track[resync_point]["timestamp"] - track[resync_point+1]["timestamp"] + \
+                track[resync_point]["timestamp"] - track[resync_point - 1]["timestamp"]
+  print("Resync point: %d, Resync time: %s" % (resync_point,resync_time))
+  for i in range(0,resync_point):
+    track[i]['timestamp'] = track[i]['timestamp'] + resync_time
+
+  return { 'track' : track }
 
 def cmd_usage():
   print("""
@@ -196,6 +241,10 @@ def transform(parsed,cmds):
       adjust_date(parsed,cmds.pop(0))
     elif cmd == 'cut':
       parsed = cut(parsed,cmds.pop(0))
+    elif cmd == 'trim':
+      parsed = trim(parsed,cmds.pop(0))
+    elif cmd == 'start':
+      parsed = start(parsed,cmds.pop(0))
     elif cmd == 'help':
       cmd_usage()
     else:
