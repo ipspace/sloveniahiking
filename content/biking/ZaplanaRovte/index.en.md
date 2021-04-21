@@ -1,8 +1,7 @@
 ---
 date: '2021-04-20 16:47:28'
 delta: 470
-description: This circuitous tour will take you around western part of [Rovte hills](https://en.wikipedia.org/wiki/Rovte_Hills). You'll experience
-  some great views and an occasional steeper descent.
+description: This circuitous tour will take you around western part of [Rovte hills](https://en.wikipedia.org/wiki/Rovte_Hills). Stop at the highest point and enjoy the view of Julian Alps with Triglav.
 difficulty: Easy tour on a mix of asphalt and gravel roads
 duration: 2
 height: 730
