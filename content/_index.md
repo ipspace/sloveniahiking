@@ -7,12 +7,14 @@ RSS: https://sloveniahiking.rocks/en/index.xml
 ---
 {{<tile-column>}}
 {{<tile title="Outdoor Activities" link="/en/top/" link_text="Explore" image="/images/climbing-vrsic.jpg">}}
-* Hiking
+* [Hiking](/en/hikes)
+* [Biking](/en/biking)
 * Climbing
 * Ice climbing
+* [Wildflowers](/en/flowers)
 {{</tile>}}
 {{<tile title="Hiking in Slovenia" image="/hikes/debelapec/M_1_0145.jpg">}}
-* 180 hikes around Slovenia
+180 hikes around Slovenia
 * [Recent changes](/en/hikes)
 * [List of hikes](/en/hikes-list/list/)
 * [Hikes with descriptions](/en/hikes-list/list-photos/)
