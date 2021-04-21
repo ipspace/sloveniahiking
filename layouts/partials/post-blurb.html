@@ -13,7 +13,7 @@
       {{ else }}
         {{ if eq .Section "biking"}}
           {{ if .Params.length }}
-            ({{.Params.length}} km{{ with .Params.delta}}, Δ={{ . }} m{{end}})
+            ({{.Params.length}}&nbsp;km{{ with .Params.delta}},&nbsp;Δ={{ . }} m{{end}})
           {{ end }}
         {{ else }}
         {{ with .Params.height }}({{ . }}&nbsp;m){{ end }}

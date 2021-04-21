@@ -17,13 +17,17 @@
   </iframe>
 </div>
 {{ end }}
-{{ if or .Params.video .Params.path }}
+{{ $gpx := .Resources.GetMatch "*.gpx" }}
+{{ if or .Params.video .Params.path $gpx }}
 <p class="buttonRow">
   {{ with .Params.video }}
   <a href="{{ . }}explore" class="buyButton secondary" target="_blank">{{ i18n "hikeInteractive" }}</a>
   {{ end }}
   {{ with .Params.path }}
   <a href="{{ . }}" class="buyButton secondary" target="_blank">{{ i18n "hikePathDescription" }}</a>
+  {{ end }}
+  {{ with $gpx }}
+  <a href="{{ .Permalink }}" class="buyButton secondary" target="_blank">{{ i18n "hikeGPX" }}</a>
   {{ end }}
 </p>
 {{ end }}
