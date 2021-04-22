@@ -1,7 +1,7 @@
 ---
 date: '2021-04-20 16:14:45'
 delta: 470
-description: The tour from Marezige to Boršt will take you on scenic hills around
+description: The tour from Marezige to Boršt will take you onto scenic hills around
   Rokava valley. The descent from Labor to Dragonja valley (should you choose to do
   it) is just the icing on the cake.
 difficulty: Lovely tour on asphalt roads in Slovenian Istria. Optional challenging

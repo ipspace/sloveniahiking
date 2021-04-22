@@ -22,7 +22,9 @@ video: https://www.relive.cc/view/vmqX2AKNYLO/
 
 ### Notes
 
-* Park in Marezige
-* If you enjoy exploring old Istrian villages, visit Trsek. Otherwise, turn sharp left and continue toward Popetre (no sign).
+* There's a large parking lot in the center of Marezige
+* To get from Trsek to Popetre, take a sharp left turn at the beginning of the village (there's no sign).
 * Near the bus stop in Popetre, go straight toward Gradišče (longer) or left toward Lopar (what I did)
 * If you decide to return to Marezige via Gradišče, drop by Kubed to see a [rare pentagonal church tower](https://sloveniahiking.rocks/en/hikes/lacna/kubed/).
+* Locals are recommending the [Karjola restaurant in Marezige](https://karjola.si/en/home/).
+* Recommended stay: Holiday House Ida in Marezige
