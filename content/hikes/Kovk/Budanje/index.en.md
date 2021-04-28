@@ -1,9 +1,16 @@
 ---
 date: 2008-03-16 00:00:00+00:00
 delta: 550
-description: |
-  The steep footpath to Kovk from the hunting hut in Budanje is an excellent choice for the days when you're looking for a quick strenuous hike with a fantastic view. 
+description: "The steep footpath to Kovk from the hunting hut in Budanje is an excellent\
+  \ choice for the days when you're looking for a quick strenuous hike with a fantastic\
+  \ view. \n"
 duration: 3
+gpx:
+  center:
+    lat: 45.88407016934466
+    lon: 13.962678967469673
+  file: Budanje-Kovk.gpx
+  modified: 1614931899.4509637
 height: 961
 layout: structured
 lead: M_0_00681.JPG

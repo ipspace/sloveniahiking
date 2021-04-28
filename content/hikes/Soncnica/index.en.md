@@ -1,10 +1,17 @@
 ---
-date: '2021-03-21 16:06:05'
+date: 2021-03-21 16:06:05+00:00
 delta: 450
-description: 
-  The steep hike from Budanje to Sončnica (a prominent overhanging rocky outcrop at the edge of the Gora plateau) is an ideal opportunity to burn the few extra fat cells you were so carefully nurturing during the winter months.
+description: The steep hike from Budanje to Sončnica (a prominent overhanging rocky
+  outcrop at the edge of the Gora plateau) is an ideal opportunity to burn the few
+  extra fat cells you were so carefully nurturing during the winter months.
 difficulty: Steep hike through a pine forest
 duration: 2
+gpx:
+  center:
+    lat: 45.88257017226533
+    lon: 13.961305458711951
+  file: Soncnica.gpx
+  modified: 1614874405.1292622
 height: 867
 layout: structured
 lead: M_0_00679.JPG

@@ -1,11 +1,17 @@
 ---
-date: '2021-04-21 17:29:41'
+date: 2021-04-21 17:29:41+00:00
 delta: '500'
-description: You'll love biking through old Istrian villages high above Adriatic
-  sea. Some of the vistas you'll encounter are probably among the best ones you can
-  get in Slovenian Istria.
+description: You'll love biking through old Istrian villages high above Adriatic sea.
+  Some of the vistas you'll encounter are probably among the best ones you can get
+  in Slovenian Istria.
 difficulty: Asphalt roads. Somewhat steeper ascents around Pomjan and Montinjan.
 duration: '2'
+gpx:
+  center:
+    lat: 45.5106700410788
+    lon: 13.763980662078435
+  file: MarezigeSmarje.gpx
+  modified: 1619018919.167959
 height: '391'
 layout: structured
 lead: M_20210421_085534.jpg
