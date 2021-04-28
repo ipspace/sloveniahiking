@@ -16,6 +16,25 @@ def parse_cli():
   parser.add_argument('--output',dest='output',default='../static/data/hikes.json',action='store',help='Output JSON file')
   return parser.parse_args()
 
+def process_page(page,lang):
+  for key in ('html','markdown','image'):
+    page.pop(key,None)
+  
+  for key in list(page.keys()):
+    if page[key] is None:
+      page.pop(key)
+
+  for key in ('date','lastmod'):
+    if key in page:
+      page[key] = str(page[key])
+
+  for key in ('start','peak'):
+    if key in page:
+      page[key] = str(page[key]).replace(" ","")
+
+  page['title'] = { lang: page.get('title') }
+  page['description'] = { lang: page.get('description') }
+
 def collect_hike_data(si_path):
   si_page = cm.read.page(si_path)
 
@@ -45,8 +64,24 @@ def collect_hike_data(si_path):
 
   hike_json.append(si_page)
 
+def collect_bike_data(index_path):
+  global hike_json
+
+  page = cm.read.page(index_path)
+  process_page(page,'en')
+  page['type'] = 'biking'
+
+  if 'gpx' in page:
+    for key in ('start','peak'):
+      page.pop(key,None)
+    page['center'] = format("%.6f,%.6f" % (page['gpx']['center']['lat'],page['gpx']['center']['lon']))
+    page.pop('gpx')
+
+  hike_json.append(page)
+
 args = parse_cli()
 cm.traverse.walk(config['ExFilePath'],r'index\.md$',collect_hike_data)
+cm.traverse.walk(config['BikeFilePath'],r'index\.en\.md$',collect_bike_data)
 with open(args.output,"w") as output_file:
   json.dump(hike_json,fp=output_file,indent=2)
   print("Created JSON file %s" % args.output)
