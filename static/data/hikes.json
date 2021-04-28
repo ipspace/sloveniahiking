@@ -4468,5 +4468,125 @@
       "sl": "Krvavica",
       "en": "Krvavica"
     }
+  },
+  {
+    "date": "2021-04-20 16:14:45+00:00",
+    "delta": 470,
+    "description": {
+      "en": "The tour from Marezige to Bor\u0161t will take you onto scenic hills around Rokava valley. The descent from Labor to Dragonja valley (should you choose to do it) is just the icing on the cake."
+    },
+    "difficulty": "Lovely tour on asphalt roads in Slovenian Istria. Optional challenging descent on a rocky dirt road.",
+    "duration": 2.5,
+    "height": 392,
+    "layout": "structured",
+    "lead": "M_20210420_104635.jpg",
+    "length": 23.3,
+    "maplink": "https://mapzs.projekti.si/poi/52206",
+    "name": "MarezigeBorst",
+    "region": "istria",
+    "title": {
+      "en": "From Marezige to Bor\u0161t"
+    },
+    "video": "https://www.relive.cc/view/vAOZPEJNzyq/",
+    "type": "biking",
+    "center": "45.493208,13.795855"
+  },
+  {
+    "date": "2021-03-30 10:00:00+00:00",
+    "delta": 110,
+    "description": {
+      "en": "Biking around Lake Cerknica was always a pleasant experience, and it got even better since the local tourist organization marked four trails, from a family-friendly one to a slightly more demanding trip to Rakov \u0160kocjan."
+    },
+    "difficulty": "Easy tour on gravel roads",
+    "duration": 2,
+    "height": 550,
+    "layout": "structured",
+    "lead": "M_20210330_105952.jpg",
+    "length": 18.7,
+    "maplink": "https://mapzs.projekti.si/poi/34475",
+    "name": "LakeCerknica",
+    "region": "notranjska",
+    "start": "45.772962,14.357420",
+    "title": {
+      "en": "Lake Cerknica"
+    },
+    "video": "https://www.relive.cc/view/vE6Jgj581xq/",
+    "type": "biking"
+  },
+  {
+    "date": "2021-04-22 10:14:27+00:00",
+    "delta": "520",
+    "description": {
+      "en": "After enjoying the [vistas of Adriatic Sea](/en/biking/marezigesmarje/), it's time for a trip deep into \u0160avrinsko gri\u010devje (\u0160avrinje hills). We'll start in Marezige, cross Rokava and Dragonja valleys, visit Trsek, enjoy the views from the road to Popetre, and return to Marezige via Lopar or Gradi\u0161\u010de."
+    },
+    "difficulty": "Asphalt roads with occasional steeper ascents",
+    "duration": "2",
+    "height": "404",
+    "layout": "structured",
+    "lead": "M_20210422_085412.jpg",
+    "length": "18.3",
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.49773&lon=13.839&layers=B0000",
+    "name": "MarezigeTrsek",
+    "region": "istria",
+    "title": {
+      "en": "Marezige \u2013 Trsek \u2013 Popetre"
+    },
+    "video": "https://www.relive.cc/view/vmqX2AKNYLO/",
+    "type": "biking",
+    "center": "45.500068,13.829498"
+  },
+  {
+    "title": {
+      "en": "Biking in Slovenia"
+    },
+    "layout": "top",
+    "description": {
+      "en": null
+    },
+    "type": "biking"
+  },
+  {
+    "date": "2021-04-21 17:29:41+00:00",
+    "delta": "500",
+    "description": {
+      "en": "You'll love biking through old Istrian villages high above Adriatic sea. Some of the vistas you'll encounter are probably among the best ones you can get in Slovenian Istria."
+    },
+    "difficulty": "Asphalt roads. Somewhat steeper ascents around Pomjan and Montinjan.",
+    "duration": "2",
+    "height": "391",
+    "layout": "structured",
+    "lead": "M_20210421_085534.jpg",
+    "length": "18.9",
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.50964&lon=13.756&layers=B0000",
+    "name": "MarezigeSmarje",
+    "region": "istria",
+    "title": {
+      "en": "Marezige \u2013 \u0160marje \u2013 Vanganel"
+    },
+    "video": "https://www.relive.cc/view/vrqDQRp3zwv/",
+    "type": "biking",
+    "center": "45.510670,13.763981"
+  },
+  {
+    "date": "2021-04-20 16:47:28+00:00",
+    "delta": 470,
+    "description": {
+      "en": "This circuitous tour will take you around western part of [Rovte hills](https://en.wikipedia.org/wiki/Rovte_Hills). Stop at the highest point and enjoy the view of Julian Alps with Triglav."
+    },
+    "difficulty": "Easy tour on a mix of asphalt and gravel roads",
+    "duration": 2,
+    "height": 730,
+    "layout": "structured",
+    "lead": "M_20210329_122726.jpg",
+    "length": 22.2,
+    "maplink": "https://mapzs.projekti.si/poi/5387",
+    "name": "ZaplanaRovte/",
+    "region": "notranjska",
+    "title": {
+      "en": "From Zaplana to Rovte"
+    },
+    "video": "https://www.relive.cc/view/vdvmDAB81xq/",
+    "type": "biking",
+    "center": "45.975529,14.209007"
   }
 ]
