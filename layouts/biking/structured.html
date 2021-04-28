@@ -4,6 +4,7 @@
 <article id="left-column">
   {{ partial "hike-crumbs" . }}
   {{ .Content }}
+  {{ partial "include-gpx-map" . }}
   {{ partial "photo-gallery" . }}
   {{ partial "hike-views" . }}
   <div style='clear: both;'></div>
