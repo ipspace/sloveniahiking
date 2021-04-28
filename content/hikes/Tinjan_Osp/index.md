@@ -14,7 +14,6 @@ image:
 - path_1.gif
 - alt.gif
 lead: M_7-4705_IMG.JPG
-map: 1
 maplink: https://mapzs.projekti.si/poi/1827
 name: Tinjan_Osp
 peak: 45.561375,13.835055
