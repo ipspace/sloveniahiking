@@ -4,6 +4,10 @@
   {{ with $top }}
     <a href="{{ .Permalink }}">{{ .Title }}</a> »
   {{ end }}
+  {{ $region := .GetPage (printf "/region/%s" .Params.region) }}
+  {{ with $region }}
+    <a href="{{ .Permalink }}">{{ .Title }}</a> »
+  {{ end }}
   {{ $parent := .GetPage "../" }}
   {{ with $parent }}
     {{ if .Params.height }}
