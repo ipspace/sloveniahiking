@@ -63,14 +63,12 @@ function createIcons() {
 function processHikeData(json,map,lang) {
   points = []
   icon = createIcons();
+  console.log(map);
 
   for (const hike_data of json) {
     if (hike_data.start || hike_data.peak || hike_data.center) {
       var loc = hike_data.multipath ? hike_data.start : hike_data.peak
       loc ||= hike_data.center || hike_data.start
-      if (hike_data.type == 'biking') {
-        console.log(hike_data)
-      }
       var latlon = loc.split(',')
       point = new ol.Feature({
                 geometry: new ol.geom.Point(ol.proj.fromLonLat([latlon[1],latlon[0]])),
@@ -96,11 +94,33 @@ function processHikeData(json,map,lang) {
                   return feature.icon
                 }
               });
+  console.log(map);
   map.addLayer(layer);
   enableFeatureClicks(map);
 }
 
-function createMap(divname,lat,lon,zoom,gpx) {
+function createRegionMap(divname,lat,lon,zoom,lang) {
+  v = new ol.View({
+    center: ol.proj.fromLonLat([parseFloat(lon),parseFloat(lat)]),
+    zoom: zoom});
+
+  region_map = new ol.Map({
+    layers: [
+    new ol.layer.Tile({
+      source: new ol.source.OSM(),
+    }) ],
+    target: divname,
+    view: new ol.View({
+      center: ol.proj.fromLonLat([parseFloat(lon),parseFloat(lat)]),
+      zoom: zoom})
+    });
+
+  $.getJSON('/data/hikes.json',function(data) {
+    processHikeData(data,region_map,lang)
+  });
+}
+
+function createGPXMap(divname,lat,lon,zoom,gpx) {
   v = new ol.View({
     center: ol.proj.fromLonLat([parseFloat(lon),parseFloat(lat)]),
     zoom: zoom});
@@ -118,7 +138,7 @@ function createMap(divname,lat,lon,zoom,gpx) {
     })
   });
 
-  map = new ol.Map({
+  gpx_map = new ol.Map({
     layers: [
       new ol.layer.Tile({
         source: new ol.source.OSM(),
@@ -131,13 +151,14 @@ function createMap(divname,lat,lon,zoom,gpx) {
   });
 }
 
+
 $(function() {
   map = $("#mapdiv")
   if (map.length) {
-    createMap("mapdiv",map.attr("data-lat"),map.attr("data-lon"),map.attr("data-zoom"),map.attr("data-lang"))
+    createRegionMap("mapdiv",map.attr("data-lat"),map.attr("data-lon"),map.attr("data-zoom"),map.attr("data-lang"))
   }
   map = $("#mapgpx")
   if (map.length) {
-    createMap("mapgpx",map.attr("data-lat"),map.attr("data-lon"),map.attr("data-zoom"),map.attr("data-gpx"))
+    createGPXMap("mapgpx",map.attr("data-lat"),map.attr("data-lon"),map.attr("data-zoom"),map.attr("data-gpx"))
   }
 });
