@@ -1,16 +1,18 @@
 ---
-date: '2007-12-02T00:00:00'
+date: 2007-12-02 00:00:00+00:00
 delta: 650
-description: 
-  Če uživate v tišini in pogledih na strma jesensko obarvana pobočja Idrijskega hribovja, se novembra odpravite na Hleviške planine.
+description: Če uživate v tišini in pogledih na strma jesensko obarvana pobočja Idrijskega
+  hribovja, se novembra odpravite na Hleviške planine.
 duration: 5
 height: 908
 lead: M_0_10596.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/278
 name: HleviskePlanine
+peak: 45.987225,13.995846
+region: primorska
+start: 46.000427,14.023701
 title: Hleviške planine
-x: 442
-y: 94
 ---
 {{<figure src="M_0_10596.JPG">}}
 
@@ -42,18 +44,18 @@ y: 94
 :   dobro obutev in planinske palice.
 
 **Zemljevid**
-:   Prav na območju Hleviških planin in okoliških hribov zija v mojih izdajah izletniških kart GZS očitna luknja. Z mnogo sreče boste morda še našli zemljevid*Idrijsko in Cerkljansko*, ki ga[priporoča TIC Idrija](http://www.idrija-turizem.si/content/view/385/287/), še bolje pa bo počakati na novi planinski zemljevid Nanosa.
+:   Prav na območju Hleviških planin in okoliških hribov zija v mojih izdajah izletniških kart GZS očitna luknja. Z mnogo sreče boste morda še našli zemljevid *Idrijsko in Cerkljansko*, ki ga priporoča TIC Idrija.
 
 **Zahvala**
 :   Na izlet sta me odpeljala Anka in Uroš Vončina.
 
 **Ne pozabite**
-:   V Idriji in njeni okolici se na vsakem koraku srečate z vzorno urejenimi objekti, ki spominjajo na petstoletno rudarjenje v tem mestu. Toplo priporočam ogled[mestnega muzeja v gradu Gewerkenegg](http://www.muzej-idrija-cerkno.si/objekti/grad.htm)in[Antonijevega rova](http://www.idrija-turizem.si/content/view/17/34/).
+:   V Idriji in njeni okolici se na vsakem koraku srečate z vzorno urejenimi objekti, ki spominjajo na petstoletno rudarjenje v tem mestu. Toplo priporočam ogled mestnega muzeja v gradu Gewerkenegg in Antonijevega rova.
 
 Skozi Strug
 -----------
 
-Izlet začnete sredi Idrije, kjer vas nad avtobusno postajo čaka veliko parkirišče. Mimo avtobusne postaje se držite levo, nato pa tik pred Antonijevim rovom zavijete ostro levo v hrib.
+Izlet začnete na velikem parkirišču sredi Idrije (tik pred Antonijevim rovom zavijete ostro levo v hrib).
 
 S parkirišča se odpravite po ozki asfaltirani cesti nad avtobusno postajo (opazili boste že prve markacije), na prvem razcepu izberite spodnji krak in v nekaj minutah boste prišli do Scopolijevega botaničnega vrta, ki je stisnjen v kot pod podporne zidove stare rudniške zgradbe (prej je bil to Kaizerjev jašek); tam si lahko ogledate tudi restavrirane rudniške lokomotive. Pretaknite se med njimi (prehod ni čisto očiten) do široke lepo urejene poti ob idrijskih Rakah, ki vas zlagoma popelje ob kanalu, po katerem je že od konca 16. stoletja tekla voda v [Kamšt](http://www.muzej-idrija-cerkno.si/objekti/lokacije.htm) (rudniško črpalko), danes pa v elektrarno. Po precej dolgem prijetnem sprehodu vas pot pripelje do Kobile -- jezu na Idrijci (malo naprej približno nasproti Divjega jezera), kjer se makadamska pot spremeni v ozko stezo, ki se začne skozi Strug zlagoma vzpenjati nad Idrijco proti Beli.
 
@@ -107,4 +109,4 @@ Med spustom po pobočjih nad Nikovo boste nedvomno uživali v modrosti naših pr
 
 Po dobrih desetih minutah spusta vas pot pripelje do ostankov širokega kolovoza ob strugi Nikove. Čeprav je ta že čisto zapuščen, je bil očitno nekoč zelo pomemben, saj je rob v celoti zaščiten s kamnitim zidom, čez sotesko Nikove vas popeljejo še vedno dokaj trdni mostovi (pod lesenimi tramovi so traverze; če boste hodili po teh, boste precej varni), tu in tam boste opazili celo obcestne kamne. Žal je tudi tu narava opravila svoje: ponekod je voda odnesla večino poti, v kamnitih zidovih zijajo velike luknje, poleti pa je pot tako zaraščena, da je skoraj neprehodna (da o klopih, ki ljubijo senčna in vlažna pobočja, niti ne govorimo).
 
-Prijetni sprehod ob Nikovi, ki ga poleg ugibanja, ali bodo tramovi na mostu zdržali, popestrijo tudi pogledi na zanimive tolmune in skale ob poti, se konča na makadamski cesti, ki teče iz Idrije po Slanicah do koče pod Hleviškimi planinami. Makadam vas nato hitro pripelje do asfaltne ceste, ki pelje iz Idrije na Vojsko; do avtomobila vas nato čaka še približno dva kilometra hoje. Da ne bo prehudo, se lahko med potjo ustavite v eni od [idrijskih gostiln](http://www.idrija-turizem.si/content/view/37/83/); [Barbara](http://www.idrija-turizem.si/content/view/95/153/) nas je pred nekaj leti navdušila, res pa imajo hudo nemarno navado, da imajo ob sobotah in nedeljah za naključne mimoidoče zaprto.
+Prijetni sprehod ob Nikovi, ki ga poleg ugibanja, ali bodo tramovi na mostu zdržali, popestrijo tudi pogledi na zanimive tolmune in skale ob poti, se konča na makadamski cesti, ki teče iz Idrije po Slanicah do koče pod Hleviškimi planinami. Makadam vas nato hitro pripelje do asfaltne ceste, ki pelje iz Idrije na Vojsko; do avtomobila vas nato čaka še približno dva kilometra hoje. Da ne bo prehudo, se lahko med potjo ustavite v eni od idrijskih gostiln; Barbara nas je pred leti navdušila, res pa so imeli takrat hudo nemarno navado, da so bili ob sobotah in nedeljah za naključne mimoidoče zaprti.

@@ -8,10 +8,12 @@ duration: 3
 height: 1475
 lead: M_0_00656.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31675
 name: KobiljaGlava
+peak: 46.190011,13.795463
+region: julian-alps
+start: 46.190533,13.782526
 title: Kobilja glava
-x: 407
-y: 117
 ---
 {{<figure src="M_0_00656.JPG">}}
 
@@ -58,6 +60,6 @@ Tik pred kočo vas kažipot usmeri navzgor med lesenimi ograjami. Naslednji kaž
 
 Z vrha se spustite do sedelca med Šprinco in Kobiljo glavo, potem pa se desno od grebena hitro dvignete do pastirskega stana (vikenda?) na zahodnem travnatem pobočju Kobilje glave, od koder je vrh že dobro viden. Večina pohodnikov se odloči za nekaj lažji dostop po severnem grebenu: po travnikih levo od vrha se mimo kala vzpnete do grebena in po njem do vrha. Malce bolj naporen je vzpon z juga: ves čas se držite ograje na robu planine nad strmimi južnimi pobočji, se sprehodite skozi skalno škrbino (od tod je čudovit pogled proti jugu) in nato po grebenu do vrha.
 
-{{<figure src="Razgled_Sever.jpg" caption="Pogled proti severu" caption-position="bottom" caption-effect="slide">}}
+{{<figure src="Razgled_Sever.jpg" caption="Pogled proti severu" caption-position="bottom" caption-effect="bottom">}}
 
 Na planino Stador se vrnete po poti, po kateri ste se povzpeli, lahko pa se odpravite še do bližnjega Jalovnika (15 minut hoje) ali se spustite po severnem grebenu Kobilje glavo do planine Lom in s te po položni makadamski cesti do izhodišča.

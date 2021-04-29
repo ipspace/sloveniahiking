@@ -602,18 +602,19 @@
       "sl": "Le uro vzpona iz \u0160kofje Loke stoji na grebenu Polhograjskega hribovja nad Poljansko Soro cerkvica sv. Andreja.",
       "en": null
     },
-    "dirty": true,
+    "difficulty": "Markirana, le ob\u010dasno strma pot",
     "duration": 2,
     "height": 616,
     "lead": "M_9_0990.jpg",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4915",
     "name": "svAndrej_Zminec",
+    "peak": "46.135750,14.301741",
+    "region": "gorenjska",
     "title": {
       "sl": "Andrej nad Zmincem",
       "en": "Andrej above Zminec"
-    },
-    "x": 446,
-    "y": 110
+    }
   },
   {
     "date": "2003-05-11 00:00:00+00:00",
@@ -960,18 +961,19 @@
       "sl": "Kakor je Toplar v grebenu Ko\u0161ute s svojimi 2000 metri najni\u017eji slovenski dvatiso\u010dak, je Vrh Korena zagotovo najvi\u0161ji skoraj dvatiso\u010dak, namerili so mu namre\u010d natan\u010dno 1999 metrov nadmorske vi\u0161ine.",
       "en": null
     },
-    "dirty": true,
     "duration": 5,
     "height": 1999,
     "lead": "M_9_1908.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/145",
     "name": "VrhKorena",
+    "peak": "46.315076,14.554277",
+    "region": "kamnik-alps",
+    "start": "46.292898,14.537146",
     "title": {
       "sl": "Vrh Korena",
       "en": "Vrh Korena"
-    },
-    "x": 466,
-    "y": 130
+    }
   },
   {
     "date": "2007-12-02 00:00:00+00:00",
@@ -984,13 +986,15 @@
     "height": 908,
     "lead": "M_0_10596.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/278",
     "name": "HleviskePlanine",
+    "peak": "45.987225,13.995846",
+    "region": "primorska",
+    "start": "46.000427,14.023701",
     "title": {
       "sl": "Hlevi\u0161ke planine",
       "en": "Hlevi\u0161ke planine"
-    },
-    "x": 442,
-    "y": 94
+    }
   },
   {
     "date": "2004-05-23 00:00:00+00:00",
@@ -1067,18 +1071,19 @@
       "sl": "Bukov vrh je razgleden vrh nad Poljanami v Poljanski dolini s \u010dudovitim razgledom na \u0160kofjelo\u0161ko hribovje in slovenske Alpe ter lepo cerkvico sv. Sobote",
       "en": null
     },
-    "dirty": true,
     "duration": 4.5,
     "height": 832,
     "lead": "M_5-4588_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/3860",
     "name": "BukovVrh",
+    "peak": "46.108922,14.215731",
+    "region": "gorenjska",
+    "start": "46.118406,14.183872",
     "title": {
       "sl": "Bukov vrh in Vinharje nad Poljanami",
       "en": "Bukov vrh and Vinharje"
-    },
-    "x": 439,
-    "y": 107
+    }
   },
   {
     "date": "2007-07-22 00:00:00+00:00",
@@ -1091,13 +1096,15 @@
     "height": 1475,
     "lead": "M_0_00656.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31675",
     "name": "KobiljaGlava",
+    "peak": "46.190011,13.795463",
+    "region": "julian-alps",
+    "start": "46.190533,13.782526",
     "title": {
       "sl": "Kobilja glava",
       "en": "Kobilja glava"
-    },
-    "x": 407,
-    "y": 117
+    }
   },
   {
     "date": "2002-09-08 00:00:00+00:00",
@@ -4597,7 +4604,6 @@
     "duration": 2,
     "height": 691,
     "layout": "structured",
-    "lead": "M_20210424_103648.jpg",
     "length": 19.2,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.96463&lon=14.26478&layers=B0000",
     "name": "VrhnikaZaplana",
