@@ -4,6 +4,13 @@ delta: 590
 description: Če bo vročina med počitnicami v slovenskem primorju le prehuda, si privoščite
   kratko osvežitev z izletom na Snežnik.
 duration: 4
+gpx:
+  center:
+    lat: 45.5799725
+    lon: 14.423424
+  file: Sneznik.gpx
+  modified: 1617544711.734761
+  zoom: 14
 height: 1796
 lead: M_8-1813_IMG.JPG
 map: 1

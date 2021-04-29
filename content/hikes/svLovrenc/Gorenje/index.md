@@ -7,6 +7,7 @@ duration: 2
 height: 1019
 lead: M_1-3162_IMG.JPG
 multilead: M_1-3162_IMG.JPG
+multipath: true
 maplink: https://mapzs.projekti.si/poi/3908
 name: svLovrenc/Gorenje
 peak: 45.839190,14.168374

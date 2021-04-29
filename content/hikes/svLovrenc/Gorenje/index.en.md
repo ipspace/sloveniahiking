@@ -10,6 +10,7 @@ height: 1019
 layout: stub
 lead: M_1-3162_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/3908
+multipath: true
 multilead: M_1-3162_IMG.JPG
 name: svLovrenc
 peak: 45.839190,14.168374

@@ -9,6 +9,7 @@ height: 1019
 layout: structured
 lead: M_20210322_080329.jpg
 multilead: M_20210322_080329.jpg
+multipath: true
 maplink: https://mapzs.projekti.si/path/31624
 name: Studeno
 peak: 45.839000,14.167335

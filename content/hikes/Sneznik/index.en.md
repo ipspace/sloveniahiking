@@ -9,10 +9,11 @@ difficulty: Easy hike on gravel roads and wide footpaths with a somewhat steeper
 duration: 4
 gpx:
   center:
-    lat: 45.579577153811044
-    lon: 14.424283495207668
+    lat: 45.5799725
+    lon: 14.423424
   file: Sneznik.gpx
   modified: 1617544711.734761
+  zoom: 14
 height: 1796
 lead: M_8-1813_IMG.JPG
 map: 1

@@ -11,7 +11,6 @@ maplink: https://mapzs.projekti.si/poi/3908
 name: svLovrenc
 peak: 45.839190,14.168374
 region: notranjska
-start: 45.835079,14.154237
 title: Sv. Lovrenc nad Studenom
 ---
 {{<figure src="M_1-3162_IMG.JPG" caption="sv. Lovrenc iz Gorenja">}}

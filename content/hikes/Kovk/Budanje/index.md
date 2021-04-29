@@ -4,6 +4,13 @@ delta: 550
 description: Če vam je vzpon na Kovk s Cola prekratek, se odpravite nanj iz Vipavske
   doline, bolj natančno s ceste Ajdovščina–Col.
 duration: 3
+gpx:
+  center:
+    lat: 45.883640495152534
+    lon: 13.964174070331708
+  file: Budanje-Kovk.gpx
+  modified: 1614931899.4509637
+  zoom: 15
 height: 961
 lead: M_0_00679.JPG
 maplink: https://mapzs.projekti.si/poi/1288
@@ -14,6 +21,7 @@ peak: 45.887981,13.969153
 region: vipava
 start: 45.879299,13.959613
 title: Kovk iz Vipavske doline
+video: https://www.relive.cc/view/vmqX23Dm5oO/
 ---
 {{<figure src="M_0_00681.JPG">}}
 

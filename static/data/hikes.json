@@ -2012,11 +2012,12 @@
     "duration": 4,
     "gpx": {
       "center": {
-        "lat": 45.579577153811044,
-        "lon": 14.424283495207668
+        "lat": 45.5799725,
+        "lon": 14.423424
       },
       "file": "Sneznik.gpx",
-      "modified": 1617544711.734761
+      "modified": 1617544711.734761,
+      "zoom": 14
     },
     "height": 1796,
     "lead": "M_8-1813_IMG.JPG",
@@ -2083,6 +2084,7 @@
     "height": 1019,
     "lead": "M_1-3162_IMG.JPG",
     "multilead": "M_1-3162_IMG.JPG",
+    "multipath": true,
     "maplink": "https://mapzs.projekti.si/poi/3908",
     "name": "svLovrenc/Gorenje",
     "peak": "45.839190,14.168374",
@@ -2106,6 +2108,7 @@
     "layout": "stub",
     "lead": "M_20210322_080329.jpg",
     "multilead": "M_20210322_080329.jpg",
+    "multipath": true,
     "maplink": "https://mapzs.projekti.si/path/31624",
     "name": "Studeno",
     "path": "http://www.hribi.net/izlet/studeno_gora_sveti_lovrenc_/26/804/1432",
@@ -2135,7 +2138,6 @@
     "name": "svLovrenc",
     "peak": "45.839190,14.168374",
     "region": "notranjska",
-    "start": "45.835079,14.154237",
     "title": {
       "sl": "Sv. Lovrenc nad Studenom",
       "en": "St. Lovrenc near Postojna"
@@ -2749,6 +2751,7 @@
     "layout": "structured",
     "lead": "M_20210323_093528.jpg",
     "maplink": "https://mapzs.projekti.si/path/32535",
+    "multipath": true,
     "multilead": "M_20210323_093528.jpg",
     "name": "Kamnje",
     "path": "http://www.hribi.net/izlet/kamnje_koca_antona_bavcerja_na_cavnu_/26/500/1483",
@@ -3491,11 +3494,12 @@
     "duration": 3,
     "gpx": {
       "center": {
-        "lat": 45.88407016934466,
-        "lon": 13.962678967469673
+        "lat": 45.883640495152534,
+        "lon": 13.964174070331708
       },
       "file": "Budanje-Kovk.gpx",
-      "modified": 1614931899.4509637
+      "modified": 1614931899.4509637,
+      "zoom": 15
     },
     "height": 961,
     "lead": "M_0_00679.JPG",
@@ -3509,7 +3513,8 @@
     "title": {
       "sl": "Kovk iz Vipavske doline",
       "en": "Kovk from Vipava Valley"
-    }
+    },
+    "video": "https://www.relive.cc/view/vmqX23Dm5oO/"
   },
   {
     "date": "1900-01-01 00:00:00+00:00",
@@ -4059,11 +4064,12 @@
     "duration": 2,
     "gpx": {
       "center": {
-        "lat": 45.88257017226533,
-        "lon": 13.961305458711951
+        "lat": 45.88309646774036,
+        "lon": 13.960826883109753
       },
       "file": "Soncnica.gpx",
-      "modified": 1614874405.1292622
+      "modified": 1614874405.1292622,
+      "zoom": 15
     },
     "height": 867,
     "layout": "structured",

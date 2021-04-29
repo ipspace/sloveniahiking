@@ -8,10 +8,11 @@ difficulty: Steep hike through a pine forest
 duration: 2
 gpx:
   center:
-    lat: 45.88257017226533
-    lon: 13.961305458711951
+    lat: 45.88309646774036
+    lon: 13.960826883109753
   file: Soncnica.gpx
   modified: 1614874405.1292622
+  zoom: 15
 height: 867
 layout: structured
 lead: M_0_00679.JPG

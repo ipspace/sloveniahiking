@@ -9,6 +9,7 @@ height: 1019
 layout: stub
 lead: M_20210322_080329.jpg
 multilead: M_20210322_080329.jpg
+multipath: true
 maplink: https://mapzs.projekti.si/path/31624
 name: Studeno
 path: http://www.hribi.net/izlet/studeno_gora_sveti_lovrenc_/26/804/1432

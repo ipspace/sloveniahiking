@@ -11,6 +11,7 @@ duration: 5
 height: 1242
 maplink: https://mapzs.projekti.si/path/32535
 lead: M_20210323_093528.jpg
+multipath: true
 multilead: M_20210323_093528.jpg
 name: Kamnje
 peak: 45.928964,13.852867

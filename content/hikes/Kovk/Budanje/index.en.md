@@ -7,10 +7,11 @@ description: "The steep footpath to Kovk from the hunting hut in Budanje is an e
 duration: 3
 gpx:
   center:
-    lat: 45.88407016934466
-    lon: 13.962678967469673
+    lat: 45.883640495152534
+    lon: 13.964174070331708
   file: Budanje-Kovk.gpx
   modified: 1614931899.4509637
+  zoom: 15
 height: 961
 layout: structured
 lead: M_0_00681.JPG
@@ -22,6 +23,7 @@ peak: 45.887981,13.969153
 region: vipava
 start: 45.879299,13.959613
 title: Kovk from Vipava Valley
+video: https://www.relive.cc/view/vmqX23Dm5oO/
 ---
 {{<hike-details description="yes">}}
 

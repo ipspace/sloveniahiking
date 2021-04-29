@@ -10,6 +10,7 @@ height: 1242
 layout: structured
 lead: M_20210323_093528.jpg
 maplink: https://mapzs.projekti.si/path/32535
+multipath: true
 multilead: M_20210323_093528.jpg
 name: Kamnje
 path: http://www.hribi.net/izlet/kamnje_koca_antona_bavcerja_na_cavnu_/26/500/1483
