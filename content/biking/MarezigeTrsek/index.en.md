@@ -9,8 +9,8 @@ difficulty: Asphalt roads with occasional steeper ascents
 duration: '2'
 gpx:
   center:
-    lat: 45.500067538873374
-    lon: 13.829497952746742
+    lat: 45.498248000000004
+    lon: 13.827613
   file: Marezige-Trsek-Popetre.gpx
   modified: 1619079475.2807975
 height: '404'

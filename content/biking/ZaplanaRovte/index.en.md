@@ -7,8 +7,8 @@ difficulty: Easy tour on a mix of asphalt and gravel roads
 duration: 2
 gpx:
   center:
-    lat: 45.97552939872757
-    lon: 14.209007292225781
+    lat: 45.97335728322408
+    lon: 14.207557249445014
   file: Rovte.gpx
   modified: 1618940324.6757452
 height: 730

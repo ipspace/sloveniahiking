@@ -8,8 +8,8 @@ difficulty: Asphalt roads. Somewhat steeper ascents around Pomjan and Montinjan.
 duration: '2'
 gpx:
   center:
-    lat: 45.5106700410788
-    lon: 13.763980662078435
+    lat: 45.51283089133575
+    lon: 13.762342875990164
   file: MarezigeSmarje.gpx
   modified: 1619018919.167959
 height: '391'

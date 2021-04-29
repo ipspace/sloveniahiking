@@ -9,8 +9,8 @@ difficulty: Lovely tour on asphalt roads in Slovenian Istria. Optional challengi
 duration: 2.5
 gpx:
   center:
-    lat: 45.49320817979522
-    lon: 13.79585536420937
+    lat: 45.49239090848512
+    lon: 13.798265281361623
   file: MarezigeBorst.gpx
   modified: 1618931180.6590192
 height: 392
