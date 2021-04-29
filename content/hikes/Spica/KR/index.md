@@ -1,23 +1,34 @@
 ---
 date: 1900-01-01 00:00:00+00:00
-delta: 210
+delta: 230
 description: Vzpon na Planino od kmečkega turizma na Kurenu je idealen nedeljski izlet,
   ki ga boste verjetno združili s kosilom na Kurenu.
 duration: 1.5
+gpx:
+  center:
+    lat: 45.97536847893188
+    lon: 14.258263655272447
+  file: KurenPlanina.gpx
+  modified: 1619705563.442431
+  zoom: 15
 height: 735
 image:
 - M_0-3032_IMG.JPG
 - M_0-3042_IMG.JPG
 - M_0-3041_IMG.JPG
+lead: M_0-3032_IMG.JPG
 maplink: https://mapzs.projekti.si/path/31629
 multilead: M_0-3032_IMG.JPG
 multipath: true
 name: Spica/KR
 peak: 45.971434,14.251496
+region: notranjska
 start: 45.979466,14.265043
 title: Na Planino s Kurena
 ---
 Vzpon na [Planino](../) od kmečkega turizma na Kurenu je idealen nedeljski izlet, ki ga boste verjetno združili s kosilom na [Kurenu](../../kuren). Tisti, ki iščete nekoliko daljše vzpone, pa se lahko na pot odpravite iz Stare Vrhnike.
+
+{{<figure src="M_0-3032_IMG.JPG">}}
 
 ## Osnovni podatki
 
@@ -56,7 +67,6 @@ Pred gostiščem boste opazili manjši kozolček z zemljevidom okolice. Odpravit
 Na tem mestu lahko zapustite planinsko pot in se po makadamski cesti odpravite proti [Ulovki](../../ulovka), planinska pot pa vas bo po krajšem vzponu pripeljala do druge makadamske ceste, po kateri se lahko na Planino pripeljete tudi z avtomobilom. Od planinske koče vas loči le še nekaj sto metrov hoje.
 
 {{<gallery>}}
-{{<figure src="M_0-3032_IMG.JPG" caption="Začetek poti">}}
 {{<figure src="M_0-3042_IMG.JPG" caption="Odcep na cesto proti Ulovki">}}
 {{<figure src="M_0-3041_IMG.JPG" caption="Kam pa sedaj?">}}
 {{</gallery>}}

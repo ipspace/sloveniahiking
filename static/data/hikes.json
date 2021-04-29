@@ -2010,6 +2010,14 @@
       "en": "Sne\u017enik is the highest peak in south-western Slovenia. You could spend days wandering around huge forests surrounding it; the quickest hike to the peak starts in Svi\u0161\u010daki, a hamlet high above Ilirska Bistrica."
     },
     "duration": 4,
+    "gpx": {
+      "center": {
+        "lat": 45.579577153811044,
+        "lon": 14.424283495207668
+      },
+      "file": "Sneznik.gpx",
+      "modified": 1617544711.734761
+    },
     "height": 1796,
     "lead": "M_8-1813_IMG.JPG",
     "map": 1,
@@ -3481,6 +3489,14 @@
       "en": "The steep footpath to Kovk from the hunting hut in Budanje is an excellent choice for the days when you're looking for a quick strenuous hike with a fantastic view. \n"
     },
     "duration": 3,
+    "gpx": {
+      "center": {
+        "lat": 45.88407016934466,
+        "lon": 13.962678967469673
+      },
+      "file": "Budanje-Kovk.gpx",
+      "modified": 1614931899.4509637
+    },
     "height": 961,
     "lead": "M_0_00679.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1288",
@@ -3835,18 +3851,29 @@
   },
   {
     "date": "1900-01-01 00:00:00+00:00",
-    "delta": 210,
+    "delta": 230,
     "description": {
       "sl": "Vzpon na Planino od kme\u010dkega turizma na Kurenu je idealen nedeljski izlet, ki ga boste verjetno zdru\u017eili s kosilom na Kurenu.",
-      "en": null
+      "en": "The hike to [Planina](../) (\u0160pica) from Kuren is an ideal weekend family hike. If you're looking for something longer, start in [Vrhnika](../kv) or at [Star Maln](../sm)."
     },
     "duration": 1.5,
+    "gpx": {
+      "center": {
+        "lat": 45.97536847893188,
+        "lon": 14.258263655272447
+      },
+      "file": "KurenPlanina.gpx",
+      "modified": 1619705563.442431,
+      "zoom": 15
+    },
     "height": 735,
+    "lead": "M_0-3032_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/path/31629",
     "multilead": "M_0-3032_IMG.JPG",
     "multipath": true,
     "name": "Spica/KR",
     "peak": "45.971434,14.251496",
+    "region": "notranjska",
     "start": "45.979466,14.265043",
     "title": {
       "sl": "Na Planino s Kurena",
@@ -4030,11 +4057,20 @@
     },
     "difficulty": "Strm vzpon skozi borov gozd",
     "duration": 2,
+    "gpx": {
+      "center": {
+        "lat": 45.88257017226533,
+        "lon": 13.961305458711951
+      },
+      "file": "Soncnica.gpx",
+      "modified": 1614874405.1292622
+    },
     "height": 867,
-    "maplink": "https://mapzs.projekti.si/poi/1288",
-    "lead": "M_0_00679.JPG",
     "layout": "structured",
+    "lead": "M_0_00679.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1288",
     "name": "Soncnica",
+    "path": "../kovk/budanje",
     "peak": "45.886711,13.960029",
     "region": "vipava",
     "start": "45.879298,13.959525",
@@ -4047,8 +4083,7 @@
       "sl": "Son\u010dnica",
       "en": "Son\u010dnica"
     },
-    "video": "https://www.relive.cc/view/vMq5731A3QO/",
-    "path": "../kovk/budanje"
+    "video": "https://www.relive.cc/view/vMq5731A3QO/"
   },
   {
     "date": "2003-06-08 00:00:00+00:00",
@@ -4489,7 +4524,7 @@
     },
     "video": "https://www.relive.cc/view/vAOZPEJNzyq/",
     "type": "biking",
-    "center": "45.493208,13.795855"
+    "center": "45.492391,13.798265"
   },
   {
     "date": "2021-03-30 10:00:00+00:00",
@@ -4533,7 +4568,7 @@
     },
     "video": "https://www.relive.cc/view/vmqX2AKNYLO/",
     "type": "biking",
-    "center": "45.500068,13.829498"
+    "center": "45.498248,13.827613"
   },
   {
     "title": {
@@ -4544,6 +4579,28 @@
       "en": null
     },
     "type": "biking"
+  },
+  {
+    "date": "2021-04-29 13:16:59+00:00",
+    "delta": 420,
+    "description": {
+      "en": "If you happen to be in Vrhnika, take a mountain bike and explore the hills above the town. One of the shorter tours takes you to Kuren, Zaplana, Strmca, Star Maln and back to Vrhnika."
+    },
+    "difficulty": "Easy tour on a mix of asphalt and gravel roads",
+    "duration": 2,
+    "height": 691,
+    "layout": "structured",
+    "lead": "M_20210424_103648.jpg",
+    "length": 19.2,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.96463&lon=14.26478&layers=B0000",
+    "name": "VrhnikaZaplana",
+    "region": "notranjska",
+    "title": {
+      "en": "Vrhnika \u2013 Zaplana \u2013 Star Maln"
+    },
+    "video": "https://www.relive.cc/view/vKv27oy7poO/",
+    "type": "biking",
+    "center": "45.968836,14.254521"
   },
   {
     "date": "2021-04-21 17:29:41+00:00",
@@ -4565,7 +4622,7 @@
     },
     "video": "https://www.relive.cc/view/vrqDQRp3zwv/",
     "type": "biking",
-    "center": "45.510670,13.763981"
+    "center": "45.512831,13.762343"
   },
   {
     "date": "2021-04-20 16:47:28+00:00",
@@ -4587,6 +4644,6 @@
     },
     "video": "https://www.relive.cc/view/vdvmDAB81xq/",
     "type": "biking",
-    "center": "45.975529,14.209007"
+    "center": "45.973357,14.207557"
   }
 ]
