@@ -14,7 +14,7 @@ gpx:
   modified: 1619703758.089915
 height: 691
 layout: structured
-#lead: M_20210424_103648.jpg
+lead: M_20210318_094344.jpg
 length: 19.2
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.96463&lon=14.26478&layers=B0000
 name: VrhnikaZaplana
