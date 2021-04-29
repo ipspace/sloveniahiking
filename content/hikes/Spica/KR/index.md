@@ -25,6 +25,7 @@ peak: 45.971434,14.251496
 region: notranjska
 start: 45.979466,14.265043
 title: Na Planino s Kurena
+video: https://www.relive.cc/view/vRO7nBV1zyv/
 ---
 Vzpon na [Planino](../) od kmečkega turizma na Kurenu je idealen nedeljski izlet, ki ga boste verjetno združili s kosilom na [Kurenu](../../kuren). Tisti, ki iščete nekoliko daljše vzpone, pa se lahko na pot odpravite iz Stare Vrhnike.
 
