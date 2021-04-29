@@ -55,6 +55,10 @@ def sync_hike_data(si_path):
       print("Removing property %s from %s" % (key,en_path))
       en_page.pop(key)
 
+  for key in ['gpx']:
+    if en_page.get(key,None):
+      si_page[key] = en_page[key]
+
   if yaml.dump(si_page) != si_yaml:
     print("SI page changed, updating...")
     cm.write.create_output_file(si_page,file_path=si_path)

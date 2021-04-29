@@ -41,12 +41,14 @@ def get_gpx_info(gpx_path):
   lon_list = list(map(lambda x: x.longitude, points))
 
   info = {}
-  info['center_lat'] = statistics.mean(lat_list)
-  info['center_lon'] = statistics.mean(lon_list)
   info['min_lat'] = min(lat_list)
   info['min_lon'] = min(lon_list)
   info['max_lat'] = max(lat_list)
   info['max_lon'] = max(lon_list)
+  info['center_lat'] = (info['min_lat']+info['max_lat'])/2
+  info['center_lon'] = (info['min_lon']+info['max_lon'])/2
+  info['delta_lat'] = (info['max_lat']-info['min_lat'])
+  info['delta_lon'] = (info['max_lon']-info['min_lon'])
   return info
 
 def sync_gpx_data(gpx_path):
@@ -54,6 +56,7 @@ def sync_gpx_data(gpx_path):
 
   if VERBOSE:
     print("Found GPX file %s" % gpx_path)
+
   content_dir = os.path.dirname(gpx_path)
   index_name = None
 
@@ -75,13 +78,21 @@ def sync_gpx_data(gpx_path):
     if page['gpx'].get('modified',None) == os.path.getmtime(gpx_path):
       if VERBOSE:
         print("GPX timestamp match, exiting")
-#      return
+##      return
 
   page['gpx']['file'] = os.path.basename(gpx_path)
   page['gpx']['modified'] = os.path.getmtime(gpx_path)
   
   gpx_info = get_gpx_info(gpx_path)
   page['gpx']['center'] = { 'lat': gpx_info['center_lat'], 'lon': gpx_info['center_lon']}
+
+  if gpx_info['delta_lat'] < 0.0202 and gpx_info['delta_lon'] < 0.0483:
+    page['gpx']['zoom'] = 14
+
+  if gpx_info['delta_lat'] < 0.0100 and gpx_info['delta_lon'] < 0.0240:
+    page['gpx']['zoom'] = 15
+
+##  print("%s - %.6f %.6f" % (index_name,gpx_info['delta_lat'],gpx_info['delta_lon']))
 
   if yaml.dump(page) != page_dump:
     print("Page changed based on information in %s, updating..." % gpx_path)
