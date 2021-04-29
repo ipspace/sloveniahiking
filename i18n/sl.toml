@@ -123,6 +123,15 @@ other="Zadnje objave"
 [mapRoute]
 other="Zemljevid poti"
 
+[mapGPSTrack]
+other="Zemljevid kaže pot ki jo je zabeležil GPS sprejemnik. Nikoli ne zaupajte GPS sledem; razglejte se, in uporabite zdravo pamet in zemljevide."
+
+[mapAltProfile]
+other="Višinski profil poti"
+
+[mapAltWarn]
+other="Višina ki jo zabeleži GPS sprejemnik je še bolj nezanesljiva kot pozicija in lahko bistveno odstopa od nadmorskih višin na zemljevidih."
+
 [migrated]
 other="Pred kratkim smo naše vsebine z zaplana.net preselili na novo spletno stran."
 

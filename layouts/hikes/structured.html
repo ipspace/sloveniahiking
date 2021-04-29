@@ -6,11 +6,7 @@
   {{ .Content }}
   {{ partial "photo-gallery" . }}
   {{ partial "hike-views" . }}
-  {{ if eq .Lang "sl" }}
-    {{ partial "izlet-zemljevid.html" . }}
-  {{ else }}
-    {{ partial "hike-map.html" . }}
-  {{ end }}
+  {{ partial "hike-map.html" . }}
   <div style='clear: both;'></div>
   <!-- comments -->
   <div class='post__meta'>

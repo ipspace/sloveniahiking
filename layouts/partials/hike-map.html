@@ -1,21 +1,17 @@
-{{ if .Params.map }}
-  <h3>Map of the route</h3>
+{{ if and .Params.gpx .Params.gpx.center}}
+  {{ partial "include-gpx-map" . }}
+{{ else if .Params.map }}
+  <h3>{{ i18n "mapRoute"}}</h3>
   <div style="position: relative;">
     <img src="{{ with .Params.map_path }}{{.}}{{ end }}mapgps.jpg">
     <span id="path" style="position: absolute; left: 0; top: 0; margin:0">
       <img src="{{ with .Params.map_path }}{{.}}{{ end }}path_1.gif">
     </span>
   </div>
-  <p class='note'>
-    The map shows the path we took as recorded by the GPS receiver. Never trust
-    a GPS track; rely on your senses and maps.
-  </p>
+  <p class='note'>{{ i18n "mapGPSTrack" }}</p>
   {{ if or .Params.alt (in .Params.image "alt.gif") }}
-    <h3>Altitude profile</h3>
+    <h3>{{ i18n "mapAltProfile" }}</h3>
     <img src="{{ with .Params.map_path }}{{.}}{{ end }}alt.gif">
-    <p class='note'>
-      The altitude recorded by a GPS receiver is even less reliable than the position, and might
-      differ significantly from the height above sea-level as shown on maps.
-    </p>
+    <p class='note'>{{ i18n "mapAltWarn" }}</p>
   {{ end }}
 {{ end }}

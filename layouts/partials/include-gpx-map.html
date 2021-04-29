@@ -3,8 +3,9 @@
   {{ if and $gpx .Params.gpx.center }}
 <h3>{{ i18n "mapRoute" }}</h3>
 <div class="map__frame">
-  <div id="mapgpx" data-lat="{{ .Params.gpx.center.lat }}" data-lon="{{ .Params.gpx.center.lon }}" data-zoom="13" data-lang="{{ .Lang }}" class="map" data-gpx="{{ $gpx.Permalink }}" style="height: 30em;"></div>
+  <div id="mapgpx" data-lat="{{ .Params.gpx.center.lat }}" data-lon="{{ .Params.gpx.center.lon }}" data-zoom="{{ .Params.gpx.zoom | default 13 }}" data-lang="{{ .Lang }}" class="map" data-gpx="{{ $gpx.Permalink }}" style="height: 30em;"></div>
 </div>
+<p class='note'>{{ i18n "mapGPSTrack" }}</p>
 <script src="/js/ol.js"></script>
 <link rel="stylesheet" href="/css/ol.css">
 <script src="/js/map.js"></script>

@@ -121,6 +121,15 @@ other="Latest Articles"
 [mapRoute]
 other="Map of the Route"
 
+[mapGPSTrack]
+other="The map shows the path we took as recorded by the GPS receiver. Never trust a GPS track; rely on your senses and maps."
+
+[mapAltProfile]
+other="Altitude profile"
+
+[mapAltWarn]
+other="The altitude recorded by a GPS receiver is even less reliable than the position, and might differ significantly from the height above sea-level as shown on maps."
+
 [migrated]
 other="We recently migrated our content from zaplana.net to SloveniaHiking.Rocks."
 
