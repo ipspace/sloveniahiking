@@ -10,7 +10,7 @@
   {{ with .Params.maplink }}
     <a href="{{ . }}" class="buyButton secondary" target="_blank">{{ i18n "hikeMap" }}</a>
   {{ end }}
-{{ $video := .Resources.GetMatch "*.mp4" }}
+{{ $video := .Resources.GetMatch "*.mp4x" }}
 {{ if $video }}
 </p>
 <video controls style="max-width: 100%" src="{{ $video.Permalink }}"></video>
