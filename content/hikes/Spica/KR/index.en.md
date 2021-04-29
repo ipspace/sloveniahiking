@@ -27,6 +27,7 @@ peak: 45.971434,14.251496
 region: notranjska
 start: 45.979466,14.265043
 title: Planina from Kuren
+video: https://www.relive.cc/view/vRO7nBV1zyv/
 ---
 {{<hike-details description="yes">}}
 
