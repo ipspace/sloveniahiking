@@ -1602,18 +1602,19 @@
       "sl": "Kranjska reber ali Vrh Ka\u0161ne planine (tako zemljevid) je izrazita kopasta gora v vzhodnem predgorju Grintovcev.",
       "en": null
     },
-    "dirty": true,
     "duration": 3.5,
     "height": 1435,
     "lead": "M_0006.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/940",
     "name": "KranjskaReber",
+    "peak": "46.284542,14.711178",
     "photo_author": "Mojca_Lustrek",
+    "region": "kamnik-alps",
+    "start": "46.260811,14.702398",
     "title": {
       "sl": "Kranjska reber",
       "en": "Kranjska reber"
-    },
-    "x": 478,
-    "y": 127
+    }
   },
   {
     "date": "2003-04-20 00:00:00+00:00",
@@ -1778,18 +1779,18 @@
       "sl": "Sveti Ahac (ali Gora) je razgleden vrh v bli\u017eini Turjaka, na katerega se lahko povzpnemo v slabe pol ure. I",
       "en": null
     },
-    "dirty": true,
     "duration": 1,
     "height": 748,
     "lead": "M_01.jpg",
+    "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.8936&lon=14.60601&layers=B0000",
     "name": "svAhac",
+    "peak": "45.893531,14.605998",
     "photo_author": "Milos_Kobe",
+    "region": "dolenjska",
     "title": {
       "sl": "Sveti Ahac (Gora) nad Turjakom",
       "en": "Saint Ahac over Turjak"
-    },
-    "x": 470,
-    "y": 83
+    }
   },
   {
     "date": "2003-08-10 00:00:00+00:00",
@@ -1821,18 +1822,18 @@
       "sl": "Vrsnik je zaselek na razglednih travnatih vrhovih ju\u017eno od \u017dirov, nad katerim kraljuje cerkvica sv. Toma\u017ea.",
       "en": null
     },
-    "dirty": true,
     "duration": 2,
     "height": 743,
     "lead": "M_6-4646_IMG.JPG",
-    "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/31730",
     "name": "Vrsnik_Ziri",
+    "peak": "46.021711,14.094982",
+    "region": "gorenjska",
+    "start": "46.041753,14.103844",
     "title": {
       "sl": "Vrsnik nad \u017dirmi",
       "en": "Vrsnik above \u017diri"
-    },
-    "x": 430,
-    "y": 98
+    }
   },
   {
     "date": "2005-06-26 00:00:00+00:00",
@@ -1922,13 +1923,15 @@
     "height": 2181,
     "lead": "M_3-6358_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4676",
     "name": "Vrtaca",
+    "peak": "46.439900,14.212625",
+    "region": "karavanke",
+    "start": "46.432068,14.259282",
     "title": {
       "sl": "Vrta\u010da z Ljubelja",
       "en": "Vrta\u010da from Ljubelj"
-    },
-    "x": 440,
-    "y": 144
+    }
   },
   {
     "date": "2006-06-25 00:00:00+00:00",
@@ -1960,18 +1963,19 @@
       "sl": "Sivka je zaobljen travnat vrh v Polhograjskem hribovju z lepim razgledom na \u0160kofjelo\u0161ko hribovje in slovenske Alpe.",
       "en": null
     },
-    "dirty": true,
     "duration": 4.5,
     "height": 934,
     "lead": "M_2_2285.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/6517",
     "name": "Sivka",
+    "peak": "46.072944,14.209167",
+    "region": "notranjska",
+    "start": "46.069156,14.272721",
     "title": {
       "sl": "Sivka iz Zaloga",
       "en": "Sivka from Zalog"
-    },
-    "x": 439,
-    "y": 103
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -1985,8 +1989,11 @@
     "duration": 2,
     "height": 955,
     "lead": "M_007110905.jpg",
+    "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.8936&lon=14.60601&layers=B0000",
     "name": "MiklavskaGora",
+    "peak": "46.211008,14.190950",
     "photo_author": "Mojca_Lustrek",
+    "region": "gorenjska",
     "title": {
       "sl": "Miklav\u0161ka gora",
       "en": "Miklav\u0161ka gora"

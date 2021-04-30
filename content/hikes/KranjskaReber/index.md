@@ -1,27 +1,23 @@
 ---
 author: Mojca_Lustrek
-date: '2005-04-10T00:00:00'
+date: 2005-04-10 00:00:00+00:00
 delta: 540
 description: Kranjska reber ali Vrh Kašne planine (tako zemljevid) je izrazita kopasta
   gora v vzhodnem predgorju Grintovcev.
-dirty: true
 duration: 3.5
 height: 1435
-image:
-- M_0006.jpg
-- M_0002.jpg
-- M_0003.jpg
-- M_0008.jpg
-- M_0007.jpg
-- M_0005.jpg
 lead: M_0006.jpg
+maplink: https://mapzs.projekti.si/poi/940
 name: KranjskaReber
+peak: 46.284542,14.711178
 photo_author: Mojca_Lustrek
+region: kamnik-alps
+start: 46.260811,14.702398
 title: Kranjska reber
-x: 478
-y: 127
 ---
-{{<figure src="M_0006.jpg">}} Kranjska reber ali Vrh Kašne planine (tako zemljevid), nekdaj pa Kačji vrh (tako Peter Ficko) je izrazita kopasta gora v vzhodnem predgorju Grintovcev. Kljub lahki dostopnosti, naravnim posebnostim in lepemu razgledu ni kaj preveč obiskana. S prelaza Črnivec (902 m) je razmeroma blizu do vrha, še posebno po bližnjicah -- številnih gozdnih cestah, vabljivih zlasti za gorske kolesarje. Večinoma je gozdnata, vrh pa je travnat in lepo razgleden. S Kašnim vrhom (1290 m) se razvlečeno sleme brez izrazitih vrhov konča in se spusti na nizko sedlo Kunšperk (1119 m), imenovano tudi Kunšpersko sedlo. Pot je nezahtevna, zgledno markirana in primerna v vseh letnih časih, tudi pozimi..
+{{<figure src="M_0006.jpg">}}
+
+Kranjska reber ali Vrh Kašne planine (tako zemljevid), nekdaj pa Kačji vrh (tako Peter Ficko) je izrazita kopasta gora v vzhodnem predgorju Grintovcev. Kljub lahki dostopnosti, naravnim posebnostim in lepemu razgledu ni kaj preveč obiskana. S prelaza Črnivec (902 m) je razmeroma blizu do vrha, še posebno po bližnjicah -- številnih gozdnih cestah, vabljivih zlasti za gorske kolesarje. Večinoma je gozdnata, vrh pa je travnat in lepo razgleden. S Kašnim vrhom (1290 m) se razvlečeno sleme brez izrazitih vrhov konča in se spusti na nizko sedlo Kunšperk (1119 m), imenovano tudi Kunšpersko sedlo. Pot je nezahtevna, zgledno markirana in primerna v vseh letnih časih, tudi pozimi..
 
 ### Osnovni podatki
 

@@ -1,6 +1,6 @@
 ---
 author: Mojca_Lustrek
-date: '2007-11-11T00:00:00'
+date: 2007-11-11 00:00:00+00:00
 delta: 210
 description: Miklavška gora je sicer skoraj tisočak, a ima mogoče le nekoliko »preveliko«
   ime, saj ni zelo podobna gori. Je pa precej prijeten cilj, posebno če nimamo veliko
@@ -18,8 +18,11 @@ image:
 - M_007110904.jpg
 - M_007110902.jpg
 lead: M_007110905.jpg
+maplink: https://www.opencyclemap.org/?zoom=15&lat=45.8936&lon=14.60601&layers=B0000
 name: MiklavskaGora
+peak: 46.211008,14.190950
 photo_author: Mojca_Lustrek
+region: gorenjska
 title: Miklavška gora
 x: 438
 y: 119

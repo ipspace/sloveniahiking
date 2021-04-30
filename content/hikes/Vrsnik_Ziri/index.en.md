@@ -6,8 +6,10 @@ height: 743
 layout: stub
 lead: M_6-4646_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/path/31730
 name: Vrsnik_Ziri
+peak: 46.021711,14.094982
+region: gorenjska
+start: 46.041753,14.103844
 title: Vrsnik above Žiri
-x: 430
-y: 98
 ---
