@@ -85,7 +85,7 @@ other="Interactive route"
 other="Distance"
 
 [hikeListDescription]
-other="Hikes with detailed descriptions"
+other="Hikes or biking tours with detailed descriptions"
 
 [hikeListRegionOther]
 other="Other hikes in this region"
@@ -129,6 +129,9 @@ other="Altitude profile"
 
 [mapAltWarn]
 other="The altitude recorded by a GPS receiver is even less reliable than the position, and might differ significantly from the height above sea-level as shown on maps."
+
+[mapNotes]
+other="**Notes**\n* Red dots on the map are hiking trips with English description;\n* Green dots are biking tours.\n* Gray dots are hikes without an English description. You might still want to look at the map, enjoy the photos, or use Google Translate on Slovenian text\n."
 
 [migrated]
 other="We recently migrated our content from zaplana.net to SloveniaHiking.Rocks."

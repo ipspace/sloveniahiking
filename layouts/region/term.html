@@ -7,6 +7,7 @@
     {{ .Content }}
     {{ if .Params.lat }}
       {{ partial "include-map" .Params }}
+      {{ i18n "mapNotes" | markdownify }}
     {{ end }}
     {{ $short := where .Pages "Params.description" "eq" nil }}
     {{ if len $short }}

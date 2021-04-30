@@ -57,6 +57,13 @@ function createIcons() {
       src: '/images/GreenBullet.png'
     })
   })
+  icon.missing = new ol.style.Style({
+    image: new ol.style.Icon({
+      opacity: 1,
+      scale: 0.15,
+      src: '/images/GrayBullet.png'
+    })
+  })
   return icon;
 }
 
@@ -82,6 +89,9 @@ function processHikeData(json,map,lang) {
         point.title = hike_data.title[lang || 'sl'];
         point.url   = (lang ? "/" + lang : "") + "/hikes/" + hike_data.name.toLowerCase();
         point.icon  = hike_data.multipath ? icon.start : icon.peak;
+      }
+      if (!hike_data.description[lang]) {
+        point.icon = icon.missing;
       }
       points.push(point)
     }
