@@ -4,28 +4,12 @@ date: 2008-05-11 00:00:00+00:00
 delta: 1150
 duration: 6
 height: 1753
-image:
-- M_008051108.jpg
-- M_008051112.jpg
-- M_008051105.jpg
-- M_008051107.jpg
-- M_008051103.jpg
-- M_008051104.jpg
-- M_008051115.jpg
-- M_008051116.jpg
-- Razgled_Klek.jpg
-- M_008051106.jpg
-- M_008051111.jpg
-- M_008051109.jpg
-- M_008051113.jpg
-- M_008051114.jpg
-- M_008051102.jpg
-- M_008051110.jpg
 layout: stub
 lead: M_008051108.jpg
+maplink: https://mapzs.projekti.si/poi/6048
 name: Klek
+peak: 46.485362,14.025710
 photo_author: Mojca_Lustrek
+region: karavanke
 title: Klek
-x: 425
-y: 149
 ---

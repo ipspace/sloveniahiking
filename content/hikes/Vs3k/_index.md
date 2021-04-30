@@ -2,12 +2,11 @@
 date: 1900-01-01 00:00:00+00:00
 description: Vrh Svetih treh kraljev je najbolj razgleden vrh Rovtarskega hribovja
 height: 844
-image:
-- M_8-4874_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/4410
 name: Vs3k
+peak: 46.010608,14.168462
+region: notranjska
 title: Vrh Svetih treh kraljev
-x: 434
-y: 96
 ---
 {{<figure src="M_8-4874_IMG.JPG" caption="Pogled na Vrh svetih treh kraljev iz Izgorij">}} 
 

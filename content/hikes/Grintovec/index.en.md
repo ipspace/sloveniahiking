@@ -6,9 +6,11 @@ duration: 9
 height: 2558
 layout: stub
 lead: M_007080902.jpg
+maplink: https://mapzs.projekti.si/poi/10
 name: Grintovec
+peak: 46.357097,14.535416
 photo_author: Mojca_Lustrek
+region: kamnik-alps
+start: 46.336681,14.511959
 title: Grintovec
-x: 465
-y: 135
 ---

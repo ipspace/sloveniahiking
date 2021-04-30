@@ -3,14 +3,12 @@ date: 1900-01-01 00:00:00+00:00
 description: Na travnike Velike planine se lahko povzpnete v vseh letnih časih. Pomladi
   vas bo čakalo prvo gorsko cvetje, poleti cvetoči travniki, pozimi pa snežna idila.
 height: 1666
-image:
-- M_3_1378.JPG
-- Razgled_VelikaPlanina.jpg
 lead: M_3_1378.JPG
+maplink: https://mapzs.projekti.si/poi/836
 name: VelikaPlanina
+peak: 46.298105,14.643921
+region: kamnik-alps
 title: Velika planina
-x: 473
-y: 128
 ---
 {{<figure src="M_3_1378.JPG">}}
 

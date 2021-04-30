@@ -2,45 +2,16 @@
 date: 2010-11-10 00:00:00+00:00
 delta: 517
 description: Ko vas bo pot zanesla mimo Žiri, si vzamite še nekaj ur časa in se sprehodite
-  na Mrzli vrh - travnat, razgleden vrh zahodno od Žiri.
+  na Mrzli vrh – travnat, razgleden vrh zahodno od Žiri.
 duration: 3.5
 height: 987
-image:
-- M_8-3831_IMG.JPG
-- M_7-3785_IMG.JPG
-- M_7-3786_IMG.JPG
-- M_7-3790_IMG.JPG
-- M_7-3788_IMG.JPG
-- M_7-3787_IMG.JPG
-- M_7-3791_IMG.JPG
-- M_7-3793_IMG.JPG
-- M_7-3797_IMG.JPG
-- M_7-3795_IMG.JPG
-- M_7-3796_IMG.JPG
-- M_7-3799_IMG.JPG
-- M_7-3798_IMG.JPG
-- pogled_sever.jpg
-- M_8-3809_IMG.JPG
-- M_8-3810_IMG.JPG
-- M_8-3812_IMG.JPG
-- M_8-3815_IMG.JPG
-- M_8-3814_IMG.JPG
-- M_8-3818_IMG.JPG
-- M_8-3817_IMG.JPG
-- M_8-3819_IMG.JPG
-- M_8-3821_IMG.JPG
-- M_8-3822_IMG.JPG
-- M_8-3823_IMG.JPG
-- M_8-3824_IMG.JPG
-- M_8-3827_IMG.JPG
-- M_8-3826_IMG.JPG
-- M_8-3828_IMG.JPG
-- M_8-3829_IMG.JPG
 lead: M_8-3831_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/34550
 name: MrzliVrh_Ziri
+peak: 46.054579,14.061365
+region: gorenjska
+start: 46.047329,14.108442
 title: Mrzli vrh nad Žirmi
-x: 428
-y: 102
 ---
 {{<figure src="M_8-3831_IMG.JPG" caption="Mrzli vrh iz Žirov, levo pred njim Kovk">}}
 

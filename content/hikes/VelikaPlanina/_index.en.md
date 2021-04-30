@@ -1,13 +1,11 @@
 ---
 date: 1900-01-01 00:00:00+00:00
 height: 1666
-image:
-- M_3_1378.JPG
-- Razgled_VelikaPlanina.jpg
 layout: stub
 lead: M_3_1378.JPG
+maplink: https://mapzs.projekti.si/poi/836
 name: VelikaPlanina
+peak: 46.298105,14.643921
+region: kamnik-alps
 title: Velika planina
-x: 473
-y: 128
 ---

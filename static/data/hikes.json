@@ -1168,16 +1168,18 @@
     "duration": 4,
     "height": 1666,
     "lead": "M_3_1382.JPG",
-    "multilead": "M_3_1379.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/836",
+    "multilead": "M_3_1379.JPG",
     "multipath": true,
     "name": "VelikaPlanina/Volovjek",
+    "peak": "46.298105,14.643921",
+    "region": "kamnik-alps",
+    "start": "46.283258,14.688441",
     "title": {
       "sl": "Velika planina z Volovljeka",
       "en": "Velika planina from Volovljek"
-    },
-    "x": 473,
-    "y": 128
+    }
   },
   {
     "date": "2004-08-22 00:00:00+00:00",
@@ -1206,13 +1208,14 @@
     },
     "height": 1666,
     "lead": "M_3_1378.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/836",
     "name": "VelikaPlanina",
+    "peak": "46.298105,14.643921",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Velika planina",
       "en": "Velika planina"
-    },
-    "x": 473,
-    "y": 128
+    }
   },
   {
     "date": "2005-11-27 00:00:00+00:00",
@@ -1265,18 +1268,18 @@
       "sl": "Mnogi, ki hodijo mimo Kleka na bo\u017ejepotno Golico in na precej oblegano Babo, znano tudi kot Dov\u0161ka Baba ali Dov\u0161ka Ro\u017eca, sploh ne vedo kje je ta vrh. A manj razvpiti in oblegani vrhovi so pogosto prav tako ali pa \u0161e bolj ljubi planincem, posebno takim, ki i\u0161\u010dejo miru in stika z naravo.",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 1753,
     "lead": "M_008051108.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/6048",
     "name": "Klek",
+    "peak": "46.485362,14.025710",
     "photo_author": "Mojca_Lustrek",
+    "region": "karavanke",
     "title": {
       "sl": "Klek in Golica",
       "en": "Klek"
-    },
-    "x": 425,
-    "y": 149
+    }
   },
   {
     "date": "2006-10-22 00:00:00+00:00",
@@ -1306,18 +1309,18 @@
       "sl": "Baba je ne posebno znamenit vrh sredi trikotnika Poto\u010de\u2013Spodnja Kokra\u2013Javorov vrh, za katerega morda izveste, \u010de se povzpnete k bolj znanemu Domu \u010cem\u0161enik. \u010ceprav pot na Babo ni markirana, je lepa in dobro vzdr\u017eevana, zaiti tako reko\u010d ni mogo\u010de, vrh pa ponuja prelepe razglede.",
       "en": null
     },
-    "dirty": true,
     "duration": 2.5,
     "height": 1119,
     "lead": "M_5100101.jpg",
     "name": "Baba",
+    "peak": "46.31047,14.46331",
     "photo_author": "Mojca_Lustrek",
+    "region": "kamnik-alps",
+    "start": "46.302689,14.475255",
     "title": {
       "sl": "Baba",
       "en": "Baba"
-    },
-    "x": 459,
-    "y": 130
+    }
   },
   {
     "date": "2005-03-13 00:00:00+00:00",
@@ -1461,14 +1464,16 @@
     "duration": 9,
     "height": 2558,
     "lead": "M_007080902.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/10",
     "name": "Grintovec",
+    "peak": "46.357097,14.535416",
     "photo_author": "Mojca_Lustrek",
+    "region": "kamnik-alps",
+    "start": "46.336681,14.511959",
     "title": {
       "sl": "Grintovec",
       "en": "Grintovec"
-    },
-    "x": 465,
-    "y": 135
+    }
   },
   {
     "date": "2004-01-11 00:00:00+00:00",
@@ -1516,31 +1521,34 @@
       "en": null
     },
     "height": 844,
+    "maplink": "https://mapzs.projekti.si/poi/4410",
     "name": "Vs3k",
+    "peak": "46.010608,14.168462",
+    "region": "notranjska",
     "title": {
       "sl": "Vrh Svetih treh kraljev",
       "en": "Vrh Svetih treh kraljev"
-    },
-    "x": 434,
-    "y": 96
+    }
   },
   {
     "date": "2010-11-10 00:00:00+00:00",
     "delta": 517,
     "description": {
-      "sl": "Ko vas bo pot zanesla mimo \u017diri, si vzamite \u0161e nekaj ur \u010dasa in se sprehodite na Mrzli vrh - travnat, razgleden vrh zahodno od \u017diri.",
+      "sl": "Ko vas bo pot zanesla mimo \u017diri, si vzamite \u0161e nekaj ur \u010dasa in se sprehodite na Mrzli vrh \u2013 travnat, razgleden vrh zahodno od \u017diri.",
       "en": null
     },
     "duration": 3.5,
     "height": 987,
     "lead": "M_8-3831_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/34550",
     "name": "MrzliVrh_Ziri",
+    "peak": "46.054579,14.061365",
+    "region": "gorenjska",
+    "start": "46.047329,14.108442",
     "title": {
       "sl": "Mrzli vrh nad \u017dirmi",
       "en": "Mrzli vrh from \u017diri"
-    },
-    "x": 428,
-    "y": 102
+    }
   },
   {
     "date": "2006-12-17 00:00:00+00:00",
@@ -1577,13 +1585,14 @@
     "height": 1088,
     "lead": "M_2_0234.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/6303",
     "name": "Ambroz",
+    "peak": "46.275034,14.529412",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Ambro\u017e pod Krvavcem",
       "en": "Ambro\u017e near Krvavec"
-    },
-    "x": 464,
-    "y": 126
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -4604,6 +4613,7 @@
     "duration": 2,
     "height": 691,
     "layout": "structured",
+    "lead": "M_20210318_094344.jpg",
     "length": 19.2,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.96463&lon=14.26478&layers=B0000",
     "name": "VrhnikaZaplana",

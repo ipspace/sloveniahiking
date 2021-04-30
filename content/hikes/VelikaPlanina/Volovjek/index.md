@@ -1,18 +1,22 @@
 ---
-date: '2004-07-11T00:00:00'
+date: 2004-07-11 00:00:00+00:00
 delta: 640
-description: |
-  Vzpon na Veliko planino z Volovjeka je krajši od dolgih "kondicijskih" vzponov iz doline in ravno prav dolg za prijeten dopoldanski izlet.
+description: 'Vzpon na Veliko planino z Volovjeka je krajši od dolgih "kondicijskih"
+  vzponov iz doline in ravno prav dolg za prijeten dopoldanski izlet.
+
+  '
 duration: 4
 height: 1666
 lead: M_3_1382.JPG
-multilead: M_3_1379.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/836
+multilead: M_3_1379.JPG
 multipath: true
 name: VelikaPlanina/Volovjek
+peak: 46.298105,14.643921
+region: kamnik-alps
+start: 46.283258,14.688441
 title: Velika planina z Volovljeka
-x: 473
-y: 128
 ---
 Na [Veliko planino](../) vodi vrsta markiranih poti: tiste iz doline Kamniške Bistrice ali Črne so precej dolge in zato kondicijsko zahtevne, poti, ki se začnejo na grebenu severno od doline Črne, pa so do popotnikov precej bolj prijazne. Od tam se lahko na Veliko planino odpravite s prevala Volovljek ali s planine Marjanine njive.
 
@@ -50,8 +54,6 @@ Na [Veliko planino](../) vodi vrsta markiranih poti: tiste iz doline Kamniške B
 
 Z Volovljeka proti Veliki planini
 ---------------------------------
-
-Tisti, ki se odpravljate na pot iz Zgornje Savinjske doline ali Logarske doline, lahko izkoristite tudi cesto, ki vas iz Luč pripelje naravnost na preval.
 
 Vzpon na Veliko planino začnete na prevalu Volovljek, do katerega vodi dobro vzdrževana cesta, ki se malo pod prevalom Črnivec odcepi s ceste med Stahovico in Gornjim Gradom. Če se boste na izlet odpravili iz ljubljanske smeri, sledite v Kamniku smeri proti Kamniški Bistrici, v Stahovici zavijte proti Gornjemu Gradu, nato pa po daljšem vzponu levo proti Kranjskemu Raku/Volovljeku. Če prihajate iz Savinjske doline, zavijte v Radmirju proti Gornjemu Gradu in sledite kažipotom proti Kamniku, kmalu za prevalom Črnivec pa zavijte desno proti Kranjskemu Raku.
 

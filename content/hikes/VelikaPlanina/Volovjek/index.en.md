@@ -6,10 +6,12 @@ height: 1666
 layout: stub
 lead: M_3_1382.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/836
 multilead: M_3_1379.JPG
 multipath: true
 name: VelikaPlanina/Volovjek
+peak: 46.298105,14.643921
+region: kamnik-alps
+start: 46.283258,14.688441
 title: Velika planina from Volovljek
-x: 473
-y: 128
 ---

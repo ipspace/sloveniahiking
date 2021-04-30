@@ -1,17 +1,23 @@
 ---
 author: Mojca_Lustrek
-date: '2007-08-19T00:00:00'
+date: 2007-08-19 00:00:00+00:00
 delta: 1700
-description: |
-  Grintovec je najvišji vrh Kamniško-Savinjskih Alp. Domači pastirji in naravoslovci so ga osvojili že v 18. stoletju, saj je dostop z juga od Cojzove koče čez Streho nezahteven. S severa pa vodita nanj zahtevni zavarovani Frischaufova pot čez Mlinarsko sedlo in Špremova pot čez Dolško škrbino.
+description: 'Grintovec je najvišji vrh Kamniško-Savinjskih Alp. Domači pastirji in
+  naravoslovci so ga osvojili že v 18. stoletju, saj je dostop z juga od Cojzove koče
+  čez Streho nezahteven. S severa pa vodita nanj zahtevni zavarovani Frischaufova
+  pot čez Mlinarsko sedlo in Špremova pot čez Dolško škrbino.
+
+  '
 duration: 9
 height: 2558
 lead: M_007080902.jpg
+maplink: https://mapzs.projekti.si/poi/10
 name: Grintovec
+peak: 46.357097,14.535416
 photo_author: Mojca_Lustrek
+region: kamnik-alps
+start: 46.336681,14.511959
 title: Grintovec
-x: 465
-y: 135
 ---
 {{<figure src="M_007080902.jpg">}}
 

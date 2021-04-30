@@ -6,34 +6,19 @@ description: Mnogi, ki hodijo mimo Kleka na božjepotno Golico in na precej oble
   Babo, znano tudi kot Dovška Baba ali Dovška Rožca, sploh ne vedo kje je ta vrh.
   A manj razvpiti in oblegani vrhovi so pogosto prav tako ali pa še bolj ljubi planincem,
   posebno takim, ki iščejo miru in stika z naravo.
-dirty: true
 duration: 6
 height: 1753
-image:
-- M_008051108.jpg
-- M_008051112.jpg
-- M_008051105.jpg
-- M_008051107.jpg
-- M_008051103.jpg
-- M_008051104.jpg
-- M_008051115.jpg
-- M_008051116.jpg
-- Razgled_Klek.jpg
-- M_008051106.jpg
-- M_008051111.jpg
-- M_008051109.jpg
-- M_008051113.jpg
-- M_008051114.jpg
-- M_008051102.jpg
-- M_008051110.jpg
 lead: M_008051108.jpg
+maplink: https://mapzs.projekti.si/poi/6048
 name: Klek
+peak: 46.485362,14.025710
 photo_author: Mojca_Lustrek
+region: karavanke
 title: Klek in Golica
-x: 425
-y: 149
 ---
-{{<figure src="M_008051108.jpg">}} Klek? Kje pa je to? Mnogi, ki hodijo tam mimo na božjepotno [Golico](../golica) in na precej oblegano Babo, znano tudi kot Dovška Baba ali Dovška Rožca, mogoče niti ne bi znali odgovoriti. A manj razvpiti in oblegani vrhovi so pogosto prav tako ali pa še bolj ljubi planincem, posebno takim, ki iščejo miru in stika z naravo.
+{{<figure src="M_008051108.jpg">}}
+
+Klek? Kje pa je to? Mnogi, ki hodijo tam mimo na božjepotno [Golico](../golica) in na precej oblegano Babo, znano tudi kot Dovška Baba ali Dovška Rožca, mogoče niti ne bi znali odgovoriti. A manj razvpiti in oblegani vrhovi so pogosto prav tako ali pa še bolj ljubi planincem, posebno takim, ki iščejo miru in stika z naravo.
 
 ### Osnovni podatki
 
