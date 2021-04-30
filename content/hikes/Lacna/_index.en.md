@@ -11,6 +11,4 @@ name: Lacna
 peak: 45.504969,13.885283
 region: istria
 title: Lačna
-x: 413
-y: 41
 ---

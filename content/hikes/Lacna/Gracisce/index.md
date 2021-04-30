@@ -6,14 +6,6 @@ description: Iz Gračišča, vasi na južnih obronkih Lačne, tik ob glavni cest
   nedeljski izlet.
 duration: 1.5
 height: 451
-image:
-- M_1_2849.JPG
-- M_1_2877.JPG
-- M_1_2876.JPG
-- M_1_2874.JPG
-- M_1_2873.JPG
-- mapgps.jpg
-- path_1.gif
 lead: M_1_2873.JPG
 map: 1
 maplink: https://mapzs.projekti.si/path/32098
