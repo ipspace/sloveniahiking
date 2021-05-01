@@ -1,0 +1,63 @@
+#!/usr/bin/env python3
+# -*- mode:python -*-
+#
+# Converts OziExplorer PLT files to GPX files:
+#
+import sys
+import os
+import gpxpy
+import gpxpy.gpx
+import datetime
+import argparse
+import cm.gpx
+
+#
+# Read Ozi Explorer PLT file
+#
+def read_plt_file(fname):
+  with open(fname,"r") as plt:
+    lines = plt.read().splitlines()
+  
+  parsed = { 'track': [] }
+
+  for line in lines[6:]:
+    print(line)
+    (lat,lon,x1,alt,x2,day,tm) = line.split(',')
+    point = { 'lat': float(lat), 'lon': float(lon), 'elevation': float(alt) * 0.3048 }
+    timestamp = datetime.datetime(
+      year=int(day[4:6])+2000,
+      month=int(day[2:4]),
+      day=int(day[0:2]),
+      hour=int(tm[0:2]),
+      minute=int(tm[2:4]),
+      second=int(tm[4:6]))
+    point['timestamp'] = timestamp
+    parsed['track'].append(point)
+  return parsed
+
+def create_gpx_file(fname,parsed):
+  cm.gpx.write_gpx_file(parsed['track'],fname)
+  fname = os.path.abspath(fname)
+  index_name = os.path.dirname(fname)+"/index.en.md"
+  if os.path.exists(index_name):
+    cm.gpx.VERBOSE = True
+    cm.gpx.sync_gpx_data(fname)
+
+def parse_cli():
+  parser = argparse.ArgumentParser(description='Convert FIT file into a GPX file')
+  parser.add_argument('-i','--input',dest='input',required=True,action='store',help='Input PLT file')
+  parser.add_argument('-o','--output',dest='output',const='',nargs="?",action='store',help='Output GPX file')
+  parser.add_argument('cmds', nargs='*',action='store',help='Transformation commands (use help to list them)')
+  return parser.parse_args()
+
+def main():
+  args = parse_cli()
+#  print(args)
+  parsed = read_plt_file(args.input)
+  print("Read %d points from %s" % (len(parsed['track']),args.input))
+  if not args.output is None:
+    out_name = args.output if args.output else args.input.replace('.plt','.gpx')
+    create_gpx_file(out_name,parsed)
+
+if __name__ == "__main__":
+  main()
