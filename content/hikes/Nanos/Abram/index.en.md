@@ -1,26 +1,32 @@
 ---
-date: '2021-02-23 18:30:35'
+date: 2021-02-23 18:30:35+00:00
 delta: '560'
-description: |
-  The hike across sunny Nanos meadows from Abram (a 500-year old farm situated 800m above the Vipava valley) is my favorite way to reach Pleša, the most prominent
-  Nanos peak. 
-  
-  We love taking the hike in May and June, enjoying the wildflowers, or doing it in late autumn or early spring when the soil is still frozen.
+description: "The hike across sunny Nanos meadows from Abram (a 500-year old farm\
+  \ situated 800m above the Vipava valley) is my favorite way to reach Pleša, the\
+  \ most prominent\nNanos peak. \n\nWe love taking the hike in May and June, enjoying\
+  \ the wildflowers, or doing it in late autumn or early spring when the soil is still\
+  \ frozen.\n"
 difficulty: Easy hike across sunny meadows and sparse forests
 duration: 4.5
+gpx:
+  center:
+    lat: 45.796154
+    lon: 14.0361825
+  file: AbramPlesa.gpx
+  modified: 1619849785.480787
 height: 1262
 lead: M_20210223_101205.jpg
-multilead: M_20210223_101205.jpg
 maplink: https://mapzs.projekti.si/path/30815
+multilead: M_20210223_101205.jpg
 multipath: true
 name: Abram
 peak: 45.772613,14.053047
 region: vipava
 start: 45.819912,14.019444
 timing:
-- "Abram - Pleša: 2 hours"
-- "Return: 2 hours"
-- "Total: 4.5 hours"
+- 'Abram - Pleša: 2 hours'
+- 'Return: 2 hours'
+- 'Total: 4.5 hours'
 title: Nanos (Pleša) from Abram
 video: https://www.relive.cc/view/vLqeGkzojdO/
 ---

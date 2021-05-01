@@ -4,6 +4,12 @@ delta: 180
 description: Na tekmovanju za najbolj odročno istrsko vasico bi Abitanti, zaselek
   na razglednem grebenu med dolinama Malinske in Miklinice, skoraj zagotovo zmagali.
 duration: 3
+gpx:
+  center:
+    lat: 45.446895
+    lon: 13.83224585
+  file: Abitanti.gpx
+  modified: 1619847644.6805034
 height: 418
 image:
 - M_1_10002.JPG

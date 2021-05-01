@@ -5,13 +5,13 @@ description: Izlet iz Logarske doline na Okrešelj je idealen za vse, ki bi radi
   prevelikih naporov okusili lepote slovenskih alp.
 duration: 2
 height: 1395
-image: null
 lastmod: 2021-02-13 17:10:00
 lead: M_6-1674_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/6254
 name: Okreselj
+peak: 46.369294,14.586485
+region: kamnik-alps
 title: Iz Logarske doline na Okrešelj
-x: 469
-y: 136
 ---
 ### Osnovni podatki
 
@@ -19,7 +19,7 @@ Zahtevnost
 :   Strma, odlično označena pot. Pot delno poteka po zelo sončni legi, zato vam bo poleti pošteno vroče
 
 Dostop
-:   Pot začnemo v[Logarski dolini](?sect=2), avto lahko pustimo pri Domu planincev, lahko pa se odpeljemo vse do konca doline do parkirišča pred[slapom Rinka](?sect=3).
+:   Pot začnemo v Logarski dolini, avto lahko pustimo pri Domu planincev, lahko pa se odpeljemo vse do konca doline do parkirišča pred slapom Rinka.
 
 Dolžina
 :   Dom pri Rinki -- Okrešelj: 1h. Povratek po planinski poti: 1h. Skupaj približno 2 uri hoje.
@@ -53,7 +53,8 @@ O Logarski dolini boste na Internetu našli še precej podatkov, nekatere poveza
 Vaša vztrajnost bo nagrajena, ko se bo po vožnji skozi ozko sotesko Savinje pred vami naenkrat odprl čudovit pogled na Logarsko dolino in Savinjske alpe v ozadju. Če se vam ne mudi, si lahko pred nadaljevanjem poti ogledate še kapelo Kristusa kralja na začetku doline.
 
 {{<gallery>}}
-{{<figure src="M_7-1729_IMG.JPG" caption="Pogled v Logarsko dolino">}} {{<figure src="M_7-1730_IMG.JPG">}} {{<figure src="M_7-1731_IMG.JPG" caption="Kapelica Kristusa kralja">}}
+{{<figure src="M_7-1729_IMG.JPG" caption="Pogled v Logarsko dolino">}} {{<figure src="M_7-1730_IMG.JPG">}}
+{{<figure src="M_7-1731_IMG.JPG" caption="Kapelica Kristusa kralja">}}
 {{</gallery>}}
 
 Če si želite krajši sprehod po dolini, pustite avto pri Domu planincev (837 m) drugače pa se lahko zapeljete vse do konca doline do parkirišča pri Koče pod slapom Rinka (1000 m) in začnete svojo pot proti slapu Rinka in Okrešlju.

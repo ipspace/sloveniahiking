@@ -6,25 +6,6 @@ description: Izlet v Kropo lahko združimo tudi z vzponom na enega od okoliških
 dirty: true
 duration: 5
 height: 1300
-image:
-- M_0-5005_IMG.JPG
-- M_9-4973_IMG.JPG
-- M_9-4974_IMG.JPG
-- M_9-4976_IMG.JPG
-- M_9-4987_IMG.JPG
-- M_9-4993_IMG.JPG
-- M_9-4994_IMG.JPG
-- M_9-4995_IMG.JPG
-- M_9-4998_IMG.JPG
-- M_0-5001_IMG.JPG
-- M_0-5003_IMG.JPG
-- M_0-5011_IMG.JPG
-- M_0-5008_IMG.JPG
-- M_0-5005_IMG.JPG
-- M_0-5007_IMG.JPG
-- mapgps.jpg
-- path_1.gif
-- alt.gif
 lead: M_0-5007_IMG.JPG
 map: 1
 name: Jamnik_Vodice
@@ -40,20 +21,20 @@ Množica markiranih in nemarkiranih poti v okolici [Krope](?sect=2) vam omogoča
 :   **Trajanje**
 :   **Višinska razlika**
 
-[Kropa -- Jamnik -- Kropa](?sect=3)
+Kropa -- Jamnik -- Kropa
 :   2 uri
 :   300 m
 
-[Kropa -- Vodiška planina (Vodice) -- Kropa](?sect=5)
+Kropa -- Vodiška planina (Vodice) -- Kropa
 :   3 ure
 :   580 m
 
-[Jamnik -- Vodice -- Jamnik](?sect=4)
+Jamnik -- Vodice -- Jamnik
 :   3,5 -- 4 ure
 :   470m ob vzponu\
     200 m ob povratku
 
-[Kropa -- Jamnik -- Vodice -- Kropa](?sect=3)
+Kropa -- Jamnik -- Vodice -- Kropa
 :   4 -- 5 ur
 :   770 m
 
@@ -93,9 +74,7 @@ Največ podatkov o Kropi boste na Internetu dobili na straneh [Turističnega dru
 Dostop
 ------
 
-DARS trenutno predeluje odcepe v okolici odcepa za Ljubelj, tako, da morate avtocesto zapustiti že v Naklem ter se po stari cesti odpraviti proti Podbrezju.
-
-Pot začnete v središču Krope, železarskega kraja, stisnjenega v ozko dolino pod strmimi pobočji Jelovice. Najenostavnejši dostop v Kropo je po dolini, v kateri Kropa leži --gorenjsko avtocesto zapustite v bližini izvoza Ljubelj, nato pa skozi Podbrezje in Podnart sledite oznakam za Kropo.
+Pot začnete v središču Krope, železarskega kraja, stisnjenega v ozko dolino pod strmimi pobočji Jelovice. Najenostavnejši dostop v Kropo je po dolini, v kateri Kropa leži -- gorenjsko avtocesto zapustite v bližini izvoza Ljubelj, nato pa skozi Podbrezje in Podnart sledite oznakam za Kropo.
 
 **Pozor:** v gozdu za Podbrezjem vas čaka oster lev odcep, ki je precej slabo označen.
 

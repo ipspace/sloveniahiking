@@ -1,23 +1,30 @@
 ---
-date: '2021-02-23 18:30:35'
+date: 2021-02-23 18:30:35+00:00
 delta: '560'
-description: 
-  Izlet po sončnih Nanoških travnikih med Abramom (500 let staro kmetijo visoko nad Vipavsko dolino) in Plešo (najbolj izrazitim vrhom Nanosa) je najlepši v maju in juniju ko zacvetijo perunike.
+description: Izlet po sončnih Nanoških travnikih med Abramom (500 let staro kmetijo
+  visoko nad Vipavsko dolino) in Plešo (najbolj izrazitim vrhom Nanosa) je najlepši
+  v maju in juniju ko zacvetijo perunike.
 difficulty: Prijeten sprehod z občasnim strmim vložkom
 duration: 4.5
+gpx:
+  center:
+    lat: 45.796154
+    lon: 14.0361825
+  file: AbramPlesa.gpx
+  modified: 1619849785.480787
 height: 1262
 lead: M_20210223_101205.jpg
-multilead: M_20210223_101205.jpg
 maplink: https://mapzs.projekti.si/path/30815
+multilead: M_20210223_101205.jpg
 multipath: true
 name: Abram
 peak: 45.772613,14.053047
 region: vipava
 start: 45.819912,14.019444
 timing:
-- "Abram - Pleša: 2 uri"
-- "Vrnitev: 2 uri"
-- "Skupaj: 4.5 ur"
+- 'Abram - Pleša: 2 uri'
+- 'Vrnitev: 2 uri'
+- 'Skupaj: 4.5 ur'
 title: Od Abrama do Pleše
 video: https://www.relive.cc/view/vLqeGkzojdO/
 ---

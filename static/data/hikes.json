@@ -1166,6 +1166,15 @@
       "en": null
     },
     "duration": 4,
+    "gpx": {
+      "center": {
+        "lat": 46.285928350000006,
+        "lon": 14.666857499999999
+      },
+      "file": "Volovljek.gpx",
+      "modified": 1619847941.9068966,
+      "zoom": 14
+    },
     "height": 1666,
     "lead": "M_3_1382.JPG",
     "map": 1,
@@ -1669,10 +1678,18 @@
     },
     "difficulty": "Prijeten sprehod z ob\u010dasnim strmim vlo\u017ekom",
     "duration": 4.5,
+    "gpx": {
+      "center": {
+        "lat": 45.796154,
+        "lon": 14.0361825
+      },
+      "file": "AbramPlesa.gpx",
+      "modified": 1619849785.480787
+    },
     "height": 1262,
     "lead": "M_20210223_101205.jpg",
-    "multilead": "M_20210223_101205.jpg",
     "maplink": "https://mapzs.projekti.si/path/30815",
+    "multilead": "M_20210223_101205.jpg",
     "multipath": true,
     "name": "Abram",
     "peak": "45.772613,14.053047",
@@ -1985,7 +2002,6 @@
       "sl": "Miklav\u0161ka gora je sicer skoraj tiso\u010dak, a ima mogo\u010de le nekoliko \u00bbpreveliko\u00ab ime, saj ni zelo podobna gori. Je pa precej prijeten cilj, posebno \u010de nimamo veliko \u010dasa ali \u010de je slabo vreme, saj po cesti in kolovozih zlahka hodimo z de\u017enikom.",
       "en": null
     },
-    "dirty": true,
     "duration": 2,
     "height": 955,
     "lead": "M_007110905.jpg",
@@ -1997,9 +2013,7 @@
     "title": {
       "sl": "Miklav\u0161ka gora",
       "en": "Miklav\u0161ka gora"
-    },
-    "x": 438,
-    "y": 119
+    }
   },
   {
     "date": "2003-10-19 00:00:00+00:00",
@@ -2063,18 +2077,18 @@
       "sl": "Dobr\u010da je razgleden vrh nad Tr\u017ei\u010dem, od koder se odpre \u010dudovit razgled na greben Karavank, od Stola do Ko\u0161ute.",
       "en": null
     },
-    "dirty": true,
     "duration": 5,
     "height": 1643,
     "lead": "M_0-7053_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4686",
     "name": "Dobrca",
+    "peak": "46.380703,14.252813",
+    "region": "karavanke",
     "title": {
       "sl": "Dobr\u010da",
       "en": "Dobr\u010da"
-    },
-    "x": 443,
-    "y": 138
+    }
   },
   {
     "date": "2004-04-18 00:00:00+00:00",
@@ -2083,18 +2097,18 @@
       "sl": "Na precej neznanem vrhu v \u0160kofjelo\u0161kem hribovju vas \u010daka zanimiva baro\u010dna cerkev in lep razgled proti vzhodu.",
       "en": null
     },
-    "dirty": true,
     "duration": 2.5,
     "height": 987,
     "lead": "M_7_0732.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4940",
     "name": "MalenskiVrh",
+    "peak": "46.153682,14.153111",
+    "region": "gorenjska",
     "title": {
       "sl": "Malenski vrh",
       "en": "Malenski vrh"
-    },
-    "x": 434,
-    "y": 112
+    }
   },
   {
     "date": "2002-09-29 00:00:00+00:00",
@@ -2223,18 +2237,18 @@
       "sl": "Krim, ju\u017eni \u010duvaj Ljubljanskega barja, se vidi skoraj od vsepovsod iz Ljubljane in bli\u017enje okolice.",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 1107,
     "lead": "M_2-2217_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/34828",
     "name": "Krim",
+    "peak": "45.928570,14.471184",
     "photo_author": "Mojca_Lustrek",
+    "region": "notranjska",
     "title": {
       "sl": "Krim",
       "en": "Krim"
-    },
-    "x": 459,
-    "y": 87
+    }
   },
   {
     "date": "2002-10-20 00:00:00+00:00",
@@ -2245,13 +2259,15 @@
     },
     "duration": 2,
     "height": 826,
+    "maplink": "https://mapzs.projekti.si/poi/233",
     "name": "svPrimoz_Kamnik",
+    "peak": "46.268999,14.633848",
+    "region": "kamnik-alps",
+    "start": "46.267103,14.603767",
     "title": {
       "sl": "Sv. Primo\u017e nad Kamnikom",
       "en": "Saint Primo\u017e above Kamnik"
-    },
-    "x": 472,
-    "y": 125
+    }
   },
   {
     "date": "2003-09-07 00:00:00+00:00",
@@ -2261,16 +2277,27 @@
       "en": null
     },
     "duration": 3,
+    "gpx": {
+      "center": {
+        "lat": 46.084030850000005,
+        "lon": 14.0185183
+      },
+      "file": "BevkovVrh.gpx",
+      "modified": 1619850043.7309654,
+      "zoom": 14
+    },
     "height": 1051,
     "lead": "M_8-6846_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1205",
     "name": "BevkovVrh",
+    "peak": "46.086057,14.004225",
+    "region": "gorenjska",
+    "start": "46.084986,14.038951",
     "title": {
       "sl": "Bevkov vrh",
       "en": "Bevk's peak"
-    },
-    "x": 424,
-    "y": 105
+    }
   },
   {
     "date": "2003-06-01 00:00:00+00:00",
@@ -2279,18 +2306,18 @@
       "sl": "Slajka in \u0160pik sta vrhova v grebenu \u0160kofjelo\u0161ka hribovja, ki se zahodno od Hotavelj preko Oselice razteza do Ermanovca.",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 908,
     "lead": "M_2-5284_IMG.JPG",
     "map": 1,
+    "maplink": "https://www.opencyclemap.org/?zoom=10&lat=46.11316&lon=14.09347&layers=B0000",
     "name": "Slajka",
+    "peak": "46.11316,14.09347",
+    "region": "gorenjska",
     "title": {
       "sl": "Iz Hotavelj na Slajko in \u0160pik",
       "en": "Slajka and \u0160pik from Hotavlje"
-    },
-    "x": 430,
-    "y": 108
+    }
   },
   {
     "date": "2002-07-29 00:00:00+00:00",
@@ -2303,13 +2330,14 @@
     "height": 1395,
     "lastmod": "2021-02-13 17:10:00",
     "lead": "M_6-1674_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/6254",
     "name": "Okreselj",
+    "peak": "46.369294,14.586485",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Iz Logarske doline na Okre\u0161elj",
       "en": "Okre\u0161elj From Logarska Valley"
-    },
-    "x": 469,
-    "y": 136
+    }
   },
   {
     "date": "2005-09-18 00:00:00+00:00",
@@ -3891,7 +3919,7 @@
         "lon": 14.258263655272447
       },
       "file": "KurenPlanina.gpx",
-      "modified": 1619705563.442431,
+      "modified": 1619706286.0539496,
       "zoom": 15
     },
     "height": 735,
@@ -4307,6 +4335,14 @@
       "en": null
     },
     "duration": 3,
+    "gpx": {
+      "center": {
+        "lat": 45.446895,
+        "lon": 13.83224585
+      },
+      "file": "Abitanti.gpx",
+      "modified": 1619847644.6805034
+    },
     "height": 418,
     "lead": "M_1_10002.JPG",
     "map": 1,

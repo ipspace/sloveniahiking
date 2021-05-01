@@ -97,7 +97,7 @@ V spodnjem delu je pot že po krajšem dežju precej blatna, zato vam vzpon v š
 
 {{<figure src="M_6-6662_IMG.JPG" caption="Usek v skalah pod dolino Jate">}}
 
-Po približno 30 minutah strmega vzpona nas pot pripelje na gozdno cesto, ki jih sledimo le nekaj metrov, nato pa nadaljujemo z vzponom po strmem pobočju. Ob gozdni cesti boste poleti verjetno opazili zanimivo oblikovane rumene cvetove [navadne nedotike](?sect=6), ki jo v zahodni Sloveniji težje najdete, saj ne raste na apnenčastih tleh.
+Po približno 30 minutah strmega vzpona nas pot pripelje na gozdno cesto, ki jih sledimo le nekaj metrov, nato pa nadaljujemo z vzponom po strmem pobočju. Ob gozdni cesti boste poleti verjetno opazili zanimivo oblikovane rumene cvetove navadne nedotike, ki jo v zahodni Sloveniji težje najdete, saj ne raste na apnenčastih tleh.
 
 Med vzponom po pešpoti nad gozdno cesto boste verjetno hitro opazili nenavadno dobro urejen hudournik z betoniranim koritom -- prav nenavadno za divjino, po kateri hodite -- začudenje pa se bo verjetno še povečalo, ko boste naleteli na usek v skalah, globok več metrov, ki ga je očitno »zakrivila« človeška roka. Odgovor na to nenavadno uganko sem našel v odličnem vodniku Tineta Miheliča -- jarke so zgradili v času gradnje Bohinjskega predora, ki je preveč zamakal.
 
@@ -123,7 +123,7 @@ Vzpon na Črno Prst
 
 {{<figure src="M_6-6683_IMG.JPG" caption="Pot preko melišča">}} {{<figure src="M_6-6684_IMG.JPG" caption="Vzpon po grapi">}} {{<figure src="M_6-6687_IMG.JPG" caption="Pogled na Triglav">}}
 
-Melišče pod Rušnatim vrhom prečkamo v nekaj minutah (v avgustu si vzamite še kakšno minuto več časa in si oglejte [resaste sviščevce](?sect=6), ki rastejo po melišču), nato pa nas čaka najbolj neprijeten del izleta -- vzpon po zelo strmi grapi, ki sicer ni bistveno bolj strm kot je bil vzpon skozi gozd v začetku poti, vendar poteka po odprtem, kamnitem pobočju, kjer v poletnih mesecih neusmiljeno pripeka sonce. Na srečo nas do prevala Žrelo, ki ločuje Črno prst od grebena Črne gore, loči le 130 metrov višinske razlike.
+Melišče pod Rušnatim vrhom prečkamo v nekaj minutah (v avgustu si vzamite še kakšno minuto več časa in si oglejte resaste sviščevce, ki rastejo po melišču), nato pa nas čaka najbolj neprijeten del izleta -- vzpon po zelo strmi grapi, ki sicer ni bistveno bolj strm kot je bil vzpon skozi gozd v začetku poti, vendar poteka po odprtem, kamnitem pobočju, kjer v poletnih mesecih neusmiljeno pripeka sonce. Na srečo nas do prevala Žrelo, ki ločuje Črno prst od grebena Črne gore, loči le 130 metrov višinske razlike.
 
 Tik pred prevalom Žrelo poglejte v desno -- med škrbinastimi skalami se odpre čudovit pogled na Triglav, na samem prevalu pa ne hitite proti Črni prsti, temveč se raje odpravite nekaj metrov po ozki stezici, ki vodi v desno -- na prvem vrhu se vam odpre fantastičen razgled -- pod vami ležita grebena Črne gore in Lisca, za njima pa se odpira celotna panorama Bohinjskih gora s Triglavom v ozadju.
 

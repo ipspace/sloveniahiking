@@ -2,6 +2,13 @@
 date: 2004-07-11 00:00:00+00:00
 delta: 640
 duration: 4
+gpx:
+  center:
+    lat: 46.285928350000006
+    lon: 14.666857499999999
+  file: Volovljek.gpx
+  modified: 1619847941.9068966
+  zoom: 14
 height: 1666
 layout: stub
 lead: M_3_1382.JPG

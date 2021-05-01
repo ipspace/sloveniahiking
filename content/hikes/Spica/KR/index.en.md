@@ -1,5 +1,5 @@
 ---
-date: 2021-04-29 14:17:00
+date: 2021-04-29 14:17:00+00:00
 delta: 230
 description: The hike to [Planina](../) (Špica) from Kuren is an ideal weekend family
   hike. If you're looking for something longer, start in [Vrhnika](../kv) or at [Star
@@ -11,7 +11,7 @@ gpx:
     lat: 45.97536847893188
     lon: 14.258263655272447
   file: KurenPlanina.gpx
-  modified: 1619705563.442431
+  modified: 1619706286.0539496
   zoom: 15
 height: 735
 image:
