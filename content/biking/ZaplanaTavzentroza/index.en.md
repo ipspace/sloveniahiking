@@ -2,7 +2,7 @@
 date: 2021-05-02 17:36:34+02:00
 delta: 470
 description: |
-  [Tavžentroža](https://tavzent-roza.com/) has the best pizzas in Rovte hills. Let's bike there from Zaplana to make sure we'll be building a proper hunger along the way ;)
+  [Tavžentroža](https://tavzent-roza.com/) has the best pizzas in Rovte hills. Let's bike there from Zaplana to make sure we'll be building a proper hunger along the way&nbsp;😉
 difficulty: A mix of gravel- and asphalt roads with a few steeper ascents
 duration: 2.5
 gpx:
