@@ -4585,6 +4585,7 @@
     "maplink": "https://mapzs.projekti.si/poi/52206",
     "name": "MarezigeBorst",
     "region": "istria",
+    "start": "45.506823,13.798599",
     "title": {
       "en": "From Marezige to Bor\u0161t"
     },
@@ -4629,6 +4630,7 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.49773&lon=13.839&layers=B0000",
     "name": "MarezigeTrsek",
     "region": "istria",
+    "start": "45.506836,13.798535",
     "title": {
       "en": "Marezige \u2013 Trsek \u2013 Popetre"
     },
@@ -4661,6 +4663,7 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.96463&lon=14.26478&layers=B0000",
     "name": "VrhnikaZaplana",
     "region": "notranjska",
+    "start": "45.963816,14.275521",
     "title": {
       "en": "Vrhnika \u2013 Zaplana \u2013 Star Maln"
     },
@@ -4683,6 +4686,7 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.50964&lon=13.756&layers=B0000",
     "name": "MarezigeSmarje",
     "region": "istria",
+    "start": "45.506836,13.798535",
     "title": {
       "en": "Marezige \u2013 \u0160marje \u2013 Vanganel"
     },
@@ -4694,7 +4698,7 @@
     "date": "2021-05-02 17:36:34+02:00",
     "delta": 470,
     "description": {
-      "en": "[Tav\u017eentro\u017ea](https://tavzent-roza.com/) has the best pizzas in Rovte hills. Let's bike there from Zaplana to make sure we'll be building a proper hunger along the way ;)\n"
+      "en": "[Tav\u017eentro\u017ea](https://tavzent-roza.com/) has the best pizzas in Rovte hills. Let's bike there from Zaplana to make sure we'll be building a proper hunger along the way&nbsp;\ud83d\ude09\n"
     },
     "difficulty": "A mix of gravel- and asphalt roads with a few steeper ascents",
     "duration": 2.5,
@@ -4704,7 +4708,9 @@
     "length": 24.4,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.96809&lon=14.19585&layers=B0000",
     "name": "ZaplanaTavzentroza",
+    "peak": "45.971576,14.144772",
     "region": "notranjska",
+    "start": "45.953324,14.227656",
     "title": {
       "en": "Pizza @ Tav\u017eentro\u017ea"
     },
@@ -4727,6 +4733,7 @@
     "maplink": "https://mapzs.projekti.si/poi/5387",
     "name": "ZaplanaRovte/",
     "region": "notranjska",
+    "start": "45.970595,14.235152",
     "title": {
       "en": "From Zaplana to Rovte"
     },

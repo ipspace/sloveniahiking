@@ -17,6 +17,7 @@ lead: M_20210501_101521.jpg
 length: 24.4
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.96809&lon=14.19585&layers=B0000
 name: ZaplanaTavzentroza
+peak: 45.971576,14.144772
 region: notranjska
 start: 45.953324,14.227656
 title: Pizza @ Tavžentroža

@@ -72,7 +72,7 @@ def collect_bike_data(index_path):
   page['type'] = 'biking'
 
   if 'gpx' in page:
-    for key in ('start','peak'):
+    for key in ('start'):
       page.pop(key,None)
     page['center'] = format("%.6f,%.6f" % (page['gpx']['center']['lat'],page['gpx']['center']['lon']))
     page.pop('gpx')
