@@ -25,11 +25,21 @@ video: https://www.relive.cc/view/vKv27oy7poO/
 ---
 {{<hike-details description="yes">}}
 
-### Notes
+### Where to Start
 
-* There are tons of parking opportunities along the path – in Vrhnika, at the start of the footpath to Planina (where I started), near [Kuren](../../hikes/spica/kr), at the church in Zaplana, or at [Star Maln](../../hikes/spica/sm/).
+* There are tons of parking opportunities along the path – in Vrhnika, at the [start of the footpath to Planina](../../hikes/spica/kv/) (where I started), near [Kuren](../../hikes/spica/kr), at the church in Zaplana, or at [Star Maln](../../hikes/spica/sm/).
 * The tour is a bit easier when done in the counter-clockwise direction.
+
+### Navigation Tips
+
 * To get to Stara Vrhnika, turn left just before the football field, and then immediately turn right.
 * In the center of Stara Vrhnika (next to the chapel) go straight, and then immediately turn left.
-* You should visit the [mountain hut at Planina](../../hikes/spica) (marked Špica on the map) – *[Vrhniški štruklji](https://www.visitvrhnika.si/en/vrhnika/worthy-of-attention/rolled-prune-dumplings)* are delicious. I skipped it because I try to avoid the usual weekend crowds. To get there, turn left onto a gravel road at the end of the ascent from Stara Vrhnika toward Zaplana instead of following the asphalt road toward Zaplana.
 * Follow the signs for Star Maln throughout Strmca. 
+
+### Places to Visit
+
+* [Mountain hut at Planina](../../hikes/spica) (marked Špica on the map) – *[Vrhniški štruklji](https://www.visitvrhnika.si/en/vrhnika/worthy-of-attention/rolled-prune-dumplings)* are delicious. I skipped it because I try to avoid the usual weekend crowds. To get there, turn left onto a gravel road at the end of the ascent from Stara Vrhnika toward Zaplana instead of following the asphalt road toward Zaplana.
+
+### Other Field-tested Pit Stops
+
+* [Gostilna Mesec](http://www.gostilna-mesec.si/EN/)
