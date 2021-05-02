@@ -4691,6 +4691,27 @@
     "center": "45.512831,13.762343"
   },
   {
+    "date": "2021-05-02 17:36:34+02:00",
+    "delta": 470,
+    "description": {
+      "en": "[Tav\u017eentro\u017ea](https://tavzent-roza.com/) has the best pizzas in Rovte hills. Let's bike there from Zaplana to make sure we'll be building a proper hunger along the way ;)\n"
+    },
+    "difficulty": "A mix of gravel- and asphalt roads with a few steeper ascents",
+    "duration": 2.5,
+    "height": 770,
+    "layout": "structured",
+    "lead": "M_20210501_101521.jpg",
+    "length": 24.4,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.96809&lon=14.19585&layers=B0000",
+    "name": "ZaplanaTavzentroza",
+    "region": "notranjska",
+    "title": {
+      "en": "Pizza @ Tav\u017eentro\u017ea"
+    },
+    "type": "biking",
+    "center": "45.970724,14.191475"
+  },
+  {
     "date": "2021-04-20 16:47:28+00:00",
     "delta": 470,
     "description": {

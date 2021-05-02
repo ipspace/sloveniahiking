@@ -8,12 +8,17 @@
 # * Change starting point
 #
 import sys
+import os
+import re
+
+import json
+import yaml
+import datetime
+import argparse
+
 import gpxpy
 import gpxpy.gpx
-import json
-import datetime
 import fitparse
-import argparse
 import geopy.distance
 
 def writeGpxFile(points,fname):
@@ -103,16 +108,16 @@ def adjust_date(parsed,newdate_string):
 
 radius = 100
 
-def within_range(p,lat,lon,radius):
-  d = geopy.distance.distance((lat,lon),(p['lat'],p['lon'])) * 1000
+def within_range(p,target,radius):
+  d = geopy.distance.distance((target['lat'],target['lon']),(p['lat'],p['lon'])) * 1000
   return d if d < radius else None
 
-def find_closest(track,lat,lon,start,increment):
+def find_closest(track,LATLON,start,increment):
   global radius
 
   distance = None
   while start < len(track) and start >= 0:
-    distance = within_range(track[start],lat,lon,radius)
+    distance = within_range(track[start],LATLON,radius)
     if distance:
       break
     start = start + increment
@@ -127,7 +132,7 @@ def find_closest(track,lat,lon,start,increment):
   end_pos = start
 
   while start < len(track) and start >= 0:
-    distance = within_range(track[start],lat,lon,radius)
+    distance = within_range(track[start],LATLON,radius)
     if not distance:
       break
     else:
@@ -148,14 +153,13 @@ def find_closest(track,lat,lon,start,increment):
 def cut(parsed,LATLON):
   global radius
 
-  (lat,lon) = map(float,LATLON.split(','))
-  print("\nCutting track on %s - %s" % (lat,lon))
-  cut_start = find_closest(parsed['track'],lat,lon,0,1)
+  print("\nCutting track on %s - %s" % (LATLON['lat'],LATLON['lon']))
+  cut_start = find_closest(parsed['track'],LATLON,0,1)
   if not cut_start:
-    print("Never got with %d meters of %s %s, not cutting the track" % (radius,lat,lon))
+    print("Never got with %d meters of %s %s, not cutting the track" % (radius,LATLON['lat'],LATLON['lon']))
     return parsed
 
-  cut_end = find_closest(parsed['track'],lat,lon,cut_start["end"]+1,1)
+  cut_end = find_closest(parsed['track'],LATLON,cut_start["end"]+1,1)
   result = { "track": parsed['track'][0:cut_start["best"]-1] }
   if cut_end:
     print("Appending from %d" % cut_end["best"])
@@ -167,10 +171,9 @@ def cut(parsed,LATLON):
 def trim(parsed,LATLON):
   global radius
 
-  (lat,lon) = map(float,LATLON.split(','))
-  print("\nTrimming track on %s - %s" % (lat,lon))
-  trim_start = find_closest(parsed['track'],lat,lon,0,1)
-  trim_end   = find_closest(parsed['track'],lat,lon,len(parsed['track'])-1,-1)
+  print("\nTrimming track on %s - %s" % (LATLON['lat'],LATLON['lon']))
+  trim_start = find_closest(parsed['track'],LATLON,0,1)
+  trim_end   = find_closest(parsed['track'],LATLON,len(parsed['track'])-1,-1)
   if not trim_start or not trim_end:
     print("Cannot find the trimming point(s)")
     return parsed
@@ -182,9 +185,8 @@ def trim(parsed,LATLON):
 def start(parsed,LATLON):
   global radius
 
-  (lat,lon) = map(float,LATLON.split(','))
-  print("\nStarting the track on %s - %s" % (lat,lon))
-  start = find_closest(parsed['track'],lat,lon,0,1)
+  print("\nStarting the track on %s - %s" % (LATLON['lat'],LATLON['lon']))
+  start = find_closest(parsed['track'],LATLON,0,1)
   if not start:
     print("Cannot find the starting point")
     return parsed
@@ -232,19 +234,43 @@ trim LAT,LON
   comes closest to the specified point. The same procedure is applied to the track tail.
   """)
   sys.exit(0)
+
+def parse_coords(coords):
+  (lat,lon) = map(float,coords.split(','))
+  return { 'lat': lat, 'lon': lon}
+
+locations = {}
+
+def get_lat_lon(coords):
+  global locations
+
+  if re.fullmatch('[0-9,.+-]+',coords):
+    return parse_coords(coords)
+
+  if not locations:
+    loc_name = os.path.dirname(os.path.abspath(__file__))+"/fit.locations.yaml"
+    with open(loc_name,"r") as locfile:
+      locations = yaml.safe_load(locfile)
+
+  if coords in locations:
+    return parse_coords(locations[coords])
+  else:
+    print("Invalid coordinate: %s" % coords)
+    sys.exit(0)
+
 def transform(parsed,cmds):
   while len(cmds):
     cmd = cmds.pop(0)
     if cmd == 'laps':
-      parsed = extract_laps(parsed,cmds.pop(0))
+      parsed = extract_laps(parsed,get_lat_lon(cmds.pop(0)))
     elif cmd == 'date':
-      adjust_date(parsed,cmds.pop(0))
+      adjust_date(parsed,get_lat_lon(cmds.pop(0)))
     elif cmd == 'cut':
-      parsed = cut(parsed,cmds.pop(0))
+      parsed = cut(parsed,get_lat_lon(cmds.pop(0)))
     elif cmd == 'trim':
-      parsed = trim(parsed,cmds.pop(0))
+      parsed = trim(parsed,get_lat_lon(cmds.pop(0)))
     elif cmd == 'start':
-      parsed = start(parsed,cmds.pop(0))
+      parsed = start(parsed,get_lat_lon(cmds.pop(0)))
     elif cmd == 'help':
       cmd_usage()
     else:
