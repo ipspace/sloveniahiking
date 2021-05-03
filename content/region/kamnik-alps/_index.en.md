@@ -1,9 +1,10 @@
 ---
 title: Kamnik-Savinja Alps
 region: [ gorenjska, savinjska ]
-#lat: 45.80
-#lon: 13.92
-#map_zoom: 10
+lat: 46.30
+lon: 14.5
+map_zoom: 10
 map_h: 30em
+range: true
 lang: en
 ---

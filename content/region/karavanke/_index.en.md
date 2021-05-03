@@ -1,8 +1,9 @@
 ---
 title: Karawanks
-#lat: 45.80
-#lon: 13.92
-#map_zoom: 10
-map_h: 30em
+lat: 46.40
+lon: 14.5
+map_zoom: 9
+map_h: 20em
 lang: en
+range: true
 ---
