@@ -2346,18 +2346,19 @@
       "sl": "S planine Koro\u0161ica nad Ljubeljem boste imeli enega najlep\u0161ih razgledov v Karavankah, zagotovo pa vas bodo sredi poletja pri\u010dakali izvrstni ajdovi \u017eganci in kislo mleko.",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 1554,
     "lead": "M_5_2578.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/842",
     "name": "Korosica",
+    "peak": "46.434220,14.292107",
+    "region": "karavanke",
+    "start": "46.427870,14.272455",
     "title": {
       "sl": "Planina Koro\u0161ica",
       "en": "Koro\u0161ica meadow"
-    },
-    "x": 445,
-    "y": 143
+    }
   },
   {
     "date": "2003-06-15 00:00:00+00:00",
@@ -2366,18 +2367,19 @@
       "sl": "Strm vzpon na Kojco (enega od vi\u0161jih vrhov v Cerkljanskem hribovju) bo popla\u010dan z razgledom na Bohinjske gore, Porezen in vrhove Cerkljanskega in Idrijskega hribovja.",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 1303,
     "lead": "M_7-5762_img.jpg",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1026",
     "name": "Kojca",
+    "peak": "46.153889,13.926612",
+    "region": "primorska",
+    "start": "46.156103,13.944929",
     "title": {
       "sl": "Kojca iz Jesenice",
       "en": "Kojca from Jesenica"
-    },
-    "x": 417,
-    "y": 113
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -2387,18 +2389,18 @@
       "sl": "Kladivo je poleg Velikega vrha in Ko\u0161utnikovega turna najmikavnej\u0161i cilj v dolgem pogorju Ko\u0161ute.",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 2094,
     "lead": "M_006070701.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/104",
     "name": "Kladivo",
+    "peak": "46.437281,14.344111",
     "photo_author": "Mojca_Lustrek",
+    "region": "karavanke",
     "title": {
       "sl": "Kladivo",
       "en": "Kladivo"
-    },
-    "x": 450,
-    "y": 144
+    }
   },
   {
     "date": "2003-02-16 00:00:00+00:00",
@@ -2446,13 +2448,14 @@
     },
     "height": 901,
     "lead": "M_4-4461_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1368",
     "name": "Javorc",
+    "peak": "46.070345,14.141830",
+    "region": "gorenjska",
     "title": {
       "sl": "Javor\u010d",
       "en": "Javor\u010d"
-    },
-    "x": 433,
-    "y": 103
+    }
   },
   {
     "date": "2006-12-10 00:00:00+00:00",
@@ -2520,13 +2523,14 @@
     },
     "height": 1488,
     "lead": "M_3_0331.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/34621",
     "name": "Kofce",
+    "peak": "46.417820,14.323948",
+    "region": "karavanke",
     "title": {
       "sl": "Kofce",
       "en": "Kofce"
-    },
-    "x": 448,
-    "y": 142
+    }
   },
   {
     "date": "2003-09-14 00:00:00+00:00",

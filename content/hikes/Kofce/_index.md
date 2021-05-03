@@ -2,30 +2,12 @@
 date: 1900-01-01 00:00:00+00:00
 description: Kofce so prijazna, sončna planina pod travnatim grebenom Košute.
 height: 1488
-image:
-- M_3_0331.JPG
-- Razgled_Kofce_Vzhod.jpg
-- Razgled_Kofce_Zahod.jpg
-- Razgled_Kofce_Greben.jpg
-- M_2_0300.JPG
-- M_3_0302.JPG
-- M_3_0301.JPG
-- M_3_0303.JPG
-- M_3_0307.JPG
-- M_3_0308.JPG
-- M_3_0309.JPG
-- M_3_0327.JPG
-- Razgled_Kofce_Vzhod.jpg
-- Razgled_Kofce_Zahod.jpg
-- Razgled_Kofce_Greben.jpg
-- M_3_0332.JPG
-- mapgps.jpg
-- path_1.gif
 lead: M_3_0331.JPG
+maplink: https://mapzs.projekti.si/poi/34621
 name: Kofce
+peak: 46.417820,14.323948
+region: karavanke
 title: Kofce
-x: 448
-y: 142
 ---
 {{<figure src="M_3_0331.JPG" caption="Pogled na Kofce s Križa">}}
 

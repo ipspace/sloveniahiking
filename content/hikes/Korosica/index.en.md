@@ -3,18 +3,13 @@ date: 2005-09-18 00:00:00+00:00
 delta: 650
 duration: 3
 height: 1554
-image:
-- M_5_2578.JPG
-- M_5_2584.JPG
-- M_5_2582.JPG
-- mapgps.jpg
-- path_1.gif
-- alt.gif
 layout: stub
 lead: M_5_2578.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/842
 name: Korosica
+peak: 46.434220,14.292107
+region: karavanke
+start: 46.427870,14.272455
 title: Korošica meadow
-x: 445
-y: 143
 ---
