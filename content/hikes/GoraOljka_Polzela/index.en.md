@@ -9,6 +9,6 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/432
 name: GoraOljka_Polzela
 peak: 46.325631,15.058779
-region: savinjska
+region: stajerska
 title: Gora Oljka from Polzela
 ---

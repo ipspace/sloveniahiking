@@ -3,35 +3,19 @@ date: 2004-02-08 00:00:00+00:00
 delta: 600
 description: Čreta pri Kokarjah je vrh v grebenu, ki povezuje Dobroveljsko planoto  z
   Menino planino in tako ločuje Vransko od Zgornje Savinjske doline.
-dirty: true
 duration: 4
 height: 944
-image:
-- M_5_0546.JPG
-- M_5_0542.JPG
-- M_5_0565.JPG
-- M_5_0545.JPG
-- M_5_0544.JPG
-- M_5_0546.JPG
-- M_5_0568.JPG
-- M_5_0569.JPG
-- M_5_0576.JPG
-- M_5_0573.JPG
-- M_5_0578.JPG
-- mapgps.jpg
-- path_1.gif
-- alt.gif
 lead: M_5_0546.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/1305
 name: Creta
 peak: 46.279198,14.960822
-region: savinjska
+region: Kamnik-alps
 title: Čreta z Vranskega
-x: 497
-y: 126
 ---
-{{<figure src="M_5_0546.JPG">}} Čreta pri Kokarjah (ali Kokarju) je vrh v grebenu, ki povezuje Dobroveljsko planoto (na vzhodu) z Menino planino (na zahodu) in tako ločuje Vransko od Zgornje Savinjske doline. Poleg planinskega doma in lepih pašnikov si boste na vrhu lahko ogledali še romarsko baročno cerkev Matere Božje in nekoliko starejšo gotsko cerkev sv. Katarine, z vrha pa je tudi lep razgled na Nazarje, Mozirje in okoliške hribe ter Kamniške Alpe v ozadju. Na Čreto se lahko povzpnete z Vranskega (po dveh poteh), Letuša ali Braslovč, če pa ste pripravljeni hoditi dobre 4 ure (v eno smer), pa se lahko na Čreto odpravite iz Motnika ali Mozirja.
+{{<figure src="M_5_0546.JPG">}}
+
+Čreta pri Kokarjah (ali Kokarju) je vrh v grebenu, ki povezuje Dobroveljsko planoto (na vzhodu) z Menino planino (na zahodu) in tako ločuje Vransko od Zgornje Savinjske doline. Poleg planinskega doma in lepih pašnikov si boste na vrhu lahko ogledali še romarsko baročno cerkev Matere Božje in nekoliko starejšo gotsko cerkev sv. Katarine, z vrha pa je tudi lep razgled na Nazarje, Mozirje in okoliške hribe ter Kamniške Alpe v ozadju. Na Čreto se lahko povzpnete z Vranskega (po dveh poteh), Letuša ali Braslovč, če pa ste pripravljeni hoditi dobre 4 ure (v eno smer), pa se lahko na Čreto odpravite iz Motnika ali Mozirja.
 
 ### Osnovni podatki
 
@@ -79,30 +63,40 @@ Planinska pot skozi gozd je v glavnem položna, le občasno jo popestrijo malce 
 
 Čreta
 -----
+Gozdna cesta v začetku položno teče nad gozdom in nam tako ponuja razglede na Mrzli graben globoko pod nami, nato pa se za prvim potočkom, ki ga prečkamo, spremeni v kolovoz. Ta se začne precej bolj strmo vzpenjati in nas po desetih minutah pripelje do lepo vzdrževane Marijine kapelice in kmetije Podpečan, od koder se spet odpre razgled na Celjsko kotlino in Posavsko hribovje.
 
-{{<figure src="M_5_0565.JPG" caption="Muhasta zima">}} {{<figure src="M_5_0545.JPG" caption="Smrekov gozd pod vrhom Črete">}} {{<figure src="M_5_0544.JPG" caption="Kapelica pri Podpečanu">}}
+{{<figure src="M_5_0565.JPG" caption="Muhasta zima">}}
 
- Gozdna cesta v začetku položno teče nad gozdom in nam tako ponuja razglede na Mrzli graben globoko pod nami, nato pa se za prvim potočkom, ki ga prečkamo, spremeni v kolovoz. Ta se začne precej bolj strmo vzpenjati in nas po desetih minutah pripelje do lepo vzdrževane Marijine kapelice in kmetije Podpečan, od koder se spet odpre razgled na Celjsko kotlino in Posavsko hribovje. Markacije nas od tod usmerijo na enakomerno dvigajoč se kolovoz, ki ga po nekaj sto metrih zapustimo in zavijemo desno navzgor na ozko stezico, ki se hitro vzpenja po pobočju med smrekami.
+Markacije nas od tod usmerijo na enakomerno dvigajoč se kolovoz, ki ga po nekaj sto metrih zapustimo in zavijemo desno navzgor na ozko stezico, ki se hitro vzpenja po pobočju med smrekami.
+
+{{<figure src="M_5_0545.JPG" caption="Smrekov gozd pod vrhom Črete">}} 
 
 Po krajšem vzponu postane stezica precej bolj položna in nas skozi mogočen smrekov gozd pripelje do makadamske ceste, speljane po robu travnikov pod kmetijo Špan, od koder takoj zagledamo Dom na Čreti, za katerim se blešči cerkev sv. Marije.
 
-V Domu na Čreti se lahko ob nedeljah od maja do septembra okrepčate, nato pa se vsekakor splača nadaljevati vzpon do grebena z baročno cerkvijo Matere Božje, od koder se odpre lep razgled na Zgornjo Savinjsko dolino. Do cerkve lahko kot telički stečete naravnost po travnikih navzgor, električni pastirji, s katerimi so prepredeni ti travniki, pa nam dajejo slutiti, da domačini takšnih domislic ne cenijo, zato se bo bolje držati markirane poti. Markacije nas vodijo od doma po kolovozu mimo kapelice in lepega križa, ob katerem boste zagledali naslednjo čudovito bodiko, do Špana, kjer se najprej prebijemo skozi žične prepreke, nato pa sledimo kažipotom proti sv. Joštu. Ti nas po gozdni cesti med travniki pripeljejo nazaj v smrekov gozd, po nekaj minutah vzpona pa do makadamske ceste, kjer zavijemo ostro desno in po nekaj minutah hoje pridemo do cilja, od koder se odpre čudovit pogled na Zgornjo Savinjsko dolino, Golte, Smrekovec in Kamniške Alpe v ozadju.
+{{<figure src="M_5_0546.JPG" caption="Dom na Čreti">}}
 
-{{<figure src="M_5_0546.JPG">}}\
-Dom na Čreti {{<figure src="M_5_0568.JPG">}}\
-Cerkev Matere Božje {{<figure src="M_5_0569.JPG">}}\
-Razgled na Golte {{<figure src="M_5_0576.JPG">}}\
-Cerkev sv. Katarine {{<figure src="M_5_0573.JPG">}}\
-Zima na Čreti
+V Domu na Čreti se lahko ob nedeljah od maja do septembra okrepčate, nato pa se vsekakor splača nadaljevati vzpon do grebena z baročno cerkvijo Matere Božje, od koder se odpre lep razgled na Zgornjo Savinjsko dolino. Do cerkve lahko kot telički stečete naravnost po travnikih navzgor, električni pastirji, s katerimi so prepredeni ti travniki, pa nam dajejo slutiti, da domačini takšnih domislic ne cenijo, zato se bo bolje držati markirane poti.
+
+{{<figure src="M_5_0568.JPG" caption="Cerkev Matere Božje">}}
+
+Markacije nas vodijo od doma po kolovozu mimo kapelice in lepega križa, ob katerem boste zagledali naslednjo čudovito bodiko, do Špana, kjer se najprej prebijemo skozi žične prepreke, nato pa sledimo kažipotom proti sv. Joštu. Ti nas po gozdni cesti med travniki pripeljejo nazaj v smrekov gozd, po nekaj minutah vzpona pa do makadamske ceste, kjer zavijemo ostro desno in po nekaj minutah hoje pridemo do cilja, od koder se odpre čudovit pogled na Zgornjo Savinjsko dolino, Golte, Smrekovec in Kamniške Alpe v ozadju.
+
+{{<figure src="M_5_0569.JPG" caption="Razgled na Golte">}}
 
 Po krajšem počitku si pred vrnitvijo v dolino oglejte še precej manjšo gotsko cerkvico sv. Katarine (od mesta, kjer ste med vzponom prišli do makadamske ceste, je oddaljena le 250 metrov), nato pa se lahko vrnete v dolino po poti, po kateri ste se povzpeli, ali pa se odločite za obisk sv. Jošta (kar bo krajši izlet spremenilo v celodnevno turo) ali za iskanje zanimivih nemarkiranih kolovozov proti Vranskemu.
+
+{{<figure src="M_5_0576.JPG" caption="Cerkev sv. Katarine">}}
 
 Ropasijske blodnje
 ------------------
 
-{{<figure src="M_5_0578.JPG" caption="Razgled s ceste pod Petelinjekom">}}
+Odločil sem se, da bom vzpon na Čreto združil z obiskom [sv. Jošta](../svjost) (ki se mi je izmuznil med enim od prejšnih izletov), a očitno me sv. Jošt še vedno ni bil pripravljen sprejeti \... spust v dolino se je začel obetavno, markacije so me vodile navzdol po makadamski poti mimo sv. Katarine do asfaltne ceste, ki se začne zlagoma spuščati v dolino. 
 
-Odločil sem se, da bom vzpon na Čreto združil z obiskom [sv. Jošta](../svjost) (ki se mi je izmuznil med enim od prejšnih izletov), a očitno me sv. Jošt še vedno ni bil pripravljen sprejeti \... spust v dolino se je začel obetavno, markacije so me vodile navzdol po makadamski poti mimo sv. Katarine do asfaltne ceste, ki se začne zlagoma spuščati v dolino. Po slabih 400 metrih bi bil moral opaziti markiran kolovoz (po njem teče evropska pešpot E6), ki se odcepi v desno, pa sem ga uspešno spregledal, kar me je sicer pripeljalo do enkratnih razgledov na ostrem ovinku južno od Petelinjeka (za Celjsko kotlino, ki leži nekaj sto metrov niže, se vidi celoten greben Posavskega hribovja), žal pa sem med spustom izgubil precej višine in se zato odločil, da se bom raje vrnil na Vransko.
+{{<figure src="M_5_0573.JPG" caption="Zima na Čreti">}}
+
+Po slabih 400 metrih bi bil moral opaziti markiran kolovoz (po njem teče evropska pešpot E6), ki se odcepi v desno, pa sem ga uspešno spregledal, kar me je sicer pripeljalo do enkratnih razgledov na ostrem ovinku južno od Petelinjeka (za Celjsko kotlino, ki leži nekaj sto metrov niže, se vidi celoten greben Posavskega hribovja), žal pa sem med spustom izgubil precej višine in se zato odločil, da se bom raje vrnil na Vransko.
+
+{{<figure src="M_5_0578.JPG" caption="Razgled s ceste pod Petelinjekom">}}
 
 Sodeč po zemljevidu je naloga precej preprosta-- skozi Ropasijo se sprehodiš do prvega odcepa, kjer zaviješ desno proti kmetiji Mlačnik, nato pa pred kmetijo levo navzdol po kolovozu naravnost do Tešove. Mačji kašelj \... le da namesto kolovoza naletiš na pajkovo mrežo širših in ožjih poti in stezic (očitnega kolovoza pa nikjer), kjer moraš pazljivo izbirati smer -- če zaviješ preveč v levo, te poti pripeljejo do kmetije Krničnik (in spet te čaka hoja po asfaltu), če zaviješ preveč v desno, boš končal na Španovem griču. Meni je nekako uspelo slediti črti, zarisani na zemljevidu, ob upoštevanju tega recepta:
 

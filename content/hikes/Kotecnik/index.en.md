@@ -10,6 +10,6 @@ maplink: https://mapzs.projekti.si/poi/360
 name: Kotecnik
 peak: 46.201409,15.181412
 photo_author: Mojca_Lustrek
-region: savinjska
+region: posavje
 title: Gozdnik and Kotečnik
 ---

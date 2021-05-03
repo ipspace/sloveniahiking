@@ -16,7 +16,7 @@ maplink: https://mapzs.projekti.si/poi/1354
 name: Krvavica
 peak: 46.200792,14.993072
 photo_author: Mojca_Lustrek
-region: savinjska
+region: posavje
 title: Krvavica
 ---
 {{<figure src="M_0_3015.JPG">}}

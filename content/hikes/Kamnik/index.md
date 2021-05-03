@@ -12,7 +12,7 @@ maplink: https://mapzs.projekti.si/poi/213
 name: Kamnik
 peak: 46.205663,15.129281
 photo_author: Mojca_Lustrek
-region: savinjska
+region: posavje
 title: Kamnik in Hom
 ---
 {{<figure src="M_008052305.jpg">}}
