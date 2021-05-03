@@ -132,6 +132,10 @@ other="Višinski profil poti"
 [mapAltWarn]
 other="Višina ki jo zabeleži GPS sprejemnik je še bolj nezanesljiva kot pozicija in lahko bistveno odstopa od nadmorskih višin na zemljevidih."
 
+[mapNotes]
+other="**Notes**\n* Rdeče pike na zemljevidu so izleti z opisi;\n* Sive pike so izleti brez opisov;\n* Zelene pike so kolesarske ture (s kratkimi angleškimi opisi)."
+
+
 [migrated]
 other="Pred kratkim smo naše vsebine z zaplana.net preselili na novo spletno stran."
 
@@ -148,4 +152,10 @@ other="Fotografije"
 other="Zadnje spremembe"
 
 [regions]
-other="Področja"
+other="Pokrajine"
+
+[regionsRanges]
+other="Gorovja in hribovja"
+
+[regionsFeatured]
+other="Priporočamo"

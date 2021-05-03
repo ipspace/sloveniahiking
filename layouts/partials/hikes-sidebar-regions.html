@@ -1,8 +1,22 @@
 {{ with $.Site.GetPage "/region" }}
 <div class="regbox decorated">
+  <h3 class="sidebar__title">{{ i18n "regionsFeatured" }}</h3>
+  <ul>
+    {{ range (where .Pages "Params.featured" true).ByTitle }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+
+  <h3 class="sidebar__title">{{ i18n "regionsRanges" }}</h3>
+  <ul>
+    {{ range (where .Pages "Params.range" true).ByTitle }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+
   <h3 class="sidebar__title">{{ i18n "regions" }}</h3>
   <ul>
-    {{ range .Pages.ByTitle }}
+    {{ range (where (where .Pages "Params.featured" "eq" nil) "Params.range" "eq" nil).ByTitle }}
       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
