@@ -10,7 +10,7 @@ gpx:
     lat: 45.97335728322408
     lon: 14.207557249445014
   file: Rovte.gpx
-  modified: 1618940324.6757452
+  modified: 1618940324
 height: 730
 layout: structured
 lead: M_20210329_122726.jpg

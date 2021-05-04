@@ -7,7 +7,7 @@ gpx:
     lat: 46.285928350000006
     lon: 14.666857499999999
   file: Volovljek.gpx
-  modified: 1619847941.9068966
+  modified: 1619847941
   zoom: 14
 height: 1666
 layout: stub

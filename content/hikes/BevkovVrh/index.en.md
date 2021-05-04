@@ -7,7 +7,7 @@ gpx:
     lat: 46.084030850000005
     lon: 14.0185183
   file: BevkovVrh.gpx
-  modified: 1619850043.7309654
+  modified: 1619850043
   zoom: 14
 height: 1051
 layout: stub

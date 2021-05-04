@@ -12,7 +12,7 @@ gpx:
     lat: 45.49239090848512
     lon: 13.798265281361623
   file: MarezigeBorst.gpx
-  modified: 1618931180.6590192
+  modified: 1618931180
 height: 392
 layout: structured
 lead: M_20210420_104635.jpg

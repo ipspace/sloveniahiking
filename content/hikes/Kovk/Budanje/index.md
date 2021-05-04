@@ -9,7 +9,7 @@ gpx:
     lat: 45.883640495152534
     lon: 13.964174070331708
   file: Budanje-Kovk.gpx
-  modified: 1614931899.4509637
+  modified: 1614931899
   zoom: 15
 height: 961
 lead: M_0_00679.JPG

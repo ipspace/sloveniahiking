@@ -12,7 +12,7 @@ gpx:
     lat: 45.5799725
     lon: 14.423424
   file: Sneznik.gpx
-  modified: 1617544711.734761
+  modified: 1617544711
   zoom: 14
 height: 1796
 lead: M_8-1813_IMG.JPG

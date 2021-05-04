@@ -13,7 +13,7 @@ gpx:
     lat: 45.88309646774036
     lon: 13.960826883109753
   file: Soncnica.gpx
-  modified: 1614874405.1292622
+  modified: 1614874405
   zoom: 15
 height: 867
 layout: structured
