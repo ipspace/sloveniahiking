@@ -320,7 +320,6 @@
       "sl": "\u010creta pri Kokarjah je vrh v grebenu, ki povezuje Dobroveljsko planoto  z Menino planino in tako lo\u010duje Vransko od Zgornje Savinjske doline.",
       "en": null
     },
-    "dirty": true,
     "duration": 4,
     "height": 944,
     "lead": "M_5_0546.JPG",
@@ -328,13 +327,11 @@
     "maplink": "https://mapzs.projekti.si/poi/1305",
     "name": "Creta",
     "peak": "46.279198,14.960822",
-    "region": "savinjska",
+    "region": "Kamnik-alps",
     "title": {
       "sl": "\u010creta z Vranskega",
       "en": "Vransko - \u010creta"
-    },
-    "x": 497,
-    "y": 126
+    }
   },
   {
     "date": "2005-09-04 00:00:00+00:00",
@@ -1058,7 +1055,7 @@
     "name": "Kotecnik",
     "peak": "46.201409,15.181412",
     "photo_author": "Mojca_Lustrek",
-    "region": "savinjska",
+    "region": "posavje",
     "title": {
       "sl": "Gozdnik in Kote\u010dnik",
       "en": "Gozdnik and Kote\u010dnik"
@@ -1172,7 +1169,7 @@
         "lon": 14.666857499999999
       },
       "file": "Volovljek.gpx",
-      "modified": 1619847941.9068966,
+      "modified": 1619847941,
       "zoom": 14
     },
     "height": 1666,
@@ -1684,7 +1681,7 @@
         "lon": 14.0361825
       },
       "file": "AbramPlesa.gpx",
-      "modified": 1619849785.480787
+      "modified": 1619849785
     },
     "height": 1262,
     "lead": "M_20210223_101205.jpg",
@@ -2053,7 +2050,7 @@
         "lon": 14.423424
       },
       "file": "Sneznik.gpx",
-      "modified": 1617544711.734761,
+      "modified": 1617544711,
       "zoom": 14
     },
     "height": 1796,
@@ -2283,7 +2280,7 @@
         "lon": 14.0185183
       },
       "file": "BevkovVrh.gpx",
-      "modified": 1619850043.7309654,
+      "modified": 1619850043,
       "zoom": 14
     },
     "height": 1051,
@@ -2970,7 +2967,7 @@
     "name": "Kamnik",
     "peak": "46.205663,15.129281",
     "photo_author": "Mojca_Lustrek",
-    "region": "savinjska",
+    "region": "posavje",
     "title": {
       "sl": "Kamnik in Hom",
       "en": "Kamnik and Hom"
@@ -3488,7 +3485,7 @@
     "maplink": "https://mapzs.projekti.si/poi/432",
     "name": "GoraOljka_Polzela",
     "peak": "46.325631,15.058779",
-    "region": "savinjska",
+    "region": "stajerska",
     "title": {
       "sl": "Gora Oljka iz Polzele",
       "en": "Gora Oljka from Polzela"
@@ -3553,7 +3550,7 @@
         "lon": 13.964174070331708
       },
       "file": "Budanje-Kovk.gpx",
-      "modified": 1614931899.4509637,
+      "modified": 1614931899,
       "zoom": 15
     },
     "height": 961,
@@ -3923,7 +3920,7 @@
         "lon": 14.258263655272447
       },
       "file": "KurenPlanina.gpx",
-      "modified": 1619706286.0539496,
+      "modified": 1619706286,
       "zoom": 15
     },
     "height": 735,
@@ -4124,7 +4121,7 @@
         "lon": 13.960826883109753
       },
       "file": "Soncnica.gpx",
-      "modified": 1614874405.1292622,
+      "modified": 1614874405,
       "zoom": 15
     },
     "height": 867,
@@ -4345,7 +4342,7 @@
         "lon": 13.83224585
       },
       "file": "Abitanti.gpx",
-      "modified": 1619847644.6805034
+      "modified": 1619847644
     },
     "height": 418,
     "lead": "M_1_10002.JPG",
@@ -4568,7 +4565,7 @@
     "name": "Krvavica",
     "peak": "46.200792,14.993072",
     "photo_author": "Mojca_Lustrek",
-    "region": "savinjska",
+    "region": "posavje",
     "title": {
       "sl": "Krvavica",
       "en": "Krvavica"
@@ -4744,5 +4741,28 @@
     "video": "https://www.relive.cc/view/vdvmDAB81xq/",
     "type": "biking",
     "center": "45.973357,14.207557"
+  },
+  {
+    "date": "2021-05-04 15:33:16+00:00",
+    "delta": 520,
+    "description": {
+      "en": "Karst Edge is the wondrous land where the limestone cliffs of continental Slovenia meet the soft flysch landscape of lower Slovenian Istria. This time we'll explore dirt tracks on its easternmost part -- from Podgorje to Kav\u010di\u010d.\n"
+    },
+    "difficulty": "Bad gravel roads and rocky dirt tracks. Wide-tire mountain bike is highly recommended.\n",
+    "duration": 3.5,
+    "height": 880,
+    "layout": "structured",
+    "lead": "M_20210504_095743.jpg",
+    "length": 22,
+    "maplink": "https://mapzs.projekti.si/path/32452",
+    "name": "PodgorjeKavcic",
+    "region": "istria",
+    "start": "45.531420,13.947151",
+    "title": {
+      "en": "Up, Down and Around the Karst Edge"
+    },
+    "video": "https://www.relive.cc/view/vZqNnDKy93q/",
+    "type": "biking",
+    "center": "45.498952,13.956112"
   }
 ]
