@@ -27,7 +27,7 @@ startpoint: Podgorje
 title: Up, Down and Around the Karst Edge
 video: https://www.relive.cc/view/vZqNnDKy93q/
 ---
-Karst Edge is the wondrous land where the limestone cliffs of continental Slovenia meet the soft flysch landscape of lower Slovenian Istria. This time we''ll explore dirt tracks on its easternmost part -- from Podgorje to [Kavčič](../../hikes/Kavcic).
+Karst Edge is the wondrous land where the limestone cliffs of continental Slovenia meet the soft flysch landscape of lower Slovenian Istria. This time we''ll explore dirt tracks on its easternmost part -- from Podgorje to [Kavčič](../../hikes/kavcic).
   
 {{<hike-details>}}
 
