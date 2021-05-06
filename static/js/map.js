@@ -87,7 +87,7 @@ function processHikeData(json,map,lang) {
         point.icon  = icon.biking;
       } else {
         point.title = hike_data.title[lang || 'sl'];
-        point.url   = (lang ? "/" + lang : "") + "/hikes/" + hike_data.name.toLowerCase();
+        point.url   = (lang && lang != "sl" ? "/" + lang : "") + "/hikes/" + hike_data.name.toLowerCase();
         point.icon  = hike_data.multipath ? icon.start : icon.peak;
       }
       if (!hike_data.description[lang]) {
