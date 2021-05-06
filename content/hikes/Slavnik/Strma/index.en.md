@@ -13,5 +13,6 @@ name: Slavnik/Strma
 peak: 45.533685,13.975236
 region: istria
 start: 45.531420,13.947151
+startpoint: Podgorje
 title: Slavnik from Podgorje (steep path)
 ---

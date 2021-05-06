@@ -12,9 +12,8 @@ name: Kojnik
 peak: 45.506877,13.951764
 region: istria
 start: 45.531420,13.947151
+startpoint: Podgorje
 title: Na Kojnik iz Podgorja
-x: 418
-y: 40
 ---
 {{<figure src="M_0-4054_IMG.JPG">}}
 Kojnik je položen vrh v grebenu nad Kraškim robom južno od Slavnika. Podobno kot s Slavnika boste imeli tudi s Kojnika lep razgled na slovensko morje in Istro, razgled proti severu (Nanos, [Vremščica](../vremscica/)) pa vam bo zakrival [Slavnik](../slavnik/). Če hočete uživati v razgledu, bo torej Slavnik bolj primeren cilj, če pa iščete lažji vzpon, združen s prijetnim sprehodom po skalah tik nad Kraškim robom, pa se raje povzpnite na Kojnik.

@@ -10,7 +10,6 @@ name: Kojnik
 peak: 45.506877,13.951764
 region: istria
 start: 45.531420,13.947151
+startpoint: Podgorje
 title: Kojnik from Podgorje
-x: 418
-y: 40
 ---

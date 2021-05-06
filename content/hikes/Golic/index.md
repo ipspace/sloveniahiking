@@ -30,11 +30,14 @@ name: Golic
 peak: 45.486241,13.978104
 region: istria
 start: 45.531420,13.947151
+startpoint: Podgorje
 title: Golič
 x: 421
 y: 39
 ---
-{{<figure src="M_0_0030.JPG">}} Južno od Slavnika, kjer se slovenski hribi še zadnjič povzpnejo nad 1000 metrov, preden se dokončno vdajo v usodo in se spustijo proti Piranskemu zalivu, boste na sosednjem grebenu, ki se zlagoma dviga nad Podgorskim krasom in na drugi strani čez Kraški rob strmo pade proti Bržaniji, našli pokrajino, v kateri se je čas ustavil -- prostrane, razgledne kraške travnike v okolici Goliča. Položni travniki vas bodo prijazno sprejeli v vseh letnih časih, najlepši pa bodo nedvomno v pozni pomladi, ko tod zacvetijo kojniške perunike in košutniki.
+{{<figure src="M_0_0030.JPG">}}
+
+Južno od Slavnika, kjer se slovenski hribi še zadnjič povzpnejo nad 1000 metrov, preden se dokončno vdajo v usodo in se spustijo proti Piranskemu zalivu, boste na sosednjem grebenu, ki se zlagoma dviga nad Podgorskim krasom in na drugi strani čez Kraški rob strmo pade proti Bržaniji, našli pokrajino, v kateri se je čas ustavil -- prostrane, razgledne kraške travnike v okolici Goliča. Položni travniki vas bodo prijazno sprejeli v vseh letnih časih, najlepši pa bodo nedvomno v pozni pomladi, ko tod zacvetijo kojniške perunike in košutniki.
 
 ### Osnovni podatki
 

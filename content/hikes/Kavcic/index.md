@@ -6,22 +6,18 @@ description: Za ljubitelje rož je obisk doline Zalipnik med Goličem in Kraški
   vrh Kraškega roba.
 duration: 3
 height: 883
-image:
-- M_5_2520.JPG
-- M_5_2521.JPG
-- Lipnik.jpg
-- Golic.jpg
-- map.jpg
-- alt.gif
 lead: M_5_2520.JPG
 maplink: https://mapzs.projekti.si/path/32452
 name: Kavcic
 peak: 45.471239,13.983605
 region: istria
 start: 45.531420,13.947151
+startpoint: Podgorje
 title: Kavčič iz Podgorja
 ---
-{{<figure src="M_5_2520.JPG">}} Za ljubitelje rož je obisk doline Zalipnik med [Goličem](../golic) in Kraškim robom v maju skorajda obvezen. Do te doline vas pripeljejo precej dolgi krožni izleti na [Golič](../golic) ali [Lipnik](../lipnik) (čez Golič naberete skupaj blizu 20 kilometrov), lahko pa se tja podate tudi z gorskim kolesom. V tem primeru vam verjetno ne bo odveč planinski zaključek izleta na Kavčič; zadnji slovenski vrh nad Kraškim robom je kot nalašč za to.
+{{<figure src="M_5_2520.JPG">}}
+
+Za ljubitelje rož je obisk doline Zalipnik med [Goličem](../golic) in Kraškim robom v maju skorajda obvezen. Do te doline vas pripeljejo precej dolgi krožni izleti na [Golič](../golic) ali [Lipnik](../lipnik) (čez Golič naberete skupaj blizu 20 kilometrov), lahko pa se tja podate tudi z gorskim kolesom. V tem primeru vam verjetno ne bo odveč planinski zaključek izleta na Kavčič; zadnji slovenski vrh nad Kraškim robom je kot nalašč za to.
 
 ### Osnovni podatki
 

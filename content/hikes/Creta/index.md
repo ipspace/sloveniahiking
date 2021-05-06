@@ -10,7 +10,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1305
 name: Creta
 peak: 46.279198,14.960822
-region: Kamnik-alps
+region: kamnik-alps
 title: Čreta z Vranskega
 ---
 {{<figure src="M_5_0546.JPG">}}

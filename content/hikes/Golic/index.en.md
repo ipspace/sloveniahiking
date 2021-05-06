@@ -28,6 +28,7 @@ name: Golic
 peak: 45.486241,13.978104
 region: istria
 start: 45.531420,13.947151
+startpoint: Podgorje
 title: Golič
 x: 421
 y: 39

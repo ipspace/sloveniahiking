@@ -13,6 +13,7 @@ name: Slavnik/Podgorje
 peak: 45.533685,13.975236
 region: istria
 start: 45.531420,13.947151
+startpoint: Podgorje
 title: Slavnik in Grmada iz Podgorja
 ---
 Najkrajše poti na [Slavnik](../) vodijo iz Podgorja, kraške vasice južno od Slavnika. Od tod se lahko na Slavnik odpravimo po strmi poti (ki si zasluži to ime), položni poti (kjer se skorajda ne boste niti preznojili) ali po množici stezic in kolovozov, ki se vzpenjajo po pobočjih Slavnika.
