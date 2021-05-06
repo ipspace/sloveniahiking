@@ -1,4 +1,9 @@
+{{ $startpage := .GetPage (.Params.startpoint | default "None" | printf "/hikes/%s") }}
 <dl class='flower__data'>
+  {{ if $startpage }}
+    <dt>{{ i18n "hikeStarting"}}</dt>
+    <dd><a href="{{ $startpage.Permalink }}">{{ $startpage.Title}}</a></dd>
+  {{ end }}
   {{ if or .Params.start .Params.peak }}
     <dt>{{ i18n "hikeCoordinates" }}</dt>
     <dd>

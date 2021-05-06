@@ -4,7 +4,7 @@
     "delta": 440,
     "description": {
       "sl": "Za ljubitelje ro\u017e je obisk doline Zalipnik med Goli\u010dem in Kra\u0161kim robom v maju skorajda obvezen. Ta izlet lahko zaklju\u010dite z vzponom na Kav\u010di\u010d, zadnji slovenski vrh Kra\u0161kega roba.",
-      "en": null
+      "en": "If you like wildflowers, you MUST visit Zalipnik valley between Goli\u010d and Karst edge in early May, and while you're there, try to find [Slender Fritillary](https://en.wikipedia.org/wiki/Fritillaria_orientalis) on the northern slopes of Kav\u010di\u010d, the last peak before the Slovenia-Croatia border.\n"
     },
     "duration": 3,
     "height": 883,
@@ -14,6 +14,7 @@
     "peak": "45.471239,13.983605",
     "region": "istria",
     "start": "45.531420,13.947151",
+    "startpoint": "Podgorje",
     "title": {
       "sl": "Kav\u010di\u010d iz Podgorja",
       "en": "Kav\u010di\u010d"
@@ -104,6 +105,7 @@
     "peak": "45.533685,13.975236",
     "region": "istria",
     "start": "45.531420,13.947151",
+    "startpoint": "Podgorje",
     "title": {
       "sl": "Strma pot na Slavnik iz Podgorja",
       "en": "Slavnik from Podgorje (steep path)"
@@ -143,6 +145,7 @@
     "peak": "45.533685,13.975236",
     "region": "istria",
     "start": "45.531420,13.947151",
+    "startpoint": "Podgorje",
     "title": {
       "sl": "Slavnik in Grmada iz Podgorja",
       "en": "Slavnik and Grmada from Podgorje"
@@ -327,7 +330,7 @@
     "maplink": "https://mapzs.projekti.si/poi/1305",
     "name": "Creta",
     "peak": "46.279198,14.960822",
-    "region": "Kamnik-alps",
+    "region": "kamnik-alps",
     "title": {
       "sl": "\u010creta z Vranskega",
       "en": "Vransko - \u010creta"
@@ -2219,6 +2222,7 @@
     "peak": "45.486241,13.978104",
     "region": "istria",
     "start": "45.531420,13.947151",
+    "startpoint": "Podgorje",
     "title": {
       "sl": "Goli\u010d",
       "en": "Goli\u010d"
@@ -2988,12 +2992,11 @@
     "peak": "45.506877,13.951764",
     "region": "istria",
     "start": "45.531420,13.947151",
+    "startpoint": "Podgorje",
     "title": {
       "sl": "Na Kojnik iz Podgorja",
       "en": "Kojnik from Podgorje"
-    },
-    "x": 418,
-    "y": 40
+    }
   },
   {
     "date": "2005-03-19 00:00:00+00:00",
@@ -4473,6 +4476,23 @@
     }
   },
   {
+    "date": "2021-05-06 06:00:00+00:00",
+    "description": {
+      "sl": "Podgorje je idealno izhodi\u0161\u010de za izlete na Slavnik in raziskovanje vzhodnega dela Kra\u0161kega roba.",
+      "en": "Podgorje is the ideal starting point for a quick hike to Slavnik, or for a day-long exploration of eastern parts of Karst edge."
+    },
+    "lead": "M_0-4026_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1531",
+    "name": "Podgorje",
+    "layout": "start",
+    "peak": "45.531420,13.947151",
+    "region": "istria",
+    "title": {
+      "sl": "Podgorje",
+      "en": "Podgorje"
+    }
+  },
+  {
     "date": "2005-05-07 00:00:00+00:00",
     "delta": 250,
     "description": {
@@ -4758,6 +4778,7 @@
     "name": "PodgorjeKavcic",
     "region": "istria",
     "start": "45.531420,13.947151",
+    "startpoint": "Podgorje",
     "title": {
       "en": "Up, Down and Around the Karst Edge"
     },

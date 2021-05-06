@@ -1,6 +1,10 @@
 <p class="buttonRow">
-  {{ with .Params.start }}
-    <a href="https://www.google.com/maps/search/?api=1&query={{ . }}" class="buyButton secondary" target="_blank">{{ i18n "hikeStarting" }}</a>
+  {{ $startpage := .GetPage (.Params.startpoint | default "None" | printf "/hikes/%s") }}
+  {{ if $startpage }}
+      <a href="{{ $startpage.Permalink }}" class="buyButton secondary" target="_blank">{{ i18n "hikeStarting" }}</a>  {{ else }}
+    {{ with .Params.start }}
+      <a href="https://www.google.com/maps/search/?api=1&query={{ . }}" class="buyButton secondary" target="_blank">{{ i18n "hikeStarting" }}</a>
+    {{ end }}
   {{ end }}
   {{ with .Params.alt }}
     {{ with .start }}

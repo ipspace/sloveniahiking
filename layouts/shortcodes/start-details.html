@@ -1,0 +1,15 @@
+{{ with $.Page }}
+  {{ if .Params.peak }}
+<dl class='flower__data'>
+  <dt>{{ i18n "hikeStart" }}</dt>
+  <dd>
+    {{ .Params.peak }}
+  </dd>
+</dl>
+<p class="buttonRow">
+    {{ with .Params.peak }}
+    <a href="https://www.google.com/maps/search/?api=1&query={{ . }}" class="buyButton secondary" target="_blank">{{ i18n "hikeStarting" }}</a>
+    {{ end }}
+</p>
+  {{ end }}
+{{ end }}

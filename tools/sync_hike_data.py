@@ -32,7 +32,7 @@ def sync_hike_data(si_path):
   en_page = cm.read.page(en_path)
   en_yaml = yaml.dump(en_page)
 
-  for key in ('delta','duration','height','lead','multilead','multipath','maplink','start','peak','video','region'):
+  for key in ('delta','duration','height','lead','multilead','multipath','maplink','start','startpoint','peak','video','region'):
     si_val = si_page.get(key)
     en_val = en_page.get(key)
     if not si_val and not en_val:
