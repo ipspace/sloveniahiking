@@ -6,8 +6,10 @@ height: 1021
 layout: stub
 lead: M_2-6242.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1230
 name: Tosc
+peak: 46.097448,14.321274
+region: notranjska
+start: 46.076165,14.313252
 title: Tošč through Mačkov graben
-x: 448
-y: 106
 ---

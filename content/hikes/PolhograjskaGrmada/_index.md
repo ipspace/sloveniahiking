@@ -9,6 +9,7 @@ lead: M_0-5040_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/196
 name: PolhograjskaGrmada
 peak: 46.083811,14.332903
+region: notranjska
 title: Polhograjska Grmada
 x: 449
 y: 105

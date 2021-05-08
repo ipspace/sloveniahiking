@@ -1,19 +1,21 @@
 ---
 author: Mojca_Lustrek
-date: '2007-10-21T00:00:00'
+date: 2007-10-21 00:00:00+00:00
 delta: 1002
 description: Strélovec  je zadnji pomembnejši vrh v grebenu Ojstrica–Krofička–Robanov
   kot.
-dirty: true
 duration: 6
 height: 1763
+maplink: https://mapzs.projekti.si/poi/741
 name: Strelovec
+peak: 46.394324,14.658004
 photo_author: Mojca_Lustrek
+region: kamnik-alps
 title: Strelovec
-x: 474
-y: 139
 ---
-{{<figure src="M_007102001.jpg">}} Strélovec (v vodniku je napačen naglas na ó, vsaj okoličani pravijo tako) je zadnji pomembnejši vrh v grebenu Ojstrica--Krofička--Robanov kot. Nanj vodi več poti:
+{{<figure src="M_007102001.jpg">}}
+
+Strélovec (v vodniku je napačen naglas na ó, vsaj okoličani pravijo tako) je zadnji pomembnejši vrh v grebenu Ojstrica--Krofička--Robanov kot. Nanj vodi več poti:
 
 1.  od Koče na Klemenči jami: a) čez Puklóvc ali b) čez Plésnikovo in Icmanikovo planino,
 2.  iz Logarske doline: a) čez Plesnikovo in Icmanikovo planino ali b) po grapi Palenka,
@@ -31,7 +33,7 @@ pa morebiti še katera.
 :   Začnemo na enem izmed parkirišč v Logarski dolini.
 
 **Dolžina**
-:   Čez[Klemenčo jamo](../klemencajama)in Puklovc:
+:   Čez[Klemenčo jamo](../klemencajama) in Puklovc:
 
 **Višina**
 :   1763 m
@@ -83,31 +85,37 @@ Pozimi pot s Puklovca na Strelovec ni priporočljiva, razen če jo poznate ali �
 Čez Plesnikovo in Icmanikovo planino
 ------------------------------------
 
-{{<figure src="M_007102007.jpg" caption="">}}
-{{<figure src="M_007102011.jpg">}}
-
 S parkirišča nasproti hotela Plesnik se napotimo po dolini proti turistični kmetiji Plesnik (770 m), na kateri je plošča v spomin na angloameriško vojaško misijo leta 1944. Zavijemo levo (ne desno, kjer grozi hud pes) in mimo hiše št. 11a do zadnje kmetije (Lenar, št. 11). Za njo se podamo desno v breg in na lesi je prva markacija (pot 2.a). Po četrt ure dosežemo kolovoz in v hribu onkraj ceste je skala z markacijo, ki pa je čisto zakrita. Puščica kaže desno na nekaj, čemur domačini pravijo vlaka, v knjigi piše gozdna cesta, še najbolj pa je podobno kolovozu. Junija ob njem cveto kukavice, orlice, velecvetni naprsteci, lepki osati, lučniki in številne rumene košarnice. Vodnik opisuje pot kot slabo označeno in po njem bi bilo treba iskati stare markacije, na mestih, kjer je nekdanjo pot presekala traktorska cesta, pa naj bi skušali najti odrezana nadaljevanja poti. V resnici je vse skupaj dosti bolj preprosto. Ves čas hodimo po cesti/kolovozu/vlaki in se ne damo zapeljati starim markacijam, ampak na vseh križiščih in razcepih samo ubogamo lesene kažipote, na katerih je narisana Knafelčeva markacija.
 
-{{<figure src="M_007102008.jpg" caption="">}}
-{{<figure src="M_007102009.jpg">}}
+{{<gallery>}}
+{{<figure src="M_007102007.jpg">}}
+{{<figure src="M_007102011.jpg">}}
+{{<figure src="M_007102008.jpg">}}
+{{</gallery>}}
 
 Vztrajno se cikcakasto vzpenjamo, ponekod prav strmo. Po kake tričetrt ure nas skušata popolnoma novi markacija in puščica zvabiti levo, a hitro spoznamo, da tam poti sploh ni pa tudi podrast je pregosta, da bi se prebijali skoznjo, zato nadaljujemo po glavni poti. Po slabih 15 minutah se znajdemo na razcepu na nekakšnem sedelcu in levi krak nas kmalu pripelje do lese. Svet se odpre v **Plesnikovo planino** (1319 m). Na razcepu kolovozov ni oznak, daleč levo s poti pa na smreki opazimo rdečo tablico, ki kaže proti *Icma**nk**ovi* planini in Strelovcu. Desno od razcepa je na planini že videti streho lesenjače. Izkaže se, da sta dve. Pri prvi kupi desk pričajo o obnovitvenih namenih, skozi vrata druge pa nas radovedno ogledujejo krave. Nad kočama je ob skupini skal nekaj velikih smrek (prijeten kotiček za počitek) in na eni so kažipoti: naprej *Koča na Jami 1 ura*, nazaj *Logarska dolina* in *Plesnik*, levo pa *Strelovec 1½ ure* in *Icmankova planina 1 uro* (po knjigi poldrugo). Tam okoli cveti nekaj enocvetk. Vrnemo se k prej omenjeni rdeči tablici, preplezamo žičnato ograjo in steza nas z novimi markacijami odpelje v iglasti gozd.
 
-{{<figure src="M_007102002.jpg">}}
-
 Takoj prečkamo kolovoz (po njem gremo le kakih 10 m levo) in po dobrih 5 minutah še suho grapo. Po ozki stezici, ki nekoliko visi, se rahlo spuščamo vzporedno s pobočjem in čez 5 minut sledi siten spust v prvo Palenkovo grapo, po kateri teče majcen potoček, iz nje pa se je tudi kar težko prebiti, tako strm in zaraščen je breg. Brž zatem se spustimo v naslednjo grapo, pravzaprav sta kar dve skupaj. Pod listjem je razmočena zemlja, zato je zelo spolzko. Robove gozda zaljšajo pravi rumeni slapovi nagnojevih cvetov. Pot nadaljujemo s strmim vzponom ob tretji grapi, ki teče na naši desni, nato pa nas ključi odpeljejo od nje. Grap na tem koncu res ne manjka (glejte tudi opombo o poti 1.b). Po četrt ure dosežemo nekakšen rob; pod nami je prepad, v desno pa se nekoliko pokaže dolina. Nagnojeve »zavese« so še bogatejše. Čez čas zagledamo pod seboj Plesnikovo planino. Potka je zelo ozka, neprijetno visi, kar je še posebej kočljivo, ker je spolzka ali pa se pod nogami spodmika pesek, sicer pa hudo strmino kar dobro blažijo lepo speljani ključi. Po dobrih 10 minutah pridemo do lovske koče. Tik nad njo je na debeli smreki napis *Log. dol.* (puščica v levo in markacija; to je pot nad slapom Palenk k hotelu Plesnik -- 2.b, nepreizkušena), mi pa gremo naravnost. Takoj zatem je razcep: levi krak je bolj strm, desni pa položnejši, ob pobočju. Oznak ni, sicer pa se kraka kmalu združita. Po dobrih 5 minutah zagazimo v ščavje (pozor, koprive!) in se znajdemo na sedelcu. Kažipoti: naprej *Solčava*, nazaj *Klemenča jama 1½ ure*, *Plesnikova planina 45 min.* in *Logarska dolina 1.5 ure*, desno *Strelovec ¾ ure*, levo pa *Logarska peč, razgledna točka 5 min.* Podamo se na **Logarsko peč** (1536 m) ter se razgledamo po Logarski dolini in Plesnikovi planini. Zdi se, da pridejo vse živali daleč naokrog kakat ravno na tisti kvadratni meter skale. Vrnemo se na sedelce in si ogledamo še **Icmanikovo planino** pod njim. Ob leseni koči stojijo miza in klopi, ob najinem obisku pa ni bilo ne ljudi ne živine.
 
+{{<gallery>}}
+{{<figure src="M_007102002.jpg">}}
+{{<figure src="M_007102009.jpg">}}
 {{<figure src="M_007102012.jpg">}}
+{{</gallery>}}
 
 S cvetočega travnika se odpravimo za kažipotom skozi redek iglasti gozd, kjer cvetijo orlice, pogačice, gozdne krvomočnice in navadni lusneci (teh zlepa ne vidimo toliko na kupu. Po kakih 20 minutah na desni spet zagledamo Plesnikovo planino. Šuma v grmovju tukaj ne povzročajo gozdne živali, ampak se pred nami razbežijo ovce, ki se pasejo tam. V 10 minutah stopimo na prijazen razgleden greben. Najprej nam na desni pritegne pogled postavna grofična [Krofička](http://pohribih.blogspot.com/2007/09/grofika-krofika-2083-m.html) in šele nato opazimo krivenčast macesen s kažipoti: desno *Koča na Jami* in *Krofička*, naravnost navzdol *Rogovil**e**c*, levo pa *Vrh Strelovca*. Obrnemo se v levo proti cilju in desno v daljavi vidimo Raduho. Če preveč uživamo v razgledu, se le stežka ognemo posrečeni kombinaciji mravljišča in lepih šopkov kopriv. Prej kot v 15 minutah dosežemo vrh.
 
 Strelovec
 ---------
 
-{{<figure src="M_007102001.jpg">}}
-
 Na vrhu nas pričaka še več kopriv in ovčje stranišče, zato kraj ni preveč primeren za malico (prostora je malo, ovc pa kar precej!). Vpisna skrinjica je vsa rjasta in obtolčena, pušča in res daje vtis, da je tam že od *28. junija 1953* (PD Solčava). Eno pa je treba priznati: s Strelovca je imeniten razgled na Križevnik, Ojstrico, Planjavo in Brano, Tursko goro, Rinke \... Če je seveda jasno vreme. Počitek in kar sodi zraven pa se zelo prileže nekoliko niže na grebenu s pogledom na Krofičko. Nama je ob tisti priložnosti tako pihala na dušo, da sva jo kmalu obiskala (tudi ta opis še pride na vrsto).
 
-{{<figure src="M_007102010.jpg">}} Ko se odločimo za vrnitev, se spustimo do mesta, kjer smo dosegli greben, nato pa naprej proti Krofički. Desno spodaj zagledamo Plesnikovo planino. Prijetna in zelo razgledna pot teče malo po gozdu, malo po odprtem, vendar v mokrem na skalah, koreninah in blatu rado zdrsne, na enem mestu pa je treba zlesti čez nekaj skal. Markacije so večinoma stare in po tleh. Po 25 minutah zagledamo nekoliko nenavadno poseko, na kateri so trem drevesom pustili nekaj več debla, ne le štor, in dve pokrili s skalama, eno pa s kosom lesa in na slednjem je vrezan križ. Nasproti tem »spomenikom« pa sta leseni koriti, v kateri curlja voda. Po suhih odžaganih vejah visijo modri cvetki planinskega srobota, da so videti kot okrašeno božično drevesce. Spuščamo se po pobočjih pod Movznikom in pod stenami Ut.
+{{<gallery>}}
+{{<figure src="M_007102010.jpg">}}
+{{<figure src="M_007102001.jpg">}}
+{{<figure src="M_007102006.jpg">}}
+{{</gallery>}}
 
-{{<figure src="M_007102006.jpg">}} Po dobrih 10 minutah pridemo iz gozda; levo spet zagledamo Krofičko, desno pa gozdnato sleme Puklovc. Ob poti je veliko pogačic in ko bo čas za rododendron (sleč), bo vse rožnato. Čez slabih 10 minut se znajdemo na melišču, ki ga je pozimi zasul snežni plaz. Če bi bila tostran dovolj visoko (ne na tleh) markacija, ki bi jo bilo videti s Puklovca, ne bi bilo težav, tako pa se poskus priti na Strelovec po tej poti [ni posrečil](http://pohribih.blogspot.com/2007/04/strelovec-dela-teave.html). V kopnem lahko vidimo markirano skalo, pa še ta se je odlomila in se zvalila po bregu. Do razcepa poti na Krofičko in Strelovec na slemenu Puklovca je le še nekaj korakov med številnimi rumenimi cvetki dvocvetnih vijolic. Med spustom doživimo nov »naval« nagnoja. V pol ure smo pri najdebelejšem slovenskem macesnu in manj kot 5 minut zatem na Klemenči jami. Od tu do avtomobila v Logarski dolini pa po izbiri (glejte pri [Klemenči jami](../klemencajama)).
+Ko se odločimo za vrnitev, se spustimo do mesta, kjer smo dosegli greben, nato pa naprej proti Krofički. Desno spodaj zagledamo Plesnikovo planino. Prijetna in zelo razgledna pot teče malo po gozdu, malo po odprtem, vendar v mokrem na skalah, koreninah in blatu rado zdrsne, na enem mestu pa je treba zlesti čez nekaj skal. Markacije so večinoma stare in po tleh. Po 25 minutah zagledamo nekoliko nenavadno poseko, na kateri so trem drevesom pustili nekaj več debla, ne le štor, in dve pokrili s skalama, eno pa s kosom lesa in na slednjem je vrezan križ. Nasproti tem »spomenikom« pa sta leseni koriti, v kateri curlja voda. Po suhih odžaganih vejah visijo modri cvetki planinskega srobota, da so videti kot okrašeno božično drevesce. Spuščamo se po pobočjih pod Movznikom in pod stenami Ut.
+
+Po dobrih 10 minutah pridemo iz gozda; levo spet zagledamo Krofičko, desno pa gozdnato sleme Puklovc. Ob poti je veliko pogačic in ko bo čas za rododendron (sleč), bo vse rožnato. Čez slabih 10 minut se znajdemo na melišču, ki ga je pozimi zasul snežni plaz. Če bi bila tostran dovolj visoko (ne na tleh) markacija, ki bi jo bilo videti s Puklovca, ne bi bilo težav, tako pa se poskus priti na Strelovec po tej poti [ni posrečil](http://pohribih.blogspot.com/2007/04/strelovec-dela-teave.html). V kopnem lahko vidimo markirano skalo, pa še ta se je odlomila in se zvalila po bregu. Do razcepa poti na Krofičko in Strelovec na slemenu Puklovca je le še nekaj korakov med številnimi rumenimi cvetki dvocvetnih vijolic. Med spustom doživimo nov »naval« nagnoja. V pol ure smo pri najdebelejšem slovenskem macesnu in manj kot 5 minut zatem na Klemenči jami. Od tu do avtomobila v Logarski dolini pa po izbiri (glejte pri [Klemenči jami](../klemencajama)).

@@ -29,6 +29,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/5098
 name: Porezen
 peak: 46.177165,13.974299
+region: primorska
 start: 46.156137,13.944936
 title: Porezen iz Jesenice
 x: 421

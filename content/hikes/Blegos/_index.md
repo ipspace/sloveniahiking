@@ -7,6 +7,7 @@ lead: M_4_0469.JPG
 maplink: https://mapzs.projekti.si/poi/4875
 name: Blegos
 peak: 46.164802,14.113583
+region: gorenjska
 title: Blegoš
 x: 432
 y: 114

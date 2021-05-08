@@ -1,29 +1,23 @@
 ---
-date: '2005-01-30T00:00:00'
+date: 2005-01-30 00:00:00+00:00
 delta: 460
 description: Severno nad dolino Idrijce se nasproti Šebreljski planoti nad Reko dvigajo
   Rodne, razgleden travnat vrh s čudovitim pogledom na okoliško hribovje in greben
   Spodnjih Bohinjskih gora.
 duration: 2
 height: 698
-image:
-- M_1_2149.JPG
-- M_1_2145.JPG
-- M_1_2143.JPG
-- M_1_2147.JPG
-- M_1_2169.JPG
-- M_1_2170.JPG
-- M_1_2171.JPG
-- mapgps.jpg
-- path_1.gif
 lead: M_1_2149.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/35964
 name: Rodne
+peak: 46.130969,13.927604
+region: primorska
+start: 46.117423,13.921578
 title: Rodne
-x: 417
-y: 110
 ---
-{{<figure src="M_1_2149.JPG">}} Severno nad dolino Idrijce se nasproti Šebreljski planoti nad Reko dvigajo Rodne, razgleden travnat vrh s čudovitim pogledom na greben Spodnjih Bohinjskih gora, Kojco in Porezen ter vrhove Idrijskega hribovja. Nanj vodi prijetna markirana pot z Reke, spust pa vam lahko popestrijo še vedno dobro vidne stezice, speljane nad Reko.
+{{<figure src="M_1_2149.JPG">}}
+
+Severno nad dolino Idrijce se nasproti [Šebreljski planoti](../sebrelje) nad Reko dvigajo Rodne, razgleden travnat vrh s čudovitim pogledom na greben Spodnjih Bohinjskih gora, Kojco in Porezen ter vrhove Idrijskega hribovja. Nanj vodi prijetna markirana pot z Reke, spust pa vam lahko popestrijo še vedno dobro vidne stezice, speljane nad Reko.
 
 ### Osnovni podatki
 
@@ -56,7 +50,7 @@ y: 110
 Z Reke na Rodne
 ---------------
 
-Izlet na Rodne začnete v dolini Idrijce, na robu vasice Reka (dostop do izhodišča je podrobneje opisan ob izletu na Šebreljsko planoto). Domačinom najbolj prijazno parkirno mesto je ob odcepu ceste v Zakojco, lahko pa parkirate tudi pri bifeju Pod divjimi babami. Če boste avto pustili na parkirišču zunaj vasi, se vrnite do začetka Reke (300 m), kjer vas kažipot usmeri levo na makadam, ki se začne zlagoma dvigati med hišami; če pa boste parkirali pri bifeju, boste makadam našli takoj za hišo.
+Izlet na Rodne začnete v dolini Idrijce, na robu vasice Reka (dostop do izhodišča je podrobneje opisan ob izletu na [Šebreljsko planoto](../sebrelje)). Vrnite se do začetka Reke (300 m), kjer vas kažipot usmeri levo na makadam, ki se začne zlagoma dvigati med hišami.
 
 Makadam vas kmalu pripelje skozi vas do asfaltne ceste, speljane v Orehovsko grapo. Tej sledite do prvega razcepa, kjer vas markacije usmerijo levo navzgor. Asfalta je po prvem strmem vzponu na srečo konec, po makadamu pa ste kmalu pri prvi kmetiji, kjer med hišami poiščete kolovoz, ki se za njimi dviguje v levo po travniku. Takoj za prvim desnim okljukom ga zapustite in se začnete vzpenjati naravnost navzgor po ozki stezici, ki kmalu zavije v gozd, pa spet na nekoliko više ležeče travnike, kjer vas že čakajo prvi razgledi na Orehovsko grapo, Kojco in Porezen. Ko se stezica priključi kolovozu, vas markacije usmerijo v levo in v nekaj minutah se boste znašli na čudovito urejeni planini.
 

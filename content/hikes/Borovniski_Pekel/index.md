@@ -5,10 +5,12 @@ description: Pekel je najlepši nekaj dni po obilnem deževju, ko ima Borovniš�
   vode, pot pa ni več blatna.
 duration: 2
 height: 650
+maplink: https://mapzs.projekti.si/poi/34829
 name: Borovniski_Pekel
+peak: 45.880956,14.369589
+region: notranjska
+start: 45.890566,14.371874
 title: Pekel pri Borovnici
-x: 451
-y: 83
 ---
 {{<figure src="M_5-0575_IMG.jpg">}}
 

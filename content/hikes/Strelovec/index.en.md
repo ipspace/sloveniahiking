@@ -5,9 +5,10 @@ delta: 1002
 duration: 6
 height: 1763
 layout: stub
+maplink: https://mapzs.projekti.si/poi/741
 name: Strelovec
+peak: 46.394324,14.658004
 photo_author: Mojca_Lustrek
+region: kamnik-alps
 title: Strelovec
-x: 474
-y: 139
 ---
