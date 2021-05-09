@@ -86,7 +86,7 @@ def sync_gpx_data(gpx_path):
 ##      return
 
   page['gpx']['file'] = os.path.basename(gpx_path)
-  page['gpx']['modified'] = os.path.getmtime(gpx_path)
+  page['gpx']['modified'] = int(os.path.getmtime(gpx_path))
   
   gpx_info = get_gpx_info(gpx_path)
   page['gpx']['center'] = { 'lat': gpx_info['center_lat'], 'lon': gpx_info['center_lon']}
