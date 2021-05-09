@@ -204,17 +204,15 @@
     "height": 1876,
     "lead": "M_00001.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/path/32669",
+    "maplink": "https://mapzs.projekti.si/poi/3884",
     "name": "KamniskoSedlo",
     "peak": "46.359083,14.597487",
     "region": "kamnik-alps",
-    "start": "46.327151,14.589373",
+    "start": "46.327137,14.589418",
     "title": {
       "sl": "Kamni\u0161ko sedlo",
       "en": "Kamni\u0161ko sedlo"
-    },
-    "x": 469,
-    "y": 135
+    }
   },
   {
     "date": "2006-07-09 00:00:00+00:00",
@@ -712,6 +710,7 @@
     "maplink": "https://mapzs.projekti.si/poi/4875",
     "name": "Blegos",
     "peak": "46.164802,14.113583",
+    "region": "gorenjska",
     "title": {
       "sl": "Blego\u0161",
       "en": "Blego\u0161"
@@ -947,6 +946,7 @@
     "maplink": "https://mapzs.projekti.si/poi/196",
     "name": "PolhograjskaGrmada",
     "peak": "46.083811,14.332903",
+    "region": "notranjska",
     "title": {
       "sl": "Polhograjska Grmada",
       "en": "Polhograjska Grmada"
@@ -1011,6 +1011,7 @@
     "maplink": "https://mapzs.projekti.si/poi/5098",
     "name": "Porezen",
     "peak": "46.177165,13.974299",
+    "region": "primorska",
     "start": "46.156137,13.944936",
     "title": {
       "sl": "Porezen iz Jesenice",
@@ -1151,12 +1152,11 @@
     "maplink": "https://mapzs.projekti.si/poi/1227",
     "name": "Vremscica",
     "peak": "45.688293,14.061574",
+    "region": "primorska",
     "title": {
       "sl": "Vrem\u0161\u010dica",
       "en": "Vrem\u0161\u010dica"
-    },
-    "x": 427,
-    "y": 61
+    }
   },
   {
     "date": "2004-07-11 00:00:00+00:00",
@@ -2567,13 +2567,14 @@
     "duration": 2.5,
     "height": 729,
     "lead": "M_2-2216_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/5538",
     "name": "Korena",
+    "peak": "46.035238,14.295931",
+    "region": "notranjska",
     "title": {
       "sl": "Korena nad Horjulom",
       "en": "Korena above Horjul"
-    },
-    "x": 445,
-    "y": 99
+    }
   },
   {
     "date": "2005-01-30 00:00:00+00:00",
@@ -2586,13 +2587,15 @@
     "height": 698,
     "lead": "M_1_2149.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/35964",
     "name": "Rodne",
+    "peak": "46.130969,13.927604",
+    "region": "primorska",
+    "start": "46.117423,13.921578",
     "title": {
       "sl": "Rodne",
       "en": "Rodne"
-    },
-    "x": 417,
-    "y": 110
+    }
   },
   {
     "date": "2005-08-07 00:00:00+00:00",
@@ -2627,13 +2630,15 @@
     },
     "duration": 2,
     "height": 650,
+    "maplink": "https://mapzs.projekti.si/poi/34829",
     "name": "Borovniski_Pekel",
+    "peak": "45.880956,14.369589",
+    "region": "notranjska",
+    "start": "45.890566,14.371874",
     "title": {
       "sl": "Pekel pri Borovnici",
       "en": "Pekel pri Borovnici"
-    },
-    "x": 451,
-    "y": 83
+    }
   },
   {
     "date": "2004-07-04 00:00:00+00:00",
@@ -2666,18 +2671,19 @@
       "sl": "\u010ce je Javor\u010d \u017eirovska \u0160marna gora, so Goropeke zagotovo \u017eirovski Ro\u017enik. Prijeten polurni vzpon vas pripelje na vrh Gorope\u0161kega gri\u010da, s katerega se odpre lep razgled vse do Triglava. Za gri\u010dem se sredi zaselka skriva cerkvica svetega Janeza ... le gostilne ni poleg cerkve; planinski dom ti\u010di na robu gozda onkraj travnikov.",
       "en": null
     },
-    "dirty": true,
     "duration": 1.5,
     "height": 698,
     "lead": "M_0_00742.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/3882",
     "name": "Goropeke",
+    "peak": "46.034557,14.125964",
+    "region": "gorenjska",
+    "start": "46.047220,14.109817",
     "title": {
       "sl": "Goropeke",
       "en": "Goropeke"
-    },
-    "x": 432,
-    "y": 100
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -2687,7 +2693,6 @@
       "sl": "Nanos je visoka kra\u0161ka planota, ki jo poznamo predvsem po Ple\u0161i (1262 m) in njeni Vojkovi ko\u010di (1240 m), manj znani pa so drugi njegovi vrhov. Pogled na zemljevid poka\u017ee, da vodi markirana pot samo \u0161e na Suhi vrh, najvi\u0161jo to\u010dko Nanosa.",
       "en": null
     },
-    "dirty": true,
     "duration": 5,
     "height": 1313,
     "lead": "M_007051810.jpg",
@@ -2695,13 +2700,12 @@
     "name": "SuhiVrh",
     "peak": "45.798405,14.066979",
     "photo_author": "Mojca_Lustrek",
+    "region": "primorska",
     "start": "45.797993,14.119475",
     "title": {
       "sl": "Suhi vrh na Nanosu",
       "en": "Suhi vrh on Nanos"
-    },
-    "x": 428,
-    "y": 73
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -2711,17 +2715,17 @@
       "sl": "Str\u00e9lovec  je zadnji pomembnej\u0161i vrh v grebenu Ojstrica\u2013Krofi\u010dka\u2013Robanov kot.",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 1763,
+    "maplink": "https://mapzs.projekti.si/poi/741",
     "name": "Strelovec",
+    "peak": "46.394324,14.658004",
     "photo_author": "Mojca_Lustrek",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Strelovec",
       "en": "Strelovec"
-    },
-    "x": 474,
-    "y": 139
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -2919,18 +2923,19 @@
       "sl": "To\u0161\u010d je najizrazitej\u0161i vrh v Polhograjskem hribovju.",
       "en": null
     },
-    "dirty": true,
     "duration": 4,
     "height": 1021,
     "lead": "M_2-6242.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1230",
     "name": "Tosc",
+    "peak": "46.097448,14.321274",
+    "region": "notranjska",
+    "start": "46.076165,14.313252",
     "title": {
       "sl": "To\u0161\u010d iz Ma\u010dkovega grabna",
       "en": "To\u0161\u010d through Ma\u010dkov graben"
-    },
-    "x": 448,
-    "y": 106
+    }
   },
   {
     "date": "2004-12-19 00:00:00+00:00",
@@ -3005,18 +3010,19 @@
       "sl": "Visoko nad prepadnimi stenami borovni\u0161kega Pekla le\u017ei na robu gri\u010devnate kra\u0161ke planote Meni\u0161ije s soncem obsijana vas Pokoji\u0161\u010de.",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 732,
     "lead": "M_2_2241.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5358",
     "name": "Pokojisce",
+    "peak": "45.893781,14.355786",
+    "region": "notranjska",
+    "start": "45.890566,14.371874",
     "title": {
       "sl": "Pokoji\u0161\u010de",
       "en": "Pokoji\u0161\u010de"
-    },
-    "x": 450,
-    "y": 84
+    }
   },
   {
     "author": "Gregor_Skok",
@@ -4658,6 +4664,28 @@
     "video": "https://www.relive.cc/view/vmqX2AKNYLO/",
     "type": "biking",
     "center": "45.498248,13.827613"
+  },
+  {
+    "date": "2021-05-09 16:11:30+00:00",
+    "delta": 400,
+    "description": {
+      "en": "\u017dibr\u0161e are a cluster of hamlets peppered across the southern edge of Rovte hills. You'll enjoy fantastic views while exploring them, and you might be lucky enough to stumble upon a rare wildflower in late May or early June."
+    },
+    "difficulty": "A mix of asphalt and gravel roads with a few short but disgustingly steep ascents",
+    "duration": 2,
+    "height": 720,
+    "layout": "structured",
+    "lead": "M_20210509_110242.jpg",
+    "length": 18.6,
+    "maplink": "https://www.opencyclemap.org/?zoom=13&lat=45.93893&lon=14.15764&layers=B0000",
+    "name": "Zibrse",
+    "region": "notranjska",
+    "start": "45.958404,14.191024",
+    "title": {
+      "en": "\u017dibr\u0161e"
+    },
+    "video": "https://www.relive.cc/view/vNOPrjpEy2q/",
+    "type": "biking"
   },
   {
     "title": {

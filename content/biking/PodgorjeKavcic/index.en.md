@@ -1,8 +1,11 @@
 ---
 date: 2021-05-04 15:33:16+00:00
 delta: 520
-description: |
-  Karst Edge is the wondrous land where the limestone cliffs of continental Slovenia meet the soft flysch landscape of lower Slovenian Istria. This time we'll explore dirt tracks on its easternmost part -- from Podgorje to Kavčič.
+description: 'Karst Edge is the wondrous land where the limestone cliffs of continental
+  Slovenia meet the soft flysch landscape of lower Slovenian Istria. This time we''ll
+  explore dirt tracks on its easternmost part -- from Podgorje to Kavčič.
+
+  '
 difficulty: 'Bad gravel roads and rocky dirt tracks. Wide-tire mountain bike is highly
   recommended.
 
