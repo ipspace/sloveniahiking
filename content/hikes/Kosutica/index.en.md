@@ -15,8 +15,10 @@ image:
 layout: stub
 lead: M_5_2583.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/6165
 name: Kosutica
+peak: 46.438811, 14.299226
+region: karavanke
+start: 46.427852,14.272506
 title: Košutica
-x: 447
-y: 144
 ---

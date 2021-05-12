@@ -7,28 +7,18 @@ description: Severno od Jesenic se v grebenu Karavank dviguje Golica, travnat vr
 dirty: true
 duration: 5
 height: 1835
-image:
-- M_2_1262.JPG
-- M_2_1239.JPG
-- M_2_1293.JPG
-- M_2_1290.JPG
-- M_2_1294.JPG
-- M_2_1247.JPG
-- M_2_1261.JPG
-- M_2_1269.JPG
-- M_2_1262.JPG
-- Razgled_vzhod.jpg
-- Razgled_zahod.jpg
-- mapgps.jpg
-- path_1.gif
 lead: M_2_1262.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/4803
 name: Golica
+peak: 46.491437,14.054546
+region: karavanke
+start: 46.461300,14.048692
 title: Golica
-x: 428
-y: 150
 ---
-{{<figure src="M_2_1262.JPG">}} Severno od Jesenic se v grebenu Karavank dviguje Golica, travnat vrh, znamenit predvsem zaradi gorskih narcis, ki se v maju razcvetijo na njegovih južnih pobočjih. Na Golico vodi vrsta markiranih poti; najkrajši je vzpon s Planine pod Golico, lahko pa se odpravite nanjo tudi čez planino Markljev rovt in sedlo Suha ali uberete krožno pot čez Golico in Rožco.
+{{<figure src="M_2_1262.JPG">}}
+
+Severno od Jesenic se v grebenu Karavank dviguje Golica, travnat vrh, znamenit predvsem zaradi gorskih narcis, ki se v maju razcvetijo na njegovih južnih pobočjih. Na Golico vodi vrsta markiranih poti; najkrajši je vzpon s Planine pod Golico, lahko pa se odpravite nanjo tudi čez planino Markljev rovt in sedlo Suha ali uberete krožno pot čez Golico in Rožco.
 
 ### Osnovni podatki
 
@@ -60,6 +50,8 @@ y: 150
 
 **Karta**
 :   Karavanke, osrednji del, planinska karta 1 : 50.000
+
+{{<hike-details-extra>}}
 
 S Planine pod Golico proti planinski koči
 -----------------------------------------

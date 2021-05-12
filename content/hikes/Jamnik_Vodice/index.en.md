@@ -6,8 +6,9 @@ height: 1300
 layout: stub
 lead: M_0-5007_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/260
 name: Jamnik_Vodice
+peak: 46.275223,14.214234
+region: gorenjska
 title: Jamnik and Vodice from Kropa
-x: 437
-y: 127
 ---

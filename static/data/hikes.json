@@ -3094,13 +3094,15 @@
     "height": 1835,
     "lead": "M_2_1262.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4803",
     "name": "Golica",
+    "peak": "46.491437,14.054546",
+    "region": "karavanke",
+    "start": "46.461300,14.048692",
     "title": {
       "sl": "Golica",
       "en": "Golica"
-    },
-    "x": 428,
-    "y": 150
+    }
   },
   {
     "date": "2010-12-22 00:00:00+00:00",
@@ -3115,6 +3117,7 @@
     "maplink": "https://mapzs.projekti.si/poi/5751",
     "name": "Oblenk",
     "peak": "45.834089,14.213203",
+    "region": "primorska",
     "start": "45.825786,14.236644",
     "title": {
       "sl": "Iz Planine na Petri\u010dev hrib (Oblenk)",
@@ -3220,18 +3223,19 @@
       "sl": "Vzhodno od Ljubelja se v glavnem grebenu Karavank prav na meji z Avstrijo dviguje skorajda 2000 metrov visoka Ko\u0161utica, precej osamljen vrh, ki ga Hajn\u017eevo sedlo lo\u010di od glavnega grebena Ko\u0161ute.",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 1968,
     "lead": "M_5_2583.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/6165",
     "name": "Kosutica",
+    "peak": "46.438811,14.299226",
+    "region": "karavanke",
+    "start": "46.427852,14.272506",
     "title": {
       "sl": "Ko\u0161utica",
       "en": "Ko\u0161utica"
-    },
-    "x": 447,
-    "y": 144
+    }
   },
   {
     "date": "2004-07-25 00:00:00+00:00",
@@ -3240,18 +3244,18 @@
       "sl": "Visoko nad Poljansko dolino stoji na razglednem vrhu nad Zmincem sveti O\u017ebolt, najvi\u0161e le\u017ee\u010da cerkev na tem grebenu, izpred katere se odpre \u010dudovit razgled na Polhograjsko in \u0160kofjelo\u0161ko hribovje.",
       "en": null
     },
-    "dirty": true,
     "duration": 2,
     "height": 859,
     "lead": "M_0_1008.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/3811",
     "name": "svOzbolt",
+    "peak": "46.115648,14.286202",
+    "region": "gorenjska",
     "title": {
       "sl": "Sveti O\u017ebolt nad Zmincem",
       "en": "Saint Ozbolt above Zminec"
-    },
-    "x": 445,
-    "y": 108
+    }
   },
   {
     "date": "2006-02-05 00:00:00+00:00",
@@ -3284,18 +3288,18 @@
       "sl": "Izlet v Kropo lahko zdru\u017eimo tudi z vzponom na enega od okoli\u0161kih pobo\u010dij \u2013 od enournega sprehoda na Jamnik do peturne kro\u017ene poti po pobo\u010djih okoli Krope.",
       "en": null
     },
-    "dirty": true,
     "duration": 5,
     "height": 1300,
     "lead": "M_0-5007_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/260",
     "name": "Jamnik_Vodice",
+    "peak": "46.275223,14.214234",
+    "region": "gorenjska",
     "title": {
       "sl": "Jamnik in Vodi\u0161ka planina nad Kropo",
       "en": "Jamnik and Vodice from Kropa"
-    },
-    "x": 437,
-    "y": 127
+    }
   },
   {
     "date": "1900-01-01 00:00:00+00:00",
@@ -3319,18 +3323,18 @@
       "sl": "Goli vrh je najvi\u0161ji vrh jugovzhodnega dela vr\u0161ne planote Menine, imenovanega \u0160avnice (tudi \u0160\u010davnice). Ta lepi, opazni vrh je zelo razgleden in prav vabi k sebi, pa vendar ni posebno obiskan. \u010ce nimate radi gne\u010de, vam bo gotovo v\u0161e\u010d.",
       "en": null
     },
-    "dirty": true,
     "duration": 4.5,
     "height": 1426,
     "lead": "M_01103.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/948",
     "name": "GoliVrh_Savnice",
+    "peak": "46.248208,14.859629",
     "photo_author": "Mojca_Lustrek",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Goli vrh na \u0160avnicah",
       "en": "Goli vrh on \u0160avnice"
-    },
-    "x": 490,
-    "y": 123
+    }
   },
   {
     "date": "2005-05-01 00:00:00+00:00",
@@ -3339,18 +3343,19 @@
       "sl": "Le nekaj kilometrov pred Jezerskim se zahodno od doline Kokre skriva redko obiskan Kozji vrh, ki ga Stor\u017ei\u010d uspe\u0161no skriva pred ve\u010dino Slovencev.",
       "en": null
     },
-    "dirty": true,
     "duration": 4,
     "height": 1628,
     "lead": "M_00020.jpg",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/2125",
     "name": "KozjiVrh",
+    "start": "46.380160,14.461829",
+    "peak": "46.364549,14.446209",
+    "region": "karavanke",
     "title": {
       "sl": "Kozji vrh",
       "en": "Kozji vrh"
-    },
-    "x": 458,
-    "y": 136
+    }
   },
   {
     "date": "2005-10-16 00:00:00+00:00",

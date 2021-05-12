@@ -1,32 +1,23 @@
 ---
 author: Mojca_Lustrek
-date: '2005-07-24T00:00:00'
+date: 2005-07-24 00:00:00+00:00
 delta: 1020
 description: Goli vrh je najvišji vrh jugovzhodnega dela vršne planote Menine, imenovanega
   Šavnice (tudi Ščavnice). Ta lepi, opazni vrh je zelo razgleden in prav vabi k sebi,
   pa vendar ni posebno obiskan. Če nimate radi gneče, vam bo gotovo všeč.
-dirty: true
 duration: 4.5
 height: 1426
-image:
-- M_01103.jpg
-- M_01107.jpg
-- M_01109.jpg
-- M_01105.jpg
-- M_01108.jpg
-- M_01102.jpg
-- M_01103.jpg
-- M_01104.jpg
-- M_01110.jpg
-- M_01106.jpg
 lead: M_01103.jpg
+maplink: https://mapzs.projekti.si/poi/948
 name: GoliVrh_Savnice
+peak: 46.248208,14.859629
 photo_author: Mojca_Lustrek
+region: kamnik-alps
 title: Goli vrh na Šavnicah
-x: 490
-y: 123
 ---
-{{<figure src="M_01103.jpg">}} Goli vrh je najvišji vrh jugovzhodnega dela vršne planote Menine, imenovanega Šavnice (tudi Ščavnice). Tako je pisalo v starem vodniku po Kamniško-Savinjskih Alpah. Novi pa Šavnice enači z Golim vrhom. Kakorkoli, ta lepi, opazni vrh je zelo razgleden in prav vabi k sebi, pa vendar ni posebno obiskan. Če nimate radi gneče, vam bo gotovo všeč.
+{{<figure src="M_01103.jpg">}}
+
+Goli vrh je najvišji vrh jugovzhodnega dela vršne planote Menine, imenovanega Šavnice (tudi Ščavnice). Tako je pisalo v starem vodniku po Kamniško-Savinjskih Alpah. Novi pa Šavnice enači z Golim vrhom. Kakorkoli, ta lepi, opazni vrh je zelo razgleden in prav vabi k sebi, pa vendar ni posebno obiskan. Če nimate radi gneče, vam bo gotovo všeč.
 
 ### Osnovni podatki
 
@@ -59,22 +50,26 @@ y: 123
 **Avtor**
 :   Opis izleta in fotografije je prispevala Mojca Luštrek.
 
+{{<hike-details-extra>}}
+
 Vzpon iz Vologa
 ---------------
 
-{{<figure src="M_01107.jpg" caption="Začetek poti">}}
-
 V Gornjem Gradu zavijemo pred bencinsko črpalko desno v smer Nazarje. Prečkamo Dreto in Kropo in se pripeljemo v Bočno. Prva vas za njo (2 km) je Volog. Takoj za mostom pred avtobusno postajo zavijemo desno in se peljemo mimo oznake *Lahka pot* na levi do zadnje kmetije na koncu ceste. Prijazni mladi gospodar nam dovoli parkirati ob gospodarskem poslopju. Domačija Podgoršek, označena na zemljevidu, je predzadnja. Izhodišče ni označeno; napotimo se po kolovozu med toplarjema proti hišam, ki jih je videti pred gozdom.
+
+{{<figure src="M_01107.jpg" caption="Začetek poti">}}
 
 Pri Vologu 23 je na jablani prva markacija, pri številki 24 pa zavijemo desno in nato levo od nje čez travnik v gozd, na začetku katerega je tudi markacija. V gozdu smo v 10 minutah. Zelo hitro ga je konec in naslednja markacija nas pričaka na skali na travniku. Povzpnemo se po njem in na koncu je ograja, ki jo zlahka preplezamo (zdi se, da je tisti del prav namenjen prehodu). Na prvem drevesu (orehu) levo je pod vejami skrita naslednja markacija. V travnati grapi pa se belo-rdeče oznake kar izgubijo. Gospodinja iz hiše nad njo nas napoti okoli vogala (obledela markacija na bližnji kapelici priča, da je pot nekoč tekla nekoliko drugače) k naslednji domačiji, k Jaršniku (Rovt pod Menino 37). Nad Jaršnikom zavijemo s ceste levo v breg.
 
+V četrt ure smo pri Dražniku (Rovt pod Menino 34), kjer je na hišnem vogalu markacija. Pri zgornjem gospodarskem poslopju pridemo na kolovoz in po njem zavijemo levo mimo kozolca proti gozdu. Na začetku ozkega travnika nas puščica usmeri po njem tik ob robu gozda, vzporedno pa po gozdu teče neoznačena in precej zaraščena potka.
+
 {{<figure src="M_01109.jpg" caption="Dražnik">}}
 
-V četrt ure smo pri Dražniku (Rovt pod Menino 34), kjer je na hišnem vogalu markacija. Pri zgornjem gospodarskem poslopju pridemo na kolovoz in po njem zavijemo levo mimo kozolca proti gozdu. Na začetku ozkega travnika nas puščica usmeri po njem tik ob robu gozda, vzporedno pa po gozdu teče neoznačena in precej zaraščena potka.
+Čez četrt ure se ozki travnik razširi v kotanjo, nad katero se pasejo ovce pod domačijo Zgornji Vrclovnik (tudi Viclovnik, Beclovnik).
 
 {{<figure src="M_01105.jpg" caption="Vrclovnik">}}
 
-Čez četrt ure se ozki travnik razširi v kotanjo, nad katero se pasejo ovce pod domačijo Zgornji Vrclovnik (tudi Viclovnik, Beclovnik). Markacij ni videti; odpravimo se kar po travniku navzgor. Takoj ko *prvič* dosežemo gozdno cesto, za kupom gramoza bolj ko ne po naključju opazimo pod grmovjem dobro skrito veliko novo markacijo na skali, a pri njej ni nobenega prehoda ali potke v gozd. Zato gremo malo desno po cesti in čez nekaj metrov se v levo nazaj odcepi kolovoz. Kmalu nas na levi preseneti markacija, pri kateri naj bi se na kolovoz očitno priključila pot od markirane skale ob cesti. Toda tu ravno tako ni videti nobenega prehoda navzdol. Res skrivnostno!
+Markacij ni videti; odpravimo se kar po travniku navzgor. Takoj ko *prvič* dosežemo gozdno cesto, za kupom gramoza bolj ko ne po naključju opazimo pod grmovjem dobro skrito veliko novo markacijo na skali, a pri njej ni nobenega prehoda ali potke v gozd. Zato gremo malo desno po cesti in čez nekaj metrov se v levo nazaj odcepi kolovoz. Kmalu nas na levi preseneti markacija, pri kateri naj bi se na kolovoz očitno priključila pot od markirane skale ob cesti. Toda tu ravno tako ni videti nobenega prehoda navzdol. Res skrivnostno!
 
 Do izvira Bočnice
 -----------------
@@ -90,15 +85,19 @@ Odcepov je veliko, a držimo se glavne (markirane) poti. Ta že kmalu zavije des
 Na Šavnice in Goli vrh
 ----------------------
 
-{{<figure src="M_01102.jpg" caption="Zadnji vzpon na planoto">}}
-
 Od izvira se vrnemo na pot. Malo naprej prečkamo še en opuščen kolovoz, ki se, kakor se zdi, tu konča. Vzpenjamo se v zelo dolgih ključih (izvir Bočnice je med prvim in drugim). Hodimo po ozki, a prijetno mehki listnati potki. Lahko si jo skrajšamo po neoznačenih bližnjicah. Čez dobrih 5 minut se pot spet začne bolj dvigati in zadnjih 10 minut se zelo strmo vzpenjamo do roba planote. Tik pod robom je vse modro glavičastih repušev.
+
+{{<figure src="M_01102.jpg" caption="Zadnji vzpon na planoto">}}
 
 Na ravnici je ograjen partizanski spomenik, ob njem pa na sušici kažipoti proti Šavnicam (levo gor), Domu na Menini (desno dol) ter Vologu in Šmartnemu (od koder smo prišli). Onkraj spomenika je v globeli precejšen kal. Ob našem obisku živine ni bilo videti, bili pa so sveži dokazi, da je bila še pred kratkim tu. Nekoliko bolj proti Menini so se pasli konji.
 
-{{<figure src="M_01103.jpg">}} {{<figure src="M_01104.jpg">}} {{<figure src="M_01110.jpg" caption="Planina">}}
+{{<figure src="M_01110.jpg" caption="Planina">}}
 
-Pot nadaljujemo levo od spomenika. Na vrhu prvega vzpona je ograja, ob njej pa napis, da so Šavnice varovano območje in da je paša prepovedana. Gozd se zredči in konča; planina je posejana s smrekami in koničastimi skalami. Med obilico cvetja je na začetku posebno veliko lučnikov. V 10 minutah smo na Golem vrhu, kjer se kljub izrecni prepovedi pridno pase radovedno govedo z odlično prebavo. Vpisna skrinjica je slikovito pritrjena na eno izmed skal, ki krasijo vrh. Lahko posedimo na kaki skali ali v mehki travi, opazujemo živino (in živina nas) in uživamo v lepem razgledu.
+Pot nadaljujemo levo od spomenika. Na vrhu prvega vzpona je ograja, ob njej pa napis, da so Šavnice varovano območje in da je paša prepovedana. Gozd se zredči in konča; planina je posejana s smrekami in koničastimi skalami. Med obilico cvetja je na začetku posebno veliko lučnikov.
+
+{{<figure src="M_01104.jpg">}}
+
+V 10 minutah smo na Golem vrhu, kjer se kljub izrecni prepovedi pridno pase radovedno govedo z odlično prebavo. Vpisna skrinjica je slikovito pritrjena na eno izmed skal, ki krasijo vrh. Lahko posedimo na kaki skali ali v mehki travi, opazujemo živino (in živina nas) in uživamo v lepem razgledu.
 
 {{<figure src="M_01106.jpg" caption="Goli vrh">}}
 
