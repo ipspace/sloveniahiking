@@ -5,6 +5,7 @@ description: Strma pot na Slavnik iz Podgorja je verjetno najbolj zanimiva za ti
   ki bi si radi s strmimi vzponi nabirali kondicijo.
 duration: 2.5
 height: 1028
+lastmod: 2021-05-11 15:31:00
 lead: M_5_0586.JPG
 map: 1
 maplink: https://mapzs.projekti.si/path/31774
