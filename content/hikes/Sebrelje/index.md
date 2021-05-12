@@ -11,11 +11,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1419
 name: Sebrelje
 nearby:
-- rodne
-- kojca
-- skrbinakuk
-- porezen
-- crnaprst
+- /hikes/rodne
+- /hikes/kojca
+- /hikes/skrbinakuk
+- /hikes/porezen
+- /hikes/crnaprst
 peak: 46.110149, 13.917076
 region: primorska
 start: 46.117423, 13.921578

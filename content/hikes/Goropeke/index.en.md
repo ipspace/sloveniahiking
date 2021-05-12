@@ -9,11 +9,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/3882
 name: Goropeke
 nearby:
-- vrsnik_ziri
-- javorc
-- vs3k
-- mrzlivrh_ziri
-- zaplanatavzentroza
+- /hikes/vrsnik_ziri
+- /hikes/javorc
+- /hikes/vs3k
+- /hikes/mrzlivrh_ziri
+- /biking/zaplanatavzentroza
 peak: 46.034557,14.125964
 region: gorenjska
 start: 46.047220,14.109817

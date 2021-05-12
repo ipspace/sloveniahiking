@@ -18,11 +18,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/5276
 name: MaliGolak
 nearby:
-- dolskimaj
-- caven
-- kucelj
-- malagora
-- velikirob
+- /hikes/dolskimaj
+- /hikes/caven
+- /hikes/kucelj
+- /hikes/malagora
+- /hikes/velikirob
 peak: 45.978565,13.864346
 region: primorska
 title: Mali Golak

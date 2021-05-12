@@ -11,11 +11,11 @@ multilead: M_9-5979_IMG.JPG
 multipath: true
 name: Lipanca/MedvedovaKonta
 nearby:
-- lipanca
-- brdalipanca
-- lipanskivrh
-- debelapec
-- visevnik
+- /hikes/lipanca
+- /hikes/brdalipanca
+- /hikes/lipanskivrh
+- /hikes/debelapec
+- /hikes/visevnik
 peak: 46.375630,13.927670
 region: julian-alps
 start: 46.374746,13.941008

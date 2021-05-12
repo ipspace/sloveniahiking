@@ -16,11 +16,11 @@ lead: M_20210226_124917.jpg
 maplink: https://mapzs.projekti.si/poi/5266
 name: VelikiRob
 nearby:
-- kucelj
-- skoljsvpavla
-- caven
-- malagora
-- maligolak
+- /hikes/kucelj
+- /hikes/skoljsvpavla
+- /hikes/caven
+- /hikes/malagora
+- /hikes/maligolak
 peak: 45.934367,13.802914
 region: vipava
 start: 45.903937,13.797679

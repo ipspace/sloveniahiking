@@ -19,11 +19,11 @@ lead: M_0_00679.JPG
 maplink: https://mapzs.projekti.si/poi/1288
 name: Soncnica
 nearby:
-- kovk
-- starababa
-- plaz
-- otliskookno
-- gradiskatura
+- /hikes/kovk
+- /hikes/starababa
+- /hikes/plaz
+- /hikes/otliskookno
+- /hikes/gradiskatura
 peak: 45.886711,13.960029
 region: vipava
 start: 45.879298,13.959525

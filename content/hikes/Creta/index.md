@@ -10,7 +10,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1305
 name: Creta
 nearby:
-- krvavica
+- /hikes/krvavica
 peak: 46.279198,14.960822
 region: kamnik-alps
 title: Čreta z Vranskega

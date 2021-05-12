@@ -8,8 +8,8 @@ height: 650
 maplink: https://mapzs.projekti.si/poi/34829
 name: Borovniski_Pekel
 nearby:
-- pokojisce
-- slivnica
+- /hikes/pokojisce
+- /hikes/slivnica
 peak: 45.880956,14.369589
 region: notranjska
 start: 45.890566,14.371874

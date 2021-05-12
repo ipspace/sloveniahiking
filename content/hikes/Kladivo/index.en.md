@@ -9,10 +9,10 @@ lead: M_006070701.jpg
 maplink: https://mapzs.projekti.si/poi/104
 name: Kladivo
 nearby:
-- kofce
-- velikivrh
-- kosutica
-- korosica
+- /hikes/kofce
+- /hikes/velikivrh
+- /hikes/kosutica
+- /hikes/korosica
 peak: 46.437281,14.344111
 photo_author: Mojca_Lustrek
 region: karavanke

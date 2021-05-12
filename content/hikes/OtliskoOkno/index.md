@@ -27,11 +27,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/5296
 name: OtliskoOkno
 nearby:
-- starababa
-- dolskimaj
-- caven
-- malagora
-- soncnica
+- /hikes/starababa
+- /hikes/dolskimaj
+- /hikes/caven
+- /hikes/malagora
+- /hikes/soncnica
 peak: 45.917544,13.911851
 region: vipava
 start: 45.903995,13.912370

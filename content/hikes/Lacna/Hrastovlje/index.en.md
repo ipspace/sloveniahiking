@@ -11,11 +11,11 @@ multilead: M_0_2891.JPG
 multipath: true
 name: Lacna/Hrastovlje
 nearby:
-- lacna
-- hrastovljezazid
-- kuk
-- podgorje
-- lipnik
+- /hikes/lacna
+- /hikes/hrastovljezazid
+- /hikes/kuk
+- /hikes/podgorje
+- /hikes/lipnik
 peak: 45.504969,13.885283
 region: istria
 start: 45.509506,13.900638

@@ -13,11 +13,11 @@ lead: M_2_0264.JPG
 maplink: https://mapzs.projekti.si/poi/1062
 name: Caven
 nearby:
-- malagora
-- kucelj
-- dolskimaj
-- velikirob
-- skoljsvpavla
+- /hikes/malagora
+- /hikes/kucelj
+- /hikes/dolskimaj
+- /hikes/velikirob
+- /hikes/skoljsvpavla
 peak: 45.928964,13.852867
 region: vipava
 title: Čaven

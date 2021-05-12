@@ -12,11 +12,11 @@ multilead: M_4_1448.JPG
 multipath: true
 name: Kovk/Col
 nearby:
-- kovk
-- soncnica
-- plaz
-- svduh_podkraj
-- gradiskatura
+- /hikes/kovk
+- /hikes/soncnica
+- /hikes/plaz
+- /hikes/svduh_podkraj
+- /hikes/gradiskatura
 peak: 45.887981,13.969153
 region: vipava
 start: 45.885151,13.994895

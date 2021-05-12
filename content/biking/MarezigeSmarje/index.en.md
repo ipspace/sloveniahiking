@@ -19,9 +19,9 @@ length: '18.9'
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.50964&lon=13.756&layers=B0000
 name: MarezigeSmarje
 nearby:
-- marezigeborst
-- marezigetrsek
-- abitanti
+- /biking/marezigeborst
+- /biking/marezigetrsek
+- /hikes/abitanti
 region: istria
 start: 45.506836,13.798535
 title: Marezige – Šmarje – Vanganel

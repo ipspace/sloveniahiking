@@ -14,11 +14,11 @@ lead: M_007080902.jpg
 maplink: https://mapzs.projekti.si/poi/10
 name: Grintovec
 nearby:
-- kalskigreben
-- okreselj
-- kamniskosedlo
-- vrhkorena
-- ambroz
+- /hikes/kalskigreben
+- /hikes/okreselj
+- /hikes/kamniskosedlo
+- /hikes/vrhkorena
+- /hikes/ambroz
 peak: 46.357097,14.535416
 photo_author: Mojca_Lustrek
 region: kamnik-alps

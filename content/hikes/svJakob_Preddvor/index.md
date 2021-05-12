@@ -9,9 +9,9 @@ lead: M_9-3980_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/1295
 name: svJakob_Preddvor
 nearby:
-- baba
-- kozjivrh
-- stegovnik
+- /hikes/baba
+- /hikes/kozjivrh
+- /hikes/stegovnik
 peak: 46.315115,14.440824
 region: kamnik-alps
 start: 46.305721,14.432230

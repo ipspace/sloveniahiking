@@ -22,11 +22,11 @@ lead: M_1_10002.JPG
 map: 1
 name: Abitanti
 nearby:
-- marezigeborst
-- marezigetrsek
-- lacna
-- marezigesmarje
-- tinjan_osp
+- /biking/marezigeborst
+- /biking/marezigetrsek
+- /hikes/lacna
+- /biking/marezigesmarje
+- /hikes/tinjan_osp
 peak: 45.436224,13.825319
 region: istria
 start: 45.458375,13.850126

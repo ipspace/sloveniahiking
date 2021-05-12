@@ -14,11 +14,11 @@ multilead: M_20210323_093528.jpg
 multipath: true
 name: Kamnje
 nearby:
-- skoljsvpavla
-- malagora
-- kucelj
-- caven
-- velikirob
+- /hikes/skoljsvpavla
+- /hikes/malagora
+- /hikes/kucelj
+- /hikes/caven
+- /hikes/velikirob
 path: http://www.hribi.net/izlet/kamnje_koca_antona_bavcerja_na_cavnu_/26/500/1483
 peak: 45.928964,13.852867
 region: vipava

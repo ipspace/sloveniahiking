@@ -13,11 +13,11 @@ multilead: M_0_00630.JPG
 multipath: true
 name: Blegos/Leskovica
 nearby:
-- blegos
-- slajka
-- malenskivrh
-- ermanovec
-- javorc
+- /hikes/blegos
+- /hikes/slajka
+- /hikes/malenskivrh
+- /hikes/ermanovec
+- /hikes/javorc
 peak: 46.164802,14.113583
 start: 46.147414,14.085812
 title: Blegoš iz Leskovice

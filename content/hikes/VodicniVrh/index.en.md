@@ -18,11 +18,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/6050
 name: VodicniVrh
 nearby:
-- vogar
-- krstenica
-- jezerskistog
-- uskovnica
-- toscbohinj
+- /hikes/vogar
+- /hikes/krstenica
+- /hikes/jezerskistog
+- /hikes/uskovnica
+- /hikes/toscbohinj
 peak: 46.301639,13.84331
 region: julian-alps
 start: 46.296755,13.867167

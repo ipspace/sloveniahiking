@@ -9,11 +9,11 @@ lead: M_4-6459_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/5257
 name: Kucelj
 nearby:
-- velikirob
-- malagora
-- caven
-- skoljsvpavla
-- dolskimaj
+- /hikes/velikirob
+- /hikes/malagora
+- /hikes/caven
+- /hikes/skoljsvpavla
+- /hikes/dolskimaj
 peak: 45.928761, 13.825091
 region: vipava
 start: null

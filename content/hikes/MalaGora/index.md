@@ -19,11 +19,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1220
 name: MalaGora
 nearby:
-- caven
-- kucelj
-- skoljsvpavla
-- dolskimaj
-- velikirob
+- /hikes/caven
+- /hikes/kucelj
+- /hikes/skoljsvpavla
+- /hikes/dolskimaj
+- /hikes/velikirob
 peak: 45.922396,13.850510
 region: vipava
 start: 45.928964,13.852867

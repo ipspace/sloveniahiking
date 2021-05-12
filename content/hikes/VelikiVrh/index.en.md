@@ -9,11 +9,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/107
 name: VelikiVrh
 nearby:
-- kosutica
-- korosica
-- kofce
-- kladivo
-- dobrca
+- /hikes/kosutica
+- /hikes/korosica
+- /hikes/kofce
+- /hikes/kladivo
+- /hikes/dobrca
 peak: 46.430531,14.309551
 region: karavanke
 start: 46.417705,14.323757

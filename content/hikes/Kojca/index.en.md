@@ -9,11 +9,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1026
 name: Kojca
 nearby:
-- rodne
-- porezen
-- sebrelje
-- crnaprst
-- vogar
+- /hikes/rodne
+- /hikes/porezen
+- /hikes/sebrelje
+- /hikes/crnaprst
+- /hikes/vogar
 peak: 46.153889,13.926612
 region: primorska
 start: 46.156103,13.944929

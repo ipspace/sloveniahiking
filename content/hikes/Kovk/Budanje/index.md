@@ -18,11 +18,11 @@ multilead: M_0_00679.JPG
 multipath: true
 name: Kovk/Budanje
 nearby:
-- soncnica
-- kovk
-- starababa
-- plaz
-- otliskookno
+- /hikes/soncnica
+- /hikes/kovk
+- /hikes/starababa
+- /hikes/plaz
+- /hikes/otliskookno
 peak: 45.887981,13.969153
 region: vipava
 start: 45.879299,13.959613

@@ -26,11 +26,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/73
 name: VelikiDraskiVrh
 nearby:
-- toscbohinj
-- malidraskivrh
-- visevnik
-- jezerskistog
-- lipanskivrh
+- /hikes/toscbohinj
+- /hikes/malidraskivrh
+- /hikes/visevnik
+- /hikes/jezerskistog
+- /hikes/lipanskivrh
 peak: 46.360212,13.875946
 region: julian-alps
 start: 46.345450,13.923233

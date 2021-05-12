@@ -12,11 +12,11 @@ multilead: M_5-4545_IMG.JPG
 multipath: true
 name: Spica/KV
 nearby:
-- vrhnikazaplana
-- spica
-- zaplanarovte
-- kozljek
-- korena
+- /biking/vrhnikazaplana
+- /hikes/spica
+- /biking/zaplanarovte
+- /hikes/kozljek
+- /hikes/korena
 peak: 45.971434,14.251496
 start: 45.963698,14.275556
 title: Planina iz Kurje vasi

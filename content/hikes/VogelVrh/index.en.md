@@ -12,11 +12,11 @@ map: 1
 maplink: https://mapzs.projekti.si/path/32030
 name: VogelVrh
 nearby:
-- vogel
-- planinarazor
-- kobiljaglava
-- vodicnivrh
-- vogar
+- /hikes/vogel
+- /hikes/planinarazor
+- /hikes/kobiljaglava
+- /hikes/vodicnivrh
+- /hikes/vogar
 peak: 46.238331,13.812483
 region: julian-alps
 start: 46.235612,13.793350

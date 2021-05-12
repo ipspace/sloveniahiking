@@ -10,9 +10,9 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/260
 name: Jamnik_Vodice
 nearby:
-- miklavskagora
-- dobrca
-- malenskivrh
+- /hikes/miklavskagora
+- /hikes/dobrca
+- /hikes/malenskivrh
 peak: 46.275223,14.214234
 region: gorenjska
 title: Jamnik in Vodiška planina nad Kropo

@@ -15,11 +15,11 @@ lead: M_5-4556_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/5344
 name: Spica
 nearby:
-- vrhnikazaplana
-- zaplanarovte
-- kozljek
-- korena
-- sivka
+- /biking/vrhnikazaplana
+- /biking/zaplanarovte
+- /hikes/kozljek
+- /hikes/korena
+- /hikes/sivka
 peak: 45.971434,14.251496
 title: Planina nad Vrhniko
 x: 442

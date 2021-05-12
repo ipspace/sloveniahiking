@@ -9,9 +9,9 @@ lead: M_2_0206.JPG
 maplink: https://mapzs.projekti.si/poi/3080
 name: Nanos
 nearby:
-- suhivrh
-- vremscica
-- svduh_podkraj
+- /hikes/suhivrh
+- /hikes/vremscica
+- /hikes/svduh_podkraj
 peak: 45.769507,14.056388
 region: vipava
 title: Nanos

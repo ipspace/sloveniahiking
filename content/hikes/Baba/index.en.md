@@ -8,10 +8,10 @@ layout: stub
 lead: M_5100101.jpg
 name: Baba
 nearby:
-- svjakob_preddvor
-- kozjivrh
-- ambroz
-- stegovnik
+- /hikes/svjakob_preddvor
+- /hikes/kozjivrh
+- /hikes/ambroz
+- /hikes/stegovnik
 peak: 46.31047,14.46331
 photo_author: Mojca_Lustrek
 region: kamnik-alps

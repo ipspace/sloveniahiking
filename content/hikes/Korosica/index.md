@@ -11,11 +11,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/842
 name: Korosica
 nearby:
-- kosutica
-- velikivrh
-- kofce
-- kladivo
-- dobrca
+- /hikes/kosutica
+- /hikes/velikivrh
+- /hikes/kofce
+- /hikes/kladivo
+- /hikes/dobrca
 peak: 46.434220,14.292107
 region: karavanke
 start: 46.427870,14.272455

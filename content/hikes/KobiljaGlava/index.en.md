@@ -9,11 +9,11 @@ map: 1
 maplink: https://mapzs.projekti.si/path/31675
 name: KobiljaGlava
 nearby:
-- planinarazor
-- vogelvrh
-- vogel
-- skrbinakuk
-- vodicnivrh
+- /hikes/planinarazor
+- /hikes/vogelvrh
+- /hikes/vogel
+- /hikes/skrbinakuk
+- /hikes/vodicnivrh
 peak: 46.190011,13.795463
 region: julian-alps
 start: 46.190533,13.782526

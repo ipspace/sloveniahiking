@@ -9,11 +9,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/4940
 name: MalenskiVrh
 nearby:
-- blegos
-- slajka
-- bukovvrh
-- miklavskagora
-- javorc
+- /hikes/blegos
+- /hikes/slajka
+- /hikes/bukovvrh
+- /hikes/miklavskagora
+- /hikes/javorc
 peak: 46.153682,14.153111
 region: gorenjska
 title: Malenski vrh

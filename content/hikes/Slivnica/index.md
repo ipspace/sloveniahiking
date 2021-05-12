@@ -22,8 +22,8 @@ lead: M_3-1364_IMG.jpg
 maplink: https://mapzs.projekti.si/poi/5679
 name: Slivnica
 nearby:
-- borovniski_pekel
-- pokojisce
+- /hikes/borovniski_pekel
+- /hikes/pokojisce
 peak: 45.7899991,14.3990229
 start: 45.792868,14.367291
 title: Čarovniška Slivnica

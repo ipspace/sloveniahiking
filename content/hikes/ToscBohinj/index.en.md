@@ -9,11 +9,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/55
 name: ToscBohinj
 nearby:
-- velikidraskivrh
-- malidraskivrh
-- visevnik
-- jezerskistog
-- krstenica
+- /hikes/velikidraskivrh
+- /hikes/malidraskivrh
+- /hikes/visevnik
+- /hikes/jezerskistog
+- /hikes/krstenica
 peak: 46.356756,13.868350
 region: julian-alps
 start: 46.345450,13.923233

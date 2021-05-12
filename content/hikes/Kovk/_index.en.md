@@ -10,11 +10,11 @@ lead: M_4_1434.JPG
 maplink: https://mapzs.projekti.si/poi/1288
 name: Kovk
 nearby:
-- soncnica
-- starababa
-- plaz
-- otliskookno
-- gradiskatura
+- /hikes/soncnica
+- /hikes/starababa
+- /hikes/plaz
+- /hikes/otliskookno
+- /hikes/gradiskatura
 peak: 45.887981,13.969153
 region: vipava
 title: Kovk above Col

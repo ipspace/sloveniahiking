@@ -11,10 +11,10 @@ multilead: M_9-4934_IMG.JPG
 multipath: true
 name: Slavnik/Markovscina
 nearby:
-- slavnik
-- ostric
-- lipnik
-- vremscica
+- /hikes/slavnik
+- /hikes/ostric
+- /hikes/lipnik
+- /hikes/vremscica
 peak: 45.533685,13.975236
 region: istria
 start: 45.559779,14.031400

@@ -21,11 +21,11 @@ lead: M_5-6554_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/4709
 name: Krstenica
 nearby:
-- jezerskistog
-- vodicnivrh
-- vogar
-- toscbohinj
-- velikidraskivrh
+- /hikes/jezerskistog
+- /hikes/vodicnivrh
+- /hikes/vogar
+- /hikes/toscbohinj
+- /hikes/velikidraskivrh
 peak: 46.325865,13.851880
 region: julian-alps
 start: 46.310815,13.849374

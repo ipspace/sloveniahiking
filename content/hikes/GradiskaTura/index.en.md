@@ -20,11 +20,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/389
 name: GradiskaTura
 nearby:
-- svmiklavz_vipava
-- plaz
-- soncnica
-- kovk
-- starababa
+- /hikes/svmiklavz_vipava
+- /hikes/plaz
+- /hikes/soncnica
+- /hikes/kovk
+- /hikes/starababa
 peak: 45.829279,13.979692
 region: vipava
 start: 45.832270,13.971014

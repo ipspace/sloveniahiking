@@ -9,11 +9,11 @@ lead: M_9-5985_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/32992
 name: Lipanca
 nearby:
-- lipanskivrh
-- brdalipanca
-- debelapec
-- visevnik
-- malidraskivrh
+- /hikes/lipanskivrh
+- /hikes/brdalipanca
+- /hikes/debelapec
+- /hikes/visevnik
+- /hikes/malidraskivrh
 peak: 46.375630,13.927670
 region: julian-alps
 title: Lipanca pasture

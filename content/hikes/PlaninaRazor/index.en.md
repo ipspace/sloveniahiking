@@ -27,11 +27,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1017
 name: PlaninaRazor
 nearby:
-- vogelvrh
-- vogel
-- kobiljaglava
-- vodicnivrh
-- krstenica
+- /hikes/vogelvrh
+- /hikes/vogel
+- /hikes/kobiljaglava
+- /hikes/vodicnivrh
+- /hikes/krstenica
 peak: 46.235612,13.793350
 region: julian-alps
 start: 46.229377,13.771512

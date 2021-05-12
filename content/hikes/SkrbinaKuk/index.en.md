@@ -20,11 +20,11 @@ map: 1
 maplink: https://www.opencyclemap.org/?zoom=15&lat=46.09154&lon=13.85775&layers=B0000
 name: SkrbinaKuk
 nearby:
-- sebrelje
-- kobiljaglava
-- maligolak
-- vogelvrh
-- vogel
+- /hikes/sebrelje
+- /hikes/kobiljaglava
+- /hikes/maligolak
+- /hikes/vogelvrh
+- /hikes/vogel
 peak: 46.092487,13.853752
 region: primorska
 title: Škrbina and Kuk

@@ -9,8 +9,8 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/432
 name: GoraOljka_Polzela
 nearby:
-- krvavica
-- mrzlica
+- /hikes/krvavica
+- /hikes/mrzlica
 peak: 46.325631,15.058779
 region: stajerska
 title: Gora Oljka from Polzela

@@ -8,11 +8,11 @@ lead: M_1-3162_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/3908
 name: svLovrenc
 nearby:
-- oblenk
-- planinskagora
-- zibrse
-- zaplanatavzentroza
-- zaplanarovte
+- /hikes/oblenk
+- /hikes/planinskagora
+- /biking/zibrse
+- /biking/zaplanatavzentroza
+- /biking/zaplanarovte
 peak: 45.839190,14.168374
 region: notranjska
 title: St. Lovrenc near Postojna

@@ -13,11 +13,11 @@ multilead: M_1_2873.JPG
 multipath: true
 name: Lacna/Gracisce
 nearby:
-- lacna
-- marezigetrsek
-- kuk
-- hrastovljezazid
-- tinjan_osp
+- /hikes/lacna
+- /biking/marezigetrsek
+- /hikes/kuk
+- /hikes/hrastovljezazid
+- /hikes/tinjan_osp
 peak: 45.504969,13.885283
 region: istria
 start: 45.502752,13.874163

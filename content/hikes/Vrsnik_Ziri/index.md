@@ -9,11 +9,11 @@ lead: M_6-4646_IMG.JPG
 maplink: https://mapzs.projekti.si/path/31730
 name: Vrsnik_Ziri
 nearby:
-- goropeke
-- mrzlivrh_ziri
-- javorc
-- zaplanatavzentroza
-- ermanovec
+- /hikes/goropeke
+- /hikes/mrzlivrh_ziri
+- /hikes/javorc
+- /biking/zaplanatavzentroza
+- /hikes/ermanovec
 peak: 46.021711,14.094982
 region: gorenjska
 start: 46.041753,14.103844

@@ -9,10 +9,10 @@ height: 1763
 maplink: https://mapzs.projekti.si/poi/741
 name: Strelovec
 nearby:
-- kamniskosedlo
-- velikaplanina
-- kranjskareber
-- svprimoz_kamnik
+- /hikes/kamniskosedlo
+- /hikes/velikaplanina
+- /hikes/kranjskareber
+- /hikes/svprimoz_kamnik
 peak: 46.394324,14.658004
 photo_author: Mojca_Lustrek
 region: kamnik-alps

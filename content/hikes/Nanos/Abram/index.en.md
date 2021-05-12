@@ -21,11 +21,11 @@ multilead: M_20210223_101205.jpg
 multipath: true
 name: Abram
 nearby:
-- svmiklavz_vipava
-- gradiskatura
-- suhivrh
-- plaz
-- nanos
+- /hikes/svmiklavz_vipava
+- /hikes/gradiskatura
+- /hikes/suhivrh
+- /hikes/plaz
+- /hikes/nanos
 peak: 45.772613,14.053047
 region: vipava
 start: 45.819912,14.019444

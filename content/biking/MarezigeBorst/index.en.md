@@ -20,11 +20,11 @@ length: 23.3
 maplink: https://mapzs.projekti.si/poi/52206
 name: MarezigeBorst
 nearby:
-- marezigetrsek
-- marezigesmarje
-- abitanti
-- tinjan_osp
-- socerb
+- /biking/marezigetrsek
+- /biking/marezigesmarje
+- /hikes/abitanti
+- /hikes/tinjan_osp
+- /hikes/socerb
 region: istria
 start: 45.506823,13.798599
 title: From Marezige to Boršt

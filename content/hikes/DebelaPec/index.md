@@ -32,11 +32,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/140
 name: DebelaPec
 nearby:
-- brdalipanca
-- lipanskivrh
-- lipanca
-- visevnik
-- malidraskivrh
+- /hikes/brdalipanca
+- /hikes/lipanskivrh
+- /hikes/lipanca
+- /hikes/visevnik
+- /hikes/malidraskivrh
 peak: 46.390678,13.933335
 region: julian-alps
 start: 46.374746,13.941008

@@ -21,8 +21,8 @@ map: 1
 maplink: https://mapzs.projekti.si/path/31618
 name: CrniHribi
 nearby:
-- cerje
-- trstelj_dornberk
+- /hikes/cerje
+- /hikes/trstelj_dornberk
 peak: 45.868196,13.642593
 region: karst
 title: 'Črni hribi: from Italian border to Renče peak'

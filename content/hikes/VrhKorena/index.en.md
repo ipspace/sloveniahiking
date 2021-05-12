@@ -9,11 +9,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/145
 name: VrhKorena
 nearby:
-- kalskigreben
-- ambroz
-- grintovec
-- kamniskosedlo
-- okreselj
+- /hikes/kalskigreben
+- /hikes/ambroz
+- /hikes/grintovec
+- /hikes/kamniskosedlo
+- /hikes/okreselj
 peak: 46.315076,14.554277
 region: kamnik-alps
 start: 46.292898,14.537146

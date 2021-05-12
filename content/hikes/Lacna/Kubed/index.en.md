@@ -11,11 +11,11 @@ multilead: M_7-3711_IMG.JPG
 multipath: true
 name: Lacna/Kubed
 nearby:
-- lacna
-- marezigetrsek
-- hrastovljezazid
-- kuk
-- tinjan_osp
+- /hikes/lacna
+- /biking/marezigetrsek
+- /hikes/hrastovljezazid
+- /hikes/kuk
+- /hikes/tinjan_osp
 peak: 45.504969,13.885283
 region: istria
 start: 45.519562,13.869997

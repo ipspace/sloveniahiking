@@ -21,11 +21,11 @@ multilead: M_20210323_093528.jpg
 multipath: true
 name: Kamnje
 nearby:
-- skoljsvpavla
-- malagora
-- kucelj
-- caven
-- velikirob
+- /hikes/skoljsvpavla
+- /hikes/malagora
+- /hikes/kucelj
+- /hikes/caven
+- /hikes/velikirob
 peak: 45.928964,13.852867
 region: vipava
 start: 45.901010,13.834580

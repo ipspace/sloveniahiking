@@ -9,11 +9,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1230
 name: Tosc
 nearby:
-- polhograjskagrmada
-- svozbolt
-- svandrej_zminec
-- korena
-- kozljek
+- /hikes/polhograjskagrmada
+- /hikes/svozbolt
+- /hikes/svandrej_zminec
+- /hikes/korena
+- /hikes/kozljek
 peak: 46.097448,14.321274
 region: notranjska
 start: 46.076165,14.313252

@@ -20,10 +20,10 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1205
 name: BevkovVrh
 nearby:
-- ermanovec
-- mrzlivrh_ziri
-- porezen
-- hleviskeplanine
+- /hikes/ermanovec
+- /hikes/mrzlivrh_ziri
+- /hikes/porezen
+- /hikes/hleviskeplanine
 peak: 46.086057,14.004225
 region: gorenjska
 start: 46.084986,14.038951

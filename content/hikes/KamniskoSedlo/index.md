@@ -11,11 +11,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/3884
 name: KamniskoSedlo
 nearby:
-- okreselj
-- grintovec
-- kalskigreben
-- vrhkorena
-- strelovec
+- /hikes/okreselj
+- /hikes/grintovec
+- /hikes/kalskigreben
+- /hikes/vrhkorena
+- /hikes/strelovec
 peak: 46.359083,14.597487
 region: kamnik-alps
 start: 46.327137,14.589418

@@ -11,11 +11,11 @@ lead: M_2_2245.JPG
 maplink: https://mapzs.projekti.si/poi/1501
 name: Plaz
 nearby:
-- gradiskatura
-- svmiklavz_vipava
-- soncnica
-- kovk
-- starababa
+- /hikes/gradiskatura
+- /hikes/svmiklavz_vipava
+- /hikes/soncnica
+- /hikes/kovk
+- /hikes/starababa
 peak: 45.842405,13.972171
 region: vipava
 start: 45.832270,13.971014

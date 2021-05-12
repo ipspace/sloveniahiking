@@ -12,11 +12,11 @@ multilead: M_0_10275.JPG
 multipath: true
 name: Kucelj/svPavel
 nearby:
-- skoljsvpavla
-- kucelj
-- malagora
-- velikirob
-- caven
+- /hikes/skoljsvpavla
+- /hikes/kucelj
+- /hikes/malagora
+- /hikes/velikirob
+- /hikes/caven
 peak: 45.928761,13.825091
 region: vipava
 start: 45.909515,13.818130

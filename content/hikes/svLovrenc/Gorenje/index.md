@@ -13,11 +13,11 @@ multilead: M_1-3162_IMG.JPG
 multipath: true
 name: svLovrenc/Gorenje
 nearby:
-- svlovrenc
-- oblenk
-- zibrse
-- zaplanatavzentroza
-- zaplanarovte
+- /hikes/svlovrenc
+- /hikes/oblenk
+- /biking/zibrse
+- /biking/zaplanatavzentroza
+- /biking/zaplanarovte
 peak: 45.839190,14.168374
 region: notranjska
 start: 45.835079,14.154237

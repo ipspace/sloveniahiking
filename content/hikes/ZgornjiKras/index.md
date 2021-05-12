@@ -18,11 +18,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1726
 name: ZgornjiKras
 nearby:
-- socerb
-- kokos
-- tinjan_osp
-- lacna
-- hrastovljezazid
+- /hikes/socerb
+- /hikes/kokos
+- /hikes/tinjan_osp
+- /hikes/lacna
+- /hikes/hrastovljezazid
 peak: 45.601636,13.875859
 region: istria
 start: 45.588664,13.866753

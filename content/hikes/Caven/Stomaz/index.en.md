@@ -22,11 +22,11 @@ multilead: M_7_1797.JPG
 multipath: true
 name: Caven/Stomaz
 nearby:
-- malagora
-- caven
-- skoljsvpavla
-- kucelj
-- starababa
+- /hikes/malagora
+- /hikes/caven
+- /hikes/skoljsvpavla
+- /hikes/kucelj
+- /hikes/starababa
 peak: 45.928964,13.852867
 region: vipava
 start: 45.899641,13.856601

@@ -22,11 +22,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/142
 name: BrdaLipanca
 nearby:
-- lipanskivrh
-- debelapec
-- lipanca
-- visevnik
-- malidraskivrh
+- /hikes/lipanskivrh
+- /hikes/debelapec
+- /hikes/lipanca
+- /hikes/visevnik
+- /hikes/malidraskivrh
 peak: 46.385040,13.925494
 region: julian-alps
 start: 46.374746,13.941008

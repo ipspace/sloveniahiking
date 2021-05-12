@@ -12,11 +12,11 @@ multilead: M_0-5074_IMG.JPG
 multipath: true
 name: PolhograjskaGrmada/Ravnek
 nearby:
-- polhograjskagrmada
-- tosc
-- korena
-- kozljek
-- svozbolt
+- /hikes/polhograjskagrmada
+- /hikes/tosc
+- /hikes/korena
+- /hikes/kozljek
+- /hikes/svozbolt
 peak: 46.083811,14.332903
 start: 46.065069,14.316842
 title: Polhograjska Grmada through Ravnek

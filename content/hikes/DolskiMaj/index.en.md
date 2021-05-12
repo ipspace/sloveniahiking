@@ -18,11 +18,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/36608
 name: DolskiMaj
 nearby:
-- otliskookno
-- caven
-- malagora
-- starababa
-- kucelj
+- /hikes/otliskookno
+- /hikes/caven
+- /hikes/malagora
+- /hikes/starababa
+- /hikes/kucelj
 peak: 45.933692,13.893652
 region: vipava
 start: 45.943531,13.876619

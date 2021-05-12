@@ -18,11 +18,11 @@ length: 22.2
 maplink: https://mapzs.projekti.si/poi/5387
 name: ZaplanaRovte
 nearby:
-- spica
-- vrhnikazaplana
-- zibrse
-- zaplanatavzentroza
-- vs3k
+- /hikes/spica
+- /biking/vrhnikazaplana
+- /biking/zibrse
+- /biking/zaplanatavzentroza
+- /hikes/vs3k
 region: notranjska
 start: 45.970595,14.235152
 title: From Zaplana to Rovte

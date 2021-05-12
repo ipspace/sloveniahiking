@@ -12,10 +12,10 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/4193
 name: Lipnik
 nearby:
-- hrastovljezazid
-- kuk
-- podgorje
-- slavnik
+- /hikes/hrastovljezazid
+- /hikes/kuk
+- /hikes/podgorje
+- /hikes/slavnik
 peak: 45.479620,13.966214
 region: istria
 start: 45.499389,13.931462

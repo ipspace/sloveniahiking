@@ -11,11 +11,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/35964
 name: Rodne
 nearby:
-- sebrelje
-- kojca
-- porezen
-- crnaprst
-- hleviskeplanine
+- /hikes/sebrelje
+- /hikes/kojca
+- /hikes/porezen
+- /hikes/crnaprst
+- /hikes/hleviskeplanine
 peak: 46.130969,13.927604
 region: primorska
 start: 46.117423,13.921578

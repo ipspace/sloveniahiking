@@ -9,11 +9,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/3860
 name: BukovVrh
 nearby:
-- sivka
-- malenskivrh
-- kozljek
-- miklavskagora
-- vs3k
+- /hikes/sivka
+- /hikes/malenskivrh
+- /hikes/kozljek
+- /hikes/miklavskagora
+- /hikes/vs3k
 peak: 46.108922,14.215731
 region: gorenjska
 start: 46.118406,14.183872
