@@ -96,6 +96,9 @@ other="List of hikes"
 [hikeMap]
 other="Hiking map"
 
+[hikeNearby]
+other="Nearby trips"
+
 [hikeNoDescription]
 other="Hikes without description"
 

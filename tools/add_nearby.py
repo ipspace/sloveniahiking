@@ -57,8 +57,7 @@ def find_nearby_trips(t,trips):
                            (c['coords']['lat'],c['coords']['lon']),
                            (t['coords']['lat'],t['coords']['lon'])))
   return list(map(lambda c: 
-                    c['name'].lower() if not '/' in c['name']
-                    else '/%s/%s' % (c['type'],c['name'].lower()),
+                    '/%s/%s' % (c['type'],c['name'].lower()),
                   list(sort_nearby)[0:5]))
 
 def compute_nearby(trips):

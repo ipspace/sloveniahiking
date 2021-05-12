@@ -1,0 +1,12 @@
+{{ if .Params.nearby }}
+<div class="regbox decorated">
+  <h3 class="sidebar__title">{{ i18n "hikeNearby" }}</h3>
+  <ul>
+    {{ range .Params.nearby }}
+      {{ with $.Site.GetPage . }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

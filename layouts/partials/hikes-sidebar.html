@@ -7,6 +7,7 @@
     </a>
   </nav>
   {{ partialCached (printf "hikes-sidebar-browse-%s" .Lang) . }}
+  {{ partial "hikes-nearby" . }}
   {{ partialCached "hikes-sidebar-regions" . }}
   {{ partialCached "sidebar-updated.html" (dict "Site" .Site "Type" "hikes") .Section }}
   <!-- "/snippets/archive-sidebar.html" | readFile | safeHTML -->
