@@ -19,8 +19,12 @@
   {{ if .Content }}
     {{ .Content }}
   {{ else if eq .Lang "en" }}
-    <p>We don't have an English description of this hike yet.
-    Why don't you take the hike and contribute a description? Thank you!</p>
+    <p>We don't have an English description of this hike yet
+      {{ range .Translations }}
+        {{ if eq .Lang "sl" }}, but you might want to
+      <a href="https://translate.google.com/translate?sl=sl&tl=en&u={{ .Permalink }}">
+        try your luck with Google Translate</a>{{ end }}{{ end }}.
+      Also, it would be great if you would take the hike and contribute a description. Thank you!</p>
   {{ end }}
   {{ partial "photo-gallery" . }}
   {{ partial "hike-views" . }}
