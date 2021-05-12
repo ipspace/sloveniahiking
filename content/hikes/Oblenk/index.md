@@ -5,34 +5,13 @@ description: Hoja po neoznačenih poteh po hribovju nad Planino pri Rakeku je v 
   času še posebej zanimiva.
 duration: 4
 height: 937
-image:
-- M_1-4119_IMG.JPG
-- M_1-4133_IMG.JPG
-- M_1-4128_IMG.JPG
-- M_1-4132_IMG.JPG
-- M_1-4129_IMG.JPG
-- M_1-4105_IMG.JPG
-- M_1-4101_IMG.JPG
-- M_1-4106_IMG.JPG
-- M_1-4107_IMG.JPG
-- M_1-4111_IMG.JPG
-- M_1-4113_IMG.JPG
-- M_1-4114_IMG.JPG
-- M_1-4116_IMG.JPG
-- M_1-4123_IMG.JPG
-- M_1-4120_IMG.JPG
-- M_1-4125_IMG.JPG
-- M_1-4126_IMG.JPG
-- M_1-4127_IMG.JPG
 lead: M_1-4119_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/5751
 name: Oblenk
 peak: 45.834089,14.213203
-region: primorska
+region: notranjska
 start: 45.825786,14.236644
 title: Iz Planine na Petričev hrib (Oblenk)
-x: 439
-y: 77
 ---
 
 {{<figure src="M_1-4119_IMG.JPG">}}

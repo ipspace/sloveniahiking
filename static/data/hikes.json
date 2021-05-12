@@ -3117,14 +3117,12 @@
     "maplink": "https://mapzs.projekti.si/poi/5751",
     "name": "Oblenk",
     "peak": "45.834089,14.213203",
-    "region": "primorska",
+    "region": "notranjska",
     "start": "45.825786,14.236644",
     "title": {
       "sl": "Iz Planine na Petri\u010dev hrib (Oblenk)",
       "en": "From Planina to Petri\u010dev hrib (Oblenk)"
-    },
-    "x": 439,
-    "y": 77
+    }
   },
   {
     "date": "2008-02-17 00:00:00+00:00",
