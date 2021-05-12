@@ -92,7 +92,7 @@
     "delta": 510,
     "description": {
       "sl": "Strma pot na Slavnik iz Podgorja je verjetno najbolj zanimiva za tiste, ki bi si radi s strmimi vzponi nabirali kondicijo.",
-      "en": null
+      "en": "Since the overabundance of cohesion funds helped transform the [old dirt track](../podgorje) to [Slavnik](../) into a gravel road, I prefer to take the steeper footpath ascending directly toward the peak.\n"
     },
     "duration": 2.5,
     "height": 1028,
@@ -4685,7 +4685,8 @@
       "en": "\u017dibr\u0161e"
     },
     "video": "https://www.relive.cc/view/vNOPrjpEy2q/",
-    "type": "biking"
+    "type": "biking",
+    "center": "45.942805,14.165148"
   },
   {
     "title": {

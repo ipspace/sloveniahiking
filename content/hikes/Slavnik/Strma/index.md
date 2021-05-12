@@ -46,6 +46,8 @@ Strma pot na [Slavnik](../) iz [Podgorja](../podgorje) je verjetno najbolj zanim
 **Zemljevid**
 :   Slovenska Istra, Čičarija, Brkini in Kras, planinska karta 1 : 50.000
 
+{{<hike-details-extra>}}
+
 Kratek opis poti
 ----------------
 
@@ -61,8 +63,20 @@ Za vasjo vas pot pripelje na travnik. Ob robu gozda boste opazili oddajnik, mimo
 
 Za požarno cesto vas čaka še četrt ure precej strmega vzpona, nato pa že lahko uživate na razglednih travnikih pod Slavnikom; ti se tukaj začnejo precej prej, kot če se na Slavnik odpravite po lažji, položni poti. Tu in tam vas pot spet zapelje med borovce, nato pa se priključite kolovozu, po katerem je speljana položna pot, in v nekaj minutah pridete do planinske koče pod vrhom.
 
+## Slavnik pozimi
+
 {{<gallery>}} 
-{{<figure src="M_5_0588.JPG" caption="Travniki pod vroom">}}
+{{<figure src="M_5_0588.JPG" caption="Travniki pod vrhom">}}
 {{<figure src="M_5_0590.JPG" caption="Vrh Slavnika">}}
 {{</gallery>}}
 
+## Narcise so tudi na Slavniku
+
+{{<gallery>}}
+{{<figure src="M_20210510_094648.jpg">}}
+{{<figure src="M_20210510_095239.jpg">}}
+{{<figure src="M_20210510_095505.jpg">}}
+{{<figure src="M_20210510_095625.jpg">}}
+{{<figure src="M_20210510_100216.jpg">}}
+{{<figure src="M_20210510_110815.jpg">}}
+{{</gallery>}}
