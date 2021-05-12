@@ -33,6 +33,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/55",
     "name": "ToscBohinj",
+    "nearby": [
+      "velikidraskivrh",
+      "malidraskivrh",
+      "visevnik",
+      "jezerskistog",
+      "krstenica"
+    ],
     "peak": "46.356756,13.868350",
     "region": "julian-alps",
     "start": "46.345450,13.923233",
@@ -56,6 +63,13 @@
     "multilead": "M_4-5411_IMG.JPG",
     "multipath": true,
     "name": "Slavnik/Presnica",
+    "nearby": [
+      "podgorje",
+      "slavnik",
+      "zgornjikras",
+      "hrastovljezazid",
+      "lacna"
+    ],
     "peak": "45.533685,13.975236",
     "region": "istria",
     "start": "45.571174,13.938894",
@@ -79,6 +93,12 @@
     "multilead": "M_9-4934_IMG.JPG",
     "multipath": true,
     "name": "Slavnik/Markovscina",
+    "nearby": [
+      "slavnik",
+      "ostric",
+      "lipnik",
+      "vremscica"
+    ],
     "peak": "45.533685,13.975236",
     "region": "istria",
     "start": "45.559779,14.031400",
@@ -122,6 +142,12 @@
     "lead": "M_5-3555_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1235",
     "name": "Slavnik",
+    "nearby": [
+      "podgorje",
+      "hrastovljezazid",
+      "lipnik",
+      "kuk"
+    ],
     "peak": "45.533685,13.975236",
     "region": "istria",
     "title": {
@@ -164,6 +190,13 @@
     "lead": "M_8-6819_IMG.jpg",
     "maplink": "https://mapzs.projekti.si/path/32030",
     "name": "VogelVrh",
+    "nearby": [
+      "vogel",
+      "planinarazor",
+      "kobiljaglava",
+      "vodicnivrh",
+      "vogar"
+    ],
     "peak": "46.238331,13.812483",
     "region": "julian-alps",
     "start": "46.235612,13.793350",
@@ -184,6 +217,11 @@
     "lead": "M_9-3980_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1295",
     "name": "svJakob_Preddvor",
+    "nearby": [
+      "baba",
+      "kozjivrh",
+      "stegovnik"
+    ],
     "peak": "46.315115,14.440824",
     "region": "kamnik-alps",
     "start": "46.305721,14.432230",
@@ -207,6 +245,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/3884",
     "name": "KamniskoSedlo",
+    "nearby": [
+      "okreselj",
+      "grintovec",
+      "kalskigreben",
+      "vrhkorena",
+      "strelovec"
+    ],
     "peak": "46.359083,14.597487",
     "region": "kamnik-alps",
     "start": "46.327137,14.589418",
@@ -228,6 +273,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/36608",
     "name": "DolskiMaj",
+    "nearby": [
+      "otliskookno",
+      "caven",
+      "malagora",
+      "starababa",
+      "kucelj"
+    ],
     "peak": "45.933692,13.893652",
     "region": "vipava",
     "start": "45.943531,13.876619",
@@ -286,6 +338,9 @@
     "lead": "M_1-7159_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/118",
     "name": "Raduha",
+    "nearby": [
+      "kranjskareber"
+    ],
     "peak": "46.409848,14.737603",
     "region": "kamnik-alps",
     "title": {
@@ -306,6 +361,13 @@
     "map": 1,
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=46.09154&lon=13.85775&layers=B0000",
     "name": "SkrbinaKuk",
+    "nearby": [
+      "sebrelje",
+      "kobiljaglava",
+      "maligolak",
+      "vogelvrh",
+      "vogel"
+    ],
     "peak": "46.092487,13.853752",
     "region": "primorska",
     "title": {
@@ -328,6 +390,9 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1305",
     "name": "Creta",
+    "nearby": [
+      "krvavica"
+    ],
     "peak": "46.279198,14.960822",
     "region": "kamnik-alps",
     "title": {
@@ -349,6 +414,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/77",
     "name": "KalskiGreben",
+    "nearby": [
+      "vrhkorena",
+      "grintovec",
+      "kamniskosedlo",
+      "okreselj",
+      "ambroz"
+    ],
     "peak": "46.331441,14.537686",
     "region": "kamnik-alps",
     "title": {
@@ -372,6 +444,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5499",
     "name": "Kozljek",
+    "nearby": [
+      "korena",
+      "sivka",
+      "spica",
+      "vrhnikazaplana",
+      "zaplanarovte"
+    ],
     "peak": "46.034295,14.254920",
     "region": "notranjska",
     "title": {
@@ -394,6 +473,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/107",
     "name": "VelikiVrh",
+    "nearby": [
+      "kosutica",
+      "korosica",
+      "kofce",
+      "kladivo",
+      "dobrca"
+    ],
     "peak": "46.430531,14.309551",
     "region": "karavanke",
     "start": "46.417705,14.323757",
@@ -452,6 +538,13 @@
     "lead": "M_4-4463_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1226",
     "name": "Ermanovec",
+    "nearby": [
+      "slajka",
+      "bevkovvrh",
+      "mrzlivrh_ziri",
+      "blegos",
+      "goropeke"
+    ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
     "title": {
@@ -494,6 +587,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/path/31018",
     "name": "Vogel",
+    "nearby": [
+      "vogelvrh",
+      "planinarazor",
+      "kobiljaglava",
+      "vodicnivrh",
+      "vogar"
+    ],
     "peak": "46.239553,13.821832",
     "region": "julian-alps",
     "start": "46.263587,13.840046",
@@ -518,6 +618,11 @@
     "lead": "M_00004.jpg",
     "maplink": "https://mapzs.projekti.si/poi/773",
     "name": "Stegovnik",
+    "nearby": [
+      "kozjivrh",
+      "svjakob_preddvor",
+      "baba"
+    ],
     "peak": "46.395233,14.419961",
     "photo_author": "Milos_Kobe",
     "region": "karavanke",
@@ -541,6 +646,7 @@
     "lead": "M_9_1992.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1203",
     "name": "Ostric",
+    "nearby": [],
     "peak": "45.491474,14.073402",
     "region": "istria",
     "start": "45.505571,14.056139",
@@ -564,6 +670,12 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/4193",
     "name": "Lipnik",
+    "nearby": [
+      "hrastovljezazid",
+      "kuk",
+      "podgorje",
+      "slavnik"
+    ],
     "peak": "45.479620,13.966214",
     "region": "istria",
     "start": "45.499389,13.931462",
@@ -585,6 +697,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5276",
     "name": "MaliGolak",
+    "nearby": [
+      "dolskimaj",
+      "caven",
+      "kucelj",
+      "malagora",
+      "velikirob"
+    ],
     "peak": "45.978565,13.864346",
     "region": "primorska",
     "title": {
@@ -608,6 +727,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/4915",
     "name": "svAndrej_Zminec",
+    "nearby": [
+      "svozbolt",
+      "tosc",
+      "polhograjskagrmada",
+      "korena",
+      "kozljek"
+    ],
     "peak": "46.135750,14.301741",
     "region": "gorenjska",
     "title": {
@@ -628,6 +754,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5651",
     "name": "svVid_Catez",
+    "nearby": [],
     "peak": "45.884909,15.597638",
     "region": "dolenjska",
     "title": {
@@ -650,6 +777,13 @@
     "multilead": "M_4_0493.JPG",
     "multipath": true,
     "name": "Blegos/Volaka",
+    "nearby": [
+      "blegos",
+      "slajka",
+      "malenskivrh",
+      "ermanovec",
+      "javorc"
+    ],
     "peak": "46.164802,14.113583",
     "start": "46.143675,14.105743",
     "title": {
@@ -671,6 +805,13 @@
     "multilead": "M_4_1416.JPG",
     "multipath": true,
     "name": "Blegos/CrniVrh",
+    "nearby": [
+      "porezen",
+      "slajka",
+      "ermanovec",
+      "bevkovvrh",
+      "mrzlivrh_ziri"
+    ],
     "peak": "46.164802,14.113583",
     "start": "46.171139,14.042610",
     "title": {
@@ -693,6 +834,13 @@
     "multilead": "M_0_00630.JPG",
     "multipath": true,
     "name": "Blegos/Leskovica",
+    "nearby": [
+      "blegos",
+      "slajka",
+      "malenskivrh",
+      "ermanovec",
+      "javorc"
+    ],
     "peak": "46.164802,14.113583",
     "start": "46.147414,14.085812",
     "title": {
@@ -710,6 +858,13 @@
     "lead": "M_4_0469.JPG",
     "maplink": "https://mapzs.projekti.si/poi/4875",
     "name": "Blegos",
+    "nearby": [
+      "malenskivrh",
+      "slajka",
+      "ermanovec",
+      "javorc",
+      "mrzlivrh_ziri"
+    ],
     "peak": "46.164802,14.113583",
     "region": "gorenjska",
     "title": {
@@ -734,6 +889,13 @@
     "multilead": "M_4_0466.JPG",
     "multipath": true,
     "name": "Blegos/Hotavlje",
+    "nearby": [
+      "slajka",
+      "malenskivrh",
+      "blegos",
+      "ermanovec",
+      "javorc"
+    ],
     "peak": "46.164802,14.113583",
     "start": "46.124584,14.117533",
     "title": {
@@ -754,6 +916,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1277",
     "name": "Boc",
+    "nearby": [],
     "peak": "46.289296,15.599824",
     "region": [
       "karavanke",
@@ -778,6 +941,13 @@
     "lead": "M_005021110.jpg",
     "maplink": "https://mapzs.projekti.si/poi/34918",
     "name": "Uskovnica",
+    "nearby": [
+      "visevnik",
+      "vogar",
+      "krstenica",
+      "malidraskivrh",
+      "velikidraskivrh"
+    ],
     "peak": "46.322242,13.907812",
     "photo_author": "Mojca_Lustrek",
     "region": "julian-alps",
@@ -803,6 +973,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/389",
     "name": "GradiskaTura",
+    "nearby": [
+      "svmiklavz_vipava",
+      "plaz",
+      "soncnica",
+      "kovk",
+      "starababa"
+    ],
     "peak": "45.829279,13.979692",
     "region": "vipava",
     "start": "45.832270,13.971014",
@@ -814,6 +991,11 @@
     "y": 77
   },
   {
+    "alt": {
+      "delta": 670,
+      "duration": 5,
+      "start": "45.918867,13.805844"
+    },
     "date": "2021-02-26 18:04:54+00:00",
     "delta": 1050,
     "description": {
@@ -826,6 +1008,13 @@
     "lead": "M_20210226_124917.jpg",
     "maplink": "https://mapzs.projekti.si/poi/5266",
     "name": "VelikiRob",
+    "nearby": [
+      "kucelj",
+      "skoljsvpavla",
+      "caven",
+      "malagora",
+      "maligolak"
+    ],
     "peak": "45.934367,13.802914",
     "region": "vipava",
     "start": "45.903937,13.797679",
@@ -838,16 +1027,10 @@
       "sl": "Veliki Rob iz Goja\u010d/Zasoda",
       "en": "Veliki Rob from Goja\u010de/Zasod"
     },
-    "video": "https://www.relive.cc/view/veqz3XLBDBv/",
-    "alt": {
-      "start": "45.918867,13.805844",
-      "delta": 670,
-      "duration": 5
-    }
+    "video": "https://www.relive.cc/view/veqz3XLBDBv/"
   },
   {
     "date": "2004-10-10 00:00:00+00:00",
-    "lastmod": "2021-03-25 14:58:00",
     "delta": 420,
     "description": {
       "sl": "Za strmimi skalnatimi pobo\u010dji nad dolino Idrijce se skriva son\u010den gri\u010devnat svet \u0160ebreljske planote",
@@ -855,13 +1038,21 @@
     },
     "duration": 3,
     "height": 630,
+    "lastmod": "2021-03-25 14:58:00",
     "lead": "M_8_1840.JPG",
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1419",
     "name": "Sebrelje",
+    "nearby": [
+      "rodne",
+      "kojca",
+      "skrbinakuk",
+      "porezen",
+      "crnaprst"
+    ],
+    "peak": "46.110149,13.917076",
     "region": "primorska",
     "start": "46.117423,13.921578",
-    "peak": "46.110149,13.917076",
     "title": {
       "sl": "Sv. Ivan in \u0160ebreljska planota",
       "en": "St. Ivan and \u0160ebrelje"
@@ -883,6 +1074,13 @@
     "multilead": "M_5_0514.JPG",
     "multipath": true,
     "name": "PolhograjskaGrmada/Gonte",
+    "nearby": [
+      "polhograjskagrmada",
+      "tosc",
+      "korena",
+      "svozbolt",
+      "kozljek"
+    ],
     "peak": "46.083811,14.332903",
     "start": "46.075996,14.313156",
     "title": {
@@ -906,6 +1104,13 @@
     "multilead": "M_2-6217_IMG.JPG",
     "multipath": true,
     "name": "PolhograjskaGrmada/Belica",
+    "nearby": [
+      "polhograjskagrmada",
+      "tosc",
+      "korena",
+      "svozbolt",
+      "svandrej_zminec"
+    ],
     "peak": "46.083811,14.332903",
     "start": "46.068726,14.352170",
     "title": {
@@ -929,6 +1134,13 @@
     "multilead": "M_0-5074_IMG.JPG",
     "multipath": true,
     "name": "PolhograjskaGrmada/Ravnek",
+    "nearby": [
+      "polhograjskagrmada",
+      "tosc",
+      "korena",
+      "kozljek",
+      "svozbolt"
+    ],
     "peak": "46.083811,14.332903",
     "start": "46.065069,14.316842",
     "title": {
@@ -946,6 +1158,12 @@
     "lead": "M_0-5040_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/196",
     "name": "PolhograjskaGrmada",
+    "nearby": [
+      "tosc",
+      "svozbolt",
+      "korena",
+      "svandrej_zminec"
+    ],
     "peak": "46.083811,14.332903",
     "region": "notranjska",
     "title": {
@@ -968,6 +1186,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/145",
     "name": "VrhKorena",
+    "nearby": [
+      "kalskigreben",
+      "ambroz",
+      "grintovec",
+      "kamniskosedlo",
+      "okreselj"
+    ],
     "peak": "46.315076,14.554277",
     "region": "kamnik-alps",
     "start": "46.292898,14.537146",
@@ -989,6 +1214,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/278",
     "name": "HleviskePlanine",
+    "nearby": [
+      "mrzlivrh_ziri",
+      "bevkovvrh",
+      "kovk",
+      "soncnica",
+      "ermanovec"
+    ],
     "peak": "45.987225,13.995846",
     "region": "primorska",
     "start": "46.000427,14.023701",
@@ -1011,6 +1243,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5098",
     "name": "Porezen",
+    "nearby": [
+      "kojca",
+      "rodne",
+      "crnaprst",
+      "sebrelje",
+      "bevkovvrh"
+    ],
     "peak": "46.177165,13.974299",
     "region": "primorska",
     "start": "46.156137,13.944936",
@@ -1035,6 +1274,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1017",
     "name": "PlaninaRazor",
+    "nearby": [
+      "vogelvrh",
+      "vogel",
+      "kobiljaglava",
+      "vodicnivrh",
+      "krstenica"
+    ],
     "peak": "46.235612,13.793350",
     "region": "julian-alps",
     "start": "46.229377,13.771512",
@@ -1058,6 +1304,9 @@
     "lead": "M_008032703.jpg",
     "maplink": "https://mapzs.projekti.si/poi/360",
     "name": "Kotecnik",
+    "nearby": [
+      "kamnik"
+    ],
     "peak": "46.201409,15.181412",
     "photo_author": "Mojca_Lustrek",
     "region": "posavje",
@@ -1079,6 +1328,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/3860",
     "name": "BukovVrh",
+    "nearby": [
+      "sivka",
+      "malenskivrh",
+      "kozljek",
+      "miklavskagora",
+      "vs3k"
+    ],
     "peak": "46.108922,14.215731",
     "region": "gorenjska",
     "start": "46.118406,14.183872",
@@ -1100,6 +1356,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/path/31675",
     "name": "KobiljaGlava",
+    "nearby": [
+      "planinarazor",
+      "vogelvrh",
+      "vogel",
+      "skrbinakuk",
+      "vodicnivrh"
+    ],
     "peak": "46.190011,13.795463",
     "region": "julian-alps",
     "start": "46.190533,13.782526",
@@ -1152,6 +1415,10 @@
     "height": 1027,
     "maplink": "https://mapzs.projekti.si/poi/1227",
     "name": "Vremscica",
+    "nearby": [
+      "nanos",
+      "suhivrh"
+    ],
     "peak": "45.688293,14.061574",
     "region": "primorska",
     "title": {
@@ -1183,6 +1450,13 @@
     "multilead": "M_3_1379.JPG",
     "multipath": true,
     "name": "VelikaPlanina/Volovjek",
+    "nearby": [
+      "kranjskareber",
+      "velikaplanina",
+      "svprimoz_kamnik",
+      "strelovec",
+      "raduha"
+    ],
     "peak": "46.298105,14.643921",
     "region": "kamnik-alps",
     "start": "46.283258,14.688441",
@@ -1220,6 +1494,13 @@
     "lead": "M_3_1378.JPG",
     "maplink": "https://mapzs.projekti.si/poi/836",
     "name": "VelikaPlanina",
+    "nearby": [
+      "svprimoz_kamnik",
+      "kranjskareber",
+      "kamniskosedlo",
+      "okreselj",
+      "strelovec"
+    ],
     "peak": "46.298105,14.643921",
     "region": "kamnik-alps",
     "title": {
@@ -1240,6 +1521,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/path/32647",
     "name": "svAnton",
+    "nearby": [],
     "peak": "46.560801,15.203008",
     "region": "pohorje",
     "title": {
@@ -1260,6 +1542,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/4975",
     "name": "Visevnik",
+    "nearby": [
+      "malidraskivrh",
+      "velikidraskivrh",
+      "toscbohinj",
+      "lipanskivrh",
+      "lipanca"
+    ],
     "peak": "46.358914,13.898428",
     "region": "julian-alps",
     "start": "46.345450,13.923233",
@@ -1283,6 +1572,9 @@
     "lead": "M_008051108.jpg",
     "maplink": "https://mapzs.projekti.si/poi/6048",
     "name": "Klek",
+    "nearby": [
+      "golica"
+    ],
     "peak": "46.485362,14.025710",
     "photo_author": "Mojca_Lustrek",
     "region": "karavanke",
@@ -1304,6 +1596,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1352",
     "name": "ZavcarjevVrh",
+    "nearby": [],
     "peak": "46.600905,15.523045",
     "region": "stajerska",
     "title": {
@@ -1323,6 +1616,12 @@
     "height": 1119,
     "lead": "M_5100101.jpg",
     "name": "Baba",
+    "nearby": [
+      "svjakob_preddvor",
+      "kozjivrh",
+      "ambroz",
+      "stegovnik"
+    ],
     "peak": "46.31047,14.46331",
     "photo_author": "Mojca_Lustrek",
     "region": "kamnik-alps",
@@ -1344,6 +1643,13 @@
     "lead": "M_2_2245.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1501",
     "name": "Plaz",
+    "nearby": [
+      "gradiskatura",
+      "svmiklavz_vipava",
+      "soncnica",
+      "kovk",
+      "starababa"
+    ],
     "peak": "45.842405,13.972171",
     "region": "vipava",
     "start": "45.832270,13.971014",
@@ -1367,6 +1673,13 @@
     "multilead": "M_9-5979_IMG.JPG",
     "multipath": true,
     "name": "Lipanca/MedvedovaKonta",
+    "nearby": [
+      "lipanca",
+      "brdalipanca",
+      "lipanskivrh",
+      "debelapec",
+      "visevnik"
+    ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
     "start": "46.374746,13.941008",
@@ -1390,6 +1703,13 @@
     "multilead": "M_9-5930_IMG.JPG",
     "multipath": true,
     "name": "Lipanca/RudnoPolje",
+    "nearby": [
+      "visevnik",
+      "uskovnica",
+      "malidraskivrh",
+      "lipanca",
+      "lipanskivrh"
+    ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
     "start": "46.345450,13.923233",
@@ -1413,6 +1733,13 @@
     "multilead": "M_1_0120.JPG",
     "multipath": true,
     "name": "Lipanca/Javornik",
+    "nearby": [
+      "lipanca",
+      "uskovnica",
+      "visevnik",
+      "lipanskivrh",
+      "brdalipanca"
+    ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
     "start": "46.341596,13.961097",
@@ -1436,6 +1763,13 @@
     "multilead": "M_2_2208.JPG",
     "multipath": true,
     "name": "Lipanca/Spomenik",
+    "nearby": [
+      "lipanca",
+      "lipanskivrh",
+      "brdalipanca",
+      "debelapec",
+      "visevnik"
+    ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
     "start": "46.365980,13.934012",
@@ -1454,6 +1788,13 @@
     "lead": "M_9-5985_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/32992",
     "name": "Lipanca",
+    "nearby": [
+      "lipanskivrh",
+      "brdalipanca",
+      "debelapec",
+      "visevnik",
+      "malidraskivrh"
+    ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
     "title": {
@@ -1476,6 +1817,13 @@
     "lead": "M_007080902.jpg",
     "maplink": "https://mapzs.projekti.si/poi/10",
     "name": "Grintovec",
+    "nearby": [
+      "kalskigreben",
+      "okreselj",
+      "kamniskosedlo",
+      "vrhkorena",
+      "ambroz"
+    ],
     "peak": "46.357097,14.535416",
     "photo_author": "Mojca_Lustrek",
     "region": "kamnik-alps",
@@ -1533,6 +1881,13 @@
     "height": 844,
     "maplink": "https://mapzs.projekti.si/poi/4410",
     "name": "Vs3k",
+    "nearby": [
+      "goropeke",
+      "zaplanatavzentroza",
+      "zaplanarovte",
+      "javorc",
+      "zibrse"
+    ],
     "peak": "46.010608,14.168462",
     "region": "notranjska",
     "title": {
@@ -1552,6 +1907,13 @@
     "lead": "M_8-3831_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/34550",
     "name": "MrzliVrh_Ziri",
+    "nearby": [
+      "vrsnik_ziri",
+      "ermanovec",
+      "goropeke",
+      "bevkovvrh",
+      "slajka"
+    ],
     "peak": "46.054579,14.061365",
     "region": "gorenjska",
     "start": "46.047329,14.108442",
@@ -1574,6 +1936,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/4207",
     "name": "Padna",
+    "nearby": [],
     "peak": "45.491149,13.689970",
     "region": "istria",
     "start": "45.494227,13.677033",
@@ -1597,6 +1960,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/6303",
     "name": "Ambroz",
+    "nearby": [
+      "vrhkorena",
+      "kalskigreben",
+      "baba",
+      "grintovec",
+      "kamniskosedlo"
+    ],
     "peak": "46.275034,14.529412",
     "region": "kamnik-alps",
     "title": {
@@ -1617,6 +1987,11 @@
     "lead": "M_0006.jpg",
     "maplink": "https://mapzs.projekti.si/poi/940",
     "name": "KranjskaReber",
+    "nearby": [
+      "velikaplanina",
+      "strelovec",
+      "raduha"
+    ],
     "peak": "46.284542,14.711178",
     "photo_author": "Mojca_Lustrek",
     "region": "kamnik-alps",
@@ -1639,6 +2014,13 @@
     "lead": "M_7-4705_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1827",
     "name": "Tinjan_Osp",
+    "nearby": [
+      "socerb",
+      "zgornjikras",
+      "marezigetrsek",
+      "lacna",
+      "marezigeborst"
+    ],
     "peak": "45.561375,13.835055",
     "region": "istria",
     "start": "45.571298,13.857212",
@@ -1662,6 +2044,7 @@
     "lead": "M_007011903.jpg",
     "maplink": "https://mapzs.projekti.si/poi/4162",
     "name": "Smuk",
+    "nearby": [],
     "peak": "45.661401,15.179623",
     "photo_author": "Joze_Zugelj",
     "region": "bela-krajina",
@@ -1692,7 +2075,14 @@
     "maplink": "https://mapzs.projekti.si/path/30815",
     "multilead": "M_20210223_101205.jpg",
     "multipath": true,
-    "name": "Abram",
+    "name": "Nanos/Abram",
+    "nearby": [
+      "svmiklavz_vipava",
+      "gradiskatura",
+      "suhivrh",
+      "plaz",
+      "nanos"
+    ],
     "peak": "45.772613,14.053047",
     "region": "vipava",
     "start": "45.819912,14.019444",
@@ -1756,6 +2146,11 @@
     "lead": "M_2_0206.JPG",
     "maplink": "https://mapzs.projekti.si/poi/3080",
     "name": "Nanos",
+    "nearby": [
+      "suhivrh",
+      "vremscica",
+      "svduh_podkraj"
+    ],
     "peak": "45.769507,14.056388",
     "region": "vipava",
     "title": {
@@ -1779,6 +2174,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1726",
     "name": "ZgornjiKras",
+    "nearby": [
+      "socerb",
+      "kokos",
+      "tinjan_osp",
+      "lacna",
+      "hrastovljezazid"
+    ],
     "peak": "45.601636,13.875859",
     "region": "istria",
     "start": "45.588664,13.866753",
@@ -1802,6 +2204,7 @@
     "lead": "M_01.jpg",
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.8936&lon=14.60601&layers=B0000",
     "name": "svAhac",
+    "nearby": [],
     "peak": "45.893531,14.605998",
     "photo_author": "Milos_Kobe",
     "region": "dolenjska",
@@ -1823,6 +2226,13 @@
     "lead": "M_5-6554_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/4709",
     "name": "Krstenica",
+    "nearby": [
+      "jezerskistog",
+      "vodicnivrh",
+      "vogar",
+      "toscbohinj",
+      "velikidraskivrh"
+    ],
     "peak": "46.325865,13.851880",
     "region": "julian-alps",
     "start": "46.310815,13.849374",
@@ -1845,6 +2255,13 @@
     "lead": "M_6-4646_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/path/31730",
     "name": "Vrsnik_Ziri",
+    "nearby": [
+      "goropeke",
+      "mrzlivrh_ziri",
+      "javorc",
+      "zaplanatavzentroza",
+      "ermanovec"
+    ],
     "peak": "46.021711,14.094982",
     "region": "gorenjska",
     "start": "46.041753,14.103844",
@@ -1867,6 +2284,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/6050",
     "name": "VodicniVrh",
+    "nearby": [
+      "vogar",
+      "krstenica",
+      "jezerskistog",
+      "uskovnica",
+      "toscbohinj"
+    ],
     "peak": "46.301639,13.84331",
     "region": "julian-alps",
     "start": "46.296755,13.867167",
@@ -1890,6 +2314,13 @@
     "lead": "M_20210222_002.jpg",
     "maplink": "https://mapzs.projekti.si/path/31616",
     "name": "PlaninskaGora",
+    "nearby": [
+      "oblenk",
+      "svlovrenc",
+      "zibrse",
+      "vrhnikazaplana",
+      "spica"
+    ],
     "peak": "45.837401,14.233887",
     "start": "45.836412,14.255054",
     "timing": [
@@ -1922,6 +2353,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5353",
     "name": "TrijeKralji",
+    "nearby": [],
     "peak": "46.437693,15.458936",
     "region": "pohorje",
     "title": {
@@ -1943,6 +2375,9 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/4676",
     "name": "Vrtaca",
+    "nearby": [
+      "dobrca"
+    ],
     "peak": "46.439900,14.212625",
     "region": "karavanke",
     "start": "46.432068,14.259282",
@@ -1964,6 +2399,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/142",
     "name": "BrdaLipanca",
+    "nearby": [
+      "lipanskivrh",
+      "debelapec",
+      "lipanca",
+      "visevnik",
+      "malidraskivrh"
+    ],
     "peak": "46.385040,13.925494",
     "region": "julian-alps",
     "start": "46.374746,13.941008",
@@ -1987,6 +2429,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/6517",
     "name": "Sivka",
+    "nearby": [
+      "bukovvrh",
+      "javorc",
+      "kozljek",
+      "vs3k",
+      "malenskivrh"
+    ],
     "peak": "46.072944,14.209167",
     "region": "notranjska",
     "start": "46.069156,14.272721",
@@ -2008,6 +2457,13 @@
     "lead": "M_007110905.jpg",
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.8936&lon=14.60601&layers=B0000",
     "name": "MiklavskaGora",
+    "nearby": [
+      "malenskivrh",
+      "jamnik_vodice",
+      "bukovvrh",
+      "sivka",
+      "javorc"
+    ],
     "peak": "46.211008,14.190950",
     "photo_author": "Mojca_Lustrek",
     "region": "gorenjska",
@@ -2030,6 +2486,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/140",
     "name": "DebelaPec",
+    "nearby": [
+      "brdalipanca",
+      "lipanskivrh",
+      "lipanca",
+      "visevnik",
+      "malidraskivrh"
+    ],
     "peak": "46.390678,13.933335",
     "region": "julian-alps",
     "start": "46.374746,13.941008",
@@ -2062,6 +2525,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/34824",
     "name": "Sneznik",
+    "nearby": [],
     "peak": "45.588478,14.447613",
     "region": "notranjska",
     "start": "45.574142,14.401174",
@@ -2084,6 +2548,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/4686",
     "name": "Dobrca",
+    "nearby": [
+      "korosica",
+      "velikivrh",
+      "vrtaca",
+      "kosutica",
+      "jamnik_vodice"
+    ],
     "peak": "46.380703,14.252813",
     "region": "karavanke",
     "title": {
@@ -2104,6 +2575,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/4940",
     "name": "MalenskiVrh",
+    "nearby": [
+      "blegos",
+      "slajka",
+      "bukovvrh",
+      "miklavskagora",
+      "javorc"
+    ],
     "peak": "46.153682,14.153111",
     "region": "gorenjska",
     "title": {
@@ -2121,13 +2599,20 @@
     "duration": 2,
     "height": 1019,
     "lead": "M_1-3162_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/3908",
     "multilead": "M_1-3162_IMG.JPG",
     "multipath": true,
-    "maplink": "https://mapzs.projekti.si/poi/3908",
     "name": "svLovrenc/Gorenje",
+    "nearby": [
+      "svlovrenc",
+      "oblenk",
+      "zibrse",
+      "zaplanatavzentroza",
+      "zaplanarovte"
+    ],
     "peak": "45.839190,14.168374",
-    "start": "45.835079,14.154237",
     "region": "notranjska",
+    "start": "45.835079,14.154237",
     "title": {
       "sl": "Na Sv. Lovrenc iz Gorenja",
       "en": "St. Lovrenc from Gorenje"
@@ -2145,10 +2630,17 @@
     "height": 1019,
     "layout": "stub",
     "lead": "M_20210322_080329.jpg",
+    "maplink": "https://mapzs.projekti.si/path/31624",
     "multilead": "M_20210322_080329.jpg",
     "multipath": true,
-    "maplink": "https://mapzs.projekti.si/path/31624",
     "name": "Studeno",
+    "nearby": [
+      "svlovrenc",
+      "oblenk",
+      "planinskagora",
+      "zibrse",
+      "zaplanatavzentroza"
+    ],
     "path": "http://www.hribi.net/izlet/studeno_gora_sveti_lovrenc_/26/804/1432",
     "peak": "45.839000,14.167335",
     "region": "notranjska",
@@ -2174,6 +2666,13 @@
     "lead": "M_1-3162_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/3908",
     "name": "svLovrenc",
+    "nearby": [
+      "oblenk",
+      "planinskagora",
+      "zibrse",
+      "zaplanatavzentroza",
+      "zaplanarovte"
+    ],
     "peak": "45.839190,14.168374",
     "region": "notranjska",
     "title": {
@@ -2196,6 +2695,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/18",
     "name": "Stenar",
+    "nearby": [
+      "sleme",
+      "toscbohinj",
+      "velikidraskivrh",
+      "jezerskistog",
+      "krstenica"
+    ],
     "peak": "46.408035,13.818710",
     "region": "julian-alps",
     "start": "46.412627,13.846501",
@@ -2244,6 +2750,7 @@
     "lead": "M_2-2217_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/34828",
     "name": "Krim",
+    "nearby": [],
     "peak": "45.928570,14.471184",
     "photo_author": "Mojca_Lustrek",
     "region": "notranjska",
@@ -2263,6 +2770,12 @@
     "height": 826,
     "maplink": "https://mapzs.projekti.si/poi/233",
     "name": "svPrimoz_Kamnik",
+    "nearby": [
+      "velikaplanina",
+      "kamniskosedlo",
+      "okreselj",
+      "strelovec"
+    ],
     "peak": "46.268999,14.633848",
     "region": "kamnik-alps",
     "start": "46.267103,14.603767",
@@ -2293,6 +2806,12 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1205",
     "name": "BevkovVrh",
+    "nearby": [
+      "ermanovec",
+      "mrzlivrh_ziri",
+      "porezen",
+      "hleviskeplanine"
+    ],
     "peak": "46.086057,14.004225",
     "region": "gorenjska",
     "start": "46.084986,14.038951",
@@ -2314,6 +2833,13 @@
     "map": 1,
     "maplink": "https://www.opencyclemap.org/?zoom=10&lat=46.11316&lon=14.09347&layers=B0000",
     "name": "Slajka",
+    "nearby": [
+      "ermanovec",
+      "blegos",
+      "javorc",
+      "malenskivrh",
+      "mrzlivrh_ziri"
+    ],
     "peak": "46.11316,14.09347",
     "region": "gorenjska",
     "title": {
@@ -2334,6 +2860,13 @@
     "lead": "M_6-1674_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/6254",
     "name": "Okreselj",
+    "nearby": [
+      "kamniskosedlo",
+      "grintovec",
+      "kalskigreben",
+      "vrhkorena",
+      "velikaplanina"
+    ],
     "peak": "46.369294,14.586485",
     "region": "kamnik-alps",
     "title": {
@@ -2354,6 +2887,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/842",
     "name": "Korosica",
+    "nearby": [
+      "kosutica",
+      "velikivrh",
+      "kofce",
+      "kladivo",
+      "dobrca"
+    ],
     "peak": "46.434220,14.292107",
     "region": "karavanke",
     "start": "46.427870,14.272455",
@@ -2375,6 +2915,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1026",
     "name": "Kojca",
+    "nearby": [
+      "rodne",
+      "porezen",
+      "sebrelje",
+      "crnaprst",
+      "vogar"
+    ],
     "peak": "46.153889,13.926612",
     "region": "primorska",
     "start": "46.156103,13.944929",
@@ -2396,6 +2943,12 @@
     "lead": "M_006070701.jpg",
     "maplink": "https://mapzs.projekti.si/poi/104",
     "name": "Kladivo",
+    "nearby": [
+      "kofce",
+      "velikivrh",
+      "kosutica",
+      "korosica"
+    ],
     "peak": "46.437281,14.344111",
     "photo_author": "Mojca_Lustrek",
     "region": "karavanke",
@@ -2452,6 +3005,13 @@
     "lead": "M_4-4461_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1368",
     "name": "Javorc",
+    "nearby": [
+      "goropeke",
+      "sivka",
+      "slajka",
+      "vrsnik_ziri",
+      "vs3k"
+    ],
     "peak": "46.070345,14.141830",
     "region": "gorenjska",
     "title": {
@@ -2527,6 +3087,12 @@
     "lead": "M_3_0331.JPG",
     "maplink": "https://mapzs.projekti.si/poi/34621",
     "name": "Kofce",
+    "nearby": [
+      "velikivrh",
+      "kladivo",
+      "kosutica",
+      "korosica"
+    ],
     "peak": "46.417820,14.323948",
     "region": "karavanke",
     "title": {
@@ -2548,6 +3114,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5296",
     "name": "OtliskoOkno",
+    "nearby": [
+      "starababa",
+      "dolskimaj",
+      "caven",
+      "malagora",
+      "soncnica"
+    ],
     "peak": "45.917544,13.911851",
     "region": "vipava",
     "start": "45.903995,13.912370",
@@ -2570,6 +3143,13 @@
     "lead": "M_2-2216_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/5538",
     "name": "Korena",
+    "nearby": [
+      "kozljek",
+      "polhograjskagrmada",
+      "tosc",
+      "spica",
+      "vrhnikazaplana"
+    ],
     "peak": "46.035238,14.295931",
     "region": "notranjska",
     "title": {
@@ -2590,6 +3170,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/35964",
     "name": "Rodne",
+    "nearby": [
+      "sebrelje",
+      "kojca",
+      "porezen",
+      "crnaprst",
+      "hleviskeplanine"
+    ],
     "peak": "46.130969,13.927604",
     "region": "primorska",
     "start": "46.117423,13.921578",
@@ -2612,6 +3199,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1220",
     "name": "MalaGora",
+    "nearby": [
+      "caven",
+      "kucelj",
+      "skoljsvpavla",
+      "dolskimaj",
+      "velikirob"
+    ],
     "peak": "45.922396,13.850510",
     "region": "vipava",
     "start": "45.928964,13.852867",
@@ -2633,6 +3227,10 @@
     "height": 650,
     "maplink": "https://mapzs.projekti.si/poi/34829",
     "name": "Borovniski_Pekel",
+    "nearby": [
+      "pokojisce",
+      "slivnica"
+    ],
     "peak": "45.880956,14.369589",
     "region": "notranjska",
     "start": "45.890566,14.371874",
@@ -2655,6 +3253,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/130",
     "name": "JezerskiStog",
+    "nearby": [
+      "krstenica",
+      "toscbohinj",
+      "velikidraskivrh",
+      "vodicnivrh",
+      "malidraskivrh"
+    ],
     "peak": "46.338369,13.845151",
     "region": "julian-alps",
     "start": "46.310815,13.849374",
@@ -2678,6 +3283,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/3882",
     "name": "Goropeke",
+    "nearby": [
+      "vrsnik_ziri",
+      "javorc",
+      "vs3k",
+      "mrzlivrh_ziri",
+      "zaplanatavzentroza"
+    ],
     "peak": "46.034557,14.125964",
     "region": "gorenjska",
     "start": "46.047220,14.109817",
@@ -2699,6 +3311,11 @@
     "lead": "M_007051810.jpg",
     "maplink": "https://mapzs.projekti.si/poi/1022",
     "name": "SuhiVrh",
+    "nearby": [
+      "nanos",
+      "svduh_podkraj",
+      "vremscica"
+    ],
     "peak": "45.798405,14.066979",
     "photo_author": "Mojca_Lustrek",
     "region": "primorska",
@@ -2720,6 +3337,12 @@
     "height": 1763,
     "maplink": "https://mapzs.projekti.si/poi/741",
     "name": "Strelovec",
+    "nearby": [
+      "kamniskosedlo",
+      "velikaplanina",
+      "kranjskareber",
+      "svprimoz_kamnik"
+    ],
     "peak": "46.394324,14.658004",
     "photo_author": "Mojca_Lustrek",
     "region": "kamnik-alps",
@@ -2742,6 +3365,13 @@
     "lead": "M_006111906.jpg",
     "maplink": "https://mapzs.projekti.si/poi/113",
     "name": "Sleme",
+    "nearby": [
+      "stenar",
+      "debelapec",
+      "brdalipanca",
+      "lipanskivrh",
+      "lipanca"
+    ],
     "peak": "46.451733,13.871999",
     "photo_author": "Mojca_Lustrek",
     "region": "julian-alps",
@@ -2768,6 +3398,13 @@
     "multilead": "M_7_1797.JPG",
     "multipath": true,
     "name": "Caven/Stomaz",
+    "nearby": [
+      "malagora",
+      "caven",
+      "skoljsvpavla",
+      "kucelj",
+      "starababa"
+    ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
     "start": "45.899641,13.856601",
@@ -2791,6 +3428,13 @@
     "multilead": "M_0_00616.JPG",
     "multipath": true,
     "name": "Caven/Srednja",
+    "nearby": [
+      "caven",
+      "dolskimaj",
+      "malagora",
+      "kucelj",
+      "otliskookno"
+    ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
     "start": "45.937787,13.869216",
@@ -2812,9 +3456,16 @@
     "layout": "structured",
     "lead": "M_20210323_093528.jpg",
     "maplink": "https://mapzs.projekti.si/path/32535",
-    "multipath": true,
     "multilead": "M_20210323_093528.jpg",
+    "multipath": true,
     "name": "Kamnje",
+    "nearby": [
+      "skoljsvpavla",
+      "malagora",
+      "kucelj",
+      "caven",
+      "velikirob"
+    ],
     "path": "http://www.hribi.net/izlet/kamnje_koca_antona_bavcerja_na_cavnu_/26/500/1483",
     "peak": "45.928964,13.852867",
     "region": "vipava",
@@ -2846,6 +3497,13 @@
     "multilead": "M_2_0291.JPG",
     "multipath": true,
     "name": "Caven/Lokavec",
+    "nearby": [
+      "starababa",
+      "otliskookno",
+      "malagora",
+      "dolskimaj",
+      "caven"
+    ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
     "start": "45.902378,13.881665",
@@ -2864,6 +3522,13 @@
     "lead": "M_2_0264.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1062",
     "name": "Caven",
+    "nearby": [
+      "malagora",
+      "kucelj",
+      "dolskimaj",
+      "velikirob",
+      "skoljsvpavla"
+    ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
     "title": {
@@ -2885,6 +3550,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/33033",
     "name": "MaliDraskiVrh",
+    "nearby": [
+      "visevnik",
+      "velikidraskivrh",
+      "toscbohinj",
+      "lipanskivrh",
+      "lipanca"
+    ],
     "peak": "46.362985,13.891641",
     "region": "julian-alps",
     "start": "46.345450,13.923233",
@@ -2907,6 +3579,13 @@
     "lead": "M_8-3867_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1575",
     "name": "Kuk",
+    "nearby": [
+      "hrastovljezazid",
+      "lacna",
+      "lipnik",
+      "podgorje",
+      "slavnik"
+    ],
     "peak": "45.485013,13.917515",
     "region": "istria",
     "start": "45.509500,13.900605",
@@ -2930,6 +3609,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1230",
     "name": "Tosc",
+    "nearby": [
+      "polhograjskagrmada",
+      "svozbolt",
+      "svandrej_zminec",
+      "korena",
+      "kozljek"
+    ],
     "peak": "46.097448,14.321274",
     "region": "notranjska",
     "start": "46.076165,14.313252",
@@ -2952,6 +3638,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/2669",
     "name": "SkoljSvPavla",
+    "nearby": [
+      "kucelj",
+      "velikirob",
+      "malagora",
+      "caven",
+      "pedrovo"
+    ],
     "peak": "45.909096,13.810788",
     "region": "vipava",
     "start": "45.9016051,13.8146674",
@@ -2975,6 +3668,11 @@
     "lead": "M_008052305.jpg",
     "maplink": "https://mapzs.projekti.si/poi/213",
     "name": "Kamnik",
+    "nearby": [
+      "mrzlica",
+      "kotecnik",
+      "kum"
+    ],
     "peak": "46.205663,15.129281",
     "photo_author": "Mojca_Lustrek",
     "region": "posavje",
@@ -3017,6 +3715,11 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5358",
     "name": "Pokojisce",
+    "nearby": [
+      "borovniski_pekel",
+      "slivnica",
+      "korena"
+    ],
     "peak": "45.893781,14.355786",
     "region": "notranjska",
     "start": "45.890566,14.371874",
@@ -3075,6 +3778,10 @@
     "lead": "M_010055.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1085",
     "name": "Kum",
+    "nearby": [
+      "mrzlica",
+      "kamnik"
+    ],
     "peak": "46.087612,15.072366",
     "region": "posavje",
     "title": {
@@ -3096,6 +3803,9 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/4803",
     "name": "Golica",
+    "nearby": [
+      "klek"
+    ],
     "peak": "46.491437,14.054546",
     "region": "karavanke",
     "start": "46.461300,14.048692",
@@ -3116,6 +3826,13 @@
     "lead": "M_1-4119_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/5751",
     "name": "Oblenk",
+    "nearby": [
+      "planinskagora",
+      "svlovrenc",
+      "zibrse",
+      "vrhnikazaplana",
+      "zaplanarovte"
+    ],
     "peak": "45.834089,14.213203",
     "region": "notranjska",
     "start": "45.825786,14.236644",
@@ -3138,6 +3855,13 @@
     "multilead": "M_0_10275.JPG",
     "multipath": true,
     "name": "Kucelj/svPavel",
+    "nearby": [
+      "skoljsvpavla",
+      "kucelj",
+      "malagora",
+      "velikirob",
+      "caven"
+    ],
     "peak": "45.928761,13.825091",
     "region": "vipava",
     "start": "45.909515,13.818130",
@@ -3161,6 +3885,13 @@
     "multilead": "M_5-6505_IMG.JPG",
     "multipath": true,
     "name": "Kucelj/Predmeja",
+    "nearby": [
+      "dolskimaj",
+      "caven",
+      "malagora",
+      "maligolak",
+      "kucelj"
+    ],
     "peak": "45.928761,13.825091",
     "region": "vipava",
     "start": "45.946729,13.870261",
@@ -3185,6 +3916,13 @@
     "multilead": "M_1_2128.JPG",
     "multipath": true,
     "name": "Kucelj/Vrtovin",
+    "nearby": [
+      "skoljsvpavla",
+      "kucelj",
+      "malagora",
+      "velikirob",
+      "caven"
+    ],
     "peak": "45.928761,13.825091",
     "region": "vipava",
     "start": "45.9016051,13.8146674",
@@ -3205,6 +3943,13 @@
     "lead": "M_4-6459_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/5257",
     "name": "Kucelj",
+    "nearby": [
+      "velikirob",
+      "malagora",
+      "caven",
+      "skoljsvpavla",
+      "dolskimaj"
+    ],
     "peak": "45.928761,13.825091",
     "region": "vipava",
     "title": {
@@ -3227,6 +3972,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/6165",
     "name": "Kosutica",
+    "nearby": [
+      "korosica",
+      "velikivrh",
+      "kofce",
+      "kladivo",
+      "dobrca"
+    ],
     "peak": "46.438811,14.299226",
     "region": "karavanke",
     "start": "46.427852,14.272506",
@@ -3248,6 +4000,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/3811",
     "name": "svOzbolt",
+    "nearby": [
+      "svandrej_zminec",
+      "tosc",
+      "polhograjskagrmada",
+      "korena",
+      "kozljek"
+    ],
     "peak": "46.115648,14.286202",
     "region": "gorenjska",
     "title": {
@@ -3268,6 +4027,7 @@
     "lead": "M_010051.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1145",
     "name": "Tamar",
+    "nearby": [],
     "peak": "46.446150,13.713228",
     "photo_author": "Tina_diBatista",
     "region": "julian-alps",
@@ -3292,6 +4052,11 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/260",
     "name": "Jamnik_Vodice",
+    "nearby": [
+      "miklavskagora",
+      "dobrca",
+      "malenskivrh"
+    ],
     "peak": "46.275223,14.214234",
     "region": "gorenjska",
     "title": {
@@ -3326,6 +4091,7 @@
     "lead": "M_01103.jpg",
     "maplink": "https://mapzs.projekti.si/poi/948",
     "name": "GoliVrh_Savnice",
+    "nearby": [],
     "peak": "46.248208,14.859629",
     "photo_author": "Mojca_Lustrek",
     "region": "kamnik-alps",
@@ -3347,9 +4113,14 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/2125",
     "name": "KozjiVrh",
-    "start": "46.380160,14.461829",
+    "nearby": [
+      "stegovnik",
+      "svjakob_preddvor",
+      "baba"
+    ],
     "peak": "46.364549,14.446209",
     "region": "karavanke",
+    "start": "46.380160,14.461829",
     "title": {
       "sl": "Kozji vrh",
       "en": "Kozji vrh"
@@ -3369,6 +4140,9 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5196",
     "name": "Cerje",
+    "nearby": [
+      "crnihribi"
+    ],
     "peak": "45.872442,13.615999",
     "region": "karst",
     "start": "45.873359,13.593190",
@@ -3393,6 +4167,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/73",
     "name": "VelikiDraskiVrh",
+    "nearby": [
+      "toscbohinj",
+      "malidraskivrh",
+      "visevnik",
+      "jezerskistog",
+      "lipanskivrh"
+    ],
     "peak": "46.360212,13.875946",
     "region": "julian-alps",
     "start": "46.345450,13.923233",
@@ -3475,6 +4256,12 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/55911",
     "name": "Pedrovo",
+    "nearby": [
+      "trstelj_dornberk",
+      "skoljsvpavla",
+      "velikirob",
+      "kucelj"
+    ],
     "peak": "45.856958,13.762335",
     "region": "karst",
     "title": {
@@ -3497,6 +4284,10 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/432",
     "name": "GoraOljka_Polzela",
+    "nearby": [
+      "krvavica",
+      "mrzlica"
+    ],
     "peak": "46.325631,15.058779",
     "region": "stajerska",
     "title": {
@@ -3518,6 +4309,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/34894",
     "name": "CrnaPrst",
+    "nearby": [
+      "porezen",
+      "kojca",
+      "vogar",
+      "uskovnica",
+      "rodne"
+    ],
     "peak": "46.231157,13.931631",
     "region": "julian-alps",
     "start": "46.258675,13.959392",
@@ -3572,6 +4370,13 @@
     "multilead": "M_0_00679.JPG",
     "multipath": true,
     "name": "Kovk/Budanje",
+    "nearby": [
+      "soncnica",
+      "kovk",
+      "starababa",
+      "plaz",
+      "otliskookno"
+    ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
     "start": "45.879299,13.959613",
@@ -3591,6 +4396,13 @@
     "lead": "M_4_1434.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1288",
     "name": "Kovk",
+    "nearby": [
+      "soncnica",
+      "starababa",
+      "plaz",
+      "otliskookno",
+      "gradiskatura"
+    ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
     "title": {
@@ -3615,6 +4427,13 @@
     "multilead": "M_4_1448.JPG",
     "multipath": true,
     "name": "Kovk/Col",
+    "nearby": [
+      "kovk",
+      "soncnica",
+      "plaz",
+      "svduh_podkraj",
+      "gradiskatura"
+    ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
     "start": "45.885151,13.994895",
@@ -3637,6 +4456,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1661",
     "name": "svMiklavz_Vipava",
+    "nearby": [
+      "gradiskatura",
+      "plaz",
+      "soncnica",
+      "kovk",
+      "starababa"
+    ],
     "peak": "45.819506,13.982114",
     "region": "vipava",
     "start": "45.832270,13.971014",
@@ -3662,6 +4488,13 @@
     "multilead": "M_7-3711_IMG.JPG",
     "multipath": true,
     "name": "Lacna/Kubed",
+    "nearby": [
+      "lacna",
+      "marezigetrsek",
+      "hrastovljezazid",
+      "kuk",
+      "tinjan_osp"
+    ],
     "peak": "45.504969,13.885283",
     "region": "istria",
     "start": "45.519562,13.869997",
@@ -3685,6 +4518,13 @@
     "multilead": "M_1_2873.JPG",
     "multipath": true,
     "name": "Lacna/Gracisce",
+    "nearby": [
+      "lacna",
+      "marezigetrsek",
+      "kuk",
+      "hrastovljezazid",
+      "tinjan_osp"
+    ],
     "peak": "45.504969,13.885283",
     "region": "istria",
     "start": "45.502752,13.874163",
@@ -3703,6 +4543,13 @@
     "lead": "M_1_2849.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1656",
     "name": "Lacna",
+    "nearby": [
+      "kuk",
+      "hrastovljezazid",
+      "marezigetrsek",
+      "podgorje",
+      "tinjan_osp"
+    ],
     "peak": "45.504969,13.885283",
     "region": "istria",
     "title": {
@@ -3727,6 +4574,13 @@
     "multilead": "M_0_2891.JPG",
     "multipath": true,
     "name": "Lacna/Hrastovlje",
+    "nearby": [
+      "lacna",
+      "hrastovljezazid",
+      "kuk",
+      "podgorje",
+      "lipnik"
+    ],
     "peak": "45.504969,13.885283",
     "region": "istria",
     "start": "45.509506,13.900638",
@@ -3749,6 +4603,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1693",
     "name": "Socerb",
+    "nearby": [
+      "zgornjikras",
+      "tinjan_osp",
+      "kokos",
+      "lacna",
+      "marezigetrsek"
+    ],
     "peak": "45.589477,13.860844",
     "region": "istria",
     "start": "45.571298,13.857212",
@@ -3772,6 +4633,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/3956",
     "name": "Gospodicna",
+    "nearby": [],
     "peak": "45.766444,15.297079",
     "region": "dolenjska",
     "title": {
@@ -3872,6 +4734,13 @@
     "multilead": "M_5-4537_IMG.JPG",
     "multipath": true,
     "name": "Spica/SM",
+    "nearby": [
+      "vrhnikazaplana",
+      "spica",
+      "zaplanarovte",
+      "kozljek",
+      "korena"
+    ],
     "peak": "45.971434,14.251496",
     "start": "45.956459,14.249277",
     "title": {
@@ -3892,6 +4761,13 @@
     "multilead": "M_5-4545_IMG.JPG",
     "multipath": true,
     "name": "Spica/KV",
+    "nearby": [
+      "vrhnikazaplana",
+      "spica",
+      "zaplanarovte",
+      "kozljek",
+      "korena"
+    ],
     "peak": "45.971434,14.251496",
     "start": "45.963698,14.275556",
     "title": {
@@ -3912,6 +4788,13 @@
     "multilead": "M_7-3754_IMG.JPG",
     "multipath": true,
     "name": "Spica/ZZ",
+    "nearby": [
+      "spica",
+      "vrhnikazaplana",
+      "zaplanarovte",
+      "vs3k",
+      "kozljek"
+    ],
     "peak": "45.971434,14.251496",
     "start": "45.970243,14.235464",
     "title": {
@@ -3942,6 +4825,13 @@
     "multilead": "M_0-3032_IMG.JPG",
     "multipath": true,
     "name": "Spica/KR",
+    "nearby": [
+      "spica",
+      "vrhnikazaplana",
+      "zaplanarovte",
+      "kozljek",
+      "korena"
+    ],
     "peak": "45.971434,14.251496",
     "region": "notranjska",
     "start": "45.979466,14.265043",
@@ -3961,6 +4851,13 @@
     "lead": "M_5-4556_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/5344",
     "name": "Spica",
+    "nearby": [
+      "vrhnikazaplana",
+      "zaplanarovte",
+      "kozljek",
+      "korena",
+      "sivka"
+    ],
     "peak": "45.971434,14.251496",
     "title": {
       "sl": "Planina nad Vrhniko",
@@ -4001,6 +4898,10 @@
     "lead": "M_3-1364_IMG.jpg",
     "maplink": "https://mapzs.projekti.si/poi/5679",
     "name": "Slivnica",
+    "nearby": [
+      "borovniski_pekel",
+      "pokojisce"
+    ],
     "peak": "45.7899991,14.3990229",
     "start": "45.792868,14.367291",
     "title": {
@@ -4023,6 +4924,13 @@
     "lead": "M_3-3392_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/531",
     "name": "Kokos",
+    "nearby": [
+      "zgornjikras",
+      "socerb",
+      "tinjan_osp",
+      "podgorje",
+      "lacna"
+    ],
     "peak": "45.644495,13.899890",
     "region": "karst",
     "start": "45.661064,13.927977",
@@ -4046,6 +4954,10 @@
     "lead": "M_0-4079_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/path/31945",
     "name": "Trstelj_Dornberk",
+    "nearby": [
+      "pedrovo",
+      "crnihribi"
+    ],
     "peak": "45.857869,13.703780",
     "region": "karst",
     "start": "45.883553,13.737850",
@@ -4069,6 +4981,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/34689",
     "name": "podBohorjem",
+    "nearby": [],
     "peak": "46.052671,15.424771",
     "region": "posavje",
     "title": {
@@ -4109,6 +5022,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/173",
     "name": "DonackaGora",
+    "nearby": [],
     "peak": "46.262731,15.742339",
     "region": [
       "stajerska",
@@ -4142,6 +5056,13 @@
     "lead": "M_0_00679.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1288",
     "name": "Soncnica",
+    "nearby": [
+      "kovk",
+      "starababa",
+      "plaz",
+      "otliskookno",
+      "gradiskatura"
+    ],
     "path": "../kovk/budanje",
     "peak": "45.886711,13.960029",
     "region": "vipava",
@@ -4170,6 +5091,11 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/34816",
     "name": "Mrzlica",
+    "nearby": [
+      "kamnik",
+      "kum",
+      "goraoljka_polzela"
+    ],
     "peak": "46.187516,15.107444",
     "region": "posavje",
     "title": {
@@ -4208,9 +5134,16 @@
     "duration": 1,
     "height": 350,
     "layout": "stub",
-    "maplink": "https://www.opencyclemap.org/?zoom=16&lat=45.89865&lon=13.91553&layers=B0000",
     "lead": "M_20200214_091636.jpg",
+    "maplink": "https://www.opencyclemap.org/?zoom=16&lat=45.89865&lon=13.91553&layers=B0000",
     "name": "StaraBaba",
+    "nearby": [
+      "otliskookno",
+      "soncnica",
+      "dolskimaj",
+      "kovk",
+      "malagora"
+    ],
     "peak": "45.898754,13.914989",
     "region": "vipava",
     "start": "45.904010,13.912406",
@@ -4233,6 +5166,10 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/path/31618",
     "name": "CrniHribi",
+    "nearby": [
+      "cerje",
+      "trstelj_dornberk"
+    ],
     "peak": "45.868196,13.642593",
     "region": "karst",
     "title": {
@@ -4256,6 +5193,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/6083",
     "name": "LipanskiVrh",
+    "nearby": [
+      "lipanca",
+      "brdalipanca",
+      "debelapec",
+      "visevnik",
+      "malidraskivrh"
+    ],
     "peak": "46.378856,13.920257",
     "region": "julian-alps",
     "start": "46.374746,13.941008",
@@ -4361,6 +5305,13 @@
     "lead": "M_1_10002.JPG",
     "map": 1,
     "name": "Abitanti",
+    "nearby": [
+      "marezigeborst",
+      "marezigetrsek",
+      "lacna",
+      "marezigesmarje",
+      "tinjan_osp"
+    ],
     "peak": "45.436224,13.825319",
     "region": "istria",
     "start": "45.458375,13.850126",
@@ -4384,6 +5335,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/path/31057",
     "name": "HrastovljeZazid",
+    "nearby": [
+      "kuk",
+      "lipnik",
+      "podgorje",
+      "lacna",
+      "slavnik"
+    ],
     "peak": "45.500573,13.932688",
     "region": "istria",
     "start": "45.509500,13.900605",
@@ -4423,6 +5381,12 @@
     "lead": "M_3-3357_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/path/31642",
     "name": "svDuh_Podkraj",
+    "nearby": [
+      "suhivrh",
+      "nanos",
+      "hleviskeplanine",
+      "vrsnik_ziri"
+    ],
     "peak": "45.871767,14.062456",
     "start": "45.863916,14.062982",
     "title": {
@@ -4466,7 +5430,6 @@
   },
   {
     "date": "2004-10-24 00:00:00+00:00",
-    "lastmod": "2021-02-27 18:30:00",
     "delta": 480,
     "description": {
       "sl": "Severno od Bohinjskega jezera se dviguje strm greben, v katerem bo vsak obiskovalec Bohinja hitro opazil Vogar, najbolj vzhodni vrh.\n",
@@ -4474,9 +5437,17 @@
     },
     "duration": 3,
     "height": 1054,
+    "lastmod": "2021-02-27 18:30:00",
     "lead": "M_9_1910.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1201",
     "name": "Vogar",
+    "nearby": [
+      "vodicnivrh",
+      "krstenica",
+      "uskovnica",
+      "jezerskistog",
+      "toscbohinj"
+    ],
     "peak": "46.296755,13.867167",
     "region": "julian-alps",
     "start": "46.290398,13.886655",
@@ -4491,10 +5462,17 @@
       "sl": "Podgorje je idealno izhodi\u0161\u010de za izlete na Slavnik in raziskovanje vzhodnega dela Kra\u0161kega roba.",
       "en": "Podgorje is the ideal starting point for a quick hike to Slavnik, or for a day-long exploration of eastern parts of Karst edge."
     },
+    "layout": "start",
     "lead": "M_0-4026_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1531",
     "name": "Podgorje",
-    "layout": "start",
+    "nearby": [
+      "slavnik",
+      "hrastovljezazid",
+      "kuk",
+      "lacna",
+      "lipnik"
+    ],
     "peak": "45.531420,13.947151",
     "region": "istria",
     "title": {
@@ -4553,6 +5531,7 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/34684",
     "name": "Brunk",
+    "nearby": [],
     "peak": "46.037433,15.179605",
     "region": "posavje",
     "title": {
@@ -4572,6 +5551,7 @@
     "lead": "M_6-3650_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/3949",
     "name": "TrebnjiVrh",
+    "nearby": [],
     "peak": "45.893362,15.003060",
     "region": "dolenjska",
     "title": {
@@ -4593,6 +5573,10 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1354",
     "name": "Krvavica",
+    "nearby": [
+      "creta",
+      "goraoljka_polzela"
+    ],
     "peak": "46.200792,14.993072",
     "photo_author": "Mojca_Lustrek",
     "region": "posavje",
@@ -4615,6 +5599,13 @@
     "length": 23.3,
     "maplink": "https://mapzs.projekti.si/poi/52206",
     "name": "MarezigeBorst",
+    "nearby": [
+      "marezigetrsek",
+      "marezigesmarje",
+      "abitanti",
+      "tinjan_osp",
+      "socerb"
+    ],
     "region": "istria",
     "start": "45.506823,13.798599",
     "title": {
@@ -4660,6 +5651,13 @@
     "length": "18.3",
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.49773&lon=13.839&layers=B0000",
     "name": "MarezigeTrsek",
+    "nearby": [
+      "marezigeborst",
+      "lacna",
+      "marezigesmarje",
+      "abitanti",
+      "tinjan_osp"
+    ],
     "region": "istria",
     "start": "45.506836,13.798535",
     "title": {
@@ -4683,6 +5681,13 @@
     "length": 18.6,
     "maplink": "https://www.opencyclemap.org/?zoom=13&lat=45.93893&lon=14.15764&layers=B0000",
     "name": "Zibrse",
+    "nearby": [
+      "zaplanatavzentroza",
+      "zaplanarovte",
+      "vs3k",
+      "goropeke",
+      "svlovrenc"
+    ],
     "region": "notranjska",
     "start": "45.958404,14.191024",
     "title": {
@@ -4716,6 +5721,13 @@
     "length": 19.2,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.96463&lon=14.26478&layers=B0000",
     "name": "VrhnikaZaplana",
+    "nearby": [
+      "spica",
+      "zaplanarovte",
+      "kozljek",
+      "korena",
+      "sivka"
+    ],
     "region": "notranjska",
     "start": "45.963816,14.275521",
     "title": {
@@ -4739,6 +5751,11 @@
     "length": "18.9",
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.50964&lon=13.756&layers=B0000",
     "name": "MarezigeSmarje",
+    "nearby": [
+      "marezigeborst",
+      "marezigetrsek",
+      "abitanti"
+    ],
     "region": "istria",
     "start": "45.506836,13.798535",
     "title": {
@@ -4762,6 +5779,13 @@
     "length": 24.4,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.96809&lon=14.19585&layers=B0000",
     "name": "ZaplanaTavzentroza",
+    "nearby": [
+      "zibrse",
+      "vs3k",
+      "zaplanarovte",
+      "vrsnik_ziri",
+      "goropeke"
+    ],
     "peak": "45.971576,14.144772",
     "region": "notranjska",
     "start": "45.953324,14.227656",
@@ -4785,7 +5809,14 @@
     "lead": "M_20210329_122726.jpg",
     "length": 22.2,
     "maplink": "https://mapzs.projekti.si/poi/5387",
-    "name": "ZaplanaRovte/",
+    "name": "ZaplanaRovte",
+    "nearby": [
+      "spica",
+      "vrhnikazaplana",
+      "zibrse",
+      "zaplanatavzentroza",
+      "vs3k"
+    ],
     "region": "notranjska",
     "start": "45.970595,14.235152",
     "title": {

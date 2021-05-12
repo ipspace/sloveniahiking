@@ -1,3 +1,9 @@
 <h2>Debug</h2>
-{{ $.Page.Kind }}
-{{ $.Page.Type }}
+{{ $name := .Get "name" }}
+Name = {{ $name }}<br />
+{{ if $name }}
+{{ $page := $.Site.GetPage $name }}
+  {{ with $page }}
+Title = {{ .Title }} URL = {{ .Permalink }}
+  {{ end }}
+{{ end }}
