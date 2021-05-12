@@ -7,11 +7,11 @@ lead: M_0-4026_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/1531
 name: Podgorje
 nearby:
-- slavnik
-- hrastovljezazid
-- kuk
-- lacna
-- lipnik
+- /hikes/slavnik
+- /hikes/hrastovljezazid
+- /hikes/kuk
+- /hikes/lacna
+- /hikes/lipnik
 peak: 45.531420,13.947151
 region: istria
 title: Podgorje
@@ -20,7 +20,7 @@ Podgorje is a small village under the southern slopes of Slavnik. Most hikers go
 
 {{<figure src="M_0-4026_IMG.JPG" caption="Podgorje from Kojnik">}} 
 
-There's a large parking lot just before Podgorje -- don't try to wing it, park there (even though they charge for it over the weekend).
+There's a large parking lot at the edge of Podgorje (south of the main road) -- don't try to wing it, park there (even though they charge for it over the weekend).
 
 {{<start-details>}}
 

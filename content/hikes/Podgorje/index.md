@@ -7,11 +7,11 @@ lead: M_0-4026_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/1531
 name: Podgorje
 nearby:
-- slavnik
-- hrastovljezazid
-- kuk
-- lacna
-- lipnik
+- /hikes/slavnik
+- /hikes/hrastovljezazid
+- /hikes/kuk
+- /hikes/lacna
+- /hikes/lipnik
 peak: 45.531420,13.947151
 region: istria
 title: Podgorje
@@ -20,7 +20,7 @@ Podgorje je vasica pod južnimi pobočji Slavnika. Izletniki jo najpogosteje upo
 
 {{<figure src="M_0-4026_IMG.JPG" caption="Podgorje s Kojnika, v ozadju Slavnik">}} 
 
-Tik pred Podgorjem so uredili veliko parkirišče -- obvezno parkirajte tam.
+Na obrobju Podgorja (desno od glavne ceste) so uredili veliko parkirišče -- obvezno parkirajte tam.
 
 {{<start-details>}}
 
