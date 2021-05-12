@@ -27,6 +27,12 @@ lead: M_5-6560_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/130
 name: JezerskiStog
+nearby:
+- krstenica
+- toscbohinj
+- velikidraskivrh
+- vodicnivrh
+- malidraskivrh
 peak: 46.338369,13.845151
 region: julian-alps
 start: 46.310815,13.849374

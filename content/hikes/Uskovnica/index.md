@@ -23,6 +23,12 @@ image:
 lead: M_005021110.jpg
 maplink: https://mapzs.projekti.si/poi/34918
 name: Uskovnica
+nearby:
+- visevnik
+- vogar
+- krstenica
+- malidraskivrh
+- velikidraskivrh
 peak: 46.322242,13.907812
 photo_author: Mojca_Lustrek
 region: julian-alps

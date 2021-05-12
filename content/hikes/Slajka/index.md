@@ -9,6 +9,12 @@ lead: M_2-5284_IMG.JPG
 map: 1
 maplink: https://www.opencyclemap.org/?zoom=10&lat=46.11316&lon=14.09347&layers=B0000
 name: Slajka
+nearby:
+- ermanovec
+- blegos
+- javorc
+- malenskivrh
+- mrzlivrh_ziri
 peak: 46.11316,14.09347
 region: gorenjska
 title: Iz Hotavelj na Slajko in Špik

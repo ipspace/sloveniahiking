@@ -29,6 +29,12 @@ maplink: https://mapzs.projekti.si/path/32619
 multilead: M_4_0466.JPG
 multipath: true
 name: Blegos/Hotavlje
+nearby:
+- slajka
+- malenskivrh
+- blegos
+- ermanovec
+- javorc
 peak: 46.164802,14.113583
 start: 46.124584,14.117533
 title: Blegoš from Hotavlje

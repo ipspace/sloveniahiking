@@ -21,6 +21,12 @@ lead: M_8_1889.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/77
 name: KalskiGreben
+nearby:
+- vrhkorena
+- grintovec
+- kamniskosedlo
+- okreselj
+- ambroz
 peak: 46.331441,14.537686
 region: kamnik-alps
 title: Kalški greben

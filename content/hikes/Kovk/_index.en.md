@@ -1,11 +1,20 @@
 ---
 date: 1900-01-01 00:00:00+00:00
-description: |
-  Kovk is a scenic hilltop at the edge of the Gora plateau high above Vipava valley with fantastic vistas of the valley, Trnovski Gozd, Julian Alps, and the Italian Dolomites.
+description: 'Kovk is a scenic hilltop at the edge of the Gora plateau high above
+  Vipava valley with fantastic vistas of the valley, Trnovski Gozd, Julian Alps, and
+  the Italian Dolomites.
+
+  '
 height: 961
 lead: M_4_1434.JPG
 maplink: https://mapzs.projekti.si/poi/1288
 name: Kovk
+nearby:
+- soncnica
+- starababa
+- plaz
+- otliskookno
+- gradiskatura
 peak: 45.887981,13.969153
 region: vipava
 title: Kovk above Col

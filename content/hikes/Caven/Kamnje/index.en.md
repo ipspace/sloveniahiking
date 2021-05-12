@@ -1,19 +1,31 @@
 ---
-date: '2021-03-23 16:47:28'
+date: 2021-03-23 16:47:28+00:00
 delta: 990
-description: |
-  Farmers from Kamnje, a tiny village high above Vipava valley, had to walk two hours to reach the meadows where they were preparing hay for the winter.
-  
-  The local mountaineering team decided to preserve that tradition and created a theme path leading from Kamnje to Mala Gora.
-difficulty: |
-  Easy stroll across sunny meadows followed by a steep hike toward Čaven plateau
+description: 'Farmers from Kamnje, a tiny village high above Vipava valley, had to
+  walk two hours to reach the meadows where they were preparing hay for the winter.
+
+
+  The local mountaineering team decided to preserve that tradition and created a theme
+  path leading from Kamnje to Mala Gora.
+
+  '
+difficulty: 'Easy stroll across sunny meadows followed by a steep hike toward Čaven
+  plateau
+
+  '
 duration: 5
 height: 1242
-maplink: https://mapzs.projekti.si/path/32535
 lead: M_20210323_093528.jpg
-multipath: true
+maplink: https://mapzs.projekti.si/path/32535
 multilead: M_20210323_093528.jpg
+multipath: true
 name: Kamnje
+nearby:
+- skoljsvpavla
+- malagora
+- kucelj
+- caven
+- velikirob
 peak: 45.928964,13.852867
 region: vipava
 start: 45.901010,13.834580

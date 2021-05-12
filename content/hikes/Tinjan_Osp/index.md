@@ -16,6 +16,12 @@ image:
 lead: M_7-4705_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/1827
 name: Tinjan_Osp
+nearby:
+- socerb
+- zgornjikras
+- marezigetrsek
+- lacna
+- marezigeborst
 peak: 45.561375,13.835055
 region: istria
 start: 45.571298,13.857212

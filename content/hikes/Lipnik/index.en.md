@@ -1,14 +1,22 @@
 ---
-date: 2021-02-28 07:40:00
+date: 2021-02-28 07:40:00+00:00
 delta: 420
-description: |
-  Lipnik is one of many barely noticeable peaks on Kraški Rob (Karst Edge), the border between limestone Karst plateau and flysch terrain of lower Istria. Hike there in early May and enjoy the wildflowers along the way.
+description: 'Lipnik is one of many barely noticeable peaks on Kraški Rob (Karst Edge),
+  the border between limestone Karst plateau and flysch terrain of lower Istria. Hike
+  there in early May and enjoy the wildflowers along the way.
+
+  '
 duration: 4
 height: 804
 lead: M_2_1203.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/4193
 name: Lipnik
+nearby:
+- hrastovljezazid
+- kuk
+- podgorje
+- slavnik
 peak: 45.479620,13.966214
 region: istria
 start: 45.499389,13.931462

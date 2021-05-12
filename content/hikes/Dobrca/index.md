@@ -9,6 +9,12 @@ lead: M_0-7053_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/4686
 name: Dobrca
+nearby:
+- korosica
+- velikivrh
+- vrtaca
+- kosutica
+- jamnik_vodice
 peak: 46.380703,14.252813
 region: karavanke
 title: Dobrča

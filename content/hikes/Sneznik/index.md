@@ -16,6 +16,7 @@ lead: M_8-1813_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/34824
 name: Sneznik
+nearby: []
 peak: 45.588478,14.447613
 region: notranjska
 start: 45.574142,14.401174

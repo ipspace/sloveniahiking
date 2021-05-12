@@ -8,6 +8,11 @@ lead: M_4-4488_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/55911
 name: Pedrovo
+nearby:
+- trstelj_dornberk
+- skoljsvpavla
+- velikirob
+- kucelj
 peak: 45.856958,13.762335
 region: karst
 title: Branik - Pedrovo

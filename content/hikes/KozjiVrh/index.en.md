@@ -8,6 +8,10 @@ lead: M_00020.jpg
 map: 1
 maplink: https://mapzs.projekti.si/poi/2125
 name: KozjiVrh
+nearby:
+- stegovnik
+- svjakob_preddvor
+- baba
 peak: 46.364549,14.446209
 region: karavanke
 start: 46.380160,14.461829

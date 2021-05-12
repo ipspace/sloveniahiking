@@ -12,6 +12,12 @@ maplink: https://mapzs.projekti.si/path/32565
 multilead: M_2_0291.JPG
 multipath: true
 name: Caven/Lokavec
+nearby:
+- starababa
+- otliskookno
+- malagora
+- dolskimaj
+- caven
 peak: 45.928964,13.852867
 region: vipava
 start: 45.902378,13.881665

@@ -9,6 +9,12 @@ lead: M_2_2285.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/6517
 name: Sivka
+nearby:
+- bukovvrh
+- javorc
+- kozljek
+- vs3k
+- malenskivrh
 peak: 46.072944,14.209167
 region: notranjska
 start: 46.069156,14.272721

@@ -9,6 +9,7 @@ lead: M_7_2705.JPG
 map: 1
 maplink: https://mapzs.projekti.si/path/32647
 name: svAnton
+nearby: []
 peak: 46.560801,15.203008
 region: pohorje
 title: Sveti Anton na Pohorju

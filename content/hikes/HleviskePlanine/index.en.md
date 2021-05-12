@@ -8,6 +8,12 @@ lead: M_0_10596.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/278
 name: HleviskePlanine
+nearby:
+- mrzlivrh_ziri
+- bevkovvrh
+- kovk
+- soncnica
+- ermanovec
 peak: 45.987225,13.995846
 region: primorska
 start: 46.000427,14.023701

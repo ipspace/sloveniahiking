@@ -1,18 +1,26 @@
 ---
 date: 2002-09-29 00:00:00+00:00
 delta: 300
-description: |
-  Najkrajši vzpon na sv. Lovrenc se začne pri lovski koči nad Gorenjem, od koder je do vrha slaba ura občasno strmega vzpona po prijetnih kraških travnikih.
+description: 'Najkrajši vzpon na sv. Lovrenc se začne pri lovski koči nad Gorenjem,
+  od koder je do vrha slaba ura občasno strmega vzpona po prijetnih kraških travnikih.
+
+  '
 duration: 2
 height: 1019
 lead: M_1-3162_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/3908
 multilead: M_1-3162_IMG.JPG
 multipath: true
-maplink: https://mapzs.projekti.si/poi/3908
 name: svLovrenc/Gorenje
+nearby:
+- svlovrenc
+- oblenk
+- zibrse
+- zaplanatavzentroza
+- zaplanarovte
 peak: 45.839190,14.168374
-start: 45.835079,14.154237
 region: notranjska
+start: 45.835079,14.154237
 title: Na Sv. Lovrenc iz Gorenja
 ---
 Najkrajši vzpon na sv. Lovrenc se začne pri lovski koči nad Gorenjem, od koder je do vrha slaba ura občasno strmega vzpona po prijetnih kraških travnikih.

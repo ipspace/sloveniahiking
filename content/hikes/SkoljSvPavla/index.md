@@ -22,6 +22,12 @@ lead: M_1_2136.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/2669
 name: SkoljSvPavla
+nearby:
+- kucelj
+- velikirob
+- malagora
+- caven
+- pedrovo
 peak: 45.909096,13.810788
 region: vipava
 start: 45.9016051,13.8146674

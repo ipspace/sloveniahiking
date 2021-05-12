@@ -1,11 +1,17 @@
 ---
-date: 2021-05-06 06:00:00
-description: 
-  Podgorje is the ideal starting point for a quick hike to Slavnik, or for a day-long exploration of eastern parts of Karst edge.
+date: 2021-05-06 06:00:00+00:00
+description: Podgorje is the ideal starting point for a quick hike to Slavnik, or
+  for a day-long exploration of eastern parts of Karst edge.
+layout: start
 lead: M_0-4026_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/1531
 name: Podgorje
-layout: start
+nearby:
+- slavnik
+- hrastovljezazid
+- kuk
+- lacna
+- lipnik
 peak: 45.531420,13.947151
 region: istria
 title: Podgorje

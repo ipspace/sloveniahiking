@@ -9,8 +9,11 @@ lead: M_2_3240.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/173
 name: DonackaGora
+nearby: []
 peak: 46.262731,15.742339
-region: [ stajerska, karavanke ]
+region:
+- stajerska
+- karavanke
 title: Donačka gora
 ---
 {{<figure src="M_2_3240.JPG">}}

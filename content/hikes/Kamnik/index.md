@@ -10,6 +10,10 @@ height: 856
 lead: M_008052305.jpg
 maplink: https://mapzs.projekti.si/poi/213
 name: Kamnik
+nearby:
+- mrzlica
+- kotecnik
+- kum
 peak: 46.205663,15.129281
 photo_author: Mojca_Lustrek
 region: posavje

@@ -1,18 +1,24 @@
 ---
 date: 2021-03-23 16:47:28+00:00
 delta: 990
-description: 'Iz Kamenj (vasice visoko nad Vipavsko dolino) so domačini speljali prijetno
+description: Iz Kamenj (vasice visoko nad Vipavsko dolino) so domačini speljali prijetno
   *Pot Koscev*, ki obuja spomine na čase ko so kosci in grabljice hodili pripravljat
-  seno na Malo Goro.'
+  seno na Malo Goro.
 difficulty: Prijeten sprehod po Poti koscev s strmim zaključkom na pobočjih Čavna
 duration: 5
 height: 1242
 layout: structured
 lead: M_20210323_093528.jpg
 maplink: https://mapzs.projekti.si/path/32535
-multipath: true
 multilead: M_20210323_093528.jpg
+multipath: true
 name: Kamnje
+nearby:
+- skoljsvpavla
+- malagora
+- kucelj
+- caven
+- velikirob
 path: http://www.hribi.net/izlet/kamnje_koca_antona_bavcerja_na_cavnu_/26/500/1483
 peak: 45.928964,13.852867
 region: vipava

@@ -1,14 +1,23 @@
 ---
 date: 2004-04-04 00:00:00+00:00
 delta: 330
-description: |
-  Obronki Bržanije skrivajo slikovite stare kraške vasice, makadamske poti in kolovozi pa nas vodijo po zanimivi mešanici tal, kjer stalno prehajamo s fliša na apnenčaste kraške travnike in nazaj.
+description: 'Obronki Bržanije skrivajo slikovite stare kraške vasice, makadamske
+  poti in kolovozi pa nas vodijo po zanimivi mešanici tal, kjer stalno prehajamo s
+  fliša na apnenčaste kraške travnike in nazaj.
+
+  '
 duration: 3.5
 height: 450
 lead: M_7_0721.JPG
 map: 1
 maplink: https://mapzs.projekti.si/path/31057
 name: HrastovljeZazid
+nearby:
+- kuk
+- lipnik
+- podgorje
+- lacna
+- slavnik
 peak: 45.500573,13.932688
 region: istria
 start: 45.509500,13.900605

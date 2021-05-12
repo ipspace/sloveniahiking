@@ -10,6 +10,12 @@ lead: M_0_1008.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/3811
 name: svOzbolt
+nearby:
+- svandrej_zminec
+- tosc
+- polhograjskagrmada
+- korena
+- kozljek
 peak: 46.115648,14.286202
 region: gorenjska
 title: Sveti Ožbolt nad Zmincem

@@ -19,6 +19,12 @@ maplink: https://mapzs.projekti.si/poi/1288
 multilead: M_0_00681.JPG
 multipath: true
 name: Kovk/Budanje
+nearby:
+- soncnica
+- kovk
+- starababa
+- plaz
+- otliskookno
 peak: 45.887981,13.969153
 region: vipava
 start: 45.879299,13.959613

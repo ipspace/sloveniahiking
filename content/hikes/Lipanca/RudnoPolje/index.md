@@ -11,6 +11,12 @@ maplink: https://mapzs.projekti.si/path/31514
 multilead: M_9-5930_IMG.JPG
 multipath: true
 name: Lipanca/RudnoPolje
+nearby:
+- visevnik
+- uskovnica
+- malidraskivrh
+- lipanca
+- lipanskivrh
 peak: 46.375630,13.927670
 region: julian-alps
 start: 46.345450,13.923233

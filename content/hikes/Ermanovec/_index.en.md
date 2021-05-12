@@ -7,6 +7,12 @@ layout: stub
 lead: M_4-4463_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/1226
 name: Ermanovec
+nearby:
+- slajka
+- bevkovvrh
+- mrzlivrh_ziri
+- blegos
+- goropeke
 peak: 46.101523,14.063172
 region: gorenjska
 title: Ermanovec

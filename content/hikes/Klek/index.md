@@ -11,6 +11,8 @@ height: 1753
 lead: M_008051108.jpg
 maplink: https://mapzs.projekti.si/poi/6048
 name: Klek
+nearby:
+- golica
 peak: 46.485362,14.025710
 photo_author: Mojca_Lustrek
 region: karavanke

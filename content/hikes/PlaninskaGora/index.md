@@ -1,14 +1,23 @@
 ---
-date: '2021-02-22 11:39:23'
+date: 2021-02-22 11:39:23+00:00
 delta: 410
-description: |
-  Planinska gora je najbolj vzhoden vrh v grebenu severno od Podgore (doline med Planino in Bukovjem). Nanjo vodi več poti iz Planine, mi se bomo povzpeli po širokih kolovozih iz Spodnje Planine.
+description: 'Planinska gora je najbolj vzhoden vrh v grebenu severno od Podgore (doline
+  med Planino in Bukovjem). Nanjo vodi več poti iz Planine, mi se bomo povzpeli po
+  širokih kolovozih iz Spodnje Planine.
+
+  '
 difficulty: Prijeten vzpon po širokih kolovozih
 duration: 2
 height: 880
 lead: M_20210222_002.jpg
 maplink: https://mapzs.projekti.si/path/31616
 name: PlaninskaGora
+nearby:
+- oblenk
+- svlovrenc
+- zibrse
+- vrhnikazaplana
+- spica
 peak: 45.837401,14.233887
 start: 45.836412,14.255054
 timing:

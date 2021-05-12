@@ -7,6 +7,9 @@ image:
 layout: stub
 maplink: https://mapzs.projekti.si/poi/1227
 name: Vremscica
+nearby:
+- nanos
+- suhivrh
 peak: 45.688293,14.061574
 region: primorska
 title: Vremščica

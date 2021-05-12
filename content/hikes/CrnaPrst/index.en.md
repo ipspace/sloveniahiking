@@ -32,6 +32,12 @@ lead: M_6-6688_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/34894
 name: CrnaPrst
+nearby:
+- porezen
+- kojca
+- vogar
+- uskovnica
+- rodne
 peak: 46.231157,13.931631
 region: julian-alps
 start: 46.258675,13.959392

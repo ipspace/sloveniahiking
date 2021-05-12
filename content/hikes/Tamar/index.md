@@ -12,6 +12,7 @@ image:
 lead: M_010051.JPG
 maplink: https://mapzs.projekti.si/poi/1145
 name: Tamar
+nearby: []
 peak: 46.446150,13.713228
 photo_author: Tina_diBatista
 region: julian-alps

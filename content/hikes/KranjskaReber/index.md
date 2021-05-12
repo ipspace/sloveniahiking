@@ -9,6 +9,10 @@ height: 1435
 lead: M_0006.jpg
 maplink: https://mapzs.projekti.si/poi/940
 name: KranjskaReber
+nearby:
+- velikaplanina
+- strelovec
+- raduha
 peak: 46.284542,14.711178
 photo_author: Mojca_Lustrek
 region: kamnik-alps

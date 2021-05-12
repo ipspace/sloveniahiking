@@ -9,6 +9,7 @@ height: 1107
 lead: M_2-2217_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/34828
 name: Krim
+nearby: []
 peak: 45.928570,14.471184
 photo_author: Mojca_Lustrek
 region: notranjska

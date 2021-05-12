@@ -19,6 +19,12 @@ lead: M_20210509_110242.jpg
 length: 18.6
 maplink: https://www.opencyclemap.org/?zoom=13&lat=45.93893&lon=14.15764&layers=B0000
 name: Zibrse
+nearby:
+- zaplanatavzentroza
+- zaplanarovte
+- vs3k
+- goropeke
+- svlovrenc
 region: notranjska
 start: 45.958404,14.191024
 title: Žibrše

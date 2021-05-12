@@ -1,16 +1,15 @@
 ---
-date: 2021-02-16 14:51:00
+Difficulty: Well-trodden waymarked path with stimulating steep sections. The meadows
+  in the upper half get hot during summer months.
+date: 2021-02-16 14:51:00+00:00
 delta: 540
-Difficulty:
-  Well-trodden waymarked path with stimulating steep sections. The meadows in the upper half get hot during summer months.
+description: Hiking or biking to Slivnica is always a pleasant experience -- we love
+  snowy meadows in the winters, summer flowers on those same meadows in the summer,
+  or the cool shade of the beech forest while biking to the top... and then there's
+  the view of [Lake Cerknica](https://www.notranjski-park.si/en/nature/natural-sights/lake-cerknica).
+diff: null
 duration: 3
 height: 1114
-description:
-  Hiking or biking to Slivnica is always a pleasant experience -- we love snowy meadows in the winters, summer flowers on those same meadows in the summer, or the cool shade of the beech forest while biking to the top... and then there's the view of [Lake Cerknica](https://www.notranjski-park.si/en/nature/natural-sights/lake-cerknica).
-timing:
-- "Ascent: 1 h 40 min"
-- "Descent: 1 h"
-- "Total: 3 h"
 image:
 - M_3-1364_IMG.jpg
 - M_3-1349_IMG.jpg
@@ -27,13 +26,19 @@ layout: structured
 lead: M_3-1364_IMG.jpg
 maplink: https://mapzs.projekti.si/poi/5679
 name: Slivnica
+nearby:
+- borovniski_pekel
+- pokojisce
+peak: 45.7899991,14.3990229
+start: 45.792868,14.367291
+timing:
+- 'Ascent: 1 h 40 min'
+- 'Descent: 1 h'
+- 'Total: 3 h'
 title: Slivnica above Lake Cerknica
-diff: 
+video: https://www.relive.cc/view/vQvy1dzE8Kv/
 x: 454
 y: 72
-start: 45.792868,14.367291
-peak: 45.7899991,14.3990229
-video: "https://www.relive.cc/view/vQvy1dzE8Kv/"
 ---
 Slivnica is one of the peaks in my Goldilocks zone -- it's not too far, the hike is not too steep, or too long, or too dull, and the view of [Lake Cerknica](https://www.notranjski-park.si/en/nature/natural-sights/lake-cerknica) and Slovenian Alps is fantastic.
 

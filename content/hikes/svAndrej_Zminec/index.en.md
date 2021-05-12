@@ -8,6 +8,12 @@ lead: M_9_0990.jpg
 map: 1
 maplink: https://mapzs.projekti.si/poi/4915
 name: svAndrej_Zminec
+nearby:
+- svozbolt
+- tosc
+- polhograjskagrmada
+- korena
+- kozljek
 peak: 46.135750,14.301741
 region: gorenjska
 title: Andrej above Zminec

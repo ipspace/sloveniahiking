@@ -12,6 +12,12 @@ maplink: https://mapzs.projekti.si/path/30993
 multilead: M_5_0514.JPG
 multipath: true
 name: PolhograjskaGrmada/Gonte
+nearby:
+- polhograjskagrmada
+- tosc
+- korena
+- svozbolt
+- kozljek
 peak: 46.083811,14.332903
 start: 46.075996,14.313156
 title: Polhograjska Grmada čez Gonte

@@ -8,6 +8,10 @@ layout: stub
 lead: M_007051810.jpg
 maplink: https://mapzs.projekti.si/poi/1022
 name: SuhiVrh
+nearby:
+- nanos
+- svduh_podkraj
+- vremscica
 peak: 45.798405,14.066979
 photo_author: Mojca_Lustrek
 region: primorska

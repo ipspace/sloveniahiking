@@ -16,7 +16,13 @@ layout: structured
 lead: M_20210329_122726.jpg
 length: 22.2
 maplink: https://mapzs.projekti.si/poi/5387
-name: ZaplanaRovte/
+name: ZaplanaRovte
+nearby:
+- spica
+- vrhnikazaplana
+- zibrse
+- zaplanatavzentroza
+- vs3k
 region: notranjska
 start: 45.970595,14.235152
 title: From Zaplana to Rovte

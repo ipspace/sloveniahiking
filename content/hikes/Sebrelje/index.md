@@ -1,18 +1,24 @@
 ---
-date: '2004-10-10T00:00:00'
-lastmod: 2021-03-25 14:58:00
+date: 2004-10-10 00:00:00+00:00
 delta: 420
-description: 
-  Za strmimi skalnatimi pobočji nad dolino Idrijce se skriva sončen gričevnat svet Šebreljske planote
+description: Za strmimi skalnatimi pobočji nad dolino Idrijce se skriva sončen gričevnat
+  svet Šebreljske planote
 duration: 3
 height: 630
+lastmod: 2021-03-25 14:58:00
 lead: M_8_1840.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/1419
 name: Sebrelje
+nearby:
+- rodne
+- kojca
+- skrbinakuk
+- porezen
+- crnaprst
+peak: 46.110149, 13.917076
 region: primorska
 start: 46.117423, 13.921578
-peak: 46.110149, 13.917076
 title: Sv. Ivan in Šebreljska planota
 video: https://www.relive.cc/view/vZqNn3QVn3q/
 ---

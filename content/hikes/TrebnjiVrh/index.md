@@ -8,6 +8,7 @@ height: 581
 lead: M_6-3650_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/3949
 name: TrebnjiVrh
+nearby: []
 peak: 45.893362,15.003060
 region: dolenjska
 title: Trebnji vrh

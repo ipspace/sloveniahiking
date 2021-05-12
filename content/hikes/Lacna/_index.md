@@ -11,6 +11,12 @@ image:
 lead: M_1_2849.JPG
 maplink: https://mapzs.projekti.si/poi/1656
 name: Lacna
+nearby:
+- kuk
+- hrastovljezazid
+- marezigetrsek
+- podgorje
+- tinjan_osp
 peak: 45.504969,13.885283
 region: istria
 title: Lačna

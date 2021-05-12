@@ -17,6 +17,12 @@ lead: M_9_0910.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/1661
 name: svMiklavz_Vipava
+nearby:
+- gradiskatura
+- plaz
+- soncnica
+- kovk
+- starababa
 peak: 45.819506,13.982114
 region: vipava
 start: 45.832270,13.971014

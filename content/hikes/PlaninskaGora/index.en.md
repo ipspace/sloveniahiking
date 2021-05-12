@@ -1,14 +1,24 @@
 ---
-date: 2021-02-22 10:39:23
+date: 2021-02-22 10:39:23+00:00
 delta: 410
-description: |
-  Planinska Gora (Planina''s Mountain) is the easternmost part of the ridge extending from Planina (near Postojna) to Bukovje and Predjama. The hike will take you along wide trails with only an occasional steep section or two, making it ideal for a family excursion with restless kids.
+description: 'Planinska Gora (Planina''''s Mountain) is the easternmost part of the
+  ridge extending from Planina (near Postojna) to Bukovje and Predjama. The hike will
+  take you along wide trails with only an occasional steep section or two, making
+  it ideal for a family excursion with restless kids.
+
+  '
 difficulty: Easy hike on wide trails with a few steeper sections
 duration: 2
 height: 880
 lead: M_20210222_002.jpg
 maplink: https://mapzs.projekti.si/path/31616
 name: PlaninskaGora
+nearby:
+- oblenk
+- svlovrenc
+- zibrse
+- vrhnikazaplana
+- spica
 peak: 45.837401,14.233887
 start: 45.836412,14.255054
 timing:

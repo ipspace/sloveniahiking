@@ -1,13 +1,17 @@
 ---
 date: 2002-12-01 00:00:00+00:00
 delta: 440
-description: 
-  Ko bo Ljubljansko kotlino spet ovijala megla, se splača ogledati megleno morje z vrha - na primer s sv. Jakoba nad Preddvorom.
+description: Ko bo Ljubljansko kotlino spet ovijala megla, se splača ogledati megleno
+  morje z vrha - na primer s sv. Jakoba nad Preddvorom.
 duration: 2
 height: 961
 lead: M_9-3980_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/1295
 name: svJakob_Preddvor
+nearby:
+- baba
+- kozjivrh
+- stegovnik
 peak: 46.315115,14.440824
 region: kamnik-alps
 start: 46.305721,14.432230

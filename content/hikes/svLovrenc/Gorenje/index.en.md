@@ -10,9 +10,15 @@ height: 1019
 layout: stub
 lead: M_1-3162_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/3908
-multipath: true
 multilead: M_1-3162_IMG.JPG
+multipath: true
 name: svLovrenc
+nearby:
+- svlovrenc
+- oblenk
+- zibrse
+- zaplanatavzentroza
+- zaplanarovte
 peak: 45.839190,14.168374
 region: notranjska
 start: 45.835079,14.154237

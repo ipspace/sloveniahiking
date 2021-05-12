@@ -8,6 +8,12 @@ height: 987
 lead: M_8-3831_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/34550
 name: MrzliVrh_Ziri
+nearby:
+- vrsnik_ziri
+- ermanovec
+- goropeke
+- bevkovvrh
+- slajka
 peak: 46.054579,14.061365
 region: gorenjska
 start: 46.047329,14.108442

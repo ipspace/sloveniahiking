@@ -1,27 +1,35 @@
 ---
-date: 2021-02-26 18:04:54
+alt:
+  delta: 670
+  duration: 5
+  start: 45.918867,13.805844
+date: 2021-02-26 18:04:54+00:00
 delta: 1050
-description: 
-  Veliki Rob is one of the most prominent peaks on the edge of the Čaven plateau. Most hikers focus on nearby Kucelj, making it an exciting destination a bit off the beaten track. Marked paths to Veliki Rob are pretty circuitous if you want to start in Vipava valley, so we'll take an extra-steep unmarked approach.
+description: Veliki Rob is one of the most prominent peaks on the edge of the Čaven
+  plateau. Most hikers focus on nearby Kucelj, making it an exciting destination a
+  bit off the beaten track. Marked paths to Veliki Rob are pretty circuitous if you
+  want to start in Vipava valley, so we'll take an extra-steep unmarked approach.
 difficulty: Very steep hike on unmarked footpaths
 duration: 6
 height: 1236
 lead: M_20210226_124917.jpg
 maplink: https://mapzs.projekti.si/poi/5266
 name: VelikiRob
+nearby:
+- kucelj
+- skoljsvpavla
+- caven
+- malagora
+- maligolak
 peak: 45.934367,13.802914
 region: vipava
 start: 45.903937,13.797679
 timing:
-- "Ascent: 2.5 hours"
-- "Descent: 2 hours"
-- "Total: 6 hours"
+- 'Ascent: 2.5 hours'
+- 'Descent: 2 hours'
+- 'Total: 6 hours'
 title: Veliki Rob from Gojače/Zasod
 video: https://www.relive.cc/view/veqz3XLBDBv/
-alt:
-  start: 45.918867,13.805844
-  delta: 670
-  duration: 5
 ---
 Veliki Rob is one of the most prominent peaks on the edge of the Čaven plateau. Most hikers focus on nearby [Kucelj](../kucelj), making it an exciting destination a bit off the beaten track. Marked paths to Veliki Rob are pretty circuitous if you want to start in Vipava valley, so we'll take an extra-steep unmarked approach.
 

@@ -19,6 +19,12 @@ lead: M_20210422_085412.jpg
 length: '18.3'
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.49773&lon=13.839&layers=B0000
 name: MarezigeTrsek
+nearby:
+- marezigeborst
+- lacna
+- marezigesmarje
+- abitanti
+- tinjan_osp
 region: istria
 start: 45.506836,13.798535
 title: Marezige – Trsek – Popetre

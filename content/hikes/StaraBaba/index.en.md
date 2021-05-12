@@ -1,15 +1,25 @@
 ---
-date: 2021-03-03 18:30:14
+date: 2021-03-03 18:30:14+00:00
 delta: 120
-description: |
-  Stara Baba is a fluvial terrace with a nice view of nearby Ajdovščina. It must be a popular destination for afternoon strolls as it's crisscrossed with
-  unmarked footpaths -- an ideal easy hike if your kids love exploring the countryside or if dad needs to show off his latest GPS gadget.
+description: 'Stara Baba is a fluvial terrace with a nice view of nearby Ajdovščina.
+  It must be a popular destination for afternoon strolls as it''s crisscrossed with
+
+  unmarked footpaths -- an ideal easy hike if your kids love exploring the countryside
+  or if dad needs to show off his latest GPS gadget.
+
+  '
 difficulty: Easy hike on unmarked footpaths
 duration: 1
 height: 350
-maplink: https://www.opencyclemap.org/?zoom=16&lat=45.89865&lon=13.91553&layers=B0000
 lead: M_20200214_091636.jpg
+maplink: https://www.opencyclemap.org/?zoom=16&lat=45.89865&lon=13.91553&layers=B0000
 name: StaraBaba
+nearby:
+- otliskookno
+- soncnica
+- dolskimaj
+- kovk
+- malagora
 peak: 45.898754,13.914989
 region: vipava
 start: 45.904010,13.912406

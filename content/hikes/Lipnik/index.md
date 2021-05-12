@@ -1,14 +1,21 @@
 ---
 date: 2004-06-06 00:00:00+00:00
 delta: 420
-description: |
-  Na Kraškem robu, kjer se apnenčasti kraški svet terasasto spušča proti flišnim pobočjem Bržanije, stoji neizrazit travnat vrh Lipnik.
+description: 'Na Kraškem robu, kjer se apnenčasti kraški svet terasasto spušča proti
+  flišnim pobočjem Bržanije, stoji neizrazit travnat vrh Lipnik.
+
+  '
 duration: 4
 height: 804
 lead: M_2_1203.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/4193
 name: Lipnik
+nearby:
+- hrastovljezazid
+- kuk
+- podgorje
+- slavnik
 peak: 45.479620,13.966214
 region: istria
 start: 45.499389,13.931462

@@ -6,6 +6,11 @@ height: 826
 layout: stub
 maplink: https://mapzs.projekti.si/poi/233
 name: svPrimoz_Kamnik
+nearby:
+- velikaplanina
+- kamniskosedlo
+- okreselj
+- strelovec
 peak: 46.268999,14.633848
 region: kamnik-alps
 start: 46.267103,14.603767

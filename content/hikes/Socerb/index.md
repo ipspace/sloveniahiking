@@ -19,6 +19,12 @@ lead: M_7_7717.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/1693
 name: Socerb
+nearby:
+- zgornjikras
+- tinjan_osp
+- kokos
+- lacna
+- marezigetrsek
 peak: 45.589477,13.860844
 region: istria
 start: 45.571298,13.857212

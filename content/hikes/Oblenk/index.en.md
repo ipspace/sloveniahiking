@@ -7,6 +7,12 @@ layout: stub
 lead: M_1-4119_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/5751
 name: Oblenk
+nearby:
+- planinskagora
+- svlovrenc
+- zibrse
+- vrhnikazaplana
+- zaplanarovte
 peak: 45.834089,14.213203
 region: notranjska
 start: 45.825786,14.236644

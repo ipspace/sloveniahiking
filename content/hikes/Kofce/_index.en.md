@@ -5,6 +5,11 @@ layout: stub
 lead: M_3_0331.JPG
 maplink: https://mapzs.projekti.si/poi/34621
 name: Kofce
+nearby:
+- velikivrh
+- kladivo
+- kosutica
+- korosica
 peak: 46.417820,14.323948
 region: karavanke
 title: Kofce

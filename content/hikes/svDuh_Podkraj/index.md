@@ -9,6 +9,11 @@ height: 1213
 lead: M_3-3357_IMG.JPG
 maplink: https://mapzs.projekti.si/path/31642
 name: svDuh_Podkraj
+nearby:
+- suhivrh
+- nanos
+- hleviskeplanine
+- vrsnik_ziri
 peak: 45.871767,14.062456
 start: 45.863916,14.062982
 title: Sv. Duh in Križna gora nad Podkrajem

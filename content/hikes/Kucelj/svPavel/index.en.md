@@ -9,6 +9,12 @@ maplink: https://mapzs.projekti.si/path/32602
 multilead: M_0_10275.JPG
 multipath: true
 name: Kucelj/svPavel
+nearby:
+- skoljsvpavla
+- kucelj
+- malagora
+- velikirob
+- caven
 peak: 45.928761,13.825091
 region: vipava
 start: 45.909515,13.818130

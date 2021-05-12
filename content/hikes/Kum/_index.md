@@ -7,6 +7,9 @@ height: 1220
 lead: M_010055.JPG
 maplink: https://mapzs.projekti.si/poi/1085
 name: Kum
+nearby:
+- mrzlica
+- kamnik
 peak: 46.087612,15.072366
 region: posavje
 title: Kum

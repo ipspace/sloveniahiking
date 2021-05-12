@@ -1,14 +1,22 @@
 ---
 date: 2004-10-24 00:00:00+00:00
-lastmod: 2021-02-27 18:30:00
 delta: 480
-description: |
-  Severno od Bohinjskega jezera se dviguje strm greben, v katerem bo vsak obiskovalec Bohinja hitro opazil Vogar, najbolj vzhodni vrh.
+description: 'Severno od Bohinjskega jezera se dviguje strm greben, v katerem bo vsak
+  obiskovalec Bohinja hitro opazil Vogar, najbolj vzhodni vrh.
+
+  '
 duration: 3
 height: 1054
+lastmod: 2021-02-27 18:30:00
 lead: M_9_1910.JPG
 maplink: https://mapzs.projekti.si/poi/1201
 name: Vogar
+nearby:
+- vodicnivrh
+- krstenica
+- uskovnica
+- jezerskistog
+- toscbohinj
 peak: 46.296755,13.867167
 region: julian-alps
 start: 46.290398,13.886655

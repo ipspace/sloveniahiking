@@ -9,6 +9,10 @@ lead: M_2_2241.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/5358
 name: Pokojisce
+nearby:
+- borovniski_pekel
+- slivnica
+- korena
 peak: 45.893781,14.355786
 region: notranjska
 start: 45.890566,14.371874

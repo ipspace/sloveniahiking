@@ -10,6 +10,12 @@ height: 670
 lead: M_3-3392_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/531
 name: Kokos
+nearby:
+- zgornjikras
+- socerb
+- tinjan_osp
+- podgorje
+- lacna
 peak: 45.644495,13.899890
 region: karst
 start: 45.661064,13.927977

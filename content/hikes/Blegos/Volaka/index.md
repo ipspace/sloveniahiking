@@ -19,6 +19,12 @@ maplink: https://mapzs.projekti.si/poi/4875
 multilead: M_4_0493.JPG
 multipath: true
 name: Blegos/Volaka
+nearby:
+- blegos
+- slajka
+- malenskivrh
+- ermanovec
+- javorc
 peak: 46.164802,14.113583
 start: 46.143675,14.105743
 title: Blegoš iz Volake

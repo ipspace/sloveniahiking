@@ -17,6 +17,8 @@ lead: M_6_2633.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/5196
 name: Cerje
+nearby:
+- crnihribi
 peak: 45.872442,13.615999
 region: karst
 start: 45.873359,13.593190

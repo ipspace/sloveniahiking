@@ -9,6 +9,12 @@ maplink: https://mapzs.projekti.si/path/31485
 multilead: M_5-4537_IMG.JPG
 multipath: true
 name: Spica/SM
+nearby:
+- vrhnikazaplana
+- spica
+- zaplanarovte
+- kozljek
+- korena
 peak: 45.971434,14.251496
 start: 45.956459,14.249277
 title: Planina from Stari maln

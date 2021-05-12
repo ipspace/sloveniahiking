@@ -1,10 +1,12 @@
 ---
-date: 2021-02-18 17:50:00
+date: 2021-02-18 17:50:00+00:00
 delta: 990
-description:
-  Want to check the view from Blegoš but hate the crowds? Try the solitary hike from Volaka -- you'll rarely meet someone on the old footpaths in the first half of the ascent and might encounter a like-minded soul when your path merges with the road from Leskovica.
-difficulty: 
-  Steep solitary hike on old footpaths and logging trails. Ideal for the days when you feel the need to burn that extra burst of energy.
+description: Want to check the view from Blegoš but hate the crowds? Try the solitary
+  hike from Volaka -- you'll rarely meet someone on the old footpaths in the first
+  half of the ascent and might encounter a like-minded soul when your path merges
+  with the road from Leskovica.
+difficulty: Steep solitary hike on old footpaths and logging trails. Ideal for the
+  days when you feel the need to burn that extra burst of energy.
 duration: 5
 height: 1562
 image:
@@ -20,12 +22,18 @@ maplink: https://mapzs.projekti.si/poi/4875
 multilead: M_4_0493.JPG
 multipath: true
 name: Blegos/Volaka
+nearby:
+- blegos
+- slajka
+- malenskivrh
+- ermanovec
+- javorc
 peak: 46.164802,14.113583
 start: 46.143675,14.105743
 timing:
-- "Ascent: 2.5 h"
-- "Descent: 2 h"
-- "Total: 5 h"
+- 'Ascent: 2.5 h'
+- 'Descent: 2 h'
+- 'Total: 5 h'
 title: Blegoš from Volaka
 ---
 Want to check the view from Blegoš but hate the crowds? Try the solitary hike from Volaka -- you'll rarely meet someone on the old footpaths in the first half of the ascent and might encounter a like-minded soul when your path merges with the road from Leskovica. Obviously, after you're close to the mountain hut, all bets are off.

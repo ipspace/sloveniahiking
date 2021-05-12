@@ -9,6 +9,12 @@ layout: stub
 lead: M_6-1674_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/6254
 name: Okreselj
+nearby:
+- kamniskosedlo
+- grintovec
+- kalskigreben
+- vrhkorena
+- velikaplanina
 peak: 46.369294,14.586485
 region: kamnik-alps
 title: Okrešelj From Logarska Valley

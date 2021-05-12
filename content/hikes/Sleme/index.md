@@ -22,6 +22,12 @@ image:
 lead: M_006111906.jpg
 maplink: https://mapzs.projekti.si/poi/113
 name: Sleme
+nearby:
+- stenar
+- debelapec
+- brdalipanca
+- lipanskivrh
+- lipanca
 peak: 46.451733,13.871999
 photo_author: Mojca_Lustrek
 region: julian-alps

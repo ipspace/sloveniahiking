@@ -18,6 +18,10 @@ image:
 lead: M_00004.jpg
 maplink: https://mapzs.projekti.si/poi/773
 name: Stegovnik
+nearby:
+- kozjivrh
+- svjakob_preddvor
+- baba
 peak: 46.395233,14.419961
 photo_author: Milos_Kobe
 region: karavanke

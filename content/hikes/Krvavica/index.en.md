@@ -9,6 +9,9 @@ lead: M_0_3015.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/1354
 name: Krvavica
+nearby:
+- creta
+- goraoljka_polzela
 peak: 46.200792,14.993072
 photo_author: Mojca_Lustrek
 region: posavje

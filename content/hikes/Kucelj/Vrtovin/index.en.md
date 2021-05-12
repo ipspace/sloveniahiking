@@ -11,6 +11,12 @@ maplink: https://mapzs.projekti.si/path/32602
 multilead: M_1_2128.JPG
 multipath: true
 name: Kucelj/Vrtovin
+nearby:
+- skoljsvpavla
+- kucelj
+- malagora
+- velikirob
+- caven
 peak: 45.928761,13.825091
 region: vipava
 start: 45.9016051,13.8146674

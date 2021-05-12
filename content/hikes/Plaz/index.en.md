@@ -1,21 +1,30 @@
 ---
-date: 2021-02-28 10:25:00
+date: 2021-02-28 10:25:00+00:00
 delta: 270
-description: |
-  Plaz is a scenic viewpoint above Vipava. Pleasant footpaths lead to it from Vipava and Gradišče, making it a perfect destination of an afternoon family hike.
+description: 'Plaz is a scenic viewpoint above Vipava. Pleasant footpaths lead to
+  it from Vipava and Gradišče, making it a perfect destination of an afternoon family
+  hike.
+
+  '
 difficulty: Enjoyable hike on marked dirt trails and footpaths
 duration: 1.5
 height: 529
 lead: M_2_2245.JPG
 maplink: https://mapzs.projekti.si/poi/1501
 name: Plaz
+nearby:
+- gradiskatura
+- svmiklavz_vipava
+- soncnica
+- kovk
+- starababa
 peak: 45.842405,13.972171
 region: vipava
 start: 45.832270,13.971014
 timing:
-- "Ascent: 45 minutes -- 1 hour"
-- "Descent: 30 minutes"
-- "Total: 2 hours"
+- 'Ascent: 45 minutes -- 1 hour'
+- 'Descent: 30 minutes'
+- 'Total: 2 hours'
 title: Plaz above Vipava
 ---
 {{<hike-details description="true">}}

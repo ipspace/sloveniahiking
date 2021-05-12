@@ -21,6 +21,12 @@ maplink: https://mapzs.projekti.si/path/32492
 multilead: M_7_1797.JPG
 multipath: true
 name: Caven/Stomaz
+nearby:
+- malagora
+- caven
+- skoljsvpavla
+- kucelj
+- starababa
 peak: 45.928964,13.852867
 region: vipava
 start: 45.899641,13.856601

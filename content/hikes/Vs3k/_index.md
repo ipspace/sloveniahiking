@@ -4,6 +4,12 @@ description: Vrh Svetih treh kraljev je najbolj razgleden vrh Rovtarskega hribov
 height: 844
 maplink: https://mapzs.projekti.si/poi/4410
 name: Vs3k
+nearby:
+- goropeke
+- zaplanatavzentroza
+- zaplanarovte
+- javorc
+- zibrse
 peak: 46.010608,14.168462
 region: notranjska
 title: Vrh Svetih treh kraljev

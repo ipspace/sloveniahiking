@@ -20,6 +20,12 @@ layout: structured
 lead: M_0_00679.JPG
 maplink: https://mapzs.projekti.si/poi/1288
 name: Soncnica
+nearby:
+- kovk
+- starababa
+- plaz
+- otliskookno
+- gradiskatura
 path: ../kovk/budanje
 peak: 45.886711,13.960029
 region: vipava

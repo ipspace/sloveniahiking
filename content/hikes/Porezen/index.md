@@ -28,6 +28,12 @@ lead: M_1-6154_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/5098
 name: Porezen
+nearby:
+- kojca
+- rodne
+- crnaprst
+- sebrelje
+- bevkovvrh
 peak: 46.177165,13.974299
 region: primorska
 start: 46.156137,13.944936

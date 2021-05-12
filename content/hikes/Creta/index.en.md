@@ -8,6 +8,8 @@ lead: M_5_0546.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/1305
 name: Creta
+nearby:
+- krvavica
 peak: 46.279198,14.960822
 region: kamnik-alps
 title: Vransko - Čreta

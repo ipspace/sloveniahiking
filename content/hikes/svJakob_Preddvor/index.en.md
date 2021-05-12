@@ -1,13 +1,21 @@
 ---
-date: 2021-03-08 08:54:00
+date: 2021-03-08 08:54:00+00:00
 delta: 440
-description: |
-  From the church of Saint Jacob, sitting on the western ridge of Potoška Gora high above Preddvor, you'll have a phenomenal view of the Slovenian Alps. The vista, and the legendary mountain hut next to the church, make this hilltop a beloved hiking destination.
+description: 'From the church of Saint Jacob, sitting on the western ridge of Potoška
+  Gora high above Preddvor, you''ll have a phenomenal view of the Slovenian Alps.
+  The vista, and the legendary mountain hut next to the church, make this hilltop
+  a beloved hiking destination.
+
+  '
 duration: 2
 height: 961
 lead: M_9-3980_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/1295
 name: svJakob_Preddvor
+nearby:
+- baba
+- kozjivrh
+- stegovnik
 peak: 46.315115,14.440824
 region: kamnik-alps
 start: 46.305721,14.432230

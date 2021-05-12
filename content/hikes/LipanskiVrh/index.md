@@ -30,6 +30,12 @@ lead: M_9-6909_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/6083
 name: LipanskiVrh
+nearby:
+- lipanca
+- brdalipanca
+- debelapec
+- visevnik
+- malidraskivrh
 peak: 46.378856,13.920257
 region: julian-alps
 start: 46.374746,13.941008

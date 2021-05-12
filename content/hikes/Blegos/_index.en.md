@@ -9,6 +9,12 @@ height: 1562
 lead: M_4_0469.JPG
 maplink: https://mapzs.projekti.si/poi/4875
 name: Blegos
+nearby:
+- malenskivrh
+- slajka
+- ermanovec
+- javorc
+- mrzlivrh_ziri
 peak: 46.164802,14.113583
 region: gorenjska
 title: Blegoš

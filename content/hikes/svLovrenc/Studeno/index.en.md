@@ -1,17 +1,26 @@
 ---
-date: '2021-03-23 06:38:21'
+date: 2021-03-23 06:38:21+00:00
 delta: 420
-description: |
-  The steepest ascent to Sv. Lovrenc starts in Studeno, a village near Postojna. I love to take it when looking for a short but intensive morning hike after dropping the kids off at school.
+description: 'The steepest ascent to Sv. Lovrenc starts in Studeno, a village near
+  Postojna. I love to take it when looking for a short but intensive morning hike
+  after dropping the kids off at school.
+
+  '
 difficulty: Steep hike over sunny meadows
 duration: 2
 height: 1019
 layout: structured
 lead: M_20210322_080329.jpg
+maplink: https://mapzs.projekti.si/path/31624
 multilead: M_20210322_080329.jpg
 multipath: true
-maplink: https://mapzs.projekti.si/path/31624
 name: Studeno
+nearby:
+- svlovrenc
+- oblenk
+- planinskagora
+- zibrse
+- zaplanatavzentroza
 peak: 45.839000,14.167335
 region: notranjska
 start: 45.826682,14.174066

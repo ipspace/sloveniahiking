@@ -1,13 +1,21 @@
 ---
 date: 2005-03-13 00:00:00+00:00
 delta: 270
-description: |
-  Plaz je prijeten cilj krajšega družinskega izleta. Nanj so speljane markirane poti iz Vipave in z Gradišča pri Vipavi.
+description: 'Plaz je prijeten cilj krajšega družinskega izleta. Nanj so speljane
+  markirane poti iz Vipave in z Gradišča pri Vipavi.
+
+  '
 duration: 1.5
 height: 529
 lead: M_2_2245.JPG
 maplink: https://mapzs.projekti.si/poi/1501
 name: Plaz
+nearby:
+- gradiskatura
+- svmiklavz_vipava
+- soncnica
+- kovk
+- starababa
 peak: 45.842405,13.972171
 region: vipava
 start: 45.832270,13.971014

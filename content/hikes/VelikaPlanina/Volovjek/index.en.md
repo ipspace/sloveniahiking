@@ -17,6 +17,12 @@ maplink: https://mapzs.projekti.si/poi/836
 multilead: M_3_1379.JPG
 multipath: true
 name: VelikaPlanina/Volovjek
+nearby:
+- kranjskareber
+- velikaplanina
+- svprimoz_kamnik
+- strelovec
+- raduha
 peak: 46.298105,14.643921
 region: kamnik-alps
 start: 46.283258,14.688441

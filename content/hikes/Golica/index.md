@@ -11,6 +11,8 @@ lead: M_2_1262.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/4803
 name: Golica
+nearby:
+- klek
 peak: 46.491437,14.054546
 region: karavanke
 start: 46.461300,14.048692

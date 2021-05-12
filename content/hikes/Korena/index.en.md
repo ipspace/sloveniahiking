@@ -7,6 +7,12 @@ layout: stub
 lead: M_2-2216_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/5538
 name: Korena
+nearby:
+- kozljek
+- polhograjskagrmada
+- tosc
+- spica
+- vrhnikazaplana
 peak: 46.035238,14.295931
 region: notranjska
 title: Korena above Horjul

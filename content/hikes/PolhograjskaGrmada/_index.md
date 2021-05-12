@@ -8,6 +8,11 @@ height: 898
 lead: M_0-5040_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/196
 name: PolhograjskaGrmada
+nearby:
+- tosc
+- svozbolt
+- korena
+- svandrej_zminec
 peak: 46.083811,14.332903
 region: notranjska
 title: Polhograjska Grmada

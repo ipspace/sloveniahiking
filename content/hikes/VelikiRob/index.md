@@ -1,27 +1,36 @@
 ---
-date: 2021-02-26 18:04:54
+alt:
+  delta: 670
+  duration: 5
+  start: 45.918867,13.805844
+date: 2021-02-26 18:04:54+00:00
 delta: 1050
-description: 
-  Veliki Rob je eden najbolj opaznih vrhov na robu Čavna. Večino izletnikov bolj zanima Kucelj, zato boste med potepanjem okoli Velikega Roba verjetno doživeli več miru in tišine. Markirane poti iz Vipavske doline se Velikemu Robu izognejo (nekatere gredo na Kucelj, druge na Kopitnik), zato se bomo nanj povzpeli po nemarkiranih stezicah.
+description: Veliki Rob je eden najbolj opaznih vrhov na robu Čavna. Večino izletnikov
+  bolj zanima Kucelj, zato boste med potepanjem okoli Velikega Roba verjetno doživeli
+  več miru in tišine. Markirane poti iz Vipavske doline se Velikemu Robu izognejo
+  (nekatere gredo na Kucelj, druge na Kopitnik), zato se bomo nanj povzpeli po nemarkiranih
+  stezicah.
 difficulty: Zelo strma nemarkirana pot
 duration: 6
 height: 1236
 lead: M_20210226_124917.jpg
 maplink: https://mapzs.projekti.si/poi/5266
 name: VelikiRob
+nearby:
+- kucelj
+- skoljsvpavla
+- caven
+- malagora
+- maligolak
 peak: 45.934367,13.802914
 region: vipava
 start: 45.903937,13.797679
 timing:
-- "Vzpon: 2.5 uri"
-- "Sestop: 2 uri"
-- "Skupaj: 6 ur"
+- 'Vzpon: 2.5 uri'
+- 'Sestop: 2 uri'
+- 'Skupaj: 6 ur'
 title: Veliki Rob iz Gojač/Zasoda
 video: https://www.relive.cc/view/veqz3XLBDBv/
-alt:
-  start: 45.918867,13.805844
-  delta: 670
-  duration: 5
 ---
 Veliki Rob je eden najbolj opaznih vrhov na robu Čavna. Večino izletnikov bolj zanima Kucelj, zato boste med potepanjem okoli Velikega Roba verjetno doživeli več miru in tišine. Markirane poti iz Vipavske doline se Velikemu Robu izognejo (nekatere gredo na Kucelj, druge na Kopitnik, zato se bomo nanj povzpeli po nemarkirani poti.
 

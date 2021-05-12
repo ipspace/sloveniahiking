@@ -10,6 +10,7 @@ lead: M_8-4819_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/34684
 name: Brunk
+nearby: []
 peak: 46.037433,15.179605
 region: posavje
 title: Brunk iz Hotemeža

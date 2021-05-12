@@ -1,8 +1,11 @@
 ---
-date: 2021-03-01 19:20:00
+date: 2021-03-01 19:20:00+00:00
 delta: 320
-description: |
-  Getting from Col (a village along an old Roman road) to Kovk (a scenic hilltop high above Vipava valley) is a comfortable hour-long hike with a few steeper sections -- ideal for an afternoon family stroll.
+description: 'Getting from Col (a village along an old Roman road) to Kovk (a scenic
+  hilltop high above Vipava valley) is a comfortable hour-long hike with a few steeper
+  sections -- ideal for an afternoon family stroll.
+
+  '
 duration: 2
 height: 961
 lead: M_4_1434.JPG
@@ -10,6 +13,12 @@ maplink: https://mapzs.projekti.si/poi/1288
 multilead: M_4_1448.JPG
 multipath: true
 name: Kovk/Col
+nearby:
+- kovk
+- soncnica
+- plaz
+- svduh_podkraj
+- gradiskatura
 peak: 45.887981,13.969153
 region: vipava
 start: 45.885151,13.994895

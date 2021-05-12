@@ -25,6 +25,12 @@ lead: M_6_2636.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/18
 name: Stenar
+nearby:
+- sleme
+- toscbohinj
+- velikidraskivrh
+- jezerskistog
+- krstenica
 peak: 46.408035,13.818710
 region: julian-alps
 start: 46.412627,13.846501

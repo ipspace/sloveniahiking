@@ -9,6 +9,12 @@ lead: M_9-5929_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/4975
 name: Visevnik
+nearby:
+- malidraskivrh
+- velikidraskivrh
+- toscbohinj
+- lipanskivrh
+- lipanca
 peak: 46.358914,13.898428
 region: julian-alps
 start: 46.345450,13.923233

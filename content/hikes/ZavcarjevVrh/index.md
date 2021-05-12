@@ -11,6 +11,7 @@ lead: M_7_2717.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/1352
 name: ZavcarjevVrh
+nearby: []
 peak: 46.600905,15.523045
 region: stajerska
 title: Žavcarjev vrh
