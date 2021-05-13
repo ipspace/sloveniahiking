@@ -30,7 +30,7 @@ Zahtevnost
 :   Odlično označena, občasno precej strma pot.
 
 Dostop
-:   S severne strani se lahko na Koreno povzpnemo iz Polhovega Gradca ali iz doline Male vode (po dveh poteh), z južne strani vodijo poti iz Horjula inZaklanca, z vzhodne strani pa pot izPodolnice, ki se ji lahko priključimo tudi nekoliko kasnejena prevalublizu kmetije Škofic. Z zahoda lahko pridemo na Koreno po slemenski poti iz zaselka Samotorica oziroma z vrha Kožljek nad njo.
+:   S severne strani se lahko na Koreno povzpnemo iz Polhovega Gradca ali iz doline Male vode (po dveh poteh), z južne strani vodijo poti iz Horjula in Zaklanca, z vzhodne strani pa pot iz Podolnice, ki se ji lahko priključimo tudi nekoliko kasneje na prevalu blizu kmetije Škofic. Z zahoda lahko pridemo na Koreno po slemenski poti iz zaselka Samotorica oziroma z vrha Kožljek nad njo.
 
 Dolžina
 :   Podolnica -- Korena: 1 h 20 min\
@@ -55,7 +55,7 @@ Priporočam
 Karta
 :   Planinska karta, izletniške karte in Atlas Slovenije uporabljajo iste vire in imajo zato iste napake -- večina poti na Koreno ni vrisanih, ceste so napačno označene kot makadamske ali pa celo manjkajo.
 
-{{% note %}}Dostop iz Polhovega Gradca opisuje Andrej Stritar v knjigi _Izleti po ljubljanski okolici_{{% /note %}}
+{{<note>}}Dostop iz Polhovega Gradca opisuje Andrej Stritar v knjigi _Izleti po ljubljanski okolici_{{</note>}}
 
 Dostop
 ------

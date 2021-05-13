@@ -5,27 +5,20 @@ description: Samotorica in Korena sta zaselka tik pod grebenom hribovja med Horj
   in Polhovim gradcem. Ob grebenu teče markirana razgledna pot, kot nalašč za prijeten
   nedeljski izlet, ki ga lahko dodatno popestrimo s kosilom na enem od kmečkih turizmov
   na Koreni.
-dirty: true
 duration: 2.5
 height: 729
-image:
-- M_8-4852_IMG.JPG
-- M_8-4852_IMG.JPG
-- M_8-4859_IMG.JPG
-- M_8-4860_IMG.JPG
-- Razgled_Korena.jpg
-- M_8-4873_IMG.JPG
-- mapgps.jpg
-- path_1.gif
-- alt.gif
 lead: M_8-4852_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/5538
 name: Korena_Samotorica
+peak: 46.035238,14.295931
+region: notranjska
+start: 46.029142,14.257784
 title: S Samotorice do Korene
-x: 444
-y: 99
 ---
-{{<figure src="M_8-4852_IMG.JPG">}} Samotorica in [Korena](../korena) sta zaselka tik pod grebenom hribovja, ki ločuje dolino Horjulščice od doline Gradaščice. Ob grebenu teče markirana razgledna pot, kot nalašč za prijeten nedeljski izlet, ki ga lahko dodatno popestrimo s kosilom na enem od kmečkih turizmov na Koreni.
+{{<figure src="M_8-4852_IMG.JPG">}}
+
+Samotorica in [Korena](../korena) sta zaselka tik pod grebenom hribovja, ki ločuje dolino Horjulščice od doline Gradaščice. Ob grebenu teče markirana razgledna pot, kot nalašč za prijeten nedeljski izlet, ki ga lahko dodatno popestrimo s kosilom na enem od kmečkih turizmov na Koreni.
 
 Tisti, ki si želite položnega nedeljskega sprehoda, se boste do Samotorice pripeljali z avtomobilom, drugi pa se boste nanjo povzpeli iz Vrzdenca.
 
@@ -35,7 +28,7 @@ Tisti, ki si želite položnega nedeljskega sprehoda, se boste do Samotorice pri
 :   Dobro označena, zelo položna pot.
 
 **Dostop**
-:   Na Samotorico se lahko pripeljemo po asfaltni cesti iz Horjula ali pa se nanjo[povzpnemo po markirani poti iz Vrzdenca](../kozljek).
+:   Na Samotorico se lahko pripeljemo po asfaltni cesti iz Horjula ali pa se nanjo [povzpnemo po markirani poti iz Vrzdenca](../kozljek).
 
 **Dolžina**
 :   Samotorica -- Korena (in obratno): 1\
@@ -60,11 +53,11 @@ Tisti, ki si želite položnega nedeljskega sprehoda, se boste do Samotorice pri
 Začetek poti v Samotorici
 -------------------------
 
-Dostop do Horjula ter pot iz Vrzdenca do Samotorice sta opisana v izletu Kožljek in Samotorica iz Vrzdenca.
+Dostop do Horjula ter pot iz Vrzdenca do Samotorice sta opisana v izletu [Kožljek in Samotorica iz Vrzdenca](../kozljek).
 
 Pot proti Koreni začnemo na Samotorici, zaselku tik pod Kožljekom, najvišjim vrhom v grebenu, ob katerem bomo hodili. Do Samotorice nas pripelje asfaltna cesta iz Horjula ali pa markirana pot iz Vrzdenca.
 
-{{<figure src="../Kozljek/L_8-4841_IMG.JPG" caption="Samotorica">}}
+{{<figure src="/hikes/kozljek/M_8-4841_IMG.JPG" caption="Samotorica">}}
 
 Če se boste do Samotorice pripeljali z avtomobilom, zavijte na križišču sredi Horjula v smeri Šentjošta, takoj za tem pa vas smerokaz usmeri desno v hrib. Približno na sredini vzpona se asfaltna cesta razcepi -- izberete levi krak, ki vas po asfaltu pripelje vse do parkirišča pred cerkvijo na Samotorici.
 

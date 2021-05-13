@@ -7,10 +7,12 @@ duration: 2.5
 height: 1971
 lead: M_8_1858.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/5921
 name: Zvoh
+peak: 46.308801,14.541501
+region: kamnik-alps
+start: 46.292898,14.537146
 title: Krvavec in Zvoh
-x: 464
-y: 129
 ---
 {{<figure src="M_8_1858.JPG">}}
 
@@ -47,6 +49,8 @@ Od glavne osi Kamniških Alp se južno od Kokrskega sedla odcepi stranski greben
 **Karta**
 :   Kamniške in Savinjske Alpe, 1 : 50.000
 
+{{<hike-details-extra>}}
+
 S Kriške planine proti Krvavcu
 ------------------------------
 
@@ -63,9 +67,11 @@ Od parkirišča se sprehodite mimo postaje sedežnice in planšarije proti oddaj
 Krvavec in Veliki Zvoh
 ----------------------
 
+Ker vas nekaj minut vzpona verjetno še ni utrudilo, se lahko Domu na Krvavcu izognete -- zapustite kolovoz in se odpravite kar naravnost navzgor po travniku. Na grebenu vas zaustavi vrtača, ki se ji izognete po levi, nato pa sledite makadamski cesti, ki mimo oddajnika pelje proti vrhu Velikega Zvoha. 
+
 {{<figure src="M_8_1855.JPG" caption="Dom na Krvavcu">}}
 
-Ker vas nekaj minut vzpona verjetno še ni utrudilo, se lahko Domu na Krvavcu izognete -- zapustite kolovoz in se odpravite kar naravnost navzgor po travniku. Na grebenu vas zaustavi vrtača, ki se ji izognete po levi, nato pa sledite makadamski cesti, ki mimo oddajnika pelje proti vrhu Velikega Zvoha. Že na prvem ovinku vas čaka čudovit pogled -- čez Kranjsko polje vas nad Jelovico in Pokljuko pozdravljajo Julijske Alpe, nad katerimi se dviga Triglav, naravnost nasproti vas sta Storžič in Kriška gora, za katerima se dviga greben Košute, nekoliko bolj desno vašo pozornost pritegneta Kočni in Grintovec, druge vrhove Kamniških Alp pa precej uspešno zakriva Kalški greben.
+Že na prvem ovinku vas čaka čudovit pogled -- čez Kranjsko polje vas nad Jelovico in Pokljuko pozdravljajo Julijske Alpe, nad katerimi se dviga Triglav, naravnost nasproti vas sta Storžič in Kriška gora, za katerima se dviga greben Košute, nekoliko bolj desno vašo pozornost pritegneta Kočni in Grintovec, druge vrhove Kamniških Alp pa precej uspešno zakriva Kalški greben.
 
 {{<figure src="M_8_1853.JPG" caption="Kočni in Grintovec">}}
 

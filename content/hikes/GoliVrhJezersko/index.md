@@ -5,26 +5,16 @@ delta: 860
 description: Goli vrh je stožec med Ravensko in Belsko Kočno še v Kamniško-Savinjskih
   Alpah, a se že spogleduje s Karavankami. Iz gozdnatih pobočij štrli gola konica,
   s katere je razkošen razgled na vse strani.
-dirty: true
 duration: 4.5
 height: 1787
-image:
-- M_006040100.jpg
-- M_006040117.jpg
-- M_006040110.jpg
-- M_006040115.jpg
-- M_006040114.jpg
-- M_006040112.jpg
-- M_006040116.jpg
-- M_006040111.jpg
 lead: M_006040100.jpg
 name: GoliVrhJezersko
 photo_author: Mojca_Lustrek
 title: Goli vrh nad Jezerskim
-x: 465
-y: 139
 ---
-{{<figure src="M_006040100.jpg">}} Goli vrh je stožec med Ravensko in Belsko Kočno še v Kamniško-Savinjskih Alpah, a se že spogleduje s Karavankami. Iz gozdnatih pobočij štrli gola konica, s katere je razkošen razgled na vse strani.
+{{<figure src="M_006040100.jpg">}}
+
+Goli vrh je stožec med Ravensko in Belsko Kočno še v Kamniško-Savinjskih Alpah, a se že spogleduje s Karavankami. Iz gozdnatih pobočij štrli gola konica, s katere je razkošen razgled na vse strani.
 
 ### Osnovni podatki
 
@@ -66,28 +56,30 @@ y: 139
 Iz Ravenske Kočne na Jenkovo planino
 ------------------------------------
 
-{{<figure src="M_006040117.jpg" caption="Lovski dom">}}
-
 Na koncu Jezerskega pri tabli *Drsališče 500 m*, *Gostišče ob Planšarskem jezeru* zavijemo desno po asfaltni cesti po mostu čez Jezernico. Pri gostišču ob jezeru spet zavijemo desno. Parkiramo pri domu Lovske družine Jezersko. Nekoliko naprej stoji ob robu gozda preža, nad njo pa se že vidi vršiček našega cilja.
 
-{{<figure src="M_006040110.jpg" caption="Ancelj">}}
+{{<figure src="M_006040117.jpg" caption="Lovski dom">}}
 
 Napotimo se po cesti, ki je pozimi zelo ledena. Po 10 minutah nas pripelje do turistične kmetije Ancelj (Zgornje Jezersko 151), ki na spletu ponuja poleg sob tudi spanje na senu (upam, da v jasnih nočeh tudi pogled na zvezdnato nebo!), kjer je veliko parkirišče za goste, ob cesti pa »divje« parkira še več takih, ki se jim ne da peš od lovskega doma. Cesta naprej ni splužena.
 
+{{<figure src="M_006040110.jpg" caption="Ancelj">}}
+
 Po dobri gazi se napotimo po Ravenski Kočni  proti prelepim goram. Pot je ločena od travnika z žico, napeto med količki. Čez 10 minut se razcepi: desno k Češki koči, levo k tovorni žičnici in Kranjski koči na Ledinah. Zavijemo levo v pretežno smrekov gozd. Gozdna cesta nas v 10 minutah pripelje na čistino, od koder se vidijo spredaj Češka koča in Ledine, levo nazaj pa Goli vrh (zdaj je že očitno, da smo si izbrali imeniten cilj). Kažipoti vabijo desno na Ledine, k Češki koči in tovorni žičnici, levo pa na Babe in Goli vrh.
 
-{{<figure src="M_006040115.jpg" caption="Do vrha je še daleč">}} {{<figure src="M_006040114.jpg" caption="Ravenska Kočna">}}
+{{<figure src="M_006040114.jpg" caption="Ravenska Kočna">}}
 
-Kočna je polkrožen zaključni del ledeniške doline, obdan s strmimi pobočji.
+{{<note>}}Kočna je polkrožen zaključni del ledeniške doline, obdan s strmimi pobočji.{{</note>}}
 
 Malo naprej izvemo, da je do Jenkove planine uro in četrt hoda, na Goli vrh dve uri, na Veliko Babo pa tri in pol (zahtevna pot). Čez kakih 50 m zavijemo levo proti Golemu vrhu. Tu se naša obveščenost še poveča: Velika Baba se imenuje tudi Koroška Baba, do Jenkove planine pa je zdaj kar poldrugo uro. Začno se markacije. Kmalu za krmiščem se pot začne vzpenjati in se nadaljuje v ravno pravšnjih ključih. V četrt ure prisopihamo do kolovoza, ki se vzpenja od desne proti levi, in zavijemo levo nanj. Po kakih 100 m zavijemo z njega desno v breg. Čez čas še lepše vidimo Kranjsko kočo na Ledinah in Češko kočo.
 
+{{<figure src="M_006040115.jpg" caption="Do vrha je še daleč">}} 
+
 V četrt ure dosežemo uravnavo, kjer na manjšo jaso priteče položen kolovoz. Od tu zelo lepo, že čisto od blizu, vidimo piramido svojega cilja. Spogleduje se z Malo (2018 m) in Veliko Babo (2127 m). Pot nekaj časa teče bolj po ravnem. V kakih 5 minutah nas pripelje mimo razpela -- ličnega domačega izdelka, skrbno podloženega z deščicami, da se drevo ne bi poškodovalo. Čez dobrih 20 minut smo na Jenkovi planini.
+
+{{<figure src="M_006040112.jpg" caption="Jenkova planina">}}
 
 Vzpon na razgledni vrh
 ----------------------
-
-{{<figure src="M_006040112.jpg" caption="Jenkova planina">}}
 
 Kažipota na Jenkovi planini kažeta v desno na Veliko Babo (zahtevna pot, 2.15) in v levo na Goli vrh (0.45). Ob našem obisku na Babo ni bilo gazi. Če se ozremo, lepo vidimo Grintovec (2558 m) in Jezersko Kočno (2540 m). Kak streljaj za mejnim kamnom je na avstrijski strani lična hiška, a ker nam poti tja čez ni nihče uhodil in je bilo snega več kot preveč, smo kar lepo pozabili na zanko okoli Golega vrha, narisano na zemljevidu -- v obe smeri smo šli po isti poti. Pot se nadaljuje malo po gozdu, malo po njegovem robu. Ko je konec planine, se začne strmina in ni ključev, ki bi jo blažili. Čeprav nas je pričakalo snega do vrha pohodnih palic, je bila gaz dobro utrjena. Čez 20 minut se začne gozd redčiti. Lepo se vidijo Ledine, kmalu nato pa zagledamo še Češko kočo. Po 10 minutah zagrizemo v zadnjo strmino pod vrhom, pridemo na čistino in v 5 minutah na vrh.
 
