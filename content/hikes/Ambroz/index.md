@@ -11,11 +11,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/6303
 name: Ambroz
 nearby:
+- /hikes/zvoh
+- /hikes/kamniskivrh
 - /hikes/vrhkorena
 - /hikes/kalskigreben
 - /hikes/baba
-- /hikes/grintovec
-- /hikes/kamniskosedlo
 peak: 46.275034,14.529412
 region: kamnik-alps
 title: Ambrož pod Krvavcem

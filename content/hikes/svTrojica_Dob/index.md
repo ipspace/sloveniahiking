@@ -1,32 +1,22 @@
 ---
-date: '2003-05-18T00:00:00'
+date: 2003-05-18 00:00:00+00:00
 delta: 250
 description: Trojica je zaselek okoli razglednega vrha na obronkih Posavskega hribovja
   z istoimensko cerkvijo sv. Trojice.
-dirty: true
 duration: 3
 height: 530
-image:
-- M_6-4658_IMG.JPG
-- M_6-4661_IMG.JPG
-- M_6-4662_IMG.JPG
-- M_6-4652_IMG.JPG
-- M_6-4660_IMG.JPG
-- M_6-4653_IMG.JPG
-- M_6-4659_IMG.JPG
-- M_6-4656_IMG.JPG
-- M_6-4657_IMG.JPG
-- M_6-4658_IMG.JPG
-- mapgps.jpg
-- path_1.gif
-- alt.gif
 map: 1
+maplink: https://mapzs.projekti.si/path/32419
 name: svTrojica_Dob
+nearby:
+- /hikes/svprimoz_kamnik
+peak: 46.123185,14.675471
+region: posavje
 title: Trojica nad Dobom
-x: 475
-y: 109
 ---
-{{<figure src="M_6-4658_IMG.JPG">}} Trojica je zaselek okoli razglednega vrha na obronkih Posavskega hribovja z istoimensko cerkvijo sv. Trojice. Izpred cerkve se odpre lep razgled proti severu, na Menino planino, Veliko planino in Kamniške Alpe. Na Trojico vodi cesta iz Doba ter planinske poti iz Ihana ali Dolskega.
+{{<figure src="M_6-4658_IMG.JPG">}}
+
+Trojica je zaselek okoli razglednega vrha na obronkih Posavskega hribovja z istoimensko cerkvijo sv. Trojice. Izpred cerkve se odpre lep razgled proti severu, na Menino planino, Veliko planino in Kamniške Alpe. Na Trojico vodi cesta iz Doba ter planinske poti iz Ihana ali Dolskega.
 
 Osnovni podatki
 ===============

@@ -12,6 +12,7 @@ nearby:
 - /hikes/tosc
 - /hikes/svozbolt
 - /hikes/korena
+- /hikes/korena_samotorica
 - /hikes/svandrej_zminec
 peak: 46.083811,14.332903
 region: notranjska

@@ -9,6 +9,12 @@ lead: M_8_1858.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/5921
 name: Zvoh
+nearby:
+- /hikes/vrhkorena
+- /hikes/kalskigreben
+- /hikes/kamniskivrh
+- /hikes/ambroz
+- /hikes/grintovec
 peak: 46.308801,14.541501
 region: kamnik-alps
 start: 46.292898,14.537146

@@ -18,8 +18,9 @@ nearby:
 - /biking/zaplanarovte
 - /hikes/kozljek
 - /hikes/korena
-- /hikes/sivka
+- /hikes/korena_samotorica
 peak: 45.971434,14.251496
+region: notranjska
 title: Planina nad Vrhniko
 x: 442
 y: 92

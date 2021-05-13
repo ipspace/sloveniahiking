@@ -8,6 +8,7 @@ layout: stub
 maplink: https://mapzs.projekti.si/poi/741
 name: Strelovec
 nearby:
+- /hikes/klemencajama
 - /hikes/kamniskosedlo
 - /hikes/velikaplanina
 - /hikes/kranjskareber

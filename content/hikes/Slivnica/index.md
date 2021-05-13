@@ -25,6 +25,7 @@ nearby:
 - /hikes/borovniski_pekel
 - /hikes/pokojisce
 peak: 45.7899991,14.3990229
+region: notranjska
 start: 45.792868,14.367291
 title: Čarovniška Slivnica
 video: https://www.relive.cc/view/vQvy1dzE8Kv/

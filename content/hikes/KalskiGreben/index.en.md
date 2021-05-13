@@ -21,10 +21,10 @@ maplink: https://mapzs.projekti.si/poi/77
 name: KalskiGreben
 nearby:
 - /hikes/vrhkorena
+- /hikes/zvoh
 - /hikes/grintovec
 - /hikes/kamniskosedlo
 - /hikes/okreselj
-- /hikes/ambroz
 peak: 46.331441,14.537686
 region: kamnik-alps
 title: Kalški greben

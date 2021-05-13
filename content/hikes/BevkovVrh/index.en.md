@@ -18,6 +18,7 @@ name: BevkovVrh
 nearby:
 - /hikes/ermanovec
 - /hikes/mrzlivrh_ziri
+- /hikes/crnivrhcerkno
 - /hikes/porezen
 - /hikes/hleviskeplanine
 peak: 46.086057,14.004225

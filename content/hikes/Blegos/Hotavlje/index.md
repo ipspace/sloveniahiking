@@ -33,7 +33,7 @@ nearby:
 - /hikes/malenskivrh
 - /hikes/blegos
 - /hikes/ermanovec
-- /hikes/javorc
+- /hikes/crnivrhcerkno
 peak: 46.164802,14.113583
 start: 46.124584,14.117533
 title: Blegoš iz Hotavelj

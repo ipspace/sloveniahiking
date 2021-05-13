@@ -30,6 +30,7 @@ nearby:
 - /hikes/borovniski_pekel
 - /hikes/pokojisce
 peak: 45.7899991,14.3990229
+region: notranjska
 start: 45.792868,14.367291
 timing:
 - 'Ascent: 1 h 40 min'

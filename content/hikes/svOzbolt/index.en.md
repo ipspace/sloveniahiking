@@ -13,7 +13,7 @@ nearby:
 - /hikes/tosc
 - /hikes/polhograjskagrmada
 - /hikes/korena
-- /hikes/kozljek
+- /hikes/korena_samotorica
 peak: 46.115648,14.286202
 region: gorenjska
 title: Saint Ozbolt above Zminec

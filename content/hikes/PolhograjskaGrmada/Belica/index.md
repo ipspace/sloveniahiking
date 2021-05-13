@@ -17,8 +17,8 @@ nearby:
 - /hikes/polhograjskagrmada
 - /hikes/tosc
 - /hikes/korena
+- /hikes/korena_samotorica
 - /hikes/svozbolt
-- /hikes/svandrej_zminec
 peak: 46.083811,14.332903
 start: 46.068726,14.352170
 title: Na Polhograjsko Grmado iz Belice

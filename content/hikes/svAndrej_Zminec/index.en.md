@@ -13,7 +13,7 @@ nearby:
 - /hikes/tosc
 - /hikes/polhograjskagrmada
 - /hikes/korena
-- /hikes/kozljek
+- /hikes/korena_samotorica
 peak: 46.135750,14.301741
 region: gorenjska
 title: Andrej above Zminec

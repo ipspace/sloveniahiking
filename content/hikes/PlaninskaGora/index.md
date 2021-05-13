@@ -15,9 +15,9 @@ name: PlaninskaGora
 nearby:
 - /hikes/oblenk
 - /hikes/svlovrenc
+- /hikes/javorniki
 - /biking/zibrse
 - /biking/vrhnikazaplana
-- /hikes/spica
 peak: 45.837401,14.233887
 start: 45.836412,14.255054
 timing:

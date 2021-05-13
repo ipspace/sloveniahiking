@@ -1,5 +1,5 @@
 ---
-date: '2004-06-20T00:00:00'
+date: 2004-06-20 00:00:00+00:00
 delta: 770
 description: Nad Stahovico se v predgorju Kamniških Alp dviga strm Kamniški vrh, enostavno
   dostopen po razglednih južnih travnatih pobočjih.
@@ -23,7 +23,16 @@ image:
 - alt.gif
 lead: M_0_1090.jpg
 map: 1
+maplink: https://mapzs.projekti.si/poi/972
 name: KamniskiVrh
+nearby:
+- /hikes/vrhkorena
+- /hikes/zvoh
+- /hikes/ambroz
+- /hikes/svprimoz_kamnik
+- /hikes/velikaplanina
+peak: 46.287944,14.579823
+region: kamnik-alps
 title: Kamniški vrh
 x: 468
 y: 127

@@ -15,8 +15,8 @@ nearby:
 - /hikes/polhograjskagrmada
 - /hikes/tosc
 - /hikes/korena
+- /hikes/korena_samotorica
 - /hikes/kozljek
-- /hikes/svozbolt
 peak: 46.083811,14.332903
 start: 46.065069,14.316842
 title: Polhograjska Grmada through Ravnek

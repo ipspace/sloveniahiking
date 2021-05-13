@@ -247,10 +247,10 @@
     "name": "KamniskoSedlo",
     "nearby": [
       "/hikes/okreselj",
+      "/hikes/klemencajama",
       "/hikes/grintovec",
       "/hikes/kalskigreben",
-      "/hikes/vrhkorena",
-      "/hikes/strelovec"
+      "/hikes/vrhkorena"
     ],
     "peak": "46.359083,14.597487",
     "region": "kamnik-alps",
@@ -416,10 +416,10 @@
     "name": "KalskiGreben",
     "nearby": [
       "/hikes/vrhkorena",
+      "/hikes/zvoh",
       "/hikes/grintovec",
       "/hikes/kamniskosedlo",
-      "/hikes/okreselj",
-      "/hikes/ambroz"
+      "/hikes/okreselj"
     ],
     "peak": "46.331441,14.537686",
     "region": "kamnik-alps",
@@ -446,10 +446,10 @@
     "name": "Kozljek",
     "nearby": [
       "/hikes/korena",
+      "/hikes/korena_samotorica",
       "/hikes/sivka",
       "/hikes/spica",
-      "/biking/vrhnikazaplana",
-      "/biking/zaplanarovte"
+      "/biking/vrhnikazaplana"
     ],
     "peak": "46.034295,14.254920",
     "region": "notranjska",
@@ -542,8 +542,8 @@
       "/hikes/slajka",
       "/hikes/bevkovvrh",
       "/hikes/mrzlivrh_ziri",
-      "/hikes/blegos",
-      "/hikes/goropeke"
+      "/hikes/crnivrhcerkno",
+      "/hikes/blegos"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -732,7 +732,7 @@
       "/hikes/tosc",
       "/hikes/polhograjskagrmada",
       "/hikes/korena",
-      "/hikes/kozljek"
+      "/hikes/korena_samotorica"
     ],
     "peak": "46.135750,14.301741",
     "region": "gorenjska",
@@ -781,8 +781,8 @@
       "/hikes/blegos",
       "/hikes/slajka",
       "/hikes/malenskivrh",
-      "/hikes/ermanovec",
-      "/hikes/javorc"
+      "/hikes/crnivrhcerkno",
+      "/hikes/ermanovec"
     ],
     "peak": "46.164802,14.113583",
     "start": "46.143675,14.105743",
@@ -806,11 +806,11 @@
     "multipath": true,
     "name": "Blegos/CrniVrh",
     "nearby": [
+      "/hikes/crnivrhcerkno",
       "/hikes/porezen",
       "/hikes/slajka",
       "/hikes/ermanovec",
-      "/hikes/bevkovvrh",
-      "/hikes/mrzlivrh_ziri"
+      "/hikes/bevkovvrh"
     ],
     "peak": "46.164802,14.113583",
     "start": "46.171139,14.042610",
@@ -835,11 +835,11 @@
     "multipath": true,
     "name": "Blegos/Leskovica",
     "nearby": [
+      "/hikes/crnivrhcerkno",
       "/hikes/blegos",
       "/hikes/slajka",
       "/hikes/malenskivrh",
-      "/hikes/ermanovec",
-      "/hikes/javorc"
+      "/hikes/ermanovec"
     ],
     "peak": "46.164802,14.113583",
     "start": "46.147414,14.085812",
@@ -860,10 +860,10 @@
     "name": "Blegos",
     "nearby": [
       "/hikes/malenskivrh",
+      "/hikes/crnivrhcerkno",
       "/hikes/slajka",
       "/hikes/ermanovec",
-      "/hikes/javorc",
-      "/hikes/mrzlivrh_ziri"
+      "/hikes/javorc"
     ],
     "peak": "46.164802,14.113583",
     "region": "gorenjska",
@@ -894,7 +894,7 @@
       "/hikes/malenskivrh",
       "/hikes/blegos",
       "/hikes/ermanovec",
-      "/hikes/javorc"
+      "/hikes/crnivrhcerkno"
     ],
     "peak": "46.164802,14.113583",
     "start": "46.124584,14.117533",
@@ -1078,8 +1078,8 @@
       "/hikes/polhograjskagrmada",
       "/hikes/tosc",
       "/hikes/korena",
-      "/hikes/svozbolt",
-      "/hikes/kozljek"
+      "/hikes/korena_samotorica",
+      "/hikes/svozbolt"
     ],
     "peak": "46.083811,14.332903",
     "start": "46.075996,14.313156",
@@ -1108,8 +1108,8 @@
       "/hikes/polhograjskagrmada",
       "/hikes/tosc",
       "/hikes/korena",
-      "/hikes/svozbolt",
-      "/hikes/svandrej_zminec"
+      "/hikes/korena_samotorica",
+      "/hikes/svozbolt"
     ],
     "peak": "46.083811,14.332903",
     "start": "46.068726,14.352170",
@@ -1138,8 +1138,8 @@
       "/hikes/polhograjskagrmada",
       "/hikes/tosc",
       "/hikes/korena",
-      "/hikes/kozljek",
-      "/hikes/svozbolt"
+      "/hikes/korena_samotorica",
+      "/hikes/kozljek"
     ],
     "peak": "46.083811,14.332903",
     "start": "46.065069,14.316842",
@@ -1162,6 +1162,7 @@
       "/hikes/tosc",
       "/hikes/svozbolt",
       "/hikes/korena",
+      "/hikes/korena_samotorica",
       "/hikes/svandrej_zminec"
     ],
     "peak": "46.083811,14.332903",
@@ -1187,11 +1188,11 @@
     "maplink": "https://mapzs.projekti.si/poi/145",
     "name": "VrhKorena",
     "nearby": [
+      "/hikes/zvoh",
       "/hikes/kalskigreben",
+      "/hikes/kamniskivrh",
       "/hikes/ambroz",
-      "/hikes/grintovec",
-      "/hikes/kamniskosedlo",
-      "/hikes/okreselj"
+      "/hikes/grintovec"
     ],
     "peak": "46.315076,14.554277",
     "region": "kamnik-alps",
@@ -1454,8 +1455,8 @@
       "/hikes/kranjskareber",
       "/hikes/velikaplanina",
       "/hikes/svprimoz_kamnik",
-      "/hikes/strelovec",
-      "/hikes/raduha"
+      "/hikes/klemencajama",
+      "/hikes/strelovec"
     ],
     "peak": "46.298105,14.643921",
     "region": "kamnik-alps",
@@ -1496,10 +1497,10 @@
     "name": "VelikaPlanina",
     "nearby": [
       "/hikes/svprimoz_kamnik",
+      "/hikes/kamniskivrh",
       "/hikes/kranjskareber",
       "/hikes/kamniskosedlo",
-      "/hikes/okreselj",
-      "/hikes/strelovec"
+      "/hikes/klemencajama"
     ],
     "peak": "46.298105,14.643921",
     "region": "kamnik-alps",
@@ -1822,7 +1823,7 @@
       "/hikes/okreselj",
       "/hikes/kamniskosedlo",
       "/hikes/vrhkorena",
-      "/hikes/ambroz"
+      "/hikes/zvoh"
     ],
     "peak": "46.357097,14.535416",
     "photo_author": "Mojca_Lustrek",
@@ -1961,11 +1962,11 @@
     "maplink": "https://mapzs.projekti.si/poi/6303",
     "name": "Ambroz",
     "nearby": [
+      "/hikes/zvoh",
+      "/hikes/kamniskivrh",
       "/hikes/vrhkorena",
       "/hikes/kalskigreben",
-      "/hikes/baba",
-      "/hikes/grintovec",
-      "/hikes/kamniskosedlo"
+      "/hikes/baba"
     ],
     "peak": "46.275034,14.529412",
     "region": "kamnik-alps",
@@ -2317,9 +2318,9 @@
     "nearby": [
       "/hikes/oblenk",
       "/hikes/svlovrenc",
+      "/hikes/javorniki",
       "/biking/zibrse",
-      "/biking/vrhnikazaplana",
-      "/hikes/spica"
+      "/biking/vrhnikazaplana"
     ],
     "peak": "45.837401,14.233887",
     "start": "45.836412,14.255054",
@@ -2772,9 +2773,10 @@
     "name": "svPrimoz_Kamnik",
     "nearby": [
       "/hikes/velikaplanina",
+      "/hikes/kamniskivrh",
       "/hikes/kamniskosedlo",
       "/hikes/okreselj",
-      "/hikes/strelovec"
+      "/hikes/klemencajama"
     ],
     "peak": "46.268999,14.633848",
     "region": "kamnik-alps",
@@ -2809,6 +2811,7 @@
     "nearby": [
       "/hikes/ermanovec",
       "/hikes/mrzlivrh_ziri",
+      "/hikes/crnivrhcerkno",
       "/hikes/porezen",
       "/hikes/hleviskeplanine"
     ],
@@ -2836,9 +2839,9 @@
     "nearby": [
       "/hikes/ermanovec",
       "/hikes/blegos",
+      "/hikes/crnivrhcerkno",
       "/hikes/javorc",
-      "/hikes/malenskivrh",
-      "/hikes/mrzlivrh_ziri"
+      "/hikes/malenskivrh"
     ],
     "peak": "46.11316,14.09347",
     "region": "gorenjska",
@@ -2862,10 +2865,10 @@
     "name": "Okreselj",
     "nearby": [
       "/hikes/kamniskosedlo",
+      "/hikes/klemencajama",
       "/hikes/grintovec",
       "/hikes/kalskigreben",
-      "/hikes/vrhkorena",
-      "/hikes/velikaplanina"
+      "/hikes/vrhkorena"
     ],
     "peak": "46.369294,14.586485",
     "region": "kamnik-alps",
@@ -3132,6 +3135,17 @@
     "y": 86
   },
   {
+    "date": "1900-01-01 00:00:00+00:00",
+    "description": {
+      "sl": "V gozdovih med Logatcem in Colom boste na\u0161li ostanke rimske utrdbe, in gostilno, o kateri pi\u0161e \u017ee Valvazor.\n"
+    },
+    "height": 873,
+    "lead": "M_20020916_095733.jpg",
+    "title": {
+      "sl": "Stara po\u0161ta na Hru\u0161ici"
+    }
+  },
+  {
     "date": "2010-12-08 00:00:00+00:00",
     "delta": 380,
     "description": {
@@ -3144,11 +3158,11 @@
     "maplink": "https://mapzs.projekti.si/poi/5538",
     "name": "Korena",
     "nearby": [
+      "/hikes/korena_samotorica",
       "/hikes/kozljek",
       "/hikes/polhograjskagrmada",
       "/hikes/tosc",
-      "/hikes/spica",
-      "/biking/vrhnikazaplana"
+      "/hikes/spica"
     ],
     "peak": "46.035238,14.295931",
     "region": "notranjska",
@@ -3338,6 +3352,7 @@
     "maplink": "https://mapzs.projekti.si/poi/741",
     "name": "Strelovec",
     "nearby": [
+      "/hikes/klemencajama",
       "/hikes/kamniskosedlo",
       "/hikes/velikaplanina",
       "/hikes/kranjskareber",
@@ -3614,7 +3629,7 @@
       "/hikes/svozbolt",
       "/hikes/svandrej_zminec",
       "/hikes/korena",
-      "/hikes/kozljek"
+      "/hikes/korena_samotorica"
     ],
     "peak": "46.097448,14.321274",
     "region": "notranjska",
@@ -3718,7 +3733,9 @@
     "nearby": [
       "/hikes/borovniski_pekel",
       "/hikes/slivnica",
-      "/hikes/korena"
+      "/hikes/javorniki",
+      "/hikes/korena",
+      "/hikes/korena_samotorica"
     ],
     "peak": "45.893781,14.355786",
     "region": "notranjska",
@@ -4005,7 +4022,7 @@
       "/hikes/tosc",
       "/hikes/polhograjskagrmada",
       "/hikes/korena",
-      "/hikes/kozljek"
+      "/hikes/korena_samotorica"
     ],
     "peak": "46.115648,14.286202",
     "region": "gorenjska",
@@ -4063,20 +4080,6 @@
       "sl": "Jamnik in Vodi\u0161ka planina nad Kropo",
       "en": "Jamnik and Vodice from Kropa"
     }
-  },
-  {
-    "date": "1900-01-01 00:00:00+00:00",
-    "description": {
-      "sl": "V gozdovih med Logatcem in Colom boste na\u0161li ostanke rimske utrdbe in gostilno, o kateri pi\u0161e \u017ee Valvazor."
-    },
-    "dirty": true,
-    "height": 873,
-    "lead": "M_2-3254_IMG.JPG",
-    "title": {
-      "sl": "Stara po\u0161ta na Hru\u0161ici"
-    },
-    "x": 431,
-    "y": 80
   },
   {
     "author": "Mojca_Lustrek",
@@ -4195,13 +4198,22 @@
     "height": 1971,
     "lead": "M_8_1858.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5921",
     "name": "Zvoh",
+    "nearby": [
+      "/hikes/vrhkorena",
+      "/hikes/kalskigreben",
+      "/hikes/kamniskivrh",
+      "/hikes/ambroz",
+      "/hikes/grintovec"
+    ],
+    "peak": "46.308801,14.541501",
+    "region": "kamnik-alps",
+    "start": "46.292898,14.537146",
     "title": {
       "sl": "Krvavec in Zvoh",
       "en": "Krvavec and Zvoh"
-    },
-    "x": 464,
-    "y": 129
+    }
   },
   {
     "date": "2004-09-05 00:00:00+00:00",
@@ -4210,18 +4222,26 @@
       "sl": "\u010ce bi se radi sprehajali po visokogorskih travnikih, niso pa vam v\u0161e\u010d ozke stezice ali skalnate poti, po katerih se navadno vzpenjamo v slovenskih gorah, vam bo morda v\u0161e\u010d \u010crni vrh nad Cerknim.",
       "en": null
     },
-    "dirty": true,
     "duration": 1.5,
     "height": 1288,
     "lead": "M_4_1410.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/50830",
     "name": "CrniVrhCerkno",
+    "nearby": [
+      "/hikes/blegos",
+      "/hikes/slajka",
+      "/hikes/ermanovec",
+      "/hikes/bevkovvrh",
+      "/hikes/mrzlivrh_ziri"
+    ],
+    "peak": "46.161433,14.057411",
+    "region": "primorska",
+    "start": "46.171139,14.042610",
     "title": {
       "sl": "\u010crni vrh nad Cerknim",
       "en": "\u010crni vrh above Cerkno"
-    },
-    "x": 428,
-    "y": 114
+    }
   },
   {
     "date": "1900-01-01 00:00:00+00:00",
@@ -4230,18 +4250,26 @@
       "sl": "Samotorica in Korena sta zaselka tik pod grebenom hribovja med Horjulom in Polhovim gradcem. Ob grebenu te\u010de markirana razgledna pot, kot nala\u0161\u010d za prijeten nedeljski izlet, ki ga lahko dodatno popestrimo s kosilom na enem od kme\u010dkih turizmov na Koreni.",
       "en": null
     },
-    "dirty": true,
     "duration": 2.5,
     "height": 729,
     "lead": "M_8-4852_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5538",
     "name": "Korena_Samotorica",
+    "nearby": [
+      "/hikes/korena",
+      "/hikes/kozljek",
+      "/hikes/polhograjskagrmada",
+      "/hikes/tosc",
+      "/hikes/spica"
+    ],
+    "peak": "46.035238,14.295931",
+    "region": "notranjska",
+    "start": "46.029142,14.257784",
     "title": {
       "sl": "S Samotorice do Korene",
       "en": "Korena from Samotorica"
-    },
-    "x": 444,
-    "y": 99
+    }
   },
   {
     "date": "2003-03-30 00:00:00+00:00",
@@ -4334,7 +4362,6 @@
       "sl": "Goli vrh je sto\u017eec med Ravensko in Belsko Ko\u010dno \u0161e v Kamni\u0161ko-Savinjskih Alpah, a se \u017ee spogleduje s Karavankami. Iz gozdnatih pobo\u010dij \u0161trli gola konica, s katere je razko\u0161en razgled na vse strani.",
       "en": null
     },
-    "dirty": true,
     "duration": 4.5,
     "height": 1787,
     "lead": "M_006040100.jpg",
@@ -4343,9 +4370,7 @@
     "title": {
       "sl": "Goli vrh nad Jezerskim",
       "en": "Goli vrh near Jezersko"
-    },
-    "x": 465,
-    "y": 139
+    }
   },
   {
     "date": "2008-03-16 00:00:00+00:00",
@@ -4648,38 +4673,41 @@
       "sl": "\u010ce so vam v\u0161e\u010d kra\u0161ki travniki okoli Goli\u010da ali Vrem\u0161\u010dice, boste na Volovji rebri, grebenu, ki se vzhodno od Ilirske Bistrice zlagoma dviga proti sne\u017eni\u0161kim gozdovom, nedvomno u\u017eivali.",
       "en": null
     },
-    "dirty": true,
     "duration": 2,
     "height": 1099,
     "lead": "M_0_10053.JPG",
     "map": 1,
     "name": "VolovjaReber",
+    "nearby": [],
+    "peak": "45.592453,14.311605",
+    "region": "notranjska",
+    "start": "45.585013,14.319533",
     "title": {
       "sl": "Volovja reber",
       "en": "Volovja reber"
-    },
-    "x": 446,
-    "y": 50
+    }
   },
   {
     "date": "2008-06-08 00:00:00+00:00",
     "delta": 820,
     "description": {
-      "sl": "Tik pod grebenom Karavank vas \u010daka tiha\nrazgledna planina Se\u010da, na katero pripelje markirana pot iz Javorni\u0161kega Rovta.",
+      "sl": "Tik pod grebenom Karavank vas \u010daka tiha razgledna planina Se\u010da, na katero pripelje markirana pot iz Javorni\u0161kega Rovta.",
       "en": null
     },
-    "dirty": true,
     "duration": 4,
     "height": 1698,
     "lead": "M_0_00559.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5796",
     "name": "PlaninaSeca",
+    "nearby": [],
+    "peak": "46.460984,14.129766",
+    "region": "karavanke",
+    "start": "46.456670,14.099295",
     "title": {
       "sl": "Planina Se\u010da",
       "en": "Se\u010da meadow"
-    },
-    "x": 434,
-    "y": 147
+    }
   },
   {
     "date": "2004-06-20 00:00:00+00:00",
@@ -4693,7 +4721,17 @@
     "height": 1259,
     "lead": "M_0_1090.jpg",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/972",
     "name": "KamniskiVrh",
+    "nearby": [
+      "/hikes/vrhkorena",
+      "/hikes/zvoh",
+      "/hikes/ambroz",
+      "/hikes/svprimoz_kamnik",
+      "/hikes/velikaplanina"
+    ],
+    "peak": "46.287944,14.579823",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Kamni\u0161ki vrh",
       "en": "Kamni\u0161ki vrh"
@@ -4708,17 +4746,20 @@
       "sl": "Trojica je zaselek okoli razglednega vrha na obronkih Posavskega hribovja z istoimensko cerkvijo sv. Trojice.",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 530,
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/path/32419",
     "name": "svTrojica_Dob",
+    "nearby": [
+      "/hikes/svprimoz_kamnik"
+    ],
+    "peak": "46.123185,14.675471",
+    "region": "posavje",
     "title": {
       "sl": "Trojica nad Dobom",
       "en": "Holy Trinity above Dob"
-    },
-    "x": 475,
-    "y": 109
+    }
   },
   {
     "date": "1900-01-01 00:00:00+00:00",
@@ -4856,9 +4897,10 @@
       "/biking/zaplanarovte",
       "/hikes/kozljek",
       "/hikes/korena",
-      "/hikes/sivka"
+      "/hikes/korena_samotorica"
     ],
     "peak": "45.971434,14.251496",
+    "region": "notranjska",
     "title": {
       "sl": "Planina nad Vrhniko",
       "en": "Planina nad Vrhniko"
@@ -4873,18 +4915,23 @@
       "sl": "Javorniki so idealna izletni\u0161ka to\u010dka za tiste, ki i\u0161\u010dete nekoliko bolj zahtevne jesenske ali zimske vzpone in bolj u\u017eivate v vremenskih te\u017eavah kot v lepih razgledih",
       "en": null
     },
-    "dirty": true,
     "duration": 4.5,
     "height": 1268,
     "lead": "M_2_0258.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/970",
     "name": "Javorniki",
+    "nearby": [
+      "/hikes/planinskagora",
+      "/hikes/pokojisce"
+    ],
+    "peak": "45.758005,14.295063",
+    "region": "primorska",
+    "start": "45.788505,14.297555",
     "title": {
       "sl": "Javorniki nad Cerkni\u0161kim jezerom",
       "en": "Javorniki over lake Cerknica"
-    },
-    "x": 445,
-    "y": 68
+    }
   },
   {
     "date": "2002-06-16 00:00:00+00:00",
@@ -4903,6 +4950,7 @@
       "/hikes/pokojisce"
     ],
     "peak": "45.7899991,14.3990229",
+    "region": "notranjska",
     "start": "45.792868,14.367291",
     "title": {
       "sl": "\u010carovni\u0161ka Slivnica",
@@ -5000,14 +5048,23 @@
     "duration": 3,
     "height": 1208,
     "lead": "M_X07090701.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/34560",
     "name": "KlemencaJama",
+    "nearby": [
+      "/hikes/strelovec",
+      "/hikes/kamniskosedlo",
+      "/hikes/okreselj",
+      "/hikes/velikaplanina",
+      "/hikes/kamniskivrh"
+    ],
+    "peak": "46.377613,14.633806",
     "photo_author": "Mojca_Lustrek",
+    "region": "kamnik-alps",
+    "start": "46.398356,14.630567",
     "title": {
       "sl": "Klemen\u010da jama",
       "en": "Klemen\u010da jama"
-    },
-    "x": 472,
-    "y": 137
+    }
   },
   {
     "date": "2006-09-24 00:00:00+00:00",
@@ -5726,7 +5783,7 @@
       "/biking/zaplanarovte",
       "/hikes/kozljek",
       "/hikes/korena",
-      "/hikes/sivka"
+      "/hikes/korena_samotorica"
     ],
     "region": "notranjska",
     "start": "45.963816,14.275521",

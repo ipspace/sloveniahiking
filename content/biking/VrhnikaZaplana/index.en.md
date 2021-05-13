@@ -23,7 +23,7 @@ nearby:
 - /biking/zaplanarovte
 - /hikes/kozljek
 - /hikes/korena
-- /hikes/sivka
+- /hikes/korena_samotorica
 region: notranjska
 start: 45.963816,14.275521
 title: Vrhnika – Zaplana – Star Maln

@@ -16,6 +16,12 @@ lead: M_4_1410.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/50830
 name: CrniVrhCerkno
+nearby:
+- /hikes/blegos
+- /hikes/slajka
+- /hikes/ermanovec
+- /hikes/bevkovvrh
+- /hikes/mrzlivrh_ziri
 peak: 46.161433,14.057411
 region: primorska
 start: 46.171139,14.042610

@@ -11,9 +11,9 @@ name: Slajka
 nearby:
 - /hikes/ermanovec
 - /hikes/blegos
+- /hikes/crnivrhcerkno
 - /hikes/javorc
 - /hikes/malenskivrh
-- /hikes/mrzlivrh_ziri
 peak: 46.11316,14.09347
 region: gorenjska
 title: Slajka and Špik from Hotavlje

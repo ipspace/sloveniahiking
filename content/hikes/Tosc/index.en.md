@@ -13,7 +13,7 @@ nearby:
 - /hikes/svozbolt
 - /hikes/svandrej_zminec
 - /hikes/korena
-- /hikes/kozljek
+- /hikes/korena_samotorica
 peak: 46.097448,14.321274
 region: notranjska
 start: 46.076165,14.313252

@@ -26,8 +26,8 @@ nearby:
 - /hikes/blegos
 - /hikes/slajka
 - /hikes/malenskivrh
+- /hikes/crnivrhcerkno
 - /hikes/ermanovec
-- /hikes/javorc
 peak: 46.164802,14.113583
 start: 46.143675,14.105743
 timing:

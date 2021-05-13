@@ -21,7 +21,16 @@ image:
 layout: stub
 lead: M_0_1090.jpg
 map: 1
+maplink: https://mapzs.projekti.si/poi/972
 name: KamniskiVrh
+nearby:
+- /hikes/vrhkorena
+- /hikes/zvoh
+- /hikes/ambroz
+- /hikes/svprimoz_kamnik
+- /hikes/velikaplanina
+peak: 46.287944,14.579823
+region: kamnik-alps
 title: Kamniški vrh
 x: 468
 y: 127

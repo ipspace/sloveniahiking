@@ -18,7 +18,7 @@ nearby:
 - /hikes/okreselj
 - /hikes/kamniskosedlo
 - /hikes/vrhkorena
-- /hikes/ambroz
+- /hikes/zvoh
 peak: 46.357097,14.535416
 photo_author: Mojca_Lustrek
 region: kamnik-alps

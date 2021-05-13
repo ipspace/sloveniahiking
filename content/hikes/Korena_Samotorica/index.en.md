@@ -6,8 +6,16 @@ height: 729
 layout: stub
 lead: M_8-4852_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/5538
 name: Korena_Samotorica
+nearby:
+- /hikes/korena
+- /hikes/kozljek
+- /hikes/polhograjskagrmada
+- /hikes/tosc
+- /hikes/spica
+peak: 46.035238,14.295931
+region: notranjska
+start: 46.029142,14.257784
 title: Korena from Samotorica
-x: 444
-y: 99
 ---

@@ -8,10 +8,10 @@ maplink: https://mapzs.projekti.si/poi/4875
 name: Blegos
 nearby:
 - /hikes/malenskivrh
+- /hikes/crnivrhcerkno
 - /hikes/slajka
 - /hikes/ermanovec
 - /hikes/javorc
-- /hikes/mrzlivrh_ziri
 peak: 46.164802,14.113583
 region: gorenjska
 title: Blegoš
