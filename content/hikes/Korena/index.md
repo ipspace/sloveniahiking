@@ -11,9 +11,9 @@ name: Korena
 nearby:
 - /hikes/korena_samotorica
 - /hikes/kozljek
+- /hikes/polhograjskagora
 - /hikes/polhograjskagrmada
 - /hikes/tosc
-- /hikes/spica
 peak: 46.035238,14.295931
 region: notranjska
 title: Korena nad Horjulom

@@ -10,9 +10,9 @@ name: Strelovec
 nearby:
 - /hikes/klemencajama
 - /hikes/kamniskosedlo
+- /hikes/konj
 - /hikes/velikaplanina
 - /hikes/kranjskareber
-- /hikes/svprimoz_kamnik
 peak: 46.394324,14.658004
 photo_author: Mojca_Lustrek
 region: kamnik-alps

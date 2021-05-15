@@ -5,20 +5,21 @@ delta: 1200
 description: Čeprav je Konj tako v starem kot v novem vodniku po Kamniško-Savinjskih
   Alpah omenjen le kot vmesna postaja na poti h Kocbekovemu domu na Korošici, je tudi
   sam zase prav lep cilj.
-dirty: true
 duration: 6
 height: 1803
-image:
-- M_0_2070.JPG
-- M_7-6740_IMG.JPG
-- M_7-6744_IMG.JPG
-- M_7-6762_IMG.JPG
-- Razgled_Konj.jpg
 lead: M_0_2070.JPG
+maplink: https://mapzs.projekti.si/poi/715
 name: Konj
+nearby:
+- /hikes/velikaplanina
+- /hikes/kamniskosedlo
+- /hikes/klemencajama
+- /hikes/okreselj
+- /hikes/kamniskivrh
+peak: 46.330926,14.637599
+region: kamnik-alps
+start: 46.306306,14.608671
 title: Konj iz doline
-x: 472
-y: 132
 ---
 {{<figure src="M_0_2070.JPG" caption="Konj in Rzenik s Staničevega vrha">}}
 
@@ -60,6 +61,8 @@ y: 132
 
 **Knjige in vodniki**
 :   Peter Ficko, Kamniške in Savinjske Alpe, PZS 1993 (omemba 174)
+
+{{<hike-details-extra>}}
 
 Po Dolskem grabnu do planine Dol
 --------------------------------

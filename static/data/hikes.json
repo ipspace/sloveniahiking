@@ -248,9 +248,9 @@
     "nearby": [
       "/hikes/okreselj",
       "/hikes/klemencajama",
+      "/hikes/konj",
       "/hikes/grintovec",
-      "/hikes/kalskigreben",
-      "/hikes/vrhkorena"
+      "/hikes/kalskigreben"
     ],
     "peak": "46.359083,14.597487",
     "region": "kamnik-alps",
@@ -339,6 +339,8 @@
     "maplink": "https://mapzs.projekti.si/poi/118",
     "name": "Raduha",
     "nearby": [
+      "/hikes/velikirogac",
+      "/hikes/peca",
       "/hikes/kranjskareber"
     ],
     "peak": "46.409848,14.737603",
@@ -391,6 +393,7 @@
     "maplink": "https://mapzs.projekti.si/poi/1305",
     "name": "Creta",
     "nearby": [
+      "/hikes/svjost",
       "/hikes/krvavica"
     ],
     "peak": "46.279198,14.960822",
@@ -447,9 +450,9 @@
     "nearby": [
       "/hikes/korena",
       "/hikes/korena_samotorica",
+      "/hikes/polhograjskagora",
       "/hikes/sivka",
-      "/hikes/spica",
-      "/biking/vrhnikazaplana"
+      "/hikes/spica"
     ],
     "peak": "46.034295,14.254920",
     "region": "notranjska",
@@ -731,8 +734,8 @@
       "/hikes/svozbolt",
       "/hikes/tosc",
       "/hikes/polhograjskagrmada",
-      "/hikes/korena",
-      "/hikes/korena_samotorica"
+      "/hikes/polhograjskagora",
+      "/hikes/korena"
     ],
     "peak": "46.135750,14.301741",
     "region": "gorenjska",
@@ -1075,11 +1078,11 @@
     "multipath": true,
     "name": "PolhograjskaGrmada/Gonte",
     "nearby": [
+      "/hikes/polhograjskagora",
       "/hikes/polhograjskagrmada",
       "/hikes/tosc",
       "/hikes/korena",
-      "/hikes/korena_samotorica",
-      "/hikes/svozbolt"
+      "/hikes/korena_samotorica"
     ],
     "peak": "46.083811,14.332903",
     "start": "46.075996,14.313156",
@@ -1107,9 +1110,9 @@
     "nearby": [
       "/hikes/polhograjskagrmada",
       "/hikes/tosc",
+      "/hikes/polhograjskagora",
       "/hikes/korena",
-      "/hikes/korena_samotorica",
-      "/hikes/svozbolt"
+      "/hikes/korena_samotorica"
     ],
     "peak": "46.083811,14.332903",
     "start": "46.068726,14.352170",
@@ -1135,11 +1138,11 @@
     "multipath": true,
     "name": "PolhograjskaGrmada/Ravnek",
     "nearby": [
+      "/hikes/polhograjskagora",
       "/hikes/polhograjskagrmada",
       "/hikes/tosc",
       "/hikes/korena",
-      "/hikes/korena_samotorica",
-      "/hikes/kozljek"
+      "/hikes/korena_samotorica"
     ],
     "peak": "46.083811,14.332903",
     "start": "46.065069,14.316842",
@@ -1160,10 +1163,10 @@
     "name": "PolhograjskaGrmada",
     "nearby": [
       "/hikes/tosc",
+      "/hikes/polhograjskagora",
       "/hikes/svozbolt",
       "/hikes/korena",
-      "/hikes/korena_samotorica",
-      "/hikes/svandrej_zminec"
+      "/hikes/korena_samotorica"
     ],
     "peak": "46.083811,14.332903",
     "region": "notranjska",
@@ -1455,8 +1458,8 @@
       "/hikes/kranjskareber",
       "/hikes/velikaplanina",
       "/hikes/svprimoz_kamnik",
-      "/hikes/klemencajama",
-      "/hikes/strelovec"
+      "/hikes/velikirogac",
+      "/hikes/konj"
     ],
     "peak": "46.298105,14.643921",
     "region": "kamnik-alps",
@@ -1497,10 +1500,10 @@
     "name": "VelikaPlanina",
     "nearby": [
       "/hikes/svprimoz_kamnik",
+      "/hikes/konj",
       "/hikes/kamniskivrh",
       "/hikes/kranjskareber",
-      "/hikes/kamniskosedlo",
-      "/hikes/klemencajama"
+      "/hikes/kamniskosedlo"
     ],
     "peak": "46.298105,14.643921",
     "region": "kamnik-alps",
@@ -1989,6 +1992,7 @@
     "maplink": "https://mapzs.projekti.si/poi/940",
     "name": "KranjskaReber",
     "nearby": [
+      "/hikes/velikirogac",
       "/hikes/velikaplanina",
       "/hikes/strelovec",
       "/hikes/raduha"
@@ -2774,9 +2778,9 @@
     "nearby": [
       "/hikes/velikaplanina",
       "/hikes/kamniskivrh",
+      "/hikes/konj",
       "/hikes/kamniskosedlo",
-      "/hikes/okreselj",
-      "/hikes/klemencajama"
+      "/hikes/okreselj"
     ],
     "peak": "46.268999,14.633848",
     "region": "kamnik-alps",
@@ -2868,7 +2872,7 @@
       "/hikes/klemencajama",
       "/hikes/grintovec",
       "/hikes/kalskigreben",
-      "/hikes/vrhkorena"
+      "/hikes/konj"
     ],
     "peak": "46.369294,14.586485",
     "region": "kamnik-alps",
@@ -3160,9 +3164,9 @@
     "nearby": [
       "/hikes/korena_samotorica",
       "/hikes/kozljek",
+      "/hikes/polhograjskagora",
       "/hikes/polhograjskagrmada",
-      "/hikes/tosc",
-      "/hikes/spica"
+      "/hikes/tosc"
     ],
     "peak": "46.035238,14.295931",
     "region": "notranjska",
@@ -3354,9 +3358,9 @@
     "nearby": [
       "/hikes/klemencajama",
       "/hikes/kamniskosedlo",
+      "/hikes/konj",
       "/hikes/velikaplanina",
-      "/hikes/kranjskareber",
-      "/hikes/svprimoz_kamnik"
+      "/hikes/kranjskareber"
     ],
     "peak": "46.394324,14.658004",
     "photo_author": "Mojca_Lustrek",
@@ -3627,9 +3631,9 @@
     "nearby": [
       "/hikes/polhograjskagrmada",
       "/hikes/svozbolt",
+      "/hikes/polhograjskagora",
       "/hikes/svandrej_zminec",
-      "/hikes/korena",
-      "/hikes/korena_samotorica"
+      "/hikes/korena"
     ],
     "peak": "46.097448,14.321274",
     "region": "notranjska",
@@ -4021,8 +4025,8 @@
       "/hikes/svandrej_zminec",
       "/hikes/tosc",
       "/hikes/polhograjskagrmada",
-      "/hikes/korena",
-      "/hikes/korena_samotorica"
+      "/hikes/polhograjskagora",
+      "/hikes/korena"
     ],
     "peak": "46.115648,14.286202",
     "region": "gorenjska",
@@ -4094,7 +4098,9 @@
     "lead": "M_01103.jpg",
     "maplink": "https://mapzs.projekti.si/poi/948",
     "name": "GoliVrh_Savnice",
-    "nearby": [],
+    "nearby": [
+      "/hikes/svjost"
+    ],
     "peak": "46.248208,14.859629",
     "photo_author": "Mojca_Lustrek",
     "region": "kamnik-alps",
@@ -4259,9 +4265,9 @@
     "nearby": [
       "/hikes/korena",
       "/hikes/kozljek",
+      "/hikes/polhograjskagora",
       "/hikes/polhograjskagrmada",
-      "/hikes/tosc",
-      "/hikes/spica"
+      "/hikes/tosc"
     ],
     "peak": "46.035238,14.295931",
     "region": "notranjska",
@@ -5054,8 +5060,8 @@
       "/hikes/strelovec",
       "/hikes/kamniskosedlo",
       "/hikes/okreselj",
-      "/hikes/velikaplanina",
-      "/hikes/kamniskivrh"
+      "/hikes/konj",
+      "/hikes/velikaplanina"
     ],
     "peak": "46.377613,14.633806",
     "photo_author": "Mojca_Lustrek",
@@ -5167,18 +5173,22 @@
       "sl": "Veliki Rogatec je najvi\u0161ji vrh v grebenu med dolino Drete in Podvolovjekom.",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 1577,
     "lead": "M_4_0409.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/839",
     "name": "VelikiRogac",
+    "nearby": [
+      "/hikes/kranjskareber",
+      "/hikes/raduha"
+    ],
+    "peak": "46.319868,14.741078",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Veliki Rogatec",
       "en": "Veliki Rogatec from Gornji Grad"
-    },
-    "x": 480,
-    "y": 131
+    }
   },
   {
     "date": "2021-03-03 15:00:00+00:00",
@@ -5275,17 +5285,25 @@
       "sl": "\u010ceprav je Konj tako v starem kot v novem vodniku po Kamni\u0161ko-Savinjskih Alpah omenjen le kot vmesna postaja na poti h Kocbekovemu domu na Koro\u0161ici, je tudi sam zase prav lep cilj.",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 1803,
     "lead": "M_0_2070.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/715",
     "name": "Konj",
+    "nearby": [
+      "/hikes/velikaplanina",
+      "/hikes/kamniskosedlo",
+      "/hikes/klemencajama",
+      "/hikes/okreselj",
+      "/hikes/kamniskivrh"
+    ],
+    "peak": "46.330926,14.637599",
+    "region": "kamnik-alps",
+    "start": "46.306306,14.608671",
     "title": {
       "sl": "Konj iz doline",
       "en": "Konj"
-    },
-    "x": 472,
-    "y": 132
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -5334,7 +5352,14 @@
     },
     "height": 935,
     "lead": "M_6_2617.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1326",
     "name": "svJost",
+    "nearby": [
+      "/hikes/golivrh_savnice",
+      "/hikes/creta"
+    ],
+    "peak": "46.260617,14.910768",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Sveti Jo\u0161t nad Vranskim",
       "en": "Saint Jost near Vransko"
@@ -5418,13 +5443,22 @@
     "height": 824,
     "lead": "M_8-6900_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/5445",
     "name": "PolhograjskaGora",
+    "nearby": [
+      "/hikes/polhograjskagrmada",
+      "/hikes/tosc",
+      "/hikes/korena",
+      "/hikes/korena_samotorica",
+      "/hikes/svozbolt"
+    ],
+    "peak": "46.070824,14.298751",
+    "region": "notranjska",
+    "start": "46.068057,14.313456",
     "title": {
       "sl": "Polhograjska Gora",
       "en": "Polhograjska Gora"
-    },
-    "x": 446,
-    "y": 103
+    }
   },
   {
     "date": "2002-10-06 00:00:00+00:00",
@@ -5436,7 +5470,7 @@
     "duration": 3,
     "height": 1213,
     "lead": "M_3-3357_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/path/31642",
+    "maplink": "https://mapzs.projekti.si/poi/5161",
     "name": "svDuh_Podkraj",
     "nearby": [
       "/hikes/suhivrh",
@@ -5445,7 +5479,8 @@
       "/hikes/vrsnik_ziri"
     ],
     "peak": "45.871767,14.062456",
-    "start": "45.863916,14.062982",
+    "region": "primorska",
+    "start": "45.863937,14.062856",
     "title": {
       "sl": "Sv. Duh in Kri\u017ena gora nad Podkrajem",
       "en": "Kri\u017ena gora above Podkraj"
@@ -5461,18 +5496,21 @@
       "sl": "Peca je druga najvi\u0161ja gora severnih Karavank, le 14 m ni\u017eja od najvi\u0161jega Obirja; zaradi njene mogo\u010dnosti ni \u010dudno, da ravno v njej spi kralj Matja\u017e.",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 2125,
     "lead": "M_50608015.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/4387",
     "name": "Peca",
+    "nearby": [
+      "/hikes/raduha"
+    ],
+    "peak": "46.500335,14.780003",
     "photo_author": "Mojca_Lustrek",
+    "region": "karavanke",
     "title": {
       "sl": "Peca",
       "en": "Peca"
-    },
-    "x": 483,
-    "y": 150
+    }
   },
   {
     "title": {

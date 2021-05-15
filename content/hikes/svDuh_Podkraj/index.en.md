@@ -13,6 +13,7 @@ nearby:
 - /hikes/hleviskeplanine
 - /hikes/vrsnik_ziri
 peak: 45.871767,14.062456
+region: primorska
 start: 45.863916,14.062982
 title: Križna gora above Podkraj
 x: 427

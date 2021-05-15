@@ -7,7 +7,7 @@ description: Pot v Vipavsko dolino po stari rimski cesti mimo Stare pošte na Hr
 duration: 3
 height: 1213
 lead: M_3-3357_IMG.JPG
-maplink: https://mapzs.projekti.si/path/31642
+maplink: https://mapzs.projekti.si/poi/5161
 name: svDuh_Podkraj
 nearby:
 - /hikes/suhivrh
@@ -15,7 +15,8 @@ nearby:
 - /hikes/hleviskeplanine
 - /hikes/vrsnik_ziri
 peak: 45.871767,14.062456
-start: 45.863916,14.062982
+region: primorska
+start: 45.863937,14.062856
 title: Sv. Duh in Križna gora nad Podkrajem
 x: 427
 y: 82

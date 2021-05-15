@@ -10,10 +10,10 @@ maplink: https://mapzs.projekti.si/poi/196
 name: PolhograjskaGrmada
 nearby:
 - /hikes/tosc
+- /hikes/polhograjskagora
 - /hikes/svozbolt
 - /hikes/korena
 - /hikes/korena_samotorica
-- /hikes/svandrej_zminec
 peak: 46.083811,14.332903
 region: notranjska
 title: Polhograjska Grmada

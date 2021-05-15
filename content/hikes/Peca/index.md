@@ -1,34 +1,20 @@
 ---
 author: Mojca_Lustrek
-date: '2005-06-12T00:00:00'
+date: 2005-06-12 00:00:00+00:00
 delta: 1200
 description: Peca je druga najvišja gora severnih Karavank, le 14 m nižja od najvišjega
   Obirja; zaradi njene mogočnosti ni čudno, da ravno v njej spi kralj Matjaž.
-dirty: true
 duration: 6
 height: 2125
-image:
-- M_50608015.jpg
-- M_50608001.jpg
-- M_50608002.jpg
-- M_50608003.jpg
-- M_50608008.jpg
-- M_50608005.jpg
-- M_50608006.jpg
-- M_50608007.jpg
-- M_50608009.jpg
-- M_50608010.jpg
-- M_50608011.jpg
-- M_50608012.jpg
-- M_50608013.jpg
-- M_50608014.jpg
-- M_50608016.jpg
 lead: M_50608015.jpg
+maplink: https://mapzs.projekti.si/poi/4387
 name: Peca
+nearby:
+- /hikes/raduha
+peak: 46.500335,14.780003
 photo_author: Mojca_Lustrek
+region: karavanke
 title: Peca
-x: 483
-y: 150
 ---
 {{<figure src="M_50608015.jpg">}} Peca je druga najvišja gora severnih Karavank, le 14 m nižja od najvišjega Obirja (njegov najvišji vrh Ojstrc/Hochobir meri 2139 m). Zaradi njene mogočnosti ni čudno, da ravno v njej spi kralj Matjaž. Na severu in jugu je zelo strma, na zahodu in vzhodu pa precej manj. Najvišji vrh je Kordeževa glava (2125 m), drugi Bistriška špica/Feistritzer Spitze (2114 m), med njima pa tretji Končníkov vrh (tudi Suhi vrh, Knips/Knieps, 2109 m). Državna meja med Končnikovim vrhom in Kordeževo glavo prisoja večino gore Avstriji. Nad Črno in Mežico je vsa prevrtana zaradi rudarjenja. S svincem in cinkom jo je bogato obdaril vulkan, bližnji Smrekovec. Obiskovalcev ji ne manjka; nanjo vodi veliko poti in na njej je precej koč. Vzpon lahko začnemo v Mežici, Črni na Koroškem ali Topli. Mi smo izbrali zadnjo.
 
@@ -78,9 +64,11 @@ Vzpon iz doline Tople
 
 {{<figure src="M_50608001.jpg" caption="Florin">}}
 
-Parkiramo v dolini Tople blizu Črne na Koroškem nasproti odcepa h kmetiji Florin (Topla 4, 930 m). Do nje je po asfaltu (že tu so markacije) dobrih 5 minut. Pri domačiji se dobi tudi žig. Za njo je konec asfalta in pot nadaljujemo po markiranem kolovozu. Ta čez 5 minut zavije desno navzgor na manjšo izravnavo in se razširi v gozdno cesto. Z nje zavijemo levo v breg na ozko stezo, ki seka cestne ovinke. Takih bližnjic je še več. Že od izhodišča nas razveseljuje množica raznovrstnega spomladanskega cvetja. Menjajo se skalnata, peščena in prstena podlaga; prstene dele prepredajo korenine ter pokrivajo iglice in listje, zato je v mokrem spolzko. Strma pot se le tu in tam malo unese, najožji deli pa so ob robu ponekod nekoliko utrjeni. Čez 20 minut spet dosežemo cesto in se znajdemo pred leso. Gozd se razredči. Stopimo na planino Javorje (1340 m).
+Parkiramo v dolini Tople blizu Črne na Koroškem nasproti odcepa h kmetiji Florin (Topla 4, 930 m). Do nje je po asfaltu (že tu so markacije) dobrih 5 minut. Pri domačiji se dobi tudi žig. Za njo je konec asfalta in pot nadaljujemo po markiranem kolovozu. Ta čez 5 minut zavije desno navzgor na manjšo izravnavo in se razširi v gozdno cesto. Z nje zavijemo levo v breg na ozko stezo, ki seka cestne ovinke. Takih bližnjic je še več. Že od izhodišča nas razveseljuje množica raznovrstnega spomladanskega cvetja. Menjajo se skalnata, peščena in prstena podlaga; prstene dele prepredajo korenine ter pokrivajo iglice in listje, zato je v mokrem spolzko. 
 
 {{<figure src="M_50608002.jpg">}}
+
+Strma pot se le tu in tam malo unese, najožji deli pa so ob robu ponekod nekoliko utrjeni. Čez 20 minut spet dosežemo cesto in se znajdemo pred leso. Gozd se razredči. Stopimo na planino Javorje (1340 m).
 
 {{<figure src="M_50608003.jpg" caption="Javorje">}}
 
@@ -90,7 +78,9 @@ Prehodimo še dva dela planine (vmes spet prečkamo novo gozdno cesto). Po travi
 
 Čez 10 minut se na napol podrti hiški (Burjakovi bajti) zablešči velika nova markacija in kažipot *Dom na Peci* nam potrdi, da smo še na pravi poti. Nad hiško se spet znajdemo na gozdni cesti. Desno v breg se nadaljuje strma pot, mehka od iglic, kjer seveda ni skal in korenin. Vsepovsod je polno kupčkov lusk, ki so ostale od storžev po pojedinah (najbrž) veveric, največkrat na ploščatih kamnih in skalah.
 
-{{<figure src="M_50608008.jpg">}} Po dobrih 20 minutah zagledamo majhno brunarico (oskrbnik doma pojasni, da je lovska koča), pod katero se voda po cevi steka v korito. Na drevesu pod kočo so kažipoti *TV* (levo; tu se torej zares priključimo transverzali) ter *Jama v Topli* in *Črna* (navzdol). Na smreki za kočo je velika markacija in dobrih 5 minut zatem nas tablica obvesti, da je v desno 10 minut do Votline kralja Matjaža, mi pa da smo prišli po Poti kurirjev in vezistov (rumeno-modra markacija) iz doline Tople oziroma Črne. Nekoliko više izvemo, da je v desno 10 minut do Male Pece, do vrha Pece pa poldrugo uro. Spustimo se nekaj deset metrov do skalnega roba. Če hočemo najprej k Matjažu, moramo zaviti desno (markacija ni takoj vidna), sicer se v dobrih 5 minutah znajdemo pred Domom na Peci (markacijo v levo namreč opazimo prej).
+{{<figure src="M_50608008.jpg">}}
+
+Po dobrih 20 minutah zagledamo majhno brunarico (oskrbnik doma pojasni, da je lovska koča), pod katero se voda po cevi steka v korito. Na drevesu pod kočo so kažipoti *TV* (levo; tu se torej zares priključimo transverzali) ter *Jama v Topli* in *Črna* (navzdol). Na smreki za kočo je velika markacija in dobrih 5 minut zatem nas tablica obvesti, da je v desno 10 minut do Votline kralja Matjaža, mi pa da smo prišli po Poti kurirjev in vezistov (rumeno-modra markacija) iz doline Tople oziroma Črne. Nekoliko više izvemo, da je v desno 10 minut do Male Pece, do vrha Pece pa poldrugo uro. Spustimo se nekaj deset metrov do skalnega roba. Če hočemo najprej k Matjažu, moramo zaviti desno (markacija ni takoj vidna), sicer se v dobrih 5 minutah znajdemo pred Domom na Peci (markacijo v levo namreč opazimo prej).
 
 Mala Peca
 ---------
@@ -108,16 +98,25 @@ Nasproti mu stoji kapelica sv. Cirila in Metoda iz leta 1936, leta 1999 pa je do
 Kordeževa glava
 ---------------
 
+Od Doma na Peci se je seveda treba povzpeti še prav na vrh, na Kordeževo glavo. Po jugovzhodnem pobočju je lahko dostopna, južna stran pa je skalnata in prepadna. V 200--300 m visoki steni je več težkih plezalnih smeri. Po 5 minutah dosežemo nekakšno sedlo med Malo Peco in Kordeževo glavo, kjer lahko uživamo v lepem razgledu in prelep pogled na naš cilj nas prav vabi na vrh.
+
 {{<figure src="M_50608009.jpg" caption="Kordeževa glava">}}
 
-Od Doma na Peci se je seveda treba povzpeti še prav na vrh, na Kordeževo glavo. Po jugovzhodnem pobočju je lahko dostopna, južna stran pa je skalnata in prepadna. V 200--300 m visoki steni je več težkih plezalnih smeri. Po 5 minutah dosežemo nekakšno sedlo med Malo Peco in Kordeževo glavo, kjer lahko uživamo v lepem razgledu in prelep pogled na naš cilj nas prav vabi na vrh. Še 5 minut in treba se je odločiti (na višini 1725 m): levo vodi zelo zahtevna zavarovana pot (»plezalna«, samo za izurjene in v snegu sploh ni priporočljiva), desno oziroma naravnost pa »samo« zahtevna (v resnici ni posebno zahtevna, nikakor pa ni zložna, kakor piše v vodniku *Karavanke*; za zahtevno bi jo pravzaprav lahko označili le zaradi strmine). Na začetku je široka, kamnita in precej strma. Vodijo nas belo-rdeče-zelene markacije. V 10 minutah stopimo iz gozda in poslej nas spremlja le ruševje, ki je ponekod ob poti tudi posekano. Desno v dolini lepo vidimo Mežico, levo pa že Avstrijo.
+Še 5 minut in treba se je odločiti (na višini 1725 m): levo vodi zelo zahtevna zavarovana pot (»plezalna«, samo za izurjene in v snegu sploh ni priporočljiva), desno oziroma naravnost pa »samo« zahtevna (v resnici ni posebno zahtevna, nikakor pa ni zložna, kakor piše v vodniku *Karavanke*; za zahtevno bi jo pravzaprav lahko označili le zaradi strmine). Na začetku je široka, kamnita in precej strma. Vodijo nas belo-rdeče-zelene markacije. V 10 minutah stopimo iz gozda in poslej nas spremlja le ruševje, ki je ponekod ob poti tudi posekano. Desno v dolini lepo vidimo Mežico, levo pa že Avstrijo.
 
-Čez približno pol ure strmina nekoliko popusti, ruševje se zredči in zniža, na uravnavi pa se pokaže iz skal sestavljen dober meter visok napis *POLZELA*. Ko je nastajal, je bilo najbrž veselo, saj lepa pot, širni razgledi in svež zrak človeka res spravijo v dobro voljo in če pusti za seboj tak spomin na prijetne trenutke, ni nič narobe, da le niso plastenke in ogorki. Na naslednji uravnavi na 2042 m čez kakih 10 minut stoji prvi mejni kamen (pozneje je mejnikov še več, da smo na tekočem, po kateri državi pohajamo). Tu se nam z leve priključi zelo zahtevna pot. Do cilja je še 20 minut. Čez slikovit rob kar upoštevanja vrednega prepada je lep pogled v dolino. Zadnje minute med hojo po grebenu že vidimo vrh. Tam je vpisna skrinjica, ozaljšana s planiko in cepinom. Družbo ji delata kažipota v desno *Mejni prehod Knepsovo* *sedlo* (po knjigi *Karavanke* in po zemljevidu *Knipsovo*) in v levo, od koder smo prišli, *Dom na Peci 45 min.*
+Čez približno pol ure strmina nekoliko popusti, ruševje se zredči in zniža, na uravnavi pa se pokaže iz skal sestavljen dober meter visok napis *POLZELA*. Ko je nastajal, je bilo najbrž veselo, saj lepa pot, širni razgledi in svež zrak človeka res spravijo v dobro voljo in če pusti za seboj tak spomin na prijetne trenutke, ni nič narobe, da le niso plastenke in ogorki. Na naslednji uravnavi na 2042 m čez kakih 10 minut stoji prvi mejni kamen (pozneje je mejnikov še več, da smo na tekočem, po kateri državi pohajamo). Tu se nam z leve priključi zelo zahtevna pot.
 
-{{<figure src="M_50608010.jpg">}}\
-Pogled v dolino {{<figure src="M_50608011.jpg" caption="Tik pod vrhom">}} {{<figure src="M_50608012.jpg">}} {{<figure src="M_50608013.jpg" caption="">}} {{<figure src="M_50608014.jpg" caption="">}}
+{{<figure src="M_50608010.jpg" caption="Pogled v dolino">}}
+
+Do cilja je še 20 minut. Čez slikovit rob kar upoštevanja vrednega prepada je lep pogled v dolino. Zadnje minute med hojo po grebenu že vidimo vrh. Tam je vpisna skrinjica, ozaljšana s planiko in cepinom. Družbo ji delata kažipota v desno *Mejni prehod Knepsovo* *sedlo* (po knjigi *Karavanke* in po zemljevidu *Knipsovo*) in v levo, od koder smo prišli, *Dom na Peci 45 min.*
+
+{{<figure src="M_50608011.jpg" caption="Tik pod vrhom">}} 
 
 Če niste med tistimi, ki na vrhu pogledajo na uro in odbrzijo nazaj v dolino, se lahko poglobite v zanimivosti nravi rumenokljunih gorskih kavk, ki lahkotno jadrajo nad prepadi, na tleh pa so tako prikupno nerodne in vedno v smešnih dvomih zaradi neznanske privlačnosti vsebine vašega nahrbtnika in domnevne nevarnosti njegovega lastnika. In če imate srečo (res, srečo!), da prav tedaj zaprši droben dežek, se lahko predaste domišljiji, ki vam jo prebudi prelepa mavrica, ko vas za nekaj minut poveže z modrino neba in zelenjem doline.
+
+{{<gallery>}}
+{{<figure src="M_50608012.jpg">}} {{<figure src="M_50608013.jpg" caption="">}} {{<figure src="M_50608014.jpg" caption="">}}
+{{</gallery>}}
 
 Vrnitev
 -------

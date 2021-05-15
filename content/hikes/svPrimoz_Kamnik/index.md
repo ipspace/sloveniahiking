@@ -10,9 +10,9 @@ name: svPrimoz_Kamnik
 nearby:
 - /hikes/velikaplanina
 - /hikes/kamniskivrh
+- /hikes/konj
 - /hikes/kamniskosedlo
 - /hikes/okreselj
-- /hikes/klemencajama
 peak: 46.268999,14.633848
 region: kamnik-alps
 start: 46.267103,14.603767

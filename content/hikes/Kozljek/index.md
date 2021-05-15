@@ -26,9 +26,9 @@ name: Kozljek
 nearby:
 - /hikes/korena
 - /hikes/korena_samotorica
+- /hikes/polhograjskagora
 - /hikes/sivka
 - /hikes/spica
-- /biking/vrhnikazaplana
 peak: 46.034295,14.254920
 region: notranjska
 title: Iz Vrzdenca na Samotorico in Kožljek

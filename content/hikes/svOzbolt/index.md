@@ -14,8 +14,8 @@ nearby:
 - /hikes/svandrej_zminec
 - /hikes/tosc
 - /hikes/polhograjskagrmada
+- /hikes/polhograjskagora
 - /hikes/korena
-- /hikes/korena_samotorica
 peak: 46.115648,14.286202
 region: gorenjska
 title: Sveti Ožbolt nad Zmincem

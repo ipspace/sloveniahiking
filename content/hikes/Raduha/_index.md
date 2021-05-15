@@ -10,6 +10,8 @@ lead: M_1-7159_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/118
 name: Raduha
 nearby:
+- /hikes/velikirogac
+- /hikes/peca
 - /hikes/kranjskareber
 peak: 46.409848,14.737603
 region: kamnik-alps

@@ -14,7 +14,7 @@ nearby:
 - /hikes/klemencajama
 - /hikes/grintovec
 - /hikes/kalskigreben
-- /hikes/vrhkorena
+- /hikes/konj
 peak: 46.369294,14.586485
 region: kamnik-alps
 title: Okrešelj From Logarska Valley

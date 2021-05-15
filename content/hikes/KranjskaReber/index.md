@@ -10,6 +10,7 @@ lead: M_0006.jpg
 maplink: https://mapzs.projekti.si/poi/940
 name: KranjskaReber
 nearby:
+- /hikes/velikirogac
 - /hikes/velikaplanina
 - /hikes/strelovec
 - /hikes/raduha

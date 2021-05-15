@@ -14,9 +14,9 @@ name: Korena_Samotorica
 nearby:
 - /hikes/korena
 - /hikes/kozljek
+- /hikes/polhograjskagora
 - /hikes/polhograjskagrmada
 - /hikes/tosc
-- /hikes/spica
 peak: 46.035238,14.295931
 region: notranjska
 start: 46.029142,14.257784

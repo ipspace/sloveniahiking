@@ -14,8 +14,8 @@ nearby:
 - /hikes/svozbolt
 - /hikes/tosc
 - /hikes/polhograjskagrmada
+- /hikes/polhograjskagora
 - /hikes/korena
-- /hikes/korena_samotorica
 peak: 46.135750,14.301741
 region: gorenjska
 title: Andrej nad Zmincem

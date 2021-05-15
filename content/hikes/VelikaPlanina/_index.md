@@ -8,10 +8,10 @@ maplink: https://mapzs.projekti.si/poi/836
 name: VelikaPlanina
 nearby:
 - /hikes/svprimoz_kamnik
+- /hikes/konj
 - /hikes/kamniskivrh
 - /hikes/kranjskareber
 - /hikes/kamniskosedlo
-- /hikes/klemencajama
 peak: 46.298105,14.643921
 region: kamnik-alps
 title: Velika planina

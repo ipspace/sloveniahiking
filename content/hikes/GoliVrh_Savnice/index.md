@@ -10,7 +10,8 @@ height: 1426
 lead: M_01103.jpg
 maplink: https://mapzs.projekti.si/poi/948
 name: GoliVrh_Savnice
-nearby: []
+nearby:
+- /hikes/svjost
 peak: 46.248208,14.859629
 photo_author: Mojca_Lustrek
 region: kamnik-alps
