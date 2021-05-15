@@ -16,9 +16,9 @@ name: svLovrenc
 nearby:
 - /hikes/svlovrenc
 - /hikes/oblenk
+- /hikes/hrusica
 - /biking/zibrse
 - /biking/zaplanatavzentroza
-- /biking/zaplanarovte
 peak: 45.839190,14.168374
 region: notranjska
 start: 45.835079,14.154237

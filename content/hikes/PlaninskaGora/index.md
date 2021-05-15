@@ -20,6 +20,7 @@ nearby:
 - /biking/vrhnikazaplana
 peak: 45.837401,14.233887
 start: 45.836412,14.255054
+region: notranjska
 timing:
 - Vzpon: 45 minut to cerkve, 1 ura do vrha
 - Spust: 30 - 45 minut

@@ -12,6 +12,7 @@ name: Nanos
 nearby:
 - /hikes/suhivrh
 - /hikes/vremscica
+- /hikes/hrusica
 - /hikes/svduh_podkraj
 peak: 45.769507,14.056388
 region: vipava

@@ -1,9 +1,20 @@
 ---
 date: 1900-01-01 00:00:00+00:00
-description: |
-  V gozdovih med Logatcem in Colom boste našli ostanke rimske utrdbe, in gostilno, o kateri piše že Valvazor.
+description: 'V gozdovih med Logatcem in Colom boste našli ostanke rimske utrdbe,
+  in gostilno, o kateri piše že Valvazor.
+
+  '
 height: 873
 lead: M_20020916_095733.jpg
+name: Hrusica
+nearby:
+- /hikes/svduh_podkraj
+- /hikes/svlovrenc
+- /hikes/suhivrh
+- /biking/zibrse
+- /hikes/nanos
+peak: 45.863474,14.111302
+region: primorska
 title: Stara pošta na Hrušici
 ---
 {{<hike-details>}}

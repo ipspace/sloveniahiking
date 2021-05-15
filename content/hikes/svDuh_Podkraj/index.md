@@ -10,6 +10,7 @@ lead: M_3-3357_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/5161
 name: svDuh_Podkraj
 nearby:
+- /hikes/hrusica
 - /hikes/suhivrh
 - /hikes/nanos
 - /hikes/hleviskeplanine

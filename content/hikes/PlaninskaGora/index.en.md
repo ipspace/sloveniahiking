@@ -20,6 +20,7 @@ nearby:
 - /biking/zibrse
 - /biking/vrhnikazaplana
 peak: 45.837401,14.233887
+region: notranjska
 start: 45.836412,14.255054
 timing:
 - Ascent

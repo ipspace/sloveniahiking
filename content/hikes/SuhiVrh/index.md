@@ -12,6 +12,7 @@ maplink: https://mapzs.projekti.si/poi/1022
 name: SuhiVrh
 nearby:
 - /hikes/nanos
+- /hikes/hrusica
 - /hikes/svduh_podkraj
 - /hikes/vremscica
 peak: 45.798405,14.066979

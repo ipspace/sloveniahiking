@@ -23,8 +23,8 @@ nearby:
 - /biking/zaplanatavzentroza
 - /biking/zaplanarovte
 - /hikes/vs3k
+- /hikes/hrusica
 - /hikes/goropeke
-- /hikes/svlovrenc
 region: notranjska
 start: 45.958404,14.191024
 title: Žibrše
