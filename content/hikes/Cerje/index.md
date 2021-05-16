@@ -4,18 +4,8 @@ delta: 150
 description: Najzahodnejši slovenski vrh v grebenu Črnih hribov južno od Vipavske
   doline je Cerje, neugledna vzpetina, ki bi jo komaj opazili, če ne bi bili pred
   nekaj leti na njej postavili ogromnega »obrambnega stolpa«.
-dirty: true
 duration: 1.5
 height: 343
-image:
-- M_6_2632.JPG
-- M_6_2625.JPG
-- M_6_2618.JPG
-- M_6_2627.JPG
-- Razgled.jpg
-- M_6_2633.JPG
-- mapgps.jpg
-- path_1.gif
 lead: M_6_2633.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/5196
@@ -26,10 +16,10 @@ peak: 45.872442,13.615999
 region: karst
 start: 45.873359,13.593190
 title: Cerje
-x: 393
-y: 82
 ---
-{{<figure src="M_6_2632.JPG">}} Med vožnjo po Vipavski dolini ste zagotovo že opazili greben, ki se dviguje južno od doline in jo ločuje od Krasa. Najzahodnejši slovenski vrh v tem grebenu je Cerje, neugledna vzpetina, ki bi jo komaj opazili, če ne bi bili pred nekaj leti na njej postavili ogromnega »obrambnega stolpa«. Kljub navidezni neuglednosti je s Cerja čudovit razgled na Vipavsko dolino, Goriško, Čaven in Sveto goro, v ozadju pa v lepem vremenu opazite tudi Julijske Alpe.
+{{<figure src="M_6_2632.JPG">}}
+
+Med vožnjo po Vipavski dolini ste zagotovo že opazili greben, ki se dviguje južno od doline in jo ločuje od Krasa. Najzahodnejši slovenski vrh v tem grebenu je Cerje, neugledna vzpetina, ki bi jo komaj opazili, če ne bi bili pred nekaj leti na njej postavili ogromnega »obrambnega stolpa«. Kljub navidezni neuglednosti je s Cerja čudovit razgled na Vipavsko dolino, Goriško, Čaven in Sveto goro, v ozadju pa v lepem vremenu opazite tudi Julijske Alpe.
 
 Do Cerja so že vsaj od začetka prve svetovne vojne vodile makadamske ceste (na teh hribih so se bile nekatere najbolj krvavih bitk soške fronte), v zadnjem času pa so mimo njega speljali lepo označeno Pot miru po Krasu.
 
@@ -64,9 +54,15 @@ Do Cerja so že vsaj od začetka prve svetovne vojne vodile makadamske ceste (na
 Kratek opis poti
 ----------------
 
-{{<figure src="M_6_2625.JPG">}} {{<figure src="M_6_2618.JPG">}} Izlet na Cerje začnete na velikem parkirišču ob cesti, ki povezuje Miren s Kostanjevico. Avtocesto po Vipavski dolini zapustite tik pred mejo z Italijo, se mimo bencinske črpalke zmuznete do križišča, od tam pa sledite kažipotom proti Mirnu. Skozenj se odpeljete po glavni cesti (mimogrede si privoščite še obisk Mirenskega gradu). Za zadnjimi hišami se začne cesta vzpenjati in po nekaj serpentinah dosežete kraško planoto. Ko se cesta malce zravna, vas dobro viden kažipot usmeri levo na Pot miru po Krasu. Avto pustite na parkirišču nedaleč od ceste.
+Izlet na Cerje začnete na velikem parkirišču ob cesti, ki povezuje Miren s Kostanjevico. Avtocesto po Vipavski dolini zapustite tik pred mejo z Italijo, se mimo bencinske črpalke zmuznete do križišča, od tam pa sledite kažipotom proti Mirnu. Skozenj se odpeljete po glavni cesti (mimogrede si privoščite še obisk Mirenskega gradu). Za zadnjimi hišami se začne cesta vzpenjati in po nekaj serpentinah dosežete kraško planoto. Ko se cesta malce zravna, vas dobro viden kažipot usmeri levo na Pot miru po Krasu. Avto pustite na parkirišču nedaleč od ceste.
 
-{{<figure src="M_6_2627.JPG">}} Proti Cerju se odpravite po makadamski cesti skozi redek gozd, ki ga občasno prekinejo kraški travniki. Po kilometru hoje boste morda na levi na borovcu opazili napis »steza«; prihranite si ta posladek za vrnitev in raje počakajte do prvega kažipota, ki vas usmeri levo navzdol na kolovoz. Ta vas zlagoma pripelje v vrtačo, kjer izgine. Ne obupajte prehitro -- sledite kažipotu proti spomeniku, nato pa nad njim poiščite stezico, ki se v desno dviguje mimo ostankov topniških položajev na rob kraškega travnika. Od tam orientacijskih ugank ni več; dobro vidna stezica vas vodi ob obrambnih jarkih, ki jih preraščajo grmički ruja, do makadamske ceste. Tam zavijete levo, na naslednjem razcepu ob kažipotu spet levo in v nekaj minutah boste prišli do Cerja.
+{{<figure src="M_6_2618.JPG">}} 
+
+Proti Cerju se odpravite po makadamski cesti skozi redek gozd, ki ga občasno prekinejo kraški travniki. Po kilometru hoje boste morda na levi na borovcu opazili napis »steza«; prihranite si ta posladek za vrnitev in raje počakajte do prvega kažipota, ki vas usmeri levo navzdol na kolovoz. Ta vas zlagoma pripelje v vrtačo, kjer izgine. Ne obupajte prehitro -- sledite kažipotu proti spomeniku, nato pa nad njim poiščite stezico, ki se v desno dviguje mimo ostankov topniških položajev na rob kraškega travnika.
+
+{{<figure src="M_6_2625.JPG">}}
+
+Od tam orientacijskih ugank ni več; dobro vidna stezica vas vodi ob obrambnih jarkih, ki jih preraščajo grmički ruja, do makadamske ceste. Tam zavijete levo, na naslednjem razcepu ob kažipotu spet levo in v nekaj minutah boste prišli do Cerja.
 
 Tisti brez občutka za orientacijo lahko uberete tudi lažjo pot -- nadaljujete vzpon po makadamski cesti, na prvem križišču zavijete levo, nato pa vas kažipoti vodijo do cilja.
 
@@ -74,4 +70,6 @@ Po krajšem počitku in občudovanju razgleda proti severu (zagotovo boste prepo
 
 {{<figure src="Razgled.jpg" caption="Pogled na Gorico in Vipavsko dolino, desno v ozadju Čaven" caption-position="bottom">}}
 
-{{<figure src="M_6_2633.JPG">}} Steza se začne nekaj metrov pod spomenikom; nanjo vas opozori grdo nakracan napis »steza«. Tudi oznake so podobno kakovostne; srečali boste množico neokusno velikih puščic, ki pa vas zanesljivo vodijo po sicer dobro vidni stezici nazaj proti izhodišču. Ko se steza izteče na zapuščen kolovoz, zavijete levo in se v nekaj minutah znajdete na makadamski cesti, po kateri ste se vzpenjali. Od tod je do avtomobila še dobrih deset minut prijetnega spusta.
+Steza se začne nekaj metrov pod spomenikom; nanjo vas opozori grdo nakracan napis »steza«. Tudi oznake so podobno kakovostne; srečali boste množico neokusno velikih puščic, ki pa vas zanesljivo vodijo po sicer dobro vidni stezici nazaj proti izhodišču. Ko se steza izteče na zapuščen kolovoz, zavijete levo in se v nekaj minutah znajdete na makadamski cesti, po kateri ste se vzpenjali. Od tod je do avtomobila še dobrih deset minut prijetnega spusta.
+
+{{<figure src="M_6_2633.JPG">}}

@@ -3,22 +3,8 @@ date: 2003-08-10 00:00:00+00:00
 delta: 530
 description: Krstenica je ena od najlepših in zaradi svoje odprte lege najbolj razglednih
   bohinjskih planin.
-dirty: true
 duration: 3
 height: 1670
-image:
-- M_5-6554_IMG.JPG
-- M_5-6530_IMG.JPG
-- M_5-6532_IMG.JPG
-- M_5-6533_IMG.JPG
-- M_5-6535_IMG.JPG
-- M_5-6534_IMG.JPG
-- M_5-6551_IMG.JPG
-- Razgled_Krstenica_1.jpg
-- M_5-6553_IMG.JPG
-- M_5-6552_IMG.JPG
-- M_5-6554_IMG.JPG
-- Krstenica.jpg
 lead: M_5-6554_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/4709
 name: Krstenica
@@ -32,10 +18,10 @@ peak: 46.325865,13.851880
 region: julian-alps
 start: 46.310815,13.849374
 title: Krstenica
-x: 412
-y: 132
 ---
-{{<figure src="M_5-6554_IMG.JPG">}} Krstenica je ena od najlepših in zaradi svoje odprte lege najbolj razglednih bohinjskih planin, visoko na planoti zahodno od doline Voj. Ker leži daleč od romarskih poti na Triglav in Triglavska jezera, jo tudi sredi poletja obiščejo redki planinci, ki jim je bolj pomembno uživanje v naravnih lepotah kot pa osvajanje popularnih vrhov.
+{{<figure src="M_5-6554_IMG.JPG">}}
+
+Krstenica je ena od najlepših in zaradi svoje odprte lege najbolj razglednih bohinjskih planin, visoko na planoti zahodno od doline Voj. Ker leži daleč od romarskih poti na Triglav in Triglavska jezera, jo tudi sredi poletja obiščejo redki planinci, ki jim je bolj pomembno uživanje v naravnih lepotah kot pa osvajanje popularnih vrhov.
 
 Na Krstenico se najlažje vzpnemo s planine Blato, do katere se lahko pripeljemo z avtomobilom, bolj zahtevni planinci pa se bodo odločili za vzpon iz Voj ali celo iz Stare Fužine.
 
@@ -72,6 +58,8 @@ Na Krstenico se najlažje vzpnemo s planine Blato, do katere se lahko pripeljemo
     Tine Mihelič, Julijske Alpe -- Bohinjske gore (Sidarta)\
     Tone Cevc, Bohinj in njegove planine (Triglavski narodni park)
 
+{{<hike-details-extra>}}
+
 Planina Blato
 -------------
 
@@ -90,38 +78,45 @@ Večina planincev, ki jih boste opazili na parkirišču pred Blatom, se bo spust
 Vzpon do Krstenice
 ------------------
 
-{{<figure src="M_5-6532_IMG.JPG" caption="Vzpon po kolovozu">}}
-
 Pot na Krstenico se začne na križišču na začetku planine Blato, kjer zavijete desno in začnete z vzponom po strmem kolovozu. Že med vzponom po kolovozu boste sredi poletja uživali v čudovitih preobjedah, tu in tam pa boste opazili tudi pisane cvetove zebrata in nežne cvetove rušnate zvončice. A ne prepustite se v celoti občudovanju rož -- po približno dvajsetih minutah vzpona vas čaka edina orientacijska zanka današnjega izleta.
 
-{{<figure src="M_5-6533_IMG.JPG" caption="Strm vzpon po lovski poti">}}
+{{<figure src="M_5-6532_IMG.JPG" caption="Vzpon po kolovozu">}}
 
 Malo pred koncem vzpona (nekaj deset metrov *preden* se kolovoz zravna), se od njega rahlo v levo odcepi dobro uhojena steza. Odcep je bil včasih označen s kamnitim možicem, ki pa so ga ob širjenju ceste na Krstenico uničili, tako da nam danes ostane le še pozorno opazovanje (ali pa prijazni naključni sopotniki, ki so mi poleg prijetnega klepeta pomagali tudi pri iskanju poti).
 
-Če boste ta odcep zgrešili, mirno nadaljujte pot po kolovozu, ki vas bo ravno tako pripeljal na Krstenico \... seveda pa boste zamudili najbolj zanimive dele poti in razgled s prepadnega roba.
+{{<figure src="M_5-6533_IMG.JPG" caption="Strm vzpon po lovski poti">}}
+
+{{<note>}}Če boste ta odcep zgrešili, mirno nadaljujte pot po kolovozu, ki vas bo ravno tako pripeljal na Krstenico... seveda pa boste zamudili najbolj zanimive dele poti in razgled s prepadnega roba.{{</note>}}
 
 Steza v začetku teče skoraj ob kolovozu, nato pa zavije ostro levo in se začne v ključih strmo vzpenjati po vedno bolj sončnem pobočju. Ko boste premagali višinsko razliko prvega vzpona (približno sto metrov), boste dobili tudi prvo nagrado za vaš trud -- med drevesi se bo odprl pogled na Spodnje Bohinjske gore. Zaradi sončne lege se na tem pobočju pojavijo nove rastline, med njimi tudi samoperka in alpski bodak.
 
-{{<figure src="M_5-6535_IMG.JPG" caption="Pot po senčnem gozdu">}} {{<figure src="M_5-6534_IMG.JPG" caption="Prvi razgledi">}}
+{{<figure src="M_5-6535_IMG.JPG" caption="Pot po senčnem gozdu">}} 
 
 Po prvem vzponu se pot, ki ves čas teče po senčnem gozdu, sicer še vzpenja, vendar postaja vedno bolj položna. Med hojo boste opazili vrsto razcepov, ki vas bodo morda malce begali, a brez skrbi -- večinoma se vse poti čez nekaj deset metrov spet združijo, kadar boste v resni zadregi, pa se raje odločite za levo pot (levo od vas je skalni rob, tako, da preveč v levo ne morete zaviti).
+
+{{<figure src="M_5-6534_IMG.JPG" caption="Prvi razgledi">}}
 
 Krstenica
 ---------
 
-{{<figure src="M_5-6551_IMG.JPG" caption="Pogled na planino Blato">}}
-
 Po dobri uri vzpona postane pot skoraj ravna in vas pripelje do lovske koče, skrite v gozdu. Pred kočo vas čaka prijazna klopca, ki kar sama vabi k počitku, a ne pustite se ji zapeljati -- zavijte raje levo na ozko pot, ki vas v nekaj korakih pripelje do skalnega roba, od koder se odpre čudovit razgled -- pod vami leži planina Blato, desno od nje se dviga vrh Krede, levo v ozadju pa boste opazili vrhove Spodnjih Bohinjskih gora.
+
+{{<figure src="M_5-6551_IMG.JPG" caption="Pogled na planino Blato">}}
 
 {{<figure src="Razgled_Krstenica_1.jpg" caption="Razgled izpred lovske koče - skrajno desno vrh Krede" caption-position="bottom">}}
 
-{{<figure src="M_5-6553_IMG.JPG">}}
-
-{{<figure src="M_5-6552_IMG.JPG" caption="Prvi travniki">}} {{<figure src="M_5-6554_IMG.JPG" caption="Stanovi na Krstenici">}}
 
 Od lovske koče vas do stanov na Krstenici loči le še dobre četrt ure hoje -- nadaljujete s potjo mimo lovske koče, ki vas kmalu pripelje na prve planinske travnike, kjer se z desne priključi kolovoz, ki ste ga zapustili nad planino Blato.
 
-Do Krstenice se lahko povzpnete po kolovozu, lahko pa vztrajate na pešpoti, ki zavije nekoliko v levo in se skozi zadnji gozdiček povzpne na razgledne travnike. Pred seboj boste zagledali lepo urejene stanove, nad katerimi se dviga kopasti vrh Malega Stoga (stog je senena kopica, na katero so planšarje očitno spominjali okoliški vrhovi), za vami pa se odpira razgled na okoliške hribe in dvatisočake v ozadju.
+{{<figure src="M_5-6553_IMG.JPG">}}
+
+Do Krstenice se lahko povzpnete po kolovozu, lahko pa vztrajate na pešpoti, ki zavije nekoliko v levo in se skozi zadnji gozdiček povzpne na razgledne travnike. 
+
+{{<figure src="M_5-6552_IMG.JPG" caption="Prvi travniki">}} 
+
+Pred seboj boste zagledali lepo urejene stanove, nad katerimi se dviga kopasti vrh Malega Stoga (stog je senena kopica, na katero so planšarje očitno spominjali okoliški vrhovi), za vami pa se odpira razgled na okoliške hribe in dvatisočake v ozadju.
+
+{{<figure src="M_5-6554_IMG.JPG" caption="Stanovi na Krstenici">}}
 
 Po krajšem počitku na planini se lahko vrnete v dolino, lahko pa se odločite tudi za nadaljevanje poti -- s planine Krstenice se lahko odpravite do planine v Lazu, od koder se po markirani poti vrnete na Blato, lahko pa se odločite za izlet do drobne planine Jezerce ali pa za vzpon na [Jezerski Stog](../jezerskistog).
 
