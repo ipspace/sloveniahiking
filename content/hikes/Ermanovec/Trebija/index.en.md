@@ -22,8 +22,18 @@ image:
 layout: stub
 lead: M_4-4438_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1226
 multilead: M_4-4438_IMG.JPG
 multipath: true
 name: Ermanovec/Trebija
+nearby:
+- /hikes/slajka
+- /hikes/ermanovec
+- /hikes/javorc
+- /hikes/mrzlivrh_ziri
+- /hikes/goropeke
+peak: 46.101523,14.063172
+region: gorenjska
+start: 46.095899,14.100439
 title: Ermanovec from Trebija
 ---

@@ -14,8 +14,18 @@ image:
 layout: stub
 lead: M_6_2691.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1226
 multilead: M_6_2691.JPG
 multipath: true
 name: Ermanovec/Kopacnica
+nearby:
+- /hikes/slajka
+- /hikes/ermanovec
+- /hikes/crnivrhcerkno
+- /hikes/blegos
+- /hikes/mrzlivrh_ziri
+peak: 46.101523,14.063172
+region: gorenjska
+start: 46.123822,14.074632
 title: Ermanovec from Kopačnica
 ---

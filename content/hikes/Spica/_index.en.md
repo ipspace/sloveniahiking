@@ -15,10 +15,10 @@ maplink: https://mapzs.projekti.si/poi/5344
 name: Spica
 nearby:
 - /biking/vrhnikazaplana
+- /hikes/kuren
 - /biking/zaplanarovte
 - /hikes/kozljek
 - /hikes/korena
-- /hikes/korena_samotorica
 peak: 45.971434,14.251496
 region: notranjska
 title: Planina nad Vrhniko

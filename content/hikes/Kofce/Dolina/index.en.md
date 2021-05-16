@@ -12,8 +12,11 @@ image:
 - M_006120703.jpg
 layout: stub
 lead: M_006120703.jpg
+maplink: https://mapzs.projekti.si/poi/34621
 multilead: M_006120704.jpg
 multipath: true
 name: Kofce/Dolina
+peak: 46.417820,14.323948
+region: karavanke
 title: Kofce from Dolina
 ---

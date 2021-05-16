@@ -1,5 +1,5 @@
 ---
-date: '2003-02-16T00:00:00'
+date: 2003-02-16 00:00:00+00:00
 delta: 500
 description: Javorč je vrh v pogorju Žirovskega vrha, približno enako oddaljen od
   Žirov in Gorenje vasi v Poljanski dolini, od koder boste imeli čudovit razgled na
@@ -12,9 +12,19 @@ image:
 - track.jpg
 lead: M_6-4626_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1368
 multilead: M_6-4626_IMG.JPG
 multipath: true
 name: Javorc/GorenjaVas
+nearby:
+- /hikes/javorc
+- /hikes/slajka
+- /hikes/malenskivrh
+- /hikes/sivka
+- /hikes/blegos
+peak: 46.070345,14.141830
+region: gorenjska
+start: 46.101187,14.140558
 title: Javorč iz Gorenje vasi
 ---
 {{<figure src="M_4-4461_IMG.JPG" caption="Pogled na Javorč iz Žirov">}}

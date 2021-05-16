@@ -18,7 +18,17 @@ image:
 - Vremscica_Razgled.jpg
 layout: stub
 lead: M_2-2267_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/1227
 multipath: true
 name: Vremscica/Senozece
+nearby:
+- /hikes/vremscica
+- /hikes/nanos
+- /hikes/suhivrh
+- /hikes/svmiklavz_vipava
+- /hikes/gradiskatura
+peak: 45.688293,14.061574
+region: primorska
+start: 45.720987,14.039668
 title: Vremščica from Senožeče
 ---

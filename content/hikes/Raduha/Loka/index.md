@@ -9,9 +9,18 @@ duration: 3.5
 height: 2062
 lead: M_1-7157_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/118
 multilead: M_1-7157_IMG.JPG
 multipath: true
 name: Raduha/Loka
+nearby:
+- /hikes/raduha
+- /hikes/velikirogac
+- /hikes/peca
+- /hikes/kranjskareber
+peak: 46.409848,14.737603
+region: kamnik-alps
+start: 46.403601,14.757566
 title: Raduha s planine Loka
 ---
 Najenostavnejši vzpon na [Raduho](../) teče po markiranih poteh s planine Loka. Po dobro vzdrževanih gozdnih cestah se lahko dvignemo precej visoko, skoraj do koče na Loki, in tako namesto vzpona po bukovih gozdovih uživamo v sprehodu po redkem iglastem gozdu in visokogorskih travnikih. Izlet lahko še podaljšamo s spustom na planino Arta in vrnitvijo po redko obiskani poti po temačnem smrekovem gozdu do planine Loka.

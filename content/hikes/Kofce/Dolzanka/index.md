@@ -1,12 +1,10 @@
 ---
-date: '2003-11-30T00:00:00'
+date: 2003-11-30 00:00:00+00:00
 delta: 450
 description: S planine Dolžanka vodi na Kofce prijetna (čeprav varčno markirana) planinska
   pot, na kateri ne boste srečali prav dosti (pre)glasnih pohodnikov.
 duration: 3
 height: 1488
-multipath: True
-multilead: M_3_0302.JPG
 image:
 - M_3_0331.JPG
 - M_2_0300.JPG
@@ -22,7 +20,12 @@ image:
 - path_1.gif
 lead: M_3_0327.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/34621
+multilead: M_3_0302.JPG
+multipath: true
 name: Kofce/Dolzanka
+peak: 46.417820,14.323948
+region: karavanke
 title: Kofce s planine Dolžanka
 ---
 S planine Dolžanka vodi na [Kofce](../) prijetna (čeprav varčno markirana) planinska pot, na kateri ne boste srečali prav dosti (pre)glasnih pohodnikov (ti se na Kofce praviloma povzpnejo po najkrajši poti od Matizovca). Tudi višinska razlika je ravno pravšnja za prijeten poldnevni izlet, pa tudi tistim, ki se bodo od Kofc odpravili na greben Košute, vzpon ne bo predolg.

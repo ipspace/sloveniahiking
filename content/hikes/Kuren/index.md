@@ -1,25 +1,23 @@
 ---
-date: '2010-12-15T00:00:00'
+date: 2010-12-15 00:00:00+00:00
 delta: 220
 description: Če ste se odločili, da boste nedeljsko kosilo v gostilni z odlično domačo
   hrano združili s krajšim sprehodom, je Kuren nad Staro Vrhniko skoraj idealen izbor.
 duration: 2
 height: 520
 lead: M_0-3048_img.jpg
-image:
-- M_0-3048_img.jpg
-- M_9-2994_IMG.JPG
-- M_9-2995_IMG.JPG
-- M_0-3001_IMG.JPG
-- M_0-3012_IMG.JPG
-- M_0-3033_IMG.JPG
-- M_0-3029_IMG.JPG
-- M_0-3030_IMG.JPG
-- M_0-3028_IMG.JPG
+maplink: https://mapzs.projekti.si/path/31629
 name: Kuren
+nearby:
+- /hikes/spica
+- /biking/vrhnikazaplana
+- /biking/zaplanarovte
+- /hikes/kozljek
+- /hikes/korena
+peak: 45.978816,14.265946
+region: notranjska
+start: 45.973964,14.291890
 title: Kuren
-x: 444
-y: 93
 ---
 Kuren je osamljen zaselek na pobočju Planine -- hribovja, ki ločuje Zaplano od Vrhnike in Ljubljanskega barja. Sestavlja ga le nekaj kmetij, od katerih je naseljena le ena, in prijazna cerkvica sv. Miklavža, ki oživi (tako kot marsikatera druga slovenska cerkev) le enkrat na leto. V zadnjih letih se na Kuren vrača življenje -- eno od kmetij so obnovili in v njej oživeli gostilno, ki postaja vedno bolj znana po odlični hrani pripravljeni v krušni peči. Ta kmetija bo tudi naš cilj.
 
@@ -50,6 +48,8 @@ Priporočam
 
 Karta
 :   Ljubljana in okolica, 1:50.000, PZS
+
+{{<hike-details-extra>}}
 
 Stara Vrhnika
 -------------

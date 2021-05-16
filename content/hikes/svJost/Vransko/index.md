@@ -1,16 +1,26 @@
 ---
 author: Mojca_Lustrek
-date: '2006-05-14T00:00:00'
+date: 2006-05-14 00:00:00+00:00
 delta: 630
-description: |
-  Ko se vam bo sv. Jošt priljubil, poskusite še daljšo različico vzpona z Vranskega.
+description: 'Ko se vam bo sv. Jošt priljubil, poskusite še daljšo različico vzpona
+  z Vranskega.
+
+  '
 duration: 4
 height: 935
-multipath: true
 lead: M_006050905.jpg
+maplink: https://mapzs.projekti.si/poi/1326
 multilead: M_006050905.jpg
+multipath: true
 name: svJost/Vransko
+nearby:
+- /hikes/svjost
+- /hikes/creta
+- /hikes/krvavica
+peak: 46.260617,14.910768
 photo_author: Mojca_Lustrek
+region: kamnik-alps
+start: 46.246147,14.951581
 title: Sveti Jošt z Vranskega
 ---
 {{<figure src="M_006050905.jpg">}} 

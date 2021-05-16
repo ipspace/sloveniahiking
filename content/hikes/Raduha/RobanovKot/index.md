@@ -1,17 +1,20 @@
 ---
 author: Mojca_Lustrek
-date: '2005-11-13T00:00:00'
+date: 2005-11-13 00:00:00+00:00
 delta: 1480
 description: Če vam je izlet na vrh Raduhe od Koče na Loki prekratek, če bi si za
   Raduho radi vzeli ves dan ali če si lahko zanjo privoščite celo dva dni in nekje
   pod njo ali na njej tudi prespite, se odločite za daljšo različico iz doline.
 duration: 8
 height: 2062
-lead:
+lead: null
+maplink: https://mapzs.projekti.si/poi/118
 multilead: M_005102908.jpg
 multipath: true
 name: Raduha/RobanovKot
+peak: 46.409848,14.737603
 photo_author: Mojca_Lustrek
+region: kamnik-alps
 title: Raduha iz Robanovega kota
 ---
 Če vam je izlet na vrh [Raduhe](../) od [Koče na Loki](../loka) prekratek, če bi si za Raduho radi vzeli ves dan ali če si lahko zanjo privoščite celo dva dni in nekje pod njo ali na njej tudi prespite, se odločite za daljšo različico iz doline.

@@ -16,9 +16,9 @@ name: Grintovec
 nearby:
 - /hikes/kalskigreben
 - /hikes/okreselj
+- /hikes/golivrhjezersko
 - /hikes/kamniskosedlo
 - /hikes/vrhkorena
-- /hikes/zvoh
 peak: 46.357097,14.535416
 photo_author: Mojca_Lustrek
 region: kamnik-alps

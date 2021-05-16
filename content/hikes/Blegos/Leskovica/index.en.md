@@ -17,6 +17,7 @@ nearby:
 - /hikes/malenskivrh
 - /hikes/ermanovec
 peak: 46.164802,14.113583
+region: gorenjska
 start: 46.147414,14.085812
 title: Blegoš from Leskovica
 ---

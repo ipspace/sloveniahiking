@@ -20,9 +20,19 @@ image:
 - path_1.gif
 lead: M_0-6051_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1226
 multilead: M_0-6051_IMG.JPG
 multipath: true
 name: Ermanovec/Sovodenj
+nearby:
+- /hikes/ermanovec
+- /hikes/bevkovvrh
+- /hikes/mrzlivrh_ziri
+- /hikes/slajka
+- /hikes/vrsnik_ziri
+peak: 46.101523,14.063172
+region: gorenjska
+start: 46.085008,14.038858
 title: Ermanovec s Sovodnja
 ---
 {{<figure src="M_0-6066_IMG.JPG" caption="Koča na Ermanovcu">}}

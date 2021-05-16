@@ -1,16 +1,26 @@
 ---
-date: '2004-01-11T00:00:00'
-lastmod: 2021-02-13T16:49:00
+date: 2004-01-11 00:00:00+00:00
 delta: 320
 description: Najbolj strma markirana pot na Vrh Svetih treh kraljev vodi iz Sopota,
   zaselka v dolini Sovre.
 duration: 2
 height: 844
-map: 1
+lastmod: 2021-02-13 16:49:00
 lead: M_5_0525.jpg
+map: 1
+maplink: https://mapzs.projekti.si/poi/4410
 multilead: M_5_0522.jpg
 multipath: true
 name: Vs3k/Sopot
+nearby:
+- /hikes/vs3k
+- /biking/zaplanatavzentroza
+- /hikes/goropeke
+- /hikes/vrsnik_ziri
+- /biking/zaplanarovte
+peak: 46.010608,14.168462
+region: gorenjska
+start: 46.000904,14.150434
 title: Vrh Svetih treh kraljev iz Sopota
 ---
 {{<figure src="M_5_0525.jpg">}}

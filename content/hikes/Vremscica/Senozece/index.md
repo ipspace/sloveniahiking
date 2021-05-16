@@ -19,8 +19,18 @@ image:
 - M_3-2309_IMG.JPG
 - Vremscica_Razgled.jpg
 lead: M_2-2267_IMG.JPG
+maplink: https://mapzs.projekti.si/poi/1227
 multipath: true
 name: Vremscica/Senozece
+nearby:
+- /hikes/vremscica
+- /hikes/nanos
+- /hikes/suhivrh
+- /hikes/svmiklavz_vipava
+- /hikes/gradiskatura
+peak: 45.688293,14.061574
+region: primorska
+start: 45.720987,14.039668
 title: Vremščica iz Senožeč
 ---
 Ena najdaljših, pa tudi najbolj položnih poti na vrh [Vremščice](../) vodi iz Senožeč. V začetku se boste sprehodili skozi gozd, doživeli prve razglede na vrhu Slatne, se spustili v Virbašnji dol, kjer boste morda opazili konje, in se končno mimo Bukovega vrha povzpeli po razglednih travnikih do cilja; kot nalašč torej za zanimiv družinski izlet.

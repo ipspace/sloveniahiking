@@ -23,9 +23,19 @@ image:
 - Altitude.jpg
 lead: M_4-4438_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1226
 multilead: M_4-4438_IMG.JPG
 multipath: true
 name: Ermanovec/Trebija
+nearby:
+- /hikes/slajka
+- /hikes/ermanovec
+- /hikes/javorc
+- /hikes/mrzlivrh_ziri
+- /hikes/goropeke
+peak: 46.101523,14.063172
+region: gorenjska
+start: 46.095899,14.100439
 title: Iz Trebije proti Ermanovcu
 ---
 Vzpon iz Trebije je ena najlepših poti na [Ermanovec](../). Pot se uspe skoraj v celoti izogniti asfaltnim cestam (večina ostalih poti na Ermanovec vsaj delno teče po cestah), zaradi odličnih markacij pa je zelo primerna tudi za zimski vzpon. V zimskih razmerah je pot precej težje prehodna, zato je primeren cilj za krajši izlet nad Poljansko dolino prvi razgledni vrh na poti (nad kmetijo Kosinc). S tega vrha se odpre lep pogled na Žiri in okoliško hribovje, med potjo pa lahko občudujete pogled na Poljansko dolino, Blegoš in alpe v ozadju.

@@ -1,5 +1,5 @@
 ---
-date: '2006-01-15T00:00:00'
+date: 2006-01-15 00:00:00+00:00
 delta: 210
 description: Vzpon do svetega Jošta s prevala Lipa je prijeten družinski izlet.
 duration: 1
@@ -11,10 +11,18 @@ image:
 - mapgps.jpg
 - path_1.gif
 lead: M_6_2609.JPG
-multilead: M_6_2609.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1326
+multilead: M_6_2609.JPG
 multipath: true
 name: svJost/Lipa
+nearby:
+- /hikes/svjost
+- /hikes/golivrh_savnice
+- /hikes/creta
+peak: 46.260617,14.910768
+region: kamnik-alps
+start: 46.261449,14.893658
 title: Sveti Jošt s prevala Lipa
 ---
 Na sončnih obronkih Šentjoškega vrha stoji visoko nad Lipo, prevalom med Vranskim in Nazarjami, [cerkev svetega Jošta](../). Mimo nje vodi evropska pešpot (E6), nanjo pa so speljane tudi markirane poti z Vranskega, s Čreta in s prevala Lipa. Zadnja je še najprimernejša za kratek družinski izlet, s prevala do cilja je namreč le dobre pol ure hoje.

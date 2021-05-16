@@ -20,6 +20,7 @@ nearby:
 - /hikes/ermanovec
 peak: 46.164802,14.113583
 start: 46.147414,14.085812
+region: gorenjska
 title: Blegoš iz Leskovice
 ---
 {{<figure src="M_0_00630.JPG">}}

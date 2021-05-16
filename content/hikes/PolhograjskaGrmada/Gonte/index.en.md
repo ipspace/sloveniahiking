@@ -17,6 +17,7 @@ nearby:
 - /hikes/korena
 - /hikes/korena_samotorica
 peak: 46.083811,14.332903
+region: notranjska
 start: 46.075996,14.313156
 title: Polhograjska Grmada via Gonte
 ---

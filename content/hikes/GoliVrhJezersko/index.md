@@ -1,6 +1,6 @@
 ---
 author: Mojca_Lustrek
-date: '2006-04-09T00:00:00'
+date: 2006-04-09 00:00:00+00:00
 delta: 860
 description: Goli vrh je stožec med Ravensko in Belsko Kočno še v Kamniško-Savinjskih
   Alpah, a se že spogleduje s Karavankami. Iz gozdnatih pobočij štrli gola konica,
@@ -8,8 +8,17 @@ description: Goli vrh je stožec med Ravensko in Belsko Kočno še v Kamniško-S
 duration: 4.5
 height: 1787
 lead: M_006040100.jpg
+maplink: https://mapzs.projekti.si/poi/734
 name: GoliVrhJezersko
+nearby:
+- /hikes/okreselj
+- /hikes/grintovec
+- /hikes/kamniskosedlo
+- /hikes/kalskigreben
+- /hikes/vrhkorena
+peak: 46.397913, 14.546991
 photo_author: Mojca_Lustrek
+region: kamnik-alps
 title: Goli vrh nad Jezerskim
 ---
 {{<figure src="M_006040100.jpg">}}

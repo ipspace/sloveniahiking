@@ -13,8 +13,18 @@ image:
 lastmod: 2021-02-13 10:20:00
 layout: stub
 lead: M_007031604.jpg
+maplink: https://mapzs.projekti.si/poi/34621
 multilead: M_007031602.jpg
 multipath: true
 name: Kofce/Matizovec
+nearby:
+- /hikes/kofce
+- /hikes/velikivrh
+- /hikes/korosica
+- /hikes/kosutica
+- /hikes/kladivo
+peak: 46.417820,14.323948
+region: karavanke
+start: 46.414578,14.300372
 title: Kofce from Matizovec
 ---

@@ -18,6 +18,7 @@ nearby:
 - /hikes/korena
 - /hikes/korena_samotorica
 peak: 46.083811,14.332903
+region: notranjska
 start: 46.068726,14.352170
 title: Polhograjska Grmada from Belica
 ---

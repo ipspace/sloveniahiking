@@ -11,8 +11,8 @@ nearby:
 - /hikes/planinskagora
 - /hikes/svlovrenc
 - /biking/zibrse
+- /hikes/svetatrojica
 - /biking/vrhnikazaplana
-- /biking/zaplanarovte
 peak: 45.834089,14.213203
 region: notranjska
 start: 45.825786,14.236644

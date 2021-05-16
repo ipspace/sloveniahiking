@@ -7,9 +7,12 @@ duration: 3
 height: 844
 lead: M_8-4881_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/4410
 multilead: M_8-4879_IMG.JPG
 multipath: true
 name: Vs3k/Izgorje
+peak: 46.010608,14.168462
+region: gorenjska
 title: Vrh Svetih treh kraljev iz Izgorij
 ---
 Eno najbolj zanimivih poti na [Vrh Svetih treh kraljev](../) boste našli, če boste zaupali svoji stezosledski ali orientacijski žilici in se odpravili na izlet po starih, že skoraj opuščenih poteh, kolovozih in stezicah iz Izgorij, zaselka nad zgornjo dolino Poljanske Sore (ki se tukaj še vedno imenuje Sovra. Kot še marsikatera zanimiva, a odročna pot, je tudi ta markirana samo na zemljevidu, kar pa naj vas ne odvrne od izleta -- z malce smisla za orientacijo ali po pogovoru s prijaznimi domačini boste brez pretiranega obotavljanja prišli do vrha.

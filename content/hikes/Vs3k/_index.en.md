@@ -11,6 +11,6 @@ nearby:
 - /hikes/javorc
 - /biking/zibrse
 peak: 46.010608,14.168462
-region: notranjska
+region: gorenjska
 title: Vrh Svetih treh kraljev
 ---

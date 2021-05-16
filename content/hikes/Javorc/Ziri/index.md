@@ -1,5 +1,5 @@
 ---
-date: '2003-01-12T00:00:00'
+date: 2003-01-12 00:00:00+00:00
 delta: 410
 description: Javorč je Žirem najbližji vrh v pogorju Žirovskega vrha in zato v vseh
   letnih časih zelo priljubljena izletniška točka. Njegovo priljubljenost še povečuje
@@ -8,9 +8,19 @@ duration: 2.5
 height: 901
 lead: M_5-2568_IMG.JPG
 map: 1
-multipath: true
+maplink: https://mapzs.projekti.si/poi/1368
 multilead: M_5-2566_IMG.JPG
+multipath: true
 name: Javorc/Ziri
+nearby:
+- /hikes/goropeke
+- /hikes/vrsnik_ziri
+- /hikes/javorc
+- /hikes/mrzlivrh_ziri
+- /hikes/vs3k
+peak: 46.070345,14.141830
+region: gorenjska
+start: 46.047208,14.109771
 title: Javorč iz Žirov
 ---
 {{<figure src="M_5-2568_IMG.JPG">}}

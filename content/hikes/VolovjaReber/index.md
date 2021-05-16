@@ -9,7 +9,8 @@ height: 1099
 lead: M_0_10053.JPG
 map: 1
 name: VolovjaReber
-nearby: []
+nearby:
+- /hikes/svetatrojica
 peak: 45.592453,14.311605
 region: notranjska
 start: 45.585013,14.319533

@@ -1,14 +1,22 @@
 ---
-date: '2006-05-27T00:00:00'
+date: 2006-05-27 00:00:00+00:00
 delta: 360
 description: Najbolj strma pot na vrh Vremščice je speljana iz Gornjih Ležeč, vasi
   na pobočjih severno od doline Reke.
 duration: 2
 height: 1027
 lead: M_0_3032.JPG
+maplink: https://mapzs.projekti.si/poi/1227
 multilead: M_0_3033.JPG
 multipath: true
 name: Vremscica/GornjeLezece
+nearby:
+- /hikes/vremscica
+- /hikes/nanos
+- /hikes/suhivrh
+peak: 45.688293,14.061574
+region: primorska
+start: 45.677295,14.069913
 title: Vremščica iz Gornjih Ležeč
 ---
 {{<figure src="M_0_3032.JPG">}}

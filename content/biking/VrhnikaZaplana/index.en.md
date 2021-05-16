@@ -20,10 +20,10 @@ maplink: https://www.opencyclemap.org/?zoom=14&lat=45.96463&lon=14.26478&layers=
 name: VrhnikaZaplana
 nearby:
 - /hikes/spica
+- /hikes/kuren
 - /biking/zaplanarovte
 - /hikes/kozljek
 - /hikes/korena
-- /hikes/korena_samotorica
 region: notranjska
 start: 45.963816,14.275521
 title: Vrhnika – Zaplana – Star Maln

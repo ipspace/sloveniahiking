@@ -10,8 +10,18 @@ image:
 layout: stub
 lead: M_6-4626_IMG.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/1368
 multilead: M_6-4626_IMG.JPG
 multipath: true
 name: Javorc/GorenjaVas
+nearby:
+- /hikes/javorc
+- /hikes/slajka
+- /hikes/malenskivrh
+- /hikes/sivka
+- /hikes/blegos
+peak: 46.070345,14.141830
+region: gorenjska
+start: 46.101187,14.140558
 title: Javorč from Gorenja vas
 ---

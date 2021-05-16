@@ -9,6 +9,7 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/970
 name: Javorniki
 nearby:
+- /hikes/svetatrojica
 - /hikes/planinskagora
 - /hikes/pokojisce
 peak: 45.758005,14.295063

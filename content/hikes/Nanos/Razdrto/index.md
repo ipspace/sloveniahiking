@@ -27,9 +27,19 @@ image:
 lastmod: 2021-02-13 10:31:00
 lead: M_1_0184.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/3080
 multilead: M_1_0184.JPG
 multipath: true
 name: Nanos/Razdrto
+nearby:
+- /hikes/nanos
+- /hikes/suhivrh
+- /hikes/vremscica
+- /hikes/hrusica
+- /hikes/svduh_podkraj
+peak: 45.769507,14.056388
+region: vipava
+start: 45.759230,14.061785
 title: Nanos iz Razdrtega
 ---
 Nanos je hribovje, ki se med Podkrajem in Razdrtim strmo dviguje nad vzhodnim delom Vipavske doline in jo tako ločuje od Postojnske kotline. Najbolj [izrazit vrh Nanosa je Pleša](../), ki jo večina izletnikov poistoveti s celotnim Nanosom (ko rečemo »gremo na Nanos«, v bistvu mislimo »gremo na Plešo«). Do nje vodi vrsta planinskih poti, če se odločite za vzpon iz Razdrtega, lahko izbirate med strmo potjo, ki zahteva tudi malce enostavnega plezanja, ali precej daljšo položno potjo, po kateri je speljana Slovenska planinska pot (SPP).

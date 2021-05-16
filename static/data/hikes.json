@@ -301,9 +301,19 @@
     "height": 2062,
     "lead": "M_1-7157_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/118",
     "multilead": "M_1-7157_IMG.JPG",
     "multipath": true,
     "name": "Raduha/Loka",
+    "nearby": [
+      "/hikes/raduha",
+      "/hikes/velikirogac",
+      "/hikes/peca",
+      "/hikes/kranjskareber"
+    ],
+    "peak": "46.409848,14.737603",
+    "region": "kamnik-alps",
+    "start": "46.403601,14.757566",
     "title": {
       "sl": "Raduha s planine Loka",
       "en": "Raduha from Planina Loka"
@@ -319,10 +329,13 @@
     },
     "duration": 8,
     "height": 2062,
+    "maplink": "https://mapzs.projekti.si/poi/118",
     "multilead": "M_005102908.jpg",
     "multipath": true,
     "name": "Raduha/RobanovKot",
+    "peak": "46.409848,14.737603",
     "photo_author": "Mojca_Lustrek",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Raduha iz Robanovega kota",
       "en": "Raduha from Robanov Kot"
@@ -452,7 +465,7 @@
       "/hikes/korena_samotorica",
       "/hikes/polhograjskagora",
       "/hikes/sivka",
-      "/hikes/spica"
+      "/hikes/kuren"
     ],
     "peak": "46.034295,14.254920",
     "region": "notranjska",
@@ -504,9 +517,20 @@
     "height": 1026,
     "lead": "M_0-6051_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1226",
     "multilead": "M_0-6051_IMG.JPG",
     "multipath": true,
     "name": "Ermanovec/Sovodenj",
+    "nearby": [
+      "/hikes/ermanovec",
+      "/hikes/bevkovvrh",
+      "/hikes/mrzlivrh_ziri",
+      "/hikes/slajka",
+      "/hikes/vrsnik_ziri"
+    ],
+    "peak": "46.101523,14.063172",
+    "region": "gorenjska",
+    "start": "46.085008,14.038858",
     "title": {
       "sl": "Ermanovec s Sovodnja",
       "en": "Ermanovec from Sovodenj"
@@ -523,9 +547,20 @@
     "height": 968,
     "lead": "M_4-4438_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1226",
     "multilead": "M_4-4438_IMG.JPG",
     "multipath": true,
     "name": "Ermanovec/Trebija",
+    "nearby": [
+      "/hikes/slajka",
+      "/hikes/ermanovec",
+      "/hikes/javorc",
+      "/hikes/mrzlivrh_ziri",
+      "/hikes/goropeke"
+    ],
+    "peak": "46.101523,14.063172",
+    "region": "gorenjska",
+    "start": "46.095899,14.100439",
     "title": {
       "sl": "Iz Trebije proti Ermanovcu",
       "en": "Ermanovec from Trebija"
@@ -568,9 +603,20 @@
     "height": 1026,
     "lead": "M_6_2691.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1226",
     "multilead": "M_6_2691.JPG",
     "multipath": true,
     "name": "Ermanovec/Kopacnica",
+    "nearby": [
+      "/hikes/slajka",
+      "/hikes/ermanovec",
+      "/hikes/crnivrhcerkno",
+      "/hikes/blegos",
+      "/hikes/mrzlivrh_ziri"
+    ],
+    "peak": "46.101523,14.063172",
+    "region": "gorenjska",
+    "start": "46.123822,14.074632",
     "title": {
       "sl": "Ermanovec iz Kopa\u010dnice",
       "en": "Ermanovec from Kopa\u010dnica"
@@ -789,6 +835,7 @@
     ],
     "peak": "46.164802,14.113583",
     "start": "46.143675,14.105743",
+    "region": "gorenjska",
     "title": {
       "sl": "Blego\u0161 iz Volake",
       "en": "Blego\u0161 from Volaka"
@@ -817,6 +864,7 @@
     ],
     "peak": "46.164802,14.113583",
     "start": "46.171139,14.042610",
+    "region": "gorenjska",
     "title": {
       "sl": "Od \u010crnega vrha do Blego\u0161a",
       "en": "Blego\u0161 from \u010crni vrh"
@@ -846,6 +894,7 @@
     ],
     "peak": "46.164802,14.113583",
     "start": "46.147414,14.085812",
+    "region": "gorenjska",
     "title": {
       "sl": "Blego\u0161 iz Leskovice",
       "en": "Blego\u0161 from Leskovica"
@@ -873,9 +922,7 @@
     "title": {
       "sl": "Blego\u0161",
       "en": "Blego\u0161"
-    },
-    "x": 432,
-    "y": 114
+    }
   },
   {
     "date": "2004-01-18 00:00:00+00:00",
@@ -901,6 +948,7 @@
     ],
     "peak": "46.164802,14.113583",
     "start": "46.124584,14.117533",
+    "region": "gorenjska",
     "title": {
       "sl": "Blego\u0161 iz Hotavelj",
       "en": "Blego\u0161 from Hotavlje"
@@ -1085,6 +1133,7 @@
       "/hikes/korena_samotorica"
     ],
     "peak": "46.083811,14.332903",
+    "region": "notranjska",
     "start": "46.075996,14.313156",
     "title": {
       "sl": "Polhograjska Grmada \u010dez Gonte",
@@ -1115,6 +1164,7 @@
       "/hikes/korena_samotorica"
     ],
     "peak": "46.083811,14.332903",
+    "region": "notranjska",
     "start": "46.068726,14.352170",
     "title": {
       "sl": "Na Polhograjsko Grmado iz Belice",
@@ -1145,6 +1195,7 @@
       "/hikes/korena_samotorica"
     ],
     "peak": "46.083811,14.332903",
+    "region": "notranjska",
     "start": "46.065069,14.316842",
     "title": {
       "sl": "Polhograjska Grmada \u010dez Ravnek",
@@ -1385,8 +1436,19 @@
     "duration": 3,
     "height": 1027,
     "lead": "M_2-2267_IMG.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1227",
     "multipath": true,
     "name": "Vremscica/Senozece",
+    "nearby": [
+      "/hikes/vremscica",
+      "/hikes/nanos",
+      "/hikes/suhivrh",
+      "/hikes/svmiklavz_vipava",
+      "/hikes/gradiskatura"
+    ],
+    "peak": "45.688293,14.061574",
+    "region": "primorska",
+    "start": "45.720987,14.039668",
     "title": {
       "sl": "Vrem\u0161\u010dica iz Seno\u017ee\u010d",
       "en": "Vrem\u0161\u010dica from Seno\u017ee\u010de"
@@ -1402,9 +1464,18 @@
     "duration": 2,
     "height": 1027,
     "lead": "M_0_3032.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1227",
     "multilead": "M_0_3033.JPG",
     "multipath": true,
     "name": "Vremscica/GornjeLezece",
+    "nearby": [
+      "/hikes/vremscica",
+      "/hikes/nanos",
+      "/hikes/suhivrh"
+    ],
+    "peak": "45.688293,14.061574",
+    "region": "primorska",
+    "start": "45.677295,14.069913",
     "title": {
       "sl": "Vrem\u0161\u010dica iz Gornjih Le\u017ee\u010d",
       "en": "Vrem\u0161\u010dica from Gornje Le\u017ee\u010de"
@@ -1479,10 +1550,13 @@
     "duration": 3,
     "height": 1666,
     "lead": "M_3_1378.JPG",
-    "multilead": "M_6_1655.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/836",
+    "multilead": "M_6_1655.JPG",
     "multipath": true,
     "name": "VelikaPlanina/Sprehod",
+    "peak": "46.298105,14.643921",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Potepanje po Veliki planini",
       "en": "Hiking around Velika planina"
@@ -1824,9 +1898,9 @@
     "nearby": [
       "/hikes/kalskigreben",
       "/hikes/okreselj",
+      "/hikes/golivrhjezersko",
       "/hikes/kamniskosedlo",
-      "/hikes/vrhkorena",
-      "/hikes/zvoh"
+      "/hikes/vrhkorena"
     ],
     "peak": "46.357097,14.535416",
     "photo_author": "Mojca_Lustrek",
@@ -1839,7 +1913,6 @@
   },
   {
     "date": "2004-01-11 00:00:00+00:00",
-    "lastmod": "2021-02-13 16:49:00",
     "delta": 320,
     "description": {
       "sl": "Najbolj strma markirana pot na Vrh Svetih treh kraljev vodi iz Sopota, zaselka v dolini Sovre.",
@@ -1847,11 +1920,23 @@
     },
     "duration": 2,
     "height": 844,
-    "map": 1,
+    "lastmod": "2021-02-13 16:49:00",
     "lead": "M_5_0525.jpg",
+    "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4410",
     "multilead": "M_5_0522.jpg",
     "multipath": true,
     "name": "Vs3k/Sopot",
+    "nearby": [
+      "/hikes/vs3k",
+      "/biking/zaplanatavzentroza",
+      "/hikes/goropeke",
+      "/hikes/vrsnik_ziri",
+      "/biking/zaplanarovte"
+    ],
+    "peak": "46.010608,14.168462",
+    "region": "gorenjska",
+    "start": "46.000904,14.150434",
     "title": {
       "sl": "Vrh Svetih treh kraljev iz Sopota",
       "en": "Vrh Svetih treh kraljev from Sopot"
@@ -1868,9 +1953,12 @@
     "height": 844,
     "lead": "M_8-4881_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/4410",
     "multilead": "M_8-4879_IMG.JPG",
     "multipath": true,
     "name": "Vs3k/Izgorje",
+    "peak": "46.010608,14.168462",
+    "region": "gorenjska",
     "title": {
       "sl": "Vrh Svetih treh kraljev iz Izgorij",
       "en": "Vrh Svetih treh kraljev from Izgorje"
@@ -1893,7 +1981,7 @@
       "/biking/zibrse"
     ],
     "peak": "46.010608,14.168462",
-    "region": "notranjska",
+    "region": "gorenjska",
     "title": {
       "sl": "Vrh Svetih treh kraljev",
       "en": "Vrh Svetih treh kraljev"
@@ -2114,9 +2202,20 @@
     "lastmod": "2021-02-13 10:31:00",
     "lead": "M_1_0184.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/3080",
     "multilead": "M_1_0184.JPG",
     "multipath": true,
     "name": "Nanos/Razdrto",
+    "nearby": [
+      "/hikes/nanos",
+      "/hikes/suhivrh",
+      "/hikes/vremscica",
+      "/hikes/hrusica",
+      "/hikes/svduh_podkraj"
+    ],
+    "peak": "45.769507,14.056388",
+    "region": "vipava",
+    "start": "45.759230,14.061785",
     "title": {
       "sl": "Nanos iz Razdrtega",
       "en": "Nanos from Razdrto"
@@ -2133,9 +2232,12 @@
     "height": 1262,
     "lead": "M_5_0528.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/3080",
     "multilead": "M_5_0528.JPG",
     "multipath": true,
     "name": "Nanos/Strane",
+    "peak": "45.769507,14.056388",
+    "region": "vipava",
     "title": {
       "sl": "Nanos iz Stran",
       "en": "Nanos from Strane"
@@ -2324,12 +2426,12 @@
       "/hikes/oblenk",
       "/hikes/svlovrenc",
       "/hikes/javorniki",
-      "/biking/zibrse",
-      "/biking/vrhnikazaplana"
+      "/hikes/svetatrojica",
+      "/biking/zibrse"
     ],
     "peak": "45.837401,14.233887",
-    "start": "45.836412,14.255054",
     "region": "notranjska",
+    "start": "45.836412,14.255054",
     "timing": [
       {
         "Vzpon": "45 minut to cerkve, 1 ura do vrha"
@@ -2873,8 +2975,8 @@
       "/hikes/kamniskosedlo",
       "/hikes/klemencajama",
       "/hikes/grintovec",
-      "/hikes/kalskigreben",
-      "/hikes/konj"
+      "/hikes/golivrhjezersko",
+      "/hikes/kalskigreben"
     ],
     "peak": "46.369294,14.586485",
     "region": "kamnik-alps",
@@ -2977,9 +3079,20 @@
     "height": 901,
     "lead": "M_6-4626_IMG.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1368",
     "multilead": "M_6-4626_IMG.JPG",
     "multipath": true,
     "name": "Javorc/GorenjaVas",
+    "nearby": [
+      "/hikes/javorc",
+      "/hikes/slajka",
+      "/hikes/malenskivrh",
+      "/hikes/sivka",
+      "/hikes/blegos"
+    ],
+    "peak": "46.070345,14.141830",
+    "region": "gorenjska",
+    "start": "46.101187,14.140558",
     "title": {
       "sl": "Javor\u010d iz Gorenje vasi",
       "en": "Javor\u010d from Gorenja vas"
@@ -2996,9 +3109,20 @@
     "height": 901,
     "lead": "M_5-2568_IMG.JPG",
     "map": 1,
-    "multipath": true,
+    "maplink": "https://mapzs.projekti.si/poi/1368",
     "multilead": "M_5-2566_IMG.JPG",
+    "multipath": true,
     "name": "Javorc/Ziri",
+    "nearby": [
+      "/hikes/goropeke",
+      "/hikes/vrsnik_ziri",
+      "/hikes/javorc",
+      "/hikes/mrzlivrh_ziri",
+      "/hikes/vs3k"
+    ],
+    "peak": "46.070345,14.141830",
+    "region": "gorenjska",
+    "start": "46.047208,14.109771",
     "title": {
       "sl": "Javor\u010d iz \u017dirov",
       "en": "Javor\u010d from \u017diri"
@@ -3029,6 +3153,7 @@
     }
   },
   {
+    "author": "Mojca Lu\u0161trek",
     "date": "2006-12-10 00:00:00+00:00",
     "delta": 886,
     "description": {
@@ -3037,15 +3162,17 @@
     },
     "duration": 4,
     "height": 1488,
+    "lead": "M_006120703.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/34621",
+    "multilead": "M_006120704.jpg",
+    "multipath": true,
     "name": "Kofce/Dolina",
+    "peak": "46.417820,14.323948",
+    "region": "karavanke",
     "title": {
       "sl": "Kofce iz Doline",
       "en": "Kofce from Dolina"
-    },
-    "author": "Mojca Lu\u0161trek",
-    "lead": "M_006120703.jpg",
-    "multipath": true,
-    "multilead": "M_006120704.jpg"
+    }
   },
   {
     "author": "Mojca Lu\u0161trek",
@@ -3059,9 +3186,20 @@
     "height": 1488,
     "lastmod": "2021-02-13 10:20:00",
     "lead": "M_007031604.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/34621",
     "multilead": "M_007031602.jpg",
     "multipath": true,
     "name": "Kofce/Matizovec",
+    "nearby": [
+      "/hikes/kofce",
+      "/hikes/velikivrh",
+      "/hikes/korosica",
+      "/hikes/kosutica",
+      "/hikes/kladivo"
+    ],
+    "peak": "46.417820,14.323948",
+    "region": "karavanke",
+    "start": "46.414578,14.300372",
     "title": {
       "sl": "Kofce od Matizovca",
       "en": "Kofce from Matizovec"
@@ -3076,11 +3214,14 @@
     },
     "duration": 3,
     "height": 1488,
-    "multipath": true,
-    "multilead": "M_3_0302.JPG",
     "lead": "M_3_0327.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/34621",
+    "multilead": "M_3_0302.JPG",
+    "multipath": true,
     "name": "Kofce/Dolzanka",
+    "peak": "46.417820,14.323948",
+    "region": "karavanke",
     "title": {
       "sl": "Kofce s planine Dol\u017eanka",
       "en": "Kofce from Dol\u017eanka meadow"
@@ -3143,7 +3284,8 @@
   {
     "date": "1900-01-01 00:00:00+00:00",
     "description": {
-      "sl": "V gozdovih med Logatcem in Colom boste na\u0161li ostanke rimske utrdbe, in gostilno, o kateri pi\u0161e \u017ee Valvazor.\n"
+      "sl": "V gozdovih med Logatcem in Colom boste na\u0161li ostanke rimske utrdbe, in gostilno, o kateri pi\u0161e \u017ee Valvazor.\n",
+      "en": null
     },
     "height": 873,
     "lead": "M_20020916_095733.jpg",
@@ -3158,7 +3300,8 @@
     "peak": "45.863474,14.111302",
     "region": "primorska",
     "title": {
-      "sl": "Stara po\u0161ta na Hru\u0161ici"
+      "sl": "Stara po\u0161ta na Hru\u0161ici",
+      "en": "Stara po\u0161ta (Old Post) on Hru\u0161ica"
     }
   },
   {
@@ -3178,7 +3321,7 @@
       "/hikes/kozljek",
       "/hikes/polhograjskagora",
       "/hikes/polhograjskagrmada",
-      "/hikes/tosc"
+      "/hikes/kuren"
     ],
     "peak": "46.035238,14.295931",
     "region": "notranjska",
@@ -3773,10 +3916,13 @@
     "duration": 6.5,
     "height": 1220,
     "lead": "M_010046.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1085",
     "multilead": "M_010046.JPG",
     "multipath": true,
     "name": "Kum/ZidaniMost",
+    "peak": "46.087612,15.072366",
     "photo_author": "Gregor_Skok",
+    "region": "posavje",
     "title": {
       "sl": "Kum iz Zidanega Mosta",
       "en": "Kum from Zidani Most"
@@ -3793,10 +3939,13 @@
     "duration": 6.5,
     "height": 1220,
     "lead": "M_010055.JPG",
+    "maplink": "https://mapzs.projekti.si/poi/1085",
     "multilead": "M_010055.JPG",
     "multipath": true,
     "name": "Kum/Trbovlje",
+    "peak": "46.087612,15.072366",
     "photo_author": "Gregor_Skok",
+    "region": "posavje",
     "title": {
       "sl": "Kum iz Trbovelj",
       "en": "Kum from Trbovlje"
@@ -3864,8 +4013,8 @@
       "/hikes/planinskagora",
       "/hikes/svlovrenc",
       "/biking/zibrse",
-      "/biking/vrhnikazaplana",
-      "/biking/zaplanarovte"
+      "/hikes/svetatrojica",
+      "/biking/vrhnikazaplana"
     ],
     "peak": "45.834089,14.213203",
     "region": "notranjska",
@@ -4280,7 +4429,7 @@
       "/hikes/kozljek",
       "/hikes/polhograjskagora",
       "/hikes/polhograjskagrmada",
-      "/hikes/tosc"
+      "/hikes/kuren"
     ],
     "peak": "46.035238,14.295931",
     "region": "notranjska",
@@ -4384,8 +4533,18 @@
     "duration": 4.5,
     "height": 1787,
     "lead": "M_006040100.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/734",
     "name": "GoliVrhJezersko",
+    "nearby": [
+      "/hikes/okreselj",
+      "/hikes/grintovec",
+      "/hikes/kamniskosedlo",
+      "/hikes/kalskigreben",
+      "/hikes/vrhkorena"
+    ],
+    "peak": "46.397913,14.546991",
     "photo_author": "Mojca_Lustrek",
+    "region": "kamnik-alps",
     "title": {
       "sl": "Goli vrh nad Jezerskim",
       "en": "Goli vrh near Jezersko"
@@ -4697,7 +4856,9 @@
     "lead": "M_0_10053.JPG",
     "map": 1,
     "name": "VolovjaReber",
-    "nearby": [],
+    "nearby": [
+      "/hikes/svetatrojica"
+    ],
     "peak": "45.592453,14.311605",
     "region": "notranjska",
     "start": "45.585013,14.319533",
@@ -4797,11 +4958,12 @@
     "nearby": [
       "/biking/vrhnikazaplana",
       "/hikes/spica",
+      "/hikes/kuren",
       "/biking/zaplanarovte",
-      "/hikes/kozljek",
-      "/hikes/korena"
+      "/hikes/kozljek"
     ],
     "peak": "45.971434,14.251496",
+    "region": "notranjska",
     "start": "45.956459,14.249277",
     "title": {
       "sl": "Planina od Starega malna",
@@ -4823,12 +4985,13 @@
     "name": "Spica/KV",
     "nearby": [
       "/biking/vrhnikazaplana",
+      "/hikes/kuren",
       "/hikes/spica",
       "/biking/zaplanarovte",
-      "/hikes/kozljek",
-      "/hikes/korena"
+      "/hikes/kozljek"
     ],
     "peak": "45.971434,14.251496",
+    "region": "notranjska",
     "start": "45.963698,14.275556",
     "title": {
       "sl": "Planina iz Kurje vasi",
@@ -4852,10 +5015,11 @@
       "/hikes/spica",
       "/biking/vrhnikazaplana",
       "/biking/zaplanarovte",
-      "/hikes/vs3k",
-      "/hikes/kozljek"
+      "/hikes/kuren",
+      "/hikes/vs3k"
     ],
     "peak": "45.971434,14.251496",
+    "region": "notranjska",
     "start": "45.970243,14.235464",
     "title": {
       "sl": "Na Planino z zgornje Zaplane",
@@ -4886,11 +5050,11 @@
     "multipath": true,
     "name": "Spica/KR",
     "nearby": [
+      "/hikes/kuren",
       "/hikes/spica",
       "/biking/vrhnikazaplana",
       "/biking/zaplanarovte",
-      "/hikes/kozljek",
-      "/hikes/korena"
+      "/hikes/kozljek"
     ],
     "peak": "45.971434,14.251496",
     "region": "notranjska",
@@ -4913,10 +5077,10 @@
     "name": "Spica",
     "nearby": [
       "/biking/vrhnikazaplana",
+      "/hikes/kuren",
       "/biking/zaplanarovte",
       "/hikes/kozljek",
-      "/hikes/korena",
-      "/hikes/korena_samotorica"
+      "/hikes/korena"
     ],
     "peak": "45.971434,14.251496",
     "region": "notranjska",
@@ -4941,6 +5105,7 @@
     "maplink": "https://mapzs.projekti.si/poi/970",
     "name": "Javorniki",
     "nearby": [
+      "/hikes/svetatrojica",
       "/hikes/planinskagora",
       "/hikes/pokojisce"
     ],
@@ -5328,11 +5493,20 @@
     },
     "duration": 4,
     "height": 935,
-    "multipath": true,
     "lead": "M_006050905.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/1326",
     "multilead": "M_006050905.jpg",
+    "multipath": true,
     "name": "svJost/Vransko",
+    "nearby": [
+      "/hikes/svjost",
+      "/hikes/creta",
+      "/hikes/krvavica"
+    ],
+    "peak": "46.260617,14.910768",
     "photo_author": "Mojca_Lustrek",
+    "region": "kamnik-alps",
+    "start": "46.246147,14.951581",
     "title": {
       "sl": "Sveti Jo\u0161t z Vranskega",
       "en": "Saint Jost from Vransko"
@@ -5348,10 +5522,19 @@
     "duration": 1,
     "height": 935,
     "lead": "M_6_2609.JPG",
-    "multilead": "M_6_2609.JPG",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1326",
+    "multilead": "M_6_2609.JPG",
     "multipath": true,
     "name": "svJost/Lipa",
+    "nearby": [
+      "/hikes/svjost",
+      "/hikes/golivrh_savnice",
+      "/hikes/creta"
+    ],
+    "peak": "46.260617,14.910768",
+    "region": "kamnik-alps",
+    "start": "46.261449,14.893658",
     "title": {
       "sl": "Sveti Jo\u0161t s prevala Lipa",
       "en": "Saint Jost from Lipa"
@@ -5498,9 +5681,7 @@
     "title": {
       "sl": "Sv. Duh in Kri\u017ena gora nad Podkrajem",
       "en": "Kri\u017ena gora above Podkraj"
-    },
-    "x": 427,
-    "y": 82
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -5596,18 +5777,25 @@
       "sl": "Vzhodno od Pivke se na obronkih Javornikov dviga razgledni vrh Svete Trojice, pod katerim naj bi le\u017eal legendarni Vrh od Svete Trojice, dom Martina Krpana.",
       "en": null
     },
-    "dirty": true,
     "duration": 2,
     "height": 1106,
     "lead": "M_3_2393.jpg",
     "map": 1,
+    "maplink": "https://mapzs.projekti.si/poi/1148",
     "name": "SvetaTrojica",
+    "nearby": [
+      "/hikes/javorniki",
+      "/hikes/planinskagora",
+      "/hikes/oblenk",
+      "/hikes/volovjareber"
+    ],
+    "peak": "45.724803,14.271539",
+    "region": "notranjska",
+    "start": "45.724674,14.257749",
     "title": {
       "sl": "Sveta Trojica v Krpanovi de\u017eeli",
       "en": "Saint Trinity"
-    },
-    "x": 444,
-    "y": 65
+    }
   },
   {
     "date": "2010-12-15 00:00:00+00:00",
@@ -5619,13 +5807,22 @@
     "duration": 2,
     "height": 520,
     "lead": "M_0-3048_img.jpg",
+    "maplink": "https://mapzs.projekti.si/path/31629",
     "name": "Kuren",
+    "nearby": [
+      "/hikes/spica",
+      "/biking/vrhnikazaplana",
+      "/biking/zaplanarovte",
+      "/hikes/kozljek",
+      "/hikes/korena"
+    ],
+    "peak": "45.978816,14.265946",
+    "region": "notranjska",
+    "start": "45.973964,14.291890",
     "title": {
       "sl": "Kuren",
       "en": "Kuren"
-    },
-    "x": 444,
-    "y": 93
+    }
   },
   {
     "date": "2003-04-13 00:00:00+00:00",
@@ -5832,10 +6029,10 @@
     "name": "VrhnikaZaplana",
     "nearby": [
       "/hikes/spica",
+      "/hikes/kuren",
       "/biking/zaplanarovte",
       "/hikes/kozljek",
-      "/hikes/korena",
-      "/hikes/korena_samotorica"
+      "/hikes/korena"
     ],
     "region": "notranjska",
     "start": "45.963816,14.275521",
@@ -5922,9 +6119,9 @@
     "nearby": [
       "/hikes/spica",
       "/biking/vrhnikazaplana",
+      "/hikes/kuren",
       "/biking/zibrse",
-      "/biking/zaplanatavzentroza",
-      "/hikes/vs3k"
+      "/biking/zaplanatavzentroza"
     ],
     "region": "notranjska",
     "start": "45.970595,14.235152",

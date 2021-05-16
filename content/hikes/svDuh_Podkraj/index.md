@@ -19,8 +19,6 @@ peak: 45.871767,14.062456
 region: primorska
 start: 45.863937,14.062856
 title: Sv. Duh in Križna gora nad Podkrajem
-x: 427
-y: 82
 ---
 {{<figure src="M_3-3357_IMG.JPG">}}
 

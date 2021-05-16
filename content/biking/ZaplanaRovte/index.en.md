@@ -20,9 +20,9 @@ name: ZaplanaRovte
 nearby:
 - /hikes/spica
 - /biking/vrhnikazaplana
+- /hikes/kuren
 - /biking/zibrse
 - /biking/zaplanatavzentroza
-- /hikes/vs3k
 region: notranjska
 start: 45.970595,14.235152
 title: From Zaplana to Rovte

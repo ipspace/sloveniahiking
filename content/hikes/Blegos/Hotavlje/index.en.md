@@ -6,23 +6,6 @@ description: "One of the longest ascents to Blegoš begins in Hotavlje, a villag
   \ stone. \n"
 duration: 6
 height: 1562
-image:
-- M_4_0464.JPG
-- M_4_0466.JPG
-- M_4_0467.JPG
-- M_4_0469.JPG
-- M_4_0468.JPG
-- M_4_0472.JPG
-- M_4_0476.JPG
-- M_4_0475.JPG
-- M_4_0477.JPG
-- M_4_0480.JPG
-- Razgled_Blegos.jpg
-- M_4_0490.JPG
-- M_4_0493.JPG
-- mapgps.jpg
-- path_1.gif
-- alt.gif
 lead: M_4_0466.JPG
 map: 1
 maplink: https://mapzs.projekti.si/path/32619
@@ -36,6 +19,7 @@ nearby:
 - /hikes/ermanovec
 - /hikes/crnivrhcerkno
 peak: 46.164802,14.113583
+region: gorenjska
 start: 46.124584,14.117533
 title: Blegoš from Hotavlje
 ---

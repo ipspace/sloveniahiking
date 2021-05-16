@@ -12,9 +12,10 @@ nearby:
 - /hikes/spica
 - /biking/vrhnikazaplana
 - /biking/zaplanarovte
+- /hikes/kuren
 - /hikes/vs3k
-- /hikes/kozljek
 peak: 45.971434,14.251496
+region: notranjska
 start: 45.970243,14.235464
 title: Planina from Zaplana
 ---

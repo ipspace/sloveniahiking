@@ -19,8 +19,11 @@ image:
 layout: stub
 lead: M_3_0327.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/34621
 multilead: M_3_0302.JPG
 multipath: true
 name: Kofce/Dolzanka
+peak: 46.417820,14.323948
+region: karavanke
 title: Kofce from Dolžanka meadow
 ---

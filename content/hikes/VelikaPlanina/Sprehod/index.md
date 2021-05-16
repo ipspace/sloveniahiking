@@ -1,16 +1,18 @@
 ---
-date: '2004-08-22T00:00:00'
+date: 2004-08-22 00:00:00+00:00
 delta: 350
 description: Poleti, ko vas na Veliko planino pripelje vzpenjača, lahko uživate njene
   travnike in gozdičke med krajšim družinskim izletom.
 duration: 3
 height: 1666
-lead: M_6_1655.JPG
-multilead: M_6_1655.JPG
 lead: M_3_1378.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/836
+multilead: M_6_1655.JPG
 multipath: true
 name: VelikaPlanina/Sprehod
+peak: 46.298105,14.643921
+region: kamnik-alps
 title: Potepanje po Veliki planini
 ---
 {{<figure src="M_6_1655.JPG">}}

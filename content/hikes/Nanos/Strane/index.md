@@ -7,9 +7,12 @@ duration: 4
 height: 1262
 lead: M_5_0528.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/3080
 multilead: M_5_0528.JPG
 multipath: true
 name: Nanos/Strane
+peak: 45.769507,14.056388
+region: vipava
 title: Nanos iz Stran
 ---
 {{<figure src="M_5_0528.JPG">}}

@@ -6,8 +6,11 @@ height: 1666
 layout: stub
 lead: M_3_1378.JPG
 map: 1
+maplink: https://mapzs.projekti.si/poi/836
 multilead: M_6_1655.JPG
 multipath: true
 name: VelikaPlanina/Sprehod
+peak: 46.298105,14.643921
+region: kamnik-alps
 title: Hiking around Velika planina
 ---

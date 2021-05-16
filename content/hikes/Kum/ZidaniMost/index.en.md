@@ -12,9 +12,12 @@ image:
 - mapgps.jpg
 layout: stub
 lead: M_010046.JPG
+maplink: https://mapzs.projekti.si/poi/1085
 multilead: M_010046.JPG
 multipath: true
 name: Kum/ZidaniMost
+peak: 46.087612,15.072366
 photo_author: Gregor_Skok
+region: posavje
 title: Kum from Zidani Most
 ---

@@ -29,6 +29,7 @@ nearby:
 - /hikes/crnivrhcerkno
 - /hikes/ermanovec
 peak: 46.164802,14.113583
+region: gorenjska
 start: 46.143675,14.105743
 timing:
 - 'Ascent: 2.5 h'
