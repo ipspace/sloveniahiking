@@ -36,6 +36,4 @@ peak: 46.235612,13.793350
 region: julian-alps
 start: 46.229377,13.771512
 title: Razor pasture
-x: 407
-y: 122
 ---

@@ -29,6 +29,4 @@ peak: 45.829279,13.979692
 region: vipava
 start: 45.832270,13.971014
 title: Gradiška Tura
-x: 421
-y: 77
 ---

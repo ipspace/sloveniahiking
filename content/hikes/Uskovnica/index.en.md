@@ -31,6 +31,4 @@ photo_author: Mojca_Lustrek
 region: julian-alps
 start: 46.289737,13.897734
 title: Uskovnica in winter
-x: 416
-y: 131
 ---

@@ -36,6 +36,4 @@ peak: 46.177165,13.974299
 region: primorska
 start: 46.156137,13.944936
 title: Porezen
-x: 421
-y: 115
 ---

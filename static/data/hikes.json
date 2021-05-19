@@ -986,7 +986,6 @@
       "sl": "Uskovnica na robu Pokljuke nad Gornjo Bohinjsko dolino in dolino Voje je izhodi\u0161\u010de za \u0161tevilne izlete in vzpone, priljubljen cilj pohodnikov in smu\u010darjev pa je tudi sama.",
       "en": null
     },
-    "dirty": true,
     "duration": 5,
     "height": 1154,
     "lead": "M_005021110.jpg",
@@ -1006,9 +1005,7 @@
     "title": {
       "sl": "Uskovnica pozimi",
       "en": "Uskovnica in winter"
-    },
-    "x": 416,
-    "y": 131
+    }
   },
   {
     "date": "2004-11-07 00:00:00+00:00",
@@ -1017,7 +1014,6 @@
       "sl": "Po strmih pobo\u010djih Nanosa nad Vipavo je do Gradi\u0161ke Ture speljana najni\u017eja slovenska zavarovana planinska pot, kjer si lahko tudi sredi zime privo\u0161\u010dite \u010dudovite plezalne u\u017eitke.",
       "en": null
     },
-    "dirty": true,
     "duration": 3.5,
     "height": 793,
     "lead": "M_9_1976.JPG",
@@ -1037,9 +1033,7 @@
     "title": {
       "sl": "Gradi\u0161ka Tura",
       "en": "Gradi\u0161ka Tura"
-    },
-    "x": 421,
-    "y": 77
+    }
   },
   {
     "alt": {
@@ -1291,7 +1285,6 @@
       "sl": "Najbolj polo\u017een vzpon na Porezen, travnat vrh, ki kraljuje nad Cerknim, vodi iz Jesenice \u010dez planino Otavnik",
       "en": null
     },
-    "dirty": true,
     "duration": 6,
     "height": 1630,
     "lead": "M_1-6154_IMG.JPG",
@@ -1311,9 +1304,7 @@
     "title": {
       "sl": "Porezen iz Jesenice",
       "en": "Porezen"
-    },
-    "x": 421,
-    "y": 115
+    }
   },
   {
     "date": "2003-09-27 00:00:00+00:00",
@@ -1322,7 +1313,6 @@
       "sl": "Planina Razor je son\u010dna, razgledna planina tik pod strmimi stenami Spodnjih Bohinjskih gora.",
       "en": null
     },
-    "dirty": true,
     "duration": 2.5,
     "height": 1315,
     "lead": "M_1-7133_img.jpg",
@@ -1342,9 +1332,7 @@
     "title": {
       "sl": "Planina Razor",
       "en": "Razor pasture"
-    },
-    "x": 407,
-    "y": 122
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -2021,7 +2009,6 @@
       "sl": "Le nekaj kilometrov vzhodno od Piranskega zaliva se v slovenski Istri dviguje mo\u010dno razbrazdano \u0160avrinsko gri\u010devje, bogato z rekami in poto\u010dki, ki so v fli\u0161na tla izdolbli globoke grape. Po ozna\u010denih poteh piranskega pode\u017eelja si lahko privo\u0161\u010dite obilico izletov; mi si bomo v \u0161tirih urah ogledali tri vasi nad dolino Drnice",
       "en": null
     },
-    "dirty": true,
     "duration": 4,
     "height": 280,
     "lead": "M_2_2830.JPG",
@@ -2101,9 +2088,9 @@
       "sl": "Tinjan je zadnji razgledni hrib, ki ga slovenska planinska pot obi\u0161\u010de preden se dokon\u010dno spusti do morja v bli\u017eini Ankarana.",
       "en": null
     },
-    "dirty": true,
     "duration": 2,
     "height": 374,
+    "lastmod": "2021-05-19 11:59:00",
     "lead": "M_7-4705_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1827",
     "name": "Tinjan_Osp",
@@ -2120,9 +2107,7 @@
     "title": {
       "sl": "Tinjan iz Ospa",
       "en": "Tinjan from Osp"
-    },
-    "x": 409,
-    "y": 47
+    }
   },
   {
     "author": "Joze_Zugelj",
@@ -2328,7 +2313,6 @@
       "sl": "Krstenica je ena od najlep\u0161ih in zaradi svoje odprte lege najbolj razglednih bohinjskih planin.",
       "en": null
     },
-    "dirty": true,
     "duration": 3,
     "height": 1670,
     "lead": "M_5-6554_IMG.JPG",
@@ -2347,9 +2331,7 @@
     "title": {
       "sl": "Krstenica",
       "en": "Krstenica pasture"
-    },
-    "x": 412,
-    "y": 132
+    }
   },
   {
     "date": "2003-03-09 00:00:00+00:00",
@@ -3365,7 +3347,6 @@
       "sl": "Mala gora je razgledna travnata planota, stisnjena med strme apnen\u010daste stene, ki se zahodno od Ajdov\u0161\u010dine dvigujejo nad Vipavsko dolino, in nekoliko vi\u0161ji \u010caven.",
       "en": null
     },
-    "dirty": true,
     "duration": 2,
     "height": 1034,
     "lead": "M_5_2552.JPG",
@@ -3385,9 +3366,7 @@
     "title": {
       "sl": "Mala gora",
       "en": "Mala gora"
-    },
-    "x": 411,
-    "y": 87
+    }
   },
   {
     "date": "2002-05-09 00:00:00+00:00",
@@ -3979,7 +3958,6 @@
       "sl": "Severno od Jesenic se v grebenu Karavank dviguje Golica, travnat vrh, znamenit predvsem zaradi gorskih narcis, ki se v maju razcvetijo na njegovih ju\u017enih pobo\u010djih.",
       "en": null
     },
-    "dirty": true,
     "duration": 5,
     "height": 1835,
     "lead": "M_2_1262.JPG",
@@ -4304,7 +4282,6 @@
       "sl": "Najzahodnej\u0161i slovenski vrh v grebenu \u010crnih hribov ju\u017eno od Vipavske doline je Cerje, neugledna vzpetina, ki bi jo komaj opazili, \u010de ne bi bili pred nekaj leti na njej postavili ogromnega \u00bbobrambnega stolpa\u00ab.",
       "en": null
     },
-    "dirty": true,
     "duration": 1.5,
     "height": 343,
     "lead": "M_6_2633.JPG",
@@ -4320,9 +4297,7 @@
     "title": {
       "sl": "Cerje",
       "en": "Cerje"
-    },
-    "x": 393,
-    "y": 82
+    }
   },
   {
     "date": "2006-08-20 00:00:00+00:00",
@@ -4799,7 +4774,6 @@
       "sl": "Visoko nad Trstom se na robu kra\u0161ke planote nad vasico Socerb dviga istoimenski grad, izpred katerega se odpira \u010dudovit razgled na Tr\u017ea\u0161ki zaliv in slovensko Istro.",
       "en": null
     },
-    "dirty": true,
     "duration": 2,
     "height": 437,
     "lead": "M_7_7717.JPG",
@@ -4819,9 +4793,7 @@
     "title": {
       "sl": "Od Ospa do Socerba",
       "en": "From Osp to Socerb"
-    },
-    "x": 411,
-    "y": 50
+    }
   },
   {
     "date": "2003-08-24 00:00:00+00:00",
