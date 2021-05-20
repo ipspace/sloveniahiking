@@ -1,0 +1,6 @@
+{{ $.Page.Scratch.Set "PeakpointListed" 1 }}
+{{ $start := $.Page.Params.name }}
+{{ $pages := where $.Site.Pages ".Params.peakpoint" "==" $start }}
+{{ range (where $pages ".Params.description" "!=" nil).ByTitle }}
+{{ partial "post-blurb" . }}
+{{ end }}

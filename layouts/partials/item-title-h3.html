@@ -1,0 +1,10 @@
+<h3 class='post__title' itemprop='name headline'>
+  <a href="{{ .Permalink }}">{{ replace .Title "(on a bike)" "" }}</a>
+  {{ if eq .Section "biking" }}
+    {{ if .Params.length }}
+      ({{.Params.length}}&nbsp;km{{ with .Params.delta}},&nbsp;Δ={{ . }}&nbsp;m{{end}})
+    {{ end }}
+  {{ else }}
+  ({{ .Params.delta }}&nbsp;m,&nbsp;{{ .Params.duration }}&nbsp;{{ i18n "hour" (int .Params.duration) }})
+  {{ end }}
+</h3>
