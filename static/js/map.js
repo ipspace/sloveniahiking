@@ -73,9 +73,13 @@ function processHikeData(json,map,lang) {
   console.log(map);
 
   for (const hike_data of json) {
+    console.log(hike_data.name)
     if (hike_data.start || hike_data.peak || hike_data.center) {
       var loc = hike_data.multipath ? hike_data.start : hike_data.peak
       loc ||= hike_data.center || hike_data.start
+      if (!loc) {
+        continue;
+      }
       var latlon = loc.split(',')
       point = new ol.Feature({
                 geometry: new ol.geom.Point(ol.proj.fromLonLat([latlon[1],latlon[0]])),
