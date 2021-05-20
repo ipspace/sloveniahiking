@@ -22,12 +22,16 @@ Slavnik is the highest peak of the Slavnik range, the last mountain range before
 
 The shortest routes to Slavnik lead from Podgorje, a small karst village south-west of the mountain. From this starting-point you can reach your goal by the Steep path (which deserves its name), the Gentle path (where you hardly even shed a drop of sweat) or an abundance of little paths and cart-tracks which ascend across the slopes of Slavnik.
 
-### Views from the top
+### Views from the Top
 
 {{<figure src="TrnovskiGozd_Nanos.jpg" caption="View toward the north (Trnovski gozd, Nanos and Vremščica)">}} 
 
 {{<figure src="Pogled_vzhod.jpg" caption="Karst hills and meadows east of Slavnik" caption-position="bottom">}}
 
-## Choose a path
+## Choose a Hiking Path
 
 {{<multipath-hike-short>}}
+
+## Other Options
+
+{{<peakpoint-list>}}
