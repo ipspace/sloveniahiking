@@ -17,9 +17,9 @@ name: Tinjan_Osp
 nearby:
 - /hikes/socerb
 - /hikes/zgornjikras
+- /biking/rizanapraproce
 - /biking/marezigetrsek
 - /hikes/lacna
-- /biking/marezigeborst
 peak: 45.561375,13.835055
 region: istria
 start: 45.571298,13.857212

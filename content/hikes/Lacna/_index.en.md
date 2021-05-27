@@ -10,10 +10,10 @@ maplink: https://mapzs.projekti.si/poi/1656
 name: Lacna
 nearby:
 - /hikes/kuk
+- /biking/rizanapraproce
 - /hikes/hrastovljezazid
 - /biking/marezigetrsek
 - /hikes/podgorje
-- /hikes/tinjan_osp
 peak: 45.504969,13.885283
 region: istria
 title: Lačna

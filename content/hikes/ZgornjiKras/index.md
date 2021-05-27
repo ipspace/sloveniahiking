@@ -21,8 +21,8 @@ nearby:
 - /hikes/socerb
 - /hikes/kokos
 - /hikes/tinjan_osp
+- /biking/rizanapraproce
 - /hikes/lacna
-- /hikes/hrastovljezazid
 peak: 45.601636,13.875859
 region: istria
 start: 45.588664,13.866753

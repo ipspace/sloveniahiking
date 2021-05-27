@@ -14,8 +14,8 @@ nearby:
 - /hikes/lacna
 - /biking/marezigetrsek
 - /hikes/kuk
+- /biking/rizanapraproce
 - /hikes/hrastovljezazid
-- /hikes/tinjan_osp
 peak: 45.504969,13.885283
 region: istria
 start: 45.502752,13.874163

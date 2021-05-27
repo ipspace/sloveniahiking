@@ -12,10 +12,10 @@ multipath: true
 name: Slavnik/Presnica
 nearby:
 - /hikes/podgorje
+- /biking/rizanapraproce
 - /hikes/slavnik
 - /hikes/zgornjikras
 - /hikes/hrastovljezazid
-- /hikes/lacna
 peak: 45.533685,13.975236
 region: istria
 start: 45.571174,13.938894

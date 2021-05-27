@@ -65,10 +65,10 @@
     "name": "Slavnik/Presnica",
     "nearby": [
       "/hikes/podgorje",
+      "/biking/rizanapraproce",
       "/hikes/slavnik",
       "/hikes/zgornjikras",
-      "/hikes/hrastovljezazid",
-      "/hikes/lacna"
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -723,7 +723,8 @@
       "/hikes/hrastovljezazid",
       "/hikes/kuk",
       "/hikes/podgorje",
-      "/hikes/slavnik"
+      "/hikes/slavnik",
+      "/biking/rizanapraproce"
     ],
     "peak": "45.479620,13.966214",
     "region": "istria",
@@ -2097,9 +2098,9 @@
     "nearby": [
       "/hikes/socerb",
       "/hikes/zgornjikras",
+      "/biking/rizanapraproce",
       "/biking/marezigetrsek",
-      "/hikes/lacna",
-      "/biking/marezigeborst"
+      "/hikes/lacna"
     ],
     "peak": "45.561375,13.835055",
     "region": "istria",
@@ -2271,8 +2272,8 @@
       "/hikes/socerb",
       "/hikes/kokos",
       "/hikes/tinjan_osp",
-      "/hikes/lacna",
-      "/hikes/hrastovljezazid"
+      "/biking/rizanapraproce",
+      "/hikes/lacna"
     ],
     "peak": "45.601636,13.875859",
     "region": "istria",
@@ -3737,8 +3738,8 @@
       "/hikes/hrastovljezazid",
       "/hikes/lacna",
       "/hikes/lipnik",
-      "/hikes/podgorje",
-      "/hikes/slavnik"
+      "/biking/rizanapraproce",
+      "/hikes/podgorje"
     ],
     "peak": "45.485013,13.917515",
     "region": "istria",
@@ -4668,10 +4669,10 @@
     "name": "Lacna/Kubed",
     "nearby": [
       "/hikes/lacna",
+      "/biking/rizanapraproce",
       "/biking/marezigetrsek",
       "/hikes/hrastovljezazid",
-      "/hikes/kuk",
-      "/hikes/tinjan_osp"
+      "/hikes/kuk"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -4700,8 +4701,8 @@
       "/hikes/lacna",
       "/biking/marezigetrsek",
       "/hikes/kuk",
-      "/hikes/hrastovljezazid",
-      "/hikes/tinjan_osp"
+      "/biking/rizanapraproce",
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -4723,10 +4724,10 @@
     "name": "Lacna",
     "nearby": [
       "/hikes/kuk",
+      "/biking/rizanapraproce",
       "/hikes/hrastovljezazid",
       "/biking/marezigetrsek",
-      "/hikes/podgorje",
-      "/hikes/tinjan_osp"
+      "/hikes/podgorje"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -4755,9 +4756,9 @@
     "nearby": [
       "/hikes/lacna",
       "/hikes/hrastovljezazid",
+      "/biking/rizanapraproce",
       "/hikes/kuk",
-      "/hikes/podgorje",
-      "/hikes/lipnik"
+      "/hikes/podgorje"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -4784,8 +4785,8 @@
       "/hikes/zgornjikras",
       "/hikes/tinjan_osp",
       "/hikes/kokos",
-      "/hikes/lacna",
-      "/biking/marezigetrsek"
+      "/biking/rizanapraproce",
+      "/hikes/lacna"
     ],
     "peak": "45.589477,13.860844",
     "region": "istria",
@@ -5132,8 +5133,8 @@
       "/hikes/zgornjikras",
       "/hikes/socerb",
       "/hikes/tinjan_osp",
-      "/hikes/podgorje",
-      "/hikes/lacna"
+      "/biking/rizanapraproce",
+      "/hikes/podgorje"
     ],
     "peak": "45.644495,13.899890",
     "region": "karst",
@@ -5590,7 +5591,7 @@
       "/hikes/lipnik",
       "/hikes/podgorje",
       "/hikes/lacna",
-      "/hikes/slavnik"
+      "/biking/rizanapraproce"
     ],
     "peak": "45.500573,13.932688",
     "region": "istria",
@@ -5730,10 +5731,10 @@
     "name": "Podgorje",
     "nearby": [
       "/hikes/slavnik",
+      "/biking/rizanapraproce",
       "/hikes/hrastovljezazid",
       "/hikes/kuk",
-      "/hikes/lacna",
-      "/hikes/lipnik"
+      "/hikes/lacna"
     ],
     "peak": "45.531420,13.947151",
     "region": "istria",
@@ -6128,6 +6129,36 @@
     "video": "https://www.relive.cc/view/vdvmDAB81xq/",
     "type": "biking",
     "center": "45.973357,14.207557"
+  },
+  {
+    "date": "2021-05-27 13:20:47+00:00",
+    "delta": "450",
+    "description": {
+      "en": "Hordes of tourists visiting the famous church in Hrastovlje might spend a few seconds admiring the rocky cliffs high above the village. We'll explore them, and the lovely meadows north of the Karst Edge."
+    },
+    "difficulty": "Steep mix of asphalt and gravel roads with an optional overgrown dirt track.",
+    "duration": "2.5",
+    "height": "450",
+    "layout": "structured",
+    "lead": "M_20210527_111914.jpg",
+    "length": "14.8",
+    "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.5338&lon=13.90097&layers=B0000",
+    "name": "RizanaPraproce",
+    "nearby": [
+      "/hikes/lacna",
+      "/hikes/podgorje",
+      "/hikes/hrastovljezazid",
+      "/hikes/kuk",
+      "/hikes/tinjan_osp"
+    ],
+    "region": "istria",
+    "start": "45.523654,13.889561",
+    "title": {
+      "en": "Karst Edge and Prapro\u010de from Ri\u017eana Valley"
+    },
+    "video": "https://www.relive.cc/view/vZqNnQ5m93q/",
+    "type": "biking",
+    "center": "45.534079,13.902155"
   },
   {
     "date": "2021-05-04 15:33:16+00:00",

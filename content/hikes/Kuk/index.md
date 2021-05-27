@@ -29,8 +29,8 @@ nearby:
 - /hikes/hrastovljezazid
 - /hikes/lacna
 - /hikes/lipnik
+- /biking/rizanapraproce
 - /hikes/podgorje
-- /hikes/slavnik
 peak: 45.485013,13.917515
 region: istria
 start: 45.509500,13.900605

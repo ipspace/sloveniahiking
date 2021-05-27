@@ -8,10 +8,10 @@ maplink: https://mapzs.projekti.si/poi/1531
 name: Podgorje
 nearby:
 - /hikes/slavnik
+- /biking/rizanapraproce
 - /hikes/hrastovljezazid
 - /hikes/kuk
 - /hikes/lacna
-- /hikes/lipnik
 peak: 45.531420,13.947151
 region: istria
 title: Podgorje

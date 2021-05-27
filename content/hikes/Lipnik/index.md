@@ -16,6 +16,7 @@ nearby:
 - /hikes/kuk
 - /hikes/podgorje
 - /hikes/slavnik
+- /biking/rizanapraproce
 peak: 45.479620,13.966214
 region: istria
 start: 45.499389,13.931462
