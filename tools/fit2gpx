@@ -262,7 +262,7 @@ def transform(parsed,cmds):
   while len(cmds):
     cmd = cmds.pop(0)
     if cmd == 'laps':
-      parsed = extract_laps(parsed,get_lat_lon(cmds.pop(0)))
+      parsed = extract_laps(parsed,cmds.pop(0))
     elif cmd == 'date':
       adjust_date(parsed,get_lat_lon(cmds.pop(0)))
     elif cmd == 'cut':
