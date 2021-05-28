@@ -2184,6 +2184,15 @@
       "en": null
     },
     "duration": 3.5,
+    "gpx": {
+      "center": {
+        "lat": 45.76859087219149,
+        "lon": 14.049830832243337
+      },
+      "file": "RazdrtoNanos.gpx",
+      "modified": 1622212780,
+      "zoom": 14
+    },
     "height": 1262,
     "lastmod": "2021-02-13 10:31:00",
     "lead": "M_1_0184.JPG",
