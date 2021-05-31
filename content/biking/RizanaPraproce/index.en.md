@@ -13,6 +13,7 @@ gpx:
     lon: 13.902154861524675
   file: Rizana.gpx
   modified: 1622122291
+  zoom: 14
 height: '450'
 layout: structured
 lead: M_20210527_111914.jpg

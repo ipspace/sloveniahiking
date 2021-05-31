@@ -10,6 +10,7 @@ maplink: https://mapzs.projekti.si/poi/55911
 name: Pedrovo
 nearby:
 - /hikes/trstelj_dornberk
+- /biking/path9ponds
 - /hikes/skoljsvpavla
 - /hikes/velikirob
 - /hikes/kucelj

@@ -4438,6 +4438,7 @@
     "name": "Pedrovo",
     "nearby": [
       "/hikes/trstelj_dornberk",
+      "/biking/path9ponds",
       "/hikes/skoljsvpavla",
       "/hikes/velikirob",
       "/hikes/kucelj"
@@ -5910,9 +5911,9 @@
     },
     "difficulty": "Reasonably steep ascent (~10 %) on asphalt roads. Gravel road to the church of Sv. Socerb. Downhill dirt track toward Podraga.",
     "duration": "2.5",
-    "height": "550",
+    "height": "580",
     "lead": "M_20210531_113148.jpg",
-    "length": "17",
+    "length": "17.3",
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.78557&lon=13.93481&layers=B0000",
     "name": "PodnanosSocerb",
     "nearby": [
@@ -5927,6 +5928,7 @@
     "title": {
       "en": "Vipavska Brda (Vipava Hills) from Podnanos"
     },
+    "video": "https://www.relive.cc/view/vrqo8NX7zKv/",
     "type": "biking",
     "center": "45.786756,13.952031"
   },
@@ -6195,6 +6197,36 @@
     "video": "https://www.relive.cc/view/vZqNnQ5m93q/",
     "type": "biking",
     "center": "45.534079,13.902155"
+  },
+  {
+    "date": "2021-05-31 19:17:09+00:00",
+    "delta": "100",
+    "description": {
+      "en": "This is not my lame attempt at reaching Zen... the farmers in Slovenian Karst used ponds with clay bottom to collect rainwater, and there's a nice path linking nine of those ponds as well as several small caves around Kobjeglava and Tupel\u010de."
+    },
+    "difficulty": "Gravel roads with a few short steeper sections. Suitable for a family hike/biking tour.",
+    "duration": "1",
+    "height": "340",
+    "layout": "structured",
+    "lead": "M_20210531_180603.jpg",
+    "length": "1",
+    "maplink": "https://www.visitkras.info/en/trail-of-nine-ponds",
+    "name": "Path9Ponds",
+    "nearby": [
+      "/hikes/pedrovo",
+      "/hikes/skoljsvpavla",
+      "/hikes/malagora",
+      "/hikes/kucelj",
+      "/hikes/caven"
+    ],
+    "region": "karst",
+    "start": "45.814512,13.810002",
+    "title": {
+      "en": "The Path of Nine Ponds"
+    },
+    "video": "https://www.relive.cc/view/vNOPr8dDW2q/",
+    "type": "biking",
+    "center": "45.819484,13.806326"
   },
   {
     "date": "2021-05-04 15:33:16+00:00",
