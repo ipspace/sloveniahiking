@@ -24,9 +24,9 @@ name: GradiskaTura
 nearby:
 - /hikes/svmiklavz_vipava
 - /hikes/plaz
+- /biking/podnanossocerb
 - /hikes/soncnica
 - /hikes/kovk
-- /hikes/starababa
 peak: 45.829279,13.979692
 region: vipava
 start: 45.832270,13.971014

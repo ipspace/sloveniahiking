@@ -19,9 +19,9 @@ name: svMiklavz_Vipava
 nearby:
 - /hikes/gradiskatura
 - /hikes/plaz
+- /biking/podnanossocerb
 - /hikes/soncnica
 - /hikes/kovk
-- /hikes/starababa
 peak: 45.819506,13.982114
 region: vipava
 start: 45.832270,13.971014
