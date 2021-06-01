@@ -12,8 +12,8 @@ nearby:
 - /hikes/trstelj_dornberk
 - /biking/path9ponds
 - /hikes/skoljsvpavla
+- /biking/hrusevicakosovelje
 - /hikes/velikirob
-- /hikes/kucelj
 peak: 45.856958,13.762335
 region: karst
 title: Branik - Pedrovo

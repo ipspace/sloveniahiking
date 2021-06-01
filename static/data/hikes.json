@@ -4440,8 +4440,8 @@
       "/hikes/trstelj_dornberk",
       "/biking/path9ponds",
       "/hikes/skoljsvpavla",
-      "/hikes/velikirob",
-      "/hikes/kucelj"
+      "/biking/hrusevicakosovelje",
+      "/hikes/velikirob"
     ],
     "peak": "45.856958,13.762335",
     "region": "karst",
@@ -6040,6 +6040,35 @@
     "center": "45.942805,14.165148"
   },
   {
+    "date": "2021-06-01 09:07:16+00:00",
+    "delta": "160",
+    "description": {
+      "en": "It's easy to meander around Slovenian Karst on a bike as it's crisscrossed with paved roads. Still, it's more interesting to stay on gravel roads and try to find old overgrown dirt tracks, this time taking us from Hru\u0161evica to Kosovelje."
+    },
+    "difficulty": "From gravel roads to footpaths, with an occasional stretch of asphalt or two.",
+    "duration": "2",
+    "height": "300",
+    "lead": "M_20210601_084119.jpg",
+    "length": "17.7",
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.79436&lon=13.80662&layers=B0000",
+    "name": "HrusevicaKosovelje",
+    "nearby": [
+      "/biking/path9ponds",
+      "/hikes/pedrovo",
+      "/hikes/skoljsvpavla",
+      "/hikes/malagora",
+      "/hikes/kucelj"
+    ],
+    "region": "karst",
+    "start": "45.810886,13.828548",
+    "title": {
+      "en": "Exploring Karst: From Hru\u0161evica to Kosovelje"
+    },
+    "video": "https://www.relive.cc/view/v8qV97rgo76/",
+    "type": "biking",
+    "center": "45.797280,13.808684"
+  },
+  {
     "title": {
       "en": "Biking in Slovenia"
     },
@@ -6213,11 +6242,11 @@
     "maplink": "https://www.visitkras.info/en/trail-of-nine-ponds",
     "name": "Path9Ponds",
     "nearby": [
+      "/biking/hrusevicakosovelje",
       "/hikes/pedrovo",
       "/hikes/skoljsvpavla",
       "/hikes/malagora",
-      "/hikes/kucelj",
-      "/hikes/caven"
+      "/hikes/kucelj"
     ],
     "region": "karst",
     "start": "45.814512,13.810002",

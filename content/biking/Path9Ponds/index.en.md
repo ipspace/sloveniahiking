@@ -22,11 +22,11 @@ length: '1'
 maplink: https://www.visitkras.info/en/trail-of-nine-ponds
 name: Path9Ponds
 nearby:
+- /biking/hrusevicakosovelje
 - /hikes/pedrovo
 - /hikes/skoljsvpavla
 - /hikes/malagora
 - /hikes/kucelj
-- /hikes/caven
 region: karst
 start: 45.814512,13.810002
 title: The Path of Nine Ponds
