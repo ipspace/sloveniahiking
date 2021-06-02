@@ -4437,11 +4437,11 @@
     "maplink": "https://mapzs.projekti.si/poi/55911",
     "name": "Pedrovo",
     "nearby": [
+      "/biking/lukovecmalidol",
       "/hikes/trstelj_dornberk",
       "/biking/path9ponds",
       "/hikes/skoljsvpavla",
-      "/biking/hrusevicakosovelje",
-      "/hikes/velikirob"
+      "/biking/hrusevicakosovelje"
     ],
     "peak": "45.856958,13.762335",
     "region": "karst",
@@ -6010,6 +6010,36 @@
     "center": "45.527012,13.961062"
   },
   {
+    "date": "2021-06-02 11:23:41+00:00",
+    "delta": "290",
+    "description": {
+      "en": "This time we'll explore the forests and meadows at the northern edge of the Karst plateau, north of Kobjeglava and Komen. We'll pass Lukovec and try to find our way through the narrow streets of Mali Dol."
+    },
+    "difficulty": "A leisurely ride on a mix of gravel roads, dirt roads, and single-tracks. Expect a few steeper sections.",
+    "duration": "2",
+    "height": "393",
+    "layout": "structured",
+    "lead": "M_20210602_073047.jpg",
+    "length": "17.5",
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.82403&lon=13.79297&layers=B0000",
+    "name": "LukovecMaliDol",
+    "nearby": [
+      "/biking/path9ponds",
+      "/biking/hrusevicakosovelje",
+      "/hikes/pedrovo",
+      "/hikes/skoljsvpavla",
+      "/hikes/malagora"
+    ],
+    "region": "karst",
+    "start": "45.818412,13.825455",
+    "title": {
+      "en": "Exploring Karst: Lukovec and Mali Dol"
+    },
+    "video": "https://www.relive.cc/view/vAOZPG9V5yq/",
+    "type": "biking",
+    "center": "45.828081,13.798392"
+  },
+  {
     "date": "2021-05-09 16:11:30+00:00",
     "delta": 400,
     "description": {
@@ -6054,10 +6084,10 @@
     "name": "HrusevicaKosovelje",
     "nearby": [
       "/biking/path9ponds",
+      "/biking/lukovecmalidol",
       "/hikes/pedrovo",
       "/hikes/skoljsvpavla",
-      "/hikes/malagora",
-      "/hikes/kucelj"
+      "/hikes/malagora"
     ],
     "region": "karst",
     "start": "45.810886,13.828548",
@@ -6242,11 +6272,11 @@
     "maplink": "https://www.visitkras.info/en/trail-of-nine-ponds",
     "name": "Path9Ponds",
     "nearby": [
+      "/biking/lukovecmalidol",
       "/biking/hrusevicakosovelje",
       "/hikes/pedrovo",
       "/hikes/skoljsvpavla",
-      "/hikes/malagora",
-      "/hikes/kucelj"
+      "/hikes/malagora"
     ],
     "region": "karst",
     "start": "45.814512,13.810002",

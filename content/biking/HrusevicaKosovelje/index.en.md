@@ -20,10 +20,10 @@ maplink: https://www.opencyclemap.org/?zoom=14&lat=45.79436&lon=13.80662&layers=
 name: HrusevicaKosovelje
 nearby:
 - /biking/path9ponds
+- /biking/lukovecmalidol
 - /hikes/pedrovo
 - /hikes/skoljsvpavla
 - /hikes/malagora
-- /hikes/kucelj
 region: karst
 start: 45.810886,13.828548
 title: 'Exploring Karst: From Hruševica to Kosovelje'

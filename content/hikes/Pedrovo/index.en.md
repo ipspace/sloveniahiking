@@ -9,11 +9,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/55911
 name: Pedrovo
 nearby:
+- /biking/lukovecmalidol
 - /hikes/trstelj_dornberk
 - /biking/path9ponds
 - /hikes/skoljsvpavla
 - /biking/hrusevicakosovelje
-- /hikes/velikirob
 peak: 45.856958,13.762335
 region: karst
 title: Branik - Pedrovo

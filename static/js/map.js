@@ -163,6 +163,10 @@ function createGPXMap(divname,lat,lon,zoom,gpx) {
     center: ol.proj.fromLonLat([parseFloat(lon),parseFloat(lat)]),
     zoom: zoom})
   });
+  gpx_map.on("singleclick",function(event) {
+    LonLat = ol.proj.toLonLat(event.coordinate)
+    console.log(LonLat[1].toFixed(6)+","+LonLat[0].toFixed(6));
+  });
 }
 
 
