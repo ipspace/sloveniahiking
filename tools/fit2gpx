@@ -35,6 +35,9 @@ def writeGpxFile(points,fname):
     gpoint = gpxpy.gpx.GPXTrackPoint(latitude=p['lat'], longitude=p['lon'],
                                       time=p['timestamp'], elevation=p['elevation'])
     segment.points.append(gpoint)
+    if "end_segment" in p:
+      segment = gpxpy.gpx.GPXTrackSegment()
+      track.segments.append(segment)
 
   print("Creating output file %s with %d points" % (fname,len(points)))
   with open(fname,"w") as out:
@@ -211,6 +214,23 @@ def start(parsed,LATLON):
 
   return { 'track' : track }
 
+def skip(parsed,SKIP_START,SKIP_END):
+  start_idx = find_closest(parsed['track'],SKIP_START,0,1)
+  if not start_idx:
+    print("Cannot find the starting point")
+    return parsed
+
+  end_idx = find_closest(parsed['track'],SKIP_END,start_idx["best"],1)
+  if not end_idx:
+    print("Cannot find the stopping point")
+    return parsed
+
+  track = parsed['track'][:start_idx["best"]]
+  track[-1]['end_segment'] = True
+
+  track.extend(parsed['track'][end_idx["best"]:])
+  return { 'track' : track }
+
 def cmd_usage():
   print("""
 Transformation commands:
@@ -232,6 +252,9 @@ cut LAT,LON
 trim LAT,LON
   use to remove getting to a starting point and back. The FIT data is ignored until it
   comes closest to the specified point. The same procedure is applied to the track tail.
+
+skip LAT,LON LAT,LON
+  Skip the track between first and second coordinate, creating two tracks.
   """)
   sys.exit(0)
 
@@ -271,6 +294,8 @@ def transform(parsed,cmds):
       parsed = trim(parsed,get_lat_lon(cmds.pop(0)))
     elif cmd == 'start':
       parsed = start(parsed,get_lat_lon(cmds.pop(0)))
+    elif cmd == 'skip':
+      parsed = skip(parsed,get_lat_lon(cmds.pop(0)),get_lat_lon(cmds.pop(0)))
     elif cmd == 'help':
       cmd_usage()
     else:
