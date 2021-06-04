@@ -11,10 +11,10 @@ maplink: https://mapzs.projekti.si/poi/3908
 name: svLovrenc
 nearby:
 - /hikes/oblenk
+- /biking/hrusicapolsak
 - /hikes/planinskagora
 - /hikes/hrusica
 - /biking/zibrse
-- /biking/zaplanatavzentroza
 peak: 45.839190,14.168374
 region: notranjska
 title: Sv. Lovrenc nad Studenom

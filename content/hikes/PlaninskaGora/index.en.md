@@ -16,9 +16,9 @@ name: PlaninskaGora
 nearby:
 - /hikes/oblenk
 - /hikes/svlovrenc
+- /biking/hrusicapolsak
 - /hikes/javorniki
 - /hikes/svetatrojica
-- /biking/zibrse
 peak: 45.837401,14.233887
 region: notranjska
 start: 45.836412,14.255054

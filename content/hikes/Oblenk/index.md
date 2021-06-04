@@ -11,9 +11,9 @@ name: Oblenk
 nearby:
 - /hikes/planinskagora
 - /hikes/svlovrenc
+- /biking/hrusicapolsak
 - /biking/zibrse
 - /hikes/svetatrojica
-- /biking/vrhnikazaplana
 peak: 45.834089,14.213203
 region: notranjska
 start: 45.825786,14.236644

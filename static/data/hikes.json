@@ -2416,9 +2416,9 @@
     "nearby": [
       "/hikes/oblenk",
       "/hikes/svlovrenc",
+      "/biking/hrusicapolsak",
       "/hikes/javorniki",
-      "/hikes/svetatrojica",
-      "/biking/zibrse"
+      "/hikes/svetatrojica"
     ],
     "peak": "45.837401,14.233887",
     "region": "notranjska",
@@ -2707,8 +2707,8 @@
       "/hikes/svlovrenc",
       "/hikes/oblenk",
       "/hikes/hrusica",
-      "/biking/zibrse",
-      "/biking/zaplanatavzentroza"
+      "/biking/hrusicapolsak",
+      "/biking/zibrse"
     ],
     "peak": "45.839190,14.168374",
     "region": "notranjska",
@@ -2738,8 +2738,8 @@
       "/hikes/svlovrenc",
       "/hikes/oblenk",
       "/hikes/planinskagora",
-      "/hikes/hrusica",
-      "/biking/zibrse"
+      "/biking/hrusicapolsak",
+      "/hikes/hrusica"
     ],
     "path": "http://www.hribi.net/izlet/studeno_gora_sveti_lovrenc_/26/804/1432",
     "peak": "45.839000,14.167335",
@@ -2768,10 +2768,10 @@
     "name": "svLovrenc",
     "nearby": [
       "/hikes/oblenk",
+      "/biking/hrusicapolsak",
       "/hikes/planinskagora",
       "/hikes/hrusica",
-      "/biking/zibrse",
-      "/biking/zaplanatavzentroza"
+      "/biking/zibrse"
     ],
     "peak": "45.839190,14.168374",
     "region": "notranjska",
@@ -3999,9 +3999,9 @@
     "nearby": [
       "/hikes/planinskagora",
       "/hikes/svlovrenc",
+      "/biking/hrusicapolsak",
       "/biking/zibrse",
-      "/hikes/svetatrojica",
-      "/biking/vrhnikazaplana"
+      "/hikes/svetatrojica"
     ],
     "peak": "45.834089,14.213203",
     "region": "notranjska",
@@ -6040,6 +6040,36 @@
     "center": "45.828081,13.798392"
   },
   {
+    "date": "2021-06-04 15:59:43+00:00",
+    "delta": 420,
+    "description": {
+      "en": "We'll start in Kalce, bike through the forests on the slopes of Hru\u0161ica, drop by a renovated homestead in the middle of nowhere, and visit the ruins of a Roman fortress. Take this tour when you need to clear your head, de-stress, or mull over new ideas. You won't be disturbed by traffic, hikers, or spectacular views."
+    },
+    "difficulty": "Gravel roads. Expect a bit of huffing and puffing.",
+    "duration": "2",
+    "height": "600",
+    "layout": "structured",
+    "lead": "M_20210603_101503.jpg",
+    "length": 19.2,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.87497&lon=14.19897&layers=B0000",
+    "name": "HrusicaPolsak",
+    "nearby": [
+      "/hikes/svlovrenc",
+      "/hikes/oblenk",
+      "/hikes/planinskagora",
+      "/biking/zibrse",
+      "/biking/zaplanarovte"
+    ],
+    "region": "notranjska",
+    "start": "45.894845,14.189669",
+    "title": {
+      "en": "Exploring Hru\u0161ica: Pol\u0161ak Hut and Roman Fortress"
+    },
+    "video": "https://www.relive.cc/view/vJOKgwD9k5O/",
+    "type": "biking",
+    "center": "45.876271,14.184730"
+  },
+  {
     "date": "2021-05-09 16:11:30+00:00",
     "delta": 400,
     "description": {
@@ -6057,8 +6087,8 @@
       "/biking/zaplanatavzentroza",
       "/biking/zaplanarovte",
       "/hikes/vs3k",
-      "/hikes/hrusica",
-      "/hikes/goropeke"
+      "/biking/hrusicapolsak",
+      "/hikes/hrusica"
     ],
     "region": "notranjska",
     "start": "45.958404,14.191024",
