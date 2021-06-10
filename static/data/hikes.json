@@ -68,7 +68,7 @@
       "/biking/rizanapraproce",
       "/hikes/slavnik",
       "/hikes/zgornjikras",
-      "/hikes/hrastovljezazid"
+      "/hikes/socerb"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -95,9 +95,10 @@
     "name": "Slavnik/Markovscina",
     "nearby": [
       "/hikes/slavnik",
+      "/hikes/podgorje",
       "/hikes/ostric",
-      "/hikes/lipnik",
-      "/hikes/vremscica"
+      "/hikes/hrastovljezazid",
+      "/hikes/lipnik"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -145,6 +146,7 @@
     "nearby": [
       "/hikes/podgorje",
       "/hikes/hrastovljezazid",
+      "/biking/rizanapraproce",
       "/hikes/lipnik",
       "/hikes/kuk"
     ],
@@ -220,7 +222,9 @@
     "nearby": [
       "/hikes/baba",
       "/hikes/kozjivrh",
-      "/hikes/stegovnik"
+      "/hikes/kalskigreben",
+      "/hikes/zvoh",
+      "/hikes/ambroz"
     ],
     "peak": "46.315115,14.440824",
     "region": "kamnik-alps",
@@ -307,9 +311,10 @@
     "name": "Raduha/Loka",
     "nearby": [
       "/hikes/raduha",
+      "/hikes/strelovec",
       "/hikes/velikirogac",
-      "/hikes/peca",
-      "/hikes/kranjskareber"
+      "/hikes/klemencajama",
+      "/hikes/peca"
     ],
     "peak": "46.409848,14.737603",
     "region": "kamnik-alps",
@@ -352,9 +357,11 @@
     "maplink": "https://mapzs.projekti.si/poi/118",
     "name": "Raduha",
     "nearby": [
+      "/hikes/strelovec",
+      "/hikes/klemencajama",
       "/hikes/velikirogac",
       "/hikes/peca",
-      "/hikes/kranjskareber"
+      "/hikes/konj"
     ],
     "peak": "46.409848,14.737603",
     "region": "kamnik-alps",
@@ -378,10 +385,10 @@
     "name": "SkrbinaKuk",
     "nearby": [
       "/hikes/sebrelje",
-      "/hikes/kobiljaglava",
-      "/hikes/maligolak",
-      "/hikes/vogelvrh",
-      "/hikes/vogel"
+      "/hikes/rodne",
+      "/hikes/kojca",
+      "/hikes/bevkovvrh",
+      "/hikes/kobiljaglava"
     ],
     "peak": "46.092487,13.853752",
     "region": "primorska",
@@ -407,7 +414,10 @@
     "name": "Creta",
     "nearby": [
       "/hikes/svjost",
-      "/hikes/krvavica"
+      "/hikes/golivrh_savnice",
+      "/hikes/krvavica",
+      "/hikes/goraoljka_polzela",
+      "/hikes/mrzlica"
     ],
     "peak": "46.279198,14.960822",
     "region": "kamnik-alps",
@@ -526,7 +536,7 @@
       "/hikes/bevkovvrh",
       "/hikes/mrzlivrh_ziri",
       "/hikes/slajka",
-      "/hikes/vrsnik_ziri"
+      "/hikes/javorc"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -581,7 +591,7 @@
       "/hikes/bevkovvrh",
       "/hikes/mrzlivrh_ziri",
       "/hikes/crnivrhcerkno",
-      "/hikes/blegos"
+      "/hikes/javorc"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -612,7 +622,7 @@
       "/hikes/ermanovec",
       "/hikes/crnivrhcerkno",
       "/hikes/blegos",
-      "/hikes/mrzlivrh_ziri"
+      "/hikes/bevkovvrh"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -669,8 +679,10 @@
     "name": "Stegovnik",
     "nearby": [
       "/hikes/kozjivrh",
+      "/hikes/kladivo",
+      "/hikes/kofce",
       "/hikes/svjakob_preddvor",
-      "/hikes/baba"
+      "/hikes/velikivrh"
     ],
     "peak": "46.395233,14.419961",
     "photo_author": "Milos_Kobe",
@@ -695,7 +707,13 @@
     "lead": "M_9_1992.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1203",
     "name": "Ostric",
-    "nearby": [],
+    "nearby": [
+      "/hikes/lipnik",
+      "/hikes/slavnik",
+      "/hikes/podgorje",
+      "/hikes/hrastovljezazid",
+      "/hikes/kuk"
+    ],
     "peak": "45.491474,14.073402",
     "region": "istria",
     "start": "45.505571,14.056139",
@@ -724,7 +742,7 @@
       "/hikes/kuk",
       "/hikes/podgorje",
       "/hikes/slavnik",
-      "/biking/rizanapraproce"
+      "/hikes/lacna"
     ],
     "peak": "45.479620,13.966214",
     "region": "istria",
@@ -782,7 +800,7 @@
       "/hikes/tosc",
       "/hikes/polhograjskagrmada",
       "/hikes/polhograjskagora",
-      "/hikes/korena"
+      "/hikes/bukovvrh"
     ],
     "peak": "46.135750,14.301741",
     "region": "gorenjska",
@@ -804,7 +822,12 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5651",
     "name": "svVid_Catez",
-    "nearby": [],
+    "nearby": [
+      "/hikes/podbohorjem",
+      "/hikes/gospodicna",
+      "/hikes/brunk",
+      "/hikes/smuk"
+    ],
     "peak": "45.884909,15.597638",
     "region": "dolenjska",
     "title": {
@@ -859,13 +882,13 @@
     "nearby": [
       "/hikes/crnivrhcerkno",
       "/hikes/porezen",
+      "/hikes/blegos",
       "/hikes/slajka",
-      "/hikes/ermanovec",
-      "/hikes/bevkovvrh"
+      "/hikes/ermanovec"
     ],
     "peak": "46.164802,14.113583",
-    "start": "46.171139,14.042610",
     "region": "gorenjska",
+    "start": "46.171139,14.042610",
     "title": {
       "sl": "Od \u010crnega vrha do Blego\u0161a",
       "en": "Blego\u0161 from \u010crni vrh"
@@ -915,8 +938,8 @@
       "/hikes/malenskivrh",
       "/hikes/crnivrhcerkno",
       "/hikes/slajka",
-      "/hikes/ermanovec",
-      "/hikes/javorc"
+      "/hikes/miklavskagora",
+      "/hikes/ermanovec"
     ],
     "peak": "46.164802,14.113583",
     "region": "gorenjska",
@@ -968,7 +991,10 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1277",
     "name": "Boc",
-    "nearby": [],
+    "nearby": [
+      "/hikes/donackagora",
+      "/hikes/trijekralji"
+    ],
     "peak": "46.289296,15.599824",
     "region": [
       "karavanke",
@@ -1093,8 +1119,8 @@
       "/hikes/rodne",
       "/hikes/kojca",
       "/hikes/skrbinakuk",
-      "/hikes/porezen",
-      "/hikes/crnaprst"
+      "/hikes/bevkovvrh",
+      "/hikes/porezen"
     ],
     "peak": "46.110149,13.917076",
     "region": "primorska",
@@ -1265,11 +1291,11 @@
     "maplink": "https://mapzs.projekti.si/poi/278",
     "name": "HleviskePlanine",
     "nearby": [
+      "/hikes/vrsnik_ziri",
       "/hikes/mrzlivrh_ziri",
-      "/hikes/bevkovvrh",
-      "/hikes/kovk",
-      "/hikes/soncnica",
-      "/hikes/ermanovec"
+      "/hikes/dolskimaj",
+      "/hikes/otliskookno",
+      "/hikes/maligolak"
     ],
     "peak": "45.987225,13.995846",
     "region": "primorska",
@@ -1295,9 +1321,9 @@
     "nearby": [
       "/hikes/kojca",
       "/hikes/rodne",
+      "/hikes/crnivrhcerkno",
       "/hikes/crnaprst",
-      "/hikes/sebrelje",
-      "/hikes/bevkovvrh"
+      "/hikes/sebrelje"
     ],
     "peak": "46.177165,13.974299",
     "region": "primorska",
@@ -1325,7 +1351,7 @@
       "/hikes/vogel",
       "/hikes/kobiljaglava",
       "/hikes/vodicnivrh",
-      "/hikes/krstenica"
+      "/hikes/vogar"
     ],
     "peak": "46.235612,13.793350",
     "region": "julian-alps",
@@ -1349,7 +1375,11 @@
     "maplink": "https://mapzs.projekti.si/poi/360",
     "name": "Kotecnik",
     "nearby": [
-      "/hikes/kamnik"
+      "/hikes/kamnik",
+      "/hikes/mrzlica",
+      "/hikes/krvavica",
+      "/hikes/kum",
+      "/hikes/goraoljka_polzela"
     ],
     "peak": "46.201409,15.181412",
     "photo_author": "Mojca_Lustrek",
@@ -1374,10 +1404,10 @@
     "name": "BukovVrh",
     "nearby": [
       "/hikes/sivka",
+      "/hikes/svozbolt",
       "/hikes/malenskivrh",
-      "/hikes/kozljek",
-      "/hikes/miklavskagora",
-      "/hikes/vs3k"
+      "/hikes/javorc",
+      "/hikes/svandrej_zminec"
     ],
     "peak": "46.108922,14.215731",
     "region": "gorenjska",
@@ -1404,8 +1434,8 @@
       "/hikes/planinarazor",
       "/hikes/vogelvrh",
       "/hikes/vogel",
-      "/hikes/skrbinakuk",
-      "/hikes/vodicnivrh"
+      "/hikes/kojca",
+      "/hikes/crnaprst"
     ],
     "peak": "46.190011,13.795463",
     "region": "julian-alps",
@@ -1432,8 +1462,8 @@
       "/hikes/vremscica",
       "/hikes/nanos",
       "/hikes/suhivrh",
-      "/hikes/svmiklavz_vipava",
-      "/hikes/gradiskatura"
+      "/biking/podnanossocerb",
+      "/hikes/svmiklavz_vipava"
     ],
     "peak": "45.688293,14.061574",
     "region": "primorska",
@@ -1460,7 +1490,9 @@
     "nearby": [
       "/hikes/vremscica",
       "/hikes/nanos",
-      "/hikes/suhivrh"
+      "/hikes/suhivrh",
+      "/hikes/kokos",
+      "/biking/podnanossocerb"
     ],
     "peak": "45.688293,14.061574",
     "region": "primorska",
@@ -1481,7 +1513,10 @@
     "name": "Vremscica",
     "nearby": [
       "/hikes/nanos",
-      "/hikes/suhivrh"
+      "/hikes/suhivrh",
+      "/hikes/kokos",
+      "/biking/podnanossocerb",
+      "/hikes/svmiklavz_vipava"
     ],
     "peak": "45.688293,14.061574",
     "region": "primorska",
@@ -1566,7 +1601,7 @@
       "/hikes/konj",
       "/hikes/kamniskivrh",
       "/hikes/kranjskareber",
-      "/hikes/kamniskosedlo"
+      "/hikes/vrhkorena"
     ],
     "peak": "46.298105,14.643921",
     "region": "kamnik-alps",
@@ -1588,7 +1623,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/path/32647",
     "name": "svAnton",
-    "nearby": [],
+    "nearby": [
+      "/hikes/trijekralji",
+      "/hikes/zavcarjevvrh",
+      "/hikes/goraoljka_polzela",
+      "/hikes/creta",
+      "/hikes/boc"
+    ],
     "peak": "46.560801,15.203008",
     "region": "pohorje",
     "title": {
@@ -1640,7 +1681,11 @@
     "maplink": "https://mapzs.projekti.si/poi/6048",
     "name": "Klek",
     "nearby": [
-      "/hikes/golica"
+      "/hikes/golica",
+      "/hikes/planinaseca",
+      "/hikes/sleme",
+      "/hikes/debelapec",
+      "/hikes/brdalipanca"
     ],
     "peak": "46.485362,14.025710",
     "photo_author": "Mojca_Lustrek",
@@ -1663,7 +1708,10 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/1352",
     "name": "ZavcarjevVrh",
-    "nearby": [],
+    "nearby": [
+      "/hikes/trijekralji",
+      "/hikes/svanton"
+    ],
     "peak": "46.600905,15.523045",
     "region": "stajerska",
     "title": {
@@ -1685,9 +1733,10 @@
     "name": "Baba",
     "nearby": [
       "/hikes/svjakob_preddvor",
+      "/hikes/zvoh",
       "/hikes/kozjivrh",
-      "/hikes/ambroz",
-      "/hikes/stegovnik"
+      "/hikes/kalskigreben",
+      "/hikes/ambroz"
     ],
     "peak": "46.31047,14.46331",
     "photo_author": "Mojca_Lustrek",
@@ -1966,8 +2015,8 @@
       "/hikes/goropeke",
       "/biking/zaplanatavzentroza",
       "/biking/zaplanarovte",
-      "/hikes/javorc",
-      "/biking/zibrse"
+      "/hikes/vrsnik_ziri",
+      "/hikes/javorc"
     ],
     "peak": "46.010608,14.168462",
     "region": "gorenjska",
@@ -1993,7 +2042,7 @@
       "/hikes/ermanovec",
       "/hikes/goropeke",
       "/hikes/bevkovvrh",
-      "/hikes/slajka"
+      "/hikes/javorc"
     ],
     "peak": "46.054579,14.061365",
     "region": "gorenjska",
@@ -2016,7 +2065,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/4207",
     "name": "Padna",
-    "nearby": [],
+    "nearby": [
+      "/biking/marezigesmarje",
+      "/biking/marezigeborst",
+      "/biking/marezigetrsek",
+      "/hikes/abitanti",
+      "/hikes/tinjan_osp"
+    ],
     "peak": "45.491149,13.689970",
     "region": "istria",
     "start": "45.494227,13.677033",
@@ -2070,8 +2125,9 @@
     "nearby": [
       "/hikes/velikirogac",
       "/hikes/velikaplanina",
-      "/hikes/strelovec",
-      "/hikes/raduha"
+      "/hikes/svprimoz_kamnik",
+      "/hikes/konj",
+      "/hikes/kamniskivrh"
     ],
     "peak": "46.284542,14.711178",
     "photo_author": "Mojca_Lustrek",
@@ -2123,7 +2179,9 @@
     "lead": "M_007011903.jpg",
     "maplink": "https://mapzs.projekti.si/poi/4162",
     "name": "Smuk",
-    "nearby": [],
+    "nearby": [
+      "/hikes/gospodicna"
+    ],
     "peak": "45.661401,15.179623",
     "photo_author": "Joze_Zugelj",
     "region": "bela-krajina",
@@ -2204,8 +2262,8 @@
       "/hikes/nanos",
       "/hikes/suhivrh",
       "/hikes/vremscica",
-      "/hikes/hrusica",
-      "/hikes/svduh_podkraj"
+      "/biking/podnanossocerb",
+      "/hikes/svmiklavz_vipava"
     ],
     "peak": "45.769507,14.056388",
     "region": "vipava",
@@ -2249,9 +2307,10 @@
     "name": "Nanos",
     "nearby": [
       "/hikes/suhivrh",
-      "/hikes/vremscica",
-      "/hikes/hrusica",
-      "/hikes/svduh_podkraj"
+      "/hikes/svmiklavz_vipava",
+      "/biking/podnanossocerb",
+      "/hikes/gradiskatura",
+      "/hikes/vremscica"
     ],
     "peak": "45.769507,14.056388",
     "region": "vipava",
@@ -2281,7 +2340,7 @@
       "/hikes/kokos",
       "/hikes/tinjan_osp",
       "/biking/rizanapraproce",
-      "/hikes/lacna"
+      "/hikes/podgorje"
     ],
     "peak": "45.601636,13.875859",
     "region": "istria",
@@ -2306,7 +2365,10 @@
     "lead": "M_01.jpg",
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.8936&lon=14.60601&layers=B0000",
     "name": "svAhac",
-    "nearby": [],
+    "nearby": [
+      "/hikes/krim",
+      "/hikes/slivnica"
+    ],
     "peak": "45.893531,14.605998",
     "photo_author": "Milos_Kobe",
     "region": "dolenjska",
@@ -2357,9 +2419,9 @@
     "nearby": [
       "/hikes/goropeke",
       "/hikes/mrzlivrh_ziri",
+      "/hikes/vs3k",
       "/hikes/javorc",
-      "/biking/zaplanatavzentroza",
-      "/hikes/ermanovec"
+      "/biking/zaplanatavzentroza"
     ],
     "peak": "46.021711,14.094982",
     "region": "gorenjska",
@@ -2417,8 +2479,8 @@
       "/hikes/oblenk",
       "/hikes/svlovrenc",
       "/biking/hrusicapolsak",
-      "/hikes/javorniki",
-      "/hikes/svetatrojica"
+      "/hikes/hrusica",
+      "/hikes/javorniki"
     ],
     "peak": "45.837401,14.233887",
     "region": "notranjska",
@@ -2453,7 +2515,9 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5353",
     "name": "TrijeKralji",
-    "nearby": [],
+    "nearby": [
+      "/hikes/boc"
+    ],
     "peak": "46.437693,15.458936",
     "region": "pohorje",
     "title": {
@@ -2476,7 +2540,11 @@
     "maplink": "https://mapzs.projekti.si/poi/4676",
     "name": "Vrtaca",
     "nearby": [
-      "/hikes/dobrca"
+      "/hikes/korosica",
+      "/hikes/kosutica",
+      "/hikes/planinaseca",
+      "/hikes/dobrca",
+      "/hikes/velikivrh"
     ],
     "peak": "46.439900,14.212625",
     "region": "karavanke",
@@ -2533,8 +2601,8 @@
       "/hikes/bukovvrh",
       "/hikes/javorc",
       "/hikes/kozljek",
-      "/hikes/vs3k",
-      "/hikes/malenskivrh"
+      "/hikes/polhograjskagora",
+      "/hikes/vs3k"
     ],
     "peak": "46.072944,14.209167",
     "region": "notranjska",
@@ -2560,9 +2628,9 @@
     "nearby": [
       "/hikes/malenskivrh",
       "/hikes/jamnik_vodice",
+      "/hikes/blegos",
       "/hikes/bukovvrh",
-      "/hikes/sivka",
-      "/hikes/javorc"
+      "/hikes/crnivrhcerkno"
     ],
     "peak": "46.211008,14.190950",
     "photo_author": "Mojca_Lustrek",
@@ -2625,7 +2693,11 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/34824",
     "name": "Sneznik",
-    "nearby": [],
+    "nearby": [
+      "/hikes/volovjareber",
+      "/biking/volovjareber",
+      "/hikes/svetatrojica"
+    ],
     "peak": "45.588478,14.447613",
     "region": "notranjska",
     "start": "45.574142,14.401174",
@@ -2650,10 +2722,10 @@
     "name": "Dobrca",
     "nearby": [
       "/hikes/korosica",
+      "/hikes/kofce",
       "/hikes/velikivrh",
       "/hikes/vrtaca",
-      "/hikes/kosutica",
-      "/hikes/jamnik_vodice"
+      "/hikes/kosutica"
     ],
     "peak": "46.380703,14.252813",
     "region": "karavanke",
@@ -2680,7 +2752,7 @@
       "/hikes/slajka",
       "/hikes/bukovvrh",
       "/hikes/miklavskagora",
-      "/hikes/javorc"
+      "/hikes/crnivrhcerkno"
     ],
     "peak": "46.153682,14.153111",
     "region": "gorenjska",
@@ -2708,7 +2780,7 @@
       "/hikes/oblenk",
       "/hikes/hrusica",
       "/biking/hrusicapolsak",
-      "/biking/zibrse"
+      "/hikes/planinskagora"
     ],
     "peak": "45.839190,14.168374",
     "region": "notranjska",
@@ -2771,7 +2843,7 @@
       "/biking/hrusicapolsak",
       "/hikes/planinskagora",
       "/hikes/hrusica",
-      "/biking/zibrse"
+      "/hikes/svduh_podkraj"
     ],
     "peak": "45.839190,14.168374",
     "region": "notranjska",
@@ -2799,8 +2871,8 @@
       "/hikes/sleme",
       "/hikes/toscbohinj",
       "/hikes/velikidraskivrh",
-      "/hikes/jezerskistog",
-      "/hikes/krstenica"
+      "/hikes/malidraskivrh",
+      "/hikes/jezerskistog"
     ],
     "peak": "46.408035,13.818710",
     "region": "julian-alps",
@@ -2850,7 +2922,13 @@
     "lead": "M_2-2217_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/34828",
     "name": "Krim",
-    "nearby": [],
+    "nearby": [
+      "/hikes/borovniski_pekel",
+      "/hikes/pokojisce",
+      "/hikes/svahac",
+      "/hikes/slivnica",
+      "/hikes/kuren"
+    ],
     "peak": "45.928570,14.471184",
     "photo_author": "Mojca_Lustrek",
     "region": "notranjska",
@@ -2873,9 +2951,9 @@
     "nearby": [
       "/hikes/velikaplanina",
       "/hikes/kamniskivrh",
+      "/hikes/kranjskareber",
       "/hikes/konj",
-      "/hikes/kamniskosedlo",
-      "/hikes/okreselj"
+      "/hikes/vrhkorena"
     ],
     "peak": "46.268999,14.633848",
     "region": "kamnik-alps",
@@ -2910,9 +2988,9 @@
     "nearby": [
       "/hikes/ermanovec",
       "/hikes/mrzlivrh_ziri",
-      "/hikes/crnivrhcerkno",
-      "/hikes/porezen",
-      "/hikes/hleviskeplanine"
+      "/hikes/sebrelje",
+      "/hikes/slajka",
+      "/hikes/rodne"
     ],
     "peak": "46.086057,14.004225",
     "region": "gorenjska",
@@ -2994,7 +3072,7 @@
       "/hikes/velikivrh",
       "/hikes/kofce",
       "/hikes/kladivo",
-      "/hikes/dobrca"
+      "/hikes/vrtaca"
     ],
     "peak": "46.434220,14.292107",
     "region": "karavanke",
@@ -3022,7 +3100,7 @@
       "/hikes/porezen",
       "/hikes/sebrelje",
       "/hikes/crnaprst",
-      "/hikes/vogar"
+      "/hikes/skrbinakuk"
     ],
     "peak": "46.153889,13.926612",
     "region": "primorska",
@@ -3049,7 +3127,8 @@
       "/hikes/kofce",
       "/hikes/velikivrh",
       "/hikes/kosutica",
-      "/hikes/korosica"
+      "/hikes/korosica",
+      "/hikes/stegovnik"
     ],
     "peak": "46.437281,14.344111",
     "photo_author": "Mojca_Lustrek",
@@ -3077,9 +3156,9 @@
     "nearby": [
       "/hikes/javorc",
       "/hikes/slajka",
+      "/hikes/bukovvrh",
       "/hikes/malenskivrh",
-      "/hikes/sivka",
-      "/hikes/blegos"
+      "/hikes/ermanovec"
     ],
     "peak": "46.070345,14.141830",
     "region": "gorenjska",
@@ -3133,8 +3212,8 @@
       "/hikes/goropeke",
       "/hikes/sivka",
       "/hikes/slajka",
-      "/hikes/vrsnik_ziri",
-      "/hikes/vs3k"
+      "/hikes/mrzlivrh_ziri",
+      "/hikes/vrsnik_ziri"
     ],
     "peak": "46.070345,14.141830",
     "region": "gorenjska",
@@ -3232,7 +3311,8 @@
       "/hikes/velikivrh",
       "/hikes/kladivo",
       "/hikes/kosutica",
-      "/hikes/korosica"
+      "/hikes/korosica",
+      "/hikes/dobrca"
     ],
     "peak": "46.417820,14.323948",
     "region": "karavanke",
@@ -3284,9 +3364,9 @@
     "nearby": [
       "/hikes/svduh_podkraj",
       "/hikes/svlovrenc",
+      "/biking/hrusicapolsak",
       "/hikes/suhivrh",
-      "/biking/zibrse",
-      "/hikes/nanos"
+      "/hikes/oblenk"
     ],
     "peak": "45.863474,14.111302",
     "region": "primorska",
@@ -3338,8 +3418,8 @@
       "/hikes/sebrelje",
       "/hikes/kojca",
       "/hikes/porezen",
-      "/hikes/crnaprst",
-      "/hikes/hleviskeplanine"
+      "/hikes/skrbinakuk",
+      "/hikes/bevkovvrh"
     ],
     "peak": "46.130969,13.927604",
     "region": "primorska",
@@ -3390,7 +3470,10 @@
     "name": "Borovniski_Pekel",
     "nearby": [
       "/hikes/pokojisce",
-      "/hikes/slivnica"
+      "/hikes/krim",
+      "/hikes/slivnica",
+      "/hikes/planinskagora",
+      "/hikes/oblenk"
     ],
     "peak": "45.880956,14.369589",
     "region": "notranjska",
@@ -3474,9 +3557,10 @@
     "name": "SuhiVrh",
     "nearby": [
       "/hikes/nanos",
+      "/hikes/svmiklavz_vipava",
+      "/hikes/gradiskatura",
       "/hikes/hrusica",
-      "/hikes/svduh_podkraj",
-      "/hikes/vremscica"
+      "/hikes/svduh_podkraj"
     ],
     "peak": "45.798405,14.066979",
     "photo_author": "Mojca_Lustrek",
@@ -3502,9 +3586,9 @@
     "nearby": [
       "/hikes/klemencajama",
       "/hikes/kamniskosedlo",
-      "/hikes/konj",
-      "/hikes/velikaplanina",
-      "/hikes/kranjskareber"
+      "/hikes/okreselj",
+      "/hikes/raduha",
+      "/hikes/konj"
     ],
     "peak": "46.394324,14.658004",
     "photo_author": "Mojca_Lustrek",
@@ -3834,7 +3918,9 @@
     "nearby": [
       "/hikes/mrzlica",
       "/hikes/kotecnik",
-      "/hikes/kum"
+      "/hikes/krvavica",
+      "/hikes/kum",
+      "/hikes/goraoljka_polzela"
     ],
     "peak": "46.205663,15.129281",
     "photo_author": "Mojca_Lustrek",
@@ -3880,10 +3966,10 @@
     "name": "Pokojisce",
     "nearby": [
       "/hikes/borovniski_pekel",
-      "/hikes/slivnica",
-      "/hikes/javorniki",
-      "/hikes/korena",
-      "/hikes/korena_samotorica"
+      "/hikes/krim",
+      "/hikes/planinskagora",
+      "/biking/vrhnikazaplana",
+      "/hikes/kuren"
     ],
     "peak": "45.893781,14.355786",
     "region": "notranjska",
@@ -3950,8 +4036,11 @@
     "maplink": "https://mapzs.projekti.si/poi/1085",
     "name": "Kum",
     "nearby": [
+      "/hikes/brunk",
       "/hikes/mrzlica",
-      "/hikes/kamnik"
+      "/hikes/kamnik",
+      "/hikes/krvavica",
+      "/hikes/kotecnik"
     ],
     "peak": "46.087612,15.072366",
     "region": "posavje",
@@ -3974,7 +4063,11 @@
     "maplink": "https://mapzs.projekti.si/poi/4803",
     "name": "Golica",
     "nearby": [
-      "/hikes/klek"
+      "/hikes/klek",
+      "/hikes/planinaseca",
+      "/hikes/vrtaca",
+      "/hikes/debelapec",
+      "/hikes/sleme"
     ],
     "peak": "46.491437,14.054546",
     "region": "karavanke",
@@ -4000,8 +4093,8 @@
       "/hikes/planinskagora",
       "/hikes/svlovrenc",
       "/biking/hrusicapolsak",
-      "/biking/zibrse",
-      "/hikes/svetatrojica"
+      "/hikes/hrusica",
+      "/hikes/javorniki"
     ],
     "peak": "45.834089,14.213203",
     "region": "notranjska",
@@ -4147,7 +4240,7 @@
       "/hikes/velikivrh",
       "/hikes/kofce",
       "/hikes/kladivo",
-      "/hikes/dobrca"
+      "/hikes/vrtaca"
     ],
     "peak": "46.438811,14.299226",
     "region": "karavanke",
@@ -4175,7 +4268,7 @@
       "/hikes/tosc",
       "/hikes/polhograjskagrmada",
       "/hikes/polhograjskagora",
-      "/hikes/korena"
+      "/hikes/bukovvrh"
     ],
     "peak": "46.115648,14.286202",
     "region": "gorenjska",
@@ -4197,7 +4290,13 @@
     "lead": "M_010051.JPG",
     "maplink": "https://mapzs.projekti.si/poi/1145",
     "name": "Tamar",
-    "nearby": [],
+    "nearby": [
+      "/hikes/stenar",
+      "/hikes/sleme",
+      "/hikes/toscbohinj",
+      "/hikes/jezerskistog",
+      "/hikes/velikidraskivrh"
+    ],
     "peak": "46.446150,13.713228",
     "photo_author": "Tina_diBatista",
     "region": "julian-alps",
@@ -4225,7 +4324,9 @@
     "nearby": [
       "/hikes/miklavskagora",
       "/hikes/dobrca",
-      "/hikes/malenskivrh"
+      "/hikes/malenskivrh",
+      "/hikes/blegos",
+      "/hikes/svandrej_zminec"
     ],
     "peak": "46.275223,14.214234",
     "region": "gorenjska",
@@ -4248,7 +4349,11 @@
     "maplink": "https://mapzs.projekti.si/poi/948",
     "name": "GoliVrh_Savnice",
     "nearby": [
-      "/hikes/svjost"
+      "/hikes/svjost",
+      "/hikes/creta",
+      "/hikes/krvavica",
+      "/hikes/velikirogac",
+      "/hikes/kranjskareber"
     ],
     "peak": "46.248208,14.859629",
     "photo_author": "Mojca_Lustrek",
@@ -4274,7 +4379,9 @@
     "nearby": [
       "/hikes/stegovnik",
       "/hikes/svjakob_preddvor",
-      "/hikes/baba"
+      "/hikes/baba",
+      "/hikes/grintovec",
+      "/hikes/kalskigreben"
     ],
     "peak": "46.364549,14.446209",
     "region": "karavanke",
@@ -4298,7 +4405,11 @@
     "maplink": "https://mapzs.projekti.si/poi/5196",
     "name": "Cerje",
     "nearby": [
-      "/hikes/crnihribi"
+      "/hikes/crnihribi",
+      "/hikes/trstelj_dornberk",
+      "/hikes/pedrovo",
+      "/biking/lukovecmalidol",
+      "/hikes/skoljsvpavla"
     ],
     "peak": "45.872442,13.615999",
     "region": "karst",
@@ -4383,9 +4494,9 @@
     "nearby": [
       "/hikes/blegos",
       "/hikes/slajka",
+      "/hikes/porezen",
       "/hikes/ermanovec",
-      "/hikes/bevkovvrh",
-      "/hikes/mrzlivrh_ziri"
+      "/hikes/malenskivrh"
     ],
     "peak": "46.161433,14.057411",
     "region": "primorska",
@@ -4466,6 +4577,9 @@
     "maplink": "https://mapzs.projekti.si/poi/432",
     "name": "GoraOljka_Polzela",
     "nearby": [
+      "/hikes/creta",
+      "/hikes/svjost",
+      "/hikes/kamnik",
       "/hikes/krvavica",
       "/hikes/mrzlica"
     ],
@@ -4492,10 +4606,10 @@
     "name": "CrnaPrst",
     "nearby": [
       "/hikes/porezen",
+      "/hikes/vogel",
       "/hikes/kojca",
       "/hikes/vogar",
-      "/hikes/uskovnica",
-      "/hikes/rodne"
+      "/hikes/vogelvrh"
     ],
     "peak": "46.231157,13.931631",
     "region": "julian-alps",
@@ -4524,8 +4638,8 @@
       "/hikes/okreselj",
       "/hikes/grintovec",
       "/hikes/kamniskosedlo",
-      "/hikes/kalskigreben",
-      "/hikes/vrhkorena"
+      "/hikes/klemencajama",
+      "/hikes/kalskigreben"
     ],
     "peak": "46.397913,14.546991",
     "photo_author": "Mojca_Lustrek",
@@ -4648,8 +4762,8 @@
       "/hikes/gradiskatura",
       "/hikes/plaz",
       "/biking/podnanossocerb",
-      "/hikes/soncnica",
-      "/hikes/kovk"
+      "/hikes/suhivrh",
+      "/hikes/soncnica"
     ],
     "peak": "45.819506,13.982114",
     "region": "vipava",
@@ -4795,7 +4909,7 @@
       "/hikes/tinjan_osp",
       "/hikes/kokos",
       "/biking/rizanapraproce",
-      "/hikes/lacna"
+      "/hikes/podgorje"
     ],
     "peak": "45.589477,13.860844",
     "region": "istria",
@@ -4818,7 +4932,9 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/3956",
     "name": "Gospodicna",
-    "nearby": [],
+    "nearby": [
+      "/hikes/smuk"
+    ],
     "peak": "45.766444,15.297079",
     "region": "dolenjska",
     "title": {
@@ -4839,6 +4955,7 @@
     "map": 1,
     "name": "VolovjaReber",
     "nearby": [
+      "/hikes/sneznik",
       "/hikes/svetatrojica"
     ],
     "peak": "45.592453,14.311605",
@@ -4862,7 +4979,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/5796",
     "name": "PlaninaSeca",
-    "nearby": [],
+    "nearby": [
+      "/hikes/golica",
+      "/hikes/vrtaca",
+      "/hikes/klek",
+      "/hikes/korosica",
+      "/hikes/dobrca"
+    ],
     "peak": "46.460984,14.129766",
     "region": "karavanke",
     "start": "46.456670,14.099295",
@@ -4914,7 +5037,8 @@
     "maplink": "https://mapzs.projekti.si/path/32419",
     "name": "svTrojica_Dob",
     "nearby": [
-      "/hikes/svprimoz_kamnik"
+      "/hikes/svprimoz_kamnik",
+      "/hikes/golivrh_savnice"
     ],
     "peak": "46.123185,14.675471",
     "region": "posavje",
@@ -4942,7 +5066,7 @@
       "/hikes/spica",
       "/hikes/kuren",
       "/biking/zaplanarovte",
-      "/hikes/kozljek"
+      "/biking/zibrse"
     ],
     "peak": "45.971434,14.251496",
     "region": "notranjska",
@@ -4998,7 +5122,7 @@
       "/biking/vrhnikazaplana",
       "/biking/zaplanarovte",
       "/hikes/kuren",
-      "/hikes/vs3k"
+      "/biking/zibrse"
     ],
     "peak": "45.971434,14.251496",
     "region": "notranjska",
@@ -5062,7 +5186,7 @@
       "/hikes/kuren",
       "/biking/zaplanarovte",
       "/hikes/kozljek",
-      "/hikes/korena"
+      "/biking/zibrse"
     ],
     "peak": "45.971434,14.251496",
     "region": "notranjska",
@@ -5088,8 +5212,10 @@
     "name": "Javorniki",
     "nearby": [
       "/hikes/svetatrojica",
+      "/hikes/slivnica",
       "/hikes/planinskagora",
-      "/hikes/pokojisce"
+      "/hikes/oblenk",
+      "/hikes/svlovrenc"
     ],
     "peak": "45.758005,14.295063",
     "region": "primorska",
@@ -5112,8 +5238,11 @@
     "maplink": "https://mapzs.projekti.si/poi/5679",
     "name": "Slivnica",
     "nearby": [
+      "/hikes/javorniki",
       "/hikes/borovniski_pekel",
-      "/hikes/pokojisce"
+      "/hikes/pokojisce",
+      "/hikes/svetatrojica",
+      "/hikes/planinskagora"
     ],
     "peak": "45.7899991,14.3990229",
     "region": "notranjska",
@@ -5170,7 +5299,10 @@
     "name": "Trstelj_Dornberk",
     "nearby": [
       "/hikes/pedrovo",
-      "/hikes/crnihribi"
+      "/hikes/crnihribi",
+      "/hikes/cerje",
+      "/biking/lukovecmalidol",
+      "/biking/path9ponds"
     ],
     "peak": "45.857869,13.703780",
     "region": "karst",
@@ -5195,7 +5327,13 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/34689",
     "name": "podBohorjem",
-    "nearby": [],
+    "nearby": [
+      "/hikes/brunk",
+      "/hikes/svvid_catez",
+      "/hikes/kotecnik",
+      "/hikes/kum",
+      "/hikes/kamnik"
+    ],
     "peak": "46.052671,15.424771",
     "region": "posavje",
     "title": {
@@ -5221,7 +5359,7 @@
       "/hikes/kamniskosedlo",
       "/hikes/okreselj",
       "/hikes/konj",
-      "/hikes/velikaplanina"
+      "/hikes/golivrhjezersko"
     ],
     "peak": "46.377613,14.633806",
     "photo_author": "Mojca_Lustrek",
@@ -5245,7 +5383,9 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/173",
     "name": "DonackaGora",
-    "nearby": [],
+    "nearby": [
+      "/hikes/boc"
+    ],
     "peak": "46.262731,15.742339",
     "region": [
       "stajerska",
@@ -5316,8 +5456,10 @@
     "name": "Mrzlica",
     "nearby": [
       "/hikes/kamnik",
+      "/hikes/kotecnik",
+      "/hikes/krvavica",
       "/hikes/kum",
-      "/hikes/goraoljka_polzela"
+      "/hikes/creta"
     ],
     "peak": "46.187516,15.107444",
     "region": "posavje",
@@ -5341,7 +5483,10 @@
     "name": "VelikiRogac",
     "nearby": [
       "/hikes/kranjskareber",
-      "/hikes/raduha"
+      "/hikes/velikaplanina",
+      "/hikes/konj",
+      "/hikes/raduha",
+      "/hikes/svprimoz_kamnik"
     ],
     "peak": "46.319868,14.741078",
     "region": "kamnik-alps",
@@ -5395,7 +5540,10 @@
     "name": "CrniHribi",
     "nearby": [
       "/hikes/cerje",
-      "/hikes/trstelj_dornberk"
+      "/hikes/trstelj_dornberk",
+      "/hikes/pedrovo",
+      "/biking/lukovecmalidol",
+      "/biking/path9ponds"
     ],
     "peak": "45.868196,13.642593",
     "region": "karst",
@@ -5483,7 +5631,9 @@
     "nearby": [
       "/hikes/svjost",
       "/hikes/creta",
-      "/hikes/krvavica"
+      "/hikes/krvavica",
+      "/hikes/golivrh_savnice",
+      "/hikes/goraoljka_polzela"
     ],
     "peak": "46.260617,14.910768",
     "photo_author": "Mojca_Lustrek",
@@ -5512,7 +5662,9 @@
     "nearby": [
       "/hikes/svjost",
       "/hikes/golivrh_savnice",
-      "/hikes/creta"
+      "/hikes/creta",
+      "/hikes/krvavica",
+      "/hikes/velikirogac"
     ],
     "peak": "46.260617,14.910768",
     "region": "kamnik-alps",
@@ -5534,7 +5686,10 @@
     "name": "svJost",
     "nearby": [
       "/hikes/golivrh_savnice",
-      "/hikes/creta"
+      "/hikes/creta",
+      "/hikes/krvavica",
+      "/hikes/goraoljka_polzela",
+      "/hikes/velikirogac"
     ],
     "peak": "46.260617,14.910768",
     "region": "kamnik-alps",
@@ -5569,8 +5724,8 @@
       "/biking/marezigeborst",
       "/biking/marezigetrsek",
       "/hikes/lacna",
-      "/biking/marezigesmarje",
-      "/hikes/tinjan_osp"
+      "/hikes/kuk",
+      "/biking/marezigesmarje"
     ],
     "peak": "45.436224,13.825319",
     "region": "istria",
@@ -5652,10 +5807,10 @@
     "name": "svDuh_Podkraj",
     "nearby": [
       "/hikes/hrusica",
-      "/hikes/suhivrh",
-      "/hikes/nanos",
-      "/hikes/hleviskeplanine",
-      "/hikes/vrsnik_ziri"
+      "/hikes/kovk",
+      "/hikes/plaz",
+      "/hikes/gradiskatura",
+      "/hikes/soncnica"
     ],
     "peak": "45.871767,14.062456",
     "region": "primorska",
@@ -5679,7 +5834,11 @@
     "maplink": "https://mapzs.projekti.si/poi/4387",
     "name": "Peca",
     "nearby": [
-      "/hikes/raduha"
+      "/hikes/raduha",
+      "/hikes/strelovec",
+      "/hikes/klemencajama",
+      "/hikes/okreselj",
+      "/hikes/kamniskosedlo"
     ],
     "peak": "46.500335,14.780003",
     "photo_author": "Mojca_Lustrek",
@@ -5767,9 +5926,10 @@
     "name": "SvetaTrojica",
     "nearby": [
       "/hikes/javorniki",
+      "/hikes/slivnica",
       "/hikes/planinskagora",
       "/hikes/oblenk",
-      "/hikes/volovjareber"
+      "/biking/volovjareber"
     ],
     "peak": "45.724803,14.271539",
     "region": "notranjska",
@@ -5819,7 +5979,10 @@
     "map": 1,
     "maplink": "https://mapzs.projekti.si/poi/34684",
     "name": "Brunk",
-    "nearby": [],
+    "nearby": [
+      "/hikes/kum",
+      "/hikes/trebnjivrh"
+    ],
     "peak": "46.037433,15.179605",
     "region": "posavje",
     "title": {
@@ -5839,7 +6002,9 @@
     "lead": "M_6-3650_IMG.JPG",
     "maplink": "https://mapzs.projekti.si/poi/3949",
     "name": "TrebnjiVrh",
-    "nearby": [],
+    "nearby": [
+      "/hikes/brunk"
+    ],
     "peak": "45.893362,15.003060",
     "region": "dolenjska",
     "title": {
@@ -5862,8 +6027,11 @@
     "maplink": "https://mapzs.projekti.si/poi/1354",
     "name": "Krvavica",
     "nearby": [
+      "/hikes/mrzlica",
       "/hikes/creta",
-      "/hikes/goraoljka_polzela"
+      "/hikes/svjost",
+      "/hikes/kamnik",
+      "/hikes/golivrh_savnice"
     ],
     "peak": "46.200792,14.993072",
     "photo_author": "Mojca_Lustrek",
@@ -5891,8 +6059,8 @@
       "/biking/marezigetrsek",
       "/biking/marezigesmarje",
       "/hikes/abitanti",
-      "/hikes/tinjan_osp",
-      "/hikes/socerb"
+      "/hikes/lacna",
+      "/hikes/tinjan_osp"
     ],
     "region": "istria",
     "start": "45.506823,13.798599",
@@ -5920,8 +6088,8 @@
       "/hikes/svmiklavz_vipava",
       "/hikes/gradiskatura",
       "/hikes/plaz",
-      "/hikes/soncnica",
-      "/hikes/kovk"
+      "/hikes/nanos",
+      "/hikes/suhivrh"
     ],
     "region": "vipava",
     "start": "45.797329,13.972231",
@@ -6027,8 +6195,8 @@
       "/biking/path9ponds",
       "/biking/hrusevicakosovelje",
       "/hikes/pedrovo",
-      "/hikes/skoljsvpavla",
-      "/hikes/malagora"
+      "/hikes/trstelj_dornberk",
+      "/hikes/skoljsvpavla"
     ],
     "region": "karst",
     "start": "45.818412,13.825455",
@@ -6057,8 +6225,8 @@
       "/hikes/svlovrenc",
       "/hikes/oblenk",
       "/hikes/planinskagora",
-      "/biking/zibrse",
-      "/biking/zaplanarovte"
+      "/hikes/hrusica",
+      "/biking/zibrse"
     ],
     "region": "notranjska",
     "start": "45.894845,14.189669",
@@ -6086,9 +6254,9 @@
     "nearby": [
       "/biking/zaplanatavzentroza",
       "/biking/zaplanarovte",
-      "/hikes/vs3k",
-      "/biking/hrusicapolsak",
-      "/hikes/hrusica"
+      "/hikes/spica",
+      "/biking/vrhnikazaplana",
+      "/hikes/vs3k"
     ],
     "region": "notranjska",
     "start": "45.958404,14.191024",
@@ -6116,8 +6284,8 @@
       "/biking/path9ponds",
       "/biking/lukovecmalidol",
       "/hikes/pedrovo",
-      "/hikes/skoljsvpavla",
-      "/hikes/malagora"
+      "/hikes/trstelj_dornberk",
+      "/biking/podnanossocerb"
     ],
     "region": "karst",
     "start": "45.810886,13.828548",
@@ -6157,7 +6325,7 @@
       "/hikes/kuren",
       "/biking/zaplanarovte",
       "/hikes/kozljek",
-      "/hikes/korena"
+      "/biking/zibrse"
     ],
     "region": "notranjska",
     "start": "45.963816,14.275521",
@@ -6185,7 +6353,9 @@
     "nearby": [
       "/biking/marezigeborst",
       "/biking/marezigetrsek",
-      "/hikes/abitanti"
+      "/hikes/padna",
+      "/hikes/tinjan_osp",
+      "/hikes/lacna"
     ],
     "region": "istria",
     "start": "45.506836,13.798535",
@@ -6258,6 +6428,34 @@
     "center": "45.973357,14.207557"
   },
   {
+    "date": "2021-06-10 16:39:28+00:00",
+    "delta": "520",
+    "description": {
+      "en": "Volovja Reber is a long ridge on the southwestern edge of the Sne\u017enik plateau. It's one of those magical places where you rarely encounter a fellow hiker or biker, even though it's only a few kilometers away from an overcrowded main road. Let's enjoy the beauties of karst meadows and pastures while biking to Velika Milanja -- the highest peak in the ridge with an unusual rocky top."
+    },
+    "difficulty": "Occasionally steep gravel roads",
+    "duration": "3",
+    "height": "1099",
+    "layout": "structured",
+    "lead": "M_20200601_102531.jpg",
+    "length": "18.8",
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.5876&lon=14.29126&layers=B0000",
+    "name": "VolovjaReber",
+    "nearby": [
+      "/hikes/sneznik",
+      "/hikes/svetatrojica",
+      "/hikes/ostric"
+    ],
+    "region": "notranjska",
+    "start": "45.605141,14.240889",
+    "title": {
+      "en": "Velika Milanja on Volovja Reber"
+    },
+    "video": "https://www.relive.cc/view/vmqX2gQJWLO/",
+    "type": "biking",
+    "center": "45.594282,14.279555"
+  },
+  {
     "date": "2021-05-27 13:20:47+00:00",
     "delta": "450",
     "description": {
@@ -6276,7 +6474,7 @@
       "/hikes/podgorje",
       "/hikes/hrastovljezazid",
       "/hikes/kuk",
-      "/hikes/tinjan_osp"
+      "/hikes/slavnik"
     ],
     "region": "istria",
     "start": "45.523654,13.889561",
@@ -6305,8 +6503,8 @@
       "/biking/lukovecmalidol",
       "/biking/hrusevicakosovelje",
       "/hikes/pedrovo",
-      "/hikes/skoljsvpavla",
-      "/hikes/malagora"
+      "/hikes/trstelj_dornberk",
+      "/hikes/skoljsvpavla"
     ],
     "region": "karst",
     "start": "45.814512,13.810002",
