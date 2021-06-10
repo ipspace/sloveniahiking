@@ -13,12 +13,12 @@ name: Blegos/CrniVrh
 nearby:
 - /hikes/crnivrhcerkno
 - /hikes/porezen
+- /hikes/blegos
 - /hikes/slajka
 - /hikes/ermanovec
-- /hikes/bevkovvrh
 peak: 46.164802,14.113583
-start: 46.171139,14.042610
 region: gorenjska
+start: 46.171139,14.042610
 title: Od Črnega vrha do Blegoša
 ---
 {{<figure src="M_4_1416.JPG" caption="Pot po grebenu">}}

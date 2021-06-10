@@ -12,7 +12,7 @@ nearby:
 - /hikes/ermanovec
 - /hikes/goropeke
 - /hikes/bevkovvrh
-- /hikes/slajka
+- /hikes/javorc
 peak: 46.054579,14.061365
 region: gorenjska
 start: 46.047329,14.108442

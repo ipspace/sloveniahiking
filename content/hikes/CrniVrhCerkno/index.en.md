@@ -17,9 +17,9 @@ name: CrniVrhCerkno
 nearby:
 - /hikes/blegos
 - /hikes/slajka
+- /hikes/porezen
 - /hikes/ermanovec
-- /hikes/bevkovvrh
-- /hikes/mrzlivrh_ziri
+- /hikes/malenskivrh
 peak: 46.161433,14.057411
 region: primorska
 start: 46.171139,14.042610

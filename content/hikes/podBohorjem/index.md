@@ -9,7 +9,12 @@ lead: M_2-5210_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/34689
 name: podBohorjem
-nearby: []
+nearby:
+- /hikes/brunk
+- /hikes/svvid_catez
+- /hikes/kotecnik
+- /hikes/kum
+- /hikes/kamnik
 peak: 46.052671,15.424771
 region: posavje
 title: Slapovi pod Bohorjem

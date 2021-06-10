@@ -8,6 +8,8 @@ lead: M_1_2101.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/5353
 name: TrijeKralji
+nearby:
+- /hikes/boc
 peak: 46.437693,15.458936
 region: pohorje
 title: Trije kralji on Pohorje

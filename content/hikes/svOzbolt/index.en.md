@@ -13,7 +13,7 @@ nearby:
 - /hikes/tosc
 - /hikes/polhograjskagrmada
 - /hikes/polhograjskagora
-- /hikes/korena
+- /hikes/bukovvrh
 peak: 46.115648,14.286202
 region: gorenjska
 title: Saint Ozbolt above Zminec

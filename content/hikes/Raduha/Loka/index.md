@@ -15,9 +15,10 @@ multipath: true
 name: Raduha/Loka
 nearby:
 - /hikes/raduha
+- /hikes/strelovec
 - /hikes/velikirogac
+- /hikes/klemencajama
 - /hikes/peca
-- /hikes/kranjskareber
 peak: 46.409848,14.737603
 region: kamnik-alps
 start: 46.403601,14.757566

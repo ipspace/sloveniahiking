@@ -10,7 +10,10 @@ maplink: https://mapzs.projekti.si/poi/1305
 name: Creta
 nearby:
 - /hikes/svjost
+- /hikes/golivrh_savnice
 - /hikes/krvavica
+- /hikes/goraoljka_polzela
+- /hikes/mrzlica
 peak: 46.279198,14.960822
 region: kamnik-alps
 title: Vransko - Čreta

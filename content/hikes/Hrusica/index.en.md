@@ -7,9 +7,9 @@ name: Hrusica
 nearby:
 - /hikes/svduh_podkraj
 - /hikes/svlovrenc
+- /biking/hrusicapolsak
 - /hikes/suhivrh
-- /biking/zibrse
-- /hikes/nanos
+- /hikes/oblenk
 peak: 45.863474,14.111302
 region: primorska
 title: Stara pošta (Old Post) on Hrušica

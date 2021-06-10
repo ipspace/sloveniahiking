@@ -12,8 +12,10 @@ maplink: https://mapzs.projekti.si/poi/970
 name: Javorniki
 nearby:
 - /hikes/svetatrojica
+- /hikes/slivnica
 - /hikes/planinskagora
-- /hikes/pokojisce
+- /hikes/oblenk
+- /hikes/svlovrenc
 peak: 45.758005,14.295063
 region: primorska
 start: 45.788505,14.297555

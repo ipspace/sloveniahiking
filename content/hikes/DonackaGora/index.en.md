@@ -8,6 +8,8 @@ lead: M_2_3240.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/173
 name: DonackaGora
+nearby:
+- /hikes/boc
 peak: 46.262731,15.742339
 region:
 - stajerska

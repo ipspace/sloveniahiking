@@ -20,6 +20,8 @@ nearby:
 - /hikes/svjost
 - /hikes/golivrh_savnice
 - /hikes/creta
+- /hikes/krvavica
+- /hikes/velikirogac
 peak: 46.260617,14.910768
 region: kamnik-alps
 start: 46.261449,14.893658

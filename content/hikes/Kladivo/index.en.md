@@ -13,6 +13,7 @@ nearby:
 - /hikes/velikivrh
 - /hikes/kosutica
 - /hikes/korosica
+- /hikes/stegovnik
 peak: 46.437281,14.344111
 photo_author: Mojca_Lustrek
 region: karavanke

@@ -23,8 +23,8 @@ nearby:
 - /hikes/svlovrenc
 - /hikes/oblenk
 - /hikes/planinskagora
+- /hikes/hrusica
 - /biking/zibrse
-- /biking/zaplanarovte
 region: notranjska
 start: 45.894845,14.189669
 title: 'Exploring Hrušica: Polšak Hut and Roman Fortress'

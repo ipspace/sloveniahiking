@@ -17,8 +17,8 @@ nearby:
 - /hikes/oblenk
 - /hikes/svlovrenc
 - /biking/hrusicapolsak
+- /hikes/hrusica
 - /hikes/javorniki
-- /hikes/svetatrojica
 peak: 45.837401,14.233887
 region: notranjska
 start: 45.836412,14.255054

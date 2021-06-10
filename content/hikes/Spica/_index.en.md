@@ -18,7 +18,7 @@ nearby:
 - /hikes/kuren
 - /biking/zaplanarovte
 - /hikes/kozljek
-- /hikes/korena
+- /biking/zibrse
 peak: 45.971434,14.251496
 region: notranjska
 title: Planina nad Vrhniko

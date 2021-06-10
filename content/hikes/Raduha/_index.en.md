@@ -10,9 +10,11 @@ map_path: Loka/
 maplink: https://mapzs.projekti.si/poi/118
 name: Raduha
 nearby:
+- /hikes/strelovec
+- /hikes/klemencajama
 - /hikes/velikirogac
 - /hikes/peca
-- /hikes/kranjskareber
+- /hikes/konj
 peak: 46.409848,14.737603
 region: kamnik-alps
 title: Raduha

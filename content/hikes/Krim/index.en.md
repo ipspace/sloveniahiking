@@ -8,6 +8,12 @@ layout: stub
 lead: M_2-2217_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/34828
 name: Krim
+nearby:
+- /hikes/borovniski_pekel
+- /hikes/pokojisce
+- /hikes/svahac
+- /hikes/slivnica
+- /hikes/kuren
 peak: 45.928570,14.471184
 photo_author: Mojca_Lustrek
 region: notranjska

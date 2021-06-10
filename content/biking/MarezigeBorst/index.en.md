@@ -23,8 +23,8 @@ nearby:
 - /biking/marezigetrsek
 - /biking/marezigesmarje
 - /hikes/abitanti
+- /hikes/lacna
 - /hikes/tinjan_osp
-- /hikes/socerb
 region: istria
 start: 45.506823,13.798599
 title: From Marezige to Boršt

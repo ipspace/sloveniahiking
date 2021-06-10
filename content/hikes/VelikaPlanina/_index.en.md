@@ -10,7 +10,7 @@ nearby:
 - /hikes/konj
 - /hikes/kamniskivrh
 - /hikes/kranjskareber
-- /hikes/kamniskosedlo
+- /hikes/vrhkorena
 peak: 46.298105,14.643921
 region: kamnik-alps
 title: Velika planina

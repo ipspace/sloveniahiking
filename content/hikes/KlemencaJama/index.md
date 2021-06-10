@@ -17,7 +17,7 @@ nearby:
 - /hikes/kamniskosedlo
 - /hikes/okreselj
 - /hikes/konj
-- /hikes/velikaplanina
+- /hikes/golivrhjezersko
 peak: 46.377613,14.633806
 photo_author: Mojca_Lustrek
 region: kamnik-alps

@@ -23,6 +23,9 @@ name: CrniHribi
 nearby:
 - /hikes/cerje
 - /hikes/trstelj_dornberk
+- /hikes/pedrovo
+- /biking/lukovecmalidol
+- /biking/path9ponds
 peak: 45.868196,13.642593
 region: karst
 title: 'Črni hribi: from Italian border to Renče peak'

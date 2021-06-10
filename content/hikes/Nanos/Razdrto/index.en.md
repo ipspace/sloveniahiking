@@ -21,8 +21,8 @@ nearby:
 - /hikes/nanos
 - /hikes/suhivrh
 - /hikes/vremscica
-- /hikes/hrusica
-- /hikes/svduh_podkraj
+- /biking/podnanossocerb
+- /hikes/svmiklavz_vipava
 peak: 45.769507,14.056388
 region: vipava
 start: 45.759230,14.061785

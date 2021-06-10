@@ -14,7 +14,7 @@ nearby:
 - /hikes/tinjan_osp
 - /hikes/kokos
 - /biking/rizanapraproce
-- /hikes/lacna
+- /hikes/podgorje
 peak: 45.589477,13.860844
 region: istria
 start: 45.571298,13.857212

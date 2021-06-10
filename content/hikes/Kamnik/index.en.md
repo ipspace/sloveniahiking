@@ -11,7 +11,9 @@ name: Kamnik
 nearby:
 - /hikes/mrzlica
 - /hikes/kotecnik
+- /hikes/krvavica
 - /hikes/kum
+- /hikes/goraoljka_polzela
 peak: 46.205663,15.129281
 photo_author: Mojca_Lustrek
 region: posavje

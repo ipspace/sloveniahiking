@@ -11,10 +11,10 @@ maplink: https://mapzs.projekti.si/poi/5358
 name: Pokojisce
 nearby:
 - /hikes/borovniski_pekel
-- /hikes/slivnica
-- /hikes/javorniki
-- /hikes/korena
-- /hikes/korena_samotorica
+- /hikes/krim
+- /hikes/planinskagora
+- /biking/vrhnikazaplana
+- /hikes/kuren
 peak: 45.893781,14.355786
 region: notranjska
 start: 45.890566,14.371874

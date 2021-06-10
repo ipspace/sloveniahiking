@@ -20,8 +20,8 @@ nearby:
 - /hikes/gradiskatura
 - /hikes/plaz
 - /biking/podnanossocerb
+- /hikes/suhivrh
 - /hikes/soncnica
-- /hikes/kovk
 peak: 45.819506,13.982114
 region: vipava
 start: 45.832270,13.971014

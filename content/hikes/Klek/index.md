@@ -13,6 +13,10 @@ maplink: https://mapzs.projekti.si/poi/6048
 name: Klek
 nearby:
 - /hikes/golica
+- /hikes/planinaseca
+- /hikes/sleme
+- /hikes/debelapec
+- /hikes/brdalipanca
 peak: 46.485362,14.025710
 photo_author: Mojca_Lustrek
 region: karavanke

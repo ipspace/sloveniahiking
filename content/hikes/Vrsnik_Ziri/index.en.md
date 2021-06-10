@@ -11,9 +11,9 @@ name: Vrsnik_Ziri
 nearby:
 - /hikes/goropeke
 - /hikes/mrzlivrh_ziri
+- /hikes/vs3k
 - /hikes/javorc
 - /biking/zaplanatavzentroza
-- /hikes/ermanovec
 peak: 46.021711,14.094982
 region: gorenjska
 start: 46.041753,14.103844

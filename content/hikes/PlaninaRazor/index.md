@@ -32,7 +32,7 @@ nearby:
 - /hikes/vogel
 - /hikes/kobiljaglava
 - /hikes/vodicnivrh
-- /hikes/krstenica
+- /hikes/vogar
 peak: 46.235612,13.793350
 region: julian-alps
 start: 46.229377,13.771512

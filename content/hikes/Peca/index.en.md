@@ -10,6 +10,10 @@ maplink: https://mapzs.projekti.si/poi/4387
 name: Peca
 nearby:
 - /hikes/raduha
+- /hikes/strelovec
+- /hikes/klemencajama
+- /hikes/okreselj
+- /hikes/kamniskosedlo
 peak: 46.500335,14.780003
 photo_author: Mojca_Lustrek
 region: karavanke

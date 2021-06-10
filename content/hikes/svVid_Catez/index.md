@@ -9,7 +9,11 @@ lead: M_1-5142_IMG.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/5651
 name: svVid_Catez
-nearby: []
+nearby:
+- /hikes/podbohorjem
+- /hikes/gospodicna
+- /hikes/brunk
+- /hikes/smuk
 peak: 45.884909,15.597638
 region: dolenjska
 title: Sv. Vid nad Čatežem

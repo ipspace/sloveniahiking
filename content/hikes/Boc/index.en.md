@@ -8,6 +8,9 @@ lead: M_9_0958.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/1277
 name: Boc
+nearby:
+- /hikes/donackagora
+- /hikes/trijekralji
 peak: 46.289296,15.599824
 region:
 - karavanke

@@ -10,6 +10,10 @@ maplink: https://mapzs.projekti.si/poi/360
 name: Kotecnik
 nearby:
 - /hikes/kamnik
+- /hikes/mrzlica
+- /hikes/krvavica
+- /hikes/kum
+- /hikes/goraoljka_polzela
 peak: 46.201409,15.181412
 photo_author: Mojca_Lustrek
 region: posavje

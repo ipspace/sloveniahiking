@@ -12,8 +12,8 @@ nearby:
 - /hikes/okreselj
 - /hikes/grintovec
 - /hikes/kamniskosedlo
+- /hikes/klemencajama
 - /hikes/kalskigreben
-- /hikes/vrhkorena
 peak: 46.397913, 14.546991
 photo_author: Mojca_Lustrek
 region: kamnik-alps

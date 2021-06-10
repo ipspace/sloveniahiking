@@ -29,8 +29,8 @@ nearby:
 - /hikes/sleme
 - /hikes/toscbohinj
 - /hikes/velikidraskivrh
+- /hikes/malidraskivrh
 - /hikes/jezerskistog
-- /hikes/krstenica
 peak: 46.408035,13.818710
 region: julian-alps
 start: 46.412627,13.846501

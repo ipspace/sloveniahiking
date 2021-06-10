@@ -11,10 +11,10 @@ maplink: https://mapzs.projekti.si/poi/5161
 name: svDuh_Podkraj
 nearby:
 - /hikes/hrusica
-- /hikes/suhivrh
-- /hikes/nanos
-- /hikes/hleviskeplanine
-- /hikes/vrsnik_ziri
+- /hikes/kovk
+- /hikes/plaz
+- /hikes/gradiskatura
+- /hikes/soncnica
 peak: 45.871767,14.062456
 region: primorska
 start: 45.863937,14.062856

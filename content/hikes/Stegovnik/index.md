@@ -20,8 +20,10 @@ maplink: https://mapzs.projekti.si/poi/773
 name: Stegovnik
 nearby:
 - /hikes/kozjivrh
+- /hikes/kladivo
+- /hikes/kofce
 - /hikes/svjakob_preddvor
-- /hikes/baba
+- /hikes/velikivrh
 peak: 46.395233,14.419961
 photo_author: Milos_Kobe
 region: karavanke

@@ -22,9 +22,9 @@ name: Zibrse
 nearby:
 - /biking/zaplanatavzentroza
 - /biking/zaplanarovte
+- /hikes/spica
+- /biking/vrhnikazaplana
 - /hikes/vs3k
-- /biking/hrusicapolsak
-- /hikes/hrusica
 region: notranjska
 start: 45.958404,14.191024
 title: Žibrše

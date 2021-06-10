@@ -10,11 +10,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/278
 name: HleviskePlanine
 nearby:
+- /hikes/vrsnik_ziri
 - /hikes/mrzlivrh_ziri
-- /hikes/bevkovvrh
-- /hikes/kovk
-- /hikes/soncnica
-- /hikes/ermanovec
+- /hikes/dolskimaj
+- /hikes/otliskookno
+- /hikes/maligolak
 peak: 45.987225,13.995846
 region: primorska
 start: 46.000427,14.023701

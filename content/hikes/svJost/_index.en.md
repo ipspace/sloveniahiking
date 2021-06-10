@@ -14,6 +14,9 @@ name: svJost
 nearby:
 - /hikes/golivrh_savnice
 - /hikes/creta
+- /hikes/krvavica
+- /hikes/goraoljka_polzela
+- /hikes/velikirogac
 peak: 46.260617,14.910768
 region: kamnik-alps
 title: Saint Jost near Vransko

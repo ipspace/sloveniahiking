@@ -10,6 +10,10 @@ maplink: https://mapzs.projekti.si/poi/948
 name: GoliVrh_Savnice
 nearby:
 - /hikes/svjost
+- /hikes/creta
+- /hikes/krvavica
+- /hikes/velikirogac
+- /hikes/kranjskareber
 peak: 46.248208,14.859629
 photo_author: Mojca_Lustrek
 region: kamnik-alps

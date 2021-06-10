@@ -23,7 +23,7 @@ nearby:
 - /hikes/ermanovec
 - /hikes/crnivrhcerkno
 - /hikes/blegos
-- /hikes/mrzlivrh_ziri
+- /hikes/bevkovvrh
 peak: 46.101523,14.063172
 region: gorenjska
 start: 46.123822,14.074632

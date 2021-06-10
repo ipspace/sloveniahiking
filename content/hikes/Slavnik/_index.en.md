@@ -10,6 +10,7 @@ name: Slavnik
 nearby:
 - /hikes/podgorje
 - /hikes/hrastovljezazid
+- /biking/rizanapraproce
 - /hikes/lipnik
 - /hikes/kuk
 peak: 45.533685,13.975236

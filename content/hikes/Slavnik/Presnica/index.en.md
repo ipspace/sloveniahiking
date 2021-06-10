@@ -15,7 +15,7 @@ nearby:
 - /biking/rizanapraproce
 - /hikes/slavnik
 - /hikes/zgornjikras
-- /hikes/hrastovljezazid
+- /hikes/socerb
 peak: 45.533685,13.975236
 region: istria
 start: 45.571174,13.938894

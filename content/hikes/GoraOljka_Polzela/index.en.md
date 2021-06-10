@@ -9,6 +9,9 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/432
 name: GoraOljka_Polzela
 nearby:
+- /hikes/creta
+- /hikes/svjost
+- /hikes/kamnik
 - /hikes/krvavica
 - /hikes/mrzlica
 peak: 46.325631,15.058779

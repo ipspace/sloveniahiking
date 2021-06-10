@@ -21,7 +21,9 @@ name: MarezigeSmarje
 nearby:
 - /biking/marezigeborst
 - /biking/marezigetrsek
-- /hikes/abitanti
+- /hikes/padna
+- /hikes/tinjan_osp
+- /hikes/lacna
 region: istria
 start: 45.506836,13.798535
 title: Marezige – Šmarje – Vanganel

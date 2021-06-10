@@ -12,8 +12,8 @@ nearby:
 - /hikes/sebrelje
 - /hikes/kojca
 - /hikes/porezen
-- /hikes/crnaprst
-- /hikes/hleviskeplanine
+- /hikes/skrbinakuk
+- /hikes/bevkovvrh
 peak: 46.130969,13.927604
 region: primorska
 start: 46.117423,13.921578

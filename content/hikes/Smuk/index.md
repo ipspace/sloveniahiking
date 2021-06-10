@@ -9,7 +9,8 @@ height: 547
 lead: M_007011903.jpg
 maplink: https://mapzs.projekti.si/poi/4162
 name: Smuk
-nearby: []
+nearby:
+- /hikes/gospodicna
 peak: 45.661401,15.179623
 photo_author: Joze_Zugelj
 region: bela-krajina

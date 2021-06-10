@@ -13,8 +13,8 @@ nearby:
 - /hikes/bukovvrh
 - /hikes/javorc
 - /hikes/kozljek
+- /hikes/polhograjskagora
 - /hikes/vs3k
-- /hikes/malenskivrh
 peak: 46.072944,14.209167
 region: notranjska
 start: 46.069156,14.272721

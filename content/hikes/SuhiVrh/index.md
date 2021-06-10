@@ -12,9 +12,10 @@ maplink: https://mapzs.projekti.si/poi/1022
 name: SuhiVrh
 nearby:
 - /hikes/nanos
+- /hikes/svmiklavz_vipava
+- /hikes/gradiskatura
 - /hikes/hrusica
 - /hikes/svduh_podkraj
-- /hikes/vremscica
 peak: 45.798405,14.066979
 photo_author: Mojca_Lustrek
 region: primorska

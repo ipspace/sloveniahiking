@@ -12,9 +12,10 @@ multipath: true
 name: Slavnik/Markovscina
 nearby:
 - /hikes/slavnik
+- /hikes/podgorje
 - /hikes/ostric
+- /hikes/hrastovljezazid
 - /hikes/lipnik
-- /hikes/vremscica
 peak: 45.533685,13.975236
 region: istria
 start: 45.559779,14.031400

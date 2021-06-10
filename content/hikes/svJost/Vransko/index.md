@@ -17,6 +17,8 @@ nearby:
 - /hikes/svjost
 - /hikes/creta
 - /hikes/krvavica
+- /hikes/golivrh_savnice
+- /hikes/goraoljka_polzela
 peak: 46.260617,14.910768
 photo_author: Mojca_Lustrek
 region: kamnik-alps

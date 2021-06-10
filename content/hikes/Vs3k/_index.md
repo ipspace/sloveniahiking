@@ -8,8 +8,8 @@ nearby:
 - /hikes/goropeke
 - /biking/zaplanatavzentroza
 - /biking/zaplanarovte
+- /hikes/vrsnik_ziri
 - /hikes/javorc
-- /biking/zibrse
 peak: 46.010608,14.168462
 region: gorenjska
 title: Vrh Svetih treh kraljev

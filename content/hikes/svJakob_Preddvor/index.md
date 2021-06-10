@@ -11,7 +11,9 @@ name: svJakob_Preddvor
 nearby:
 - /hikes/baba
 - /hikes/kozjivrh
-- /hikes/stegovnik
+- /hikes/kalskigreben
+- /hikes/zvoh
+- /hikes/ambroz
 peak: 46.315115,14.440824
 region: kamnik-alps
 start: 46.305721,14.432230

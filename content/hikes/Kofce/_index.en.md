@@ -10,6 +10,7 @@ nearby:
 - /hikes/kladivo
 - /hikes/kosutica
 - /hikes/korosica
+- /hikes/dobrca
 peak: 46.417820,14.323948
 region: karavanke
 title: Kofce

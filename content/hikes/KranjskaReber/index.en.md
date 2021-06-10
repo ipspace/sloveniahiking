@@ -11,8 +11,9 @@ name: KranjskaReber
 nearby:
 - /hikes/velikirogac
 - /hikes/velikaplanina
-- /hikes/strelovec
-- /hikes/raduha
+- /hikes/svprimoz_kamnik
+- /hikes/konj
+- /hikes/kamniskivrh
 peak: 46.284542,14.711178
 photo_author: Mojca_Lustrek
 region: kamnik-alps

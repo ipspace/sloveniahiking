@@ -15,7 +15,7 @@ nearby:
 - /hikes/spica
 - /hikes/kuren
 - /biking/zaplanarovte
-- /hikes/kozljek
+- /biking/zibrse
 peak: 45.971434,14.251496
 region: notranjska
 start: 45.956459,14.249277

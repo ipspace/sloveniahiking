@@ -21,7 +21,12 @@ lead: M_2_2830.JPG
 map: 1
 maplink: https://mapzs.projekti.si/poi/4207
 name: Padna
-nearby: []
+nearby:
+- /biking/marezigesmarje
+- /biking/marezigeborst
+- /biking/marezigetrsek
+- /hikes/abitanti
+- /hikes/tinjan_osp
 peak: 45.491149,13.689970
 region: istria
 start: 45.494227,13.677033

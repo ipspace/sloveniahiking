@@ -14,7 +14,7 @@ nearby:
 - /hikes/slajka
 - /hikes/bukovvrh
 - /hikes/miklavskagora
-- /hikes/javorc
+- /hikes/crnivrhcerkno
 peak: 46.153682,14.153111
 region: gorenjska
 title: Malenski vrh

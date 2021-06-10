@@ -25,7 +25,7 @@ nearby:
 - /hikes/podgorje
 - /hikes/hrastovljezazid
 - /hikes/kuk
-- /hikes/tinjan_osp
+- /hikes/slavnik
 region: istria
 start: 45.523654,13.889561
 title: Karst Edge and Praproče from Rižana Valley

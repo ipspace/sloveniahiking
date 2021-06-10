@@ -22,8 +22,8 @@ nearby:
 - /biking/path9ponds
 - /biking/lukovecmalidol
 - /hikes/pedrovo
-- /hikes/skoljsvpavla
-- /hikes/malagora
+- /hikes/trstelj_dornberk
+- /biking/podnanossocerb
 region: karst
 start: 45.810886,13.828548
 title: 'Exploring Karst: From Hruševica to Kosovelje'

@@ -13,8 +13,8 @@ nearby:
 - /hikes/malenskivrh
 - /hikes/crnivrhcerkno
 - /hikes/slajka
+- /hikes/miklavskagora
 - /hikes/ermanovec
-- /hikes/javorc
 peak: 46.164802,14.113583
 region: gorenjska
 title: Blegoš

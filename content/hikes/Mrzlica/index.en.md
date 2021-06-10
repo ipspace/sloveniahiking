@@ -10,8 +10,10 @@ maplink: https://mapzs.projekti.si/poi/34816
 name: Mrzlica
 nearby:
 - /hikes/kamnik
+- /hikes/kotecnik
+- /hikes/krvavica
 - /hikes/kum
-- /hikes/goraoljka_polzela
+- /hikes/creta
 peak: 46.187516,15.107444
 region: posavje
 title: Mrzlica from Prebold

@@ -14,7 +14,7 @@ nearby:
 - /biking/hrusicapolsak
 - /hikes/planinskagora
 - /hikes/hrusica
-- /biking/zibrse
+- /hikes/svduh_podkraj
 peak: 45.839190,14.168374
 region: notranjska
 title: Sv. Lovrenc nad Studenom

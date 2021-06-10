@@ -11,9 +11,10 @@ maplink: https://mapzs.projekti.si/poi/1148
 name: SvetaTrojica
 nearby:
 - /hikes/javorniki
+- /hikes/slivnica
 - /hikes/planinskagora
 - /hikes/oblenk
-- /hikes/volovjareber
+- /biking/volovjareber
 peak: 45.724803,14.271539
 region: notranjska
 start: 45.724674,14.257749

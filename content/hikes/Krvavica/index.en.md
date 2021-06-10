@@ -10,8 +10,11 @@ map: 1
 maplink: https://mapzs.projekti.si/poi/1354
 name: Krvavica
 nearby:
+- /hikes/mrzlica
 - /hikes/creta
-- /hikes/goraoljka_polzela
+- /hikes/svjost
+- /hikes/kamnik
+- /hikes/golivrh_savnice
 peak: 46.200792,14.993072
 photo_author: Mojca_Lustrek
 region: posavje

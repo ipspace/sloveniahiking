@@ -13,7 +13,7 @@ nearby:
 - /biking/vrhnikazaplana
 - /biking/zaplanarovte
 - /hikes/kuren
-- /hikes/vs3k
+- /biking/zibrse
 peak: 45.971434,14.251496
 region: notranjska
 start: 45.970243,14.235464

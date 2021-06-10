@@ -25,8 +25,8 @@ nearby:
 - /biking/lukovecmalidol
 - /biking/hrusevicakosovelje
 - /hikes/pedrovo
+- /hikes/trstelj_dornberk
 - /hikes/skoljsvpavla
-- /hikes/malagora
 region: karst
 start: 45.814512,13.810002
 title: The Path of Nine Ponds

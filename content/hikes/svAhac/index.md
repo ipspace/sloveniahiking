@@ -9,7 +9,9 @@ height: 748
 lead: M_01.jpg
 maplink: https://www.opencyclemap.org/?zoom=15&lat=45.8936&lon=14.60601&layers=B0000
 name: svAhac
-nearby: []
+nearby:
+- /hikes/krim
+- /hikes/slivnica
 peak: 45.893531,14.605998
 photo_author: Milos_Kobe
 region: dolenjska

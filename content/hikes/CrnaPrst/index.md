@@ -35,10 +35,10 @@ maplink: https://mapzs.projekti.si/poi/34894
 name: CrnaPrst
 nearby:
 - /hikes/porezen
+- /hikes/vogel
 - /hikes/kojca
 - /hikes/vogar
-- /hikes/uskovnica
-- /hikes/rodne
+- /hikes/vogelvrh
 peak: 46.231157,13.931631
 region: julian-alps
 start: 46.258675,13.959392

@@ -10,6 +10,10 @@ maplink: https://mapzs.projekti.si/poi/4803
 name: Golica
 nearby:
 - /hikes/klek
+- /hikes/planinaseca
+- /hikes/vrtaca
+- /hikes/debelapec
+- /hikes/sleme
 peak: 46.491437,14.054546
 region: karavanke
 start: 46.461300,14.048692

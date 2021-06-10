@@ -11,9 +11,9 @@ name: MiklavskaGora
 nearby:
 - /hikes/malenskivrh
 - /hikes/jamnik_vodice
+- /hikes/blegos
 - /hikes/bukovvrh
-- /hikes/sivka
-- /hikes/javorc
+- /hikes/crnivrhcerkno
 peak: 46.211008,14.190950
 photo_author: Mojca_Lustrek
 region: gorenjska
