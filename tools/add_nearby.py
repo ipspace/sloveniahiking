@@ -45,10 +45,10 @@ def get_coords(fname):
     'coords': latlon
   })
 
-def find_nearby_trips(t,trips):
-  candidates = filter(lambda c: 
-                        abs(t['coords']['lat'] - c['coords']['lat']) < 0.15 and 
-                        abs(t['coords']['lon'] - c['coords']['lon']) < 0.07 and
+def find_nearby_trips(t,trips,radius):
+  candidates = filter(lambda c:
+                        abs(t['coords']['lat'] - c['coords']['lat']) < radius and
+                        abs(t['coords']['lon'] - c['coords']['lon']) < radius * 1.4 and
                         c['name'] != t['name'] and not c.get('multipath'),
                       trips)
   sort_nearby = sorted(candidates,
@@ -56,13 +56,15 @@ def find_nearby_trips(t,trips):
                          geopy.distance.distance(
                            (c['coords']['lat'],c['coords']['lon']),
                            (t['coords']['lat'],t['coords']['lon'])))
-  return list(map(lambda c: 
+  return list(map(lambda c:
                     '/%s/%s' % (c['type'],c['name'].lower()),
                   list(sort_nearby)[0:5]))
 
 def compute_nearby(trips):
   for t in trips:
-    nearby = find_nearby_trips(t,trips)
+    nearby = find_nearby_trips(t,trips,0.15)
+    if not len(nearby):
+      nearby = find_nearby_trips(t,trips,0.3)
     page = pages[t['path']]
     if nearby != page.get('nearby',None):
       page['nearby'] = nearby
