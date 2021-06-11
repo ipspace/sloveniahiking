@@ -9,10 +9,10 @@ lead: M_5100101.jpg
 name: Baba
 nearby:
 - /hikes/svjakob_preddvor
+- /biking/svjakob
 - /hikes/zvoh
 - /hikes/kozjivrh
 - /hikes/kalskigreben
-- /hikes/ambroz
 peak: 46.31047,14.46331
 photo_author: Mojca_Lustrek
 region: kamnik-alps

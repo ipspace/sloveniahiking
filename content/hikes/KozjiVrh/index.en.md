@@ -12,8 +12,8 @@ nearby:
 - /hikes/stegovnik
 - /hikes/svjakob_preddvor
 - /hikes/baba
+- /biking/svjakob
 - /hikes/grintovec
-- /hikes/kalskigreben
 peak: 46.364549,14.446209
 region: karavanke
 start: 46.380160,14.461829

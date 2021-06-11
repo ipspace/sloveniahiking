@@ -220,11 +220,11 @@
     "maplink": "https://mapzs.projekti.si/poi/1295",
     "name": "svJakob_Preddvor",
     "nearby": [
+      "/biking/svjakob",
       "/hikes/baba",
       "/hikes/kozjivrh",
       "/hikes/kalskigreben",
-      "/hikes/zvoh",
-      "/hikes/ambroz"
+      "/hikes/zvoh"
     ],
     "peak": "46.315115,14.440824",
     "region": "kamnik-alps",
@@ -1733,10 +1733,10 @@
     "name": "Baba",
     "nearby": [
       "/hikes/svjakob_preddvor",
+      "/biking/svjakob",
       "/hikes/zvoh",
       "/hikes/kozjivrh",
-      "/hikes/kalskigreben",
-      "/hikes/ambroz"
+      "/hikes/kalskigreben"
     ],
     "peak": "46.31047,14.46331",
     "photo_author": "Mojca_Lustrek",
@@ -4380,8 +4380,8 @@
       "/hikes/stegovnik",
       "/hikes/svjakob_preddvor",
       "/hikes/baba",
-      "/hikes/grintovec",
-      "/hikes/kalskigreben"
+      "/biking/svjakob",
+      "/hikes/grintovec"
     ],
     "peak": "46.364549,14.446209",
     "region": "karavanke",
@@ -6070,6 +6070,35 @@
     "video": "https://www.relive.cc/view/vAOZPEJNzyq/",
     "type": "biking",
     "center": "45.492391,13.798265"
+  },
+  {
+    "date": "2021-06-11 15:19:10+00:00",
+    "delta": "500",
+    "description": {
+      "en": "When hiking to St. Jacob above Preddvor, you\u2019ll cross a gravel road several times. You can use that road to get to the church (and enjoy a fantastic apple strudel in the nearby hut) on a bike."
+    },
+    "difficulty": "Steep asphalt and gravel roads",
+    "duration": "2",
+    "height": "961",
+    "lead": "M_20210611_103323.jpg",
+    "length": "12",
+    "maplink": "https://mapzs.projekti.si/poi/1295",
+    "name": "svJakob",
+    "nearby": [
+      "/hikes/svjakob_preddvor",
+      "/hikes/baba",
+      "/hikes/kozjivrh",
+      "/hikes/ambroz",
+      "/hikes/zvoh"
+    ],
+    "region": "kamnik-alps",
+    "start": "46.300150,14.428140",
+    "title": {
+      "en": "Biking to Saint Jacob above Preddvor"
+    },
+    "video": "https://www.relive.cc/view/v7O9V4X8MQ6/",
+    "type": "biking",
+    "center": "46.307650,14.437057"
   },
   {
     "date": "2021-05-31 12:14:31+00:00",
