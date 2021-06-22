@@ -185,6 +185,22 @@ def trim(parsed,LATLON):
   print("\nPoints left after cutting: %d" % (len(result["track"])))
   return result
 
+def track_begin(parsed,LATLON):
+  print("\nStarting the track on %s - %s" % (LATLON['lat'],LATLON['lon']))
+  point = find_closest(parsed['track'],LATLON,0,1)
+
+  result = { 'track': parsed['track'][point["best"]:] }
+  print("\nPoints left after cutting: %d" % (len(result["track"])))
+  return result
+
+def track_end(parsed,LATLON):
+  print("\nEnding the track on %s - %s" % (LATLON['lat'],LATLON['lon']))
+  point = find_closest(parsed['track'],LATLON,len(parsed['track'])-1,-1)
+
+  result = { 'track': parsed['track'][:point["best"]] }
+  print("\nPoints left after cutting: %d" % (len(result["track"])))
+  return result
+
 def start(parsed,LATLON):
   global radius
 
@@ -255,6 +271,12 @@ trim LAT,LON
 
 skip LAT,LON LAT,LON
   Skip the track between first and second coordinate, creating two tracks.
+
+begin LAT,LON
+  Start the track at the specified coordinate
+
+end LAT,LON
+  Stop the track at the specified coordinate
   """)
   sys.exit(0)
 
@@ -294,6 +316,10 @@ def transform(parsed,cmds):
       parsed = trim(parsed,get_lat_lon(cmds.pop(0)))
     elif cmd == 'start':
       parsed = start(parsed,get_lat_lon(cmds.pop(0)))
+    elif cmd == 'begin':
+      parsed = track_begin(parsed,get_lat_lon(cmds.pop(0)))
+    elif cmd == 'end':
+      parsed = track_end(parsed,get_lat_lon(cmds.pop(0)))
     elif cmd == 'skip':
       parsed = skip(parsed,get_lat_lon(cmds.pop(0)),get_lat_lon(cmds.pop(0)))
     elif cmd == 'help':

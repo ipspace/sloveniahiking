@@ -2463,6 +2463,49 @@
     "y": 129
   },
   {
+    "date": "2021-06-22 17:39:08+00:00",
+    "delta": "960",
+    "description": {
+      "sl": "Planina Golobar je osamljen skrit biser visoko nad dolino So\u010de z lepimi pogledi na okoli\u0161ke vrhove",
+      "en": "Planina Golobar is one of the hidden gems of upper So\u010da valley. A long hike through a beech forest will reward you with magnificent views of surrounding peaks.\n"
+    },
+    "difficulty": "Strma var\u010dno markirana pe\u0161pot",
+    "duration": "5",
+    "gpx": {
+      "center": {
+        "lat": 46.32462288770806,
+        "lon": 13.599914881775355
+      },
+      "file": "Golobar.gpx",
+      "modified": 1624386474
+    },
+    "height": "1314",
+    "layout": "structured",
+    "lead": "IMG_1924.jpg",
+    "maplink": "https://mapzs.projekti.si/path/32458",
+    "name": "Golobar",
+    "nearby": [
+      "/hikes/tamar",
+      "/hikes/planinarazor",
+      "/hikes/vogelvrh",
+      "/hikes/vogel",
+      "/hikes/stenar"
+    ],
+    "path": "https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675",
+    "peak": "46.316692,13.614670",
+    "region": "julian-alps",
+    "start": "46.336070,13.582052",
+    "timing": [
+      "Vzpon: 2.5 ure",
+      "Spust: 2 uri",
+      "Skupaj: 5 ur"
+    ],
+    "title": {
+      "sl": "Planina Golobar",
+      "en": "Planina Golobar"
+    }
+  },
+  {
     "date": "2021-02-22 11:39:23+00:00",
     "delta": 410,
     "description": {
@@ -5714,7 +5757,7 @@
         "lon": 13.83224585
       },
       "file": "Abitanti.gpx",
-      "modified": 1619847644
+      "modified": 1619847381
     },
     "height": 418,
     "lead": "M_1_10002.JPG",
@@ -6075,7 +6118,7 @@
     "date": "2021-06-11 15:19:10+00:00",
     "delta": "500",
     "description": {
-      "en": "When hiking to St. Jacob above Preddvor, you\u2019ll cross a gravel road several times. You can use that road to get to the church (and enjoy a fantastic apple strudel in the nearby hut) on a bike."
+      "en": "When [hiking to St. Jacob above Preddvor](/en/hikes/svjakob_preddvor), you\u2019ll cross a gravel road several times. You can use that road to get to the church (and enjoy a fantastic apple strudel in the nearby hut) on a bike."
     },
     "difficulty": "Steep asphalt and gravel roads",
     "duration": "2",
