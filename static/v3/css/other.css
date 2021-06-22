@@ -2149,7 +2149,7 @@ form.labeled.profile {
     .post__comment-link:hover .post__comments-icon {
       fill: #ff9f01; }
 
-.post__comment-add {
+.post__comment-add, .post__comment-reply {
   cursor: pointer; }
 
 .post__comments-icon {
