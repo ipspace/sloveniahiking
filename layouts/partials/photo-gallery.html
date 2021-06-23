@@ -1,4 +1,4 @@
-{{ $images := .Resources.Match "M*.[jJ][pP][gG]" }}
+{{ $images := .Resources.Match "[IM]*.[jJ][pP][gG]" }}
 {{ $lead := .Scratch.Get "lead" | default .Params.lead }}
 {{ if or (gt (len $images) 1) (eq $lead "NOLEAD") }}
   <h3>{{ i18n (printf "%sPhotos" .Type) }}</h3>
