@@ -304,6 +304,8 @@ def get_lat_lon(coords):
     sys.exit(0)
 
 def transform(parsed,cmds):
+  global radius
+
   while len(cmds):
     cmd = cmds.pop(0)
     if cmd == 'laps':
@@ -322,6 +324,8 @@ def transform(parsed,cmds):
       parsed = track_end(parsed,get_lat_lon(cmds.pop(0)))
     elif cmd == 'skip':
       parsed = skip(parsed,get_lat_lon(cmds.pop(0)),get_lat_lon(cmds.pop(0)))
+    elif cmd == 'radius':
+      radius = int(cmds.pop(0))
     elif cmd == 'help':
       cmd_usage()
     else:
