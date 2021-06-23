@@ -2485,11 +2485,11 @@
     "maplink": "https://mapzs.projekti.si/path/32458",
     "name": "Golobar",
     "nearby": [
+      "/hikes/loskakoritnica",
       "/hikes/tamar",
       "/hikes/planinarazor",
       "/hikes/vogelvrh",
-      "/hikes/vogel",
-      "/hikes/stenar"
+      "/hikes/vogel"
     ],
     "path": "https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675",
     "peak": "46.316692,13.614670",
@@ -3362,6 +3362,48 @@
     "title": {
       "sl": "Kofce",
       "en": "Kofce"
+    }
+  },
+  {
+    "date": "2021-06-23 14:16:40+00:00",
+    "delta": "460",
+    "description": {
+      "sl": "Od Loga pod Mangartom do zatrepa Koritnice vodi prijetna sen\u010dna pe\u0161pot - kot nala\u0161\u010d za dneve ko se nam ne ljubi hiteti v gore.",
+      "en": "Lo\u0161ka Koritnica is a beautiful alpine valley surrounded by more than fifteen peaks higher than 2000 meters. We'll explore its upper parts, from Log pod Mangartom to Koritnica's source.\n"
+    },
+    "difficulty": "Prijeten sprehod po sen\u010dnih pe\u0161poteh",
+    "duration": "4",
+    "gpx": {
+      "center": {
+        "lat": 46.41550128180251,
+        "lon": 13.631249284918901
+      },
+      "file": "LoskaKoritnica.gpx",
+      "modified": 1624463382
+    },
+    "height": "1103",
+    "layout": "structured",
+    "lead": "IMG_1934.jpg",
+    "maplink": "https://mapzs.projekti.si/poi/5719",
+    "name": "LoskaKoritnica",
+    "nearby": [
+      "/hikes/tamar",
+      "/hikes/golobar",
+      "/hikes/stenar",
+      "/hikes/jezerskistog",
+      "/hikes/krstenica"
+    ],
+    "peak": "46.423072,13.658112",
+    "region": "julian-alps",
+    "start": "46.408004,13.604229",
+    "timing": [
+      "Vzpon: 2 uri",
+      "Spust: 1.5 ure",
+      "Skupaj: 4 ure"
+    ],
+    "title": {
+      "sl": "Lo\u0161ka Koritnica",
+      "en": "Lo\u0161ka Koritnica"
     }
   },
   {
@@ -4334,11 +4376,11 @@
     "maplink": "https://mapzs.projekti.si/poi/1145",
     "name": "Tamar",
     "nearby": [
+      "/hikes/loskakoritnica",
       "/hikes/stenar",
       "/hikes/sleme",
       "/hikes/toscbohinj",
-      "/hikes/jezerskistog",
-      "/hikes/velikidraskivrh"
+      "/hikes/jezerskistog"
     ],
     "peak": "46.446150,13.713228",
     "photo_author": "Tina_diBatista",

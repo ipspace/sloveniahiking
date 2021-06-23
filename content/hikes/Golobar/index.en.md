@@ -20,11 +20,11 @@ lead: IMG_1924.jpg
 maplink: https://mapzs.projekti.si/path/32458
 name: Golobar
 nearby:
+- /hikes/loskakoritnica
 - /hikes/tamar
 - /hikes/planinarazor
 - /hikes/vogelvrh
 - /hikes/vogel
-- /hikes/stenar
 peak: 46.316692,13.614670
 region: julian-alps
 start: 46.336070,13.582052

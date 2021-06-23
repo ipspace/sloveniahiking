@@ -17,11 +17,11 @@ lead: IMG_1924.jpg
 maplink: https://mapzs.projekti.si/path/32458
 name: Golobar
 nearby:
+- /hikes/loskakoritnica
 - /hikes/tamar
 - /hikes/planinarazor
 - /hikes/vogelvrh
 - /hikes/vogel
-- /hikes/stenar
 path: https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675
 peak: 46.316692,13.614670
 region: julian-alps
@@ -31,5 +31,6 @@ timing:
 - 'Spust: 2 uri'
 - 'Skupaj: 5 ur'
 title: Planina Golobar
+video: https://www.relive.cc/view/vQvxBAo3BB6/
 ---
 {{<hike-details description="yes">}}
