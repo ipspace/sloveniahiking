@@ -33,6 +33,7 @@ timing:
 - 'Descent: 1.5 hours'
 - 'Total: 4 hours'
 title: Loška Koritnica
+video: https://www.relive.cc/view/vMv8QDxeBPO/
 ---
 {{<hike-details description="yes">}}
 

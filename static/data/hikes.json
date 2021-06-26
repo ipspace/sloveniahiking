@@ -1967,10 +1967,10 @@
     "name": "Vs3k/Sopot",
     "nearby": [
       "/hikes/vs3k",
+      "/biking/zavratec",
       "/biking/zaplanatavzentroza",
       "/hikes/goropeke",
-      "/hikes/vrsnik_ziri",
-      "/biking/zaplanarovte"
+      "/hikes/vrsnik_ziri"
     ],
     "peak": "46.010608,14.168462",
     "region": "gorenjska",
@@ -2012,11 +2012,11 @@
     "maplink": "https://mapzs.projekti.si/poi/4410",
     "name": "Vs3k",
     "nearby": [
+      "/biking/zavratec",
       "/hikes/goropeke",
       "/biking/zaplanatavzentroza",
       "/biking/zaplanarovte",
-      "/hikes/vrsnik_ziri",
-      "/hikes/javorc"
+      "/hikes/vrsnik_ziri"
     ],
     "peak": "46.010608,14.168462",
     "region": "gorenjska",
@@ -2419,9 +2419,9 @@
     "nearby": [
       "/hikes/goropeke",
       "/hikes/mrzlivrh_ziri",
+      "/biking/zavratec",
       "/hikes/vs3k",
-      "/hikes/javorc",
-      "/biking/zaplanatavzentroza"
+      "/hikes/javorc"
     ],
     "peak": "46.021711,14.094982",
     "region": "gorenjska",
@@ -2503,7 +2503,8 @@
     "title": {
       "sl": "Planina Golobar",
       "en": "Planina Golobar"
-    }
+    },
+    "video": "https://www.relive.cc/view/vQvxBAo3BB6/"
   },
   {
     "date": "2021-02-22 11:39:23+00:00",
@@ -3404,7 +3405,8 @@
     "title": {
       "sl": "Lo\u0161ka Koritnica",
       "en": "Lo\u0161ka Koritnica"
-    }
+    },
+    "video": "https://www.relive.cc/view/vMv8QDxeBPO/"
   },
   {
     "date": "2003-09-14 00:00:00+00:00",
@@ -3617,7 +3619,7 @@
       "/hikes/javorc",
       "/hikes/vs3k",
       "/hikes/mrzlivrh_ziri",
-      "/biking/zaplanatavzentroza"
+      "/biking/zavratec"
     ],
     "peak": "46.034557,14.125964",
     "region": "gorenjska",
@@ -5799,7 +5801,7 @@
         "lon": 13.83224585
       },
       "file": "Abitanti.gpx",
-      "modified": 1619847381
+      "modified": 1619847644
     },
     "height": 418,
     "lead": "M_1_10002.JPG",
@@ -6352,6 +6354,36 @@
     "center": "45.876271,14.184730"
   },
   {
+    "date": "2021-06-26 14:11:19+00:00",
+    "delta": "440",
+    "description": {
+      "en": "The eastern part of the boundary between Gorenjska and Primorska (two historical regions in western Slovenia) lies on Idrijca and Sora's watershed. We'll explore a picturesque ridge on that watershed with great views of Kamnik Alps, Julian Alps, and Idrija hills."
+    },
+    "difficulty": "Occasionally steep asphalt roads",
+    "duration": "2.5",
+    "height": "850",
+    "layout": "structured",
+    "lead": "M_20210626_083237.jpg",
+    "length": "20.3",
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.97928&lon=14.15498&layers=B0000",
+    "name": "Zavratec",
+    "nearby": [
+      "/biking/zaplanatavzentroza",
+      "/hikes/vs3k",
+      "/biking/zibrse",
+      "/biking/zaplanarovte",
+      "/hikes/vrsnik_ziri"
+    ],
+    "region": "gorenjska",
+    "start": "46.000904,14.150434",
+    "title": {
+      "en": "Betwixt Gorenjska and Primorska"
+    },
+    "video": "https://www.relive.cc/view/vDqg7Zr83Gq/",
+    "type": "biking",
+    "center": "45.985338,14.144152"
+  },
+  {
     "date": "2021-05-09 16:11:30+00:00",
     "delta": 400,
     "description": {
@@ -6368,9 +6400,9 @@
     "nearby": [
       "/biking/zaplanatavzentroza",
       "/biking/zaplanarovte",
+      "/biking/zavratec",
       "/hikes/spica",
-      "/biking/vrhnikazaplana",
-      "/hikes/vs3k"
+      "/biking/vrhnikazaplana"
     ],
     "region": "notranjska",
     "start": "45.958404,14.191024",
@@ -6495,11 +6527,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.96809&lon=14.19585&layers=B0000",
     "name": "ZaplanaTavzentroza",
     "nearby": [
+      "/biking/zavratec",
       "/biking/zibrse",
       "/hikes/vs3k",
       "/biking/zaplanarovte",
-      "/hikes/vrsnik_ziri",
-      "/hikes/goropeke"
+      "/hikes/vrsnik_ziri"
     ],
     "peak": "45.971576,14.144772",
     "region": "notranjska",

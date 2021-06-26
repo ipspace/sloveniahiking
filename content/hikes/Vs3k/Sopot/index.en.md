@@ -13,10 +13,10 @@ multipath: true
 name: Vs3k/Sopot
 nearby:
 - /hikes/vs3k
+- /biking/zavratec
 - /biking/zaplanatavzentroza
 - /hikes/goropeke
 - /hikes/vrsnik_ziri
-- /biking/zaplanarovte
 peak: 46.010608,14.168462
 region: gorenjska
 start: 46.000904,14.150434

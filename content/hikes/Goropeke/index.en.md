@@ -13,7 +13,7 @@ nearby:
 - /hikes/javorc
 - /hikes/vs3k
 - /hikes/mrzlivrh_ziri
-- /biking/zaplanatavzentroza
+- /biking/zavratec
 peak: 46.034557,14.125964
 region: gorenjska
 start: 46.047220,14.109817

@@ -5,11 +5,11 @@ layout: stub
 maplink: https://mapzs.projekti.si/poi/4410
 name: Vs3k
 nearby:
+- /biking/zavratec
 - /hikes/goropeke
 - /biking/zaplanatavzentroza
 - /biking/zaplanarovte
 - /hikes/vrsnik_ziri
-- /hikes/javorc
 peak: 46.010608,14.168462
 region: gorenjska
 title: Vrh Svetih treh kraljev

@@ -33,6 +33,7 @@ timing:
 - 'Descent: 2h'
 - 'Total: 5h'
 title: Planina Golobar
+video: https://www.relive.cc/view/vQvxBAo3BB6/
 ---
 {{<hike-details description="yes">}}
 

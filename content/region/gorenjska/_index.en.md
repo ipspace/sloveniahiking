@@ -1,12 +1,12 @@
 ---
 title: Gorenjska
-#lat: 45.80
-#lon: 13.92
-#map_zoom: 10
+lat: 46.2
+lon: 14
+map_zoom: 9
 map_h: 30em
 lang: en
 ---
-This page lists hikes Gorenjska hills. You'll find alpine hikes here:
+This page lists hikes around Gorenjska hills. You'll find alpine hikes here:
 
 * [Julian Alps](../julian-alps)
 * [Karavanke](../karawanks)
