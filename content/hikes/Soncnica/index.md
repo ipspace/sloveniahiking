@@ -25,7 +25,7 @@ nearby:
 - /hikes/starababa
 - /hikes/plaz
 - /hikes/otliskookno
-- /hikes/gradiskatura
+- /biking/kriznagorajavornik
 path: ../kovk/budanje
 peak: 45.886711,13.960029
 region: vipava

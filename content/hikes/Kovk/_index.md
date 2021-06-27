@@ -12,8 +12,8 @@ nearby:
 - /hikes/soncnica
 - /hikes/starababa
 - /hikes/plaz
+- /biking/kriznagorajavornik
 - /hikes/otliskookno
-- /hikes/gradiskatura
 peak: 45.887981,13.969153
 region: vipava
 title: Kovk nad Colom

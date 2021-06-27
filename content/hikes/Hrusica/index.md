@@ -11,8 +11,8 @@ nearby:
 - /hikes/svduh_podkraj
 - /hikes/svlovrenc
 - /biking/hrusicapolsak
+- /biking/kriznagorajavornik
 - /hikes/suhivrh
-- /hikes/oblenk
 peak: 45.863474,14.111302
 region: primorska
 title: Stara pošta na Hrušici

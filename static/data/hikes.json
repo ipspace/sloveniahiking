@@ -3452,8 +3452,8 @@
       "/hikes/svduh_podkraj",
       "/hikes/svlovrenc",
       "/biking/hrusicapolsak",
-      "/hikes/suhivrh",
-      "/hikes/oblenk"
+      "/biking/kriznagorajavornik",
+      "/hikes/suhivrh"
     ],
     "peak": "45.863474,14.111302",
     "region": "primorska",
@@ -4789,8 +4789,8 @@
       "/hikes/soncnica",
       "/hikes/starababa",
       "/hikes/plaz",
-      "/hikes/otliskookno",
-      "/hikes/gradiskatura"
+      "/biking/kriznagorajavornik",
+      "/hikes/otliskookno"
     ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
@@ -4819,9 +4819,9 @@
     "nearby": [
       "/hikes/kovk",
       "/hikes/soncnica",
+      "/biking/kriznagorajavornik",
       "/hikes/plaz",
-      "/hikes/svduh_podkraj",
-      "/hikes/gradiskatura"
+      "/hikes/svduh_podkraj"
     ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
@@ -5511,7 +5511,7 @@
       "/hikes/starababa",
       "/hikes/plaz",
       "/hikes/otliskookno",
-      "/hikes/gradiskatura"
+      "/biking/kriznagorajavornik"
     ],
     "path": "../kovk/budanje",
     "peak": "45.886711,13.960029",
@@ -5893,11 +5893,11 @@
     "maplink": "https://mapzs.projekti.si/poi/5161",
     "name": "svDuh_Podkraj",
     "nearby": [
+      "/biking/kriznagorajavornik",
       "/hikes/hrusica",
       "/hikes/kovk",
       "/hikes/plaz",
-      "/hikes/gradiskatura",
-      "/hikes/soncnica"
+      "/hikes/gradiskatura"
     ],
     "peak": "45.871767,14.062456",
     "region": "primorska",
@@ -6572,6 +6572,36 @@
     "video": "https://www.relive.cc/view/vdvmDAB81xq/",
     "type": "biking",
     "center": "45.973357,14.207557"
+  },
+  {
+    "date": "2021-06-27 14:34:27+00:00",
+    "delta": "790",
+    "description": {
+      "en": "Getting to Pirnat Lodge at Javornik from Col is easy \u2013 you can drive there \u2013 but it's way more fun to take a detour via Kri\u017ena Gora and another one through Vodice on the way back."
+    },
+    "difficulty": "A steep mix of asphalt- and gravel roads",
+    "duration": "3.5",
+    "height": "1175",
+    "layout": "structured",
+    "lead": "M_20210627_102439.jpg",
+    "length": "24",
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.89159&lon=14.03283&layers=B0000",
+    "name": "KriznaGoraJavornik",
+    "nearby": [
+      "/hikes/svduh_podkraj",
+      "/hikes/kovk",
+      "/hikes/soncnica",
+      "/hikes/hrusica",
+      "/hikes/plaz"
+    ],
+    "region": "primorska",
+    "start": "45.881890,14.000828",
+    "title": {
+      "en": "Kri\u017ena Gora and Javornik"
+    },
+    "video": "https://www.relive.cc/view/vrqDQL28XLv/",
+    "type": "biking",
+    "center": "45.895840,14.038451"
   },
   {
     "date": "2021-06-10 16:39:28+00:00",

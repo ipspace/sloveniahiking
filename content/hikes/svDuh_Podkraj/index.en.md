@@ -8,11 +8,11 @@ lead: M_3-3357_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/5161
 name: svDuh_Podkraj
 nearby:
+- /biking/kriznagorajavornik
 - /hikes/hrusica
 - /hikes/kovk
 - /hikes/plaz
 - /hikes/gradiskatura
-- /hikes/soncnica
 peak: 45.871767,14.062456
 region: primorska
 start: 45.863937,14.062856
