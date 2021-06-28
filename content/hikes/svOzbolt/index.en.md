@@ -11,9 +11,9 @@ name: svOzbolt
 nearby:
 - /hikes/svandrej_zminec
 - /hikes/tosc
+- /biking/pasjaravan
 - /hikes/polhograjskagrmada
 - /hikes/polhograjskagora
-- /hikes/bukovvrh
 peak: 46.115648,14.286202
 region: gorenjska
 title: Saint Ozbolt above Zminec

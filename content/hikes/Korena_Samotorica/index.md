@@ -15,8 +15,8 @@ nearby:
 - /hikes/korena
 - /hikes/kozljek
 - /hikes/polhograjskagora
+- /biking/pasjaravan
 - /hikes/polhograjskagrmada
-- /hikes/kuren
 peak: 46.035238,14.295931
 region: notranjska
 start: 46.029142,14.257784

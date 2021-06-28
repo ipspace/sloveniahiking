@@ -10,10 +10,10 @@ maplink: https://mapzs.projekti.si/poi/5445
 name: PolhograjskaGora
 nearby:
 - /hikes/polhograjskagrmada
+- /biking/pasjaravan
 - /hikes/tosc
 - /hikes/korena
 - /hikes/korena_samotorica
-- /hikes/svozbolt
 peak: 46.070824, 14.298751
 region: notranjska
 start: 46.068057,14.313456

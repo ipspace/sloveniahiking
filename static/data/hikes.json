@@ -474,8 +474,8 @@
       "/hikes/korena",
       "/hikes/korena_samotorica",
       "/hikes/polhograjskagora",
-      "/hikes/sivka",
-      "/hikes/kuren"
+      "/biking/pasjaravan",
+      "/hikes/sivka"
     ],
     "peak": "46.034295,14.254920",
     "region": "notranjska",
@@ -799,8 +799,8 @@
       "/hikes/svozbolt",
       "/hikes/tosc",
       "/hikes/polhograjskagrmada",
-      "/hikes/polhograjskagora",
-      "/hikes/bukovvrh"
+      "/biking/pasjaravan",
+      "/hikes/polhograjskagora"
     ],
     "peak": "46.135750,14.301741",
     "region": "gorenjska",
@@ -1150,8 +1150,8 @@
       "/hikes/polhograjskagora",
       "/hikes/polhograjskagrmada",
       "/hikes/tosc",
-      "/hikes/korena",
-      "/hikes/korena_samotorica"
+      "/biking/pasjaravan",
+      "/hikes/korena"
     ],
     "peak": "46.083811,14.332903",
     "region": "notranjska",
@@ -1237,8 +1237,8 @@
       "/hikes/tosc",
       "/hikes/polhograjskagora",
       "/hikes/svozbolt",
-      "/hikes/korena",
-      "/hikes/korena_samotorica"
+      "/biking/pasjaravan",
+      "/hikes/korena"
     ],
     "peak": "46.083811,14.332903",
     "region": "notranjska",
@@ -1404,10 +1404,10 @@
     "name": "BukovVrh",
     "nearby": [
       "/hikes/sivka",
+      "/biking/pasjaravan",
       "/hikes/svozbolt",
       "/hikes/malenskivrh",
-      "/hikes/javorc",
-      "/hikes/svandrej_zminec"
+      "/hikes/javorc"
     ],
     "peak": "46.108922,14.215731",
     "region": "gorenjska",
@@ -2643,10 +2643,10 @@
     "name": "Sivka",
     "nearby": [
       "/hikes/bukovvrh",
+      "/biking/pasjaravan",
       "/hikes/javorc",
       "/hikes/kozljek",
-      "/hikes/polhograjskagora",
-      "/hikes/vs3k"
+      "/hikes/polhograjskagora"
     ],
     "peak": "46.072944,14.209167",
     "region": "notranjska",
@@ -3478,8 +3478,8 @@
       "/hikes/korena_samotorica",
       "/hikes/kozljek",
       "/hikes/polhograjskagora",
-      "/hikes/polhograjskagrmada",
-      "/hikes/kuren"
+      "/biking/pasjaravan",
+      "/hikes/polhograjskagrmada"
     ],
     "peak": "46.035238,14.295931",
     "region": "notranjska",
@@ -3948,7 +3948,7 @@
       "/hikes/svozbolt",
       "/hikes/polhograjskagora",
       "/hikes/svandrej_zminec",
-      "/hikes/korena"
+      "/biking/pasjaravan"
     ],
     "peak": "46.097448,14.321274",
     "region": "notranjska",
@@ -4353,9 +4353,9 @@
     "nearby": [
       "/hikes/svandrej_zminec",
       "/hikes/tosc",
+      "/biking/pasjaravan",
       "/hikes/polhograjskagrmada",
-      "/hikes/polhograjskagora",
-      "/hikes/bukovvrh"
+      "/hikes/polhograjskagora"
     ],
     "peak": "46.115648,14.286202",
     "region": "gorenjska",
@@ -4610,8 +4610,8 @@
       "/hikes/korena",
       "/hikes/kozljek",
       "/hikes/polhograjskagora",
-      "/hikes/polhograjskagrmada",
-      "/hikes/kuren"
+      "/biking/pasjaravan",
+      "/hikes/polhograjskagrmada"
     ],
     "peak": "46.035238,14.295931",
     "region": "notranjska",
@@ -5867,10 +5867,10 @@
     "name": "PolhograjskaGora",
     "nearby": [
       "/hikes/polhograjskagrmada",
+      "/biking/pasjaravan",
       "/hikes/tosc",
       "/hikes/korena",
-      "/hikes/korena_samotorica",
-      "/hikes/svozbolt"
+      "/hikes/korena_samotorica"
     ],
     "peak": "46.070824,14.298751",
     "region": "notranjska",
@@ -6322,6 +6322,36 @@
     "video": "https://www.relive.cc/view/vAOZPG9V5yq/",
     "type": "biking",
     "center": "45.828081,13.798392"
+  },
+  {
+    "date": "2021-06-28 15:42:55+00:00",
+    "delta": "660",
+    "description": {
+      "en": "Pasja Ravan used to be the highest peak in Polhov Gradec hills until the Yugoslav army decided to level it to build a radar station. Yugoslavia is long gone, and so is the radar station. Still, the gravel road to the top remains -- an ideal opportunity to bike there and enjoy fantastic views from the ridge separating Gorenjska from Notranjska."
+    },
+    "difficulty": "A mix of asphalt and gravel roads with the usual \"_Does it have to be so steep?_\" parts",
+    "duration": "3",
+    "height": "1023",
+    "layout": "structured",
+    "lead": "M_20210628_091625.jpg",
+    "length": "28.9",
+    "maplink": "https://mapzs.projekti.si/poi/1223",
+    "name": "PasjaRavan",
+    "nearby": [
+      "/hikes/polhograjskagora",
+      "/hikes/svozbolt",
+      "/hikes/sivka",
+      "/hikes/bukovvrh",
+      "/hikes/tosc"
+    ],
+    "region": "notranjska",
+    "start": "46.071661,14.315069",
+    "title": {
+      "en": "Pasja Ravan from Polhov Gradec"
+    },
+    "video": "https://www.relive.cc/view/vdvmDWZ3wNq/",
+    "type": "biking",
+    "center": "46.083464,14.262724"
   },
   {
     "date": "2021-06-04 15:59:43+00:00",

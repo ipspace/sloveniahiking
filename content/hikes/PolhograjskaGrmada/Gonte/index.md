@@ -16,8 +16,8 @@ nearby:
 - /hikes/polhograjskagora
 - /hikes/polhograjskagrmada
 - /hikes/tosc
+- /biking/pasjaravan
 - /hikes/korena
-- /hikes/korena_samotorica
 peak: 46.083811,14.332903
 region: notranjska
 start: 46.075996,14.313156

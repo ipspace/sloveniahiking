@@ -12,8 +12,8 @@ nearby:
 - /hikes/tosc
 - /hikes/polhograjskagora
 - /hikes/svozbolt
+- /biking/pasjaravan
 - /hikes/korena
-- /hikes/korena_samotorica
 peak: 46.083811,14.332903
 region: notranjska
 title: Polhograjska Grmada

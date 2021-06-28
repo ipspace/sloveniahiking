@@ -10,10 +10,10 @@ maplink: https://mapzs.projekti.si/poi/3860
 name: BukovVrh
 nearby:
 - /hikes/sivka
+- /biking/pasjaravan
 - /hikes/svozbolt
 - /hikes/malenskivrh
 - /hikes/javorc
-- /hikes/svandrej_zminec
 peak: 46.108922,14.215731
 region: gorenjska
 start: 46.118406,14.183872

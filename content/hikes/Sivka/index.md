@@ -11,10 +11,10 @@ maplink: https://mapzs.projekti.si/poi/6517
 name: Sivka
 nearby:
 - /hikes/bukovvrh
+- /biking/pasjaravan
 - /hikes/javorc
 - /hikes/kozljek
 - /hikes/polhograjskagora
-- /hikes/vs3k
 peak: 46.072944,14.209167
 region: notranjska
 start: 46.069156,14.272721
