@@ -6,7 +6,7 @@ height: 1999
 layout: stub
 lead: M_9_1908.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/145
+maplink: https://mapzs.pzs.si/poi/145
 name: VrhKorena
 nearby:
 - /hikes/zvoh

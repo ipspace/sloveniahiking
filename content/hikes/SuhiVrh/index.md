@@ -8,7 +8,7 @@ description: Nanos je visoka kraška planota, ki jo poznamo predvsem po Pleši (
 duration: 5
 height: 1313
 lead: M_007051810.jpg
-maplink: https://mapzs.projekti.si/poi/1022
+maplink: https://mapzs.pzs.si/poi/1022
 name: SuhiVrh
 nearby:
 - /hikes/nanos

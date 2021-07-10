@@ -6,7 +6,7 @@ duration: 9
 height: 2558
 layout: stub
 lead: M_007080902.jpg
-maplink: https://mapzs.projekti.si/poi/10
+maplink: https://mapzs.pzs.si/poi/10
 name: Grintovec
 nearby:
 - /hikes/kalskigreben

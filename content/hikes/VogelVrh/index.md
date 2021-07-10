@@ -7,7 +7,7 @@ description: Vogel je zagotovo najbolj znan vrh Spodnjih Bohinjskih gora. Že od
 duration: 6
 height: 1922
 lead: M_8-6819_IMG.jpg
-maplink: https://mapzs.projekti.si/path/32030
+maplink: https://mapzs.pzs.si/path/32030
 name: VogelVrh
 nearby:
 - /hikes/vogel

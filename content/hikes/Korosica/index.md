@@ -8,7 +8,7 @@ duration: 3
 height: 1554
 lead: M_5_2578.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/842
+maplink: https://mapzs.pzs.si/poi/842
 name: Korosica
 nearby:
 - /hikes/kosutica

@@ -15,7 +15,7 @@ image:
 - path_1.gif
 lead: M_9_0910.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1661
+maplink: https://mapzs.pzs.si/poi/1661
 name: svMiklavz_Vipava
 nearby:
 - /hikes/gradiskatura

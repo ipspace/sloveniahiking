@@ -8,7 +8,7 @@ duration: 3
 height: 1088
 lead: M_2_0234.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/6303
+maplink: https://mapzs.pzs.si/poi/6303
 name: Ambroz
 nearby:
 - /hikes/zvoh

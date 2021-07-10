@@ -5,7 +5,7 @@ image:
 - M_4-4463_IMG.JPG
 layout: stub
 lead: M_4-4463_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/1226
+maplink: https://mapzs.pzs.si/poi/1226
 name: Ermanovec
 nearby:
 - /hikes/slajka

@@ -6,7 +6,7 @@ description: Če ste se odločili, da boste nedeljsko kosilo v gostilni z odlič
 duration: 2
 height: 520
 lead: M_0-3048_img.jpg
-maplink: https://mapzs.projekti.si/path/31629
+maplink: https://mapzs.pzs.si/path/31629
 name: Kuren
 nearby:
 - /hikes/spica

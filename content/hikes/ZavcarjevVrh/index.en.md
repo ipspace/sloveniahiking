@@ -6,7 +6,7 @@ height: 915
 layout: stub
 lead: M_7_2717.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1352
+maplink: https://mapzs.pzs.si/poi/1352
 name: ZavcarjevVrh
 nearby:
 - /hikes/trijekralji

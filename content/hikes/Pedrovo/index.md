@@ -7,7 +7,7 @@ duration: 2
 height: 380
 lead: M_4-4488_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/55911
+maplink: https://mapzs.pzs.si/poi/55911
 name: Pedrovo
 nearby:
 - /biking/lukovecmalidol

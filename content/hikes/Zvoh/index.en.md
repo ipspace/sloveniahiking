@@ -6,7 +6,7 @@ height: 1971
 layout: stub
 lead: M_8_1858.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5921
+maplink: https://mapzs.pzs.si/poi/5921
 name: Zvoh
 nearby:
 - /hikes/vrhkorena

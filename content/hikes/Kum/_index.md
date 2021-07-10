@@ -5,7 +5,7 @@ description: Kum je eden najlepših in s svojimi 1220 m tudi najvišji vrh zasav
   Slovenije.
 height: 1220
 lead: M_010055.JPG
-maplink: https://mapzs.projekti.si/poi/1085
+maplink: https://mapzs.pzs.si/poi/1085
 name: Kum
 nearby:
 - /hikes/brunk

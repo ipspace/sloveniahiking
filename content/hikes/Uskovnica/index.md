@@ -20,7 +20,7 @@ image:
 - M_005021109.jpg
 - M_005021108.jpg
 lead: M_005021110.jpg
-maplink: https://mapzs.projekti.si/poi/34918
+maplink: https://mapzs.pzs.si/poi/34918
 name: Uskovnica
 nearby:
 - /hikes/visevnik

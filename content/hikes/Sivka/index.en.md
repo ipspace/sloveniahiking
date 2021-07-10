@@ -6,7 +6,7 @@ height: 934
 layout: stub
 lead: M_2_2285.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/6517
+maplink: https://mapzs.pzs.si/poi/6517
 name: Sivka
 nearby:
 - /hikes/bukovvrh

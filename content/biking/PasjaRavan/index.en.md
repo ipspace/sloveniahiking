@@ -19,7 +19,7 @@ height: '1023'
 layout: structured
 lead: M_20210628_091625.jpg
 length: '28.9'
-maplink: https://mapzs.projekti.si/poi/1223
+maplink: https://mapzs.pzs.si/poi/1223
 name: PasjaRavan
 nearby:
 - /hikes/polhograjskagora

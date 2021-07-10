@@ -10,7 +10,7 @@ duration: 3.5
 height: 450
 lead: M_7_0721.JPG
 map: 1
-maplink: https://mapzs.projekti.si/path/31057
+maplink: https://mapzs.pzs.si/path/31057
 name: HrastovljeZazid
 nearby:
 - /hikes/kuk

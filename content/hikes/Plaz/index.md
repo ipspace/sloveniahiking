@@ -8,7 +8,7 @@ description: 'Plaz je prijeten cilj krajšega družinskega izleta. Nanj so spelj
 duration: 1.5
 height: 529
 lead: M_2_2245.JPG
-maplink: https://mapzs.projekti.si/poi/1501
+maplink: https://mapzs.pzs.si/poi/1501
 name: Plaz
 nearby:
 - /hikes/gradiskatura

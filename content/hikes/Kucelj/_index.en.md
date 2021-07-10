@@ -5,7 +5,7 @@ image:
 - M_4-6459_IMG.JPG
 layout: stub
 lead: M_4-6459_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/5257
+maplink: https://mapzs.pzs.si/poi/5257
 name: Kucelj
 nearby:
 - /hikes/velikirob

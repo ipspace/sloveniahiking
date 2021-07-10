@@ -23,7 +23,7 @@ image:
 layout: stub
 lead: M_9-6987_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5296
+maplink: https://mapzs.pzs.si/poi/5296
 name: OtliskoOkno
 nearby:
 - /hikes/starababa

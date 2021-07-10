@@ -9,7 +9,7 @@ duration: 6
 height: 1922
 lead: M_8-6819_IMG.jpg
 map: 1
-maplink: https://mapzs.projekti.si/path/32030
+maplink: https://mapzs.pzs.si/path/32030
 name: VogelVrh
 nearby:
 - /hikes/vogel

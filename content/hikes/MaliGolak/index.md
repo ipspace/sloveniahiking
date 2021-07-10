@@ -15,7 +15,7 @@ image:
 - alt.gif
 lead: M_0_00684.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/5276
+maplink: https://mapzs.pzs.si/poi/5276
 name: MaliGolak
 nearby:
 - /hikes/dolskimaj

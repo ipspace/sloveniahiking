@@ -7,7 +7,7 @@ description: Kladivo je poleg Velikega vrha in Ko≈°utnikovega turna najmikavnej≈
 duration: 6
 height: 2094
 lead: M_006070701.jpg
-maplink: https://mapzs.projekti.si/poi/104
+maplink: https://mapzs.pzs.si/poi/104
 name: Kladivo
 nearby:
 - /hikes/kofce

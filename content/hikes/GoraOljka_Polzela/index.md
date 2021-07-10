@@ -8,7 +8,7 @@ duration: 4
 height: 733
 lead: M_7-4784_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/432
+maplink: https://mapzs.pzs.si/poi/432
 name: GoraOljka_Polzela
 nearby:
 - /hikes/creta

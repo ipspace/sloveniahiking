@@ -7,7 +7,7 @@ duration: 2.5
 height: 987
 lead: M_7_0732.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/4940
+maplink: https://mapzs.pzs.si/poi/4940
 name: MalenskiVrh
 nearby:
 - /hikes/blegos

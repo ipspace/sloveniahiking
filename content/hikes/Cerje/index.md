@@ -8,7 +8,7 @@ duration: 1.5
 height: 343
 lead: M_6_2633.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5196
+maplink: https://mapzs.pzs.si/poi/5196
 name: Cerje
 nearby:
 - /hikes/crnihribi

@@ -6,7 +6,7 @@ height: 1122
 layout: stub
 lead: M_7-5732_img.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/34816
+maplink: https://mapzs.pzs.si/poi/34816
 name: Mrzlica
 nearby:
 - /hikes/kamnik

@@ -10,7 +10,7 @@ height: 550
 layout: structured
 lead: M_20210330_105952.jpg
 length: 18.7
-maplink: https://mapzs.projekti.si/poi/34475
+maplink: https://mapzs.pzs.si/poi/34475
 name: LakeCerknica
 region: notranjska
 start: 45.772962,14.357420

@@ -7,7 +7,7 @@ image:
 - M_1-7159_IMG.JPG
 - KolazRazgled.jpg
 lead: M_1-7159_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/118
+maplink: https://mapzs.pzs.si/poi/118
 name: Raduha
 nearby:
 - /hikes/strelovec

@@ -6,7 +6,7 @@ height: 1027
 image:
 - M_2-2267_IMG.JPG
 - Vremscica_Razgled.jpg
-maplink: https://mapzs.projekti.si/poi/1227
+maplink: https://mapzs.pzs.si/poi/1227
 name: Vremscica
 nearby:
 - /hikes/nanos

@@ -7,7 +7,7 @@ description: Krim, južni čuvaj Ljubljanskega barja, se vidi skoraj od vsepovso
 duration: 6
 height: 1107
 lead: M_2-2217_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/34828
+maplink: https://mapzs.pzs.si/poi/34828
 name: Krim
 nearby:
 - /hikes/borovniski_pekel

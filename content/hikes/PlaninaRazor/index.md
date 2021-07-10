@@ -25,7 +25,7 @@ image:
 - alt.gif
 lead: M_1-7133_img.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/1017
+maplink: https://mapzs.pzs.si/poi/1017
 name: PlaninaRazor
 nearby:
 - /hikes/vogelvrh

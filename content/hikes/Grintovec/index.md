@@ -11,7 +11,7 @@ description: 'Grintovec je najvišji vrh Kamniško-Savinjskih Alp. Domači pasti
 duration: 9
 height: 2558
 lead: M_007080902.jpg
-maplink: https://mapzs.projekti.si/poi/10
+maplink: https://mapzs.pzs.si/poi/10
 name: Grintovec
 nearby:
 - /hikes/kalskigreben

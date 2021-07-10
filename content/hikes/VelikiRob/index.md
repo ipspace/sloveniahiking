@@ -14,7 +14,7 @@ difficulty: Zelo strma nemarkirana pot
 duration: 6
 height: 1236
 lead: M_20210226_124917.jpg
-maplink: https://mapzs.projekti.si/poi/5266
+maplink: https://mapzs.pzs.si/poi/5266
 name: VelikiRob
 nearby:
 - /hikes/kucelj

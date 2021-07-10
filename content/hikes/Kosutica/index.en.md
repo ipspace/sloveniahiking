@@ -15,7 +15,7 @@ image:
 layout: stub
 lead: M_5_2583.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/6165
+maplink: https://mapzs.pzs.si/poi/6165
 name: Kosutica
 nearby:
 - /hikes/korosica

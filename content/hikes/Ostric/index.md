@@ -19,7 +19,7 @@ image:
 - M_9_2000.JPG
 - M_0_2002.JPG
 lead: M_9_1992.JPG
-maplink: https://mapzs.projekti.si/poi/1203
+maplink: https://mapzs.pzs.si/poi/1203
 name: Ostric
 nearby:
 - /hikes/lipnik

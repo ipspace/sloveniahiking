@@ -5,7 +5,7 @@ duration: 2
 height: 581
 layout: stub
 lead: M_6-3650_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/3949
+maplink: https://mapzs.pzs.si/poi/3949
 name: TrebnjiVrh
 nearby:
 - /hikes/brunk

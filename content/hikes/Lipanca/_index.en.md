@@ -6,7 +6,7 @@ description: 'The route from Rudno polje to Lipanca is an ideal family trip: it 
   ends on the fairly steep grass slopes below Lipanca.'
 height: 1630
 lead: M_9-5985_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/32992
+maplink: https://mapzs.pzs.si/poi/32992
 name: Lipanca
 nearby:
 - /hikes/lipanskivrh

@@ -6,7 +6,7 @@ description: Strélovec  je zadnji pomembnejši vrh v grebenu Ojstrica–Krofič
   kot.
 duration: 6
 height: 1763
-maplink: https://mapzs.projekti.si/poi/741
+maplink: https://mapzs.pzs.si/poi/741
 name: Strelovec
 nearby:
 - /hikes/klemencajama

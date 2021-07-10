@@ -6,7 +6,7 @@ duration: 5
 height: 1313
 layout: stub
 lead: M_007051810.jpg
-maplink: https://mapzs.projekti.si/poi/1022
+maplink: https://mapzs.pzs.si/poi/1022
 name: SuhiVrh
 nearby:
 - /hikes/nanos

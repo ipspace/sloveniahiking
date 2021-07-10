@@ -6,7 +6,7 @@ description: Vrsnik je zaselek na razglednih travnatih vrhovih južno od Žirov,
 duration: 2
 height: 743
 lead: M_6-4646_IMG.JPG
-maplink: https://mapzs.projekti.si/path/31730
+maplink: https://mapzs.pzs.si/path/31730
 name: Vrsnik_Ziri
 nearby:
 - /hikes/goropeke

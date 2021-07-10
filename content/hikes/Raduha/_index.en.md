@@ -7,7 +7,7 @@ height: 2062
 lead: M_1-7159_IMG.JPG
 map: 1
 map_path: Loka/
-maplink: https://mapzs.projekti.si/poi/118
+maplink: https://mapzs.pzs.si/poi/118
 name: Raduha
 nearby:
 - /hikes/strelovec

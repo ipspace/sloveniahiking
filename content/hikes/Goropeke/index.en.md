@@ -6,7 +6,7 @@ height: 698
 layout: stub
 lead: M_0_00742.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/3882
+maplink: https://mapzs.pzs.si/poi/3882
 name: Goropeke
 nearby:
 - /hikes/vrsnik_ziri

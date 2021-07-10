@@ -21,7 +21,7 @@ image:
 layout: stub
 lead: M_0_1090.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/972
+maplink: https://mapzs.pzs.si/poi/972
 name: KamniskiVrh
 nearby:
 - /hikes/vrhkorena

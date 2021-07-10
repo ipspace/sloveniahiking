@@ -7,7 +7,7 @@ duration: 2
 height: 437
 lead: M_7_7717.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1693
+maplink: https://mapzs.pzs.si/poi/1693
 name: Socerb
 nearby:
 - /hikes/zgornjikras

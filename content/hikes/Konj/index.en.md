@@ -6,7 +6,7 @@ duration: 6
 height: 1803
 layout: stub
 lead: M_0_2070.JPG
-maplink: https://mapzs.projekti.si/poi/715
+maplink: https://mapzs.pzs.si/poi/715
 name: Konj
 nearby:
 - /hikes/velikaplanina

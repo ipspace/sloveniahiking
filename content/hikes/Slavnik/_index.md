@@ -9,7 +9,7 @@ image:
 - TrnovskiGozd_Nanos.jpg
 - Pogled_vzhod.jpg
 lead: M_5-3555_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/1235
+maplink: https://mapzs.pzs.si/poi/1235
 name: Slavnik
 nearby:
 - /hikes/podgorje

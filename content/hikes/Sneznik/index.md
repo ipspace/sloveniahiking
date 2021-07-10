@@ -14,7 +14,7 @@ gpx:
 height: 1796
 lead: M_8-1813_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/34824
+maplink: https://mapzs.pzs.si/poi/34824
 name: Sneznik
 nearby:
 - /hikes/volovjareber

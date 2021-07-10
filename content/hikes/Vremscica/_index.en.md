@@ -5,7 +5,7 @@ image:
 - M_2-2267_IMG.JPG
 - Vremscica_Razgled.jpg
 layout: stub
-maplink: https://mapzs.projekti.si/poi/1227
+maplink: https://mapzs.pzs.si/poi/1227
 name: Vremscica
 nearby:
 - /hikes/nanos

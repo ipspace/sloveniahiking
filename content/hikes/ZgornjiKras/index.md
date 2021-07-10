@@ -15,7 +15,7 @@ image:
 - path_1.gif
 lead: M_9_2968.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1726
+maplink: https://mapzs.pzs.si/poi/1726
 name: ZgornjiKras
 nearby:
 - /hikes/socerb

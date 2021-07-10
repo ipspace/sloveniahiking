@@ -6,7 +6,7 @@ duration: 4
 height: 1021
 lead: M_2-6242.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1230
+maplink: https://mapzs.pzs.si/poi/1230
 name: Tosc
 nearby:
 - /hikes/polhograjskagrmada

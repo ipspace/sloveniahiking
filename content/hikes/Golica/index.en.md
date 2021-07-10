@@ -6,7 +6,7 @@ height: 1835
 layout: stub
 lead: M_2_1262.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/4803
+maplink: https://mapzs.pzs.si/poi/4803
 name: Golica
 nearby:
 - /hikes/klek

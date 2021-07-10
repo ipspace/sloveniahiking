@@ -6,7 +6,7 @@ duration: 6
 height: 1107
 layout: stub
 lead: M_2-2217_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/34828
+maplink: https://mapzs.pzs.si/poi/34828
 name: Krim
 nearby:
 - /hikes/borovniski_pekel

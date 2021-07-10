@@ -6,7 +6,7 @@ height: 884
 layout: stub
 lead: M_2_3240.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/173
+maplink: https://mapzs.pzs.si/poi/173
 name: DonackaGora
 nearby:
 - /hikes/boc

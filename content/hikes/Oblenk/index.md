@@ -6,7 +6,7 @@ description: Hoja po neoznačenih poteh po hribovju nad Planino pri Rakeku je v 
 duration: 4
 height: 937
 lead: M_1-4119_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/5751
+maplink: https://mapzs.pzs.si/poi/5751
 name: Oblenk
 nearby:
 - /hikes/planinskagora

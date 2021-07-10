@@ -4,7 +4,7 @@ description: Podgorje je idealno izhodišče za izlete na Slavnik in raziskovanj
   dela Kraškega roba.
 layout: start
 lead: M_0-4026_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/1531
+maplink: https://mapzs.pzs.si/poi/1531
 name: Podgorje
 nearby:
 - /hikes/slavnik

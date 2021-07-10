@@ -5,7 +5,7 @@ duration: 3.5
 height: 987
 layout: stub
 lead: M_8-3831_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/34550
+maplink: https://mapzs.pzs.si/poi/34550
 name: MrzliVrh_Ziri
 nearby:
 - /hikes/vrsnik_ziri

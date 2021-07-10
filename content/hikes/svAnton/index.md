@@ -7,7 +7,7 @@ duration: 4
 height: 854
 lead: M_7_2705.JPG
 map: 1
-maplink: https://mapzs.projekti.si/path/32647
+maplink: https://mapzs.pzs.si/path/32647
 name: svAnton
 nearby:
 - /hikes/trijekralji

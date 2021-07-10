@@ -6,7 +6,7 @@ height: 832
 layout: stub
 lead: M_5-4588_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/3860
+maplink: https://mapzs.pzs.si/poi/3860
 name: BukovVrh
 nearby:
 - /hikes/sivka

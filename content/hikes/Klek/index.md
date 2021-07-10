@@ -9,7 +9,7 @@ description: Mnogi, ki hodijo mimo Kleka na božjepotno Golico in na precej oble
 duration: 6
 height: 1753
 lead: M_008051108.jpg
-maplink: https://mapzs.projekti.si/poi/6048
+maplink: https://mapzs.pzs.si/poi/6048
 name: Klek
 nearby:
 - /hikes/golica

@@ -8,7 +8,7 @@ duration: 6
 height: 1876
 lead: M_00001.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/3884
+maplink: https://mapzs.pzs.si/poi/3884
 name: KamniskoSedlo
 nearby:
 - /hikes/okreselj

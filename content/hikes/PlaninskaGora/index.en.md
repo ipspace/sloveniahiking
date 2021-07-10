@@ -11,7 +11,7 @@ difficulty: Easy hike on wide trails with a few steeper sections
 duration: 2
 height: 880
 lead: M_20210222_002.jpg
-maplink: https://mapzs.projekti.si/path/31616
+maplink: https://mapzs.pzs.si/path/31616
 name: PlaninskaGora
 nearby:
 - /hikes/oblenk

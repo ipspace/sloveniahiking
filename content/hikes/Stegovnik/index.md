@@ -16,7 +16,7 @@ image:
 - M_00006.jpg
 - StegovnikKarta.jpg
 lead: M_00004.jpg
-maplink: https://mapzs.projekti.si/poi/773
+maplink: https://mapzs.pzs.si/poi/773
 name: Stegovnik
 nearby:
 - /hikes/kozjivrh

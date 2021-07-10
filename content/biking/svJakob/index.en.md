@@ -16,7 +16,7 @@ gpx:
 height: '961'
 lead: M_20210611_103323.jpg
 length: '12'
-maplink: https://mapzs.projekti.si/poi/1295
+maplink: https://mapzs.pzs.si/poi/1295
 name: svJakob
 nearby:
 - /hikes/svjakob_preddvor

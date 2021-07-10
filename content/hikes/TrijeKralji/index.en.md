@@ -6,7 +6,7 @@ height: 1181
 layout: stub
 lead: M_1_2101.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5353
+maplink: https://mapzs.pzs.si/poi/5353
 name: TrijeKralji
 nearby:
 - /hikes/boc

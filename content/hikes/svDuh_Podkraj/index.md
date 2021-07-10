@@ -7,7 +7,7 @@ description: Pot v Vipavsko dolino po stari rimski cesti mimo Stare pošte na Hr
 duration: 3
 height: 1213
 lead: M_3-3357_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/5161
+maplink: https://mapzs.pzs.si/poi/5161
 name: svDuh_Podkraj
 nearby:
 - /biking/kriznagorajavornik

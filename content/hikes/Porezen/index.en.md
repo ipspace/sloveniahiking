@@ -24,7 +24,7 @@ image:
 layout: stub
 lead: M_1-6154_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5098
+maplink: https://mapzs.pzs.si/poi/5098
 name: Porezen
 nearby:
 - /hikes/kojca

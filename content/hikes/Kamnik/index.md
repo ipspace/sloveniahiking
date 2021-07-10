@@ -8,7 +8,7 @@ description: Kamnik je precej slikovit hrib, malo drzen; zaradi skalnatega vrha 
 duration: 6
 height: 856
 lead: M_008052305.jpg
-maplink: https://mapzs.projekti.si/poi/213
+maplink: https://mapzs.pzs.si/poi/213
 name: Kamnik
 nearby:
 - /hikes/mrzlica

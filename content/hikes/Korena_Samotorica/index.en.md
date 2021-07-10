@@ -6,7 +6,7 @@ height: 729
 layout: stub
 lead: M_8-4852_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5538
+maplink: https://mapzs.pzs.si/poi/5538
 name: Korena_Samotorica
 nearby:
 - /hikes/korena

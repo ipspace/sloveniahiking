@@ -8,7 +8,7 @@ description: Goli vrh je stožec med Ravensko in Belsko Kočno še v Kamniško-S
 duration: 4.5
 height: 1787
 lead: M_006040100.jpg
-maplink: https://mapzs.projekti.si/poi/734
+maplink: https://mapzs.pzs.si/poi/734
 name: GoliVrhJezersko
 nearby:
 - /hikes/okreselj

@@ -23,7 +23,7 @@ image:
 layout: stub
 lead: M_1_0145.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/140
+maplink: https://mapzs.pzs.si/poi/140
 name: DebelaPec
 nearby:
 - /hikes/brdalipanca

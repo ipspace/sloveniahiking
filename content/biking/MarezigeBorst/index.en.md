@@ -17,7 +17,7 @@ height: 392
 layout: structured
 lead: M_20210420_104635.jpg
 length: 23.3
-maplink: https://mapzs.projekti.si/poi/52206
+maplink: https://mapzs.pzs.si/poi/52206
 name: MarezigeBorst
 nearby:
 - /biking/marezigetrsek

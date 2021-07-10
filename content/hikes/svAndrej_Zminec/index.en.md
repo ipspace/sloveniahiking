@@ -6,7 +6,7 @@ height: 616
 layout: stub
 lead: M_9_0990.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/4915
+maplink: https://mapzs.pzs.si/poi/4915
 name: svAndrej_Zminec
 nearby:
 - /hikes/svozbolt

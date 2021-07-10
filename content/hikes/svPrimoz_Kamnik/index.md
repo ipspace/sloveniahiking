@@ -5,7 +5,7 @@ description: Pozno-gotska cerkvica na obronkih Velike planine nad Kamnikom je id
   cilj za nedeljski izlet
 duration: 2
 height: 826
-maplink: https://mapzs.projekti.si/poi/233
+maplink: https://mapzs.pzs.si/poi/233
 name: svPrimoz_Kamnik
 nearby:
 - /hikes/velikaplanina

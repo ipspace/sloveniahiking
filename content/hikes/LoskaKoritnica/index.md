@@ -14,7 +14,7 @@ gpx:
 height: '1103'
 layout: structured
 lead: IMG_1934.jpg
-maplink: https://mapzs.projekti.si/poi/5719
+maplink: https://mapzs.pzs.si/poi/5719
 name: LoskaKoritnica
 nearby:
 - /hikes/tamar

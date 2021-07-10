@@ -15,7 +15,7 @@ image:
 layout: stub
 lead: M_9_1933.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/6050
+maplink: https://mapzs.pzs.si/poi/6050
 name: VodicniVrh
 nearby:
 - /hikes/vogar

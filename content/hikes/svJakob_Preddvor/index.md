@@ -6,7 +6,7 @@ description: Ko bo Ljubljansko kotlino spet ovijala megla, se splača ogledati m
 duration: 2
 height: 961
 lead: M_9-3980_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/1295
+maplink: https://mapzs.pzs.si/poi/1295
 name: svJakob_Preddvor
 nearby:
 - /biking/svjakob

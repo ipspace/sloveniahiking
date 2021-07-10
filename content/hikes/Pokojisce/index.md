@@ -7,7 +7,7 @@ duration: 3
 height: 732
 lead: M_2_2241.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5358
+maplink: https://mapzs.pzs.si/poi/5358
 name: Pokojisce
 nearby:
 - /hikes/borovniski_pekel

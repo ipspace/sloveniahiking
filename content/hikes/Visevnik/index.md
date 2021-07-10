@@ -7,7 +7,7 @@ duration: 4
 height: 2050
 lead: M_9-5929_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/4975
+maplink: https://mapzs.pzs.si/poi/4975
 name: Visevnik
 nearby:
 - /hikes/malidraskivrh

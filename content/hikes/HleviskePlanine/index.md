@@ -7,7 +7,7 @@ duration: 5
 height: 908
 lead: M_0_10596.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/278
+maplink: https://mapzs.pzs.si/poi/278
 name: HleviskePlanine
 nearby:
 - /hikes/vrsnik_ziri

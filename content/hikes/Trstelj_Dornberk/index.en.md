@@ -19,7 +19,7 @@ image:
 - Pogled_vrh_1.jpg
 layout: stub
 lead: M_0-4079_IMG.JPG
-maplink: https://mapzs.projekti.si/path/31945
+maplink: https://mapzs.pzs.si/path/31945
 name: Trstelj_Dornberk
 nearby:
 - /hikes/pedrovo

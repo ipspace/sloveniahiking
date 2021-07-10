@@ -9,7 +9,7 @@ image:
 - M_1_2849.JPG
 - Panorama_vzhod.jpg
 lead: M_1_2849.JPG
-maplink: https://mapzs.projekti.si/poi/1656
+maplink: https://mapzs.pzs.si/poi/1656
 name: Lacna
 nearby:
 - /hikes/kuk

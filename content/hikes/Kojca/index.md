@@ -8,7 +8,7 @@ duration: 3
 height: 1303
 lead: M_7-5762_img.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/1026
+maplink: https://mapzs.pzs.si/poi/1026
 name: Kojca
 nearby:
 - /hikes/rodne

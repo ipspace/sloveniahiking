@@ -15,7 +15,7 @@ image:
 layout: stub
 lead: M_003074.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/36608
+maplink: https://mapzs.pzs.si/poi/36608
 name: DolskiMaj
 nearby:
 - /hikes/otliskookno

@@ -8,7 +8,7 @@ description: 'Naslednjič ko vas bo pot zanesla v bližino Sežane ali Lipice, s
 duration: 2.5
 height: 670
 lead: M_3-3392_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/531
+maplink: https://mapzs.pzs.si/poi/531
 name: Kokos
 nearby:
 - /hikes/zgornjikras

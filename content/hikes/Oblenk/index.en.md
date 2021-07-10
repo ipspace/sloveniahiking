@@ -5,7 +5,7 @@ duration: 4
 height: 937
 layout: stub
 lead: M_1-4119_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/5751
+maplink: https://mapzs.pzs.si/poi/5751
 name: Oblenk
 nearby:
 - /hikes/planinskagora

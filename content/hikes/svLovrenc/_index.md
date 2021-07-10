@@ -7,7 +7,7 @@ description: 'Obisk Postojnske jame ali Predjamskega gradu lahko združite s pri
   '
 height: 1019
 lead: M_1-3162_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/3908
+maplink: https://mapzs.pzs.si/poi/3908
 name: svLovrenc
 nearby:
 - /hikes/oblenk

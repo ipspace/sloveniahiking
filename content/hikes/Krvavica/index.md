@@ -12,7 +12,7 @@ duration: 3
 height: 909
 lead: M_0_3015.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1354
+maplink: https://mapzs.pzs.si/poi/1354
 name: Krvavica
 nearby:
 - /hikes/mrzlica

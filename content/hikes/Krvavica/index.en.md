@@ -7,7 +7,7 @@ height: 909
 layout: stub
 lead: M_0_3015.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1354
+maplink: https://mapzs.pzs.si/poi/1354
 name: Krvavica
 nearby:
 - /hikes/mrzlica

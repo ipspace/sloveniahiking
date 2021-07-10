@@ -2,7 +2,7 @@
 date: 1900-01-01 00:00:00+00:00
 description: Vrh Svetih treh kraljev je najbolj razgleden vrh Rovtarskega hribovja
 height: 844
-maplink: https://mapzs.projekti.si/poi/4410
+maplink: https://mapzs.pzs.si/poi/4410
 name: Vs3k
 nearby:
 - /biking/zavratec

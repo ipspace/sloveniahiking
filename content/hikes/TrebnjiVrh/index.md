@@ -6,7 +6,7 @@ description: Z vrha nad Trebnjim boste imeli lep razgled na dolino Temenice in M
 duration: 2
 height: 581
 lead: M_6-3650_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/3949
+maplink: https://mapzs.pzs.si/poi/3949
 name: TrebnjiVrh
 nearby:
 - /hikes/brunk

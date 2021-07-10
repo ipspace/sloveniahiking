@@ -5,7 +5,7 @@ description: Slavnik is the highest peak of the Slavnik range, the last mountain
   meters visited by the Slovenian Mountain Hiking Trail.
 height: 1028
 lead: M_5-3555_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/1235
+maplink: https://mapzs.pzs.si/poi/1235
 name: Slavnik
 nearby:
 - /hikes/podgorje

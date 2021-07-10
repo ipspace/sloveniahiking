@@ -6,7 +6,7 @@ height: 1643
 layout: stub
 lead: M_0-7053_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/4686
+maplink: https://mapzs.pzs.si/poi/4686
 name: Dobrca
 nearby:
 - /hikes/korosica

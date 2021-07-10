@@ -7,7 +7,7 @@ duration: 4.5
 height: 934
 lead: M_2_2285.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/6517
+maplink: https://mapzs.pzs.si/poi/6517
 name: Sivka
 nearby:
 - /hikes/bukovvrh

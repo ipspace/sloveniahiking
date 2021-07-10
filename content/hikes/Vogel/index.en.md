@@ -28,7 +28,7 @@ image:
 layout: stub
 lead: M_8-6806_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/path/31018
+maplink: https://mapzs.pzs.si/path/31018
 name: Vogel
 nearby:
 - /hikes/vogelvrh

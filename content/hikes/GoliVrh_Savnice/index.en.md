@@ -6,7 +6,7 @@ duration: 4.5
 height: 1426
 layout: stub
 lead: M_01103.jpg
-maplink: https://mapzs.projekti.si/poi/948
+maplink: https://mapzs.pzs.si/poi/948
 name: GoliVrh_Savnice
 nearby:
 - /hikes/svjost

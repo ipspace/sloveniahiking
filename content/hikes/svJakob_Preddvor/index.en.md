@@ -10,7 +10,7 @@ description: 'From the church of Saint Jacob, sitting on the western ridge of Po
 duration: 2
 height: 961
 lead: M_9-3980_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/1295
+maplink: https://mapzs.pzs.si/poi/1295
 name: svJakob_Preddvor
 nearby:
 - /biking/svjakob

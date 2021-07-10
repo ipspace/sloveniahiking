@@ -6,7 +6,7 @@ height: 1242
 image:
 - M_2_0264.JPG
 lead: M_2_0264.JPG
-maplink: https://mapzs.projekti.si/poi/1062
+maplink: https://mapzs.pzs.si/poi/1062
 name: Caven
 nearby:
 - /hikes/malagora

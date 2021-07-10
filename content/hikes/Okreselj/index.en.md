@@ -7,7 +7,7 @@ image: null
 lastmod: 2021-02-13 17:10:00
 layout: stub
 lead: M_6-1674_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/6254
+maplink: https://mapzs.pzs.si/poi/6254
 name: Okreselj
 nearby:
 - /hikes/kamniskosedlo

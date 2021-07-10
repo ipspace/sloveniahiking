@@ -5,7 +5,7 @@ duration: 2
 height: 507
 layout: stub
 lead: M_8-3867_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/1575
+maplink: https://mapzs.pzs.si/poi/1575
 name: Kuk
 nearby:
 - /hikes/hrastovljezazid

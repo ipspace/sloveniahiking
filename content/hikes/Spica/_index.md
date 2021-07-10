@@ -12,7 +12,7 @@ image:
 - M_5-4553_IMG.JPG
 - Razgled_Planina.jpg
 lead: M_5-4556_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/5344
+maplink: https://mapzs.pzs.si/poi/5344
 name: Spica
 nearby:
 - /biking/vrhnikazaplana

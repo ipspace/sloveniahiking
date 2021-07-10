@@ -6,7 +6,7 @@ height: 2088
 layout: stub
 lead: M_3_0366.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/107
+maplink: https://mapzs.pzs.si/poi/107
 name: VelikiVrh
 nearby:
 - /hikes/kosutica

@@ -6,7 +6,7 @@ height: 1054
 layout: stub
 lead: M_9_1910.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1201
+maplink: https://mapzs.pzs.si/poi/1201
 name: Vogar
 nearby:
 - /hikes/vodicnivrh

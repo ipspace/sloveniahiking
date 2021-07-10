@@ -10,7 +10,7 @@ duration: 2.5
 height: 828
 lead: M_7-6715_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/3956
+maplink: https://mapzs.pzs.si/poi/3956
 name: Gospodicna
 nearby:
 - /hikes/smuk

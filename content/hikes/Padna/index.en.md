@@ -15,7 +15,7 @@ image:
 layout: stub
 lead: M_2_2830.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/4207
+maplink: https://mapzs.pzs.si/poi/4207
 name: Padna
 nearby:
 - /biking/marezigesmarje

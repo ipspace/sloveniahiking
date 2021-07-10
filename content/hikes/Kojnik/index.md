@@ -7,7 +7,7 @@ description: Kojnik je položen vrh v grebenu nad Kraškim robom južno od Slavn
 duration: 4
 height: 802
 lead: M_0-4054_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/322
+maplink: https://mapzs.pzs.si/poi/322
 name: Kojnik
 peak: 45.506877,13.951764
 region: istria

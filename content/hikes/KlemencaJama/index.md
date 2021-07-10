@@ -10,7 +10,7 @@ description: 'Planina Klemenča jama, imenovana tudi Spodnja jama (Zgornja jama 
 duration: 3
 height: 1208
 lead: M_X07090701.jpg
-maplink: https://mapzs.projekti.si/poi/34560
+maplink: https://mapzs.pzs.si/poi/34560
 name: KlemencaJama
 nearby:
 - /hikes/strelovec

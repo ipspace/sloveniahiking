@@ -5,7 +5,7 @@ duration: 3
 height: 1213
 layout: stub
 lead: M_3-3357_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/5161
+maplink: https://mapzs.pzs.si/poi/5161
 name: svDuh_Podkraj
 nearby:
 - /biking/kriznagorajavornik

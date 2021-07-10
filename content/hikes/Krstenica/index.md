@@ -6,7 +6,7 @@ description: Krstenica je ena od najlepših in zaradi svoje odprte lege najbolj 
 duration: 3
 height: 1670
 lead: M_5-6554_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/4709
+maplink: https://mapzs.pzs.si/poi/4709
 name: Krstenica
 nearby:
 - /hikes/jezerskistog

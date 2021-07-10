@@ -6,7 +6,7 @@ height: 944
 layout: stub
 lead: M_5_0546.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1305
+maplink: https://mapzs.pzs.si/poi/1305
 name: Creta
 nearby:
 - /hikes/svjost

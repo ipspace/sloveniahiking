@@ -7,7 +7,7 @@ duration: 4
 height: 1628
 lead: M_00020.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/2125
+maplink: https://mapzs.pzs.si/poi/2125
 name: KozjiVrh
 nearby:
 - /hikes/stegovnik

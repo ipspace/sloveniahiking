@@ -6,7 +6,7 @@ duration: 6
 height: 1753
 layout: stub
 lead: M_008051108.jpg
-maplink: https://mapzs.projekti.si/poi/6048
+maplink: https://mapzs.pzs.si/poi/6048
 name: Klek
 nearby:
 - /hikes/golica

@@ -6,7 +6,7 @@ height: 1237
 image:
 - M_4-6459_IMG.JPG
 lead: M_4-6459_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/5257
+maplink: https://mapzs.pzs.si/poi/5257
 name: Kucelj
 nearby:
 - /hikes/velikirob

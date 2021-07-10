@@ -17,7 +17,7 @@ image:
 layout: stub
 lead: M_1_0167.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/142
+maplink: https://mapzs.pzs.si/poi/142
 name: BrdaLipanca
 nearby:
 - /hikes/lipanskivrh

@@ -8,7 +8,7 @@ description: Čeprav je Konj tako v starem kot v novem vodniku po Kamniško-Savi
 duration: 6
 height: 1803
 lead: M_0_2070.JPG
-maplink: https://mapzs.projekti.si/poi/715
+maplink: https://mapzs.pzs.si/poi/715
 name: Konj
 nearby:
 - /hikes/velikaplanina

@@ -6,7 +6,7 @@ height: 824
 layout: stub
 lead: M_8-6900_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5445
+maplink: https://mapzs.pzs.si/poi/5445
 name: PolhograjskaGora
 nearby:
 - /hikes/polhograjskagrmada

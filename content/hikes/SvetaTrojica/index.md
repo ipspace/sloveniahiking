@@ -7,7 +7,7 @@ duration: 2
 height: 1106
 lead: M_3_2393.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/1148
+maplink: https://mapzs.pzs.si/poi/1148
 name: SvetaTrojica
 nearby:
 - /hikes/javorniki

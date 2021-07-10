@@ -7,7 +7,7 @@ image:
 - M_2_0206.JPG
 - Razgled_Vipava_PF.jpg
 lead: M_2_0206.JPG
-maplink: https://mapzs.projekti.si/poi/3080
+maplink: https://mapzs.pzs.si/poi/3080
 name: Nanos
 nearby:
 - /hikes/suhivrh

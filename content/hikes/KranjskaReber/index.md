@@ -7,7 +7,7 @@ description: Kranjska reber ali Vrh Kašne planine (tako zemljevid) je izrazita 
 duration: 3.5
 height: 1435
 lead: M_0006.jpg
-maplink: https://mapzs.projekti.si/poi/940
+maplink: https://mapzs.pzs.si/poi/940
 name: KranjskaReber
 nearby:
 - /hikes/velikirogac

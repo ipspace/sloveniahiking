@@ -23,7 +23,7 @@ image:
 - M_8-3865_IMG.JPG
 - M_8-3867_IMG.JPG
 lead: M_8-3867_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/1575
+maplink: https://mapzs.pzs.si/poi/1575
 name: Kuk
 nearby:
 - /hikes/hrastovljezazid

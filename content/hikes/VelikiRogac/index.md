@@ -6,7 +6,7 @@ duration: 6
 height: 1577
 lead: M_4_0409.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/839
+maplink: https://mapzs.pzs.si/poi/839
 name: VelikiRogac
 nearby:
 - /hikes/kranjskareber

@@ -15,7 +15,7 @@ height: 730
 layout: structured
 lead: M_20210329_122726.jpg
 length: 22.2
-maplink: https://mapzs.projekti.si/poi/5387
+maplink: https://mapzs.pzs.si/poi/5387
 name: ZaplanaRovte
 nearby:
 - /hikes/spica

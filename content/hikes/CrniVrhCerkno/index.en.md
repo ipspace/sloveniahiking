@@ -12,7 +12,7 @@ image:
 layout: stub
 lead: M_4_1410.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/50830
+maplink: https://mapzs.pzs.si/poi/50830
 name: CrniVrhCerkno
 nearby:
 - /hikes/blegos

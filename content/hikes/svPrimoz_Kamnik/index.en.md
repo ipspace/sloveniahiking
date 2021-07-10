@@ -4,7 +4,7 @@ delta: 400
 duration: 2
 height: 826
 layout: stub
-maplink: https://mapzs.projekti.si/poi/233
+maplink: https://mapzs.pzs.si/poi/233
 name: svPrimoz_Kamnik
 nearby:
 - /hikes/velikaplanina

@@ -10,7 +10,7 @@ duration: 4
 height: 804
 lead: M_2_1203.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/4193
+maplink: https://mapzs.pzs.si/poi/4193
 name: Lipnik
 nearby:
 - /hikes/hrastovljezazid

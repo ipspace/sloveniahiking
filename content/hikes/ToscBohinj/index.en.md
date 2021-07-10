@@ -6,7 +6,7 @@ height: 2275
 layout: stub
 lead: M_5-6601.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/55
+maplink: https://mapzs.pzs.si/poi/55
 name: ToscBohinj
 nearby:
 - /hikes/velikidraskivrh

@@ -19,7 +19,7 @@ image:
 - path_1.gif
 lead: M_9_1976.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/389
+maplink: https://mapzs.pzs.si/poi/389
 name: GradiskaTura
 nearby:
 - /hikes/svmiklavz_vipava

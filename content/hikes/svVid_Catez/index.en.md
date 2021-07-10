@@ -6,7 +6,7 @@ height: 386
 layout: stub
 lead: M_1-5142_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5651
+maplink: https://mapzs.pzs.si/poi/5651
 name: svVid_Catez
 nearby:
 - /hikes/podbohorjem

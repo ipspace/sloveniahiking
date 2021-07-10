@@ -6,7 +6,7 @@ description: 'Kovk je najbolj jugovzhodni vrh Gore, planote, ki se visoko nad Vi
   '
 height: 961
 lead: M_4_1434.JPG
-maplink: https://mapzs.projekti.si/poi/1288
+maplink: https://mapzs.pzs.si/poi/1288
 name: Kovk
 nearby:
 - /hikes/soncnica

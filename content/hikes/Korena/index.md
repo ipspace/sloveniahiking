@@ -6,7 +6,7 @@ description: S travnatih vrhov na grebenu južno od Polhovega Gradca boste imeli
 duration: 2.5
 height: 729
 lead: M_2-2216_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/5538
+maplink: https://mapzs.pzs.si/poi/5538
 name: Korena
 nearby:
 - /hikes/korena_samotorica

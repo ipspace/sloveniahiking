@@ -8,7 +8,7 @@ height: 630
 lastmod: 2021-03-25 14:58:00
 lead: M_8_1840.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1419
+maplink: https://mapzs.pzs.si/poi/1419
 name: Sebrelje
 nearby:
 - /hikes/rodne

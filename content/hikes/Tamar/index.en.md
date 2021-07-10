@@ -7,7 +7,7 @@ image:
 - M_010051.JPG
 layout: stub
 lead: M_010051.JPG
-maplink: https://mapzs.projekti.si/poi/1145
+maplink: https://mapzs.pzs.si/poi/1145
 name: Tamar
 nearby:
 - /hikes/loskakoritnica

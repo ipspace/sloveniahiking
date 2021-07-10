@@ -8,7 +8,7 @@ duration: 2
 height: 859
 lead: M_0_1008.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/3811
+maplink: https://mapzs.pzs.si/poi/3811
 name: svOzbolt
 nearby:
 - /hikes/svandrej_zminec

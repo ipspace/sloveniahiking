@@ -10,7 +10,7 @@ difficulty: Enjoyable hike on marked dirt trails and footpaths
 duration: 1.5
 height: 529
 lead: M_2_2245.JPG
-maplink: https://mapzs.projekti.si/poi/1501
+maplink: https://mapzs.pzs.si/poi/1501
 name: Plaz
 nearby:
 - /hikes/gradiskatura

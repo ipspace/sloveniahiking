@@ -12,7 +12,7 @@ image:
 - mapgps.jpg
 - path_1.gif
 lead: M_6_2617.JPG
-maplink: https://mapzs.projekti.si/poi/1326
+maplink: https://mapzs.pzs.si/poi/1326
 name: svJost
 nearby:
 - /hikes/golivrh_savnice

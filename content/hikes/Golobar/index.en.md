@@ -17,7 +17,7 @@ gpx:
 height: '1314'
 layout: structured
 lead: IMG_1924.jpg
-maplink: https://mapzs.projekti.si/path/32458
+maplink: https://mapzs.pzs.si/path/32458
 name: Golobar
 nearby:
 - /hikes/loskakoritnica

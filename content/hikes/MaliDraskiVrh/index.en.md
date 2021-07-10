@@ -17,7 +17,7 @@ image:
 layout: stub
 lead: M_0_00606.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/33033
+maplink: https://mapzs.pzs.si/poi/33033
 name: MaliDraskiVrh
 nearby:
 - /hikes/visevnik

@@ -25,7 +25,7 @@ image:
 - path_1.gif
 lead: M_6_2636.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/18
+maplink: https://mapzs.pzs.si/poi/18
 name: Stenar
 nearby:
 - /hikes/sleme

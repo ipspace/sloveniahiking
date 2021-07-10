@@ -17,7 +17,7 @@ image:
 layout: stub
 lead: M_1_2136.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/2669
+maplink: https://mapzs.pzs.si/poi/2669
 name: SkoljSvPavla
 nearby:
 - /hikes/kucelj

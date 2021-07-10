@@ -19,7 +19,7 @@ image:
 layout: stub
 lead: M_8-4841_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5499
+maplink: https://mapzs.pzs.si/poi/5499
 name: Kozljek
 nearby:
 - /hikes/korena

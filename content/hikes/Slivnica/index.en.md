@@ -24,7 +24,7 @@ image:
 - M_3-1390_IMG.jpg
 layout: structured
 lead: M_3-1364_IMG.jpg
-maplink: https://mapzs.projekti.si/poi/5679
+maplink: https://mapzs.pzs.si/poi/5679
 name: Slivnica
 nearby:
 - /hikes/javorniki

@@ -23,7 +23,7 @@ image:
 layout: stub
 lead: M_0_0030.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1384
+maplink: https://mapzs.pzs.si/poi/1384
 name: Golic
 peak: 45.486241,13.978104
 region: istria

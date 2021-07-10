@@ -5,7 +5,7 @@ description: Javorč je vrh v pogorju Žirovskega vrha, približno enako oddalje
   Škofjeloško hribovje in slovenske Alpe.
 height: 901
 lead: M_4-4461_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/1368
+maplink: https://mapzs.pzs.si/poi/1368
 name: Javorc
 nearby:
 - /hikes/goropeke

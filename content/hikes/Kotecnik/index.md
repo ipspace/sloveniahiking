@@ -8,7 +8,7 @@ description: Gozdnik in Kotečnik sta kar slikovita vrhova v Posavskem hribovju,
 duration: 5
 height: 1090
 lead: M_008032703.jpg
-maplink: https://mapzs.projekti.si/poi/360
+maplink: https://mapzs.pzs.si/poi/360
 name: Kotecnik
 nearby:
 - /hikes/kamnik

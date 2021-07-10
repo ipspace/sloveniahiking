@@ -7,7 +7,7 @@ duration: 5
 height: 1300
 lead: M_0-5007_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/260
+maplink: https://mapzs.pzs.si/poi/260
 name: Jamnik_Vodice
 nearby:
 - /hikes/miklavskagora

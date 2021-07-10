@@ -7,7 +7,7 @@ description: Za ljubitelje rož je obisk doline Zalipnik med Goličem in Kraški
 duration: 3
 height: 883
 lead: M_5_2520.JPG
-maplink: https://mapzs.projekti.si/path/32452
+maplink: https://mapzs.pzs.si/path/32452
 name: Kavcic
 peak: 45.471239,13.983605
 region: istria

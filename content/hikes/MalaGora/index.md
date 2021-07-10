@@ -8,7 +8,7 @@ duration: 2
 height: 1034
 lead: M_5_2552.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1220
+maplink: https://mapzs.pzs.si/poi/1220
 name: MalaGora
 nearby:
 - /hikes/caven

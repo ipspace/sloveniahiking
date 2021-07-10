@@ -8,7 +8,7 @@ duration: 3
 height: 557
 lead: M_8-4819_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/34684
+maplink: https://mapzs.pzs.si/poi/34684
 name: Brunk
 nearby:
 - /hikes/kum

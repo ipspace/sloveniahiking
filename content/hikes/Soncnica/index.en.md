@@ -16,7 +16,7 @@ gpx:
 height: 867
 layout: structured
 lead: M_0_00679.JPG
-maplink: https://mapzs.projekti.si/poi/1288
+maplink: https://mapzs.pzs.si/poi/1288
 name: Soncnica
 nearby:
 - /hikes/kovk

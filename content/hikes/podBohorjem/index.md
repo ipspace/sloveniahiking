@@ -7,7 +7,7 @@ duration: 3
 height: 480
 lead: M_2-5210_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/34689
+maplink: https://mapzs.pzs.si/poi/34689
 name: podBohorjem
 nearby:
 - /hikes/brunk

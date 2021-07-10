@@ -7,7 +7,7 @@ duration: 4
 height: 978
 lead: M_9_0958.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1277
+maplink: https://mapzs.pzs.si/poi/1277
 name: Boc
 nearby:
 - /hikes/donackagora

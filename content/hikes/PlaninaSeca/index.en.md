@@ -6,7 +6,7 @@ height: 1698
 layout: stub
 lead: M_0_00559.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/5796
+maplink: https://mapzs.pzs.si/poi/5796
 name: PlaninaSeca
 nearby:
 - /hikes/golica

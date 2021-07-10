@@ -6,7 +6,7 @@ description: Trojica je zaselek okoli razglednega vrha na obronkih Posavskega hr
 duration: 3
 height: 530
 map: 1
-maplink: https://mapzs.projekti.si/path/32419
+maplink: https://mapzs.pzs.si/path/32419
 name: svTrojica_Dob
 nearby:
 - /hikes/svprimoz_kamnik

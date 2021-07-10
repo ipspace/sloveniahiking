@@ -8,7 +8,7 @@ duration: 2
 height: 698
 lead: M_1_2149.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/35964
+maplink: https://mapzs.pzs.si/poi/35964
 name: Rodne
 nearby:
 - /hikes/sebrelje

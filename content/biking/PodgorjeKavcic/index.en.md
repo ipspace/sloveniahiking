@@ -22,7 +22,7 @@ height: 880
 layout: structured
 lead: M_20210504_095743.jpg
 length: 22
-maplink: https://mapzs.projekti.si/path/32452
+maplink: https://mapzs.pzs.si/path/32452
 name: PodgorjeKavcic
 region: istria
 start: 45.531420,13.947151

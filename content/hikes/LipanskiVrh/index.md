@@ -28,7 +28,7 @@ image:
 - alt.gif
 lead: M_9-6909_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/6083
+maplink: https://mapzs.pzs.si/poi/6083
 name: LipanskiVrh
 nearby:
 - /hikes/lipanca

@@ -9,7 +9,7 @@ duration: 3
 height: 1054
 lastmod: 2021-02-27 18:30:00
 lead: M_9_1910.JPG
-maplink: https://mapzs.projekti.si/poi/1201
+maplink: https://mapzs.pzs.si/poi/1201
 name: Vogar
 nearby:
 - /hikes/vodicnivrh

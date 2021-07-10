@@ -22,7 +22,7 @@ image:
 - alt.gif
 lead: M_0_1023.JPG
 map: 1
-maplink: https://mapzs.projekti.si/path/31618
+maplink: https://mapzs.pzs.si/path/31618
 name: CrniHribi
 nearby:
 - /hikes/cerje

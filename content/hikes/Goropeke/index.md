@@ -10,7 +10,7 @@ duration: 1.5
 height: 698
 lead: M_0_00742.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/3882
+maplink: https://mapzs.pzs.si/poi/3882
 name: Goropeke
 nearby:
 - /hikes/vrsnik_ziri

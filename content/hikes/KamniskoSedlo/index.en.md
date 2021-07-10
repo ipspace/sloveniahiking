@@ -6,7 +6,7 @@ height: 1876
 layout: stub
 lead: M_00001.jpg
 map: 1
-maplink: https://mapzs.projekti.si/poi/3884
+maplink: https://mapzs.pzs.si/poi/3884
 name: KamniskoSedlo
 nearby:
 - /hikes/okreselj

@@ -17,7 +17,7 @@ height: '1015'
 layout: structured
 lead: M_20210520_100046.jpg
 length: '12.1'
-maplink: https://mapzs.projekti.si/path/55941
+maplink: https://mapzs.pzs.si/path/55941
 name: PodgorjeSlavnik
 peakpoint: Slavnik
 region: istria

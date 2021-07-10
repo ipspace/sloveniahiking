@@ -7,7 +7,7 @@ description: Severno od Semiča se dviguje Smuk, hrib, porasel z vinsko trto in 
 duration: 1.5
 height: 547
 lead: M_007011903.jpg
-maplink: https://mapzs.projekti.si/poi/4162
+maplink: https://mapzs.pzs.si/poi/4162
 name: Smuk
 nearby:
 - /hikes/gospodicna

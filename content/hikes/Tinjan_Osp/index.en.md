@@ -12,7 +12,7 @@ image:
 - alt.gif
 layout: stub
 lead: M_7-4705_IMG.JPG
-maplink: https://mapzs.projekti.si/poi/1827
+maplink: https://mapzs.pzs.si/poi/1827
 name: Tinjan_Osp
 nearby:
 - /hikes/socerb

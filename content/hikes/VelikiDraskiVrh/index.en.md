@@ -21,7 +21,7 @@ image:
 layout: stub
 lead: M_0_3195.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/73
+maplink: https://mapzs.pzs.si/poi/73
 name: VelikiDraskiVrh
 nearby:
 - /hikes/toscbohinj

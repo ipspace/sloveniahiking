@@ -7,7 +7,7 @@ description: Peca je druga najvišja gora severnih Karavank, le 14 m nižja od n
 duration: 6
 height: 2125
 lead: M_50608015.jpg
-maplink: https://mapzs.projekti.si/poi/4387
+maplink: https://mapzs.pzs.si/poi/4387
 name: Peca
 nearby:
 - /hikes/raduha

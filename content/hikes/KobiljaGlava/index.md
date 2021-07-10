@@ -8,7 +8,7 @@ duration: 3
 height: 1475
 lead: M_0_00656.JPG
 map: 1
-maplink: https://mapzs.projekti.si/path/31675
+maplink: https://mapzs.pzs.si/path/31675
 name: KobiljaGlava
 nearby:
 - /hikes/planinarazor

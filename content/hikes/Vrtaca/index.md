@@ -8,7 +8,7 @@ duration: 7.5
 height: 2181
 lead: M_3-6358_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/4676
+maplink: https://mapzs.pzs.si/poi/4676
 name: Vrtaca
 nearby:
 - /hikes/korosica

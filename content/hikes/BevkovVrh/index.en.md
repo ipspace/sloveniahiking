@@ -13,7 +13,7 @@ height: 1051
 layout: stub
 lead: M_8-6846_IMG.JPG
 map: 1
-maplink: https://mapzs.projekti.si/poi/1205
+maplink: https://mapzs.pzs.si/poi/1205
 name: BevkovVrh
 nearby:
 - /hikes/ermanovec

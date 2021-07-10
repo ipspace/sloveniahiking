@@ -17,7 +17,7 @@ image:
 - M_006111908.jpg
 layout: stub
 lead: M_006111906.jpg
-maplink: https://mapzs.projekti.si/poi/113
+maplink: https://mapzs.pzs.si/poi/113
 name: Sleme
 nearby:
 - /hikes/stenar
