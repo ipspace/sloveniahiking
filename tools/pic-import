@@ -38,6 +38,10 @@ for img in args.pics:
 
   try:
     exif = cm.images.get_exif(img)
+  except:
+    exif = {}
+  
+  try:
     print("Importing %s" % img)
     cm.images.watermark(img,author=get_author)
   except:
@@ -47,13 +51,17 @@ for img in args.pics:
   if args.prefix or args.renumber:
     pic_dir  = os.path.dirname(img)
     pic_name = os.path.basename(img)
-    if args.prefix:
-      new_name = args.prefix + "-" + pic_name.replace(" ","-").lower()
-    if args.renumber:
-      new_name = get_pic_id(pic_dir,exif,"M_")
+    if exif:
+      if args.prefix:
+        new_name = args.prefix + "-" + pic_name.replace(" ","-").lower()
+      if args.renumber:
+        new_name = get_pic_id(pic_dir,exif,"M_")
 
-    new_name.replace(".jpeg",".jpg")
-    print("Renaming %s to %s" % (pic_name,new_name))
-    if pic_dir:
-      pic_dir = pic_dir + "/"
-    os.rename(img,pic_dir+new_name)
+      new_name.replace(".jpeg",".jpg")
+      print("Renaming %s to %s" % (pic_name,new_name))
+      if pic_dir:
+        pic_dir = pic_dir + "/"
+      os.rename(img,pic_dir+new_name)
+
+    else:
+      print("%s has no EXIF data, cannot rename" % pic_name)
