@@ -13,8 +13,8 @@ nearby:
 - /hikes/stegovnik
 - /hikes/svjakob_preddvor
 - /hikes/baba
+- /hikes/vratca
 - /biking/svjakob
-- /hikes/grintovec
 peak: 46.364549,14.446209
 region: karavanke
 start: 46.380160,14.461829

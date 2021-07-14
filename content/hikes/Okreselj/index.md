@@ -12,9 +12,9 @@ name: Okreselj
 nearby:
 - /hikes/kamniskosedlo
 - /hikes/klemencajama
+- /hikes/jenkovaplanina
+- /hikes/ceskakoca
 - /hikes/grintovec
-- /hikes/golivrhjezersko
-- /hikes/kalskigreben
 peak: 46.369294,14.586485
 region: kamnik-alps
 title: Iz Logarske doline na Okrešelj

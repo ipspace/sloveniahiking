@@ -23,8 +23,8 @@ nearby:
 - /hikes/vrhkorena
 - /hikes/zvoh
 - /hikes/grintovec
-- /hikes/kamniskosedlo
-- /hikes/okreselj
+- /hikes/ceskakoca
+- /hikes/vratca
 peak: 46.331441,14.537686
 region: kamnik-alps
 title: Kalški greben

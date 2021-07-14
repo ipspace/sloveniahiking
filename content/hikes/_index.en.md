@@ -12,4 +12,4 @@ You could also [list all the excursions](../hikes-list/list/) in our database, o
 
 ## Recent Hikes with English Descriptions
 
-These hikes have English descriptions (many of them contributed by Margaret Davis).
+These hikes have English descriptions (the long ones were translated from Slovenian original by Margaret Davis).

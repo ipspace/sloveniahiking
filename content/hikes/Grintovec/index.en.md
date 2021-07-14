@@ -9,11 +9,11 @@ lead: M_007080902.jpg
 maplink: https://mapzs.pzs.si/poi/10
 name: Grintovec
 nearby:
+- /hikes/ceskakoca
+- /hikes/vratca
 - /hikes/kalskigreben
 - /hikes/okreselj
-- /hikes/golivrhjezersko
-- /hikes/kamniskosedlo
-- /hikes/vrhkorena
+- /hikes/jenkovaplanina
 peak: 46.357097,14.535416
 photo_author: Mojca_Lustrek
 region: kamnik-alps

@@ -22,8 +22,8 @@ nearby:
 - /hikes/kozjivrh
 - /hikes/kladivo
 - /hikes/kofce
+- /hikes/vratca
 - /hikes/svjakob_preddvor
-- /hikes/velikivrh
 peak: 46.395233,14.419961
 photo_author: Milos_Kobe
 region: karavanke

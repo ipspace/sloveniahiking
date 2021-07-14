@@ -13,7 +13,7 @@ nearby:
 - /hikes/kamniskosedlo
 - /hikes/okreselj
 - /hikes/konj
-- /hikes/golivrhjezersko
+- /hikes/jenkovaplanina
 peak: 46.377613,14.633806
 photo_author: Mojca_Lustrek
 region: kamnik-alps

@@ -15,7 +15,7 @@ nearby:
 - /hikes/klemencajama
 - /hikes/konj
 - /hikes/grintovec
-- /hikes/kalskigreben
+- /hikes/ceskakoca
 peak: 46.359083,14.597487
 region: kamnik-alps
 start: 46.327137,14.589418

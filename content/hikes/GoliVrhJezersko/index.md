@@ -1,24 +1,32 @@
 ---
 author: Mojca_Lustrek
 date: 2006-04-09 00:00:00+00:00
-delta: 860
+delta: 780
 description: Goli vrh je stožec med Ravensko in Belsko Kočno še v Kamniško-Savinjskih
   Alpah, a se že spogleduje s Karavankami. Iz gozdnatih pobočij štrli gola konica,
   s katere je razkošen razgled na vse strani.
 duration: 4.5
+gpx:
+  center:
+    lat: 46.391395683236155
+    lon: 14.544016431882579
+  file: GoliVrh.gpx
+  modified: 1626282621
+  zoom: 14
 height: 1787
 lead: M_006040100.jpg
 maplink: https://mapzs.pzs.si/poi/734
 name: GoliVrhJezersko
 nearby:
+- /hikes/jenkovaplanina
+- /hikes/ceskakoca
+- /hikes/vratca
 - /hikes/okreselj
 - /hikes/grintovec
-- /hikes/kamniskosedlo
-- /hikes/klemencajama
-- /hikes/kalskigreben
 peak: 46.397913, 14.546991
 photo_author: Mojca_Lustrek
 region: kamnik-alps
+start: 46.384607,14.536531
 title: Goli vrh nad Jezerskim
 ---
 {{<figure src="M_006040100.jpg">}}
@@ -31,7 +39,7 @@ Goli vrh je stožec med Ravensko in Belsko Kočno še v Kamniško-Savinjskih Alp
 :   Nezahtevna, ne prenaporna in zadovoljivo markirana pot.
 
 **Dostop**
-:   Parkiramo pri lovskem domu v Ravenski Kočni.
+:   Poleti parkiramo na parkirišču na koncu Ravenske Kočne. Pozimi bo bolje parkirati pri lovskem domu.
 
 **Dolžina**
 :   Ravenska Kočna--Jenkova planina: 1 ura 30 minut\
@@ -43,7 +51,8 @@ Goli vrh je stožec med Ravensko in Belsko Kočno še v Kamniško-Savinjskih Alp
 :   1787 m
 
 **Višinska razlika**
-:   860 m
+:   780 m od parkirišča v Ravenski Kočni\
+    860 m od lovskega doma
 
 **Čas obiska**
 :   Kadarkoli. Tudi pozimi nismo imeli težav. Zaradi razgleda pa si je vredno izbrati jasen dan, ko je vidljivost dobra.

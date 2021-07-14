@@ -9,7 +9,7 @@
     "duration": 3,
     "height": 883,
     "lead": "M_5_2520.JPG",
-    "maplink": "https://mapzs.projekti.si/path/32452",
+    "maplink": "https://mapzs.pzs.si/path/32452",
     "name": "Kavcic",
     "peak": "45.471239,13.983605",
     "region": "istria",
@@ -31,7 +31,7 @@
     "height": 2275,
     "lead": "M_5-6601.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/55",
+    "maplink": "https://mapzs.pzs.si/poi/55",
     "name": "ToscBohinj",
     "nearby": [
       "/hikes/velikidraskivrh",
@@ -141,7 +141,7 @@
     },
     "height": 1028,
     "lead": "M_5-3555_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1235",
+    "maplink": "https://mapzs.pzs.si/poi/1235",
     "name": "Slavnik",
     "nearby": [
       "/hikes/podgorje",
@@ -190,7 +190,7 @@
     "duration": 6,
     "height": 1922,
     "lead": "M_8-6819_IMG.jpg",
-    "maplink": "https://mapzs.projekti.si/path/32030",
+    "maplink": "https://mapzs.pzs.si/path/32030",
     "name": "VogelVrh",
     "nearby": [
       "/hikes/vogel",
@@ -217,7 +217,7 @@
     "duration": 2,
     "height": 961,
     "lead": "M_9-3980_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1295",
+    "maplink": "https://mapzs.pzs.si/poi/1295",
     "name": "svJakob_Preddvor",
     "nearby": [
       "/biking/svjakob",
@@ -247,14 +247,14 @@
     "height": 1876,
     "lead": "M_00001.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/3884",
+    "maplink": "https://mapzs.pzs.si/poi/3884",
     "name": "KamniskoSedlo",
     "nearby": [
       "/hikes/okreselj",
       "/hikes/klemencajama",
       "/hikes/konj",
       "/hikes/grintovec",
-      "/hikes/kalskigreben"
+      "/hikes/ceskakoca"
     ],
     "peak": "46.359083,14.597487",
     "region": "kamnik-alps",
@@ -275,7 +275,7 @@
     "height": 912,
     "lead": "M_003074.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/36608",
+    "maplink": "https://mapzs.pzs.si/poi/36608",
     "name": "DolskiMaj",
     "nearby": [
       "/hikes/otliskookno",
@@ -354,7 +354,7 @@
     },
     "height": 2062,
     "lead": "M_1-7159_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/118",
+    "maplink": "https://mapzs.pzs.si/poi/118",
     "name": "Raduha",
     "nearby": [
       "/hikes/strelovec",
@@ -410,7 +410,7 @@
     "height": 944,
     "lead": "M_5_0546.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1305",
+    "maplink": "https://mapzs.pzs.si/poi/1305",
     "name": "Creta",
     "nearby": [
       "/hikes/svjost",
@@ -438,14 +438,14 @@
     "height": 2224,
     "lead": "M_8_1889.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/77",
+    "maplink": "https://mapzs.pzs.si/poi/77",
     "name": "KalskiGreben",
     "nearby": [
       "/hikes/vrhkorena",
       "/hikes/zvoh",
       "/hikes/grintovec",
-      "/hikes/kamniskosedlo",
-      "/hikes/okreselj"
+      "/hikes/ceskakoca",
+      "/hikes/vratca"
     ],
     "peak": "46.331441,14.537686",
     "region": "kamnik-alps",
@@ -468,7 +468,7 @@
     "height": 788,
     "lead": "M_8-4841_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5499",
+    "maplink": "https://mapzs.pzs.si/poi/5499",
     "name": "Kozljek",
     "nearby": [
       "/hikes/korena",
@@ -497,7 +497,7 @@
     "height": 2088,
     "lead": "M_3_0366.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/107",
+    "maplink": "https://mapzs.pzs.si/poi/107",
     "name": "VelikiVrh",
     "nearby": [
       "/hikes/kosutica",
@@ -584,7 +584,7 @@
     },
     "height": 968,
     "lead": "M_4-4463_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1226",
+    "maplink": "https://mapzs.pzs.si/poi/1226",
     "name": "Ermanovec",
     "nearby": [
       "/hikes/slajka",
@@ -644,7 +644,7 @@
     "height": 1700,
     "lead": "M_8-6806_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/path/31018",
+    "maplink": "https://mapzs.pzs.si/path/31018",
     "name": "Vogel",
     "nearby": [
       "/hikes/vogelvrh",
@@ -675,14 +675,14 @@
     "duration": 3,
     "height": 1692,
     "lead": "M_00004.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/773",
+    "maplink": "https://mapzs.pzs.si/poi/773",
     "name": "Stegovnik",
     "nearby": [
       "/hikes/kozjivrh",
       "/hikes/kladivo",
       "/hikes/kofce",
-      "/hikes/svjakob_preddvor",
-      "/hikes/velikivrh"
+      "/hikes/vratca",
+      "/hikes/svjakob_preddvor"
     ],
     "peak": "46.395233,14.419961",
     "photo_author": "Milos_Kobe",
@@ -705,7 +705,7 @@
     "duration": 3.5,
     "height": 1054,
     "lead": "M_9_1992.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1203",
+    "maplink": "https://mapzs.pzs.si/poi/1203",
     "name": "Ostric",
     "nearby": [
       "/hikes/lipnik",
@@ -735,7 +735,7 @@
     "height": 804,
     "lead": "M_2_1203.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/4193",
+    "maplink": "https://mapzs.pzs.si/poi/4193",
     "name": "Lipnik",
     "nearby": [
       "/hikes/hrastovljezazid",
@@ -763,7 +763,7 @@
     "height": 1495,
     "lead": "M_0_00684.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5276",
+    "maplink": "https://mapzs.pzs.si/poi/5276",
     "name": "MaliGolak",
     "nearby": [
       "/hikes/dolskimaj",
@@ -793,7 +793,7 @@
     "height": 616,
     "lead": "M_9_0990.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/4915",
+    "maplink": "https://mapzs.pzs.si/poi/4915",
     "name": "svAndrej_Zminec",
     "nearby": [
       "/hikes/svozbolt",
@@ -810,6 +810,94 @@
     }
   },
   {
+    "date": "2021-07-14 15:57:04+00:00",
+    "delta": "560",
+    "description": {
+      "sl": "\u010ce\u0161ka ko\u010da je verjetno najbolj priljubljen cilj nad Jezerskim. Odkar so uredili parkiri\u0161\u010de skoraj kilometer pred tovorno \u017ei\u010dnico se do nje najraje odpravimo \u010dez \u0160tularjevo planino.",
+      "en": "\u010ce\u0161ka ko\u010da (Czech hut) is probably the most popular destination in the mountains above Jezersko. At least four marked trails lead to it; we found the one via \u0160tularjeva Planina (\u0160tular's Alp) by far the most pleasant."
+    },
+    "difficulty": "Po strmem vzponu do \u0160tularjeve planine vas \u010daka prijetna izpostavljena pre\u010dka nad Ravensko Ko\u010dno.",
+    "duration": "3",
+    "gpx": {
+      "center": {
+        "lat": 46.37726609985445,
+        "lon": 14.531534856353042
+      },
+      "file": "CeskaKoca.gpx",
+      "modified": 1626283522,
+      "zoom": 14
+    },
+    "height": "1542",
+    "layout": "structured",
+    "lead": "IMG_1995.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/852",
+    "name": "CeskaKoca",
+    "nearby": [
+      "/hikes/vratca",
+      "/hikes/grintovec",
+      "/hikes/jenkovaplanina",
+      "/hikes/golivrhjezersko",
+      "/hikes/okreselj"
+    ],
+    "path": "https://www.hribi.net/izlet/ravenska_kocna_ceska_koca_na_spodnjih_ravneh_cez_stularjevo_planino/3/183/1173",
+    "peak": "46.369725,14.535895",
+    "region": "kamnik-alps",
+    "start": "46.384607,14.536531",
+    "timing": [
+      "Vzpon: 1,5 ure",
+      "Spust: 1 ura",
+      "Skupaj: 3 ure "
+    ],
+    "title": {
+      "sl": "\u010ce\u0161ka ko\u010da",
+      "en": "\u010ce\u0161ka ko\u010da (Czech hut)"
+    }
+  },
+  {
+    "date": "2021-07-14 16:30:22+00:00",
+    "delta": "490",
+    "description": {
+      "sl": "Z Jenkove planine na mejnem grebenu med Slovenijo in Avstrijo se odpre lep pogled na vrhove okoli Ravenske Ko\u010dne.",
+      "en": "Jenkova Planina is a small meadow on a saddle in a ridge running along the Slovenian-Austrian border with a nice view of the highest peaks around Jezersko. While the hike tends to be a bit boring, you'll appreciate the dark forest you're walking through in the summer heat."
+    },
+    "difficulty": "Strm vzpon skozi gozd",
+    "duration": "3",
+    "gpx": {
+      "center": {
+        "lat": 46.38919409260242,
+        "lon": 14.544016431882579
+      },
+      "file": "JenkovaPlanina.gpx",
+      "modified": 1626282762,
+      "zoom": 15
+    },
+    "height": "1495",
+    "layout": "structured",
+    "lead": "IMG_2003.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/4723",
+    "name": "JenkovaPlanina",
+    "nearby": [
+      "/hikes/golivrhjezersko",
+      "/hikes/ceskakoca",
+      "/hikes/vratca",
+      "/hikes/okreselj",
+      "/hikes/grintovec"
+    ],
+    "path": "https://www.hribi.net/gora/jenkova_planina/3/477",
+    "peak": "46.393235,14.551851",
+    "region": "kamnik-alps",
+    "start": "46.384607,14.536531",
+    "timing": [
+      "Vzpon: 1.5 ure",
+      "Spust: 1 ura",
+      "Skupaj: 3 ure"
+    ],
+    "title": {
+      "sl": "Jenkova Planina",
+      "en": "Jenkova Planina"
+    }
+  },
+  {
     "date": "2003-05-11 00:00:00+00:00",
     "delta": 250,
     "description": {
@@ -820,7 +908,7 @@
     "height": 386,
     "lead": "M_1-5142_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5651",
+    "maplink": "https://mapzs.pzs.si/poi/5651",
     "name": "svVid_Catez",
     "nearby": [
       "/hikes/podbohorjem",
@@ -932,7 +1020,7 @@
     },
     "height": 1562,
     "lead": "M_4_0469.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/4875",
+    "maplink": "https://mapzs.pzs.si/poi/4875",
     "name": "Blegos",
     "nearby": [
       "/hikes/malenskivrh",
@@ -989,7 +1077,7 @@
     "height": 978,
     "lead": "M_9_0958.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1277",
+    "maplink": "https://mapzs.pzs.si/poi/1277",
     "name": "Boc",
     "nearby": [
       "/hikes/donackagora",
@@ -1016,7 +1104,7 @@
     "duration": 5,
     "height": 1154,
     "lead": "M_005021110.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/34918",
+    "maplink": "https://mapzs.pzs.si/poi/34918",
     "name": "Uskovnica",
     "nearby": [
       "/hikes/visevnik",
@@ -1045,7 +1133,7 @@
     "height": 793,
     "lead": "M_9_1976.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/389",
+    "maplink": "https://mapzs.pzs.si/poi/389",
     "name": "GradiskaTura",
     "nearby": [
       "/hikes/svmiklavz_vipava",
@@ -1078,7 +1166,7 @@
     "duration": 6,
     "height": 1236,
     "lead": "M_20210226_124917.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/5266",
+    "maplink": "https://mapzs.pzs.si/poi/5266",
     "name": "VelikiRob",
     "nearby": [
       "/hikes/kucelj",
@@ -1113,7 +1201,7 @@
     "lastmod": "2021-03-25 14:58:00",
     "lead": "M_8_1840.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1419",
+    "maplink": "https://mapzs.pzs.si/poi/1419",
     "name": "Sebrelje",
     "nearby": [
       "/hikes/rodne",
@@ -1231,7 +1319,7 @@
     },
     "height": 898,
     "lead": "M_0-5040_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/196",
+    "maplink": "https://mapzs.pzs.si/poi/196",
     "name": "PolhograjskaGrmada",
     "nearby": [
       "/hikes/tosc",
@@ -1260,7 +1348,7 @@
     "height": 1999,
     "lead": "M_9_1908.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/145",
+    "maplink": "https://mapzs.pzs.si/poi/145",
     "name": "VrhKorena",
     "nearby": [
       "/hikes/zvoh",
@@ -1288,7 +1376,7 @@
     "height": 908,
     "lead": "M_0_10596.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/278",
+    "maplink": "https://mapzs.pzs.si/poi/278",
     "name": "HleviskePlanine",
     "nearby": [
       "/hikes/vrsnik_ziri",
@@ -1316,7 +1404,7 @@
     "height": 1630,
     "lead": "M_1-6154_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5098",
+    "maplink": "https://mapzs.pzs.si/poi/5098",
     "name": "Porezen",
     "nearby": [
       "/hikes/kojca",
@@ -1344,7 +1432,7 @@
     "height": 1315,
     "lead": "M_1-7133_img.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1017",
+    "maplink": "https://mapzs.pzs.si/poi/1017",
     "name": "PlaninaRazor",
     "nearby": [
       "/hikes/vogelvrh",
@@ -1372,7 +1460,7 @@
     "duration": 5,
     "height": 1090,
     "lead": "M_008032703.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/360",
+    "maplink": "https://mapzs.pzs.si/poi/360",
     "name": "Kotecnik",
     "nearby": [
       "/hikes/kamnik",
@@ -1400,7 +1488,7 @@
     "height": 832,
     "lead": "M_5-4588_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/3860",
+    "maplink": "https://mapzs.pzs.si/poi/3860",
     "name": "BukovVrh",
     "nearby": [
       "/hikes/sivka",
@@ -1428,7 +1516,7 @@
     "height": 1475,
     "lead": "M_0_00656.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/path/31675",
+    "maplink": "https://mapzs.pzs.si/path/31675",
     "name": "KobiljaGlava",
     "nearby": [
       "/hikes/planinarazor",
@@ -1509,7 +1597,7 @@
       "en": null
     },
     "height": 1027,
-    "maplink": "https://mapzs.projekti.si/poi/1227",
+    "maplink": "https://mapzs.pzs.si/poi/1227",
     "name": "Vremscica",
     "nearby": [
       "/hikes/nanos",
@@ -1594,7 +1682,7 @@
     },
     "height": 1666,
     "lead": "M_3_1378.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/836",
+    "maplink": "https://mapzs.pzs.si/poi/836",
     "name": "VelikaPlanina",
     "nearby": [
       "/hikes/svprimoz_kamnik",
@@ -1621,7 +1709,7 @@
     "height": 854,
     "lead": "M_7_2705.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/path/32647",
+    "maplink": "https://mapzs.pzs.si/path/32647",
     "name": "svAnton",
     "nearby": [
       "/hikes/trijekralji",
@@ -1648,7 +1736,7 @@
     "height": 2050,
     "lead": "M_9-5929_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/4975",
+    "maplink": "https://mapzs.pzs.si/poi/4975",
     "name": "Visevnik",
     "nearby": [
       "/hikes/malidraskivrh",
@@ -1678,7 +1766,7 @@
     "duration": 6,
     "height": 1753,
     "lead": "M_008051108.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/6048",
+    "maplink": "https://mapzs.pzs.si/poi/6048",
     "name": "Klek",
     "nearby": [
       "/hikes/golica",
@@ -1706,7 +1794,7 @@
     "height": 915,
     "lead": "M_7_2717.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1352",
+    "maplink": "https://mapzs.pzs.si/poi/1352",
     "name": "ZavcarjevVrh",
     "nearby": [
       "/hikes/trijekralji",
@@ -1757,7 +1845,7 @@
     "duration": 1.5,
     "height": 529,
     "lead": "M_2_2245.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1501",
+    "maplink": "https://mapzs.pzs.si/poi/1501",
     "name": "Plaz",
     "nearby": [
       "/hikes/gradiskatura",
@@ -1902,7 +1990,7 @@
     },
     "height": 1630,
     "lead": "M_9-5985_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/32992",
+    "maplink": "https://mapzs.pzs.si/poi/32992",
     "name": "Lipanca",
     "nearby": [
       "/hikes/lipanskivrh",
@@ -1931,14 +2019,14 @@
     "duration": 9,
     "height": 2558,
     "lead": "M_007080902.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/10",
+    "maplink": "https://mapzs.pzs.si/poi/10",
     "name": "Grintovec",
     "nearby": [
+      "/hikes/ceskakoca",
+      "/hikes/vratca",
       "/hikes/kalskigreben",
       "/hikes/okreselj",
-      "/hikes/golivrhjezersko",
-      "/hikes/kamniskosedlo",
-      "/hikes/vrhkorena"
+      "/hikes/jenkovaplanina"
     ],
     "peak": "46.357097,14.535416",
     "photo_author": "Mojca_Lustrek",
@@ -2009,7 +2097,7 @@
       "en": null
     },
     "height": 844,
-    "maplink": "https://mapzs.projekti.si/poi/4410",
+    "maplink": "https://mapzs.pzs.si/poi/4410",
     "name": "Vs3k",
     "nearby": [
       "/biking/zavratec",
@@ -2035,7 +2123,7 @@
     "duration": 3.5,
     "height": 987,
     "lead": "M_8-3831_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/34550",
+    "maplink": "https://mapzs.pzs.si/poi/34550",
     "name": "MrzliVrh_Ziri",
     "nearby": [
       "/hikes/vrsnik_ziri",
@@ -2063,7 +2151,7 @@
     "height": 280,
     "lead": "M_2_2830.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/4207",
+    "maplink": "https://mapzs.pzs.si/poi/4207",
     "name": "Padna",
     "nearby": [
       "/biking/marezigesmarje",
@@ -2093,7 +2181,7 @@
     "height": 1088,
     "lead": "M_2_0234.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/6303",
+    "maplink": "https://mapzs.pzs.si/poi/6303",
     "name": "Ambroz",
     "nearby": [
       "/hikes/zvoh",
@@ -2120,7 +2208,7 @@
     "duration": 3.5,
     "height": 1435,
     "lead": "M_0006.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/940",
+    "maplink": "https://mapzs.pzs.si/poi/940",
     "name": "KranjskaReber",
     "nearby": [
       "/hikes/velikirogac",
@@ -2149,7 +2237,7 @@
     "height": 374,
     "lastmod": "2021-05-19 11:59:00",
     "lead": "M_7-4705_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1827",
+    "maplink": "https://mapzs.pzs.si/poi/1827",
     "name": "Tinjan_Osp",
     "nearby": [
       "/hikes/socerb",
@@ -2177,7 +2265,7 @@
     "duration": 1.5,
     "height": 547,
     "lead": "M_007011903.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/4162",
+    "maplink": "https://mapzs.pzs.si/poi/4162",
     "name": "Smuk",
     "nearby": [
       "/hikes/gospodicna"
@@ -2303,7 +2391,7 @@
     },
     "height": 1262,
     "lead": "M_2_0206.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/3080",
+    "maplink": "https://mapzs.pzs.si/poi/3080",
     "name": "Nanos",
     "nearby": [
       "/hikes/suhivrh",
@@ -2333,7 +2421,7 @@
     "height": 440,
     "lead": "M_9_2968.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1726",
+    "maplink": "https://mapzs.pzs.si/poi/1726",
     "name": "ZgornjiKras",
     "nearby": [
       "/hikes/socerb",
@@ -2387,7 +2475,7 @@
     "duration": 3,
     "height": 1670,
     "lead": "M_5-6554_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/4709",
+    "maplink": "https://mapzs.pzs.si/poi/4709",
     "name": "Krstenica",
     "nearby": [
       "/hikes/jezerskistog",
@@ -2414,7 +2502,7 @@
     "duration": 2,
     "height": 743,
     "lead": "M_6-4646_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/path/31730",
+    "maplink": "https://mapzs.pzs.si/path/31730",
     "name": "Vrsnik_Ziri",
     "nearby": [
       "/hikes/goropeke",
@@ -2443,7 +2531,7 @@
     "height": 1621,
     "lead": "M_9_1933.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/6050",
+    "maplink": "https://mapzs.pzs.si/poi/6050",
     "name": "VodicniVrh",
     "nearby": [
       "/hikes/vogar",
@@ -2482,7 +2570,7 @@
     "height": "1314",
     "layout": "structured",
     "lead": "IMG_1924.jpg",
-    "maplink": "https://mapzs.projekti.si/path/32458",
+    "maplink": "https://mapzs.pzs.si/path/32458",
     "name": "Golobar",
     "nearby": [
       "/hikes/loskakoritnica",
@@ -2517,7 +2605,7 @@
     "duration": 2,
     "height": 880,
     "lead": "M_20210222_002.jpg",
-    "maplink": "https://mapzs.projekti.si/path/31616",
+    "maplink": "https://mapzs.pzs.si/path/31616",
     "name": "PlaninskaGora",
     "nearby": [
       "/hikes/oblenk",
@@ -2557,7 +2645,7 @@
     "height": 1181,
     "lead": "M_1_2101.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5353",
+    "maplink": "https://mapzs.pzs.si/poi/5353",
     "name": "TrijeKralji",
     "nearby": [
       "/hikes/boc"
@@ -2581,7 +2669,7 @@
     "height": 2181,
     "lead": "M_3-6358_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/4676",
+    "maplink": "https://mapzs.pzs.si/poi/4676",
     "name": "Vrtaca",
     "nearby": [
       "/hikes/korosica",
@@ -2609,7 +2697,7 @@
     "height": 2008,
     "lead": "M_1_0167.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/142",
+    "maplink": "https://mapzs.pzs.si/poi/142",
     "name": "BrdaLipanca",
     "nearby": [
       "/hikes/lipanskivrh",
@@ -2639,7 +2727,7 @@
     "height": 934,
     "lead": "M_2_2285.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/6517",
+    "maplink": "https://mapzs.pzs.si/poi/6517",
     "name": "Sivka",
     "nearby": [
       "/hikes/bukovvrh",
@@ -2696,7 +2784,7 @@
     "lastmod": "2021-02-20 06:35",
     "lead": "M_1_0145.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/140",
+    "maplink": "https://mapzs.pzs.si/poi/140",
     "name": "DebelaPec",
     "nearby": [
       "/hikes/brdalipanca",
@@ -2735,7 +2823,7 @@
     "height": 1796,
     "lead": "M_8-1813_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/34824",
+    "maplink": "https://mapzs.pzs.si/poi/34824",
     "name": "Sneznik",
     "nearby": [
       "/hikes/volovjareber",
@@ -2762,7 +2850,7 @@
     "height": 1643,
     "lead": "M_0-7053_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/4686",
+    "maplink": "https://mapzs.pzs.si/poi/4686",
     "name": "Dobrca",
     "nearby": [
       "/hikes/korosica",
@@ -2789,7 +2877,7 @@
     "height": 987,
     "lead": "M_7_0732.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/4940",
+    "maplink": "https://mapzs.pzs.si/poi/4940",
     "name": "MalenskiVrh",
     "nearby": [
       "/hikes/blegos",
@@ -2880,7 +2968,7 @@
     },
     "height": 1019,
     "lead": "M_1-3162_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/3908",
+    "maplink": "https://mapzs.pzs.si/poi/3908",
     "name": "svLovrenc",
     "nearby": [
       "/hikes/oblenk",
@@ -2909,7 +2997,7 @@
     "height": 2501,
     "lead": "M_6_2636.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/18",
+    "maplink": "https://mapzs.pzs.si/poi/18",
     "name": "Stenar",
     "nearby": [
       "/hikes/sleme",
@@ -2940,7 +3028,7 @@
     "height": 890,
     "lead": "M_0_0030.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1384",
+    "maplink": "https://mapzs.pzs.si/poi/1384",
     "name": "Golic",
     "peak": "45.486241,13.978104",
     "region": "istria",
@@ -2964,7 +3052,7 @@
     "duration": 6,
     "height": 1107,
     "lead": "M_2-2217_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/34828",
+    "maplink": "https://mapzs.pzs.si/poi/34828",
     "name": "Krim",
     "nearby": [
       "/hikes/borovniski_pekel",
@@ -2990,7 +3078,7 @@
     },
     "duration": 2,
     "height": 826,
-    "maplink": "https://mapzs.projekti.si/poi/233",
+    "maplink": "https://mapzs.pzs.si/poi/233",
     "name": "svPrimoz_Kamnik",
     "nearby": [
       "/hikes/velikaplanina",
@@ -3027,7 +3115,7 @@
     "height": 1051,
     "lead": "M_8-6846_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1205",
+    "maplink": "https://mapzs.pzs.si/poi/1205",
     "name": "BevkovVrh",
     "nearby": [
       "/hikes/ermanovec",
@@ -3082,14 +3170,14 @@
     "height": 1395,
     "lastmod": "2021-02-13 17:10:00",
     "lead": "M_6-1674_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/6254",
+    "maplink": "https://mapzs.pzs.si/poi/6254",
     "name": "Okreselj",
     "nearby": [
       "/hikes/kamniskosedlo",
       "/hikes/klemencajama",
-      "/hikes/grintovec",
-      "/hikes/golivrhjezersko",
-      "/hikes/kalskigreben"
+      "/hikes/jenkovaplanina",
+      "/hikes/ceskakoca",
+      "/hikes/grintovec"
     ],
     "peak": "46.369294,14.586485",
     "region": "kamnik-alps",
@@ -3109,7 +3197,7 @@
     "height": 1554,
     "lead": "M_5_2578.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/842",
+    "maplink": "https://mapzs.pzs.si/poi/842",
     "name": "Korosica",
     "nearby": [
       "/hikes/kosutica",
@@ -3137,7 +3225,7 @@
     "height": 1303,
     "lead": "M_7-5762_img.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1026",
+    "maplink": "https://mapzs.pzs.si/poi/1026",
     "name": "Kojca",
     "nearby": [
       "/hikes/rodne",
@@ -3165,7 +3253,7 @@
     "duration": 6,
     "height": 2094,
     "lead": "M_006070701.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/104",
+    "maplink": "https://mapzs.pzs.si/poi/104",
     "name": "Kladivo",
     "nearby": [
       "/hikes/kofce",
@@ -3250,7 +3338,7 @@
     },
     "height": 901,
     "lead": "M_4-4461_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1368",
+    "maplink": "https://mapzs.pzs.si/poi/1368",
     "name": "Javorc",
     "nearby": [
       "/hikes/goropeke",
@@ -3349,7 +3437,7 @@
     },
     "height": 1488,
     "lead": "M_3_0331.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/34621",
+    "maplink": "https://mapzs.pzs.si/poi/34621",
     "name": "Kofce",
     "nearby": [
       "/hikes/velikivrh",
@@ -3385,7 +3473,7 @@
     "height": "1103",
     "layout": "structured",
     "lead": "IMG_1934.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/5719",
+    "maplink": "https://mapzs.pzs.si/poi/5719",
     "name": "LoskaKoritnica",
     "nearby": [
       "/hikes/tamar",
@@ -3420,7 +3508,7 @@
     "height": 820,
     "lead": "M_9-6987_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5296",
+    "maplink": "https://mapzs.pzs.si/poi/5296",
     "name": "OtliskoOkno",
     "nearby": [
       "/hikes/starababa",
@@ -3472,7 +3560,7 @@
     "duration": 2.5,
     "height": 729,
     "lead": "M_2-2216_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/5538",
+    "maplink": "https://mapzs.pzs.si/poi/5538",
     "name": "Korena",
     "nearby": [
       "/hikes/korena_samotorica",
@@ -3499,7 +3587,7 @@
     "height": 698,
     "lead": "M_1_2149.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/35964",
+    "maplink": "https://mapzs.pzs.si/poi/35964",
     "name": "Rodne",
     "nearby": [
       "/hikes/sebrelje",
@@ -3527,7 +3615,7 @@
     "height": 1034,
     "lead": "M_5_2552.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1220",
+    "maplink": "https://mapzs.pzs.si/poi/1220",
     "name": "MalaGora",
     "nearby": [
       "/hikes/caven",
@@ -3553,7 +3641,7 @@
     },
     "duration": 2,
     "height": 650,
-    "maplink": "https://mapzs.projekti.si/poi/34829",
+    "maplink": "https://mapzs.pzs.si/poi/34829",
     "name": "Borovniski_Pekel",
     "nearby": [
       "/hikes/pokojisce",
@@ -3582,7 +3670,7 @@
     "height": 2040,
     "lead": "M_5-6560_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/130",
+    "maplink": "https://mapzs.pzs.si/poi/130",
     "name": "JezerskiStog",
     "nearby": [
       "/hikes/krstenica",
@@ -3612,7 +3700,7 @@
     "height": 698,
     "lead": "M_0_00742.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/3882",
+    "maplink": "https://mapzs.pzs.si/poi/3882",
     "name": "Goropeke",
     "nearby": [
       "/hikes/vrsnik_ziri",
@@ -3640,7 +3728,7 @@
     "duration": 5,
     "height": 1313,
     "lead": "M_007051810.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/1022",
+    "maplink": "https://mapzs.pzs.si/poi/1022",
     "name": "SuhiVrh",
     "nearby": [
       "/hikes/nanos",
@@ -3668,7 +3756,7 @@
     },
     "duration": 6,
     "height": 1763,
-    "maplink": "https://mapzs.projekti.si/poi/741",
+    "maplink": "https://mapzs.pzs.si/poi/741",
     "name": "Strelovec",
     "nearby": [
       "/hikes/klemencajama",
@@ -3697,7 +3785,7 @@
     "duration": 6,
     "height": 2077,
     "lead": "M_006111906.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/113",
+    "maplink": "https://mapzs.pzs.si/poi/113",
     "name": "Sleme",
     "nearby": [
       "/hikes/stenar",
@@ -3854,7 +3942,7 @@
     },
     "height": 1242,
     "lead": "M_2_0264.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1062",
+    "maplink": "https://mapzs.pzs.si/poi/1062",
     "name": "Caven",
     "nearby": [
       "/hikes/malagora",
@@ -3882,7 +3970,7 @@
     "height": 2132,
     "lead": "M_0_00606.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/33033",
+    "maplink": "https://mapzs.pzs.si/poi/33033",
     "name": "MaliDraskiVrh",
     "nearby": [
       "/hikes/visevnik",
@@ -3911,7 +3999,7 @@
     "duration": 2,
     "height": 507,
     "lead": "M_8-3867_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1575",
+    "maplink": "https://mapzs.pzs.si/poi/1575",
     "name": "Kuk",
     "nearby": [
       "/hikes/hrastovljezazid",
@@ -3941,7 +4029,7 @@
     "height": 1021,
     "lead": "M_2-6242.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1230",
+    "maplink": "https://mapzs.pzs.si/poi/1230",
     "name": "Tosc",
     "nearby": [
       "/hikes/polhograjskagrmada",
@@ -3970,7 +4058,7 @@
     "height": 498,
     "lead": "M_1_2136.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/2669",
+    "maplink": "https://mapzs.pzs.si/poi/2669",
     "name": "SkoljSvPavla",
     "nearby": [
       "/hikes/kucelj",
@@ -4000,7 +4088,7 @@
     "duration": 6,
     "height": 856,
     "lead": "M_008052305.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/213",
+    "maplink": "https://mapzs.pzs.si/poi/213",
     "name": "Kamnik",
     "nearby": [
       "/hikes/mrzlica",
@@ -4027,7 +4115,7 @@
     "duration": 4,
     "height": 802,
     "lead": "M_0-4054_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/322",
+    "maplink": "https://mapzs.pzs.si/poi/322",
     "name": "Kojnik",
     "peak": "45.506877,13.951764",
     "region": "istria",
@@ -4049,7 +4137,7 @@
     "height": 732,
     "lead": "M_2_2241.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5358",
+    "maplink": "https://mapzs.pzs.si/poi/5358",
     "name": "Pokojisce",
     "nearby": [
       "/hikes/borovniski_pekel",
@@ -4120,7 +4208,7 @@
     },
     "height": 1220,
     "lead": "M_010055.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1085",
+    "maplink": "https://mapzs.pzs.si/poi/1085",
     "name": "Kum",
     "nearby": [
       "/hikes/brunk",
@@ -4147,7 +4235,7 @@
     "height": 1835,
     "lead": "M_2_1262.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/4803",
+    "maplink": "https://mapzs.pzs.si/poi/4803",
     "name": "Golica",
     "nearby": [
       "/hikes/klek",
@@ -4174,7 +4262,7 @@
     "duration": 4,
     "height": 937,
     "lead": "M_1-4119_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/5751",
+    "maplink": "https://mapzs.pzs.si/poi/5751",
     "name": "Oblenk",
     "nearby": [
       "/hikes/planinskagora",
@@ -4189,6 +4277,50 @@
     "title": {
       "sl": "Iz Planine na Petri\u010dev hrib (Oblenk)",
       "en": "From Planina to Petri\u010dev hrib (Oblenk)"
+    }
+  },
+  {
+    "date": "2021-07-14 16:15:54+00:00",
+    "delta": "800",
+    "description": {
+      "sl": "Vratca so izrazit stolp nad \u010ce\u0161ko ko\u010do do katerega vodi zanimiv vzpon ob jeklenicah.",
+      "en": "Vratca (Doors) is a prominent rock pillar above \u010ce\u0161ka ko\u010da (Czech Hut) with a great view of the surrounding mountains. The last bit of the trail is well-protected Via Ferrata through a crumbling gully -- a helmet is highly recommended."
+    },
+    "difficulty": "Po kratkem vzponu \u010dez meli\u0161\u010de vas \u010daka dobro zavarovano poplezavanje po kru\u0161ljivi grapi",
+    "duration": 4,
+    "gpx": {
+      "center": {
+        "lat": 46.37635888458665,
+        "lon": 14.531534856353042
+      },
+      "file": "Vratca.gpx",
+      "modified": 1626283332,
+      "zoom": 14
+    },
+    "height": "1802",
+    "layout": "structured",
+    "lead": "IMG_1991.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/721",
+    "name": "Vratca",
+    "nearby": [
+      "/hikes/ceskakoca",
+      "/hikes/grintovec",
+      "/hikes/jenkovaplanina",
+      "/hikes/golivrhjezersko",
+      "/hikes/kalskigreben"
+    ],
+    "path": "https://www.hribi.net/gora/vratca/3/284",
+    "peak": "46.370450,14.528218",
+    "region": "kamnik-alps",
+    "start": "46.384607,14.536531",
+    "timing": [
+      "Vzpon: 2 h",
+      "Spust: 1.5 h",
+      "Skupaj: 4 h"
+    ],
+    "title": {
+      "sl": "Vratca nad \u010ce\u0161ko ko\u010do",
+      "en": "Vratca above \u010ce\u0161ka ko\u010da"
     }
   },
   {
@@ -4291,7 +4423,7 @@
     },
     "height": 1237,
     "lead": "M_4-6459_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/5257",
+    "maplink": "https://mapzs.pzs.si/poi/5257",
     "name": "Kucelj",
     "nearby": [
       "/hikes/velikirob",
@@ -4320,7 +4452,7 @@
     "height": 1968,
     "lead": "M_5_2583.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/6165",
+    "maplink": "https://mapzs.pzs.si/poi/6165",
     "name": "Kosutica",
     "nearby": [
       "/hikes/korosica",
@@ -4348,7 +4480,7 @@
     "height": 859,
     "lead": "M_0_1008.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/3811",
+    "maplink": "https://mapzs.pzs.si/poi/3811",
     "name": "svOzbolt",
     "nearby": [
       "/hikes/svandrej_zminec",
@@ -4375,7 +4507,7 @@
     "duration": 2,
     "height": 1106,
     "lead": "M_010051.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1145",
+    "maplink": "https://mapzs.pzs.si/poi/1145",
     "name": "Tamar",
     "nearby": [
       "/hikes/loskakoritnica",
@@ -4406,7 +4538,7 @@
     "height": 1300,
     "lead": "M_0-5007_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/260",
+    "maplink": "https://mapzs.pzs.si/poi/260",
     "name": "Jamnik_Vodice",
     "nearby": [
       "/hikes/miklavskagora",
@@ -4433,7 +4565,7 @@
     "duration": 4.5,
     "height": 1426,
     "lead": "M_01103.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/948",
+    "maplink": "https://mapzs.pzs.si/poi/948",
     "name": "GoliVrh_Savnice",
     "nearby": [
       "/hikes/svjost",
@@ -4461,14 +4593,14 @@
     "height": 1628,
     "lead": "M_00020.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/2125",
+    "maplink": "https://mapzs.pzs.si/poi/2125",
     "name": "KozjiVrh",
     "nearby": [
       "/hikes/stegovnik",
       "/hikes/svjakob_preddvor",
       "/hikes/baba",
-      "/biking/svjakob",
-      "/hikes/grintovec"
+      "/hikes/vratca",
+      "/biking/svjakob"
     ],
     "peak": "46.364549,14.446209",
     "region": "karavanke",
@@ -4489,7 +4621,7 @@
     "height": 343,
     "lead": "M_6_2633.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5196",
+    "maplink": "https://mapzs.pzs.si/poi/5196",
     "name": "Cerje",
     "nearby": [
       "/hikes/crnihribi",
@@ -4518,7 +4650,7 @@
     "height": 2243,
     "lead": "M_0_3195.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/73",
+    "maplink": "https://mapzs.pzs.si/poi/73",
     "name": "VelikiDraskiVrh",
     "nearby": [
       "/hikes/toscbohinj",
@@ -4548,7 +4680,7 @@
     "height": 1971,
     "lead": "M_8_1858.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5921",
+    "maplink": "https://mapzs.pzs.si/poi/5921",
     "name": "Zvoh",
     "nearby": [
       "/hikes/vrhkorena",
@@ -4576,7 +4708,7 @@
     "height": 1288,
     "lead": "M_4_1410.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/50830",
+    "maplink": "https://mapzs.pzs.si/poi/50830",
     "name": "CrniVrhCerkno",
     "nearby": [
       "/hikes/blegos",
@@ -4604,7 +4736,7 @@
     "height": 729,
     "lead": "M_8-4852_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5538",
+    "maplink": "https://mapzs.pzs.si/poi/5538",
     "name": "Korena_Samotorica",
     "nearby": [
       "/hikes/korena",
@@ -4632,7 +4764,7 @@
     "height": 380,
     "lead": "M_4-4488_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/55911",
+    "maplink": "https://mapzs.pzs.si/poi/55911",
     "name": "Pedrovo",
     "nearby": [
       "/biking/lukovecmalidol",
@@ -4661,7 +4793,7 @@
     "height": 733,
     "lead": "M_7-4784_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/432",
+    "maplink": "https://mapzs.pzs.si/poi/432",
     "name": "GoraOljka_Polzela",
     "nearby": [
       "/hikes/creta",
@@ -4689,7 +4821,7 @@
     "height": 1844,
     "lead": "M_6-6688_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/34894",
+    "maplink": "https://mapzs.pzs.si/poi/34894",
     "name": "CrnaPrst",
     "nearby": [
       "/hikes/porezen",
@@ -4711,26 +4843,36 @@
   {
     "author": "Mojca_Lustrek",
     "date": "2006-04-09 00:00:00+00:00",
-    "delta": 860,
+    "delta": 780,
     "description": {
       "sl": "Goli vrh je sto\u017eec med Ravensko in Belsko Ko\u010dno \u0161e v Kamni\u0161ko-Savinjskih Alpah, a se \u017ee spogleduje s Karavankami. Iz gozdnatih pobo\u010dij \u0161trli gola konica, s katere je razko\u0161en razgled na vse strani.",
-      "en": null
+      "en": "Goli Vrh is one of the lower peaks in the Slovenia-Austria border ridge east of Jezersko border crossing. The path leading to the top is one of the steepest paths we've encountered in years, but the lovely views of Jezersko, surrounding mountains, Karavanke ranges, and Austrian peaks are well worth the effort.\n"
     },
     "duration": 4.5,
+    "gpx": {
+      "center": {
+        "lat": 46.391395683236155,
+        "lon": 14.544016431882579
+      },
+      "file": "GoliVrh.gpx",
+      "modified": 1626282621,
+      "zoom": 14
+    },
     "height": 1787,
     "lead": "M_006040100.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/734",
+    "maplink": "https://mapzs.pzs.si/poi/734",
     "name": "GoliVrhJezersko",
     "nearby": [
+      "/hikes/jenkovaplanina",
+      "/hikes/ceskakoca",
+      "/hikes/vratca",
       "/hikes/okreselj",
-      "/hikes/grintovec",
-      "/hikes/kamniskosedlo",
-      "/hikes/klemencajama",
-      "/hikes/kalskigreben"
+      "/hikes/grintovec"
     ],
     "peak": "46.397913,14.546991",
     "photo_author": "Mojca_Lustrek",
     "region": "kamnik-alps",
+    "start": "46.384607,14.536531",
     "title": {
       "sl": "Goli vrh nad Jezerskim",
       "en": "Goli vrh near Jezersko"
@@ -4783,7 +4925,7 @@
     },
     "height": 961,
     "lead": "M_4_1434.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1288",
+    "maplink": "https://mapzs.pzs.si/poi/1288",
     "name": "Kovk",
     "nearby": [
       "/hikes/soncnica",
@@ -4843,7 +4985,7 @@
     "height": 445,
     "lead": "M_9_0910.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1661",
+    "maplink": "https://mapzs.pzs.si/poi/1661",
     "name": "svMiklavz_Vipava",
     "nearby": [
       "/hikes/gradiskatura",
@@ -4930,7 +5072,7 @@
     },
     "height": 451,
     "lead": "M_1_2849.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1656",
+    "maplink": "https://mapzs.pzs.si/poi/1656",
     "name": "Lacna",
     "nearby": [
       "/hikes/kuk",
@@ -4989,7 +5131,7 @@
     "height": 437,
     "lead": "M_7_7717.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1693",
+    "maplink": "https://mapzs.pzs.si/poi/1693",
     "name": "Socerb",
     "nearby": [
       "/hikes/zgornjikras",
@@ -5017,7 +5159,7 @@
     "height": 828,
     "lead": "M_7-6715_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/3956",
+    "maplink": "https://mapzs.pzs.si/poi/3956",
     "name": "Gospodicna",
     "nearby": [
       "/hikes/smuk"
@@ -5064,7 +5206,7 @@
     "height": 1698,
     "lead": "M_0_00559.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5796",
+    "maplink": "https://mapzs.pzs.si/poi/5796",
     "name": "PlaninaSeca",
     "nearby": [
       "/hikes/golica",
@@ -5093,7 +5235,7 @@
     "height": 1259,
     "lead": "M_0_1090.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/972",
+    "maplink": "https://mapzs.pzs.si/poi/972",
     "name": "KamniskiVrh",
     "nearby": [
       "/hikes/vrhkorena",
@@ -5121,7 +5263,7 @@
     "duration": 3,
     "height": 530,
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/path/32419",
+    "maplink": "https://mapzs.pzs.si/path/32419",
     "name": "svTrojica_Dob",
     "nearby": [
       "/hikes/svprimoz_kamnik",
@@ -5266,7 +5408,7 @@
     },
     "height": 735,
     "lead": "M_5-4556_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/5344",
+    "maplink": "https://mapzs.pzs.si/poi/5344",
     "name": "Spica",
     "nearby": [
       "/biking/vrhnikazaplana",
@@ -5295,7 +5437,7 @@
     "height": 1268,
     "lead": "M_2_0258.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/970",
+    "maplink": "https://mapzs.pzs.si/poi/970",
     "name": "Javorniki",
     "nearby": [
       "/hikes/svetatrojica",
@@ -5322,7 +5464,7 @@
     "duration": 3,
     "height": 1114,
     "lead": "M_3-1364_IMG.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/5679",
+    "maplink": "https://mapzs.pzs.si/poi/5679",
     "name": "Slivnica",
     "nearby": [
       "/hikes/javorniki",
@@ -5352,7 +5494,7 @@
     "duration": 2.5,
     "height": 670,
     "lead": "M_3-3392_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/531",
+    "maplink": "https://mapzs.pzs.si/poi/531",
     "name": "Kokos",
     "nearby": [
       "/hikes/zgornjikras",
@@ -5382,7 +5524,7 @@
     "duration": 3,
     "height": 643,
     "lead": "M_0-4079_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/path/31945",
+    "maplink": "https://mapzs.pzs.si/path/31945",
     "name": "Trstelj_Dornberk",
     "nearby": [
       "/hikes/pedrovo",
@@ -5412,7 +5554,7 @@
     "height": 480,
     "lead": "M_2-5210_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/34689",
+    "maplink": "https://mapzs.pzs.si/poi/34689",
     "name": "podBohorjem",
     "nearby": [
       "/hikes/brunk",
@@ -5439,14 +5581,14 @@
     "duration": 3,
     "height": 1208,
     "lead": "M_X07090701.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/34560",
+    "maplink": "https://mapzs.pzs.si/poi/34560",
     "name": "KlemencaJama",
     "nearby": [
       "/hikes/strelovec",
       "/hikes/kamniskosedlo",
       "/hikes/okreselj",
       "/hikes/konj",
-      "/hikes/golivrhjezersko"
+      "/hikes/jenkovaplanina"
     ],
     "peak": "46.377613,14.633806",
     "photo_author": "Mojca_Lustrek",
@@ -5468,7 +5610,7 @@
     "height": 884,
     "lead": "M_2_3240.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/173",
+    "maplink": "https://mapzs.pzs.si/poi/173",
     "name": "DonackaGora",
     "nearby": [
       "/hikes/boc"
@@ -5504,7 +5646,7 @@
     "height": 867,
     "layout": "structured",
     "lead": "M_0_00679.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1288",
+    "maplink": "https://mapzs.pzs.si/poi/1288",
     "name": "Soncnica",
     "nearby": [
       "/hikes/kovk",
@@ -5539,7 +5681,7 @@
     "height": 1122,
     "lead": "M_7-5732_img.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/34816",
+    "maplink": "https://mapzs.pzs.si/poi/34816",
     "name": "Mrzlica",
     "nearby": [
       "/hikes/kamnik",
@@ -5566,7 +5708,7 @@
     "height": 1577,
     "lead": "M_4_0409.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/839",
+    "maplink": "https://mapzs.pzs.si/poi/839",
     "name": "VelikiRogac",
     "nearby": [
       "/hikes/kranjskareber",
@@ -5623,7 +5765,7 @@
     "height": 463,
     "lead": "M_0_1023.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/path/31618",
+    "maplink": "https://mapzs.pzs.si/path/31618",
     "name": "CrniHribi",
     "nearby": [
       "/hikes/cerje",
@@ -5653,7 +5795,7 @@
     "height": 1974,
     "lead": "M_9-6909_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/6083",
+    "maplink": "https://mapzs.pzs.si/poi/6083",
     "name": "LipanskiVrh",
     "nearby": [
       "/hikes/lipanca",
@@ -5683,7 +5825,7 @@
     "duration": 6,
     "height": 1803,
     "lead": "M_0_2070.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/715",
+    "maplink": "https://mapzs.pzs.si/poi/715",
     "name": "Konj",
     "nearby": [
       "/hikes/velikaplanina",
@@ -5769,7 +5911,7 @@
     },
     "height": 935,
     "lead": "M_6_2617.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1326",
+    "maplink": "https://mapzs.pzs.si/poi/1326",
     "name": "svJost",
     "nearby": [
       "/hikes/golivrh_savnice",
@@ -5801,7 +5943,7 @@
         "lon": 13.83224585
       },
       "file": "Abitanti.gpx",
-      "modified": 1619847644
+      "modified": 1619847381
     },
     "height": 418,
     "lead": "M_1_10002.JPG",
@@ -5835,7 +5977,7 @@
     "height": 450,
     "lead": "M_7_0721.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/path/31057",
+    "maplink": "https://mapzs.pzs.si/path/31057",
     "name": "HrastovljeZazid",
     "nearby": [
       "/hikes/kuk",
@@ -5863,7 +6005,7 @@
     "height": 824,
     "lead": "M_8-6900_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/5445",
+    "maplink": "https://mapzs.pzs.si/poi/5445",
     "name": "PolhograjskaGora",
     "nearby": [
       "/hikes/polhograjskagrmada",
@@ -5890,7 +6032,7 @@
     "duration": 3,
     "height": 1213,
     "lead": "M_3-3357_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/5161",
+    "maplink": "https://mapzs.pzs.si/poi/5161",
     "name": "svDuh_Podkraj",
     "nearby": [
       "/biking/kriznagorajavornik",
@@ -5918,7 +6060,7 @@
     "duration": 6,
     "height": 2125,
     "lead": "M_50608015.jpg",
-    "maplink": "https://mapzs.projekti.si/poi/4387",
+    "maplink": "https://mapzs.pzs.si/poi/4387",
     "name": "Peca",
     "nearby": [
       "/hikes/raduha",
@@ -5957,7 +6099,7 @@
     "height": 1054,
     "lastmod": "2021-02-27 18:30:00",
     "lead": "M_9_1910.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1201",
+    "maplink": "https://mapzs.pzs.si/poi/1201",
     "name": "Vogar",
     "nearby": [
       "/hikes/vodicnivrh",
@@ -5982,7 +6124,7 @@
     },
     "layout": "start",
     "lead": "M_0-4026_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/1531",
+    "maplink": "https://mapzs.pzs.si/poi/1531",
     "name": "Podgorje",
     "nearby": [
       "/hikes/slavnik",
@@ -6009,7 +6151,7 @@
     "height": 1106,
     "lead": "M_3_2393.jpg",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1148",
+    "maplink": "https://mapzs.pzs.si/poi/1148",
     "name": "SvetaTrojica",
     "nearby": [
       "/hikes/javorniki",
@@ -6036,7 +6178,7 @@
     "duration": 2,
     "height": 520,
     "lead": "M_0-3048_img.jpg",
-    "maplink": "https://mapzs.projekti.si/path/31629",
+    "maplink": "https://mapzs.pzs.si/path/31629",
     "name": "Kuren",
     "nearby": [
       "/hikes/spica",
@@ -6064,7 +6206,7 @@
     "height": 557,
     "lead": "M_8-4819_IMG.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/34684",
+    "maplink": "https://mapzs.pzs.si/poi/34684",
     "name": "Brunk",
     "nearby": [
       "/hikes/kum",
@@ -6087,7 +6229,7 @@
     "duration": 2,
     "height": 581,
     "lead": "M_6-3650_IMG.JPG",
-    "maplink": "https://mapzs.projekti.si/poi/3949",
+    "maplink": "https://mapzs.pzs.si/poi/3949",
     "name": "TrebnjiVrh",
     "nearby": [
       "/hikes/brunk"
@@ -6111,7 +6253,7 @@
     "height": 909,
     "lead": "M_0_3015.JPG",
     "map": 1,
-    "maplink": "https://mapzs.projekti.si/poi/1354",
+    "maplink": "https://mapzs.pzs.si/poi/1354",
     "name": "Krvavica",
     "nearby": [
       "/hikes/mrzlica",
@@ -6140,7 +6282,7 @@
     "layout": "structured",
     "lead": "M_20210420_104635.jpg",
     "length": 23.3,
-    "maplink": "https://mapzs.projekti.si/poi/52206",
+    "maplink": "https://mapzs.pzs.si/poi/52206",
     "name": "MarezigeBorst",
     "nearby": [
       "/biking/marezigetrsek",
@@ -6169,7 +6311,7 @@
     "height": "961",
     "lead": "M_20210611_103323.jpg",
     "length": "12",
-    "maplink": "https://mapzs.projekti.si/poi/1295",
+    "maplink": "https://mapzs.pzs.si/poi/1295",
     "name": "svJakob",
     "nearby": [
       "/hikes/svjakob_preddvor",
@@ -6228,7 +6370,7 @@
     "layout": "structured",
     "lead": "M_20210330_105952.jpg",
     "length": 18.7,
-    "maplink": "https://mapzs.projekti.si/poi/34475",
+    "maplink": "https://mapzs.pzs.si/poi/34475",
     "name": "LakeCerknica",
     "region": "notranjska",
     "start": "45.772962,14.357420",
@@ -6280,7 +6422,7 @@
     "layout": "structured",
     "lead": "M_20210520_100046.jpg",
     "length": "12.1",
-    "maplink": "https://mapzs.projekti.si/path/55941",
+    "maplink": "https://mapzs.pzs.si/path/55941",
     "name": "PodgorjeSlavnik",
     "peakpoint": "Slavnik",
     "region": "istria",
@@ -6335,7 +6477,7 @@
     "layout": "structured",
     "lead": "M_20210628_091625.jpg",
     "length": "28.9",
-    "maplink": "https://mapzs.projekti.si/poi/1223",
+    "maplink": "https://mapzs.pzs.si/poi/1223",
     "name": "PasjaRavan",
     "nearby": [
       "/hikes/polhograjskagora",
@@ -6585,7 +6727,7 @@
     "layout": "structured",
     "lead": "M_20210329_122726.jpg",
     "length": 22.2,
-    "maplink": "https://mapzs.projekti.si/poi/5387",
+    "maplink": "https://mapzs.pzs.si/poi/5387",
     "name": "ZaplanaRovte",
     "nearby": [
       "/hikes/spica",
@@ -6733,7 +6875,7 @@
     "layout": "structured",
     "lead": "M_20210504_095743.jpg",
     "length": 22,
-    "maplink": "https://mapzs.projekti.si/path/32452",
+    "maplink": "https://mapzs.pzs.si/path/32452",
     "name": "PodgorjeKavcic",
     "region": "istria",
     "start": "45.531420,13.947151",
