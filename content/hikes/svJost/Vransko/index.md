@@ -6,6 +6,7 @@ description: 'Ko se vam bo sv. Jošt priljubil, poskusite še daljšo različico
   z Vranskega.
 
   '
+difflevel: 3
 duration: 4
 height: 935
 lead: M_006050905.jpg

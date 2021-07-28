@@ -6,6 +6,7 @@ description: 'Veliki vrh se proti zahodu in severu brani pred obiskovalci s strm
   zlahka povzpnemo po travnatih pobočjih Kofce gore in nato po grebenu Košute.
 
   '
+difflevel: 2
 duration: 3
 height: 2088
 lead: M_3_0366.JPG

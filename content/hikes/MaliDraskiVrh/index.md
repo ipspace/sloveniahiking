@@ -4,6 +4,7 @@ delta: 800
 description: Mali Draški vrh je najtežje dostopen vrh v grebenu jugozahodno od Krme.
   Nanj vodi le slabo vidna stezica s Srenjskega prevala, dostop na zahodni vrh pa
   zahteva tudi malce plezalskega znanja.
+difflevel: 3
 dirty: true
 duration: 5
 height: 2132

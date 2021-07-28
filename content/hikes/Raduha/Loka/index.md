@@ -5,6 +5,7 @@ description: Najenostavnejši vzpon na Raduho teče po markiranih poteh s planin
   Po dobro vzdrževanih gozdnih cestah se lahko dvignemo precej visoko, skoraj do koče
   na Loki, in tako namesto vzpona po bukovih gozdovih uživamo v sprehodu po redkem
   iglastem gozdu in visokogorskih travnikih.
+difflevel: 3
 duration: 3.5
 height: 2062
 lead: M_1-7157_IMG.JPG

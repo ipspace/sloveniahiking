@@ -3,6 +3,7 @@ date: 2004-10-10 00:00:00+00:00
 delta: 420
 description: A steep hike from Idrijca valley to the church of St. John (Sv. Ivan)
   brings you to the sunny Šebrelje plateau.
+difflevel: 2
 duration: 3
 height: 630
 lastmod: 2021-03-25 14:58:00

@@ -1,6 +1,7 @@
 ---
 date: 2003-11-02 00:00:00+00:00
 delta: 640
+difflevel: 3
 duration: 3.5
 gpx:
   center:

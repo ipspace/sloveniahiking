@@ -4,6 +4,7 @@ delta: 270
 description: Severno od Vrtovina, vasi med Ajdovščino in Novo Gorico, se na pobočjih
   Kuclja nad Vipavsko dolino dviga zanimiva razgledna planotasta vzpetina s cerkvico
   sv. Pavla.
+difflevel: 1
 dirty: true
 duration: 2
 height: 498

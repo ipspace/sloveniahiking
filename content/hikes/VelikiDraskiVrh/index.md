@@ -3,6 +3,7 @@ date: 2006-08-20 00:00:00+00:00
 delta: 900
 description: Vzpon na Veliki Draški vrh, predzadnji vrh v grebenu jugovzhodno od Krme,
   je eno najlažjih brezpotij v Julijskih Alpah.
+difflevel: 3
 dirty: true
 duration: 5
 height: 2243

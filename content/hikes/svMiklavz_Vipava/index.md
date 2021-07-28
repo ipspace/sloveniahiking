@@ -3,6 +3,7 @@ date: 2004-04-25 00:00:00+00:00
 delta: 200
 description: Kratek sprehod vas bo iz Gradišča popeljal do cerkvice visoko nad Vipavsko
   dolino
+difflevel: 1
 duration: 2
 height: 445
 image:

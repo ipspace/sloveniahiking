@@ -3,6 +3,7 @@ date: 2003-09-27 00:00:00+00:00
 delta: 420
 description: Planina Razor je sončna, razgledna planina tik pod strmimi stenami Spodnjih
   Bohinjskih gora.
+difflevel: 2
 duration: 2.5
 height: 1315
 image:

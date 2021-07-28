@@ -7,6 +7,7 @@ description: 'Planinska gora je najbolj vzhoden vrh v grebenu severno od Podgore
 
   '
 difficulty: Prijeten vzpon po širokih kolovozih
+difflevel: 2
 duration: 2
 height: 880
 lead: M_20210222_002.jpg

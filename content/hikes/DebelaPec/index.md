@@ -7,6 +7,7 @@ description: 'Pokljuško planoto na njenem severozahodnem robu ločuje od ledeni
   na Triglavsko pogorje, Pokljuko, Bohinjske gore.
 
   '
+difflevel: 3
 duration: 4
 height: 2014
 image:

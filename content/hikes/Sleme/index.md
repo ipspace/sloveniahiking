@@ -5,6 +5,7 @@ delta: 1436
 description: Sleme je travnat vrh v vzhodnih martuljških gorah. Pot nanj je še posebno
   privlačna jeseni, ko pozlatijo macesni na lepi Vrtaški planini, čez katero se vzpnemo
   nanj.
+difflevel: 4
 dirty: true
 duration: 6
 height: 2077

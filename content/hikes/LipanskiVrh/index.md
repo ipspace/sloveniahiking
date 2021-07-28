@@ -3,6 +3,7 @@ date: 2004-03-14 00:00:00+00:00
 delta: 350
 description: Do Lipanskega vrha, od koder se odpre čudovit pogled na Triglav, bomo
   s planine Lipanca potrebovali manj kot uro.
+difflevel: 2
 dirty: true
 duration: 2
 height: 1974

@@ -5,6 +5,7 @@ description: Vzpon na Blegoš iz doline Volaščice je zagotovo najbolj intenziv
   na Blegoš iz Poljanske doline. Višinska razlika je le za 130 metrov manjša, kot
   če bi se na Blegoš odpravili iz Hotavelj, pot pa se že takoj zagrize v strma pobočja
   pod Blegošem.
+difflevel: 3
 duration: 5
 height: 1562
 image:
@@ -26,8 +27,8 @@ nearby:
 - /hikes/crnivrhcerkno
 - /hikes/ermanovec
 peak: 46.164802,14.113583
-start: 46.143675,14.105743
 region: gorenjska
+start: 46.143675,14.105743
 title: Blegoš iz Volake
 ---
 Vzpon na [Blegoš](../) iz doline Volaščice je zagotovo najbolj intenziven vzpon na Blegoš iz Poljanske doline. Višinska razlika je le za 130 metrov manjša kot če bi se na Blegoš odpravili iz Hotavelj, pot pa se že takoj zagrize v strma pobočja pod Blegošem (po poti iz Hotavelj pa porabimo precej časa za udobno pohajkovanje okoli Čabrač). Ker teče pot večinoma po gozdu (odprti so le vršni travniki med planinsko kočo in vrhom Blegoša), je zelo primerna tudi za vzpon v poletni vročini. 

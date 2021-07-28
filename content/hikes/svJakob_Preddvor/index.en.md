@@ -7,6 +7,7 @@ description: 'From the church of Saint Jacob, sitting on the western ridge of Po
   a beloved hiking destination.
 
   '
+difflevel: 2
 duration: 2
 height: 961
 lead: M_9-3980_IMG.JPG

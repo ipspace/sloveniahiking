@@ -4,6 +4,7 @@ delta: 430
 description: Najkrajša pot na Ermanovec vodi s Sovodnja. Pot je kratka, poteka večinoma
   v senci, na koncu poti pa vas čakajo travniki in planinski dom – skratka idealen
   družinski izlet.
+difflevel: 2
 duration: 2.5
 height: 1026
 image:

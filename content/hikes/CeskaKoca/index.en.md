@@ -1,12 +1,13 @@
 ---
 date: 2021-07-14 15:57:04+00:00
-delta: '560'
+delta: 560
 description: Češka koča (Czech hut) is probably the most popular destination in the
   mountains above Jezersko. At least four marked trails lead to it; we found the one
   via Štularjeva Planina (Štular's Alp) by far the most pleasant.
 difficulty: A steep hike through a forest followed by a lovely exposed traverse high
   above the valley
-duration: '3'
+difflevel: 2
+duration: 3
 gpx:
   center:
     lat: 46.37726609985445
@@ -14,7 +15,7 @@ gpx:
   file: CeskaKoca.gpx
   modified: 1626283522
   zoom: 14
-height: '1542'
+height: 1542
 layout: structured
 lead: IMG_1995.jpg
 maplink: https://mapzs.pzs.si/poi/852

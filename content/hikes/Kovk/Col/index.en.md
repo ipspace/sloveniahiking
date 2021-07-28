@@ -6,6 +6,7 @@ description: 'Getting from Col (a village along an old Roman road) to Kovk (a sc
   sections -- ideal for an afternoon family stroll.
 
   '
+difflevel: 2
 duration: 2
 height: 961
 lead: M_4_1434.JPG

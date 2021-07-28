@@ -8,6 +8,7 @@ description: 'Goli Vrh is one of the lower peaks in the Slovenia-Austria border 
 
   '
 difficulty: Steep well-marked footpath through a spruce forest
+difflevel: 3
 duration: 4.5
 gpx:
   center:

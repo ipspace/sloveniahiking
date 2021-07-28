@@ -3,6 +3,7 @@ date: 2004-02-01 00:00:00+00:00
 delta: 380
 description: Ena najdaljših markiranih poti s Pokljuke na Lipanco teče iz Rudne doline
   skozi goste smrekove gozdove in čez planino Javornik.
+difflevel: 2
 duration: 4
 height: 1630
 lead: M_1_0120.JPG

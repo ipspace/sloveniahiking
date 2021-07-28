@@ -4,6 +4,7 @@ delta: 500
 description: Po strmih pobočjih Nanosa nad Vipavo je do Gradiške Ture speljana najnižja
   slovenska zavarovana planinska pot, kjer si lahko tudi sredi zime privoščite čudovite
   plezalne užitke.
+difflevel: 2
 duration: 3.5
 height: 793
 image:

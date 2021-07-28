@@ -1,6 +1,7 @@
 ---
 date: 2005-10-30 00:00:00+00:00
 delta: 1070
+difflevel: 4
 duration: 6
 height: 1968
 image:

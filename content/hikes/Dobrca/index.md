@@ -3,6 +3,7 @@ date: 2003-09-21 00:00:00+00:00
 delta: 920
 description: Dobrča je razgleden vrh nad Tržičem, od koder se odpre čudovit razgled
   na greben Karavank, od Stola do Košute.
+difflevel: 3
 duration: 5
 height: 1643
 lead: M_0-7053_IMG.JPG

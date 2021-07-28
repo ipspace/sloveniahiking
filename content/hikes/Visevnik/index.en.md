@@ -5,6 +5,7 @@ description: 'Viševnik is one of the highest summits in the ridge separating th
   plateau from the Krma valley, and one of the most-popular peaks above 2000m in Slovenia.
 
   '
+difflevel: 3
 duration: 4
 height: 2050
 lead: M_7-2715_IMG.JPG

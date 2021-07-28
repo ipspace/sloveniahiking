@@ -9,6 +9,7 @@ description: 'Stara Baba is a fluvial terrace with a nice view of nearby Ajdovš
 
   '
 difficulty: Easy hike on unmarked footpaths
+difflevel: 1
 duration: 1
 height: 350
 lead: M_20200214_091636.jpg

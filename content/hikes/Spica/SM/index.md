@@ -3,6 +3,7 @@ date: 1900-01-01 00:00:00+00:00
 delta: 360
 description: Vzpon na Špico iz Starega malna bo najlepši sredi poletja, ko vas bo
   del poti spremljal prijazno žuboreč hladen potok.
+difflevel: 2
 duration: 2
 height: 735
 lead: M_5-4556_IMG.JPG

@@ -1,6 +1,7 @@
 ---
 date: 2006-02-05 00:00:00+00:00
 delta: 150
+difflevel: 1
 duration: 2
 height: 1106
 image:

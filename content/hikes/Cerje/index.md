@@ -4,6 +4,7 @@ delta: 150
 description: Najzahodnejši slovenski vrh v grebenu Črnih hribov južno od Vipavske
   doline je Cerje, neugledna vzpetina, ki bi jo komaj opazili, če ne bi bili pred
   nekaj leti na njej postavili ogromnega »obrambnega stolpa«.
+difflevel: 1
 duration: 1.5
 height: 343
 lead: M_6_2633.JPG

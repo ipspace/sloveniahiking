@@ -3,6 +3,7 @@ date: 2007-04-15 00:00:00+00:00
 delta: 200
 description: V strmih grapah na južnih pobočjih Bohorja boste našli vrsto nizkih,
   a zato nič manj lepih slapov.
+difflevel: 2
 duration: 3
 height: 480
 lead: M_2-5210_IMG.JPG

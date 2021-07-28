@@ -4,6 +4,7 @@ delta: 1070
 description: Vzhodno od Ljubelja se v glavnem grebenu Karavank prav na meji z Avstrijo
   dviguje skorajda 2000 metrov visoka Košutica, precej osamljen vrh, ki ga Hajnževo
   sedlo loči od glavnega grebena Košute.
+difflevel: 4
 duration: 6
 height: 1968
 image:

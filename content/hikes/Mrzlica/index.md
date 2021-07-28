@@ -3,6 +3,7 @@ date: 2003-06-08 00:00:00+00:00
 delta: 770
 description: Mrzlica (1122m) je eden najvišjih vrhov severnega dela Posavskega hribovja
   s čudovitim razgledom od Kamniških alp do Trdinovega vrha.
+difflevel: 3
 duration: 5
 height: 1122
 lead: M_7-5732_img.jpg

@@ -3,6 +3,7 @@ date: 2003-05-18 00:00:00+00:00
 delta: 250
 description: Trojica je zaselek okoli razglednega vrha na obronkih Posavskega hribovja
   z istoimensko cerkvijo sv. Trojice.
+difflevel: 2
 duration: 3
 height: 530
 map: 1

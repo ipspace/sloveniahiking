@@ -5,6 +5,7 @@ delta: 1060
 description: Gozdnik in Kotečnik sta kar slikovita vrhova v Posavskem hribovju, žal
   pa nista razgledna. Gozdnik je zaradi svoje lepe oblike in značilne konice simbol
   Savinjske planinske poti.
+difflevel: 4
 duration: 5
 height: 1090
 lead: M_008032703.jpg

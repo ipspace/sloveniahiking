@@ -1,10 +1,11 @@
 ---
 date: 2021-07-14 16:15:54+00:00
-delta: '800'
+delta: 800
 description: Vratca so izrazit stolp nad Češko kočo do katerega vodi zanimiv vzpon
   ob jeklenicah.
 difficulty: Po kratkem vzponu čez melišče vas čaka dobro zavarovano poplezavanje po
   krušljivi grapi
+difflevel: 3
 duration: 4
 gpx:
   center:
@@ -13,7 +14,7 @@ gpx:
   file: Vratca.gpx
   modified: 1626283332
   zoom: 14
-height: '1802'
+height: 1802
 layout: structured
 lead: IMG_1991.jpg
 maplink: https://mapzs.pzs.si/poi/721

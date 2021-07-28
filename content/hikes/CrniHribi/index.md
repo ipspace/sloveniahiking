@@ -5,6 +5,7 @@ description: Le malokdo ve, da je soška fronta, ki nam je najbolj znana po svoj
   ostankih z gora okoli Tolmina, Kobarida in Bovca, segala tudi na slovenski Kras,
   kjer je današnjim popotnikom zapustila razvejeno omrežje kolovozov in makadamskih
   cest, po katerih lahko obiskujemo kraške travnike in borove gozdiče.
+difflevel: 3
 dirty: true
 duration: 4.5
 height: 463

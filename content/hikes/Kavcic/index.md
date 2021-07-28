@@ -4,6 +4,7 @@ delta: 440
 description: Za ljubitelje rož je obisk doline Zalipnik med Goličem in Kraškim robom
   v maju skorajda obvezen. Ta izlet lahko zaključite z vzponom na Kavčič, zadnji slovenski
   vrh Kraškega roba.
+difflevel: 2
 duration: 3
 height: 883
 lead: M_5_2520.JPG

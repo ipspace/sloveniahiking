@@ -4,6 +4,7 @@ delta: 950
 description: Med izleti na Čaven ima tisti iz Stomaža zagotovo najbolj razgledno izhodišče,
   saj je vasica stisnjena visoko pod pobočje Čavna in tako ponuja obiskovalcu razgled
   po vsej Vipavski dolini.
+difflevel: 3
 duration: 4
 height: 1242
 image:

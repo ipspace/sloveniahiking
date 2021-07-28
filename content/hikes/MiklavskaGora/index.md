@@ -5,6 +5,7 @@ delta: 210
 description: Miklavška gora je sicer skoraj tisočak, a ima mogoče le nekoliko »preveliko«
   ime, saj ni zelo podobna gori. Je pa precej prijeten cilj, posebno če nimamo veliko
   časa ali če je slabo vreme, saj po cesti in kolovozih zlahka hodimo z dežnikom.
+difflevel: 1
 duration: 2
 height: 955
 lead: M_007110905.jpg

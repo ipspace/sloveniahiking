@@ -5,6 +5,7 @@ description: Samotorica in Korena sta zaselka tik pod grebenom hribovja med Horj
   in Polhovim gradcem. Ob grebenu teče markirana razgledna pot, kot nalašč za prijeten
   nedeljski izlet, ki ga lahko dodatno popestrimo s kosilom na enem od kmečkih turizmov
   na Koreni.
+difflevel: 2
 duration: 2.5
 height: 729
 lead: M_8-4852_IMG.JPG

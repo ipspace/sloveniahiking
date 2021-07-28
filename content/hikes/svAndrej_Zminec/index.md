@@ -4,6 +4,7 @@ delta: 260
 description: Le uro vzpona iz Škofje Loke stoji na grebenu Polhograjskega hribovja
   nad Poljansko Soro cerkvica sv. Andreja.
 difficulty: Markirana, le občasno strma pot
+difflevel: 1
 duration: 2
 height: 616
 lead: M_9_0990.jpg

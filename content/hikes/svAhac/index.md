@@ -4,6 +4,7 @@ date: 2004-02-22 00:00:00+00:00
 delta: 260
 description: Sveti Ahac (ali Gora) je razgleden vrh v bližini Turjaka, na katerega
   se lahko povzpnemo v slabe pol ure. I
+difflevel: 1
 duration: 1
 height: 748
 lead: M_01.jpg

@@ -6,6 +6,7 @@ description: 'Kokoš is one of the summits in the hill range separating Sežana 
   with hiking paths and cycling tracks, making them ideal for spring and autumn walks.
 
   '
+difflevel: 2
 duration: 2.5
 height: 670
 lead: M_3-3392_IMG.JPG

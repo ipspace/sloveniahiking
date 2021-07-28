@@ -3,6 +3,7 @@ date: 1900-01-01 00:00:00+00:00
 delta: 230
 description: Vzpon na Planino od kmečkega turizma na Kurenu je idealen nedeljski izlet,
   ki ga boste verjetno združili s kosilom na Kurenu.
+difflevel: 1
 duration: 1.5
 gpx:
   center:

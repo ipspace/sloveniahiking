@@ -4,6 +4,7 @@ delta: 650
 description: S planine Korošica nad Ljubeljem boste imeli enega najlepših razgledov
   v Karavankah, zagotovo pa vas bodo sredi poletja pričakali izvrstni ajdovi žganci
   in kislo mleko.
+difflevel: 3
 duration: 3
 height: 1554
 lead: M_5_2578.JPG

@@ -6,6 +6,7 @@ description: Če je Javorč žirovska Šmarna gora, so Goropeke zagotovo žirovs
   lep razgled vse do Triglava. Za gričem se sredi zaselka skriva cerkvica svetega
   Janeza ... le gostilne ni poleg cerkve; planinski dom tiči na robu gozda onkraj
   travnikov.
+difflevel: 1
 duration: 1.5
 height: 698
 lead: M_0_00742.JPG

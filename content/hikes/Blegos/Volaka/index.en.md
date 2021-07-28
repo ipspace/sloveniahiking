@@ -7,6 +7,7 @@ description: Want to check the view from Blegoš but hate the crowds? Try the so
   with the road from Leskovica.
 difficulty: Steep solitary hike on old footpaths and logging trails. Ideal for the
   days when you feel the need to burn that extra burst of energy.
+difflevel: 3
 duration: 5
 height: 1562
 image:

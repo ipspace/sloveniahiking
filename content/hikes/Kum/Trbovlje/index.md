@@ -4,6 +4,7 @@ date: 2007-04-01 00:00:00+00:00
 delta: 1010
 description: Pot na Kum iz Trbovelj po Čebulovi dolini je ena lepših, vendar zaradi
   velike višinske razlike malo obljudena.
+difflevel: 4
 duration: 6.5
 height: 1220
 lead: M_010055.JPG

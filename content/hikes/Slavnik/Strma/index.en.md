@@ -1,8 +1,12 @@
 ---
-date: 2021-05-11 15:31:00
+date: 2021-05-11 15:31:00+00:00
 delta: 510
-description: |
-  Since the overabundance of cohesion funds helped transform the [old dirt track](../podgorje) to [Slavnik](../) into a gravel road, I prefer to take the steeper footpath ascending directly toward the peak.
+description: 'Since the overabundance of cohesion funds helped transform the [old
+  dirt track](../podgorje) to [Slavnik](../) into a gravel road, I prefer to take
+  the steeper footpath ascending directly toward the peak.
+
+  '
+difflevel: 2
 duration: 2.5
 height: 1028
 lead: M_5_0586.JPG

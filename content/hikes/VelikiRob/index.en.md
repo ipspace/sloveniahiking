@@ -10,6 +10,7 @@ description: Veliki Rob is one of the most prominent peaks on the edge of the Č
   bit off the beaten track. Marked paths to Veliki Rob are pretty circuitous if you
   want to start in Vipava valley, so we'll take an extra-steep unmarked approach.
 difficulty: Very steep hike on unmarked footpaths
+difflevel: 4
 duration: 6
 height: 1236
 lead: M_20210226_124917.jpg

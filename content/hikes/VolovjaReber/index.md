@@ -4,6 +4,7 @@ delta: 150
 description: Če so vam všeč kraški travniki okoli Goliča ali Vremščice, boste na Volovji
   rebri, grebenu, ki se vzhodno od Ilirske Bistrice zlagoma dviga proti snežniškim
   gozdovom, nedvomno uživali.
+difflevel: 1
 duration: 2
 height: 1099
 lead: M_0_10053.JPG

@@ -4,6 +4,7 @@ date: 2006-07-23 00:00:00+00:00
 delta: 606
 description: Kladivo je poleg Velikega vrha in Košutnikovega turna najmikavnejši cilj
   v dolgem pogorju Košute.
+difflevel: 3
 duration: 6
 height: 2094
 lead: M_006070701.jpg

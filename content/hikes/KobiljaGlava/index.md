@@ -4,6 +4,7 @@ delta: 430
 description: Kobilja glava je travnat razgleden vrh vzhodno od Tolmina z verjetno
   najlepšim pogledom na greben Peči (zaradi boljšega »marketinga« Bohinjcev večina
   Slovencev te vrhove pozna kot Spodnje Bohinjske gore).
+difflevel: 2
 duration: 3
 height: 1475
 lead: M_0_00656.JPG

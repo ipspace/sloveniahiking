@@ -4,6 +4,7 @@ delta: 410
 description: Javorč je Žirem najbližji vrh v pogorju Žirovskega vrha in zato v vseh
   letnih časih zelo priljubljena izletniška točka. Njegovo priljubljenost še povečuje
   lovska koča blizu vrha, ki je odprta vsak vikend.
+difflevel: 2
 duration: 2.5
 height: 901
 lead: M_5-2568_IMG.JPG

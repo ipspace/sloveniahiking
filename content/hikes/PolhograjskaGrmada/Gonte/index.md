@@ -4,6 +4,7 @@ delta: 500
 description: Južna skalnata pobočja Polhograjske Grmade so pozimi večkrat poledenela,
   poleti pa nas na njih pogosto neusmiljeno preganja vroče sonce. V takšnih dneh se
   lahko na Grmado povzpnemo po senčni, precej položni poti čez Gonte.
+difflevel: 2
 duration: 3
 height: 898
 lead: M_5_0514.JPG

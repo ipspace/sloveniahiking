@@ -3,6 +3,7 @@ date: 2003-11-30 00:00:00+00:00
 delta: 450
 description: S planine Dolžanka vodi na Kofce prijetna (čeprav varčno markirana) planinska
   pot, na kateri ne boste srečali prav dosti (pre)glasnih pohodnikov.
+difflevel: 2
 duration: 3
 height: 1488
 image:

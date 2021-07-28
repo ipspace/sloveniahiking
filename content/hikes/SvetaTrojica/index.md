@@ -3,6 +3,7 @@ date: 2005-05-07 00:00:00+00:00
 delta: 250
 description: Vzhodno od Pivke se na obronkih Javornikov dviga razgledni vrh Svete
   Trojice, pod katerim naj bi ležal legendarni Vrh od Svete Trojice, dom Martina Krpana.
+difflevel: 1
 duration: 2
 height: 1106
 lead: M_3_2393.jpg

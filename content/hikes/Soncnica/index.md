@@ -7,6 +7,7 @@ description: 'Sončnica je izrazita previsna skala na robu Gore s čudovitim pog
 
   '
 difficulty: Strm vzpon skozi borov gozd
+difflevel: 2
 duration: 2
 gpx:
   center:

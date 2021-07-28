@@ -3,6 +3,7 @@ date: 2005-01-09 00:00:00+00:00
 delta: 300
 description: Ena najkrajših poti na Lipanco se začne Pri rupah, ob spomeniku, ki stoji
   tik ob makadamski cesti, speljani čez Pokljuko.
+difflevel: 1
 duration: 2
 height: 1630
 lead: M_2_2208.JPG

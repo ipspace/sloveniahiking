@@ -2,6 +2,7 @@
 date: 2003-08-31 00:00:00+00:00
 delta: 350
 description: Kratka krožna pot po planinah v Spodnjih Bohinjskih gorah
+difflevel: 2
 dirty: true
 duration: 3
 height: 1700

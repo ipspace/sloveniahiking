@@ -3,6 +3,7 @@ date: 2004-05-02 00:00:00+00:00
 delta: 650
 description: Na Boču (enem najbolj vzhodnih vrhov Karavank) vas bodo poleg lepega
   razgleda v aprilu razveselile tudi zelo redke velikonočnice.
+difflevel: 3
 duration: 4
 height: 978
 lead: M_9_0958.JPG

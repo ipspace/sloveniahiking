@@ -4,6 +4,7 @@ delta: 900
 description: Če se radi povzpnete na Kucelj nad Vipavsko dolino, in ste izčrpali že
   večino drugih možnosti, si pot iz Vrtovina podaljšajte z obiskom Školja svetega
   Pavla.
+difflevel: 3
 duration: 5
 height: 1237
 lead: M_0_10275.JPG

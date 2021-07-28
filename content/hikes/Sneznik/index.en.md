@@ -6,6 +6,7 @@ description: Snežnik is the highest peak in south-western Slovenia. You could s
   starts in Sviščaki, a hamlet high above Ilirska Bistrica.
 difficulty: Easy hike on gravel roads and wide footpaths with a somewhat steeper last
   section.
+difflevel: 2
 duration: 4
 gpx:
   center:

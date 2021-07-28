@@ -3,6 +3,7 @@ date: 2003-04-27 00:00:00+00:00
 delta: 770
 description: Izlet v Kropo lahko združimo tudi z vzponom na enega od okoliških pobočij
   – od enournega sprehoda na Jamnik do peturne krožne poti po pobočjih okoli Krope.
+difflevel: 3
 duration: 5
 height: 1300
 lead: M_0-5007_IMG.JPG

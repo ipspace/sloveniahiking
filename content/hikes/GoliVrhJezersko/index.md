@@ -5,6 +5,7 @@ delta: 780
 description: Goli vrh je stožec med Ravensko in Belsko Kočno še v Kamniško-Savinjskih
   Alpah, a se že spogleduje s Karavankami. Iz gozdnatih pobočij štrli gola konica,
   s katere je razkošen razgled na vse strani.
+difflevel: 3
 duration: 4.5
 gpx:
   center:

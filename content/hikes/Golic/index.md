@@ -3,6 +3,7 @@ date: 2003-10-26 00:00:00+00:00
 delta: 390
 description: Na Goliču, južno od Slavnika, boste našli razgibane kraške travnike,
   ki vas bodo prijazno sprejeli v vseh letnih časih.
+difflevel: 3
 dirty: true
 duration: 5
 height: 890

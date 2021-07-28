@@ -5,6 +5,7 @@ description: 'Vogel is certainly the best known summit of the Lower Bohinj Mount
   with a majestic view of Bohinj lake and Triglav.
 
   '
+difflevel: 3
 duration: 6
 height: 1922
 lead: M_8-6819_IMG.jpg

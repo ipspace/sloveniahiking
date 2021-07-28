@@ -3,6 +3,7 @@ date: 2010-12-22 00:00:00+00:00
 delta: 450
 description: Hoja po neoznačenih poteh po hribovju nad Planino pri Rakeku je v zimskem
   času še posebej zanimiva.
+difflevel: 2
 duration: 4
 height: 937
 lead: M_1-4119_IMG.JPG

@@ -1,13 +1,14 @@
 ---
 date: 2006-11-05 00:00:00+00:00
 delta: 180
+difflevel: 2
 duration: 3
 gpx:
   center:
     lat: 45.446895
     lon: 13.83224585
   file: Abitanti.gpx
-  modified: 1619847381
+  modified: 1619847644
 height: 418
 image:
 - M_1_10002.JPG

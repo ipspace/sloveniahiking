@@ -4,6 +4,7 @@ delta: 290
 description: Če bi se radi sprehajali po visokogorskih travnikih, niso pa vam všeč
   ozke stezice ali skalnate poti, po katerih se navadno vzpenjamo v slovenskih gorah,
   vam bo morda všeč Črni vrh nad Cerknim.
+difflevel: 1
 duration: 1.5
 height: 1288
 image:

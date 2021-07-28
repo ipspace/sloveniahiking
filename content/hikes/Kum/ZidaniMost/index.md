@@ -5,6 +5,7 @@ delta: 1019
 description: Pot iz Zidanega Mosta je ena najlepših in tudi najmanj obljudenih poti
   na Kum. Izlet še popestri prečkanje Save z malo ročno nihajko (seveda na lastno
   odgovornost).
+difflevel: 4
 duration: 6.5
 height: 1220
 image:

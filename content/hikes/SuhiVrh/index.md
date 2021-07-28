@@ -5,6 +5,7 @@ delta: 723
 description: Nanos je visoka kraška planota, ki jo poznamo predvsem po Pleši (1262
   m) in njeni Vojkovi koči (1240 m), manj znani pa so drugi njegovi vrhov. Pogled
   na zemljevid pokaže, da vodi markirana pot samo še na Suhi vrh, najvišjo točko Nanosa.
+difflevel: 3
 duration: 5
 height: 1313
 lead: M_007051810.jpg

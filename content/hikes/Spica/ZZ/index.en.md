@@ -1,6 +1,7 @@
 ---
 date: 1900-01-01 00:00:00+00:00
 delta: 70
+difflevel: 1
 duration: 1.5
 height: 735
 layout: stub

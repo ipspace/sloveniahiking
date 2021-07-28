@@ -5,6 +5,7 @@ description: 'Naslednjič ko vas bo pot zanesla v bližino Sežane ali Lipice, s
   v Lokvi in si privoščite prijeten sprehod na bližnjo Kokoš.
 
   '
+difflevel: 2
 duration: 2.5
 height: 670
 lead: M_3-3392_IMG.JPG

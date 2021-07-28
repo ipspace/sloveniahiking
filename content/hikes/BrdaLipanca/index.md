@@ -4,6 +4,7 @@ delta: 590
 description: Če Tine Mihelič v svojem vodniku po Julijskih Alpah zapiše, da je razgled
   z Brd lepši kot z bližnje Debele peči, je že to zadosten razlog za obisk tega kopastega
   dvatisočaka.
+difflevel: 2
 duration: 3
 height: 2008
 image:

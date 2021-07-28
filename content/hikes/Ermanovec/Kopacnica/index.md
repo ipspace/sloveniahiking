@@ -4,6 +4,7 @@ delta: 500
 description: Markirana pot na Ermanovec iz Kopačnice je speljana po starem kolovozu,
   ki najprej sledi grapi Podkovščice, nato pa se po severnih pobočjih Ermanovca vzpne
   do razglednih travnikov pod njegovim grebenom.
+difflevel: 2
 duration: 3
 height: 1026
 image:

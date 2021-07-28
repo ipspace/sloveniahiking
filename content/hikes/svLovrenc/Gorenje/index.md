@@ -5,6 +5,7 @@ description: 'Najkrajši vzpon na sv. Lovrenc se začne pri lovski koči nad Gor
   od koder je do vrha slaba ura občasno strmega vzpona po prijetnih kraških travnikih.
 
   '
+difflevel: 1
 duration: 2
 height: 1019
 lead: M_1-3162_IMG.JPG

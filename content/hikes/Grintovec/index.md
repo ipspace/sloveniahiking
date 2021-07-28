@@ -8,6 +8,7 @@ description: 'Grintovec je najvišji vrh Kamniško-Savinjskih Alp. Domači pasti
   pot čez Mlinarsko sedlo in Špremova pot čez Dolško škrbino.
 
   '
+difflevel: 4
 duration: 9
 height: 2558
 lead: M_007080902.jpg

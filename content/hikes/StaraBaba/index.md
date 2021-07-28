@@ -6,6 +6,7 @@ description: 'Stara Baba je razgledna točka nad Ajdovščino s pogledom na celo
 
   '
 difficulty: Prijeten sprehod po nemarkiranih poteh
+difflevel: 1
 duration: 1
 height: 350
 layout: stub

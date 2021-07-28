@@ -4,6 +4,7 @@ delta: 440
 description: Gora Oljka je kraški osamelec nad severo-vzhodnim robom Savinjske doline.
   Na njej so 18. stoletju postavili veličastno romarsko cerkev sv. Križa, ki z značilnim
   profilom dveh zvonikov pritegne pogled popotnika po celotni Savinjski dolini.
+difflevel: 2
 duration: 4
 height: 733
 lead: M_7-4784_IMG.JPG

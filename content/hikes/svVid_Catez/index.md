@@ -3,6 +3,7 @@ date: 2003-05-11 00:00:00+00:00
 delta: 250
 description: Uživanje v vodnih radostih Term Čatež lahko popestrite s krajšim izletom
   okoli bližnje Šentviške gore.
+difflevel: 1
 duration: 2
 height: 386
 lead: M_1-5142_IMG.JPG

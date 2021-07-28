@@ -5,6 +5,7 @@ description: Severno od planine Krstenica se v Bohinjskih gorah nad Fužinskimi 
   dvigajo trije vrhovi, ki so jih zaradi njihovih oblike Bohinjci poimenovali kar
   po kozolcih (stogih). Na srednjega od njih se lahko povzpnete po lahko dostopni
   nemarkirani stezici.
+difflevel: 3
 dirty: true
 duration: 5
 height: 2040

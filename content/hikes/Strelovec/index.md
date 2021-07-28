@@ -4,6 +4,7 @@ date: 2007-10-21 00:00:00+00:00
 delta: 1002
 description: Strélovec  je zadnji pomembnejši vrh v grebenu Ojstrica–Krofička–Robanov
   kot.
+difflevel: 4
 duration: 6
 height: 1763
 maplink: https://mapzs.pzs.si/poi/741

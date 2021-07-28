@@ -13,6 +13,7 @@ import wc.config
 import cm.traverse
 import cm.read
 import cm.msaccess
+import hike.common
 import yaml
 
 def parse_cli():
@@ -32,7 +33,11 @@ def sync_hike_data(si_path):
   en_page = cm.read.page(en_path)
   en_yaml = yaml.dump(en_page)
 
-  for key in ('delta','duration','height',
+  hike.common.cleanup(si_page)
+  hike.common.cleanup(en_page)
+  hike.common.set_hike_difflevel(si_page)
+
+  for key in ('delta','duration','height','difflevel',
               'lead','multilead','multipath',
               'maplink','start','startpoint','peak',
               'video','region'):

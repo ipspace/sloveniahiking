@@ -4,6 +4,7 @@ delta: 350
 description: Brunk je zaselek na razglednem vrhu južno od Radeč s cerkvico sv. Treh
   kraljev. Izpred cerkve boste v lepem vremenu videli večino Posavskega hribovja,
   vključno s Kumom, Lisco in Bohorjem, na jugu pa bo pogled segel vse do Gorjancev.
+difflevel: 2
 duration: 3
 height: 557
 lead: M_8-4819_IMG.JPG

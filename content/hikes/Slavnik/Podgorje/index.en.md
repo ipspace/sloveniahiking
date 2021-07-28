@@ -6,6 +6,7 @@ description: 'The shortest routes to Slavnik lead from Podgorje, a small karst v
   across Slavnik''s southern slopes.
 
   '
+difflevel: 2
 duration: 3
 height: 1028
 lead: M_5-3534_IMG.JPG

@@ -1,10 +1,11 @@
 ---
 date: 2021-02-23 18:30:35+00:00
-delta: '560'
+delta: 560
 description: Izlet po sončnih Nanoških travnikih med Abramom (500 let staro kmetijo
   visoko nad Vipavsko dolino) in Plešo (najbolj izrazitim vrhom Nanosa) je najlepši
   v maju in juniju ko zacvetijo perunike.
 difficulty: Prijeten sprehod z občasnim strmim vložkom
+difflevel: 3
 duration: 4.5
 gpx:
   center:

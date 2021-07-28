@@ -4,6 +4,7 @@ date: 2005-02-13 00:00:00+00:00
 delta: 800
 description: Krim, južni čuvaj Ljubljanskega barja, se vidi skoraj od vsepovsod iz
   Ljubljane in bližnje okolice.
+difflevel: 3
 duration: 6
 height: 1107
 lead: M_2-2217_IMG.JPG

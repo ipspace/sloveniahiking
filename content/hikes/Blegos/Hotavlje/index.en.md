@@ -4,6 +4,7 @@ delta: 1100
 description: "One of the longest ascents to Blegoš begins in Hotavlje, a village in\
   \ the valley Poljanska dolina, best known for its quarry of high-quality Hotavlje\
   \ stone. \n"
+difflevel: 4
 duration: 6
 height: 1562
 lead: M_4_0466.JPG

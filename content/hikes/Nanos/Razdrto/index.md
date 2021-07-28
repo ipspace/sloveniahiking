@@ -3,6 +3,7 @@ date: 2003-11-02 00:00:00+00:00
 delta: 640
 description: Po zanimivem strmem vzponu na Plešo, najbolj znan vrh Nanosa, boste (če
   vas ne bo odnesla burja) uživali v čudovitih razgledih na Vipavsko dolino in okolico.
+difflevel: 3
 duration: 3.5
 gpx:
   center:

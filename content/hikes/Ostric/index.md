@@ -5,6 +5,7 @@ description: 'Jugovzhodno od Slavnika se v grebenu Slavniškega pogorja tik ob m
   s Hrvaško dvigajo štirje tisočaki, ki za nekaj metrov presegajo dosti bolj znani
   Slavnik: Ostrič, Griža, Medvižica in Razsušica. Na tri od njih vas popelje krožna
   markirana pot iz Matarskega podgorja.'
+difflevel: 2
 dirty: true
 duration: 3.5
 height: 1054

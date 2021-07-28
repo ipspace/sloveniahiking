@@ -4,6 +4,7 @@ delta: 460
 description: Severno nad dolino Idrijce se nasproti Šebreljski planoti nad Reko dvigajo
   Rodne, razgleden travnat vrh s čudovitim pogledom na okoliško hribovje in greben
   Spodnjih Bohinjskih gora.
+difflevel: 2
 duration: 2
 height: 698
 lead: M_1_2149.JPG

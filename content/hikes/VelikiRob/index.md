@@ -11,6 +11,7 @@ description: Veliki Rob je eden najbolj opaznih vrhov na robu Čavna. Večino iz
   (nekatere gredo na Kucelj, druge na Kopitnik), zato se bomo nanj povzpeli po nemarkiranih
   stezicah.
 difficulty: Zelo strma nemarkirana pot
+difflevel: 4
 duration: 6
 height: 1236
 lead: M_20210226_124917.jpg

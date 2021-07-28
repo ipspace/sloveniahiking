@@ -3,6 +3,7 @@ date: 2004-05-09 00:00:00+00:00
 delta: 560
 description: Na Slavnik se lahko po zahodnem pobočju povzpnemo tudi po prijetni položni
   poti iz Prešnice, kraške vasice, stisnjene pod pobočja Slavniškega pogorja.
+difflevel: 3
 duration: 5
 height: 1028
 lead: M_4-5411_IMG.JPG

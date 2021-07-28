@@ -6,6 +6,7 @@ description: 'Bevkov Vrhnika je razgleden vrh nad dolino Idrijce s čudovitim po
   med vzponom med raztresenimi kmetijami uživali v bogastvu travniških rož.
 
   '
+difflevel: 2
 duration: 3
 gpx:
   center:

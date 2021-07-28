@@ -6,6 +6,7 @@ description: 'Iz Studena pelje do cerkve sv. Lovrenca čez strme kraške travnik
 
   '
 difficulty: Strm vzpon po sončnih kraških travnikih
+difflevel: 2
 duration: 2
 height: 1019
 layout: stub

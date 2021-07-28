@@ -3,6 +3,7 @@ date: 2003-07-20 00:00:00+00:00
 delta: 700
 description: Viševnik je eden od najvišjih vrhov v grebenu, ki ločuje Pokljuško planoto
   od doline Krme.
+difflevel: 3
 duration: 4
 height: 2050
 lead: M_9-5929_IMG.JPG

@@ -3,6 +3,7 @@ date: 2005-03-27 00:00:00+00:00
 delta: 1280
 description: Kamniško sedlo (včasih je bilo bolj razširjeno ime Jermanova vrata) je
   zagotovo ena najbolj priljubljenih izletniških točk v Kamniških Alpah.
+difflevel: 4
 dirty: true
 duration: 6
 height: 1876

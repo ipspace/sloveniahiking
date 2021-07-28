@@ -2,6 +2,7 @@
 date: 2003-09-14 00:00:00+00:00
 delta: 600
 description: Vzpon iz Vipavske doline do naravne znamenitosti na robu Vipavske Gore.
+difflevel: 2
 dirty: true
 duration: 3
 height: 820

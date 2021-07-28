@@ -3,6 +3,7 @@ date: 2004-04-18 00:00:00+00:00
 delta: 420
 description: Na precej neznanem vrhu v Škofjeloškem hribovju vas čaka zanimiva baročna
   cerkev in lep razgled proti vzhodu.
+difflevel: 2
 duration: 2.5
 height: 987
 lead: M_7_0732.JPG

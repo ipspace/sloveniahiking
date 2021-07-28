@@ -3,6 +3,7 @@ date: 1900-01-01 00:00:00+00:00
 delta: 220
 description: Najkrajša pot na Lipanco vodi iz Medvedove konte – do Blejske koče je
   od parkirišča le 30 minut vzpona.
+difflevel: 1
 duration: 1
 height: 1630
 lead: M_9-5979_IMG.JPG

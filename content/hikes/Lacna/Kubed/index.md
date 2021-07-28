@@ -4,6 +4,7 @@ delta: 220
 description: Na Lačno je iz Kubeda speljana prijetna grebenska pot, ki vas tu in tam
   razveseli z razgledi na morje in Julijske Alpe, jeseni pa boste na njej nedvomno
   uživali v obilici ruja.
+difflevel: 2
 duration: 2.5
 height: 451
 lead: M_7-3711_IMG.JPG

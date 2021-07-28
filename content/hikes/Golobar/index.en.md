@@ -1,20 +1,21 @@
 ---
 date: 2021-06-22 17:39:08+00:00
-delta: '960'
+delta: 960
 description: 'Planina Golobar is one of the hidden gems of upper Soča valley. A long
   hike through a beech forest will reward you with magnificent views of surrounding
   peaks.
 
   '
 difficulty: Sparsely marked footpath. The first half of the hike is admiringly steep.
-duration: '5'
+difflevel: 3
+duration: 5
 gpx:
   center:
     lat: 46.32462288770806
     lon: 13.599914881775355
   file: Golobar.gpx
   modified: 1624386474
-height: '1314'
+height: 1314
 layout: structured
 lead: IMG_1924.jpg
 maplink: https://mapzs.pzs.si/path/32458

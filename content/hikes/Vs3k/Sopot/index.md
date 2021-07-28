@@ -3,6 +3,7 @@ date: 2004-01-11 00:00:00+00:00
 delta: 320
 description: Najbolj strma markirana pot na Vrh Svetih treh kraljev vodi iz Sopota,
   zaselka v dolini Sovre.
+difflevel: 2
 duration: 2
 height: 844
 lastmod: 2021-02-13 16:49:00

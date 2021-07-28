@@ -5,6 +5,7 @@ delta: 1480
 description: Če vam je izlet na vrh Raduhe od Koče na Loki prekratek, če bi si za
   Raduho radi vzeli ves dan ali če si lahko zanjo privoščite celo dva dni in nekje
   pod njo ali na njej tudi prespite, se odločite za daljšo različico iz doline.
+difflevel: 4
 duration: 8
 height: 2062
 lead: null

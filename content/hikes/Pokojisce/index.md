@@ -3,6 +3,7 @@ date: 2005-03-19 00:00:00+00:00
 delta: 400
 description: Visoko nad prepadnimi stenami borovniškega Pekla leži na robu gričevnate
   kraške planote Menišije s soncem obsijana vas Pokojišče.
+difflevel: 2
 duration: 3
 height: 732
 lead: M_2_2241.JPG

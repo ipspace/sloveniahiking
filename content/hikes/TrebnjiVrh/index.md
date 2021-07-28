@@ -3,6 +3,7 @@ date: 2010-11-24 00:00:00+00:00
 delta: 280
 description: Z vrha nad Trebnjim boste imeli lep razgled na dolino Temenice in Mirne
   ter na dolenjsko hribovje, vse do Kuma.
+difflevel: 1
 duration: 2
 height: 581
 lead: M_6-3650_IMG.JPG

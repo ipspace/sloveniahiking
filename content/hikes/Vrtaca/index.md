@@ -3,6 +3,7 @@ date: 2003-07-27 00:00:00+00:00
 delta: 1150
 description: Vrtača je samoten vrh v grebenu, po katerem zahodno od Ljubelja teče
   državna meja med Slovenijo in Avstrijo.
+difflevel: 4
 dirty: true
 duration: 7.5
 height: 2181

@@ -5,6 +5,7 @@ description: Med Vogarjem in Planino pri Jezeru leži severno od Bohinjskega jez
   idilična planina Vodični vrh. Mimo nje je speljana osamljena redko obiskana markirana
   pot z Vogarja proti Planini pri Jezeru, kot nalašč za tiste, ki jih motijo črede
   zbiralcev žigov, ki se s planine Blato valijo proti Triglavskim jezerom.
+difflevel: 2
 dirty: true
 duration: 4
 height: 1621

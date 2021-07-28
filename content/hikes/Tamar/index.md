@@ -4,6 +4,7 @@ delta: 150
 description: V Tamar, ledeniško dolino pod Poncami, se je lepo odpraviti v vseh letnih
   časih, najlepše pa je morda pozimi, ko se Planica in Tamar spremenita v pravo zimsko
   pravljico.
+difflevel: 1
 dirty: true
 duration: 2
 height: 1106

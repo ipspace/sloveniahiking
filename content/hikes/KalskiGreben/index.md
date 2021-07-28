@@ -3,6 +3,7 @@ date: 2005-09-04 00:00:00+00:00
 delta: 1150
 description: Kalški greben je najvišji vrh v grebenu, ki se južno od Kokrskega sedla
   odcepi od glavnega grebena Kamniških Alp.
+difflevel: 4
 dirty: true
 duration: 7
 height: 2224

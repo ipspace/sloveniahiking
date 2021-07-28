@@ -5,6 +5,7 @@ delta: 1020
 description: Goli vrh je najvišji vrh jugovzhodnega dela vršne planote Menine, imenovanega
   Šavnice (tudi Ščavnice). Ta lepi, opazni vrh je zelo razgleden in prav vabi k sebi,
   pa vendar ni posebno obiskan. Če nimate radi gneče, vam bo gotovo všeč.
+difflevel: 4
 duration: 4.5
 height: 1426
 lead: M_01103.jpg

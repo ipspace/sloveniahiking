@@ -4,6 +4,7 @@ delta: 740
 description: Javorniki so idealna izletniška točka za tiste, ki iščete nekoliko bolj
   zahtevne jesenske ali zimske vzpone in bolj uživate v vremenskih težavah kot v lepih
   razgledih
+difflevel: 3
 duration: 4.5
 height: 1268
 lead: M_2_0258.JPG

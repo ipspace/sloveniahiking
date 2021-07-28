@@ -5,6 +5,7 @@ description: Iz Kamenj (vasice visoko nad Vipavsko dolino) so domačini speljali
   *Pot Koscev*, ki obuja spomine na čase ko so kosci in grabljice hodili pripravljat
   seno na Malo Goro.
 difficulty: Prijeten sprehod po Poti koscev s strmim zaključkom na pobočjih Čavna
+difflevel: 3
 duration: 5
 height: 1242
 layout: structured

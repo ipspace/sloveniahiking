@@ -4,6 +4,7 @@ delta: 150
 description: Iz Gračišča, vasi na južnih obronkih Lačne, tik ob glavni cesti proti
   Hrvaški, je do vrha Lačne speljana kratka razgledna pot, ki je kot nalašč za družinski
   nedeljski izlet.
+difflevel: 1
 duration: 1.5
 height: 451
 lead: M_1_2873.JPG

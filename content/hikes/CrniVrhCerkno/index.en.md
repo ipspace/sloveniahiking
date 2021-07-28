@@ -1,6 +1,7 @@
 ---
 date: 2004-09-05 00:00:00+00:00
 delta: 290
+difflevel: 1
 duration: 1.5
 height: 1288
 image:

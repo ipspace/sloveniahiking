@@ -1,12 +1,13 @@
 ---
 date: 2021-02-23 18:30:35+00:00
-delta: '560'
+delta: 560
 description: "The hike across sunny Nanos meadows from Abram (a 500-year old farm\
   \ situated 800m above the Vipava valley) is my favorite way to reach Pleša, the\
   \ most prominent\nNanos peak. \n\nWe love taking the hike in May and June, enjoying\
   \ the wildflowers, or doing it in late autumn or early spring when the soil is still\
   \ frozen.\n"
 difficulty: Easy hike across sunny meadows and sparse forests
+difflevel: 3
 duration: 4.5
 gpx:
   center:

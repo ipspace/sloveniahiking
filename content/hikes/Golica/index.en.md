@@ -1,6 +1,7 @@
 ---
 date: 2004-05-30 00:00:00+00:00
 delta: 890
+difflevel: 3
 duration: 5
 height: 1835
 layout: stub

@@ -4,6 +4,7 @@ date: 2006-09-03 00:00:00+00:00
 delta: 1500
 description: Mogočni gori na koncu doline Vrat so dale ime stene, priljubljene tudi
   pri plezalcih; edino položnejše pobočje je tisto proti Kriškim podom.
+difflevel: 4
 dirty: true
 duration: 8
 height: 2501

@@ -3,6 +3,7 @@ date: 2006-03-19 00:00:00+00:00
 delta: 510
 description: Strma pot na Slavnik iz Podgorja je verjetno najbolj zanimiva za tiste,
   ki bi si radi s strmimi vzponi nabirali kondicijo.
+difflevel: 2
 duration: 2.5
 height: 1028
 lastmod: 2021-05-11 15:31:00

@@ -5,6 +5,7 @@ description: Po severnih pobočjih Slavnika se lahko na vrh povzpnemo po več ma
   poteh. Najkrajša bo pot iz Skadanščine, izlet si lahko malce podaljšamo če začnemo
   v Markovščini, najdaljšo pot pa bomo opravili, če bomo poleg vrha Slavnika obiskali
   še Mala vrata.
+difflevel: 3
 duration: 5
 height: 1028
 lead: M_9-4934_IMG.JPG

@@ -3,6 +3,7 @@ date: 2010-12-15 00:00:00+00:00
 delta: 220
 description: Če ste se odločili, da boste nedeljsko kosilo v gostilni z odlično domačo
   hrano združili s krajšim sprehodom, je Kuren nad Staro Vrhniko skoraj idealen izbor.
+difflevel: 1
 duration: 2
 height: 520
 lead: M_0-3048_img.jpg

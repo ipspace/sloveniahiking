@@ -2,6 +2,7 @@
 date: 2003-11-23 00:00:00+00:00
 delta: 620
 description: Tošč je najizrazitejši vrh v Polhograjskem hribovju.
+difflevel: 3
 duration: 4
 height: 1021
 lead: M_2-6242.JPG

@@ -3,6 +3,7 @@ date: 2007-05-06 00:00:00+00:00
 delta: 50
 description: Severozahodno od Socerba leži Zgornji Kras, planota, porasla z redkimi
   borovimi gozdički, med katerimi se razprostirajo vabeči kraški travniki.
+difflevel: 1
 dirty: true
 duration: 1
 height: 440

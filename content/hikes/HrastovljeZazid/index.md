@@ -6,6 +6,7 @@ description: 'Obronki Bržanije skrivajo slikovite stare kraške vasice, makadam
   fliša na apnenčaste kraške travnike in nazaj.
 
   '
+difflevel: 2
 duration: 3.5
 height: 450
 lead: M_7_0721.JPG

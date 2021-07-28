@@ -3,6 +3,7 @@ date: 2010-12-08 00:00:00+00:00
 delta: 380
 description: S travnatih vrhov na grebenu južno od Polhovega Gradca boste imeli lep
   razgled na Ljubljansko kotlino in Polhograjsko hribovje.
+difflevel: 2
 duration: 2.5
 height: 729
 lead: M_2-2216_IMG.JPG

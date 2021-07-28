@@ -5,6 +5,7 @@ delta: 1200
 description: Čeprav je Konj tako v starem kot v novem vodniku po Kamniško-Savinjskih
   Alpah omenjen le kot vmesna postaja na poti h Kocbekovemu domu na Korošici, je tudi
   sam zase prav lep cilj.
+difflevel: 4
 duration: 6
 height: 1803
 lead: M_0_2070.JPG

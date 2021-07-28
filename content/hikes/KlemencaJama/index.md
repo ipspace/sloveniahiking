@@ -7,6 +7,7 @@ description: 'Planina Klemenča jama, imenovana tudi Spodnja jama (Zgornja jama 
   lahko pridete po več markiranih poteh iz Logarske doline.
 
   '
+difflevel: 2
 duration: 3
 height: 1208
 lead: M_X07090701.jpg

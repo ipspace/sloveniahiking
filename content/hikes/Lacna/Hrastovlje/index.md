@@ -3,6 +3,7 @@ date: 2008-01-20 00:00:00+00:00
 delta: 290
 description: Na Lačno je iz Hrastovelj speljana markirana pot, ki vam omogoča zanimive
   krožne izlete.
+difflevel: 1
 duration: 2
 height: 451
 lead: M_0_2891.JPG

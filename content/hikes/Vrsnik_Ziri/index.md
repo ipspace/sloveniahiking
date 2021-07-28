@@ -3,6 +3,7 @@ date: 2003-03-09 00:00:00+00:00
 delta: 260
 description: Vrsnik je zaselek na razglednih travnatih vrhovih južno od Žirov, nad
   katerim kraljuje cerkvica sv. Tomaža.
+difflevel: 1
 duration: 2
 height: 743
 lead: M_6-4646_IMG.JPG

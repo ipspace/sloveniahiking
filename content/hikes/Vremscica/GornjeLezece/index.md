@@ -3,6 +3,7 @@ date: 2006-05-27 00:00:00+00:00
 delta: 360
 description: Najbolj strma pot na vrh Vremščice je speljana iz Gornjih Ležeč, vasi
   na pobočjih severno od doline Reke.
+difflevel: 2
 duration: 2
 height: 1027
 lead: M_0_3032.JPG

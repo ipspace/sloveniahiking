@@ -4,6 +4,7 @@ date: 2007-01-21 00:00:00+00:00
 delta: 307
 description: Severno od Semiča se dviguje Smuk, hrib, porasel z vinsko trto in poln
   zidanic; najlepši vzpon nanj je iz Semiča.
+difflevel: 2
 duration: 1.5
 height: 547
 lead: M_007011903.jpg

@@ -4,6 +4,7 @@ date: 2005-01-16 00:00:00+00:00
 delta: 250
 description: Stegovnik je izrazit razgleden grebenski vrh med dolino Tržiške Bistrice
   in dolino Kokre.
+difflevel: 2
 dirty: true
 duration: 3
 height: 1692

@@ -3,6 +3,7 @@ date: 2004-06-27 00:00:00+00:00
 delta: 320
 description: Kovk je najbolj jugovzhodni vrh Gore, planote, ki se visoko nad Vipavsko
   dolino dviga vzhodno od Ajdovščine.
+difflevel: 2
 duration: 2
 height: 961
 lead: M_4_1434.JPG

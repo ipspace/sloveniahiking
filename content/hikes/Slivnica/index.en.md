@@ -8,6 +8,7 @@ description: Hiking or biking to Slivnica is always a pleasant experience -- we 
   or the cool shade of the beech forest while biking to the top... and then there's
   the view of [Lake Cerknica](https://www.notranjski-park.si/en/nature/natural-sights/lake-cerknica).
 diff: null
+difflevel: 2
 duration: 3
 height: 1114
 image:

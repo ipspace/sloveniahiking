@@ -5,6 +5,7 @@ description: 'Na Kraškem robu, kjer se apnenčasti kraški svet terasasto spuš
   flišnim pobočjem Bržanije, stoji neizrazit travnat vrh Lipnik.
 
   '
+difflevel: 2
 duration: 4
 height: 804
 lead: M_2_1203.JPG

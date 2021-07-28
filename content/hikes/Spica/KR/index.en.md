@@ -5,6 +5,7 @@ description: The hike to [Planina](../) (Špica) from Kuren is an ideal weekend 
   hike. If you're looking for something longer, start in [Vrhnika](../kv) or at [Star
   Maln](../sm).
 difficulty: Easy hike on a wide footpath – ideal for a short family trip
+difflevel: 1
 duration: 1.5
 gpx:
   center:

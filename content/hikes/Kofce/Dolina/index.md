@@ -6,6 +6,7 @@ description: Če ste že bili na Kofcah in ste se tja odpravili s planine Dolža
   ste se na poti proti Jelendolu peljali tudi skozi vasico Dolina. Naslednjič se ustavite
   že tam pri precej slikoviti domačiji Lukec ob potoku Kališniku. To je dobro izhodišče
   za Kofce, saj spotoma »pospravite« še preval Kal.
+difflevel: 3
 duration: 4
 height: 1488
 image:

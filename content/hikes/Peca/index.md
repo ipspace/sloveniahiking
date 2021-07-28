@@ -4,6 +4,7 @@ date: 2005-06-12 00:00:00+00:00
 delta: 1200
 description: Peca je druga najvišja gora severnih Karavank, le 14 m nižja od najvišjega
   Obirja; zaradi njene mogočnosti ni čudno, da ravno v njej spi kralj Matjaž.
+difflevel: 4
 duration: 6
 height: 2125
 lead: M_50608015.jpg

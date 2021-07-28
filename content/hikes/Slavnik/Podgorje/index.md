@@ -3,6 +3,7 @@ date: 2002-10-27 00:00:00+00:00
 delta: 510
 description: Ko bo burja spet razpihala oblake, se odpravite na Slavnik - po vzponu
   po prijetni položni poti iz Podgorja vas čaka čudovit razgled na Jadransko morje.
+difflevel: 2
 duration: 3
 height: 1028
 lead: M_5-3534_IMG.JPG

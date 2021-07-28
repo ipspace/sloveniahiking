@@ -7,6 +7,7 @@ description: 'The steepest ascent to Sv. Lovrenc starts in Studeno, a village ne
 
   '
 difficulty: Steep hike over sunny meadows
+difflevel: 2
 duration: 2
 height: 1019
 layout: structured

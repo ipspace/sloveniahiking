@@ -5,6 +5,7 @@ description: 'Plaz je prijeten cilj krajšega družinskega izleta. Nanj so spelj
   markirane poti iz Vipave in z Gradišča pri Vipavi.
 
   '
+difflevel: 1
 duration: 1.5
 height: 529
 lead: M_2_2245.JPG

@@ -3,6 +3,7 @@ date: 2003-06-01 00:00:00+00:00
 delta: 490
 description: Slajka in Špik sta vrhova v grebenu Škofjeloška hribovja, ki se zahodno
   od Hotavelj preko Oselice razteza do Ermanovca.
+difflevel: 2
 duration: 3
 height: 908
 lead: M_2-5284_IMG.JPG

@@ -5,6 +5,7 @@ description: 'Vzpon na Veliko planino z Volovjeka je krajši od dolgih "kondicij
   vzponov iz doline in ravno prav dolg za prijeten dopoldanski izlet.
 
   '
+difflevel: 3
 duration: 4
 gpx:
   center:

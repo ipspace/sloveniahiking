@@ -3,6 +3,7 @@ date: 2003-06-22 00:00:00+00:00
 delta: 310
 description: Pot z Rudnega polja vas bo popeljala po senčnih smrekovih gozdovih in
   sončnih travnikih nad Pokljuko do Blejske koče na Lipanci.
+difflevel: 2
 duration: 3
 height: 1630
 lead: M_9-5930_IMG.JPG

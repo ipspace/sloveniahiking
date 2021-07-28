@@ -5,6 +5,7 @@ delta: 740
 description: Kamnik je precej slikovit hrib, malo drzen; zaradi skalnatega vrha in
   prepadnih pečin, v katerih se preizkušajo tudi plezalci, si ime kar zasluži. Hom  je
   bolj pohleven, a ponuja lepe razglede.
+difflevel: 3
 duration: 6
 height: 856
 lead: M_008052305.jpg

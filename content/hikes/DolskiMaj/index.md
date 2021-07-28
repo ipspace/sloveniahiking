@@ -3,6 +3,7 @@ date: 2006-07-09 00:00:00+00:00
 delta: 250
 description: Dolski maj je najbolj zahodna razgledna vzpetina na robu Gore, planote
   med Predmejo in Colom severno od Vipavske doline.
+difflevel: 1
 duration: 2
 height: 912
 image:

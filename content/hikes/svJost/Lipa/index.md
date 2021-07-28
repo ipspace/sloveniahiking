@@ -2,6 +2,7 @@
 date: 2006-01-15 00:00:00+00:00
 delta: 210
 description: Vzpon do svetega Jošta s prevala Lipa je prijeten družinski izlet.
+difflevel: 1
 duration: 1
 height: 935
 image:

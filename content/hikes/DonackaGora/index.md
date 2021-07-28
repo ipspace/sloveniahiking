@@ -3,6 +3,7 @@ date: 2006-09-24 00:00:00+00:00
 delta: 290
 description: Severovzhodno od Rogaške Slatine se skoraj na meji s Hrvaško dviga eden
   zadnjih vrhov Karavank – Donačka gora.
+difflevel: 1
 duration: 2
 height: 884
 lead: M_2_3240.JPG

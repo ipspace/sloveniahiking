@@ -1,6 +1,7 @@
 ---
 date: 2007-07-22 00:00:00+00:00
 delta: 430
+difflevel: 2
 duration: 3
 height: 1475
 layout: stub

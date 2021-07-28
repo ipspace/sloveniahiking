@@ -4,6 +4,7 @@ delta: 600
 description: Strm vzpon na Kojco (enega od višjih vrhov v Cerkljanskem hribovju) bo
   poplačan z razgledom na Bohinjske gore, Porezen in vrhove Cerkljanskega in Idrijskega
   hribovja.
+difflevel: 2
 duration: 3
 height: 1303
 lead: M_7-5762_img.jpg

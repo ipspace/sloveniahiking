@@ -1,12 +1,13 @@
 ---
 date: 2021-07-14 15:57:04+00:00
-delta: '560'
+delta: 560
 description: Češka koča je verjetno najbolj priljubljen cilj nad Jezerskim. Odkar
   so uredili parkirišče skoraj kilometer pred tovorno žičnico se do nje najraje odpravimo
   čez Štularjevo planino.
 difficulty: Po strmem vzponu do Štularjeve planine vas čaka prijetna izpostavljena
   prečka nad Ravensko Kočno.
-duration: '3'
+difflevel: 2
+duration: 3
 gpx:
   center:
     lat: 46.37726609985445
@@ -14,7 +15,7 @@ gpx:
   file: CeskaKoca.gpx
   modified: 1626283522
   zoom: 14
-height: '1542'
+height: 1542
 layout: structured
 lead: IMG_1995.jpg
 maplink: https://mapzs.pzs.si/poi/852

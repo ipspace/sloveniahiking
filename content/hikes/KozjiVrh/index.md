@@ -3,6 +3,7 @@ date: 2005-05-01 00:00:00+00:00
 delta: 900
 description: Le nekaj kilometrov pred Jezerskim se zahodno od doline Kokre skriva
   redko obiskan Kozji vrh, ki ga Storžič uspešno skriva pred večino Slovencev.
+difflevel: 3
 duration: 4
 height: 1628
 lead: M_00020.jpg

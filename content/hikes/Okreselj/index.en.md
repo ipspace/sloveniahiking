@@ -1,6 +1,7 @@
 ---
 date: 2002-07-29 00:00:00+00:00
 delta: 400
+difflevel: 2
 duration: 2
 height: 1395
 image: null

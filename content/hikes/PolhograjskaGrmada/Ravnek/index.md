@@ -4,6 +4,7 @@ delta: 520
 description: Iz Polhovega Gradca se lahko odpravimo na zanimivo krožno pot čez Grmado
   - izlet začnemo pri gostilni Pratkar, se mimo zaselka Ravnek vzpnemo na Grmado,
   nato pa se vrnemo mimo cerkvice sv. Uršule na Setnici.
+difflevel: 2
 duration: 3
 height: 898
 lastmod: 2021-02-13 12:37:00

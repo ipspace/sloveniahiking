@@ -7,6 +7,7 @@ description: 'Plaz is a scenic viewpoint above Vipava. Pleasant footpaths lead t
 
   '
 difficulty: Enjoyable hike on marked dirt trails and footpaths
+difflevel: 1
 duration: 1.5
 height: 529
 lead: M_2_2245.JPG

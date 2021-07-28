@@ -3,6 +3,7 @@ date: 2006-02-26 00:00:00+00:00
 delta: 410
 description: Visoko nad Trstom se na robu kraške planote nad vasico Socerb dviga istoimenski
   grad, izpred katerega se odpira čudovit razgled na Tržaški zaliv in slovensko Istro.
+difflevel: 2
 duration: 2
 height: 437
 lead: M_7_7717.JPG

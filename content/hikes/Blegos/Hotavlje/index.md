@@ -3,9 +3,9 @@ date: 2004-01-18 00:00:00+00:00
 delta: 1100
 description: Eden najdaljših vzponov na Blegoš se začne v Hotavljah, vasi v Poljanski
   dolini, najbolj znani po kamnolomu zelo kakovostnega hotaveljskega kamna.
+difflevel: 4
 duration: 6
 height: 1562
-
 lead: M_4_0466.JPG
 map: 1
 maplink: https://mapzs.projekti.si/path/32619
@@ -19,8 +19,8 @@ nearby:
 - /hikes/ermanovec
 - /hikes/crnivrhcerkno
 peak: 46.164802,14.113583
-start: 46.124584,14.117533
 region: gorenjska
+start: 46.124584,14.117533
 title: Blegoš iz Hotavelj
 ---
 {{<figure src="M_4_0466.JPG">}}

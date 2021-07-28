@@ -3,6 +3,7 @@ date: 2004-08-08 00:00:00+00:00
 delta: 1000
 description: Tosc je zelo privlačen cilj za planince, ki iščejo predvsem samoto, mir
   in naravne lepote.
+difflevel: 4
 duration: 7.5
 height: 2275
 lead: M_5-6601.JPG

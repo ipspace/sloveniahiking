@@ -3,6 +3,7 @@ date: 2008-06-08 00:00:00+00:00
 delta: 820
 description: Tik pod grebenom Karavank vas čaka tiha razgledna planina Seča, na katero
   pripelje markirana pot iz Javorniškega Rovta.
+difflevel: 3
 duration: 4
 height: 1698
 lead: M_0_00559.JPG

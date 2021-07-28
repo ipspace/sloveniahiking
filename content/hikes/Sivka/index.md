@@ -3,6 +3,7 @@ date: 2005-04-23 00:00:00+00:00
 delta: 530
 description: Sivka je zaobljen travnat vrh v Polhograjskem hribovju z lepim razgledom
   na Škofjeloško hribovje in slovenske Alpe.
+difflevel: 3
 duration: 4.5
 height: 934
 lead: M_2_2285.JPG

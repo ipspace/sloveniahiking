@@ -8,6 +8,7 @@ description: 'Planinska Gora (Planina''''s Mountain) is the easternmost part of 
 
   '
 difficulty: Easy hike on wide trails with a few steeper sections
+difflevel: 2
 duration: 2
 height: 880
 lead: M_20210222_002.jpg

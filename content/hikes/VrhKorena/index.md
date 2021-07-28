@@ -4,6 +4,7 @@ delta: 500
 description: Kakor je Toplar v grebenu Košute s svojimi 2000 metri najnižji slovenski
   dvatisočak, je Vrh Korena zagotovo najvišji skoraj dvatisočak, namerili so mu namreč
   natančno 1999 metrov nadmorske višine.
+difflevel: 3
 duration: 5
 height: 1999
 lead: M_9_1908.JPG

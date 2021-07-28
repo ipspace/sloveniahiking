@@ -3,6 +3,7 @@ date: 2004-02-08 00:00:00+00:00
 delta: 600
 description: Čreta pri Kokarjah je vrh v grebenu, ki povezuje Dobroveljsko planoto  z
   Menino planino in tako ločuje Vransko od Zgornje Savinjske doline.
+difflevel: 2
 duration: 4
 height: 944
 lead: M_5_0546.JPG

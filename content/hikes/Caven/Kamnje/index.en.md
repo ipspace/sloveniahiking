@@ -13,6 +13,7 @@ difficulty: 'Easy stroll across sunny meadows followed by a steep hike toward Č
   plateau
 
   '
+difflevel: 3
 duration: 5
 height: 1242
 lead: M_20210323_093528.jpg

@@ -3,6 +3,7 @@ date: 2006-08-06 00:00:00+00:00
 delta: 820
 description: Od Črnega vrha nad Cerknim do Blegoša vodi prijetna senčna grebenska
   pot, kot nalašč za prijeten poletni izlet.
+difflevel: 3
 duration: 6
 height: 1562
 map: 1

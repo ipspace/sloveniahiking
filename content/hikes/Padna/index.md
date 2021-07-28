@@ -6,6 +6,7 @@ description: Le nekaj kilometrov vzhodno od Piranskega zaliva se v slovenski Ist
   v flišna tla izdolbli globoke grape. Po označenih poteh piranskega podeželja si
   lahko privoščite obilico izletov; mi si bomo v štirih urah ogledali tri vasi nad
   dolino Drnice
+difflevel: 2
 duration: 4
 height: 280
 image:

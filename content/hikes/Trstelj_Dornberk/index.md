@@ -3,6 +3,7 @@ date: 2003-03-02 00:00:00+00:00
 delta: 540
 description: Trstelj je najvišji, razgleden vrh v grebenu Črnih hribov, ki ločuje
   Vipavsko dolino od Kraške planote.
+difflevel: 2
 dirty: true
 duration: 3
 height: 643

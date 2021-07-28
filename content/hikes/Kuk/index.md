@@ -4,6 +4,7 @@ delta: 320
 description: Naslednjič, ko bo Slovenija spet ovita v oblake in meglo, na Primorskem
   pa bo sijalo sonce, se povzpnite na Kuk, razgleden hrib nad Hrastovljami, od koder
   boste imeli lep razgled na Istro in Slavnik.
+difflevel: 2
 duration: 2
 height: 507
 image:

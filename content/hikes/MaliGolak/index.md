@@ -2,6 +2,7 @@
 date: 2008-02-03 00:00:00+00:00
 delta: 490
 description: Mali Golak je (kljub svojemu imenu) najvišji vrh Trnovskega gozda.
+difflevel: 2
 duration: 2.5
 height: 1495
 image:

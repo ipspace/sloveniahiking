@@ -3,6 +3,7 @@ date: 2002-05-09 00:00:00+00:00
 delta: 300
 description: Pekel je najlepši nekaj dni po obilnem deževju, ko ima Borovniščica zadosti
   vode, pot pa ni več blatna.
+difflevel: 1
 duration: 2
 height: 650
 maplink: https://mapzs.pzs.si/poi/34829

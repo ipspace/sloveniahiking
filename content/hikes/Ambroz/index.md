@@ -4,6 +4,7 @@ delta: 490
 description: Do sončnega zaselka pod strminami Krvavca se lahko povzpnemo po markiranih
   poteh s Klemenčevega ali iz Šenturške gore, lahko pa ga izkoristimo tudi kot izhodišče
   za vzpon na Krvavec.
+difflevel: 2
 duration: 3
 height: 1088
 lead: M_2_0234.JPG

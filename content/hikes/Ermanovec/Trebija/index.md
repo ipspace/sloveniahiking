@@ -3,6 +3,7 @@ date: 2003-01-26 00:00:00+00:00
 delta: 530
 description: Vzpon iz Trebije je ena lepših poti na Ermanovec - skoraj v celoti se
   izogiba asfaltnih cest, zaradi odličnih markacij pa je primerna tudi za zimski vzpon.
+difflevel: 2
 duration: 2.5
 height: 968
 image:

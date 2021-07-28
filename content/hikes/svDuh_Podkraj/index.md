@@ -4,6 +4,7 @@ delta: 413
 description: Pot v Vipavsko dolino po stari rimski cesti mimo Stare pošte na Hrušici
   lahko združite z izletom na sv. Duh in Križno goro nad le nekaj kilometrov oddaljenim
   Podkrajem.
+difflevel: 2
 duration: 3
 height: 1213
 lead: M_3-3357_IMG.JPG

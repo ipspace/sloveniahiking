@@ -4,6 +4,7 @@ delta: 560
 description: Ena najbolj strmih poti na Polhograjsko Grmado vodi iz Belice. Poleg
   strmega vzpona na vrh Grmade vas čaka še podobno strm vzpon v začetku poti – idealno
   torej za tiste, ki želijo nabirati kondicijo za zahtevnejše planinske pohode.
+difflevel: 2
 duration: 3
 height: 898
 lastmod: 2021-02-13 12:22:00

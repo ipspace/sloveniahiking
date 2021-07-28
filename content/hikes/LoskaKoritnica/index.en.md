@@ -1,20 +1,21 @@
 ---
 date: 2021-06-23 14:16:40+00:00
-delta: '460'
+delta: 460
 description: 'Loška Koritnica is a beautiful alpine valley surrounded by more than
   fifteen peaks higher than 2000 meters. We''ll explore its upper parts, from Log
   pod Mangartom to Koritnica''s source.
 
   '
 difficulty: Easy hike on wide footpaths
-duration: '4'
+difflevel: 2
+duration: 4
 gpx:
   center:
     lat: 46.41550128180251
     lon: 13.631249284918901
   file: LoskaKoritnica.gpx
   modified: 1624463382
-height: '1103'
+height: 1103
 layout: structured
 lead: IMG_1934.jpg
 maplink: https://mapzs.pzs.si/poi/5719

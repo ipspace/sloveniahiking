@@ -5,6 +5,7 @@ description: 'The shortest hike to Sv. Lovrenc starts at the hunting hut above G
   leading you across sunny meadows and through a steep forest.
 
   '
+difflevel: 1
 duration: 2
 height: 1019
 layout: stub

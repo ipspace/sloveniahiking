@@ -2,6 +2,7 @@
 date: 2003-08-17 00:00:00+00:00
 delta: 1040
 description: Črna prst je razgleden vrh v grebenu Spodnjih Bohinjskih gora
+difflevel: 4
 dirty: true
 duration: 6
 height: 1844

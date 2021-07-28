@@ -2,6 +2,7 @@
 author: Mojca_Lustrek
 date: 2005-04-10 00:00:00+00:00
 delta: 540
+difflevel: 2
 duration: 3.5
 height: 1435
 layout: stub

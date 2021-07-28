@@ -3,6 +3,7 @@ date: 2006-11-26 00:00:00+00:00
 delta: 580
 description: Po pobočjih Čavna se od Predmeje pa vsaj do Vitovelj vije položna, tu
   in tam zelo razgledna dobro uhojena pot, ki je ne boste našli na nobenem zemljevidu.
+difflevel: 2
 duration: 3
 height: 1242
 image:

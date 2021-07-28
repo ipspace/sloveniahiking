@@ -1,8 +1,12 @@
 ---
 date: 2005-05-29 00:00:00+00:00
 delta: 440
-description: |
-  If you like wildflowers, you MUST visit Zalipnik valley between Golič and Karst edge in early May, and while you're there, try to find [Slender Fritillary](https://en.wikipedia.org/wiki/Fritillaria_orientalis) on the northern slopes of Kavčič, the last peak before the Slovenia-Croatia border.
+description: 'If you like wildflowers, you MUST visit Zalipnik valley between Golič
+  and Karst edge in early May, and while you''re there, try to find [Slender Fritillary](https://en.wikipedia.org/wiki/Fritillaria_orientalis)
+  on the northern slopes of Kavčič, the last peak before the Slovenia-Croatia border.
+
+  '
+difflevel: 2
 duration: 3
 height: 883
 lead: M_5_2520.JPG

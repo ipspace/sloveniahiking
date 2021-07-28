@@ -3,6 +3,7 @@ date: 2004-10-10 00:00:00+00:00
 delta: 420
 description: Za strmimi skalnatimi pobočji nad dolino Idrijce se skriva sončen gričevnat
   svet Šebreljske planote
+difflevel: 2
 duration: 3
 height: 630
 lastmod: 2021-03-25 14:58:00

@@ -8,6 +8,7 @@ description: Med vožnjo po spodnji Savinjski dolini ste morda na jugu že kdaj 
   še strašljivo ime (Krvavica), na njegovem vzhodnem in zahodnem pobočju pa boste
   našli tudi previsne stene nenavadne rdeče barve, čez katere naj bi bili pahnili
   legendarno Veroniko Deseniško.
+difflevel: 2
 duration: 3
 height: 909
 lead: M_0_3015.JPG

@@ -4,6 +4,7 @@ delta: 540
 description: V lepem zgodnje-poletnem dnevu se splača odpraviti v čarovniške kraje
   - na Slivnico. Doživeli boste lepe razglede, videli obilico rož, tudi redko kranjsko
   lilijo, pa tudi zbirališče čarovnic - čarovniško jamo.
+difflevel: 2
 duration: 3
 height: 1114
 image:

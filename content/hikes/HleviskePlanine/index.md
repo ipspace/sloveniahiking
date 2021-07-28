@@ -3,6 +3,7 @@ date: 2007-12-02 00:00:00+00:00
 delta: 650
 description: Če uživate v tišini in pogledih na strma jesensko obarvana pobočja Idrijskega
   hribovja, se novembra odpravite na Hleviške planine.
+difflevel: 3
 duration: 5
 height: 908
 lead: M_0_10596.JPG

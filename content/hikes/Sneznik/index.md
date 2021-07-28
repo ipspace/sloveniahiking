@@ -3,6 +3,7 @@ date: 2002-07-15 00:00:00+00:00
 delta: 590
 description: Če bo vročina med počitnicami v slovenskem primorju le prehuda, si privoščite
   kratko osvežitev z izletom na Snežnik.
+difflevel: 2
 duration: 4
 gpx:
   center:

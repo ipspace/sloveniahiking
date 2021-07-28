@@ -5,6 +5,7 @@ delta: 608
 description: Uskovnica na robu Pokljuke nad Gornjo Bohinjsko dolino in dolino Voje
   je izhodišče za številne izlete in vzpone, priljubljen cilj pohodnikov in smučarjev
   pa je tudi sama.
+difflevel: 3
 duration: 5
 height: 1154
 image:

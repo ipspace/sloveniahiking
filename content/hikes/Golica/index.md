@@ -4,6 +4,7 @@ delta: 890
 description: Severno od Jesenic se v grebenu Karavank dviguje Golica, travnat vrh,
   znamenit predvsem zaradi gorskih narcis, ki se v maju razcvetijo na njegovih južnih
   pobočjih.
+difflevel: 3
 duration: 5
 height: 1835
 lead: M_2_1262.JPG

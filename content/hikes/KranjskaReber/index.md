@@ -4,6 +4,7 @@ date: 2005-04-10 00:00:00+00:00
 delta: 540
 description: Kranjska reber ali Vrh Kašne planine (tako zemljevid) je izrazita kopasta
   gora v vzhodnem predgorju Grintovcev.
+difflevel: 2
 duration: 3.5
 height: 1435
 lead: M_0006.jpg

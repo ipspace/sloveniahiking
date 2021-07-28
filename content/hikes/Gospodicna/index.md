@@ -6,6 +6,7 @@ description: "Kljub temu, da na Gorjancih, gozdnatem pobočju, ki se južno od N
   \ pobočja, tam kjer apnenec zamenjajo nepropustne (predvsem laporne) kamnine, našli\
   \ vrsto studencev, med katerimi je najznamenitejša Gospodična, katere voda naj bi\
   \ prinašala večno mladost. \n"
+difflevel: 2
 duration: 2.5
 height: 828
 lead: M_7-6715_IMG.JPG

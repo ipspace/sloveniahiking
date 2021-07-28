@@ -5,6 +5,7 @@ description: Če se želite pošteno prepotiti, bo izlet na Polhograjsko goro ka
   - 400 metrov višinske razlike prehodite po precej strmi poti v manj kot eni uri.
   Poleg izboljšane kondicije boste v lepih dneh nagrajeni tudi s čudovitim razgledom
   z vrha, pozorni popotniki pa bodo opazili še vrsto zanimivih rož.
+difflevel: 2
 duration: 2.5
 height: 824
 lead: M_8-6900_IMG.JPG

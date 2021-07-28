@@ -3,6 +3,7 @@ date: 2004-02-29 00:00:00+00:00
 delta: 610
 description: Na Nanos se lahko odpravimo tudi Iz Stran, majhne vasice na obronkih
   Postojnske kotline
+difflevel: 3
 duration: 4
 height: 1262
 lead: M_5_0528.JPG

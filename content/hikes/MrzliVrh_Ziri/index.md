@@ -3,6 +3,7 @@ date: 2010-11-10 00:00:00+00:00
 delta: 517
 description: Ko vas bo pot zanesla mimo Žiri, si vzamite še nekaj ur časa in se sprehodite
   na Mrzli vrh – travnat, razgleden vrh zahodno od Žiri.
+difflevel: 2
 duration: 3.5
 height: 987
 lead: M_8-3831_IMG.JPG

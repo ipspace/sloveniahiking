@@ -5,6 +5,7 @@ description: Na Žavcarjevem vrhu se greben Kozjaka, po katerem severno od Drave
   meja med Slovenijo in Avstrijo, prvič povzpne nad 900 metrov. Vrh ni razgleden,
   izpred planinskega doma pod njim pa se odpira lep pogled na Dravsko dolino in Pohorje
   onkraj nje.
+difflevel: 3
 duration: 6
 height: 915
 lead: M_7_2717.JPG

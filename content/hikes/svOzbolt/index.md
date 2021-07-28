@@ -4,6 +4,7 @@ delta: 240
 description: Visoko nad Poljansko dolino stoji na razglednem vrhu nad Zmincem sveti
   Ožbolt, najviše ležeča cerkev na tem grebenu, izpred katere se odpre čudovit razgled
   na Polhograjsko in Škofjeloško hribovje.
+difflevel: 1
 duration: 2
 height: 859
 lead: M_0_1008.JPG

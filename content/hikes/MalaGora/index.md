@@ -4,6 +4,7 @@ delta: 200
 description: Mala gora je razgledna travnata planota, stisnjena med strme apnenčaste
   stene, ki se zahodno od Ajdovščine dvigujejo nad Vipavsko dolino, in nekoliko višji
   Čaven.
+difflevel: 1
 duration: 2
 height: 1034
 lead: M_5_2552.JPG

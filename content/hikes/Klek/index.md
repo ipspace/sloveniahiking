@@ -6,6 +6,7 @@ description: Mnogi, ki hodijo mimo Kleka na božjepotno Golico in na precej oble
   Babo, znano tudi kot Dovška Baba ali Dovška Rožca, sploh ne vedo kje je ta vrh.
   A manj razvpiti in oblegani vrhovi so pogosto prav tako ali pa še bolj ljubi planincem,
   posebno takim, ki iščejo miru in stika z naravo.
+difflevel: 4
 duration: 6
 height: 1753
 lead: M_008051108.jpg

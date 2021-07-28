@@ -6,6 +6,7 @@ description: Baba je ne posebno znamenit vrh sredi trikotnika Potoče–Spodnja 
   vrh, za katerega morda izveste, če se povzpnete k bolj znanemu Domu Čemšenik. Čeprav
   pot na Babo ni markirana, je lepa in dobro vzdrževana, zaiti tako rekoč ni mogoče,
   vrh pa ponuja prelepe razglede.
+difflevel: 3
 duration: 2.5
 height: 1119
 lead: M_5100101.jpg

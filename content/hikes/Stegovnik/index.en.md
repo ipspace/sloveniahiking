@@ -2,6 +2,7 @@
 author: Milos_Kobe
 date: 2005-01-16 00:00:00+00:00
 delta: 250
+difflevel: 2
 duration: 3
 height: 1692
 image:

@@ -4,6 +4,7 @@ delta: 1000
 description: Vogel je zagotovo najbolj znan vrh Spodnjih Bohinjskih gora. Že od daleč
   vas bo vabila njegova lepa, piramidasta oblika, razgled z vrha pa bo le še potrdil
   pravilnost vaše odločitve.
+difflevel: 3
 duration: 6
 height: 1922
 lead: M_8-6819_IMG.jpg

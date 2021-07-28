@@ -5,6 +5,7 @@ description: 'Severno od Bohinjskega jezera se dviguje strm greben, v katerem bo
   obiskovalec Bohinja hitro opazil Vogar, najbolj vzhodni vrh.
 
   '
+difflevel: 2
 duration: 3
 height: 1054
 lastmod: 2021-02-27 18:30:00

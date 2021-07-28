@@ -3,6 +3,7 @@ date: 2003-04-06 00:00:00+00:00
 delta: 280
 description: Na razgleden travnat Vrh svetih treh kraljev se bomo povzpeli po skritih
   poteh in stezah iz Izgorij, vasice nad dolino Sovre.
+difflevel: 2
 duration: 3
 height: 844
 lead: M_8-4881_IMG.JPG

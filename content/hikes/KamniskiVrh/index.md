@@ -3,6 +3,7 @@ date: 2004-06-20 00:00:00+00:00
 delta: 770
 description: Nad Stahovico se v predgorju Kamniških Alp dviga strm Kamniški vrh, enostavno
   dostopen po razglednih južnih travnatih pobočjih.
+difflevel: 3
 dirty: true
 duration: 4
 height: 1259

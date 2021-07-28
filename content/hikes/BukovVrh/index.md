@@ -3,6 +3,7 @@ date: 2003-03-16 00:00:00+00:00
 delta: 440
 description: Bukov vrh je razgleden vrh nad Poljanami v Poljanski dolini s čudovitim
   razgledom na Škofjeloško hribovje in slovenske Alpe ter lepo cerkvico sv. Sobote
+difflevel: 3
 duration: 4.5
 height: 832
 lead: M_5-4588_IMG.JPG

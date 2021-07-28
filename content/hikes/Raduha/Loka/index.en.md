@@ -3,6 +3,7 @@ date: 1900-01-01 00:00:00+00:00
 delta: 630
 description: The simplest ascent of Raduha follows waymarked paths from the Planina
   Loka.
+difflevel: 3
 duration: 3.5
 height: 2062
 lead: M_1-7157_IMG.JPG

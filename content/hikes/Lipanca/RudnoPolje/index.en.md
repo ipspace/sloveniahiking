@@ -6,6 +6,7 @@ description: 'The route from Rudno polje to Lipanca is an ideal family trip: it 
   as a gentle walk through the mighty Pokljuka spruce forests, continues with a slight
   ascent on the margin of the Pokljuka plateau, becomes somewhat more diverse and
   ends on the fairly steep grass slopes below Lipanca.'
+difflevel: 2
 duration: 3
 height: 1630
 lead: M_9-5930_IMG.JPG

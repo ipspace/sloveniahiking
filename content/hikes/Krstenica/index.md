@@ -3,6 +3,7 @@ date: 2003-08-10 00:00:00+00:00
 delta: 530
 description: Krstenica je ena od najlepših in zaradi svoje odprte lege najbolj razglednih
   bohinjskih planin.
+difflevel: 2
 duration: 3
 height: 1670
 lead: M_5-6554_IMG.JPG

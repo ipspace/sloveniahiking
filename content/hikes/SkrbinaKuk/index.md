@@ -3,6 +3,7 @@ date: 2010-04-13 00:00:00+00:00
 delta: 440
 description: Kuk je prvi vrh v grebenu med Idrijco in Hotenjo, Škrbina pa sedlo med
   Kukom in Plešarskim vrhom.
+difflevel: 2
 duration: 3
 height: 627
 image:

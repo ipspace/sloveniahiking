@@ -3,6 +3,7 @@ date: 2004-05-23 00:00:00+00:00
 delta: 930
 description: Najbolj položen vzpon na Porezen, travnat vrh, ki kraljuje nad Cerknim,
   vodi iz Jesenice čez planino Otavnik
+difflevel: 3
 duration: 6
 height: 1630
 image:

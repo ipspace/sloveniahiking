@@ -3,6 +3,7 @@ date: 1900-01-01 00:00:00+00:00
 delta: 430
 description: Samotorica je majhna vasica med razglednimi travniki, tik pod Kožljekom,
   najvišjim vrhom v grebenu, ki ločuje povirje Gradaščice od doline Horjulščice.
+difflevel: 2
 dirty: true
 duration: 3
 height: 788

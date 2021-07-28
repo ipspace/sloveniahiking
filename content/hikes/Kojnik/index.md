@@ -4,6 +4,7 @@ delta: 290
 description: Kojnik je položen vrh v grebenu nad Kraškim robom južno od Slavnika.
   Podobno kot s Slavnika boste imeli tudi s Kojnika lep razgled na slovensko morje
   in Istro.
+difflevel: 2
 duration: 4
 height: 802
 lead: M_0-4054_IMG.JPG

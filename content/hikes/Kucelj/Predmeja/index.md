@@ -4,6 +4,7 @@ delta: 570
 description: Vzpon na Kucelj iz Predmeje je prijeten, ne pretežak izlet, ki v začetku
   teče po senčnem bukovem gozdu, od Doma na Čavnu pa pretežno po cvetočih kraških
   travnikih.
+difflevel: 2
 duration: 3.5
 height: 1237
 lead: M_5-6505_IMG.JPG

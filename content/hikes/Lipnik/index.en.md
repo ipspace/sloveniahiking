@@ -6,6 +6,7 @@ description: 'Lipnik is one of many barely noticeable peaks on Kraški Rob (Kars
   there in early May and enjoy the wildflowers along the way.
 
   '
+difflevel: 2
 duration: 4
 height: 804
 lead: M_2_1203.JPG

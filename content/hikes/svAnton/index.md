@@ -3,6 +3,7 @@ date: 2005-11-27 00:00:00+00:00
 delta: 540
 description: Južno od Vuhreda stoji na sončnem razglednem vrhu enega od stranskih
   grebenov Pohorja cerkev sv. Antona, ki je vrhu in bližnjemu. zaselku dala tudi ime.
+difflevel: 2
 duration: 4
 height: 854
 lead: M_7_2705.JPG

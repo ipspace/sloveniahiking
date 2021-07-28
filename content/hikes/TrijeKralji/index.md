@@ -3,6 +3,7 @@ date: 2004-12-05 00:00:00+00:00
 delta: 520
 description: Visoko na pobočju Pohorja, tik pod Velikim vrhom, stoji cerkev sv. Treh
   kraljev, priljubljen cilj planincev iz okolice Slovenske Bistrice.
+difflevel: 2
 duration: 3
 height: 1181
 lead: M_1_2101.JPG

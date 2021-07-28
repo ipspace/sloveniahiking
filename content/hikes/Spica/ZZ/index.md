@@ -3,6 +3,7 @@ date: 1900-01-01 00:00:00+00:00
 delta: 70
 description: Vzpon na Planino z zgornje Zaplane je nedvomno najkrajši in najbolj položen
   vzpon na Planino in zato primeren tudi za bolj lenobne sprehajalce.
+difflevel: 1
 duration: 1.5
 height: 735
 maplink: https://mapzs.projekti.si/poi/5344

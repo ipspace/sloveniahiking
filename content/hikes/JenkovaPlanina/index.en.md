@@ -1,12 +1,13 @@
 ---
 date: 2021-07-14 16:30:22+00:00
-delta: '490'
+delta: 490
 description: Jenkova Planina is a small meadow on a saddle in a ridge running along
   the Slovenian-Austrian border with a nice view of the highest peaks around Jezersko.
   While the hike tends to be a bit boring, you'll appreciate the dark forest you're
   walking through in the summer heat.
 difficulty: Steep well-marked footpath
-duration: '3'
+difflevel: 2
+duration: 3
 gpx:
   center:
     lat: 46.38919409260242
@@ -14,7 +15,7 @@ gpx:
   file: JenkovaPlanina.gpx
   modified: 1626282762
   zoom: 15
-height: '1495'
+height: 1495
 layout: structured
 lead: IMG_2003.jpg
 maplink: https://mapzs.pzs.si/poi/4723

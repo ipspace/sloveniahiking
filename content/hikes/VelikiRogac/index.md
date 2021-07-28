@@ -2,6 +2,7 @@
 date: 2003-12-07 00:00:00+00:00
 delta: 1000
 description: Veliki Rogatec je najvišji vrh v grebenu med dolino Drete in Podvolovjekom.
+difflevel: 3
 duration: 6
 height: 1577
 lead: M_4_0409.JPG

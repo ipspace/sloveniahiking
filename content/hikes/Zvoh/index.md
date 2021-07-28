@@ -3,6 +3,7 @@ date: 2004-09-26 00:00:00+00:00
 delta: 530
 description: Če vas ne moti pogled na sedežnice, si lahko po smučiščih Krvavca in
   Zvoha privoščite prijeten nekajurni družinski izlet.
+difflevel: 2
 duration: 2.5
 height: 1971
 lead: M_8_1858.JPG

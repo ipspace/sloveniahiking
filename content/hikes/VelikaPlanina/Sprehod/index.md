@@ -3,6 +3,7 @@ date: 2004-08-22 00:00:00+00:00
 delta: 350
 description: Poleti, ko vas na Veliko planino pripelje vzpenjača, lahko uživate njene
   travnike in gozdičke med krajšim družinskim izletom.
+difflevel: 2
 duration: 3
 height: 1666
 lead: M_3_1378.JPG
