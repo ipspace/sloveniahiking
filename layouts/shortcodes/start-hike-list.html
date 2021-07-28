@@ -13,10 +13,7 @@
     </div>
   {{ end }}
   <article class='post__content'>
-    <h3 class='post__title' itemprop='name headline'>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-      ({{ .Params.delta }}&nbsp;m,&nbsp;{{ .Params.duration }}&nbsp;{{ i18n "hour" (int .Params.duration) }})
-    </h3>
+    {{ partial "item-title-h3" . }}
     {{ with .Params.description }}
       <div>{{ . | markdownify }}</div>
     {{ end }}

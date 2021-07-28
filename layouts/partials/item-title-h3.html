@@ -1,10 +1,15 @@
-<h3 class='post__title' itemprop='name headline'>
-  <a href="{{ .Permalink }}">{{ replace .Title "(on a bike)" "" }}</a>
-  {{ if eq .Section "biking" }}
-    {{ if .Params.length }}
-      ({{.Params.length}}&nbsp;km{{ with .Params.delta}},&nbsp;Δ={{ . }}&nbsp;m{{end}})
-    {{ end }}
+<h3 class='post__title ct_{{ .Section }}{{ with .Params.difflevel }} dlv_{{ . }}{{ end }}' itemprop='name headline'>
+  <a href="{{ .Permalink }}">{{ replace .Title (.Scratch.Get "RemoveFromTitle") "" }}</a>
+  {{ if .Draft }}(draft)
   {{ else }}
-  ({{ .Params.delta }}&nbsp;m,&nbsp;{{ .Params.duration }}&nbsp;{{ i18n "hour" (int .Params.duration) }})
+    {{ if eq .Section "biking"}}
+      {{ if .Params.length }}
+        ({{.Params.length}}&nbsp;km{{ with .Params.delta}},&nbsp;Δ={{ . }}&nbsp;m{{end}})
+      {{ end }}
+    {{ else }}
+      {{ if or .Params.height .Params.delta }}
+        ({{ with .Params.height }}{{ . }}&nbsp;m{{ end }}{{ with .Params.delta}},&nbsp;Δ={{ . }}&nbsp;m{{end}}{{ with .Params.Duration }},&nbsp;{{ . }}&nbsp;{{ i18n "hour" (int .) }}{{ end }})
+      {{ end }}
+    {{ end }}
   {{ end }}
 </h3>

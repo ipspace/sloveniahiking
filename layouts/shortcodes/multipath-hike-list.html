@@ -9,7 +9,7 @@
   <article class='post__content'>
     <h3 class='post__title' itemprop='name headline'>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
-      ({{ .Params.delta }}&nbsp;m,&nbsp;{{ .Params.duration }}&nbsp;{{ i18n "hour" (int .Params.duration) }})
+      (Δ={{ .Params.delta }}&nbsp;m,&nbsp;{{ .Params.duration }}&nbsp;{{ i18n "hour" (int .Params.duration) }})
     </h3>
     {{ with .Params.description }}
       <div>{{ . | markdownify }}</div>

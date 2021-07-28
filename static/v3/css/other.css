@@ -2897,3 +2897,22 @@ Grid Layout Styles
     text-decoration: none; }
     .map__popup a:hover {
       color: #fff; }
+
+.ct_hikes.dlv_1::before, .ct_hikes.dlv_2::before, .ct_hikes.dlv_3::before, .ct_hikes.dlv_4::before {
+  content: "";
+  float: right;
+  width: 2em;
+  height: 2em;
+  background-size: 2em; }
+
+.ct_hikes.dlv_1::before {
+  background-image: url("/images/levels/hike_1.png"); }
+
+.ct_hikes.dlv_2::before {
+  background-image: url("/images/levels/hike_2.png"); }
+
+.ct_hikes.dlv_3::before {
+  background-image: url("/images/levels/hike_3.png"); }
+
+.ct_hikes.dlv_4::before {
+  background-image: url("/images/levels/hike_4.png"); }
