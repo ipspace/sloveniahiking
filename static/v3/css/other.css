@@ -2898,7 +2898,7 @@ Grid Layout Styles
     .map__popup a:hover {
       color: #fff; }
 
-.ct_hikes.dlv_1::before, .ct_hikes.dlv_2::before, .ct_hikes.dlv_3::before, .ct_hikes.dlv_4::before {
+.ct_hikes.dlv_1::before, .ct_hikes.dlv_2::before, .ct_hikes.dlv_3::before, .ct_hikes.dlv_4::before, .ct_hikes.dlv_d::before, .ct_biking.dlv_1::before, .ct_biking.dlv_2::before, .ct_biking.dlv_3::before, .ct_biking.dlv_4::before, .ct_biking.dlv_d::before {
   content: "";
   float: right;
   width: 2em;
@@ -2916,3 +2916,15 @@ Grid Layout Styles
 
 .ct_hikes.dlv_4::before {
   background-image: url("/images/levels/hike_4.png"); }
+
+.ct_biking.dlv_1::before {
+  background-image: url("/images/levels/biking_1.png"); }
+
+.ct_biking.dlv_2::before {
+  background-image: url("/images/levels/biking_2.png"); }
+
+.ct_biking.dlv_3::before {
+  background-image: url("/images/levels/biking_3.png"); }
+
+.ct_biking.dlv_d::before {
+  background-image: url("/images/levels/biking_d.png"); }

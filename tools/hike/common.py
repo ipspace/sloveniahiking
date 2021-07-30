@@ -15,14 +15,14 @@ def toNumber(s):
   except:
     return float(s)
 
-def set_hike_difflevel(hd):
+def set_hike_difflevel(hd,levels = difflevel_limits):
   if 'difflevel' in hd:
     return
 
-  for dl in sorted(difflevel_limits.keys()):
+  for dl in sorted(levels.keys()):
     found = True
     values = False
-    for attr,maxv in difflevel_limits[dl].items():
+    for attr,maxv in levels[dl].items():
       if attr in hd:
         values = True
         if isinstance(hd[attr],str):
@@ -33,7 +33,7 @@ def set_hike_difflevel(hd):
       return
 
 def cleanup(hd):
-  for k in ('delta','duration','height'):
+  for k in ('delta','duration','height','length'):
     if k in hd:
       if isinstance(hd[k],str):
         hd[k] = toNumber(hd[k])

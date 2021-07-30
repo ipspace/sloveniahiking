@@ -6472,6 +6472,7 @@
       "en": "The tour from Marezige to Bor\u0161t will take you onto scenic hills around Rokava valley. The descent from Labor to Dragonja valley (should you choose to do it) is just the icing on the cake."
     },
     "difficulty": "Lovely tour on asphalt roads in Slovenian Istria. Optional challenging descent on a rocky dirt road.",
+    "difflevel": 2,
     "duration": 2.5,
     "height": 392,
     "layout": "structured",
@@ -6497,15 +6498,16 @@
   },
   {
     "date": "2021-06-11 15:19:10+00:00",
-    "delta": "500",
+    "delta": 500,
     "description": {
       "en": "When [hiking to St. Jacob above Preddvor](/en/hikes/svjakob_preddvor), you\u2019ll cross a gravel road several times. You can use that road to get to the church (and enjoy a fantastic apple strudel in the nearby hut) on a bike."
     },
     "difficulty": "Steep asphalt and gravel roads",
-    "duration": "2",
-    "height": "961",
+    "difflevel": 3,
+    "duration": 2,
+    "height": 961,
     "lead": "M_20210611_103323.jpg",
-    "length": "12",
+    "length": 12,
     "maplink": "https://mapzs.pzs.si/poi/1295",
     "name": "svJakob",
     "nearby": [
@@ -6526,15 +6528,16 @@
   },
   {
     "date": "2021-05-31 12:14:31+00:00",
-    "delta": "560",
+    "delta": 560,
     "description": {
       "en": "I\u2019ve been watching the tiny church of Sv. Socerb (Saint Servulus) high above Vipava Valley for over a decade as I was climbing in Gradi\u0161ka Tura. I\u2019ve heard of a dirt track leading from it back to the valley years ago, but it took me a long while to go and find it. You might want to do it sooner than that and enjoy the spectacular views of the Vipava Valley and Nanos on the way."
     },
     "difficulty": "Reasonably steep ascent (~10 %) on asphalt roads. Gravel road to the church of Sv. Socerb. Downhill dirt track toward Podraga.",
-    "duration": "2.5",
-    "height": "580",
+    "difflevel": "d",
+    "duration": 2.5,
+    "height": 580,
     "lead": "M_20210531_113148.jpg",
-    "length": "17.3",
+    "length": 17.3,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.78557&lon=13.93481&layers=B0000",
     "name": "PodnanosSocerb",
     "nearby": [
@@ -6560,6 +6563,7 @@
       "en": "Biking around Lake Cerknica was always a pleasant experience, and it got even better since the local tourist organization marked four trails, from a family-friendly one to a slightly more demanding trip to Rakov \u0160kocjan."
     },
     "difficulty": "Easy tour on gravel roads",
+    "difflevel": 1,
     "duration": 2,
     "height": 550,
     "layout": "structured",
@@ -6577,16 +6581,17 @@
   },
   {
     "date": "2021-04-22 10:14:27+00:00",
-    "delta": "520",
+    "delta": 520,
     "description": {
       "en": "After enjoying the [vistas of Adriatic Sea](/en/biking/marezigesmarje/), it's time for a trip deep into \u0160avrinsko gri\u010devje (\u0160avrinje hills). We'll start in Marezige, cross Rokava and Dragonja valleys, visit Trsek, enjoy the views from the road to Popetre, and return to Marezige via Lopar or Gradi\u0161\u010de."
     },
     "difficulty": "Asphalt roads with occasional steeper ascents",
-    "duration": "2",
-    "height": "404",
+    "difflevel": 2,
+    "duration": 2,
+    "height": 404,
     "layout": "structured",
     "lead": "M_20210422_085412.jpg",
-    "length": "18.3",
+    "length": 18.3,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.49773&lon=13.839&layers=B0000",
     "name": "MarezigeTrsek",
     "nearby": [
@@ -6607,16 +6612,17 @@
   },
   {
     "date": "2021-05-20 13:14:58+00:00",
-    "delta": "510",
+    "delta": 510,
     "description": {
       "en": "I'm lamenting the loss of the dirt track leading to Slavnik every time I hike there, but the gravel road it was bastardized into comes handy if you decide to get to the top with a mountain bike."
     },
     "difficulty": "Steep gravel road (average slope: 9%, max: over 15%)",
-    "duration": "2",
-    "height": "1015",
+    "difflevel": 3,
+    "duration": 2,
+    "height": 1015,
     "layout": "structured",
     "lead": "M_20210520_100046.jpg",
-    "length": "12.1",
+    "length": 12.1,
     "maplink": "https://mapzs.pzs.si/path/55941",
     "name": "PodgorjeSlavnik",
     "peakpoint": "Slavnik",
@@ -6632,16 +6638,17 @@
   },
   {
     "date": "2021-06-02 11:23:41+00:00",
-    "delta": "290",
+    "delta": 290,
     "description": {
       "en": "This time we'll explore the forests and meadows at the northern edge of the Karst plateau, north of Kobjeglava and Komen. We'll pass Lukovec and try to find our way through the narrow streets of Mali Dol."
     },
     "difficulty": "A leisurely ride on a mix of gravel roads, dirt roads, and single-tracks. Expect a few steeper sections.",
-    "duration": "2",
-    "height": "393",
+    "difflevel": 2,
+    "duration": 2,
+    "height": 393,
     "layout": "structured",
     "lead": "M_20210602_073047.jpg",
-    "length": "17.5",
+    "length": 17.5,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.82403&lon=13.79297&layers=B0000",
     "name": "LukovecMaliDol",
     "nearby": [
@@ -6662,16 +6669,17 @@
   },
   {
     "date": "2021-06-28 15:42:55+00:00",
-    "delta": "660",
+    "delta": 660,
     "description": {
       "en": "Pasja Ravan used to be the highest peak in Polhov Gradec hills until the Yugoslav army decided to level it to build a radar station. Yugoslavia is long gone, and so is the radar station. Still, the gravel road to the top remains -- an ideal opportunity to bike there and enjoy fantastic views from the ridge separating Gorenjska from Notranjska."
     },
     "difficulty": "A mix of asphalt and gravel roads with the usual \"_Does it have to be so steep?_\" parts",
-    "duration": "3",
-    "height": "1023",
+    "difflevel": 3,
+    "duration": 3,
+    "height": 1023,
     "layout": "structured",
     "lead": "M_20210628_091625.jpg",
-    "length": "28.9",
+    "length": 28.9,
     "maplink": "https://mapzs.pzs.si/poi/1223",
     "name": "PasjaRavan",
     "nearby": [
@@ -6697,8 +6705,9 @@
       "en": "We'll start in Kalce, bike through the forests on the slopes of Hru\u0161ica, drop by a renovated homestead in the middle of nowhere, and visit the ruins of a Roman fortress. Take this tour when you need to clear your head, de-stress, or mull over new ideas. You won't be disturbed by traffic, hikers, or spectacular views."
     },
     "difficulty": "Gravel roads. Expect a bit of huffing and puffing.",
-    "duration": "2",
-    "height": "600",
+    "difflevel": 2,
+    "duration": 2,
+    "height": 600,
     "layout": "structured",
     "lead": "M_20210603_101503.jpg",
     "length": 19.2,
@@ -6722,16 +6731,17 @@
   },
   {
     "date": "2021-06-26 14:11:19+00:00",
-    "delta": "440",
+    "delta": 440,
     "description": {
       "en": "The eastern part of the boundary between Gorenjska and Primorska (two historical regions in western Slovenia) lies on Idrijca and Sora's watershed. We'll explore a picturesque ridge on that watershed with great views of Kamnik Alps, Julian Alps, and Idrija hills."
     },
     "difficulty": "Occasionally steep asphalt roads",
-    "duration": "2.5",
-    "height": "850",
+    "difflevel": 2,
+    "duration": 2.5,
+    "height": 850,
     "layout": "structured",
     "lead": "M_20210626_083237.jpg",
-    "length": "20.3",
+    "length": 20.3,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.97928&lon=14.15498&layers=B0000",
     "name": "Zavratec",
     "nearby": [
@@ -6757,6 +6767,7 @@
       "en": "\u017dibr\u0161e are a cluster of hamlets peppered across the southern edge of Rovte hills. You'll enjoy fantastic views while exploring them, and you might be lucky enough to stumble upon a rare wildflower in late May or early June."
     },
     "difficulty": "A mix of asphalt and gravel roads with a few short but disgustingly steep ascents",
+    "difflevel": 2,
     "duration": 2,
     "height": 720,
     "layout": "structured",
@@ -6782,15 +6793,16 @@
   },
   {
     "date": "2021-06-01 09:07:16+00:00",
-    "delta": "160",
+    "delta": 160,
     "description": {
       "en": "It's easy to meander around Slovenian Karst on a bike as it's crisscrossed with paved roads. Still, it's more interesting to stay on gravel roads and try to find old overgrown dirt tracks, this time taking us from Hru\u0161evica to Kosovelje."
     },
     "difficulty": "From gravel roads to footpaths, with an occasional stretch of asphalt or two.",
-    "duration": "2",
-    "height": "300",
+    "difflevel": 1,
+    "duration": 2,
+    "height": 300,
     "lead": "M_20210601_084119.jpg",
-    "length": "17.7",
+    "length": 17.7,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.79436&lon=13.80662&layers=B0000",
     "name": "HrusevicaKosovelje",
     "nearby": [
@@ -6826,6 +6838,7 @@
       "en": "If you happen to be in Vrhnika, take a mountain bike and explore the hills above the town. One of the shorter tours takes you to Kuren, Zaplana, Strmca, Star Maln and back to Vrhnika."
     },
     "difficulty": "Easy tour on a mix of asphalt and gravel roads",
+    "difflevel": 2,
     "duration": 2,
     "height": 691,
     "layout": "structured",
@@ -6851,16 +6864,17 @@
   },
   {
     "date": "2021-04-21 17:29:41+00:00",
-    "delta": "500",
+    "delta": 500,
     "description": {
       "en": "You'll love biking through old Istrian villages high above Adriatic sea. Some of the vistas you'll encounter are probably among the best ones you can get in Slovenian Istria."
     },
     "difficulty": "Asphalt roads. Somewhat steeper ascents around Pomjan and Montinjan.",
-    "duration": "2",
-    "height": "391",
+    "difflevel": 2,
+    "duration": 2,
+    "height": 391,
     "layout": "structured",
     "lead": "M_20210421_085534.jpg",
-    "length": "18.9",
+    "length": 18.9,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.50964&lon=13.756&layers=B0000",
     "name": "MarezigeSmarje",
     "nearby": [
@@ -6886,6 +6900,7 @@
       "en": "[Tav\u017eentro\u017ea](https://tavzent-roza.com/) has the best pizzas in Rovte hills. Let's bike there from Zaplana to make sure we'll be building a proper hunger along the way&nbsp;\ud83d\ude09\n"
     },
     "difficulty": "A mix of gravel- and asphalt roads with a few steeper ascents",
+    "difflevel": 2,
     "duration": 2.5,
     "height": 770,
     "layout": "structured",
@@ -6917,6 +6932,7 @@
       "en": "This circuitous tour will take you around western part of [Rovte hills](https://en.wikipedia.org/wiki/Rovte_Hills). Stop at the highest point and enjoy the view of Julian Alps with Triglav."
     },
     "difficulty": "Easy tour on a mix of asphalt and gravel roads",
+    "difflevel": 2,
     "duration": 2,
     "height": 730,
     "layout": "structured",
@@ -6942,16 +6958,17 @@
   },
   {
     "date": "2021-06-27 14:34:27+00:00",
-    "delta": "790",
+    "delta": 790,
     "description": {
       "en": "Getting to Pirnat Lodge at Javornik from Col is easy \u2013 you can drive there \u2013 but it's way more fun to take a detour via Kri\u017ena Gora and another one through Vodice on the way back."
     },
     "difficulty": "A steep mix of asphalt- and gravel roads",
-    "duration": "3.5",
-    "height": "1175",
+    "difflevel": 3,
+    "duration": 3.5,
+    "height": 1175,
     "layout": "structured",
     "lead": "M_20210627_102439.jpg",
-    "length": "24",
+    "length": 24,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.89159&lon=14.03283&layers=B0000",
     "name": "KriznaGoraJavornik",
     "nearby": [
@@ -6972,16 +6989,17 @@
   },
   {
     "date": "2021-06-10 16:39:28+00:00",
-    "delta": "520",
+    "delta": 520,
     "description": {
       "en": "Volovja Reber is a long ridge on the southwestern edge of the Sne\u017enik plateau. It's one of those magical places where you rarely encounter a fellow hiker or biker, even though it's only a few kilometers away from an overcrowded main road. Let's enjoy the beauties of karst meadows and pastures while biking to Velika Milanja -- the highest peak in the ridge with an unusual rocky top."
     },
     "difficulty": "Occasionally steep gravel roads",
-    "duration": "3",
-    "height": "1099",
+    "difflevel": 2,
+    "duration": 3,
+    "height": 1099,
     "layout": "structured",
     "lead": "M_20200601_102531.jpg",
-    "length": "18.8",
+    "length": 18.8,
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.5876&lon=14.29126&layers=B0000",
     "name": "VolovjaReber",
     "nearby": [
@@ -7000,16 +7018,17 @@
   },
   {
     "date": "2021-05-27 13:20:47+00:00",
-    "delta": "450",
+    "delta": 450,
     "description": {
       "en": "Hordes of tourists visiting the famous church in Hrastovlje might spend a few seconds admiring the rocky cliffs high above the village. We'll explore them, and the lovely meadows north of the Karst Edge."
     },
     "difficulty": "Steep mix of asphalt and gravel roads with an optional overgrown dirt track.",
-    "duration": "2.5",
-    "height": "450",
+    "difflevel": 3,
+    "duration": 2.5,
+    "height": 450,
     "layout": "structured",
     "lead": "M_20210527_111914.jpg",
-    "length": "14.8",
+    "length": 14.8,
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.5338&lon=13.90097&layers=B0000",
     "name": "RizanaPraproce",
     "nearby": [
@@ -7030,16 +7049,17 @@
   },
   {
     "date": "2021-05-31 19:17:09+00:00",
-    "delta": "100",
+    "delta": 100,
     "description": {
       "en": "This is not my lame attempt at reaching Zen... the farmers in Slovenian Karst used ponds with clay bottom to collect rainwater, and there's a nice path linking nine of those ponds as well as several small caves around Kobjeglava and Tupel\u010de."
     },
     "difficulty": "Gravel roads with a few short steeper sections. Suitable for a family hike/biking tour.",
-    "duration": "1",
-    "height": "340",
+    "difflevel": 1,
+    "duration": 1,
+    "height": 340,
     "layout": "structured",
     "lead": "M_20210531_180603.jpg",
-    "length": "1",
+    "length": 6.5,
     "maplink": "https://www.visitkras.info/en/trail-of-nine-ponds",
     "name": "Path9Ponds",
     "nearby": [
@@ -7065,6 +7085,7 @@
       "en": "Karst Edge is the wondrous land where the limestone cliffs of continental Slovenia meet the soft flysch landscape of lower Slovenian Istria. This time we'll explore dirt tracks on its easternmost part -- from Podgorje to Kav\u010di\u010d.\n"
     },
     "difficulty": "Bad gravel roads and rocky dirt tracks. Wide-tire mountain bike is highly recommended.\n",
+    "difflevel": "d",
     "duration": 3.5,
     "height": 880,
     "layout": "structured",
