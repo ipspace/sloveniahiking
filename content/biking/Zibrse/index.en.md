@@ -6,6 +6,7 @@ description: Žibrše are a cluster of hamlets peppered across the southern edge
   lucky enough to stumble upon a rare wildflower in late May or early June.
 difficulty: A mix of asphalt and gravel roads with a few short but disgustingly steep
   ascents
+difflevel: 2
 duration: 2
 gpx:
   center:

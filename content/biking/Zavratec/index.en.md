@@ -1,22 +1,23 @@
 ---
 date: 2021-06-26 14:11:19+00:00
-delta: '440'
+delta: 440
 description: The eastern part of the boundary between Gorenjska and Primorska (two
   historical regions in western Slovenia) lies on Idrijca and Sora's watershed. We'll
   explore a picturesque ridge on that watershed with great views of Kamnik Alps, Julian
   Alps, and Idrija hills.
 difficulty: Occasionally steep asphalt roads
-duration: '2.5'
+difflevel: 2
+duration: 2.5
 gpx:
   center:
     lat: 45.98533808196076
     lon: 14.144152428258245
   file: Zavratec.gpx
   modified: 1624717937
-height: '850'
+height: 850
 layout: structured
 lead: M_20210626_083237.jpg
-length: '20.3'
+length: 20.3
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.97928&lon=14.15498&layers=B0000
 name: Zavratec
 nearby:

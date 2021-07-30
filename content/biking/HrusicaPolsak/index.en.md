@@ -6,14 +6,15 @@ description: We'll start in Kalce, bike through the forests on the slopes of Hru
   Roman fortress. Take this tour when you need to clear your head, de-stress, or mull
   over new ideas. You won't be disturbed by traffic, hikers, or spectacular views.
 difficulty: Gravel roads. Expect a bit of huffing and puffing.
-duration: '2'
+difflevel: 2
+duration: 2
 gpx:
   center:
     lat: 45.87627091651499
     lon: 14.18473005871942
   file: Hrusica.gpx
   modified: 1622824689
-height: '600'
+height: 600
 layout: structured
 lead: M_20210603_101503.jpg
 length: 19.2

@@ -1,11 +1,12 @@
 ---
 date: 2021-05-20 13:14:58+00:00
-delta: '510'
+delta: 510
 description: I'm lamenting the loss of the dirt track leading to Slavnik every time
   I hike there, but the gravel road it was bastardized into comes handy if you decide
   to get to the top with a mountain bike.
 difficulty: 'Steep gravel road (average slope: 9%, max: over 15%)'
-duration: '2'
+difflevel: 3
+duration: 2
 gpx:
   center:
     lat: 45.52701173005411
@@ -13,10 +14,10 @@ gpx:
   file: Slavnik.gpx
   modified: 1621516485
   zoom: 14
-height: '1015'
+height: 1015
 layout: structured
 lead: M_20210520_100046.jpg
-length: '12.1'
+length: 12.1
 maplink: https://mapzs.pzs.si/path/55941
 name: PodgorjeSlavnik
 peakpoint: Slavnik

@@ -1,21 +1,22 @@
 ---
 date: 2021-06-01 09:07:16+00:00
-delta: '160'
+delta: 160
 description: It's easy to meander around Slovenian Karst on a bike as it's crisscrossed
   with paved roads. Still, it's more interesting to stay on gravel roads and try to
   find old overgrown dirt tracks, this time taking us from Hruševica to Kosovelje.
 difficulty: From gravel roads to footpaths, with an occasional stretch of asphalt
   or two.
-duration: '2'
+difflevel: 1
+duration: 2
 gpx:
   center:
     lat: 45.797280491581844
     lon: 13.808684447756228
   file: Kosovelje.gpx
   modified: 1622539970
-height: '300'
+height: 300
 lead: M_20210601_084119.jpg
-length: '17.7'
+length: 17.7
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.79436&lon=13.80662&layers=B0000
 name: HrusevicaKosovelje
 nearby:

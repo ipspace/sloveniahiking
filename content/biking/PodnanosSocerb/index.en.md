@@ -1,6 +1,6 @@
 ---
 date: 2021-05-31 12:14:31+00:00
-delta: '560'
+delta: 560
 description: I’ve been watching the tiny church of Sv. Socerb (Saint Servulus) high
   above Vipava Valley for over a decade as I was climbing in Gradiška Tura. I’ve heard
   of a dirt track leading from it back to the valley years ago, but it took me a long
@@ -8,16 +8,17 @@ description: I’ve been watching the tiny church of Sv. Socerb (Saint Servulus)
   spectacular views of the Vipava Valley and Nanos on the way.
 difficulty: Reasonably steep ascent (~10 %) on asphalt roads. Gravel road to the church
   of Sv. Socerb. Downhill dirt track toward Podraga.
-duration: '2.5'
+difflevel: d
+duration: 2.5
 gpx:
   center:
     lat: 45.786755713209836
     lon: 13.952030830315499
   file: PodnanosSocerb.gpx
   modified: 1622482130
-height: '580'
+height: 580
 lead: M_20210531_113148.jpg
-length: '17.3'
+length: 17.3
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.78557&lon=13.93481&layers=B0000
 name: PodnanosSocerb
 nearby:

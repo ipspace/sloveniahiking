@@ -7,6 +7,7 @@ description: '[Tavžentroža](https://tavzent-roza.com/) has the best pizzas in 
 
   '
 difficulty: A mix of gravel- and asphalt roads with a few steeper ascents
+difflevel: 2
 duration: 2.5
 gpx:
   center:

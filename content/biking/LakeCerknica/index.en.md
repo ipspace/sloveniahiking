@@ -1,10 +1,11 @@
 ---
-date: 2021-03-30 10:00:00
+date: 2021-03-30 10:00:00+00:00
 delta: 110
 description: Biking around Lake Cerknica was always a pleasant experience, and it
   got even better since the local tourist organization marked four trails, from a
   family-friendly one to a slightly more demanding trip to Rakov Škocjan.
 difficulty: Easy tour on gravel roads
+difflevel: 1
 duration: 2
 height: 550
 layout: structured

@@ -1,12 +1,13 @@
 ---
 date: 2021-05-27 13:20:47+00:00
-delta: '450'
+delta: 450
 description: Hordes of tourists visiting the famous church in Hrastovlje might spend
   a few seconds admiring the rocky cliffs high above the village. We'll explore them,
   and the lovely meadows north of the Karst Edge.
 difficulty: Steep mix of asphalt and gravel roads with an optional overgrown dirt
   track.
-duration: '2.5'
+difflevel: 3
+duration: 2.5
 gpx:
   center:
     lat: 45.53407888963255
@@ -14,10 +15,10 @@ gpx:
   file: Rizana.gpx
   modified: 1622122291
   zoom: 14
-height: '450'
+height: 450
 layout: structured
 lead: M_20210527_111914.jpg
-length: '14.8'
+length: 14.8
 maplink: https://www.opencyclemap.org/?zoom=15&lat=45.5338&lon=13.90097&layers=B0000
 name: RizanaPraproce
 nearby:

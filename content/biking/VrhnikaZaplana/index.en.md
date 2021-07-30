@@ -5,6 +5,7 @@ description: If you happen to be in Vrhnika, take a mountain bike and explore th
   hills above the town. One of the shorter tours takes you to Kuren, Zaplana, Strmca,
   Star Maln and back to Vrhnika.
 difficulty: Easy tour on a mix of asphalt and gravel roads
+difflevel: 2
 duration: 2
 gpx:
   center:

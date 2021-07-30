@@ -1,22 +1,23 @@
 ---
 date: 2021-06-02 11:23:41+00:00
-delta: '290'
+delta: 290
 description: This time we'll explore the forests and meadows at the northern edge
   of the Karst plateau, north of Kobjeglava and Komen. We'll pass Lukovec and try
   to find our way through the narrow streets of Mali Dol.
 difficulty: A leisurely ride on a mix of gravel roads, dirt roads, and single-tracks.
   Expect a few steeper sections.
-duration: '2'
+difflevel: 2
+duration: 2
 gpx:
   center:
     lat: 45.828080506501635
     lon: 13.79839168045839
   file: LukovecMaliDol.gpx
   modified: 1622634561
-height: '393'
+height: 393
 layout: structured
 lead: M_20210602_073047.jpg
-length: '17.5'
+length: 17.5
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.82403&lon=13.79297&layers=B0000
 name: LukovecMaliDol
 nearby:

@@ -1,21 +1,22 @@
 ---
 date: 2021-06-27 14:34:27+00:00
-delta: '790'
+delta: 790
 description: Getting to Pirnat Lodge at Javornik from Col is easy – you can drive
   there – but it's way more fun to take a detour via Križna Gora and another one through
   Vodice on the way back.
 difficulty: A steep mix of asphalt- and gravel roads
-duration: '3.5'
+difflevel: 3
+duration: 3.5
 gpx:
   center:
     lat: 45.89584048065184
     lon: 14.038450890220961
   file: KriznaGoraJavornik.gpx
   modified: 1624805513
-height: '1175'
+height: 1175
 layout: structured
 lead: M_20210627_102439.jpg
-length: '24'
+length: 24
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.89159&lon=14.03283&layers=B0000
 name: KriznaGoraJavornik
 nearby:

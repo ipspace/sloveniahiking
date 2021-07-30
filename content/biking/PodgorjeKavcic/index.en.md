@@ -10,6 +10,7 @@ difficulty: 'Bad gravel roads and rocky dirt tracks. Wide-tire mountain bike is 
   recommended.
 
   '
+difflevel: d
 duration: 3.5
 gpx:
   center:

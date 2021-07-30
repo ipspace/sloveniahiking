@@ -1,13 +1,14 @@
 ---
 date: 2021-05-31 19:17:09+00:00
-delta: '100'
+delta: 100
 description: This is not my lame attempt at reaching Zen... the farmers in Slovenian
   Karst used ponds with clay bottom to collect rainwater, and there's a nice path
   linking nine of those ponds as well as several small caves around Kobjeglava and
   Tupelče.
 difficulty: Gravel roads with a few short steeper sections. Suitable for a family
   hike/biking tour.
-duration: '1'
+difflevel: 1
+duration: 1
 gpx:
   center:
     lat: 45.81948369154094
@@ -15,10 +16,10 @@ gpx:
   file: 9ponds.gpx
   modified: 1622489054
   zoom: 14
-height: '340'
+height: 340
 layout: structured
 lead: M_20210531_180603.jpg
-length: '1'
+length: 6.5
 maplink: https://www.visitkras.info/en/trail-of-nine-ponds
 name: Path9Ponds
 nearby:

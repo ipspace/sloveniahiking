@@ -1,11 +1,12 @@
 ---
 date: 2021-06-11 15:19:10+00:00
-delta: '500'
-description: When [hiking to St. Jacob above Preddvor](/en/hikes/svjakob_preddvor), you’ll cross a gravel road several
-  times. You can use that road to get to the church (and enjoy a fantastic apple strudel
-  in the nearby hut) on a bike.
+delta: 500
+description: When [hiking to St. Jacob above Preddvor](/en/hikes/svjakob_preddvor),
+  you’ll cross a gravel road several times. You can use that road to get to the church
+  (and enjoy a fantastic apple strudel in the nearby hut) on a bike.
 difficulty: Steep asphalt and gravel roads
-duration: '2'
+difflevel: 3
+duration: 2
 gpx:
   center:
     lat: 46.30765007902039
@@ -13,9 +14,9 @@ gpx:
   file: svJakob.gpx
   modified: 1623424437
   zoom: 14
-height: '961'
+height: 961
 lead: M_20210611_103323.jpg
-length: '12'
+length: 12
 maplink: https://mapzs.pzs.si/poi/1295
 name: svJakob
 nearby:

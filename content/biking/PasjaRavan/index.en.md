@@ -1,6 +1,6 @@
 ---
 date: 2021-06-28 15:42:55+00:00
-delta: '660'
+delta: 660
 description: Pasja Ravan used to be the highest peak in Polhov Gradec hills until
   the Yugoslav army decided to level it to build a radar station. Yugoslavia is long
   gone, and so is the radar station. Still, the gravel road to the top remains --
@@ -8,17 +8,18 @@ description: Pasja Ravan used to be the highest peak in Polhov Gradec hills unti
   Gorenjska from Notranjska.
 difficulty: A mix of asphalt and gravel roads with the usual "_Does it have to be
   so steep?_" parts
-duration: '3'
+difflevel: 3
+duration: 3
 gpx:
   center:
     lat: 46.0834644751902
     lon: 14.262723665842028
   file: PasjaRavan.gpx
   modified: 1624895820
-height: '1023'
+height: 1023
 layout: structured
 lead: M_20210628_091625.jpg
-length: '28.9'
+length: 28.9
 maplink: https://mapzs.pzs.si/poi/1223
 name: PasjaRavan
 nearby:

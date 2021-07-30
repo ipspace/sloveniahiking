@@ -6,6 +6,7 @@ description: The tour from Marezige to Boršt will take you onto scenic hills ar
   it) is just the icing on the cake.
 difficulty: Lovely tour on asphalt roads in Slovenian Istria. Optional challenging
   descent on a rocky dirt road.
+difflevel: 2
 duration: 2.5
 gpx:
   center:

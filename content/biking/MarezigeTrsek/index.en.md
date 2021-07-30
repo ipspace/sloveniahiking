@@ -1,22 +1,23 @@
 ---
 date: 2021-04-22 10:14:27+00:00
-delta: '520'
+delta: 520
 description: After enjoying the [vistas of Adriatic Sea](/en/biking/marezigesmarje/),
   it's time for a trip deep into Šavrinsko gričevje (Šavrinje hills). We'll start
   in Marezige, cross Rokava and Dragonja valleys, visit Trsek, enjoy the views from
   the road to Popetre, and return to Marezige via Lopar or Gradišče.
 difficulty: Asphalt roads with occasional steeper ascents
-duration: '2'
+difflevel: 2
+duration: 2
 gpx:
   center:
     lat: 45.498248000000004
     lon: 13.827613
   file: Marezige-Trsek-Popetre.gpx
   modified: 1619079475
-height: '404'
+height: 404
 layout: structured
 lead: M_20210422_085412.jpg
-length: '18.3'
+length: 18.3
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.49773&lon=13.839&layers=B0000
 name: MarezigeTrsek
 nearby:
