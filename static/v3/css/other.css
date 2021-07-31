@@ -2928,3 +2928,22 @@ Grid Layout Styles
 
 .ct_biking.dlv_d::before {
   background-image: url("/images/levels/biking_d.png"); }
+
+.icon_peak::before, .icon_start::before, .icon_trad::before, .icon_climbing::before {
+  content: "";
+  float: right;
+  width: 2em;
+  height: 2em;
+  background-size: 2em; }
+
+.icon_climbing::before {
+  background-image: url("/images/icons/climbing.png"); }
+
+.icon_peak::before {
+  background-image: url("/images/icons/peak.png"); }
+
+.icon_start::before {
+  background-image: url("/images/icons/start.png"); }
+
+.icon_trad::before {
+  background-image: url("/images/icons/trad.png"); }

@@ -32,6 +32,18 @@ def set_hike_difflevel(hd,levels = difflevel_limits):
       hd['difflevel'] = dl
       return
 
+def set_icon(hd):
+  if hd.get('layout',None) == 'start':
+    hd['icon'] = 'start'
+    return
+
+  is_hike = False
+  for k in ('delta','duration','start'):
+    is_hike = is_hike or (k in hd)
+
+  if 'peak' in hd and not is_hike:
+    hd['icon'] = 'peak'
+
 def cleanup(hd):
   for k in ('delta','duration','height','length'):
     if k in hd:

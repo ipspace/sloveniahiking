@@ -36,10 +36,12 @@ def sync_hike_data(si_path):
   hike.common.cleanup(si_page)
   hike.common.cleanup(en_page)
   hike.common.set_hike_difflevel(si_page)
+  if not 'difflevel' in si_page:
+    hike.common.set_icon(si_page)
 
   for key in ('delta','duration','height','difflevel',
               'lead','multilead','multipath',
-              'maplink','start','startpoint','peak',
+              'maplink','start','startpoint','peak','icon',
               'video','region'):
     si_val = si_page.get(key)
     en_val = en_page.get(key)

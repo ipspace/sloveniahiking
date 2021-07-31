@@ -145,6 +145,7 @@
       "en": "Slavnik is the highest peak of the Slavnik range, the last mountain range before the gentle slopes of Slovenian Istra. It\\'s also the last peak above 1000 meters visited by the Slovenian Mountain Hiking Trail."
     },
     "height": 1028,
+    "icon": "peak",
     "lead": "M_5-3555_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/1235",
     "name": "Slavnik",
@@ -365,6 +366,7 @@
       "en": "On the highest peak of eastern Savinje Alps you'll enjoy a fantastic panorama of the surrounding mountains and Logar valley, as well as an interesting view of Julian Alps and Karavanke ridge."
     },
     "height": 2062,
+    "icon": "peak",
     "lead": "M_1-7159_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/118",
     "name": "Raduha",
@@ -602,6 +604,7 @@
       "en": null
     },
     "height": 968,
+    "icon": "peak",
     "lead": "M_4-4463_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/1226",
     "name": "Ermanovec",
@@ -1051,6 +1054,7 @@
       "en": "Blego\u0161 is the highest summit in the \u0160kofja Loka hills and (together with Ratitovec and Porezen) one of the \u00bbbig three\u00ab subalpine peaks.\n"
     },
     "height": 1562,
+    "icon": "peak",
     "lead": "M_4_0469.JPG",
     "maplink": "https://mapzs.pzs.si/poi/4875",
     "name": "Blegos",
@@ -1359,6 +1363,7 @@
       "en": null
     },
     "height": 898,
+    "icon": "peak",
     "lead": "M_0-5040_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/196",
     "name": "PolhograjskaGrmada",
@@ -1647,6 +1652,7 @@
       "en": null
     },
     "height": 1027,
+    "icon": "peak",
     "maplink": "https://mapzs.pzs.si/poi/1227",
     "name": "Vremscica",
     "nearby": [
@@ -1733,6 +1739,7 @@
       "en": null
     },
     "height": 1666,
+    "icon": "peak",
     "lead": "M_3_1378.JPG",
     "maplink": "https://mapzs.pzs.si/poi/836",
     "name": "VelikaPlanina",
@@ -2051,6 +2058,7 @@
       "en": "The route from Rudno polje to Lipanca is an ideal family trip: it starts as a gentle walk through the mighty Pokljuka spruce forests, continues with a slight ascent on the margin of the Pokljuka plateau, becomes somewhat more diverse and ends on the fairly steep grass slopes below Lipanca."
     },
     "height": 1630,
+    "icon": "peak",
     "lead": "M_9-5985_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/32992",
     "name": "Lipanca",
@@ -2162,6 +2170,7 @@
       "en": null
     },
     "height": 844,
+    "icon": "peak",
     "maplink": "https://mapzs.pzs.si/poi/4410",
     "name": "Vs3k",
     "nearby": [
@@ -2464,6 +2473,7 @@
       "en": null
     },
     "height": 1262,
+    "icon": "peak",
     "lead": "M_2_0206.JPG",
     "maplink": "https://mapzs.pzs.si/poi/3080",
     "name": "Nanos",
@@ -3059,6 +3069,7 @@
       "en": "If you decide to visit Postojna cave or Predjama castle, drop by Gorenje or Studeno on the way back and hike to Gora (aka: sv Lovrenc), the highest hilltop in the ridge stretching from Planina to Predjama."
     },
     "height": 1019,
+    "icon": "peak",
     "lead": "M_1-3162_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/3908",
     "name": "svLovrenc",
@@ -3441,6 +3452,7 @@
       "en": null
     },
     "height": 901,
+    "icon": "peak",
     "lead": "M_4-4461_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/1368",
     "name": "Javorc",
@@ -3543,6 +3555,7 @@
       "en": null
     },
     "height": 1488,
+    "icon": "peak",
     "lead": "M_3_0331.JPG",
     "maplink": "https://mapzs.pzs.si/poi/34621",
     "name": "Kofce",
@@ -3643,6 +3656,7 @@
       "en": null
     },
     "height": 873,
+    "icon": "peak",
     "lead": "M_20020916_095733.jpg",
     "name": "Hrusica",
     "nearby": [
@@ -4063,6 +4077,7 @@
       "en": "\u010caven is a Karst plateau (as well as one of the peaks in that plateau) high above Vipava valley north-west of Ajdov\u0161\u010dina. \n\nIts steep slopes presented a formidable challenge to local farmers, who created a web of footpaths, dirt trails, and narrow dirt roads to reach high-lying meadows and forests. You can walk along those paths to get to *Ko\u010da na \u010cavnu* (\u010caven mountain hut) from Predmeja, Vrtovin, Stoma\u017e, Kamnje, or Lokavec.\n"
     },
     "height": 1242,
+    "icon": "peak",
     "lead": "M_2_0264.JPG",
     "maplink": "https://mapzs.pzs.si/poi/1062",
     "name": "Caven",
@@ -4338,6 +4353,7 @@
       "en": null
     },
     "height": 1220,
+    "icon": "peak",
     "lead": "M_010055.JPG",
     "maplink": "https://mapzs.pzs.si/poi/1085",
     "name": "Kum",
@@ -5077,6 +5093,7 @@
       "en": "Kovk is a scenic hilltop at the edge of the Gora plateau high above Vipava valley with fantastic vistas of the valley, Trnovski Gozd, Julian Alps, and the Italian Dolomites.\n"
     },
     "height": 961,
+    "icon": "peak",
     "lead": "M_4_1434.JPG",
     "maplink": "https://mapzs.pzs.si/poi/1288",
     "name": "Kovk",
@@ -5228,6 +5245,7 @@
       "en": null
     },
     "height": 451,
+    "icon": "peak",
     "lead": "M_1_2849.JPG",
     "maplink": "https://mapzs.pzs.si/poi/1656",
     "name": "Lacna",
@@ -5575,6 +5593,7 @@
       "en": null
     },
     "height": 735,
+    "icon": "peak",
     "lead": "M_5-4556_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/5344",
     "name": "Spica",
@@ -6094,6 +6113,7 @@
       "en": null
     },
     "height": 935,
+    "icon": "peak",
     "lead": "M_6_2617.JPG",
     "maplink": "https://mapzs.pzs.si/poi/1326",
     "name": "svJost",
@@ -6312,6 +6332,7 @@
       "sl": "Podgorje je idealno izhodi\u0161\u010de za izlete na Slavnik in raziskovanje vzhodnega dela Kra\u0161kega roba.",
       "en": "Podgorje is the ideal starting point for a quick hike to Slavnik, or for a day-long exploration of eastern parts of Karst edge."
     },
+    "icon": "start",
     "layout": "start",
     "lead": "M_0-4026_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/1531",

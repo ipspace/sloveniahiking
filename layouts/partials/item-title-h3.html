@@ -1,4 +1,5 @@
-<h3 class='post__title ct_{{ .Section }}{{ with .Params.difflevel }} dlv_{{ . }}{{ end }}' itemprop='name headline'>
+<h3 class='post__title ct_{{ .Section }}{{ with .Params.difflevel }} dlv_{{ . }}{{ end }}{{ with .Params.icon }} icon_{{.}}{{ end }}'
+    itemprop='name headline'>
   <a href="{{ .Permalink }}">{{ replace .Title (.Scratch.Get "RemoveFromTitle") "" }}</a>
   {{ if .Draft }}(draft)
   {{ else }}
