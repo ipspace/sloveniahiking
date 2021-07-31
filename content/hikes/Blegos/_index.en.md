@@ -6,6 +6,7 @@ description: 'Blegoš is the highest summit in the Škofja Loka hills and (toget
 
   '
 height: 1562
+icon: peak
 lead: M_4_0469.JPG
 maplink: https://mapzs.pzs.si/poi/4875
 name: Blegos

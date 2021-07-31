@@ -3,6 +3,7 @@ date: 1900-01-01 00:00:00+00:00
 description: Ermanovec je najvišji vrh v grebenu, ki s severo-zahodnega konca zapira
   Poljansko dolino.
 height: 968
+icon: peak
 image:
 - M_4-4463_IMG.JPG
 lead: M_4-4463_IMG.JPG

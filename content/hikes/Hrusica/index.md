@@ -5,6 +5,7 @@ description: 'V gozdovih med Logatcem in Colom boste našli ostanke rimske utrdb
 
   '
 height: 873
+icon: peak
 lead: M_20020916_095733.jpg
 name: Hrusica
 nearby:

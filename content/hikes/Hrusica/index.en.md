@@ -1,6 +1,7 @@
 ---
 date: 1900-01-01 00:00:00+00:00
 height: 873
+icon: peak
 layout: stub
 lead: M_20020916_095733.jpg
 name: Hrusica

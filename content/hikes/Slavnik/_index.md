@@ -4,6 +4,7 @@ description: Slavnik je najbolj obiskan vrh Slavniškega pogorja in eden zadnjih
   pred slovenskim morjem s čudovitim razgledom na Piranski in Tržaški zaliv, Istro
   ter na okoliške vrhove.
 height: 1028
+icon: peak
 image:
 - M_5-3555_IMG.JPG
 - TrnovskiGozd_Nanos.jpg

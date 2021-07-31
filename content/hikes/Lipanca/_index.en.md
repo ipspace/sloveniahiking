@@ -5,6 +5,7 @@ description: 'The route from Rudno polje to Lipanca is an ideal family trip: it 
   ascent on the margin of the Pokljuka plateau, becomes somewhat more diverse and
   ends on the fairly steep grass slopes below Lipanca.'
 height: 1630
+icon: peak
 lead: M_9-5985_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/32992
 name: Lipanca

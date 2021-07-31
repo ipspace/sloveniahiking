@@ -4,6 +4,7 @@ description: Javorč je vrh v pogorju Žirovskega vrha, približno enako oddalje
   Žirov in Gorenje vasi v Poljanski dolini, od koder boste imeli čudovit razgled na
   Škofjeloško hribovje in slovenske Alpe.
 height: 901
+icon: peak
 lead: M_4-4461_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/1368
 name: Javorc

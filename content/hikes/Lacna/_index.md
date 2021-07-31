@@ -5,6 +5,7 @@ description: Tisti, ki ste se odpravili v hrvaško Istro po cesti mimo Buzeta, L
   kilometri ceste proti Hrvaški meji. Z razglednega stolpa na vrhu vas čaka čudovit
   pogled na okoliška hribovja.
 height: 451
+icon: peak
 image:
 - M_1_2849.JPG
 - Panorama_vzhod.jpg

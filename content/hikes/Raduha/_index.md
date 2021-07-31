@@ -3,6 +3,7 @@ date: 1900-01-01 00:00:00+00:00
 description: Z najvišjega vrha vzhodnih Savinjskih Alp vas v lepem vremenu poleg čudovitega
   razgleda čaka tudi nenavaden pogled na Julijske Alpe in Karavanke.
 height: 2062
+icon: peak
 image:
 - M_1-7159_IMG.JPG
 - KolazRazgled.jpg

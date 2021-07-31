@@ -4,6 +4,7 @@ description: On the highest peak of eastern Savinje Alps you'll enjoy a fantasti
   panorama of the surrounding mountains and Logar valley, as well as an interesting
   view of Julian Alps and Karavanke ridge.
 height: 2062
+icon: peak
 lead: M_1-7159_IMG.JPG
 map: 1
 map_path: Loka/

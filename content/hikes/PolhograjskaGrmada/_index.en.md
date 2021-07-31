@@ -1,6 +1,7 @@
 ---
 date: 2003-05-04 00:00:00+00:00
 height: 898
+icon: peak
 layout: stub
 lead: M_0-5040_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/196

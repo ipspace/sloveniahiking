@@ -4,6 +4,7 @@ description: 'If you decide to visit Postojna cave or Predjama castle, drop by G
   or Studeno on the way back and hike to Gora (aka: sv Lovrenc), the highest hilltop
   in the ridge stretching from Planina to Predjama.'
 height: 1019
+icon: peak
 lead: M_1-3162_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/3908
 name: svLovrenc

@@ -4,6 +4,7 @@ description: Kum je eden najlepših in s svojimi 1220 m tudi najvišji vrh zasav
   pogorja. Zgoraj je gol in ob lepem vremenu ponuja odličen razgled na vse strani
   Slovenije.
 height: 1220
+icon: peak
 lead: M_010055.JPG
 maplink: https://mapzs.pzs.si/poi/1085
 name: Kum

@@ -6,6 +6,7 @@ description: 'Kovk is a scenic hilltop at the edge of the Gora plateau high abov
 
   '
 height: 961
+icon: peak
 lead: M_4_1434.JPG
 maplink: https://mapzs.pzs.si/poi/1288
 name: Kovk

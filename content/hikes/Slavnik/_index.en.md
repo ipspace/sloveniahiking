@@ -4,6 +4,7 @@ description: Slavnik is the highest peak of the Slavnik range, the last mountain
   before the gentle slopes of Slovenian Istra. It\'s also the last peak above 1000
   meters visited by the Slovenian Mountain Hiking Trail.
 height: 1028
+icon: peak
 lead: M_5-3555_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/1235
 name: Slavnik

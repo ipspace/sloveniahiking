@@ -1,6 +1,7 @@
 ---
 date: 1900-01-01 00:00:00+00:00
 height: 1666
+icon: peak
 layout: stub
 lead: M_3_1378.JPG
 maplink: https://mapzs.pzs.si/poi/836

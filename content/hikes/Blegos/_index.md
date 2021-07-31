@@ -3,6 +3,7 @@ date: 1900-01-01 00:00:00+00:00
 description: Blegoš je najvišji vrh Škofjeloškega hribovja in (poleg Ratitovca in
   Porezna) eden od »velikih treh« predalpskih vrhov s prekrasnim razgledom.
 height: 1562
+icon: peak
 lead: M_4_0469.JPG
 maplink: https://mapzs.pzs.si/poi/4875
 name: Blegos

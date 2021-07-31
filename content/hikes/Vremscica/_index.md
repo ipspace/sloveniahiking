@@ -3,6 +3,7 @@ date: 2002-09-08 00:00:00+00:00
 description: Vremščica je zelo položna in prijazna gora in kot taka primerna predvsem
   za tiste, ki hodijo v naravo iskat tišino, prijetne sprehode in lepe razglede.
 height: 1027
+icon: peak
 image:
 - M_2-2267_IMG.JPG
 - Vremscica_Razgled.jpg

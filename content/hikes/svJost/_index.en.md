@@ -1,6 +1,7 @@
 ---
 date: 2006-01-15 00:00:00+00:00
 height: 935
+icon: peak
 image:
 - M_6_2617.JPG
 - M_6_2609.JPG

@@ -3,6 +3,7 @@ date: 1900-01-01 00:00:00+00:00
 description: Najbolj izrazit vrh Nanosa je Pleša, ki jo večina izletnikov poistoveti
   s celotnim Nanosom (ko rečemo »gremo na Nanos«, v bistvu mislimo »gremo na Plešo«).
 height: 1262
+icon: peak
 image:
 - M_2_0206.JPG
 - Razgled_Vipava_PF.jpg

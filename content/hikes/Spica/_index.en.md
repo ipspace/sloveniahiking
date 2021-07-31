@@ -1,6 +1,7 @@
 ---
 date: 2003-02-09 00:00:00+00:00
 height: 735
+icon: peak
 image:
 - M_5-4556_IMG.JPG
 - M_2-2210_IMG.JPG

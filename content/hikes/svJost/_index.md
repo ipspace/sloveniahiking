@@ -5,6 +5,7 @@ description: 'Sveti Jošt je priljubljen izletniški cilj na južnem pobočju Š
 
   '
 height: 935
+icon: peak
 image:
 - M_6_2617.JPG
 - M_6_2609.JPG

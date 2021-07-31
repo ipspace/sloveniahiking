@@ -7,6 +7,7 @@ description: "Čaven is a Karst plateau (as well as one of the peaks in that pla
   \ walk along those paths to get to *Koča na Čavnu* (Čaven mountain hut) from Predmeja,\
   \ Vrtovin, Stomaž, Kamnje, or Lokavec.\n"
 height: 1242
+icon: peak
 image:
 - M_2_0264.JPG
 lead: M_2_0264.JPG

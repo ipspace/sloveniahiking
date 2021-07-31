@@ -1,6 +1,7 @@
 ---
 date: 1900-01-01 00:00:00+00:00
 height: 1262
+icon: peak
 image:
 - M_2_0206.JPG
 - Razgled_Vipava_PF.jpg
