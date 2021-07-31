@@ -1,0 +1,8 @@
+{{ partial "header.html" . }}
+INDEX
+{{ $pag := .Paginate .Pages }}
+{{ range $pag.Pages }}
+  {{ partial "post-blurb.html" . }}
+{{ end }}
+{{ partial "post-pagination.html" . }}
+{{ partial "footer.html" . }}

@@ -1,14 +1,10 @@
 ---
 title: Ice Climbing in Mlačca
 date: 2021-02-17 15:10:00
-tags: [ ice climbing ]
+icon: trad
 lead: mlacca-073_7392.jpg
-intro: |
-  The winter of 2021 is weird. After years of warm green winters, we got tons of snow in the mountains. The temperatures are all over the place, from warm fronts peaking at 15°C to bursts of arctic cold air resulting in ridiculous frosts (how about -25°C?)
-
-  Now imagine you just bought a new set of winter gear, and you're desperate to use it, but the continuous avalanche warnings keep you from going high into the mountains.
 description:
-  Climbing a vertical frozen column of water is a must-have experience. Not sure about that? Get an ice climbing instructor or a mountain guide, and try it out in Mlačca gorge.
+  Climbing a vertical column of frozen water is a must-have experience. Not sure about that? Get an ice climbing instructor or a mountain guide, and try it out in Mlačca gorge.
 ---
 Imagine you just bought a new set of winter gear, and you're desperate to use it, but the weather is not playing along. It might be too cold, or there might be too much fresh snow, or there's high avalanche danger...
 
