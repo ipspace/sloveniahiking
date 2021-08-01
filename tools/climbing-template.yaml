@@ -1,0 +1,26 @@
+---
+delta:
+  sample: 540
+duration:
+  sample: 3
+height:
+  sample: 1117
+difficulty:
+  sample: II/I, 500 m
+description:
+  sample: Short description
+icon:
+  sample: trad|climbing
+title:
+  sample: From Here to There and Everywhere
+maplink:
+  sample: https://mapzs.projekti.si/poi/5679
+  inherit: true
+start:
+  sample: 45.792868,14.367291
+  despace: true
+peak:
+  sample: 45.792868,14.367291
+  despace: true
+region:
+  sample: istria

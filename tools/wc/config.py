@@ -18,4 +18,5 @@ config = {
   'HikeUrl': "http://www.zaplana.net/izleti/%s/index.asp?sect=%d%s",
   'HikeImageUrl': "http://www.zaplana.net/izleti/%s/%s",
   'HikeUrlEn': "http://www.zaplana.net/izleti/%s/_en_index.asp?sect=%d%s",
-  "BikeFilePath": "../content/biking" }
+  "BikeFilePath": "../content/biking",
+  "ClimbPath": "../content/climbing" }
