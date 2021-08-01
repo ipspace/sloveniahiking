@@ -4,11 +4,15 @@ peak: 46.356470,14.567886
 height: 2006
 icon: trad
 lead: M_20200930_125746.jpg
+difficulty: |
+  II/I, 500 m\
+  A short crux up to V- if you want to avoid bushwalking
 duration: 6
 delta: 1170
 date: 2021-07-31 13:00:00
 description:
   Veliki Greben is a giant ridge in the heart of the Kamnik Alps. Even though it ends at a popular hiking trail traversing the southern slopes of Skuta (near the [Instagram-famous bivouac](https://www.pd-ljmatica.si/koce/bivak-pod-skuto/)), you are almost guaranteed to climb it in perfect solitude. Combine that with fantastic views from the exposed thin edge you'll be climbing, and you'll get an unforgettable experience.
+region: kamnik-alps
 ---
 {{<hike-details description="yes">}}
 ## Notes

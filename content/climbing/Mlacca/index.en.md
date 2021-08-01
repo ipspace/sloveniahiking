@@ -3,6 +3,7 @@ title: Ice Climbing in Mlačca
 date: 2021-02-17 15:10:00
 icon: trad
 lead: mlacca-073_7392.jpg
+region: gorenjska
 description:
   Climbing a vertical column of frozen water is a must-have experience. Not sure about that? Get an ice climbing instructor or a mountain guide, and try it out in Mlačca gorge.
 ---
