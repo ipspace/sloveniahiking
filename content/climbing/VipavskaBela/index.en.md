@@ -19,7 +19,7 @@ title: Vipavska Bela
 
 Rock climbing is not something you do after watching YouTube videos. If you're not an experienced rock climber, get professional help; there are dozens of [licensed mountain guides](https://zgvs.si/en/mountain-guide/) in Slovenia. 
 
-I can highly recommend Gregor Šeliga or [Tina di Batista](http://zgvs.si/vodnik/?id=244), and the receptionist at [Camp Tura](https://www.kamp-tura.si/) might have a few more suggestions.
+I can highly recommend [Gregor Šeliga](https://www.facebook.com/gregor.seliga) or [Tina di Batista](http://zgvs.si/vodnik/?id=244), and the receptionist at [Camp Tura](https://www.kamp-tura.si/) might have a few more suggestions.
 
 ### A Few Notes
 
