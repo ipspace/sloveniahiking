@@ -2,7 +2,7 @@
 title: Zaplana.net se je preselila
 date: 2021-02-14 15:10:00
 ---
-Po skoraj dvajsetih letih obstoja in vsaj desetih letih počitka se Zaplana.net seli na novo lokacijo -- večino vsebine boste našli na *[Pohajkovanjih po Sloveniji](https://sloveniahiking.rocks/start.si.html)*.
+Po skoraj dvajsetih letih obstoja in vsaj desetih letih počitka se Zaplana.net seli na novo lokacijo -- večino vsebine boste našli na *[Pohajkovanjih po Sloveniji](https://sloveniahiking.rocks/top/)*.
 <!--more-->
 ### Zakaj smo se preselili?
 
