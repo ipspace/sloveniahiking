@@ -2755,6 +2755,7 @@ Grid Layout Styles
   @media (min-width: 768px) {
     .post__blurb .blurb__thumb {
       max-width: 25%;
+      min-width: 25%;
       max-height: calc(25vw - 1em);
       padding-left: 1em;
       order: 99;
