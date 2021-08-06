@@ -12,7 +12,7 @@ nearby:
 - /hikes/krim
 - /hikes/slivnica
 - /hikes/planinskagora
-- /hikes/oblenk
+- /biking/planinskagorabiking
 peak: 45.880956,14.369589
 region: notranjska
 start: 45.890566,14.371874

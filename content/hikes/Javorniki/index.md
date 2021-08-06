@@ -14,9 +14,9 @@ name: Javorniki
 nearby:
 - /hikes/svetatrojica
 - /hikes/slivnica
+- /biking/planinskagorabiking
 - /hikes/planinskagora
 - /hikes/oblenk
-- /hikes/svlovrenc
 peak: 45.758005,14.295063
 region: primorska
 start: 45.788505,14.297555

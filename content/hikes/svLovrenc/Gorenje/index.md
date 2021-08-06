@@ -18,7 +18,7 @@ nearby:
 - /hikes/oblenk
 - /hikes/hrusica
 - /biking/hrusicapolsak
-- /hikes/planinskagora
+- /biking/planinskagorabiking
 peak: 45.839190,14.168374
 region: notranjska
 start: 45.835079,14.154237

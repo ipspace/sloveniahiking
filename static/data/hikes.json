@@ -2699,11 +2699,11 @@
     "maplink": "https://mapzs.pzs.si/path/31616",
     "name": "PlaninskaGora",
     "nearby": [
+      "/biking/planinskagorabiking",
       "/hikes/oblenk",
       "/hikes/svlovrenc",
       "/biking/hrusicapolsak",
-      "/hikes/hrusica",
-      "/hikes/javorniki"
+      "/hikes/hrusica"
     ],
     "peak": "45.837401,14.233887",
     "region": "notranjska",
@@ -3013,7 +3013,7 @@
       "/hikes/oblenk",
       "/hikes/hrusica",
       "/biking/hrusicapolsak",
-      "/hikes/planinskagora"
+      "/biking/planinskagorabiking"
     ],
     "peak": "45.839190,14.168374",
     "region": "notranjska",
@@ -3043,9 +3043,9 @@
     "nearby": [
       "/hikes/svlovrenc",
       "/hikes/oblenk",
+      "/biking/planinskagorabiking",
       "/hikes/planinskagora",
-      "/biking/hrusicapolsak",
-      "/hikes/hrusica"
+      "/biking/hrusicapolsak"
     ],
     "path": "http://www.hribi.net/izlet/studeno_gora_sveti_lovrenc_/26/804/1432",
     "peak": "45.839000,14.167335",
@@ -3076,9 +3076,9 @@
     "nearby": [
       "/hikes/oblenk",
       "/biking/hrusicapolsak",
+      "/biking/planinskagorabiking",
       "/hikes/planinskagora",
-      "/hikes/hrusica",
-      "/hikes/svduh_podkraj"
+      "/hikes/hrusica"
     ],
     "peak": "45.839190,14.168374",
     "region": "notranjska",
@@ -3775,7 +3775,7 @@
       "/hikes/krim",
       "/hikes/slivnica",
       "/hikes/planinskagora",
-      "/hikes/oblenk"
+      "/biking/planinskagorabiking"
     ],
     "peak": "45.880956,14.369589",
     "region": "notranjska",
@@ -4414,11 +4414,11 @@
     "maplink": "https://mapzs.pzs.si/poi/5751",
     "name": "Oblenk",
     "nearby": [
+      "/biking/planinskagorabiking",
       "/hikes/planinskagora",
       "/hikes/svlovrenc",
       "/biking/hrusicapolsak",
-      "/hikes/hrusica",
-      "/hikes/javorniki"
+      "/hikes/hrusica"
     ],
     "peak": "45.834089,14.213203",
     "region": "notranjska",
@@ -5630,9 +5630,9 @@
     "nearby": [
       "/hikes/svetatrojica",
       "/hikes/slivnica",
+      "/biking/planinskagorabiking",
       "/hikes/planinskagora",
-      "/hikes/oblenk",
-      "/hikes/svlovrenc"
+      "/hikes/oblenk"
     ],
     "peak": "45.758005,14.295063",
     "region": "primorska",
@@ -6368,9 +6368,9 @@
     "nearby": [
       "/hikes/javorniki",
       "/hikes/slivnica",
+      "/biking/planinskagorabiking",
       "/hikes/planinskagora",
-      "/hikes/oblenk",
-      "/biking/volovjareber"
+      "/hikes/oblenk"
     ],
     "peak": "45.724803,14.271539",
     "region": "notranjska",
@@ -6485,6 +6485,37 @@
       "sl": "Krvavica",
       "en": "Krvavica"
     }
+  },
+  {
+    "date": "2021-08-06 16:14:34+00:00",
+    "delta": 450,
+    "description": {
+      "en": "While hiking towards Saint Mary''s church\non Planinska Gora, I thought to myself: \"*this should be doable on a bike.*\" \n\nA few months later, I decided to test that hypothesis (TL&DR: barely) and found an unexpected\ndirt trail.\n"
+    },
+    "difficulty": "A mix of steep asphalt and gravel roads, with an optional singletrack descent",
+    "difflevel": 3,
+    "duration": 2,
+    "height": 900,
+    "layout": "structured",
+    "lead": "M_20210806_094644.jpg",
+    "length": 12.1,
+    "maplink": "https://mapzs.pzs.si/poi/346",
+    "name": "PlaninskaGoraBiking",
+    "nearby": [
+      "/hikes/planinskagora",
+      "/hikes/oblenk",
+      "/hikes/svlovrenc",
+      "/biking/hrusicapolsak",
+      "/hikes/hrusica"
+    ],
+    "region": "notranjska",
+    "start": "45.823082,14.244940",
+    "title": {
+      "en": "Planinska Gora (on a Bike)"
+    },
+    "video": "https://www.relive.cc/view/vWqBrnmeAYq/",
+    "type": "biking",
+    "center": "45.832405,14.226092"
   },
   {
     "date": "2021-04-20 16:14:45+00:00",
@@ -6738,8 +6769,8 @@
       "/hikes/svlovrenc",
       "/hikes/oblenk",
       "/hikes/planinskagora",
-      "/hikes/hrusica",
-      "/biking/zibrse"
+      "/biking/planinskagorabiking",
+      "/hikes/hrusica"
     ],
     "region": "notranjska",
     "start": "45.894845,14.189669",

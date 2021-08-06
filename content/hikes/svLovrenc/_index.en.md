@@ -11,9 +11,9 @@ name: svLovrenc
 nearby:
 - /hikes/oblenk
 - /biking/hrusicapolsak
+- /biking/planinskagorabiking
 - /hikes/planinskagora
 - /hikes/hrusica
-- /hikes/svduh_podkraj
 peak: 45.839190,14.168374
 region: notranjska
 title: St. Lovrenc near Postojna

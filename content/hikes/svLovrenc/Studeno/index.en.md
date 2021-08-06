@@ -19,9 +19,9 @@ name: Studeno
 nearby:
 - /hikes/svlovrenc
 - /hikes/oblenk
+- /biking/planinskagorabiking
 - /hikes/planinskagora
 - /biking/hrusicapolsak
-- /hikes/hrusica
 peak: 45.839000,14.167335
 region: notranjska
 start: 45.826682,14.174066
