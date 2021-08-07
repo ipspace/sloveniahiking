@@ -2541,6 +2541,7 @@
     "name": "svAhac",
     "nearby": [
       "/hikes/krim",
+      "/biking/slivnicabiking",
       "/hikes/slivnica"
     ],
     "peak": "45.893531,14.605998",
@@ -3164,8 +3165,8 @@
       "/hikes/borovniski_pekel",
       "/hikes/pokojisce",
       "/hikes/svahac",
-      "/hikes/slivnica",
-      "/hikes/kuren"
+      "/biking/slivnicabiking",
+      "/hikes/slivnica"
     ],
     "peak": "45.928570,14.471184",
     "photo_author": "Mojca_Lustrek",
@@ -3774,8 +3775,8 @@
       "/hikes/pokojisce",
       "/hikes/krim",
       "/hikes/slivnica",
-      "/hikes/planinskagora",
-      "/biking/planinskagorabiking"
+      "/biking/slivnicabiking",
+      "/hikes/planinskagora"
     ],
     "peak": "45.880956,14.369589",
     "region": "notranjska",
@@ -5630,9 +5631,9 @@
     "nearby": [
       "/hikes/svetatrojica",
       "/hikes/slivnica",
+      "/biking/slivnicabiking",
       "/biking/planinskagorabiking",
-      "/hikes/planinskagora",
-      "/hikes/oblenk"
+      "/hikes/planinskagora"
     ],
     "peak": "45.758005,14.295063",
     "region": "primorska",
@@ -5656,11 +5657,11 @@
     "maplink": "https://mapzs.pzs.si/poi/5679",
     "name": "Slivnica",
     "nearby": [
+      "/biking/slivnicabiking",
       "/hikes/javorniki",
       "/hikes/borovniski_pekel",
       "/hikes/pokojisce",
-      "/hikes/svetatrojica",
-      "/hikes/planinskagora"
+      "/hikes/svetatrojica"
     ],
     "peak": "45.7899991,14.3990229",
     "region": "notranjska",
@@ -6370,7 +6371,7 @@
       "/hikes/slivnica",
       "/biking/planinskagorabiking",
       "/hikes/planinskagora",
-      "/hikes/oblenk"
+      "/biking/slivnicabiking"
     ],
     "peak": "45.724803,14.271539",
     "region": "notranjska",
@@ -6516,6 +6517,37 @@
     "video": "https://www.relive.cc/view/vWqBrnmeAYq/",
     "type": "biking",
     "center": "45.832405,14.226092"
+  },
+  {
+    "date": "2021-08-07 15:44:32+00:00",
+    "delta": 580,
+    "description": {
+      "en": "If you'd like to enjoy the view of Lake Cerknica and don't feel like hiking to Slivnica, use the gravel road to bike there. Be careful on summer weekends -- some people think that \"*spending a day in nature*\" means \"*drive to the mountain* *hut and have a beer,*\" and many of them haven't yet mastered the art of driving on a gravel road."
+    },
+    "difficulty": "Occasionally steep gravel road",
+    "difflevel": 2,
+    "duration": 3,
+    "height": 1114,
+    "layout": "structured",
+    "lead": "M_20210807_101019.jpg",
+    "length": 23.4,
+    "maplink": "https://mapzs.pzs.si/poi/5679",
+    "name": "SlivnicaBiking",
+    "nearby": [
+      "/hikes/slivnica",
+      "/hikes/javorniki",
+      "/hikes/borovniski_pekel",
+      "/hikes/pokojisce",
+      "/hikes/svetatrojica"
+    ],
+    "region": "notranjska",
+    "start": "45.792868,14.367291",
+    "title": {
+      "en": "Slivnica (on a Bike)"
+    },
+    "video": "https://www.relive.cc/view/v4OGEowR15q/",
+    "type": "biking",
+    "center": "45.790597,14.407820"
   },
   {
     "date": "2021-04-20 16:14:45+00:00",
