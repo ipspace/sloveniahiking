@@ -10,11 +10,11 @@ map: 1
 maplink: https://mapzs.pzs.si/poi/35964
 name: Rodne
 nearby:
+- /biking/zakojca
 - /hikes/sebrelje
 - /hikes/kojca
 - /hikes/porezen
 - /hikes/skrbinakuk
-- /hikes/bevkovvrh
 peak: 46.130969,13.927604
 region: primorska
 start: 46.117423,13.921578

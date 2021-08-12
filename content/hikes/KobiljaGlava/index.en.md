@@ -14,7 +14,7 @@ nearby:
 - /hikes/vogelvrh
 - /hikes/vogel
 - /hikes/kojca
-- /hikes/crnaprst
+- /biking/zakojca
 peak: 46.190011,13.795463
 region: julian-alps
 start: 46.190533,13.782526

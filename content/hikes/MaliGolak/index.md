@@ -21,9 +21,9 @@ name: MaliGolak
 nearby:
 - /hikes/dolskimaj
 - /hikes/caven
+- /biking/vojsko
 - /hikes/kucelj
 - /hikes/malagora
-- /hikes/velikirob
 peak: 45.978565,13.864346
 region: primorska
 title: Mali Golak

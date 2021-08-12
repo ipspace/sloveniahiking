@@ -24,7 +24,7 @@ nearby:
 - /hikes/kovk
 - /hikes/soncnica
 - /hikes/hrusica
-- /hikes/plaz
+- /biking/zadlog
 region: primorska
 start: 45.881890,14.000828
 title: Križna Gora and Javornik

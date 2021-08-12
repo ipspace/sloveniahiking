@@ -29,10 +29,10 @@ maplink: https://mapzs.pzs.si/poi/5098
 name: Porezen
 nearby:
 - /hikes/kojca
+- /biking/zakojca
 - /hikes/rodne
 - /hikes/crnivrhcerkno
 - /hikes/crnaprst
-- /hikes/sebrelje
 peak: 46.177165,13.974299
 region: primorska
 start: 46.156137,13.944936

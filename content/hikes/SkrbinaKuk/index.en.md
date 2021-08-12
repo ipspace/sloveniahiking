@@ -23,9 +23,9 @@ name: SkrbinaKuk
 nearby:
 - /hikes/sebrelje
 - /hikes/rodne
+- /biking/zakojca
 - /hikes/kojca
-- /hikes/bevkovvrh
-- /hikes/kobiljaglava
+- /biking/vojsko
 peak: 46.092487,13.853752
 region: primorska
 title: Škrbina and Kuk
