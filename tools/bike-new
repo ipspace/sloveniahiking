@@ -24,6 +24,12 @@ def new_biking_tour(path,template):
   print("Enter English data for new biking tour %s" % path)
   print("=" * 80)
   page = { 'name': path, 'date': datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'layout': 'structured' }
+  page['markdown'] = '''
+{{<hike-details description="yes">}}
+
+## Notes
+
+'''
   wc.data_update.update_items(page=page,parent_page=None,template=template,lang="en")
   cm.write.create_output_file(data=page,target_path=path,name="index.en")
 

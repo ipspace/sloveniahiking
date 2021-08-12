@@ -24,7 +24,7 @@ def new_climb(path,template):
   print("Enter English data for new climb %s" % path)
   print("=" * 80)
   page = { 'name': path, 'date': datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'layout': 'structured' }
-  page['text'] = '''
+  page['markdown'] = '''
 {{<hike-details description="yes">}}
 
 ## Notes

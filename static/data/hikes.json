@@ -401,9 +401,9 @@
     "nearby": [
       "/hikes/sebrelje",
       "/hikes/rodne",
+      "/biking/zakojca",
       "/hikes/kojca",
-      "/hikes/bevkovvrh",
-      "/hikes/kobiljaglava"
+      "/biking/vojsko"
     ],
     "peak": "46.092487,13.853752",
     "region": "primorska",
@@ -796,9 +796,9 @@
     "nearby": [
       "/hikes/dolskimaj",
       "/hikes/caven",
+      "/biking/vojsko",
       "/hikes/kucelj",
-      "/hikes/malagora",
-      "/hikes/velikirob"
+      "/hikes/malagora"
     ],
     "peak": "45.978565,13.864346",
     "region": "primorska",
@@ -1247,10 +1247,10 @@
     "name": "Sebrelje",
     "nearby": [
       "/hikes/rodne",
+      "/biking/zakojca",
       "/hikes/kojca",
       "/hikes/skrbinakuk",
-      "/hikes/bevkovvrh",
-      "/hikes/porezen"
+      "/hikes/bevkovvrh"
     ],
     "peak": "46.110149,13.917076",
     "region": "primorska",
@@ -1427,11 +1427,11 @@
     "maplink": "https://mapzs.pzs.si/poi/278",
     "name": "HleviskePlanine",
     "nearby": [
+      "/biking/zadlog",
+      "/biking/vojsko",
       "/hikes/vrsnik_ziri",
       "/hikes/mrzlivrh_ziri",
-      "/hikes/dolskimaj",
-      "/hikes/otliskookno",
-      "/hikes/maligolak"
+      "/hikes/dolskimaj"
     ],
     "peak": "45.987225,13.995846",
     "region": "primorska",
@@ -1457,10 +1457,10 @@
     "name": "Porezen",
     "nearby": [
       "/hikes/kojca",
+      "/biking/zakojca",
       "/hikes/rodne",
       "/hikes/crnivrhcerkno",
-      "/hikes/crnaprst",
-      "/hikes/sebrelje"
+      "/hikes/crnaprst"
     ],
     "peak": "46.177165,13.974299",
     "region": "primorska",
@@ -1576,7 +1576,7 @@
       "/hikes/vogelvrh",
       "/hikes/vogel",
       "/hikes/kojca",
-      "/hikes/crnaprst"
+      "/biking/zakojca"
     ],
     "peak": "46.190011,13.795463",
     "region": "julian-alps",
@@ -3341,11 +3341,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1026",
     "name": "Kojca",
     "nearby": [
+      "/biking/zakojca",
       "/hikes/rodne",
       "/hikes/porezen",
       "/hikes/sebrelje",
-      "/hikes/crnaprst",
-      "/hikes/skrbinakuk"
+      "/hikes/crnaprst"
     ],
     "peak": "46.153889,13.926612",
     "region": "primorska",
@@ -3716,11 +3716,11 @@
     "maplink": "https://mapzs.pzs.si/poi/35964",
     "name": "Rodne",
     "nearby": [
+      "/biking/zakojca",
       "/hikes/sebrelje",
       "/hikes/kojca",
       "/hikes/porezen",
-      "/hikes/skrbinakuk",
-      "/hikes/bevkovvrh"
+      "/hikes/skrbinakuk"
     ],
     "peak": "46.130969,13.927604",
     "region": "primorska",
@@ -6664,6 +6664,37 @@
     "type": "biking"
   },
   {
+    "date": "2021-08-12 17:17:28+00:00",
+    "delta": 450,
+    "description": {
+      "en": "Zadlog is a dispersed settlement stretched across a fairy-tale flatland high above the upper Idrijca Valley. We'll start at Wild Lake, use an old road supposedly built during the Napoleonic occupation of Slovenia, and return via the scenic Strug gorge."
+    },
+    "difficulty": "A mix of reasonably steep asphalt and gravel roads",
+    "difflevel": 2,
+    "duration": 2,
+    "height": 733,
+    "layout": "structured",
+    "lead": "M_20210812_104910.jpg",
+    "length": 22.4,
+    "maplink": "https://mapzs.pzs.si/poi/1603",
+    "name": "Zadlog",
+    "nearby": [
+      "/hikes/hleviskeplanine",
+      "/biking/kriznagorajavornik",
+      "/biking/vojsko",
+      "/hikes/vrsnik_ziri",
+      "/hikes/kovk"
+    ],
+    "region": "primorska",
+    "start": "45.982522,14.027454",
+    "title": {
+      "en": "Zadlog from Wild Lake"
+    },
+    "video": "https://www.relive.cc/view/vevYxxn9dJq/",
+    "type": "biking",
+    "center": "45.964085,14.015358"
+  },
+  {
     "date": "2021-04-22 10:14:27+00:00",
     "delta": 520,
     "description": {
@@ -7010,6 +7041,37 @@
     "center": "45.970724,14.191475"
   },
   {
+    "date": "2021-08-12 17:01:07+00:00",
+    "delta": 640,
+    "description": {
+      "en": "Vojsko is a high, densely forested karst plateau with one of the highest-lying settlements in Slovenia. You could bike around the Vojsko and admire the people who made their living in that harsh environment for centuries or enjoy the views while biking to Vojsko from Idrija, Spodnja Idrija, Idrijska Bela, Gorenja Trebu\u0161a, or \u010cekovnik."
+    },
+    "difficulty": "Moderately steep asphalt roads. Gravel road between Mrzla Rupa and Vojsko.",
+    "difflevel": 3,
+    "duration": 3,
+    "height": 1108,
+    "layout": "structured",
+    "lead": "M_20210811_103140.jpg",
+    "length": 24.1,
+    "maplink": "https://mapzs.pzs.si/poi/5157",
+    "name": "Vojsko",
+    "nearby": [
+      "/hikes/hleviskeplanine",
+      "/hikes/maligolak",
+      "/biking/zadlog",
+      "/hikes/dolskimaj",
+      "/hikes/otliskookno"
+    ],
+    "region": "primorska",
+    "start": "45.981987,13.973719",
+    "title": {
+      "en": "Vojsko from \u010cekovnik"
+    },
+    "video": "https://www.relive.cc/view/vdvmdd5eDxq/",
+    "type": "biking",
+    "center": "46.002824,13.927546"
+  },
+  {
     "date": "2021-04-20 16:47:28+00:00",
     "delta": 470,
     "description": {
@@ -7041,6 +7103,37 @@
     "center": "45.973357,14.207557"
   },
   {
+    "date": "2021-08-12 16:09:10+00:00",
+    "delta": 640,
+    "description": {
+      "en": "Zakojca is a tiny village on the northern slopes of Kojca with a beautiful view of the southern peaks of the Julian Alps. Starting from Idrijca valley, you could get there on an asphalt road via Bukovo or (more interestingly) via Vrh Ravni pass."
+    },
+    "difficulty": "Steep asphalt road",
+    "difflevel": 3,
+    "duration": 3,
+    "height": 723,
+    "layout": "structured",
+    "lead": "M_20210810_120350.jpg",
+    "length": 24.8,
+    "maplink": "https://mapzs.pzs.si/poi/5108",
+    "name": "Zakojca",
+    "nearby": [
+      "/hikes/rodne",
+      "/hikes/kojca",
+      "/hikes/sebrelje",
+      "/hikes/porezen",
+      "/hikes/skrbinakuk"
+    ],
+    "region": "primorska",
+    "start": "46.117423,13.921578",
+    "title": {
+      "en": "Zakojca from Idrijca Valley"
+    },
+    "video": "https://www.relive.cc/view/vPOpddZ9EEO/",
+    "type": "biking",
+    "center": "46.139845,13.922310"
+  },
+  {
     "date": "2021-06-27 14:34:27+00:00",
     "delta": 790,
     "description": {
@@ -7060,7 +7153,7 @@
       "/hikes/kovk",
       "/hikes/soncnica",
       "/hikes/hrusica",
-      "/hikes/plaz"
+      "/biking/zadlog"
     ],
     "region": "primorska",
     "start": "45.881890,14.000828",
