@@ -1,0 +1,86 @@
+#!/usr/bin/env python3
+#
+import sys
+import os
+import yaml
+import argparse
+
+import yaml
+import gpxpy
+import gpxpy.gpx
+
+import cm.read
+import cm.write
+
+from wc.config import config
+
+def parse_cli():
+  parser = argparse.ArgumentParser(description='Extract hike/bike data from GPX file')
+  parser.add_argument(dest='input',action='store',help='Input GPX file')
+  parser.add_argument(dest='output',action='store',nargs='?',default='index.en.md',help='Output Markdown file')
+  return parser.parse_args()
+
+def extract_gpx_data(gpx_path: str) -> dict:
+  try:
+    with open(gpx_path,'r') as gpxfile:
+      try:
+        gpx = gpxpy.parse(gpxfile)
+        gpxfile.close()
+      except:
+        print("Cannot parse the GPX file: %s" % sys.exc_info[1])
+  except:
+    print("Cannot open %s: %s" % (gpx_path,sys.exc_info[1]))
+
+  data = {
+    'duration': 0,
+    'length': 0,
+    'height': 0,
+    'delta': 0
+  }
+
+  p_elev = None
+
+  for t in gpx.tracks:
+    moving = t.get_moving_data()
+    data['duration'] = data['duration'] + moving.moving_time / 3600
+    data['length'] = data['length'] + t.length_2d() / 1000
+    data['height'] = max(data['height'],t.get_elevation_extremes().maximum)
+    for s in t.segments:
+      for p in s.points:
+        if p_elev is None:
+          p_elev = p.elevation
+        elif p.elevation:
+          if p.elevation > p_elev + 3:
+            data['delta'] = data['delta'] + p.elevation - p_elev
+          if abs(p.elevation - p_elev) > 3:
+            p_elev = p.elevation
+#        if not min_time:
+#          min_time = p['timestamp']
+#        max_time = p['timestamp']
+#        if not elevation or p.elevation > elevation:
+#          elevation = p.elevation
+
+  data['length'] = round(data['length'],1)
+  data['duration'] = round(data['duration'] + 0.5)
+  data['height'] = int(data['height'])
+  data['delta'] = int(data['delta'])
+  return data
+
+args = parse_cli()
+
+try:
+  page = cm.read.page(args.output)
+except:
+  print("Cannot read Markdown file %s: %s" % (args.output,sys.exc_info[1]))
+page_dump = yaml.dump(page)
+
+d = extract_gpx_data(args.input)
+print('Extracted GPX data: %s' % d)
+for (k,v) in d.items():
+  if not k in page:
+    page[k] = v
+    print("Setting %s to %s" % (k,v))
+
+if yaml.dump(page) != page_dump:
+  print("%s changed based on information in %s, updating..." % (args.output,args.input))
+  cm.write.create_output_file(page,file_path=args.output)
