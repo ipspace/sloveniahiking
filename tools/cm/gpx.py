@@ -97,7 +97,8 @@ def sync_gpx_data(gpx_path):
   if gpx_info['delta_lat'] < 0.011 and gpx_info['delta_lon'] < 0.0240:
     page['gpx']['zoom'] = 15
 
-##  print("%s - %.6f %.6f" % (index_name,gpx_info['delta_lat'],gpx_info['delta_lon']))
+  if gpx_info['delta_lat'] > 0.05 or gpx_info['delta_lon'] > 0.12:
+    page['gpx']['zoom'] = 12
 
   if yaml.dump(page) != page_dump:
     print("Page changed based on information in %s, updating..." % gpx_path)
