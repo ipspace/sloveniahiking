@@ -6,7 +6,7 @@ description: Vratca so izrazit stolp nad Češko kočo do katerega vodi zanimiv 
 difficulty: Po kratkem vzponu čez melišče vas čaka dobro zavarovano poplezavanje po
   krušljivi grapi
 difflevel: 3
-duration: 4
+duration: 4.5
 gpx:
   center:
     lat: 46.37635888458665
