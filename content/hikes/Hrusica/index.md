@@ -13,7 +13,7 @@ nearby:
 - /hikes/svlovrenc
 - /biking/hrusicapolsak
 - /biking/kriznagorajavornik
-- /hikes/suhivrh
+- /biking/vrhpoljeabram
 peak: 45.863474,14.111302
 region: primorska
 title: Stara pošta na Hrušici

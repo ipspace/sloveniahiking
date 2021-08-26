@@ -1178,9 +1178,9 @@
     "nearby": [
       "/hikes/svmiklavz_vipava",
       "/hikes/plaz",
+      "/biking/vrhpoljeabram",
       "/biking/podnanossocerb",
-      "/hikes/soncnica",
-      "/hikes/kovk"
+      "/hikes/soncnica"
     ],
     "peak": "45.829279,13.979692",
     "region": "vipava",
@@ -1915,9 +1915,9 @@
     "nearby": [
       "/hikes/gradiskatura",
       "/hikes/svmiklavz_vipava",
+      "/biking/vrhpoljeabram",
       "/hikes/soncnica",
-      "/hikes/kovk",
-      "/biking/podnanossocerb"
+      "/hikes/kovk"
     ],
     "peak": "45.842405,13.972171",
     "region": "vipava",
@@ -2384,10 +2384,10 @@
     "name": "Nanos/Abram",
     "nearby": [
       "/hikes/svmiklavz_vipava",
+      "/biking/vrhpoljeabram",
       "/hikes/gradiskatura",
       "/hikes/suhivrh",
-      "/hikes/plaz",
-      "/hikes/nanos"
+      "/hikes/plaz"
     ],
     "peak": "45.772613,14.053047",
     "region": "vipava",
@@ -3665,7 +3665,7 @@
       "/hikes/svlovrenc",
       "/biking/hrusicapolsak",
       "/biking/kriznagorajavornik",
-      "/hikes/suhivrh"
+      "/biking/vrhpoljeabram"
     ],
     "peak": "45.863474,14.111302",
     "region": "primorska",
@@ -3863,10 +3863,10 @@
     "name": "SuhiVrh",
     "nearby": [
       "/hikes/nanos",
+      "/biking/vrhpoljeabram",
       "/hikes/svmiklavz_vipava",
       "/hikes/gradiskatura",
-      "/hikes/hrusica",
-      "/hikes/svduh_podkraj"
+      "/hikes/hrusica"
     ],
     "peak": "45.798405,14.066979",
     "photo_author": "Mojca_Lustrek",
@@ -5076,7 +5076,7 @@
       "/hikes/kovk",
       "/hikes/starababa",
       "/hikes/plaz",
-      "/hikes/otliskookno"
+      "/biking/vrhpoljeabram"
     ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
@@ -5134,8 +5134,8 @@
       "/hikes/kovk",
       "/hikes/soncnica",
       "/biking/kriznagorajavornik",
-      "/hikes/plaz",
-      "/hikes/svduh_podkraj"
+      "/biking/vrhpoljeabram",
+      "/hikes/plaz"
     ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
@@ -5163,9 +5163,9 @@
     "nearby": [
       "/hikes/gradiskatura",
       "/hikes/plaz",
+      "/biking/vrhpoljeabram",
       "/biking/podnanossocerb",
-      "/hikes/suhivrh",
-      "/hikes/soncnica"
+      "/hikes/suhivrh"
     ],
     "peak": "45.819506,13.982114",
     "region": "vipava",
@@ -5849,7 +5849,7 @@
       "/hikes/starababa",
       "/hikes/plaz",
       "/hikes/otliskookno",
-      "/biking/kriznagorajavornik"
+      "/biking/vrhpoljeabram"
     ],
     "path": "../kovk/budanje",
     "peak": "45.886711,13.960029",
@@ -6246,9 +6246,9 @@
     "nearby": [
       "/biking/kriznagorajavornik",
       "/hikes/hrusica",
+      "/biking/vrhpoljeabram",
       "/hikes/kovk",
-      "/hikes/plaz",
-      "/hikes/gradiskatura"
+      "/hikes/plaz"
     ],
     "peak": "45.871767,14.062456",
     "region": "primorska",
@@ -6628,8 +6628,8 @@
       "/hikes/svmiklavz_vipava",
       "/hikes/gradiskatura",
       "/hikes/plaz",
-      "/hikes/nanos",
-      "/hikes/suhivrh"
+      "/biking/vrhpoljeabram",
+      "/hikes/nanos"
     ],
     "region": "vipava",
     "start": "45.797329,13.972231",
@@ -6907,6 +6907,37 @@
     "center": "45.942805,14.165148"
   },
   {
+    "date": "2021-08-26 16:06:19+00:00",
+    "delta": 830,
+    "description": {
+      "en": "Two roads lead from Sanabor (a hamlet on the western slopes of Nanos plateau) to Abram (one of the few still-active homesteads): a pleasantly cool gravel road along the Bela stream and a sunny asphalt road going straight from Sanabor to Abram."
+    },
+    "difficulty": "A mix of somewhat steep asphalt and gravel roads",
+    "difflevel": 3,
+    "duration": 3.5,
+    "height": 1015,
+    "layout": "structured",
+    "lead": "M_20210826_112747.jpg",
+    "length": 22.9,
+    "maplink": "https://mapzs.pzs.si/poi/1365",
+    "name": "VrhpoljeAbram",
+    "nearby": [
+      "/hikes/plaz",
+      "/hikes/gradiskatura",
+      "/hikes/svmiklavz_vipava",
+      "/hikes/svduh_podkraj",
+      "/hikes/kovk"
+    ],
+    "region": "vipava",
+    "start": "45.872902,13.972551",
+    "title": {
+      "en": "Abram (Nanos) from Vrhpolje"
+    },
+    "video": "https://www.relive.cc/view/vmqXXwrkVoq/",
+    "type": "biking",
+    "center": "45.848151,14.012212"
+  },
+  {
     "date": "2021-06-01 09:07:16+00:00",
     "delta": 160,
     "description": {
@@ -7151,9 +7182,9 @@
     "nearby": [
       "/hikes/svduh_podkraj",
       "/hikes/kovk",
+      "/biking/vrhpoljeabram",
       "/hikes/soncnica",
-      "/hikes/hrusica",
-      "/biking/zadlog"
+      "/hikes/hrusica"
     ],
     "region": "primorska",
     "start": "45.881890,14.000828",

@@ -25,8 +25,8 @@ nearby:
 - /hikes/svmiklavz_vipava
 - /hikes/gradiskatura
 - /hikes/plaz
+- /biking/vrhpoljeabram
 - /hikes/nanos
-- /hikes/suhivrh
 region: vipava
 start: 45.797329,13.972231
 title: Vipavska Brda (Vipava Hills) from Podnanos

@@ -21,10 +21,10 @@ multipath: true
 name: Nanos/Abram
 nearby:
 - /hikes/svmiklavz_vipava
+- /biking/vrhpoljeabram
 - /hikes/gradiskatura
 - /hikes/suhivrh
 - /hikes/plaz
-- /hikes/nanos
 peak: 45.772613,14.053047
 region: vipava
 start: 45.819912,14.019444

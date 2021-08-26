@@ -22,9 +22,9 @@ name: KriznaGoraJavornik
 nearby:
 - /hikes/svduh_podkraj
 - /hikes/kovk
+- /biking/vrhpoljeabram
 - /hikes/soncnica
 - /hikes/hrusica
-- /biking/zadlog
 region: primorska
 start: 45.881890,14.000828
 title: Križna Gora and Javornik

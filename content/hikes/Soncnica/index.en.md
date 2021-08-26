@@ -24,7 +24,7 @@ nearby:
 - /hikes/starababa
 - /hikes/plaz
 - /hikes/otliskookno
-- /biking/kriznagorajavornik
+- /biking/vrhpoljeabram
 peak: 45.886711,13.960029
 region: vipava
 start: 45.879298,13.959525

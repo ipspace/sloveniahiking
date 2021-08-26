@@ -25,7 +25,7 @@ nearby:
 - /hikes/kovk
 - /hikes/starababa
 - /hikes/plaz
-- /hikes/otliskookno
+- /biking/vrhpoljeabram
 peak: 45.887981,13.969153
 region: vipava
 start: 45.879299,13.959613

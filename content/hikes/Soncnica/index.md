@@ -26,7 +26,7 @@ nearby:
 - /hikes/starababa
 - /hikes/plaz
 - /hikes/otliskookno
-- /biking/kriznagorajavornik
+- /biking/vrhpoljeabram
 path: ../kovk/budanje
 peak: 45.886711,13.960029
 region: vipava
