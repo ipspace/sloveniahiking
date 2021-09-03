@@ -8,6 +8,7 @@ from wc.config import config
 import sys
 import os
 import yaml
+import glob
 import argparse
 import readline
 import datetime
@@ -48,9 +49,12 @@ template = wc.data_update.read_template(args.template,search_path=[os.path.dirna
 os.chdir(os.path.dirname(__file__)+"/"+config['ExFilePath'])
 hike_name = args.hike[0]
 
-if os.path.exists(hike_name):
-  print("Hike %s already exists, exiting..." % hike_name)
-  sys.exit()
+if os.path.exists(hike_name):  
+  print("Hike directory %s already exists..." % hike_name)
+  if glob.glob("%s/*md" % hike_name):
+    print("... markdown files in hike directory, exiting.")
+    sys.exit()
+else:
+  os.mkdir(hike_name)
 
-os.mkdir(hike_name)
 new_hike(hike_name,template)
