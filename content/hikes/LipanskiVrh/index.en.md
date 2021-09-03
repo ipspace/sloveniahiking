@@ -32,9 +32,9 @@ name: LipanskiVrh
 nearby:
 - /hikes/lipanca
 - /hikes/brdalipanca
+- /hikes/debelivrh
 - /hikes/debelapec
 - /hikes/visevnik
-- /hikes/malidraskivrh
 peak: 46.378856,13.920257
 region: julian-alps
 start: 46.374746,13.941008

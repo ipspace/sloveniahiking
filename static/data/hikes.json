@@ -40,7 +40,7 @@
       "/hikes/malidraskivrh",
       "/hikes/visevnik",
       "/hikes/jezerskistog",
-      "/hikes/krstenica"
+      "/hikes/debelivrh"
     ],
     "peak": "46.356756,13.868350",
     "region": "julian-alps",
@@ -440,6 +440,46 @@
     "title": {
       "sl": "\u010creta z Vranskega",
       "en": "Vransko - \u010creta"
+    }
+  },
+  {
+    "date": "2021-09-03 15:58:11+00:00",
+    "delta": 180,
+    "description": {
+      "sl": "\u010ce se vam zdi (Blejski) Vintgar preve\u010d turisti\u010den, se odpravite v Poklju\u0161ko sotesko.",
+      "en": "If you happen to be near Bled and love gorges, you could choose between going to Vintgar or Pokljuka Gorge. Vintgar looks better (due to the river flowing through it), but it's usually overcrowded, resulting in a Disneyland vibe. If you prefer wild habitats, there's no doubt: visiting Pokljuka Gorge is a must."
+    },
+    "difficulty": "Zanimiv ne prete\u017eek sprehod. Dobra obutev je obvezna, \u010delada priporo\u010dljiva.",
+    "difflevel": 1,
+    "duration": 2,
+    "gpx": {
+      "center": {
+        "lat": 46.37590127459408,
+        "lon": 14.033530042626168
+      },
+      "file": "PokljuskaSoteska.gpx",
+      "modified": 1630685585,
+      "zoom": 15
+    },
+    "height": 773,
+    "layout": "stub",
+    "lead": "M_20210831_121444.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/6084",
+    "name": "PokljuskaSoteska",
+    "nearby": [
+      "/hikes/krnicapokljuka",
+      "/hikes/debelapec",
+      "/hikes/lipanca",
+      "/hikes/brdalipanca",
+      "/hikes/lipanskivrh"
+    ],
+    "path": "https://www.hribi.net/izlet/krnica_pokljuska_soteska_luknja/1/1270/2133",
+    "peak": "46.375687,14.031108",
+    "region": "julian-alps",
+    "start": "46.378975,14.041821",
+    "title": {
+      "sl": "Poklju\u0161ka soteska",
+      "en": "Pokljuka Gorge"
     }
   },
   {
@@ -1801,10 +1841,10 @@
     "name": "Visevnik",
     "nearby": [
       "/hikes/malidraskivrh",
+      "/hikes/debelivrh",
       "/hikes/velikidraskivrh",
       "/hikes/toscbohinj",
-      "/hikes/lipanskivrh",
-      "/hikes/lipanca"
+      "/hikes/lipanskivrh"
     ],
     "peak": "46.358914,13.898428",
     "region": "julian-alps",
@@ -1833,9 +1873,9 @@
     "nearby": [
       "/hikes/golica",
       "/hikes/planinaseca",
-      "/hikes/sleme",
-      "/hikes/debelapec",
-      "/hikes/brdalipanca"
+      "/hikes/krnicapokljuka",
+      "/hikes/pokljuskasoteska",
+      "/hikes/sleme"
     ],
     "peak": "46.485362,14.025710",
     "photo_author": "Mojca_Lustrek",
@@ -1948,7 +1988,7 @@
       "/hikes/brdalipanca",
       "/hikes/lipanskivrh",
       "/hikes/debelapec",
-      "/hikes/visevnik"
+      "/hikes/debelivrh"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -1978,8 +2018,8 @@
       "/hikes/visevnik",
       "/hikes/uskovnica",
       "/hikes/malidraskivrh",
-      "/hikes/lipanca",
-      "/hikes/lipanskivrh"
+      "/hikes/debelivrh",
+      "/hikes/lipanca"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -2010,7 +2050,7 @@
       "/hikes/uskovnica",
       "/hikes/visevnik",
       "/hikes/lipanskivrh",
-      "/hikes/brdalipanca"
+      "/hikes/debelivrh"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -2039,9 +2079,9 @@
     "nearby": [
       "/hikes/lipanca",
       "/hikes/lipanskivrh",
+      "/hikes/debelivrh",
       "/hikes/brdalipanca",
-      "/hikes/debelapec",
-      "/hikes/visevnik"
+      "/hikes/debelapec"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -2065,9 +2105,9 @@
     "nearby": [
       "/hikes/lipanskivrh",
       "/hikes/brdalipanca",
+      "/hikes/debelivrh",
       "/hikes/debelapec",
-      "/hikes/visevnik",
-      "/hikes/malidraskivrh"
+      "/hikes/visevnik"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -2107,6 +2147,51 @@
       "sl": "Grintovec",
       "en": "Grintovec"
     }
+  },
+  {
+    "date": "2021-09-03 15:39:08+00:00",
+    "delta": 760,
+    "description": {
+      "sl": "Debeli Vrh je pozabljen vrh v grebenu med Pokljuko in Krmo. Medtem ko ve\u010dina pohodnikov hiti na Vi\u0161evnik ali Lipanco boste na njem u\u017eivali v ti\u0161ini in razgledih na Triglav.",
+      "en": "Debeli Vrh (Fat Peak) is one of the many minor peaks in the long ridge between Pokljuka plateau and Krma valley. Most hikers rush to nearby Vi\u0161evnik or Lipanca, so you're almost guaranteed to be on your own enjoying the views and solitude."
+    },
+    "difficulty": "Ob\u010dasno nekoliko bolj strma pe\u0161pot. Vzpon na Debeli vrh je zara\u0161\u010den in zelo slabo markiran.",
+    "difflevel": 3,
+    "duration": 4.5,
+    "gpx": {
+      "center": {
+        "lat": 46.36363565879452,
+        "lon": 13.912448467012812
+      },
+      "file": "DebeliVrh.gpx",
+      "modified": 1630684592
+    },
+    "height": 1959,
+    "layout": "stub",
+    "lead": "M_20210830_095140.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/33018",
+    "name": "DebeliVrh",
+    "nearby": [
+      "/hikes/lipanskivrh",
+      "/hikes/lipanca",
+      "/hikes/malidraskivrh",
+      "/hikes/visevnik",
+      "/hikes/brdalipanca"
+    ],
+    "path": "https://www.hribi.net/izlet/rudno_polje_debeli_vrh_nad_lipanco_cez_kacji_rob/1/339/1146",
+    "peak": "46.372407,13.909051",
+    "region": "julian-alps",
+    "start": "46.345616,13.923256",
+    "timing": [
+      "Vzpon: 2 uri 30 minut",
+      "Vrnitev mimo Lipance: 2 uri",
+      "Skupaj: 4.5 \u2013 5 ur"
+    ],
+    "title": {
+      "sl": "Debeli Vrh",
+      "en": "Debeli Vrh (Fat Peak)"
+    },
+    "video": "https://www.relive.cc/view/vNOPY7XDM26/"
   },
   {
     "date": "2004-01-11 00:00:00+00:00",
@@ -2798,8 +2883,8 @@
       "/hikes/lipanskivrh",
       "/hikes/debelapec",
       "/hikes/lipanca",
-      "/hikes/visevnik",
-      "/hikes/malidraskivrh"
+      "/hikes/debelivrh",
+      "/hikes/visevnik"
     ],
     "peak": "46.385040,13.925494",
     "region": "julian-alps",
@@ -2888,8 +2973,8 @@
       "/hikes/brdalipanca",
       "/hikes/lipanskivrh",
       "/hikes/lipanca",
-      "/hikes/visevnik",
-      "/hikes/malidraskivrh"
+      "/hikes/debelivrh",
+      "/hikes/visevnik"
     ],
     "peak": "46.390678,13.933335",
     "region": "julian-alps",
@@ -3109,7 +3194,7 @@
       "/hikes/toscbohinj",
       "/hikes/velikidraskivrh",
       "/hikes/malidraskivrh",
-      "/hikes/jezerskistog"
+      "/hikes/debelivrh"
     ],
     "peak": "46.408035,13.818710",
     "region": "julian-alps",
@@ -3925,7 +4010,7 @@
       "/hikes/debelapec",
       "/hikes/brdalipanca",
       "/hikes/lipanskivrh",
-      "/hikes/lipanca"
+      "/hikes/debelivrh"
     ],
     "peak": "46.451733,13.871999",
     "photo_author": "Mojca_Lustrek",
@@ -4114,9 +4199,9 @@
     "nearby": [
       "/hikes/visevnik",
       "/hikes/velikidraskivrh",
+      "/hikes/debelivrh",
       "/hikes/toscbohinj",
-      "/hikes/lipanskivrh",
-      "/hikes/lipanca"
+      "/hikes/lipanskivrh"
     ],
     "peak": "46.362985,13.891641",
     "region": "julian-alps",
@@ -4389,9 +4474,9 @@
     "nearby": [
       "/hikes/klek",
       "/hikes/planinaseca",
-      "/hikes/vrtaca",
-      "/hikes/debelapec",
-      "/hikes/sleme"
+      "/hikes/krnicapokljuka",
+      "/hikes/pokljuskasoteska",
+      "/hikes/vrtaca"
     ],
     "peak": "46.491437,14.054546",
     "region": "karavanke",
@@ -4818,8 +4903,8 @@
       "/hikes/toscbohinj",
       "/hikes/malidraskivrh",
       "/hikes/visevnik",
-      "/hikes/jezerskistog",
-      "/hikes/lipanskivrh"
+      "/hikes/debelivrh",
+      "/hikes/jezerskistog"
     ],
     "peak": "46.360212,13.875946",
     "region": "julian-alps",
@@ -5045,6 +5130,45 @@
     "title": {
       "sl": "Goli vrh nad Jezerskim",
       "en": "Goli vrh near Jezersko"
+    }
+  },
+  {
+    "date": "2021-09-03 16:14:37+00:00",
+    "delta": 480,
+    "description": {
+      "sl": "Vzpon iz Krnice na Pokljuko postane kmalu dolgo\u010dasen... a z malo iznajdljivosti si lahko hitro pri\u010darate prijeten sprehod.",
+      "en": "Hiking from Krnica (a village at the bottom of the slopes of Pokljuka plateau) to Pokljuka takes at least three hours, and it tends to get boring -- the landscape doesn't change, and there are no spectacular views. No problem, a bit of ingenuity creates a nice roundtrip."
+    },
+    "difficulty": "Prijeten sprehod skozi Poklju\u0161ke gozdove. Strm je le vzpon skozi Poklju\u0161ko luknjo.",
+    "difflevel": 2,
+    "duration": 3.5,
+    "gpx": {
+      "center": {
+        "lat": 46.377314086248944,
+        "lon": 14.022486885465067
+      },
+      "file": "KrnicaPokljuka.gpx",
+      "modified": 1630686174,
+      "zoom": 14
+    },
+    "height": 1100,
+    "layout": "stub",
+    "lead": "M_20210831_103246.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/4821",
+    "name": "KrnicaPokljuka",
+    "nearby": [
+      "/hikes/pokljuskasoteska",
+      "/hikes/debelapec",
+      "/hikes/lipanca",
+      "/hikes/brdalipanca",
+      "/hikes/lipanskivrh"
+    ],
+    "peak": "46.38114,14.00345",
+    "region": "julian-alps",
+    "start": "46.378975,14.041821",
+    "title": {
+      "sl": "Iz Krnice proti Pokljuki",
+      "en": "From Krnica toward Pokljuka"
     }
   },
   {
@@ -5393,8 +5517,8 @@
       "/hikes/golica",
       "/hikes/vrtaca",
       "/hikes/klek",
-      "/hikes/korosica",
-      "/hikes/dobrca"
+      "/hikes/pokljuskasoteska",
+      "/hikes/korosica"
     ],
     "peak": "46.460984,14.129766",
     "region": "karavanke",
@@ -6001,9 +6125,9 @@
     "nearby": [
       "/hikes/lipanca",
       "/hikes/brdalipanca",
+      "/hikes/debelivrh",
       "/hikes/debelapec",
-      "/hikes/visevnik",
-      "/hikes/malidraskivrh"
+      "/hikes/visevnik"
     ],
     "peak": "46.378856,13.920257",
     "region": "julian-alps",

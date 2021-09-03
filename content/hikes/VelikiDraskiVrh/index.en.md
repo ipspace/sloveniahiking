@@ -28,8 +28,8 @@ nearby:
 - /hikes/toscbohinj
 - /hikes/malidraskivrh
 - /hikes/visevnik
+- /hikes/debelivrh
 - /hikes/jezerskistog
-- /hikes/lipanskivrh
 peak: 46.360212,13.875946
 region: julian-alps
 start: 46.345450,13.923233

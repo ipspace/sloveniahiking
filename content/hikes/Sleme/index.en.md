@@ -25,7 +25,7 @@ nearby:
 - /hikes/debelapec
 - /hikes/brdalipanca
 - /hikes/lipanskivrh
-- /hikes/lipanca
+- /hikes/debelivrh
 peak: 46.451733,13.871999
 photo_author: Mojca_Lustrek
 region: julian-alps

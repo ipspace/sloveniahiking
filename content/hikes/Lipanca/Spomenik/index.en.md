@@ -14,9 +14,9 @@ name: Lipanca/Spomenik
 nearby:
 - /hikes/lipanca
 - /hikes/lipanskivrh
+- /hikes/debelivrh
 - /hikes/brdalipanca
 - /hikes/debelapec
-- /hikes/visevnik
 peak: 46.375630,13.927670
 region: julian-alps
 start: 46.365980,13.934012

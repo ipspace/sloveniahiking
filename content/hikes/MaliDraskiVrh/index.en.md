@@ -23,9 +23,9 @@ name: MaliDraskiVrh
 nearby:
 - /hikes/visevnik
 - /hikes/velikidraskivrh
+- /hikes/debelivrh
 - /hikes/toscbohinj
 - /hikes/lipanskivrh
-- /hikes/lipanca
 peak: 46.362985,13.891641
 region: julian-alps
 start: 46.345450,13.923233

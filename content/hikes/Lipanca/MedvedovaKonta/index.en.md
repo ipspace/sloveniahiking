@@ -16,7 +16,7 @@ nearby:
 - /hikes/brdalipanca
 - /hikes/lipanskivrh
 - /hikes/debelapec
-- /hikes/visevnik
+- /hikes/debelivrh
 peak: 46.375630,13.927670
 region: julian-alps
 start: 46.374746,13.941008

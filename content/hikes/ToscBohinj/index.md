@@ -15,7 +15,7 @@ nearby:
 - /hikes/malidraskivrh
 - /hikes/visevnik
 - /hikes/jezerskistog
-- /hikes/krstenica
+- /hikes/debelivrh
 peak: 46.356756,13.868350
 region: julian-alps
 start: 46.345450,13.923233

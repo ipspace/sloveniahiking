@@ -19,8 +19,8 @@ nearby:
 - /hikes/visevnik
 - /hikes/uskovnica
 - /hikes/malidraskivrh
+- /hikes/debelivrh
 - /hikes/lipanca
-- /hikes/lipanskivrh
 peak: 46.375630,13.927670
 region: julian-alps
 start: 46.345450,13.923233
