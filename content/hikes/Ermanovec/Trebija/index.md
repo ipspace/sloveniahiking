@@ -29,11 +29,11 @@ multilead: M_4-4438_IMG.JPG
 multipath: true
 name: Ermanovec/Trebija
 nearby:
+- /biking/trebijaermanovec
 - /hikes/slajka
 - /hikes/ermanovec
 - /hikes/javorc
 - /hikes/mrzlivrh_ziri
-- /hikes/goropeke
 peak: 46.101523,14.063172
 region: gorenjska
 start: 46.095899,14.100439

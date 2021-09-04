@@ -10,8 +10,8 @@ nearby:
 - /hikes/goropeke
 - /hikes/sivka
 - /hikes/slajka
+- /biking/trebijaermanovec
 - /hikes/mrzlivrh_ziri
-- /hikes/vrsnik_ziri
 peak: 46.070345,14.141830
 region: gorenjska
 title: Javorč

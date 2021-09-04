@@ -23,9 +23,9 @@ name: LukovecMaliDol
 nearby:
 - /biking/path9ponds
 - /biking/hrusevicakosovelje
+- /biking/pliskovicatupelce
 - /hikes/pedrovo
 - /hikes/trstelj_dornberk
-- /hikes/skoljsvpavla
 region: karst
 start: 45.818412,13.825455
 title: 'Exploring Karst: Lukovec and Mali Dol'

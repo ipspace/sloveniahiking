@@ -23,10 +23,10 @@ multipath: true
 name: Ermanovec/Kopacnica
 nearby:
 - /hikes/slajka
+- /biking/trebijaermanovec
 - /hikes/ermanovec
 - /hikes/crnivrhcerkno
 - /hikes/blegos
-- /hikes/bevkovvrh
 peak: 46.101523,14.063172
 region: gorenjska
 start: 46.123822,14.074632

@@ -13,18 +13,18 @@ gpx:
     lat: 45.797280491581844
     lon: 13.808684447756228
   file: Kosovelje.gpx
-  modified: 1622539970
+  modified: 1630744271
 height: 300
 lead: M_20210601_084119.jpg
 length: 17.7
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.79436&lon=13.80662&layers=B0000
 name: HrusevicaKosovelje
 nearby:
+- /biking/pliskovicatupelce
 - /biking/path9ponds
 - /biking/lukovecmalidol
 - /hikes/pedrovo
 - /hikes/trstelj_dornberk
-- /biking/podnanossocerb
 region: karst
 start: 45.810886,13.828548
 title: 'Exploring Karst: From Hruševica to Kosovelje'

@@ -9,11 +9,11 @@ lead: M_4-4463_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/1226
 name: Ermanovec
 nearby:
+- /biking/trebijaermanovec
 - /hikes/slajka
 - /hikes/bevkovvrh
 - /hikes/mrzlivrh_ziri
 - /hikes/crnivrhcerkno
-- /hikes/javorc
 peak: 46.101523,14.063172
 region: gorenjska
 title: Ermanovec

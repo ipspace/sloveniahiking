@@ -594,9 +594,9 @@
     "nearby": [
       "/hikes/ermanovec",
       "/hikes/bevkovvrh",
+      "/biking/trebijaermanovec",
       "/hikes/mrzlivrh_ziri",
-      "/hikes/slajka",
-      "/hikes/javorc"
+      "/hikes/slajka"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -623,11 +623,11 @@
     "multipath": true,
     "name": "Ermanovec/Trebija",
     "nearby": [
+      "/biking/trebijaermanovec",
       "/hikes/slajka",
       "/hikes/ermanovec",
       "/hikes/javorc",
-      "/hikes/mrzlivrh_ziri",
-      "/hikes/goropeke"
+      "/hikes/mrzlivrh_ziri"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -649,11 +649,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1226",
     "name": "Ermanovec",
     "nearby": [
+      "/biking/trebijaermanovec",
       "/hikes/slajka",
       "/hikes/bevkovvrh",
       "/hikes/mrzlivrh_ziri",
-      "/hikes/crnivrhcerkno",
-      "/hikes/javorc"
+      "/hikes/crnivrhcerkno"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -682,10 +682,10 @@
     "name": "Ermanovec/Kopacnica",
     "nearby": [
       "/hikes/slajka",
+      "/biking/trebijaermanovec",
       "/hikes/ermanovec",
       "/hikes/crnivrhcerkno",
-      "/hikes/blegos",
-      "/hikes/bevkovvrh"
+      "/hikes/blegos"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -1016,7 +1016,7 @@
       "/hikes/slajka",
       "/hikes/malenskivrh",
       "/hikes/crnivrhcerkno",
-      "/hikes/ermanovec"
+      "/biking/trebijaermanovec"
     ],
     "peak": "46.164802,14.113583",
     "region": "gorenjska",
@@ -1076,8 +1076,8 @@
       "/hikes/crnivrhcerkno",
       "/hikes/blegos",
       "/hikes/slajka",
-      "/hikes/malenskivrh",
-      "/hikes/ermanovec"
+      "/biking/trebijaermanovec",
+      "/hikes/malenskivrh"
     ],
     "peak": "46.164802,14.113583",
     "region": "gorenjska",
@@ -1102,8 +1102,8 @@
       "/hikes/malenskivrh",
       "/hikes/crnivrhcerkno",
       "/hikes/slajka",
-      "/hikes/miklavskagora",
-      "/hikes/ermanovec"
+      "/biking/trebijaermanovec",
+      "/hikes/miklavskagora"
     ],
     "peak": "46.164802,14.113583",
     "region": "gorenjska",
@@ -1130,10 +1130,10 @@
     "name": "Blegos/Hotavlje",
     "nearby": [
       "/hikes/slajka",
+      "/biking/trebijaermanovec",
       "/hikes/malenskivrh",
       "/hikes/blegos",
-      "/hikes/ermanovec",
-      "/hikes/crnivrhcerkno"
+      "/hikes/ermanovec"
     ],
     "peak": "46.164802,14.113583",
     "region": "gorenjska",
@@ -2288,9 +2288,9 @@
     "nearby": [
       "/hikes/vrsnik_ziri",
       "/hikes/ermanovec",
+      "/biking/trebijaermanovec",
       "/hikes/goropeke",
-      "/hikes/bevkovvrh",
-      "/hikes/javorc"
+      "/hikes/bevkovvrh"
     ],
     "peak": "46.054579,14.061365",
     "region": "gorenjska",
@@ -3314,9 +3314,9 @@
     "nearby": [
       "/hikes/ermanovec",
       "/hikes/mrzlivrh_ziri",
+      "/biking/trebijaermanovec",
       "/hikes/sebrelje",
-      "/hikes/slajka",
-      "/hikes/rodne"
+      "/hikes/slajka"
     ],
     "peak": "46.086057,14.004225",
     "region": "gorenjska",
@@ -3341,11 +3341,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=10&lat=46.11316&lon=14.09347&layers=B0000",
     "name": "Slajka",
     "nearby": [
+      "/biking/trebijaermanovec",
       "/hikes/ermanovec",
       "/hikes/blegos",
       "/hikes/crnivrhcerkno",
-      "/hikes/javorc",
-      "/hikes/malenskivrh"
+      "/hikes/javorc"
     ],
     "peak": "46.11316,14.09347",
     "region": "gorenjska",
@@ -3488,9 +3488,9 @@
     "nearby": [
       "/hikes/javorc",
       "/hikes/slajka",
+      "/biking/trebijaermanovec",
       "/hikes/bukovvrh",
-      "/hikes/malenskivrh",
-      "/hikes/ermanovec"
+      "/hikes/malenskivrh"
     ],
     "peak": "46.070345,14.141830",
     "region": "gorenjska",
@@ -3546,8 +3546,8 @@
       "/hikes/goropeke",
       "/hikes/sivka",
       "/hikes/slajka",
-      "/hikes/mrzlivrh_ziri",
-      "/hikes/vrsnik_ziri"
+      "/biking/trebijaermanovec",
+      "/hikes/mrzlivrh_ziri"
     ],
     "peak": "46.070345,14.141830",
     "region": "gorenjska",
@@ -4964,7 +4964,7 @@
       "/hikes/slajka",
       "/hikes/porezen",
       "/hikes/ermanovec",
-      "/hikes/malenskivrh"
+      "/biking/trebijaermanovec"
     ],
     "peak": "46.161433,14.057411",
     "region": "primorska",
@@ -5022,7 +5022,7 @@
       "/hikes/trstelj_dornberk",
       "/biking/path9ponds",
       "/hikes/skoljsvpavla",
-      "/biking/hrusevicakosovelje"
+      "/biking/pliskovicatupelce"
     ],
     "peak": "45.856958,13.762335",
     "region": "karst",
@@ -6096,7 +6096,7 @@
       "/hikes/trstelj_dornberk",
       "/hikes/pedrovo",
       "/biking/lukovecmalidol",
-      "/biking/path9ponds"
+      "/biking/pliskovicatupelce"
     ],
     "peak": "45.868196,13.642593",
     "region": "karst",
@@ -6819,6 +6819,37 @@
     "center": "45.964085,14.015358"
   },
   {
+    "date": "2021-09-04 08:08:40+00:00",
+    "delta": 530,
+    "description": {
+      "en": "Take a trip from Trebija to the mountain hut on Ermanovec if you happen to be in Poljanska Valley with a bike \u2013 the views (once you get out of the forest) are well worth the effort."
+    },
+    "difficulty": "Occasionally steep asphalt road",
+    "difflevel": 3,
+    "duration": 2,
+    "height": 969,
+    "layout": "structured",
+    "lead": "M_20210903_120126.jpg",
+    "length": 15.3,
+    "maplink": "https://mapzs.pzs.si/poi/1226",
+    "name": "TrebijaErmanovec",
+    "nearby": [
+      "/hikes/ermanovec",
+      "/hikes/slajka",
+      "/hikes/mrzlivrh_ziri",
+      "/hikes/bevkovvrh",
+      "/hikes/javorc"
+    ],
+    "region": "gorenjska",
+    "start": "46.095709,14.100284",
+    "title": {
+      "en": "Ermanovec from Trebija"
+    },
+    "video": "https://www.relive.cc/view/v1vj1YLPxJq/",
+    "type": "biking",
+    "center": "46.102365,14.077226"
+  },
+  {
     "date": "2021-04-22 10:14:27+00:00",
     "delta": 520,
     "description": {
@@ -6893,9 +6924,9 @@
     "nearby": [
       "/biking/path9ponds",
       "/biking/hrusevicakosovelje",
+      "/biking/pliskovicatupelce",
       "/hikes/pedrovo",
-      "/hikes/trstelj_dornberk",
-      "/hikes/skoljsvpavla"
+      "/hikes/trstelj_dornberk"
     ],
     "region": "karst",
     "start": "45.818412,13.825455",
@@ -7076,11 +7107,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.79436&lon=13.80662&layers=B0000",
     "name": "HrusevicaKosovelje",
     "nearby": [
+      "/biking/pliskovicatupelce",
       "/biking/path9ponds",
       "/biking/lukovecmalidol",
       "/hikes/pedrovo",
-      "/hikes/trstelj_dornberk",
-      "/biking/podnanossocerb"
+      "/hikes/trstelj_dornberk"
     ],
     "region": "karst",
     "start": "45.810886,13.828548",
@@ -7349,6 +7380,35 @@
     "center": "45.594282,14.279555"
   },
   {
+    "date": "2021-09-04 09:06:17+00:00",
+    "delta": 260,
+    "description": {
+      "en": "We decided to continue our exploration of Karst dirt trails when visiting our friends in Tupel\u010de. We started in Pliskovica, dropped by Vol\u010dji Grad and Gabrovica, barely managed to find a long-lost dirt trail from Gabrovica to Kobjeglava, and returned to Pliskovica via Kosovelje."
+    },
+    "difficulty": "A mix of dirt trails and footpaths with an occasional asphalt road. Take a mountain bike.",
+    "difflevel": "d",
+    "duration": 2.5,
+    "height": 310,
+    "lead": "M_20210902_111541.jpg",
+    "length": 18.5,
+    "name": "PliskovicaTupelce",
+    "nearby": [
+      "/biking/hrusevicakosovelje",
+      "/biking/path9ponds",
+      "/biking/lukovecmalidol",
+      "/hikes/pedrovo",
+      "/hikes/trstelj_dornberk"
+    ],
+    "region": "karst",
+    "start": "45.770639,13.782370",
+    "title": {
+      "en": "Exploring Karst: Pliskovica \u2013 Tupel\u010de"
+    },
+    "video": "https://www.relive.cc/view/vYvr41ewLL6/",
+    "type": "biking",
+    "center": "45.792623,13.782164"
+  },
+  {
     "date": "2021-05-27 13:20:47+00:00",
     "delta": 450,
     "description": {
@@ -7397,9 +7457,9 @@
     "nearby": [
       "/biking/lukovecmalidol",
       "/biking/hrusevicakosovelje",
+      "/biking/pliskovicatupelce",
       "/hikes/pedrovo",
-      "/hikes/trstelj_dornberk",
-      "/hikes/skoljsvpavla"
+      "/hikes/trstelj_dornberk"
     ],
     "region": "karst",
     "start": "45.814512,13.810002",

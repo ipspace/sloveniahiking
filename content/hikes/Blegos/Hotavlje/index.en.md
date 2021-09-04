@@ -15,10 +15,10 @@ multipath: true
 name: Blegos/Hotavlje
 nearby:
 - /hikes/slajka
+- /biking/trebijaermanovec
 - /hikes/malenskivrh
 - /hikes/blegos
 - /hikes/ermanovec
-- /hikes/crnivrhcerkno
 peak: 46.164802,14.113583
 region: gorenjska
 start: 46.124584,14.117533

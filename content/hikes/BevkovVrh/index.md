@@ -23,9 +23,9 @@ name: BevkovVrh
 nearby:
 - /hikes/ermanovec
 - /hikes/mrzlivrh_ziri
+- /biking/trebijaermanovec
 - /hikes/sebrelje
 - /hikes/slajka
-- /hikes/rodne
 peak: 46.086057,14.004225
 region: gorenjska
 start: 46.084986,14.038951

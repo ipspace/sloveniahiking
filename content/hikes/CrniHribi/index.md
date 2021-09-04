@@ -30,7 +30,7 @@ nearby:
 - /hikes/trstelj_dornberk
 - /hikes/pedrovo
 - /biking/lukovecmalidol
-- /biking/path9ponds
+- /biking/pliskovicatupelce
 peak: 45.868196,13.642593
 region: karst
 title: 'Črni hribi: od meje z Italijo do Renškega vrha'
