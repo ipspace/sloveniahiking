@@ -30,6 +30,7 @@ peak: 46.38114,14.00345
 region: julian-alps
 start: 46.378975,14.041821
 title: From Krnica toward Pokljuka
+video: https://www.relive.cc/view/vWqBrZXx9Yq/
 ---
 {{<hike-details description="yes">}}
 

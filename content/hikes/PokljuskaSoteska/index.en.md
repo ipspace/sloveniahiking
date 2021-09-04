@@ -30,6 +30,7 @@ peak: 46.375687,14.031108
 region: julian-alps
 start: 46.378975,14.041821
 title: Pokljuka Gorge
+video: https://www.relive.cc/view/vWqBrZXxXYq/
 ---
 {{<hike-details description="yes">}}
 
