@@ -19,8 +19,8 @@ nearby:
 - /hikes/svlovrenc
 - /hikes/oblenk
 - /biking/planinskagorabiking
+- /biking/predjamahrusica
 - /hikes/planinskagora
-- /biking/hrusicapolsak
 path: http://www.hribi.net/izlet/studeno_gora_sveti_lovrenc_/26/804/1432
 peak: 45.839000,14.167335
 region: notranjska

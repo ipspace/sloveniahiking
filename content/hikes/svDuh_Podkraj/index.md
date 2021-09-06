@@ -14,8 +14,8 @@ nearby:
 - /biking/kriznagorajavornik
 - /hikes/hrusica
 - /biking/vrhpoljeabram
+- /biking/predjamahrusica
 - /hikes/kovk
-- /hikes/plaz
 peak: 45.871767,14.062456
 region: primorska
 start: 45.863937,14.062856

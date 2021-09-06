@@ -2790,7 +2790,7 @@
       "/hikes/oblenk",
       "/hikes/svlovrenc",
       "/biking/hrusicapolsak",
-      "/hikes/hrusica"
+      "/biking/predjamahrusica"
     ],
     "peak": "45.837401,14.233887",
     "region": "notranjska",
@@ -3097,10 +3097,10 @@
     "name": "svLovrenc/Gorenje",
     "nearby": [
       "/hikes/svlovrenc",
+      "/biking/predjamahrusica",
       "/hikes/oblenk",
       "/hikes/hrusica",
-      "/biking/hrusicapolsak",
-      "/biking/planinskagorabiking"
+      "/biking/hrusicapolsak"
     ],
     "peak": "45.839190,14.168374",
     "region": "notranjska",
@@ -3131,8 +3131,8 @@
       "/hikes/svlovrenc",
       "/hikes/oblenk",
       "/biking/planinskagorabiking",
-      "/hikes/planinskagora",
-      "/biking/hrusicapolsak"
+      "/biking/predjamahrusica",
+      "/hikes/planinskagora"
     ],
     "path": "http://www.hribi.net/izlet/studeno_gora_sveti_lovrenc_/26/804/1432",
     "peak": "45.839000,14.167335",
@@ -3161,11 +3161,11 @@
     "maplink": "https://mapzs.pzs.si/poi/3908",
     "name": "svLovrenc",
     "nearby": [
+      "/biking/predjamahrusica",
       "/hikes/oblenk",
       "/biking/hrusicapolsak",
       "/biking/planinskagorabiking",
-      "/hikes/planinskagora",
-      "/hikes/hrusica"
+      "/hikes/planinskagora"
     ],
     "peak": "45.839190,14.168374",
     "region": "notranjska",
@@ -3747,11 +3747,11 @@
     "lead": "M_20020916_095733.jpg",
     "name": "Hrusica",
     "nearby": [
+      "/biking/predjamahrusica",
       "/hikes/svduh_podkraj",
       "/hikes/svlovrenc",
       "/biking/hrusicapolsak",
-      "/biking/kriznagorajavornik",
-      "/biking/vrhpoljeabram"
+      "/biking/kriznagorajavornik"
     ],
     "peak": "45.863474,14.111302",
     "region": "primorska",
@@ -3949,10 +3949,10 @@
     "name": "SuhiVrh",
     "nearby": [
       "/hikes/nanos",
+      "/biking/predjamahrusica",
       "/biking/vrhpoljeabram",
       "/hikes/svmiklavz_vipava",
-      "/hikes/gradiskatura",
-      "/hikes/hrusica"
+      "/hikes/gradiskatura"
     ],
     "peak": "45.798405,14.066979",
     "photo_author": "Mojca_Lustrek",
@@ -4505,7 +4505,7 @@
       "/hikes/planinskagora",
       "/hikes/svlovrenc",
       "/biking/hrusicapolsak",
-      "/hikes/hrusica"
+      "/biking/predjamahrusica"
     ],
     "peak": "45.834089,14.213203",
     "region": "notranjska",
@@ -6137,9 +6137,7 @@
     "title": {
       "sl": "Lipanski vrh in Mre\u017ece",
       "en": "Lipanski vrh and Mre\u017ece"
-    },
-    "x": 417,
-    "y": 138
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -6373,8 +6371,8 @@
       "/biking/kriznagorajavornik",
       "/hikes/hrusica",
       "/biking/vrhpoljeabram",
-      "/hikes/kovk",
-      "/hikes/plaz"
+      "/biking/predjamahrusica",
+      "/hikes/kovk"
     ],
     "peak": "45.871767,14.062456",
     "region": "primorska",
@@ -6633,7 +6631,7 @@
       "/hikes/oblenk",
       "/hikes/svlovrenc",
       "/biking/hrusicapolsak",
-      "/hikes/hrusica"
+      "/biking/predjamahrusica"
     ],
     "region": "notranjska",
     "start": "45.823082,14.244940",
@@ -6969,6 +6967,36 @@
     "video": "https://www.relive.cc/view/vdvmDWZ3wNq/",
     "type": "biking",
     "center": "46.083464,14.262724"
+  },
+  {
+    "date": "2021-09-06 14:33:01+00:00",
+    "delta": 420,
+    "description": {
+      "en": "Starting from a medieval castle built into a giant cave, bike through Hru\u0161ica's dense forests to reach the ruins of a Roman fort and an old post waystation."
+    },
+    "difficulty": "Gravel roads with a few kilometers of asphalt",
+    "difflevel": 2,
+    "duration": 2.5,
+    "height": 874,
+    "layout": "structured",
+    "lead": "M_20210906_105220.jpg",
+    "length": 22,
+    "maplink": "https://mapzs.pzs.si/path/32353",
+    "name": "PredjamaHrusica",
+    "nearby": [
+      "/hikes/hrusica",
+      "/hikes/svlovrenc",
+      "/hikes/svduh_podkraj",
+      "/hikes/suhivrh",
+      "/biking/hrusicapolsak"
+    ],
+    "region": "notranjska",
+    "start": "45.814483,14.128900",
+    "title": {
+      "en": "From Predjama to Stara Po\u0161ta on Hru\u0161ica"
+    },
+    "type": "biking",
+    "center": "45.838628,14.123476"
   },
   {
     "date": "2021-06-04 15:59:43+00:00",

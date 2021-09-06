@@ -26,7 +26,7 @@ nearby:
 - /hikes/oblenk
 - /hikes/svlovrenc
 - /biking/hrusicapolsak
-- /hikes/hrusica
+- /biking/predjamahrusica
 region: notranjska
 start: 45.823082,14.244940
 title: Planinska Gora (on a Bike)

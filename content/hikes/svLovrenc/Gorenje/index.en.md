@@ -16,10 +16,10 @@ multipath: true
 name: svLovrenc
 nearby:
 - /hikes/svlovrenc
+- /biking/predjamahrusica
 - /hikes/oblenk
 - /hikes/hrusica
 - /biking/hrusicapolsak
-- /biking/planinskagorabiking
 peak: 45.839190,14.168374
 region: notranjska
 start: 45.835079,14.154237

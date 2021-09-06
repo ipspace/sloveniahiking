@@ -9,11 +9,11 @@ lead: M_1-3162_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/3908
 name: svLovrenc
 nearby:
+- /biking/predjamahrusica
 - /hikes/oblenk
 - /biking/hrusicapolsak
 - /biking/planinskagorabiking
 - /hikes/planinskagora
-- /hikes/hrusica
 peak: 45.839190,14.168374
 region: notranjska
 title: St. Lovrenc near Postojna
