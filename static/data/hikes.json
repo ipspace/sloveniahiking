@@ -5755,11 +5755,11 @@
     "maplink": "https://mapzs.pzs.si/poi/970",
     "name": "Javorniki",
     "nearby": [
+      "/biking/skocjanjavorniki",
       "/hikes/svetatrojica",
       "/hikes/slivnica",
       "/biking/slivnicabiking",
-      "/biking/planinskagorabiking",
-      "/hikes/planinskagora"
+      "/biking/planinskagorabiking"
     ],
     "peak": "45.758005,14.295063",
     "region": "primorska",
@@ -5784,10 +5784,10 @@
     "name": "Slivnica",
     "nearby": [
       "/biking/slivnicabiking",
+      "/biking/skocjanjavorniki",
       "/hikes/javorniki",
       "/hikes/borovniski_pekel",
-      "/hikes/pokojisce",
-      "/hikes/svetatrojica"
+      "/hikes/pokojisce"
     ],
     "peak": "45.7899991,14.3990229",
     "region": "notranjska",
@@ -6492,10 +6492,10 @@
     "name": "SvetaTrojica",
     "nearby": [
       "/hikes/javorniki",
+      "/biking/skocjanjavorniki",
       "/hikes/slivnica",
       "/biking/planinskagorabiking",
-      "/hikes/planinskagora",
-      "/biking/slivnicabiking"
+      "/hikes/planinskagora"
     ],
     "peak": "45.724803,14.271539",
     "region": "notranjska",
@@ -6659,10 +6659,10 @@
     "name": "SlivnicaBiking",
     "nearby": [
       "/hikes/slivnica",
+      "/biking/skocjanjavorniki",
       "/hikes/javorniki",
       "/hikes/borovniski_pekel",
-      "/hikes/pokojisce",
-      "/hikes/svetatrojica"
+      "/hikes/pokojisce"
     ],
     "region": "notranjska",
     "start": "45.792868,14.367291",
@@ -7192,6 +7192,35 @@
     "video": "https://www.relive.cc/view/vKv27oy7poO/",
     "type": "biking",
     "center": "45.968836,14.254521"
+  },
+  {
+    "date": "2021-09-08 06:34:07+00:00",
+    "delta": 840,
+    "description": {
+      "en": "If you love biking on gravel roads through beech forests (autumn colors could be beautiful), the Javorniki ridge might be just what you''re looking for.\n\nFor everyone else: the ascent is pretty steep, and there are no views. Try [Slivnica](/en/biking/slivnicabiking).\n"
+    },
+    "difficulty": "Somewhat steep gravel roads",
+    "difflevel": 3,
+    "duration": 4,
+    "height": 1215,
+    "layout": "structured",
+    "lead": "M_20210907_094558.jpg",
+    "length": 33.8,
+    "name": "SkocjanJavorniki",
+    "nearby": [
+      "/hikes/javorniki",
+      "/hikes/svetatrojica",
+      "/hikes/slivnica",
+      "/biking/slivnicabiking",
+      "/biking/planinskagorabiking"
+    ],
+    "region": "notranjska",
+    "start": "45.788481,14.297634",
+    "title": {
+      "en": "Javorniki Ridge from Rakov \u0160kocjan"
+    },
+    "type": "biking",
+    "center": "45.765836,14.311459"
   },
   {
     "date": "2021-04-21 17:29:41+00:00",

@@ -11,10 +11,10 @@ maplink: https://mapzs.pzs.si/poi/1148
 name: SvetaTrojica
 nearby:
 - /hikes/javorniki
+- /biking/skocjanjavorniki
 - /hikes/slivnica
 - /biking/planinskagorabiking
 - /hikes/planinskagora
-- /biking/slivnicabiking
 peak: 45.724803,14.271539
 region: notranjska
 start: 45.724674,14.257749

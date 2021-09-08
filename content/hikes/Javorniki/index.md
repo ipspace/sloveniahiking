@@ -12,11 +12,11 @@ map: 1
 maplink: https://mapzs.pzs.si/poi/970
 name: Javorniki
 nearby:
+- /biking/skocjanjavorniki
 - /hikes/svetatrojica
 - /hikes/slivnica
 - /biking/slivnicabiking
 - /biking/planinskagorabiking
-- /hikes/planinskagora
 peak: 45.758005,14.295063
 region: primorska
 start: 45.788505,14.297555

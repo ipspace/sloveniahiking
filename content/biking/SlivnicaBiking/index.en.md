@@ -4,8 +4,8 @@ delta: 580
 description: If you'd like to enjoy the view of Lake Cerknica and don't feel like
   hiking to Slivnica, use the gravel road to bike there. Be careful on summer weekends
   -- some people think that "*spending a day in nature*" means "*drive to the mountain*
-  *hut and have a beer,*" and many of them haven't yet mastered the art of driving on
-  a gravel road.
+  *hut and have a beer,*" and many of them haven't yet mastered the art of driving
+  on a gravel road.
 difficulty: Occasionally steep gravel road
 difflevel: 2
 duration: 3
@@ -23,10 +23,10 @@ maplink: https://mapzs.pzs.si/poi/5679
 name: SlivnicaBiking
 nearby:
 - /hikes/slivnica
+- /biking/skocjanjavorniki
 - /hikes/javorniki
 - /hikes/borovniski_pekel
 - /hikes/pokojisce
-- /hikes/svetatrojica
 region: notranjska
 start: 45.792868,14.367291
 title: Slivnica (on a Bike)

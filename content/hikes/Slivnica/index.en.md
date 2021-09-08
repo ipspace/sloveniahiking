@@ -29,10 +29,10 @@ maplink: https://mapzs.pzs.si/poi/5679
 name: Slivnica
 nearby:
 - /biking/slivnicabiking
+- /biking/skocjanjavorniki
 - /hikes/javorniki
 - /hikes/borovniski_pekel
 - /hikes/pokojisce
-- /hikes/svetatrojica
 peak: 45.7899991,14.3990229
 region: notranjska
 start: 45.792868,14.367291
