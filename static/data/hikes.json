@@ -2751,10 +2751,10 @@
     "name": "Golobar",
     "nearby": [
       "/hikes/loskakoritnica",
+      "/hikes/malamojstrovka",
       "/hikes/tamar",
       "/hikes/planinarazor",
-      "/hikes/vogelvrh",
-      "/hikes/vogel"
+      "/hikes/nadsitomglava"
     ],
     "path": "https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675",
     "peak": "46.316692,13.614670",
@@ -3194,8 +3194,8 @@
       "/hikes/sleme",
       "/hikes/toscbohinj",
       "/hikes/velikidraskivrh",
-      "/hikes/malidraskivrh",
-      "/hikes/debelivrh"
+      "/hikes/nadsitomglava",
+      "/hikes/malamojstrovka"
     ],
     "peak": "46.408035,13.818710",
     "region": "julian-alps",
@@ -3326,6 +3326,52 @@
       "sl": "Bevkov vrh",
       "en": "Bevk's peak"
     }
+  },
+  {
+    "date": "2021-09-13 20:51:01+00:00",
+    "delta": 480,
+    "description": {
+      "sl": "Nad \u0160itom Glava je spregledan vrh nad Vr\u0161i\u010dem. Alpinisti radi plezajo v njegovi severni in vzhodni steni, ve\u010dina pohodnikov pa hiti mimo njega na Malo Mojstrovko. Ni\u010d hudega; \u010de se odpravite nanj se boste izognili gne\u010di.",
+      "en": "Nad \u0160itom Glava is an ignored peak above Vr\u0161i\u010d pass. Rock climbers love its eastern and northern rockfaces; most hikers ignore it while rushing to nearby Mala Mojstrovka. Guess what -- that gives you an option to avoid the crowds; all you have to do is to take a wrong turn ;)"
+    },
+    "difficulty": "Nemarkirana pe\u0161pot",
+    "difflevel": 2,
+    "duration": 3,
+    "gpx": {
+      "center": {
+        "lat": 46.43568205430384,
+        "lon": 13.740110842284857
+      },
+      "file": "NadSitomGlava.gpx",
+      "modified": 1631560162,
+      "zoom": 15
+    },
+    "height": 2087,
+    "layout": "structured",
+    "lead": "M_20210913_095852.jpg",
+    "maplink": "https://www.opencyclemap.org/?zoom=16&lat=46.43538&lon=13.73787&layers=B0000",
+    "name": "NadSitomGlava",
+    "nearby": [
+      "/hikes/malamojstrovka",
+      "/hikes/tamar",
+      "/hikes/loskakoritnica",
+      "/hikes/stenar",
+      "/hikes/sleme"
+    ],
+    "path": "https://www.hribi.net/izlet/vrsic_sitna_glava/1/273/391",
+    "peak": "46.43915,13.73875",
+    "region": "julian-alps",
+    "start": "46.433270,13.743304",
+    "timing": [
+      "Vzpon: 1 ura 20 minut ",
+      "Spust: 1 ura",
+      "Skupaj: 2.5 \u2013 3 ure"
+    ],
+    "title": {
+      "sl": "Nad \u0160itom Glava",
+      "en": "Nad \u0160itom Glava"
+    },
+    "video": "https://www.relive.cc/view/vRO7VNMxgyv"
   },
   {
     "date": "2003-06-01 00:00:00+00:00",
@@ -3685,10 +3731,10 @@
     "name": "LoskaKoritnica",
     "nearby": [
       "/hikes/tamar",
+      "/hikes/malamojstrovka",
+      "/hikes/nadsitomglava",
       "/hikes/golobar",
-      "/hikes/stenar",
-      "/hikes/jezerskistog",
-      "/hikes/krstenica"
+      "/hikes/stenar"
     ],
     "peak": "46.423072,13.658112",
     "region": "julian-alps",
@@ -3703,6 +3749,52 @@
       "en": "Lo\u0161ka Koritnica"
     },
     "video": "https://www.relive.cc/view/vMv8QDxeBPO/"
+  },
+  {
+    "date": "2021-09-13 21:10:13+00:00",
+    "delta": 720,
+    "description": {
+      "sl": "Mala Mojstrovka je eden od najbolj obleganih vrhov v Julijskih Alpah. Na sre\u010do se lahko nanjo povzpnemo tudi po manj znanih poteh, na primer \u010dez Nad \u0160itom Glavo.",
+      "en": "Mala Mojstrovka is one of the most popular peaks in the Julian Alps. The crowds of hikers have successfully worn out the most accessible trail leading to the top, making the hike a somewhat disgusting experience. Fortunately, there are other less popular ways to the top -- we'll get there from Nad \u0160itom Glava."
+    },
+    "difficulty": "Neozna\u010dena pot",
+    "difflevel": 3,
+    "duration": 4,
+    "gpx": {
+      "center": {
+        "lat": 46.434659671689246,
+        "lon": 13.737223653897814
+      },
+      "file": "MalaMojstrovka.gpx",
+      "modified": 1631560748,
+      "zoom": 15
+    },
+    "height": 2332,
+    "layout": "structured",
+    "lead": "M_20210913_124412.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/47",
+    "name": "MalaMojstrovka",
+    "nearby": [
+      "/hikes/nadsitomglava",
+      "/hikes/tamar",
+      "/hikes/loskakoritnica",
+      "/hikes/stenar",
+      "/hikes/sleme"
+    ],
+    "path": "https://www.hribi.net/izlet/vrsic_mala_mojstrovka_cez_sitno_glavo/1/224/1680",
+    "peak": "46.437334,13.731097",
+    "region": "julian-alps",
+    "start": "46.433270,13.743304",
+    "timing": [
+      "Vzpon: 2 uri 15 minut",
+      "Spust: 1 ura 30 minut",
+      "Skupaj: 4 ure"
+    ],
+    "title": {
+      "sl": "Mala Mojstrovka",
+      "en": "Mala Mojstrovka"
+    },
+    "video": "https://www.relive.cc/view/vQvx1kGep9O/"
   },
   {
     "date": "2003-09-14 00:00:00+00:00",
@@ -4753,11 +4845,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1145",
     "name": "Tamar",
     "nearby": [
+      "/hikes/malamojstrovka",
+      "/hikes/nadsitomglava",
       "/hikes/loskakoritnica",
       "/hikes/stenar",
-      "/hikes/sleme",
-      "/hikes/toscbohinj",
-      "/hikes/jezerskistog"
+      "/hikes/sleme"
     ],
     "peak": "46.446150,13.713228",
     "photo_author": "Tina_diBatista",
