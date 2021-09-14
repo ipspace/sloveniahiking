@@ -16,7 +16,7 @@ gpx:
   modified: 1631560748
   zoom: 15
 height: 2332
-lead: M_20210913_124412.jpg
+lead: M_20210914_083224.jpg
 maplink: https://mapzs.pzs.si/poi/47
 name: MalaMojstrovka
 nearby:
