@@ -27,9 +27,9 @@ name: Caven/Stomaz
 nearby:
 - /hikes/malagora
 - /hikes/caven
+- /biking/resseltrail
 - /hikes/skoljsvpavla
 - /hikes/kucelj
-- /hikes/starababa
 peak: 45.928964,13.852867
 region: vipava
 start: 45.899641,13.856601

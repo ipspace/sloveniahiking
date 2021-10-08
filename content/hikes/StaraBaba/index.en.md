@@ -17,10 +17,10 @@ maplink: https://www.opencyclemap.org/?zoom=16&lat=45.89865&lon=13.91553&layers=
 name: StaraBaba
 nearby:
 - /hikes/otliskookno
+- /biking/resseltrail
 - /hikes/soncnica
 - /hikes/dolskimaj
 - /hikes/kovk
-- /hikes/malagora
 peak: 45.898754,13.914989
 region: vipava
 start: 45.904010,13.912406

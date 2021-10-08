@@ -16,9 +16,9 @@ name: Caven
 nearby:
 - /hikes/malagora
 - /hikes/kucelj
+- /biking/resseltrail
 - /hikes/dolskimaj
 - /hikes/velikirob
-- /hikes/skoljsvpavla
 peak: 45.928964,13.852867
 region: vipava
 title: Čaven

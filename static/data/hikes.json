@@ -289,11 +289,11 @@
     "maplink": "https://mapzs.pzs.si/poi/36608",
     "name": "DolskiMaj",
     "nearby": [
+      "/biking/resseltrail",
       "/hikes/otliskookno",
       "/hikes/caven",
       "/hikes/malagora",
-      "/hikes/starababa",
-      "/hikes/kucelj"
+      "/hikes/starababa"
     ],
     "peak": "45.933692,13.893652",
     "region": "vipava",
@@ -838,8 +838,8 @@
       "/hikes/dolskimaj",
       "/hikes/caven",
       "/biking/vojsko",
-      "/hikes/kucelj",
-      "/hikes/malagora"
+      "/biking/resseltrail",
+      "/hikes/kucelj"
     ],
     "peak": "45.978565,13.864346",
     "region": "primorska",
@@ -1255,7 +1255,7 @@
       "/hikes/skoljsvpavla",
       "/hikes/caven",
       "/hikes/malagora",
-      "/hikes/maligolak"
+      "/biking/resseltrail"
     ],
     "peak": "45.934367,13.802914",
     "region": "vipava",
@@ -3812,11 +3812,11 @@
     "maplink": "https://mapzs.pzs.si/poi/5296",
     "name": "OtliskoOkno",
     "nearby": [
+      "/biking/resseltrail",
       "/hikes/starababa",
       "/hikes/dolskimaj",
       "/hikes/caven",
-      "/hikes/malagora",
-      "/hikes/soncnica"
+      "/hikes/malagora"
     ],
     "peak": "45.917544,13.911851",
     "region": "vipava",
@@ -3925,9 +3925,9 @@
     "nearby": [
       "/hikes/caven",
       "/hikes/kucelj",
+      "/biking/resseltrail",
       "/hikes/skoljsvpavla",
-      "/hikes/dolskimaj",
-      "/hikes/velikirob"
+      "/hikes/dolskimaj"
     ],
     "peak": "45.922396,13.850510",
     "region": "vipava",
@@ -4135,9 +4135,9 @@
     "nearby": [
       "/hikes/malagora",
       "/hikes/caven",
+      "/biking/resseltrail",
       "/hikes/skoljsvpavla",
-      "/hikes/kucelj",
-      "/hikes/starababa"
+      "/hikes/kucelj"
     ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
@@ -4166,9 +4166,9 @@
     "nearby": [
       "/hikes/caven",
       "/hikes/dolskimaj",
+      "/biking/resseltrail",
       "/hikes/malagora",
-      "/hikes/kucelj",
-      "/hikes/otliskookno"
+      "/hikes/kucelj"
     ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
@@ -4235,11 +4235,11 @@
     "multipath": true,
     "name": "Caven/Lokavec",
     "nearby": [
+      "/biking/resseltrail",
       "/hikes/starababa",
       "/hikes/otliskookno",
       "/hikes/malagora",
-      "/hikes/dolskimaj",
-      "/hikes/caven"
+      "/hikes/dolskimaj"
     ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
@@ -4263,9 +4263,9 @@
     "nearby": [
       "/hikes/malagora",
       "/hikes/kucelj",
+      "/biking/resseltrail",
       "/hikes/dolskimaj",
-      "/hikes/velikirob",
-      "/hikes/skoljsvpavla"
+      "/hikes/velikirob"
     ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
@@ -4385,7 +4385,7 @@
       "/hikes/velikirob",
       "/hikes/malagora",
       "/hikes/caven",
-      "/hikes/pedrovo"
+      "/biking/resseltrail"
     ],
     "peak": "45.909096,13.810788",
     "region": "vipava",
@@ -4701,9 +4701,9 @@
     "nearby": [
       "/hikes/dolskimaj",
       "/hikes/caven",
+      "/biking/resseltrail",
       "/hikes/malagora",
-      "/hikes/maligolak",
-      "/hikes/kucelj"
+      "/hikes/maligolak"
     ],
     "peak": "45.928761,13.825091",
     "region": "vipava",
@@ -4762,7 +4762,7 @@
       "/hikes/malagora",
       "/hikes/caven",
       "/hikes/skoljsvpavla",
-      "/hikes/dolskimaj"
+      "/biking/resseltrail"
     ],
     "peak": "45.928761,13.825091",
     "region": "vipava",
@@ -6157,10 +6157,10 @@
     "name": "StaraBaba",
     "nearby": [
       "/hikes/otliskookno",
+      "/biking/resseltrail",
       "/hikes/soncnica",
       "/hikes/dolskimaj",
-      "/hikes/kovk",
-      "/hikes/malagora"
+      "/hikes/kovk"
     ],
     "peak": "45.898754,13.914989",
     "region": "vipava",
@@ -6911,6 +6911,37 @@
     "center": "45.964085,14.015358"
   },
   {
+    "date": "2021-10-08 07:04:05+00:00",
+    "delta": 730,
+    "description": {
+      "en": "The edge of Gora (plateau high above Vipava Valley) is full of fantastic vista points. A few of them are reachable with a road bike; we'll visit the westernmost one and explore an ancient dirt trail laid out by Josef Ressel on the way back of the ship propeller fame."
+    },
+    "difficulty": "Somewhat steep asphalt road. Optional dirt trail descent.",
+    "difflevel": 3,
+    "duration": 3,
+    "height": 895,
+    "layout": "structured",
+    "lead": "M_20210928_122815.jpg",
+    "length": 20,
+    "maplink": "https://mapzs.pzs.si/poi/5279",
+    "name": "ResselTrail",
+    "nearby": [
+      "/hikes/dolskimaj",
+      "/hikes/otliskookno",
+      "/hikes/caven",
+      "/hikes/malagora",
+      "/hikes/starababa"
+    ],
+    "region": "vipava",
+    "start": "45.902235,13.881650",
+    "title": {
+      "en": "Exploring the Ressel Trail"
+    },
+    "video": "https://www.relive.cc/view/vPv4yxoJYRO/",
+    "type": "biking",
+    "center": "45.924373,13.886739"
+  },
+  {
     "date": "2021-09-04 08:08:40+00:00",
     "delta": 530,
     "description": {
@@ -7397,7 +7428,7 @@
       "/hikes/maligolak",
       "/biking/zadlog",
       "/hikes/dolskimaj",
-      "/hikes/otliskookno"
+      "/biking/resseltrail"
     ],
     "region": "primorska",
     "start": "45.981987,13.973719",

@@ -21,9 +21,9 @@ name: Caven/Srednja
 nearby:
 - /hikes/caven
 - /hikes/dolskimaj
+- /biking/resseltrail
 - /hikes/malagora
 - /hikes/kucelj
-- /hikes/otliskookno
 peak: 45.928964,13.852867
 region: vipava
 start: 45.937787,13.869216

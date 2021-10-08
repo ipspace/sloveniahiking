@@ -14,9 +14,9 @@ name: Kucelj/Predmeja
 nearby:
 - /hikes/dolskimaj
 - /hikes/caven
+- /biking/resseltrail
 - /hikes/malagora
 - /hikes/maligolak
-- /hikes/kucelj
 peak: 45.928761,13.825091
 region: vipava
 start: 45.946729,13.870261

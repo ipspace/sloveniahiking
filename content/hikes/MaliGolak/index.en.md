@@ -22,8 +22,8 @@ nearby:
 - /hikes/dolskimaj
 - /hikes/caven
 - /biking/vojsko
+- /biking/resseltrail
 - /hikes/kucelj
-- /hikes/malagora
 peak: 45.978565,13.864346
 region: primorska
 title: Mali Golak

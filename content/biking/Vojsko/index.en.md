@@ -26,7 +26,7 @@ nearby:
 - /hikes/maligolak
 - /biking/zadlog
 - /hikes/dolskimaj
-- /hikes/otliskookno
+- /biking/resseltrail
 region: primorska
 start: 45.981987,13.973719
 title: Vojsko from Čekovnik
