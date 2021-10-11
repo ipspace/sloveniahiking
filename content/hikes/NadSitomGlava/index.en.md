@@ -34,7 +34,7 @@ timing:
 - 'Descent: 1 hour'
 - 'Total: 2.5 – 3 hours'
 title: Nad Šitom Glava
-video: https://www.relive.cc/view/vRO7VNMxgyv
+video: https://www.relive.cc/view/vRO7VNMxgyv/
 ---
 {{<hike-details description="yes">}}
 

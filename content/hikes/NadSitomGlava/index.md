@@ -34,5 +34,5 @@ timing:
 - 'Spust: 1 ura'
 - 'Skupaj: 2.5 – 3 ure'
 title: Nad Šitom Glava
-video: https://www.relive.cc/view/vRO7VNMxgyv
+video: https://www.relive.cc/view/vRO7VNMxgyv/
 ---
