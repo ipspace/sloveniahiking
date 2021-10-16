@@ -808,9 +808,9 @@
     "nearby": [
       "/hikes/hrastovljezazid",
       "/hikes/kuk",
+      "/hikes/lacnakukkvirik",
       "/hikes/podgorje",
-      "/hikes/slavnik",
-      "/hikes/lacna"
+      "/hikes/slavnik"
     ],
     "peak": "45.479620,13.966214",
     "region": "istria",
@@ -3328,6 +3328,50 @@
     }
   },
   {
+    "date": "2021-10-16 10:33:34+00:00",
+    "delta": 500,
+    "description": {
+      "sl": "\u010ce ste prehodili \u017ee vse poti na La\u010dno, naredite \u0161e kro\u017eno pot \u010dez La\u010dno, Kuk, skozi Movra\u017e in nazaj mimo Kvirika.",
+      "en": "We love visiting La\u010dna in autumn to enjoy the fiery fall colors of the [European smoke bush](https://en.wikipedia.org/wiki/Cotinus_coggygria), and we try to do a slightly different hike every year. This time, we went for a long roundtrip visiting La\u010dna, Kuk, Movra\u017e, and Kvirik."
+    },
+    "difficulty": "Dolg prijeten sprehod po razglednih travnikih",
+    "difflevel": 2,
+    "duration": 4,
+    "gpx": {
+      "center": {
+        "lat": 45.485693307008574,
+        "lon": 13.897403663645969
+      },
+      "file": "LacnaKukKvirik.gpx",
+      "modified": 1634381068
+    },
+    "height": 497,
+    "layout": "structured",
+    "lead": "M_20211015_113838.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/1575",
+    "name": "LacnaKukKvirik",
+    "nearby": [
+      "/hikes/kuk",
+      "/hikes/hrastovljezazid",
+      "/hikes/lacna",
+      "/hikes/lipnik",
+      "/hikes/abitanti"
+    ],
+    "peak": "45.463809,13.904364",
+    "region": "istria",
+    "start": "45.495196,13.887565",
+    "timing": [
+      "Vzpon: ",
+      "Spust: ",
+      "Skupaj: "
+    ],
+    "title": {
+      "sl": "La\u010dna, Kuk in Kvirik",
+      "en": "La\u010dna, Kuk and Kvirik"
+    },
+    "video": "https://www.relive.cc/view/vrqorDQr5y6/"
+  },
+  {
     "date": "2021-09-13 20:51:01+00:00",
     "delta": 480,
     "description": {
@@ -3371,7 +3415,7 @@
       "sl": "Nad \u0160itom Glava",
       "en": "Nad \u0160itom Glava"
     },
-    "video": "https://www.relive.cc/view/vRO7VNMxgyv"
+    "video": "https://www.relive.cc/view/vRO7VNMxgyv/"
   },
   {
     "date": "2003-06-01 00:00:00+00:00",
@@ -4321,10 +4365,10 @@
     "name": "Kuk",
     "nearby": [
       "/hikes/hrastovljezazid",
+      "/hikes/lacnakukkvirik",
       "/hikes/lacna",
       "/hikes/lipnik",
-      "/biking/rizanapraproce",
-      "/hikes/podgorje"
+      "/biking/rizanapraproce"
     ],
     "peak": "45.485013,13.917515",
     "region": "istria",
@@ -5431,7 +5475,7 @@
     "delta": 150,
     "description": {
       "sl": "Iz Gra\u010di\u0161\u010da, vasi na ju\u017enih obronkih La\u010dne, tik ob glavni cesti proti Hrva\u0161ki, je do vrha La\u010dne speljana kratka razgledna pot, ki je kot nala\u0161\u010d za dru\u017einski nedeljski izlet.",
-      "en": null
+      "en": "A leisurely walk from Gra\u010di\u0161\u010de (a village in Slovenian Istria next to the main road toward Buzet) to La\u010dna is an ideal short family hike that you could easily extend into a much longer experience, depending on how enthusiastic your kids are.\n"
     },
     "difflevel": 1,
     "duration": 1.5,
@@ -5444,14 +5488,14 @@
     "name": "Lacna/Gracisce",
     "nearby": [
       "/hikes/lacna",
-      "/biking/marezigetrsek",
       "/hikes/kuk",
+      "/biking/marezigetrsek",
       "/biking/rizanapraproce",
       "/hikes/hrastovljezazid"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
-    "start": "45.502752,13.874163",
+    "start": "45.502955,13.876214",
     "title": {
       "sl": "La\u010dna iz Gra\u010di\u0161\u010da",
       "en": "La\u010dna from Gra\u010di\u0161\u010de"
@@ -5473,7 +5517,7 @@
       "/biking/rizanapraproce",
       "/hikes/hrastovljezazid",
       "/biking/marezigetrsek",
-      "/hikes/podgorje"
+      "/hikes/lacnakukkvirik"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -6374,9 +6418,9 @@
     "nearby": [
       "/biking/marezigeborst",
       "/biking/marezigetrsek",
+      "/hikes/lacnakukkvirik",
       "/hikes/lacna",
-      "/hikes/kuk",
-      "/biking/marezigesmarje"
+      "/hikes/kuk"
     ],
     "peak": "45.436224,13.825319",
     "region": "istria",

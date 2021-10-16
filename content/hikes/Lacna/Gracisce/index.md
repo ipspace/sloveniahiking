@@ -15,13 +15,13 @@ multipath: true
 name: Lacna/Gracisce
 nearby:
 - /hikes/lacna
-- /biking/marezigetrsek
 - /hikes/kuk
+- /biking/marezigetrsek
 - /biking/rizanapraproce
 - /hikes/hrastovljezazid
 peak: 45.504969,13.885283
 region: istria
-start: 45.502752,13.874163
+start: 45.502955, 13.876214
 title: Lačna iz Gračišča
 ---
 Iz Gračišča, vasi na južnih obronkih Lačne, tik ob glavni cesti proti Hrvaški, je do vrha [Lačne](../) speljana kratka razgledna pot, ki je kot nalašč za družinski nedeljski izlet.

@@ -15,9 +15,9 @@ name: Lipnik
 nearby:
 - /hikes/hrastovljezazid
 - /hikes/kuk
+- /hikes/lacnakukkvirik
 - /hikes/podgorje
 - /hikes/slavnik
-- /hikes/lacna
 peak: 45.479620,13.966214
 region: istria
 start: 45.499389,13.931462

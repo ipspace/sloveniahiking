@@ -24,9 +24,9 @@ name: Abitanti
 nearby:
 - /biking/marezigeborst
 - /biking/marezigetrsek
+- /hikes/lacnakukkvirik
 - /hikes/lacna
 - /hikes/kuk
-- /biking/marezigesmarje
 peak: 45.436224,13.825319
 region: istria
 start: 45.458375,13.850126

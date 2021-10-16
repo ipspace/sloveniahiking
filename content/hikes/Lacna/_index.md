@@ -17,7 +17,7 @@ nearby:
 - /biking/rizanapraproce
 - /hikes/hrastovljezazid
 - /biking/marezigetrsek
-- /hikes/podgorje
+- /hikes/lacnakukkvirik
 peak: 45.504969,13.885283
 region: istria
 title: Lačna
