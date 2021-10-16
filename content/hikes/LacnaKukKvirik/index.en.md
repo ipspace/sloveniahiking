@@ -1,7 +1,7 @@
 ---
 date: 2021-10-16 10:33:34+00:00
 delta: 500
-description: We love visiting Lačna in autumn to enjoy the fiery fall colors of the
+description: We love visiting [Lačna](/en/hikes/lacna) in autumn to enjoy the fiery fall colors of the
   [European smoke bush](https://en.wikipedia.org/wiki/Cotinus_coggygria), and we try
   to do a slightly different hike every year. This time, we went for a long roundtrip
   visiting Lačna, Kuk, Movraž, and Kvirik.
@@ -35,7 +35,7 @@ video: https://www.relive.cc/view/vrqorDQr5y6/
 
 ## Lačna
 
-* We love to start our trips in this part of Slovenia at a tiny parking lot in the middle of nowhere. You might decide to set off from Gračišče.
+* We love to start our trips in this part of Slovenia at a tiny parking lot in the middle of nowhere. You might decide to set off from [Gračišče](../lacna/gracisce).
 * From the parking lot, follow the red signs (Gračišče/Lačna) onto a narrow footpath descending into the forest.
 * The footpath quickly reaches the road toward Movraž. Turn left, and after a short while, cross the road and take a gravel road toward Gračišče.
 * [Hike to Lačna](../lacna/gracisce).
@@ -49,7 +49,7 @@ video: https://www.relive.cc/view/vrqorDQr5y6/
 
 ## Kuk
 
-* From the tower on Lačna, take a footpath going east (direction Kuk).
+* From the tower on Lačna, take a footpath going east (direction [Kuk](../kuk)).
 * The footpath merges with the dirt trail you used to get to Lačna. Keep going east.
 * When you reach a barely noticeable saddle, you'll notice a dirt trail going right (descending into the valley). You can use that trail to get back to the car (see [OpenCycleMap](https://www.opencyclemap.org/?zoom=15&lat=45.49814&lon=13.89022&layers=B0000) for details).
 * Follow the waymarks until you reach the signpost on the grassy plateau around Kuk. The peak is on the left; the trail you could use to get to Movraž is going right.
