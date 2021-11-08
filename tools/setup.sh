@@ -1,6 +1,5 @@
 #!/bin/bash
 me=${BASH_SOURCE:-$_}
-echo "me: $me"
 dir=$(dirname "$me")
 dir=$(cd "$dir" >/dev/null && pwd)
 echo Adding $dir to PATH

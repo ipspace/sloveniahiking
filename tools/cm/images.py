@@ -66,10 +66,13 @@ def get_exif(img):
       exif[ExifTags.TAGS[k]] = v
 
   if 'GPSInfo' in exif:
-    gpsinfo = {}
-    for key in exif['GPSInfo'].keys():
-      decode = ExifTags.GPSTAGS.get(key,key)
-      gpsinfo[decode] = exif['GPSInfo'][key]
-    exif['GPSInfo'] = gpsinfo
+    try:
+      gpsinfo = {}
+      for key in exif['GPSInfo'].keys():
+        decode = ExifTags.GPSTAGS.get(key,key)
+        gpsinfo[decode] = exif['GPSInfo'][key]
+      exif['GPSInfo'] = gpsinfo
+    except:
+      pass
 
   return exif

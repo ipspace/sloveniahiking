@@ -26,8 +26,11 @@ def get_pic_id(dir,exif,prefix):
   if dir != "":
     dir = dir + "/"
 
-  date = exif['DateTimeOriginal']
-  return dir + prefix + date.replace(":","").replace(" ","_")+".jpg"
+  date = exif.get('DateTimeOriginal',None) or exif.get('DateTime',None)
+  if date:
+    return dir + prefix + date.replace(":","").replace(" ","_")+".jpg"
+  
+  return None
 
 args = parse_cli()
 for img in args.pics:
@@ -56,6 +59,9 @@ for img in args.pics:
         new_name = args.prefix + "-" + pic_name.replace(" ","-").lower()
       if args.renumber:
         new_name = get_pic_id(pic_dir,exif,"M_")
+        if not new_name:
+          print("Cannot get timestamp, not renaming")
+          continue
 
       new_name.replace(".jpeg",".jpg")
       print("Renaming %s to %s" % (pic_name,new_name))
