@@ -1615,6 +1615,8 @@ div.thumb {
   color: #908d8c; }
   .crumbs img {
     margin: 0 3px; }
+  .crumbs:first-child {
+    margin-top: 0; }
 
 .teaserBox {
   margin: 24px 0;
