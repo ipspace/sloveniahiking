@@ -6,6 +6,13 @@ description: Kobilja glava je travnat razgleden vrh vzhodno od Tolmina z verjetn
   Slovencev te vrhove pozna kot Spodnje Bohinjske gore).
 difflevel: 2
 duration: 3
+gpx:
+  center:
+    lat: 46.188816487873694
+    lon: 13.788746876169537
+  file: KobiljaGlava.gpx
+  modified: 1636383242
+  zoom: 15
 height: 1475
 lead: M_0_00656.JPG
 map: 1
@@ -21,6 +28,7 @@ peak: 46.190011,13.795463
 region: julian-alps
 start: 46.190533,13.782526
 title: Kobilja glava
+video: https://www.relive.cc/view/vPOpdeJG3RO/
 ---
 {{<figure src="M_0_00656.JPG">}}
 
