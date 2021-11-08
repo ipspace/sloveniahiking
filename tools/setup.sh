@@ -1,5 +1,7 @@
 #!/bin/bash
-dir=$(dirname "${BASH_SOURCE[0]}")
+me=${BASH_SOURCE:-$_}
+echo "me: $me"
+dir=$(dirname "$me")
 dir=$(cd "$dir" >/dev/null && pwd)
 echo Adding $dir to PATH
 top=$(dirname $dir)
