@@ -44,3 +44,5 @@ title: Lake Krn (Krnsko jezero)
 * You'll follow a wide mule trail that zigzags across a steep slope covered with beech forest for almost two hours (~700 m altitude gain).
 * Once you reach the saddle in the ridge surrounding Lepena valley the fairy tale starts. Enjoy the magnificent views of the surrounding peaks!
 * Keep to the right and stay on an easy path that will guide you across sunny meadows right to the lake.
+
+{{<include "bovec.md">}}

@@ -45,3 +45,5 @@ video: https://www.relive.cc/view/vQvxBAo3BB6/
 * Once you reach the edge of the first meadow, keep on the path to reach the second meadow of the Golobar pasture with a tiny WWI cemetery.
 * From that meadow, follow the signs for Zaprikraj/Drežnica to reach the upper parts of the Golobar pasture and the Čez Utre saddle. Enjoy the views ;)
 * We returned on the same path. In theory, you could descend into Čezsoča (another marked trail) and then use the paths along the Soča river to get back to the starting point.
+
+{{<include "bovec.md">}}

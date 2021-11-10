@@ -46,3 +46,5 @@ video: https://www.relive.cc/view/vMv8QDxeBPO/
 * After a few kilometers, the footpath ends at the gravel road. Turn left and start following the red hiking waymarks and signs for *Mangart* until you reach a hunting hut with a fantastic view of Mangart and Jalovec.
 * Return on the same path, or use the gravel road to stay closer to the river.
 * We got sick-and-tired of the gravel road and decided to get back to the footpath. We followed the signs for *Lukež*; a short ascent brought us to a house next to the trail we used earlier.
+
+{{<include "bovec.md">}}
