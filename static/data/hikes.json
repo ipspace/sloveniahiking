@@ -2761,10 +2761,10 @@
     "name": "Golobar",
     "nearby": [
       "/hikes/krnskojezero/",
+      "/hikes/planinakrnica",
       "/hikes/loskakoritnica",
       "/hikes/malamojstrovka",
-      "/hikes/tamar",
-      "/hikes/planinarazor"
+      "/hikes/tamar"
     ],
     "path": "https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675",
     "peak": "46.316692,13.614670",
@@ -5774,6 +5774,50 @@
     "title": {
       "sl": "Trojica nad Dobom",
       "en": "Holy Trinity above Dob"
+    }
+  },
+  {
+    "date": "2021-11-11 07:01:18+00:00",
+    "delta": 650,
+    "description": {
+      "sl": "Planina Krnica le\u017ei visoko nad Bovcem na ju\u017enem pobo\u010dju Kanina. Do nje lahko pridete po cesti (raje ne), iz Bovca (dolgo) ali pa za\u010dnete nekje vmes.",
+      "en": "Planina Krnica (Krnica Alp) is a rocky alp high on the southern slopes of Kanin massif with a wonderful view of the peaks across the So\u010da valley. If you're stubborn enough you can get there by road; if you love long hikes start in Bovec. We decided for an interim approach."
+    },
+    "difficulty": "Prijeten ob\u010dasno strm sprehod po mulatjerah in pe\u0161poteh",
+    "difflevel": 3,
+    "duration": 4,
+    "gpx": {
+      "center": {
+        "lat": 46.34772848334076,
+        "lon": 13.515786098865384
+      },
+      "file": "PlaninaKrnica.gpx",
+      "modified": 1636614836,
+      "zoom": 15
+    },
+    "height": 1252,
+    "layout": "structured",
+    "lead": "M_20211106_103728.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/77042",
+    "name": "PlaninaKrnica",
+    "nearby": [
+      "/hikes/golobar",
+      "/hikes/loskakoritnica",
+      "/hikes/krnskojezero/",
+      "/hikes/tamar"
+    ],
+    "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_krnica/1/421/8105",
+    "peak": "46.352437,13.508516",
+    "region": "julian-alps",
+    "start": "46.342565,13.516039",
+    "timing": [
+      "Vzpon: 2 uri",
+      "Spust: 1 ura 30 minut",
+      "Skupaj: 4 ure"
+    ],
+    "title": {
+      "sl": "Planina Krnica",
+      "en": "Planina Krnica (Krnica Alp)"
     }
   },
   {

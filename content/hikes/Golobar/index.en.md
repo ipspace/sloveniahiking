@@ -22,10 +22,10 @@ maplink: https://mapzs.pzs.si/path/32458
 name: Golobar
 nearby:
 - /hikes/krnskojezero/
+- /hikes/planinakrnica
 - /hikes/loskakoritnica
 - /hikes/malamojstrovka
 - /hikes/tamar
-- /hikes/planinarazor
 peak: 46.316692,13.614670
 region: julian-alps
 start: 46.336070,13.582052
