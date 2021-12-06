@@ -22,11 +22,11 @@ length: 22.9
 maplink: https://mapzs.pzs.si/poi/1365
 name: VrhpoljeAbram
 nearby:
+- /hikes/skavnica
 - /hikes/plaz
 - /hikes/gradiskatura
 - /hikes/svmiklavz_vipava
 - /hikes/svduh_podkraj
-- /hikes/kovk
 region: vipava
 start: 45.872902,13.972551
 title: Abram (Nanos) from Vrhpolje

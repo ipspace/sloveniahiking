@@ -792,6 +792,52 @@
     "y": 39
   },
   {
+    "date": "2021-12-06 16:43:48+00:00",
+    "delta": 490,
+    "description": {
+      "sl": "\u0160kavnica je ogromna apnen\u010dasta plo\u0161\u010da sredi borovih gozdov na zahodnih pobo\u010djih Nanosa. Tam boste lahko ob\u010dudovali globoke \u0161kraplje ali pa razgled na Vipavsko dolino, Jadransko morje in italijanske Alpe.",
+      "en": "\u0160kavnica is a giant limestone slab in the middle of a pine forest on the west slopes of Nanos plateau. I usually hike there to admire its limestone pavement crisscrossed with deep fissures; the view of Vipava valley, Adriatic sea, and the Italian Alps is just the icing on the cake."
+    },
+    "difficulty": "Prijeten sprehod po borovih gozdi\u010dkih",
+    "difflevel": 2,
+    "duration": 3,
+    "gpx": {
+      "center": {
+        "lat": 45.84114290599737,
+        "lon": 13.976575682506926
+      },
+      "file": "Skavnica.gpx",
+      "modified": 1638809759,
+      "zoom": 14
+    },
+    "height": 734,
+    "layout": "structured",
+    "lead": "M_20211206_120314.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/3893",
+    "name": "Skavnica",
+    "nearby": [
+      "/hikes/plaz",
+      "/hikes/gradiskatura",
+      "/biking/vrhpoljeabram",
+      "/hikes/svmiklavz_vipava",
+      "/hikes/kovk"
+    ],
+    "path": "https://www.hribi.net/izlet/gradisce_skavnica/26/3274/7816",
+    "peak": "45.84970,13.98185",
+    "region": "vipava",
+    "start": "45.832270,13.971014",
+    "timing": [
+      "Vzpon: 1 ura 30 minut",
+      "Spust: 1 ura",
+      "Skupaj: 3 ure"
+    ],
+    "title": {
+      "sl": "\u0160kavnica",
+      "en": "\u0160kavnica"
+    },
+    "video": "https://www.relive.cc/view/vDqgkykWBGq/"
+  },
+  {
     "date": "2004-06-06 00:00:00+00:00",
     "delta": 420,
     "description": {
@@ -1219,9 +1265,9 @@
     "nearby": [
       "/hikes/svmiklavz_vipava",
       "/hikes/plaz",
+      "/hikes/skavnica",
       "/biking/vrhpoljeabram",
-      "/biking/podnanossocerb",
-      "/hikes/soncnica"
+      "/biking/podnanossocerb"
     ],
     "peak": "45.829279,13.979692",
     "region": "vipava",
@@ -1959,16 +2005,25 @@
     },
     "difflevel": 1,
     "duration": 1.5,
+    "gpx": {
+      "center": {
+        "lat": 45.83768369464225,
+        "lon": 13.971971670844347
+      },
+      "file": "Plaz.gpx",
+      "modified": 1638808409,
+      "zoom": 15
+    },
     "height": 529,
     "lead": "M_2_2245.JPG",
     "maplink": "https://mapzs.pzs.si/poi/1501",
     "name": "Plaz",
     "nearby": [
+      "/hikes/skavnica",
       "/hikes/gradiskatura",
       "/hikes/svmiklavz_vipava",
       "/biking/vrhpoljeabram",
-      "/hikes/soncnica",
-      "/hikes/kovk"
+      "/hikes/soncnica"
     ],
     "peak": "45.842405,13.972171",
     "region": "vipava",
@@ -2483,7 +2538,7 @@
       "/biking/vrhpoljeabram",
       "/hikes/gradiskatura",
       "/hikes/suhivrh",
-      "/hikes/plaz"
+      "/hikes/skavnica"
     ],
     "peak": "45.772613,14.053047",
     "region": "vipava",
@@ -5391,9 +5446,9 @@
     "nearby": [
       "/hikes/soncnica",
       "/hikes/kovk",
+      "/hikes/skavnica",
       "/hikes/starababa",
-      "/hikes/plaz",
-      "/biking/vrhpoljeabram"
+      "/hikes/plaz"
     ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
@@ -5417,10 +5472,10 @@
     "name": "Kovk",
     "nearby": [
       "/hikes/soncnica",
+      "/hikes/skavnica",
       "/hikes/starababa",
       "/hikes/plaz",
-      "/biking/kriznagorajavornik",
-      "/hikes/otliskookno"
+      "/biking/kriznagorajavornik"
     ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
@@ -5451,8 +5506,8 @@
       "/hikes/kovk",
       "/hikes/soncnica",
       "/biking/kriznagorajavornik",
-      "/biking/vrhpoljeabram",
-      "/hikes/plaz"
+      "/hikes/skavnica",
+      "/biking/vrhpoljeabram"
     ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
@@ -5480,9 +5535,9 @@
     "nearby": [
       "/hikes/gradiskatura",
       "/hikes/plaz",
+      "/hikes/skavnica",
       "/biking/vrhpoljeabram",
-      "/biking/podnanossocerb",
-      "/hikes/suhivrh"
+      "/biking/podnanossocerb"
     ],
     "peak": "45.819506,13.982114",
     "region": "vipava",
@@ -6208,9 +6263,9 @@
     "nearby": [
       "/hikes/kovk",
       "/hikes/starababa",
+      "/hikes/skavnica",
       "/hikes/plaz",
-      "/hikes/otliskookno",
-      "/biking/vrhpoljeabram"
+      "/hikes/otliskookno"
     ],
     "path": "../kovk/budanje",
     "peak": "45.886711,13.960029",
@@ -6607,7 +6662,7 @@
       "/hikes/hrusica",
       "/biking/vrhpoljeabram",
       "/biking/predjamahrusica",
-      "/hikes/kovk"
+      "/hikes/skavnica"
     ],
     "peak": "45.871767,14.062456",
     "region": "primorska",
@@ -6987,8 +7042,8 @@
       "/hikes/svmiklavz_vipava",
       "/hikes/gradiskatura",
       "/hikes/plaz",
-      "/biking/vrhpoljeabram",
-      "/hikes/nanos"
+      "/hikes/skavnica",
+      "/biking/vrhpoljeabram"
     ],
     "region": "vipava",
     "start": "45.797329,13.972231",
@@ -7373,11 +7428,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1365",
     "name": "VrhpoljeAbram",
     "nearby": [
+      "/hikes/skavnica",
       "/hikes/plaz",
       "/hikes/gradiskatura",
       "/hikes/svmiklavz_vipava",
-      "/hikes/svduh_podkraj",
-      "/hikes/kovk"
+      "/hikes/svduh_podkraj"
     ],
     "region": "vipava",
     "start": "45.872902,13.972551",

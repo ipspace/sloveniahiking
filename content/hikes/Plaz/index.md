@@ -7,16 +7,23 @@ description: 'Plaz je prijeten cilj krajšega družinskega izleta. Nanj so spelj
   '
 difflevel: 1
 duration: 1.5
+gpx:
+  center:
+    lat: 45.83768369464225
+    lon: 13.971971670844347
+  file: Plaz.gpx
+  modified: 1638808409
+  zoom: 15
 height: 529
 lead: M_2_2245.JPG
 maplink: https://mapzs.pzs.si/poi/1501
 name: Plaz
 nearby:
+- /hikes/skavnica
 - /hikes/gradiskatura
 - /hikes/svmiklavz_vipava
 - /biking/vrhpoljeabram
 - /hikes/soncnica
-- /hikes/kovk
 peak: 45.842405,13.972171
 region: vipava
 start: 45.832270,13.971014

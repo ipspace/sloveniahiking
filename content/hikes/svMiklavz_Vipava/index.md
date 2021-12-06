@@ -21,9 +21,9 @@ name: svMiklavz_Vipava
 nearby:
 - /hikes/gradiskatura
 - /hikes/plaz
+- /hikes/skavnica
 - /biking/vrhpoljeabram
 - /biking/podnanossocerb
-- /hikes/suhivrh
 peak: 45.819506,13.982114
 region: vipava
 start: 45.832270,13.971014
