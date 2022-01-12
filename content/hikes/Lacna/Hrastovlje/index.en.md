@@ -16,7 +16,7 @@ nearby:
 - /hikes/hrastovljezazid
 - /biking/rizanapraproce
 - /hikes/kuk
-- /hikes/podgorje
+- /hikes/crnikal
 peak: 45.504969,13.885283
 region: istria
 start: 45.509506,13.900638

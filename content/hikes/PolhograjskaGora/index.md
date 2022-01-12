@@ -1,10 +1,8 @@
 ---
 date: 2004-04-11 00:00:00+00:00
-delta: 420
-description: Če se želite pošteno prepotiti, bo izlet na Polhograjsko goro kar pravi
-  - 400 metrov višinske razlike prehodite po precej strmi poti v manj kot eni uri.
-  Poleg izboljšane kondicije boste v lepih dneh nagrajeni tudi s čudovitim razgledom
-  z vrha, pozorni popotniki pa bodo opazili še vrsto zanimivih rož.
+delta: 450
+description: |
+  Če se želite pošteno prepotiti, bo izlet na Polhograjsko goro kar pravi -- 450 metrov višinske razlike prehodite po precej strmi poti v manj kot eni uri. Poleg izboljšane kondicije boste v lepih dneh nagrajeni tudi s čudovitim razgledom z vrha, pozorni popotniki pa bodo opazili še vrsto zanimivih rož.
 difflevel: 2
 duration: 2.5
 height: 824
@@ -22,6 +20,7 @@ peak: 46.070824, 14.298751
 region: notranjska
 start: 46.068057,14.313456
 title: Polhograjska Gora
+video: https://www.relive.cc/view/vevYxPZm7yq/
 ---
 
 {{<figure src="M_8-6900_IMG.JPG">}}

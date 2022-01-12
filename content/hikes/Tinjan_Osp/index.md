@@ -19,10 +19,10 @@ maplink: https://mapzs.pzs.si/poi/1827
 name: Tinjan_Osp
 nearby:
 - /hikes/socerb
+- /hikes/crnikal
 - /hikes/zgornjikras
 - /biking/rizanapraproce
 - /biking/marezigetrsek
-- /hikes/lacna
 peak: 45.561375,13.835055
 region: istria
 start: 45.571298,13.857212

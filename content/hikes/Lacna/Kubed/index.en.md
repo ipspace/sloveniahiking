@@ -14,9 +14,9 @@ name: Lacna/Kubed
 nearby:
 - /hikes/lacna
 - /biking/rizanapraproce
+- /hikes/crnikal
 - /biking/marezigetrsek
 - /hikes/hrastovljezazid
-- /hikes/kuk
 peak: 45.504969,13.885283
 region: istria
 start: 45.519562,13.869997

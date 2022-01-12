@@ -13,7 +13,7 @@ nearby:
 - /hikes/hrastovljezazid
 - /biking/rizanapraproce
 - /hikes/lipnik
-- /hikes/kuk
+- /hikes/crnikal
 peak: 45.533685,13.975236
 region: istria
 title: Slavnik

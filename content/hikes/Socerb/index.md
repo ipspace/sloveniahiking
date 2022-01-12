@@ -13,9 +13,9 @@ name: Socerb
 nearby:
 - /hikes/zgornjikras
 - /hikes/tinjan_osp
+- /hikes/crnikal
 - /hikes/kokos
 - /biking/rizanapraproce
-- /hikes/podgorje
 peak: 45.589477,13.860844
 region: istria
 start: 45.571298,13.857212

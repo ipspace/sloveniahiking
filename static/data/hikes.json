@@ -68,10 +68,10 @@
     "name": "Slavnik/Presnica",
     "nearby": [
       "/hikes/podgorje",
+      "/hikes/crnikal",
       "/biking/rizanapraproce",
       "/hikes/slavnik",
-      "/hikes/zgornjikras",
-      "/hikes/socerb"
+      "/hikes/zgornjikras"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -154,7 +154,7 @@
       "/hikes/hrastovljezazid",
       "/biking/rizanapraproce",
       "/hikes/lipnik",
-      "/hikes/kuk"
+      "/hikes/crnikal"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -1652,7 +1652,7 @@
       "en": "Kobilja glava is a grassy peak east of Tolmin with a wonderful view of southern peaks of Julian Alps. You could hike there from Planina Stador (Stador Alp), or start way lower on the road to extend the hike for another hour.\n"
     },
     "difflevel": 2,
-    "duration": 3,
+    "duration": 2.5,
     "gpx": {
       "center": {
         "lat": 46.188816487873694,
@@ -2471,10 +2471,10 @@
     "name": "Tinjan_Osp",
     "nearby": [
       "/hikes/socerb",
+      "/hikes/crnikal",
       "/hikes/zgornjikras",
       "/biking/rizanapraproce",
-      "/biking/marezigetrsek",
-      "/hikes/lacna"
+      "/biking/marezigetrsek"
     ],
     "peak": "45.561375,13.835055",
     "region": "istria",
@@ -2663,8 +2663,8 @@
       "/hikes/socerb",
       "/hikes/kokos",
       "/hikes/tinjan_osp",
-      "/biking/rizanapraproce",
-      "/hikes/podgorje"
+      "/hikes/crnikal",
+      "/biking/rizanapraproce"
     ],
     "peak": "45.601636,13.875859",
     "region": "istria",
@@ -5523,12 +5523,12 @@
     "delta": 200,
     "description": {
       "sl": "Kratek sprehod vas bo iz Gradi\u0161\u010da popeljal do cerkvice visoko nad Vipavsko dolino",
-      "en": null
+      "en": "As you're traveling on the highway from Postojna toward Vipava, you might notice a tiny church high on the slopes of Nanos plateau (look right just before the gas station) -- the Saint Nicholas church, a perfect destination for a short family hike.\n"
     },
     "difflevel": 1,
     "duration": 2,
     "height": 445,
-    "lead": "M_9_0910.JPG",
+    "lead": "M_20211230_114436.jpg",
     "map": 1,
     "maplink": "https://mapzs.pzs.si/poi/1661",
     "name": "svMiklavz_Vipava",
@@ -5544,10 +5544,9 @@
     "start": "45.832270,13.971014",
     "title": {
       "sl": "Sveti Miklav\u017e nad Vipavsko dolino",
-      "en": "Saint Nicholas above Vipava valley"
+      "en": "Saint Nicholas above Vipava Valley"
     },
-    "x": 421,
-    "y": 76
+    "video": "https://www.relive.cc/view/vRO7Vx32oyv/"
   },
   {
     "date": "2002-11-03 00:00:00+00:00",
@@ -5568,9 +5567,9 @@
     "nearby": [
       "/hikes/lacna",
       "/biking/rizanapraproce",
+      "/hikes/crnikal",
       "/biking/marezigetrsek",
-      "/hikes/hrastovljezazid",
-      "/hikes/kuk"
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5626,8 +5625,8 @@
       "/hikes/kuk",
       "/biking/rizanapraproce",
       "/hikes/hrastovljezazid",
-      "/biking/marezigetrsek",
-      "/hikes/lacnakukkvirik"
+      "/hikes/crnikal",
+      "/biking/marezigetrsek"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5659,7 +5658,7 @@
       "/hikes/hrastovljezazid",
       "/biking/rizanapraproce",
       "/hikes/kuk",
-      "/hikes/podgorje"
+      "/hikes/crnikal"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5686,9 +5685,9 @@
     "nearby": [
       "/hikes/zgornjikras",
       "/hikes/tinjan_osp",
+      "/hikes/crnikal",
       "/hikes/kokos",
-      "/biking/rizanapraproce",
-      "/hikes/podgorje"
+      "/biking/rizanapraproce"
     ],
     "peak": "45.589477,13.860844",
     "region": "istria",
@@ -5721,6 +5720,46 @@
       "sl": "Gospodi\u010dna",
       "en": "Gospodi\u010dna spring in Gorjanci"
     }
+  },
+  {
+    "date": "2021-12-12 19:57:09+00:00",
+    "delta": 210,
+    "description": {
+      "sl": "Izkoristite lep pomladni ali jesenski dan za sprehod okoli Kra\u0161kega Roba, tokrat od \u010crnega Kala proti Podpe\u010di.",
+      "en": "We love exploring paths around the Karst Edge from \u010crni Kal to Zazid, and it's even more fun if they happen to be unmarked. This time we'll do an easy hike along old dirt roads -- an ideal family weekend trip."
+    },
+    "difficulty": "Prijeten dru\u017einski sprehod",
+    "difflevel": 1,
+    "duration": 2,
+    "gpx": {
+      "center": {
+        "lat": 45.54365328593647,
+        "lon": 13.889505270750135
+      },
+      "file": "CrniKal.gpx",
+      "modified": 1642000715,
+      "zoom": 14
+    },
+    "height": 420,
+    "layout": "stub",
+    "lead": "M_20211207_103716.jpg",
+    "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.54395&lon=13.89226&layers=B0000",
+    "name": "CrniKal",
+    "nearby": [
+      "/biking/rizanapraproce",
+      "/hikes/lacna",
+      "/hikes/podgorje",
+      "/hikes/tinjan_osp",
+      "/hikes/hrastovljezazid"
+    ],
+    "peak": "45.54080,13.89606",
+    "region": "istria",
+    "start": "45.549954,13.880922",
+    "title": {
+      "sl": "Kra\u0161ki Rob: nad \u010crnim Kalom",
+      "en": "Karst Edge: Around \u010crni Kal"
+    },
+    "video": "https://www.relive.cc/view/v7O9Drex2Qv/"
   },
   {
     "date": "2007-06-17 00:00:00+00:00",
@@ -6107,8 +6146,8 @@
       "/hikes/zgornjikras",
       "/hikes/socerb",
       "/hikes/tinjan_osp",
-      "/biking/rizanapraproce",
-      "/hikes/podgorje"
+      "/hikes/crnikal",
+      "/biking/rizanapraproce"
     ],
     "peak": "45.644495,13.899890",
     "region": "karst",
@@ -6617,10 +6656,10 @@
   },
   {
     "date": "2004-04-11 00:00:00+00:00",
-    "delta": 420,
+    "delta": 450,
     "description": {
-      "sl": "\u010ce se \u017eelite po\u0161teno prepotiti, bo izlet na Polhograjsko goro kar pravi - 400 metrov vi\u0161inske razlike prehodite po precej strmi poti v manj kot eni uri. Poleg izbolj\u0161ane kondicije boste v lepih dneh nagrajeni tudi s \u010dudovitim razgledom z vrha, pozorni popotniki pa bodo opazili \u0161e vrsto zanimivih ro\u017e.",
-      "en": null
+      "sl": "\u010ce se \u017eelite po\u0161teno prepotiti, bo izlet na Polhograjsko goro kar pravi -- 450 metrov vi\u0161inske razlike prehodite po precej strmi poti v manj kot eni uri. Poleg izbolj\u0161ane kondicije boste v lepih dneh nagrajeni tudi s \u010dudovitim razgledom z vrha, pozorni popotniki pa bodo opazili \u0161e vrsto zanimivih ro\u017e.\n",
+      "en": "Imagine you were living in a small village in the 17th century. How would you call the hilltop behind it? If it's high enough, it's bound to be The Mountain. Fast forward to the times of mass tourism -- the townspeople want to know which Mountain they visited when they brag about their weekend trips. Welcome to the etymology of Polhograjska Gora (Polhov Gradec Mountain), a lovely hilltop with a church of Saint Laurent.\n"
     },
     "difflevel": 2,
     "duration": 2.5,
@@ -6642,7 +6681,8 @@
     "title": {
       "sl": "Polhograjska Gora",
       "en": "Polhograjska Gora"
-    }
+    },
+    "video": "https://www.relive.cc/view/vevYxPZm7yq/"
   },
   {
     "date": "2002-10-06 00:00:00+00:00",
@@ -6756,8 +6796,8 @@
       "/hikes/slavnik",
       "/biking/rizanapraproce",
       "/hikes/hrastovljezazid",
-      "/hikes/kuk",
-      "/hikes/lacna"
+      "/hikes/crnikal",
+      "/hikes/kuk"
     ],
     "peak": "45.531420,13.947151",
     "region": "istria",
@@ -7804,11 +7844,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.5338&lon=13.90097&layers=B0000",
     "name": "RizanaPraproce",
     "nearby": [
+      "/hikes/crnikal",
       "/hikes/lacna",
       "/hikes/podgorje",
       "/hikes/hrastovljezazid",
-      "/hikes/kuk",
-      "/hikes/slavnik"
+      "/hikes/kuk"
     ],
     "region": "istria",
     "start": "45.523654,13.889561",
