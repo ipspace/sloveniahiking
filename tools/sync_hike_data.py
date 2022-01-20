@@ -71,9 +71,8 @@ def sync_hike_data(si_path):
         en_page[key] = si_page[key]
         print("Copying %s from %s" % (key,si_path))
 
-  for key in ['gpx']:
-    if en_page.get(key,None):
-      si_page[key] = en_page[key]
+  if 'gpx' in en_page and not 'map' in si_page:
+    si_page['gpx'] = en_page['gpx']
 
   if yaml.dump(si_page) != si_yaml:
     print("SI page changed, updating...")
