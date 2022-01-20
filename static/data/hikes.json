@@ -854,9 +854,9 @@
     "nearby": [
       "/hikes/hrastovljezazid",
       "/hikes/kuk",
+      "/hikes/velibadin",
       "/hikes/lacnakukkvirik",
-      "/hikes/podgorje",
-      "/hikes/slavnik"
+      "/hikes/podgorje"
     ],
     "peak": "45.479620,13.966214",
     "region": "istria",
@@ -2485,6 +2485,46 @@
     }
   },
   {
+    "date": "2022-01-20 19:22:37+00:00",
+    "delta": 300,
+    "description": {
+      "sl": "\u010ce si konec septembra za\u017eelite prave poletne vro\u010dine, se odpravite na potep po skalnem robu med So\u010dergo in Mlini ki ga zaklju\u010dite z obiskom ogromnih spodmolov tik ob dr\u017eavni meji.",
+      "en": "The cliffs at the boundary between limestone and clay parts of Slovenian Istria end with enormous rock shelters -- a must-see for every hiker visiting these parts of Slovenia."
+    },
+    "difficulty": "Prijeten dru\u017einski sprehod",
+    "difflevel": 1,
+    "duration": 2,
+    "gpx": {
+      "center": {
+        "lat": 45.458824530309585,
+        "lon": 13.911695688307205
+      },
+      "file": "VeliBadin.gpx",
+      "modified": 1642708294,
+      "zoom": 14
+    },
+    "height": 410,
+    "layout": "structured",
+    "lead": "M_20220119_125939.jpg",
+    "maplink": "https://mapzs.pzs.si/path/32098",
+    "name": "VeliBadin",
+    "nearby": [
+      "/hikes/lacnakukkvirik",
+      "/hikes/kuk",
+      "/hikes/lipnik",
+      "/hikes/hrastovljezazid",
+      "/hikes/lacna"
+    ],
+    "peak": "45.454250,13.924210",
+    "region": "istria",
+    "start": "45.463854,13.896891",
+    "title": {
+      "sl": "Spodmoli, mostovi in fu\u017ei",
+      "en": "Rock Shelters in Veli Badin"
+    },
+    "video": "https://www.relive.cc/view/vmqXXkrBKoq/"
+  },
+  {
     "author": "Joze_Zugelj",
     "date": "2007-01-21 00:00:00+00:00",
     "delta": 307,
@@ -3416,11 +3456,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1575",
     "name": "LacnaKukKvirik",
     "nearby": [
+      "/hikes/velibadin",
       "/hikes/kuk",
       "/hikes/hrastovljezazid",
       "/hikes/lacna",
-      "/hikes/lipnik",
-      "/hikes/abitanti"
+      "/hikes/lipnik"
     ],
     "peak": "45.463809,13.904364",
     "region": "istria",
@@ -4477,8 +4517,8 @@
       "/hikes/hrastovljezazid",
       "/hikes/lacnakukkvirik",
       "/hikes/lacna",
-      "/hikes/lipnik",
-      "/biking/rizanapraproce"
+      "/hikes/velibadin",
+      "/hikes/lipnik"
     ],
     "peak": "45.485013,13.917515",
     "region": "istria",
@@ -6612,8 +6652,8 @@
       "/biking/marezigeborst",
       "/biking/marezigetrsek",
       "/hikes/lacnakukkvirik",
-      "/hikes/lacna",
-      "/hikes/kuk"
+      "/hikes/velibadin",
+      "/hikes/lacna"
     ],
     "peak": "45.436224,13.825319",
     "region": "istria",

@@ -18,11 +18,11 @@ lead: M_20211015_113838.jpg
 maplink: https://mapzs.pzs.si/poi/1575
 name: LacnaKukKvirik
 nearby:
+- /hikes/velibadin
 - /hikes/kuk
 - /hikes/hrastovljezazid
 - /hikes/lacna
 - /hikes/lipnik
-- /hikes/abitanti
 peak: 45.463809,13.904364
 region: istria
 start: 45.495196,13.887565

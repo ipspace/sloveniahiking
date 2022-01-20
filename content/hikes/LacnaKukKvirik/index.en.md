@@ -1,10 +1,10 @@
 ---
 date: 2021-10-16 10:33:34+00:00
 delta: 500
-description: We love visiting [Lačna](/en/hikes/lacna) in autumn to enjoy the fiery fall colors of the
-  [European smoke bush](https://en.wikipedia.org/wiki/Cotinus_coggygria), and we try
-  to do a slightly different hike every year. This time, we went for a long roundtrip
-  visiting Lačna, Kuk, Movraž, and Kvirik.
+description: We love visiting [Lačna](/en/hikes/lacna) in autumn to enjoy the fiery
+  fall colors of the [European smoke bush](https://en.wikipedia.org/wiki/Cotinus_coggygria),
+  and we try to do a slightly different hike every year. This time, we went for a
+  long roundtrip visiting Lačna, Kuk, Movraž, and Kvirik.
 difficulty: Long easy hike with an adventurous twist
 difflevel: 2
 duration: 4
@@ -20,11 +20,11 @@ length: 14.6
 maplink: https://mapzs.pzs.si/poi/1575
 name: LacnaKukKvirik
 nearby:
+- /hikes/velibadin
 - /hikes/kuk
 - /hikes/hrastovljezazid
 - /hikes/lacna
 - /hikes/lipnik
-- /hikes/abitanti
 peak: 45.463809,13.904364
 region: istria
 start: 45.495196,13.887565

@@ -26,8 +26,8 @@ nearby:
 - /biking/marezigeborst
 - /biking/marezigetrsek
 - /hikes/lacnakukkvirik
+- /hikes/velibadin
 - /hikes/lacna
-- /hikes/kuk
 peak: 45.436224,13.825319
 region: istria
 start: 45.458375,13.850126
