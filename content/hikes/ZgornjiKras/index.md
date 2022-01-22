@@ -28,6 +28,7 @@ peak: 45.601636,13.875859
 region: istria
 start: 45.588664,13.866753
 title: Zgornji Kras
+video: https://www.relive.cc/view/vXOnwmBJo56/
 x: 413
 y: 51
 ---

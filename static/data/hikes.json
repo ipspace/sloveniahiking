@@ -2689,7 +2689,7 @@
     "delta": 50,
     "description": {
       "sl": "Severozahodno od Socerba le\u017ei Zgornji Kras, planota, porasla z redkimi borovimi gozdi\u010dki, med katerimi se razprostirajo vabe\u010di kra\u0161ki travniki.",
-      "en": null
+      "en": "When our kids were still in kindergarten, they loved hiking around _the place with the Bora wind_ -- the meadows of Zgornji Kras, a karst plateau above Trieste with beautiful views of surrounding hills and the Adriatic Sea.\n"
     },
     "difflevel": 1,
     "dirty": true,
@@ -2711,8 +2711,9 @@
     "start": "45.588664,13.866753",
     "title": {
       "sl": "Zgornji Kras",
-      "en": "Upper Karst"
+      "en": "Zgornji Kras and Socerb Castle"
     },
+    "video": "https://www.relive.cc/view/vXOnwmBJo56/",
     "x": 413,
     "y": 51
   },
