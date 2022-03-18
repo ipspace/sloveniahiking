@@ -27,6 +27,7 @@ timing:
 - 'Descent: 45 minutes'
 - 'Total: 2 hours'
 title: Orlovca
+video: https://www.relive.cc/view/vNOPoPQZNYv/
 ---
 {{<hike-details description="yes">}}
 

@@ -26,5 +26,6 @@ timing:
 - 'Spust: 45 minut'
 - 'Skupaj: 2 uri'
 title: Orlovca
+video: https://www.relive.cc/view/vNOPoPQZNYv/
 ---
 {{<hike-details description="yes">}}
