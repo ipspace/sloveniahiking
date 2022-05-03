@@ -2882,11 +2882,11 @@ Grid Layout Styles
       background-color: transparent;
       color: #fff; }
 
-#migrated.site-header {
+.site-header#migrated {
   background-color: #d26400;
   color: #fff;
   padding: 12px 0; }
-  #migrated.site-header .container {
+  .site-header#migrated .container {
     display: block; }
 
 .map__frame {
