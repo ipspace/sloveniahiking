@@ -20,11 +20,11 @@ map: 1
 maplink: https://mapzs.pzs.si/poi/36608
 name: DolskiMaj
 nearby:
+- /hikes/orlovca
 - /biking/resseltrail
 - /hikes/otliskookno
 - /hikes/caven
 - /hikes/malagora
-- /hikes/starababa
 peak: 45.933692,13.893652
 region: vipava
 start: 45.943531,13.876619

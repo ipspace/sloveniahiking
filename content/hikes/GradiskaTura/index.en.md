@@ -25,7 +25,7 @@ nearby:
 - /hikes/plaz
 - /hikes/skavnica
 - /biking/vrhpoljeabram
-- /biking/podnanossocerb
+- /biking/nanosekokoca
 peak: 45.829279,13.979692
 region: vipava
 start: 45.832270,13.971014

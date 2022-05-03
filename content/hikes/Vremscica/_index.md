@@ -12,9 +12,9 @@ name: Vremscica
 nearby:
 - /hikes/nanos
 - /hikes/suhivrh
+- /biking/nanosekokoca
 - /hikes/kokos
 - /biking/podnanossocerb
-- /hikes/svmiklavz_vipava
 peak: 45.688293,14.061574
 region: primorska
 title: Vremščica

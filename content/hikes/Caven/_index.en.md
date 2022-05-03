@@ -17,8 +17,8 @@ nearby:
 - /hikes/malagora
 - /hikes/kucelj
 - /biking/resseltrail
+- /hikes/orlovca
 - /hikes/dolskimaj
-- /hikes/velikirob
 peak: 45.928964,13.852867
 region: vipava
 title: Čaven

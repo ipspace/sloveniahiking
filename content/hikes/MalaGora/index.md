@@ -16,7 +16,7 @@ nearby:
 - /hikes/kucelj
 - /biking/resseltrail
 - /hikes/skoljsvpavla
-- /hikes/dolskimaj
+- /hikes/orlovca
 peak: 45.922396,13.850510
 region: vipava
 start: 45.928964,13.852867

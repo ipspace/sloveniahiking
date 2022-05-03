@@ -15,7 +15,7 @@ nearby:
 - /hikes/nanos
 - /hikes/suhivrh
 - /hikes/kokos
-- /biking/podnanossocerb
+- /biking/nanosekokoca
 peak: 45.688293,14.061574
 region: primorska
 start: 45.677295,14.069913

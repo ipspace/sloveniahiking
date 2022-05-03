@@ -12,11 +12,11 @@ multilead: M_5-6505_IMG.JPG
 multipath: true
 name: Kucelj/Predmeja
 nearby:
+- /hikes/orlovca
 - /hikes/dolskimaj
 - /hikes/caven
 - /biking/resseltrail
 - /hikes/malagora
-- /hikes/maligolak
 peak: 45.928761,13.825091
 region: vipava
 start: 45.946729,13.870261

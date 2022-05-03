@@ -11,10 +11,10 @@ maplink: https://mapzs.pzs.si/poi/3080
 name: Nanos
 nearby:
 - /hikes/suhivrh
+- /biking/nanosekokoca
 - /hikes/svmiklavz_vipava
 - /biking/podnanossocerb
 - /hikes/gradiskatura
-- /hikes/vremscica
 peak: 45.769507,14.056388
 region: vipava
 title: Nanos

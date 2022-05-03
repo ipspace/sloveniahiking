@@ -30,8 +30,8 @@ nearby:
 - /biking/resseltrail
 - /hikes/starababa
 - /hikes/dolskimaj
+- /hikes/orlovca
 - /hikes/caven
-- /hikes/malagora
 peak: 45.917544,13.911851
 region: vipava
 start: 45.903995,13.912370

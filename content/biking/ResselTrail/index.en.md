@@ -22,10 +22,10 @@ maplink: https://mapzs.pzs.si/poi/5279
 name: ResselTrail
 nearby:
 - /hikes/dolskimaj
+- /hikes/orlovca
 - /hikes/otliskookno
 - /hikes/caven
 - /hikes/malagora
-- /hikes/starababa
 region: vipava
 start: 45.902235,13.881650
 title: Exploring the Ressel Trail

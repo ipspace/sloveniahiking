@@ -1,10 +1,14 @@
 ---
-date: 2022-01-12 14:25:00
+date: 2022-01-12 14:25:00+00:00
 delta: 210
-description: |
-  As you're traveling on the highway from Postojna toward Vipava, you might notice a tiny church high on the slopes of Nanos plateau (look right just before the gas station) -- the Saint Nicholas church, a perfect destination for a short family hike.
-difflevel: 1
+description: 'As you''re traveling on the highway from Postojna toward Vipava, you
+  might notice a tiny church high on the slopes of Nanos plateau (look right just
+  before the gas station) -- the Saint Nicholas church, a perfect destination for
+  a short family hike.
+
+  '
 difficulty: Easy walk with a few short steeper sections
+difflevel: 1
 duration: 2
 gpx:
   center:
@@ -20,9 +24,9 @@ name: svMiklavz_Vipava
 nearby:
 - /hikes/gradiskatura
 - /hikes/plaz
+- /biking/nanosekokoca
 - /hikes/skavnica
 - /biking/vrhpoljeabram
-- /biking/podnanossocerb
 peak: 45.819506,13.982114
 region: vipava
 start: 45.832270,13.971014

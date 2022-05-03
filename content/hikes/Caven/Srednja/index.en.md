@@ -20,10 +20,10 @@ multipath: true
 name: Caven/Srednja
 nearby:
 - /hikes/caven
+- /hikes/orlovca
 - /hikes/dolskimaj
 - /biking/resseltrail
 - /hikes/malagora
-- /hikes/kucelj
 peak: 45.928964,13.852867
 region: vipava
 start: 45.937787,13.869216

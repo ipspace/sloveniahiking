@@ -22,11 +22,11 @@ length: 17.3
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.78557&lon=13.93481&layers=B0000
 name: PodnanosSocerb
 nearby:
+- /biking/nanosekokoca
 - /hikes/svmiklavz_vipava
 - /hikes/gradiskatura
 - /hikes/plaz
 - /hikes/skavnica
-- /biking/vrhpoljeabram
 region: vipava
 start: 45.797329,13.972231
 title: Vipavska Brda (Vipava Hills) from Podnanos

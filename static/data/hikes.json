@@ -289,11 +289,11 @@
     "maplink": "https://mapzs.pzs.si/poi/36608",
     "name": "DolskiMaj",
     "nearby": [
+      "/hikes/orlovca",
       "/biking/resseltrail",
       "/hikes/otliskookno",
       "/hikes/caven",
-      "/hikes/malagora",
-      "/hikes/starababa"
+      "/hikes/malagora"
     ],
     "peak": "45.933692,13.893652",
     "region": "vipava",
@@ -881,11 +881,11 @@
     "maplink": "https://mapzs.pzs.si/poi/5276",
     "name": "MaliGolak",
     "nearby": [
+      "/hikes/orlovca",
       "/hikes/dolskimaj",
       "/hikes/caven",
       "/biking/vojsko",
-      "/biking/resseltrail",
-      "/hikes/kucelj"
+      "/biking/resseltrail"
     ],
     "peak": "45.978565,13.864346",
     "region": "primorska",
@@ -1267,7 +1267,7 @@
       "/hikes/plaz",
       "/hikes/skavnica",
       "/biking/vrhpoljeabram",
-      "/biking/podnanossocerb"
+      "/biking/nanosekokoca"
     ],
     "peak": "45.829279,13.979692",
     "region": "vipava",
@@ -1701,8 +1701,8 @@
       "/hikes/vremscica",
       "/hikes/nanos",
       "/hikes/suhivrh",
-      "/biking/podnanossocerb",
-      "/hikes/svmiklavz_vipava"
+      "/biking/nanosekokoca",
+      "/biking/podnanossocerb"
     ],
     "peak": "45.688293,14.061574",
     "region": "primorska",
@@ -1732,7 +1732,7 @@
       "/hikes/nanos",
       "/hikes/suhivrh",
       "/hikes/kokos",
-      "/biking/podnanossocerb"
+      "/biking/nanosekokoca"
     ],
     "peak": "45.688293,14.061574",
     "region": "primorska",
@@ -1755,9 +1755,9 @@
     "nearby": [
       "/hikes/nanos",
       "/hikes/suhivrh",
+      "/biking/nanosekokoca",
       "/hikes/kokos",
-      "/biking/podnanossocerb",
-      "/hikes/svmiklavz_vipava"
+      "/biking/podnanossocerb"
     ],
     "peak": "45.688293,14.061574",
     "region": "primorska",
@@ -2575,10 +2575,10 @@
     "name": "Nanos/Abram",
     "nearby": [
       "/hikes/svmiklavz_vipava",
+      "/biking/nanosekokoca",
       "/biking/vrhpoljeabram",
       "/hikes/gradiskatura",
-      "/hikes/suhivrh",
-      "/hikes/skavnica"
+      "/hikes/suhivrh"
     ],
     "peak": "45.772613,14.053047",
     "region": "vipava",
@@ -2622,9 +2622,9 @@
     "nearby": [
       "/hikes/nanos",
       "/hikes/suhivrh",
+      "/biking/nanosekokoca",
       "/hikes/vremscica",
-      "/biking/podnanossocerb",
-      "/hikes/svmiklavz_vipava"
+      "/biking/podnanossocerb"
     ],
     "peak": "45.769507,14.056388",
     "region": "vipava",
@@ -2670,10 +2670,10 @@
     "name": "Nanos",
     "nearby": [
       "/hikes/suhivrh",
+      "/biking/nanosekokoca",
       "/hikes/svmiklavz_vipava",
       "/biking/podnanossocerb",
-      "/hikes/gradiskatura",
-      "/hikes/vremscica"
+      "/hikes/gradiskatura"
     ],
     "peak": "45.769507,14.056388",
     "region": "vipava",
@@ -2943,7 +2943,7 @@
     }
   },
   {
-    "date": "2022-03-18 08:45:01+00:00",
+    "date": "2022-03-18 07:45:01+00:00",
     "delta": 320,
     "description": {
       "sl": "Orlovca je previsna stena na robu Gore. Do nje se bomo povzpeli s ceste Ajdov\u0161\u010dina-Predmeja po Poti po Angelski Gori.",
@@ -2966,6 +2966,13 @@
     "lead": "M_20220308_102457.jpg",
     "maplink": "https://www.opencyclemap.org/?zoom=16&lat=45.93545&lon=13.88715&layers=B0000",
     "name": "Orlovca",
+    "nearby": [
+      "/hikes/dolskimaj",
+      "/biking/resseltrail",
+      "/hikes/otliskookno",
+      "/hikes/caven",
+      "/hikes/malagora"
+    ],
     "peak": "45.936770,13.890401",
     "region": "vipava",
     "start": "45.932677,13.886372",
@@ -2977,7 +2984,8 @@
     "title": {
       "sl": "Orlovca",
       "en": "Orlovca"
-    }
+    },
+    "video": "https://www.relive.cc/view/vNOPoPQZNYv/"
   },
   {
     "date": "2003-07-27 00:00:00+00:00",
@@ -4047,8 +4055,8 @@
       "/biking/resseltrail",
       "/hikes/starababa",
       "/hikes/dolskimaj",
-      "/hikes/caven",
-      "/hikes/malagora"
+      "/hikes/orlovca",
+      "/hikes/caven"
     ],
     "peak": "45.917544,13.911851",
     "region": "vipava",
@@ -4159,7 +4167,7 @@
       "/hikes/kucelj",
       "/biking/resseltrail",
       "/hikes/skoljsvpavla",
-      "/hikes/dolskimaj"
+      "/hikes/orlovca"
     ],
     "peak": "45.922396,13.850510",
     "region": "vipava",
@@ -4273,10 +4281,10 @@
     "name": "SuhiVrh",
     "nearby": [
       "/hikes/nanos",
+      "/biking/nanosekokoca",
       "/biking/predjamahrusica",
       "/biking/vrhpoljeabram",
-      "/hikes/svmiklavz_vipava",
-      "/hikes/gradiskatura"
+      "/hikes/svmiklavz_vipava"
     ],
     "peak": "45.798405,14.066979",
     "photo_author": "Mojca_Lustrek",
@@ -4397,10 +4405,10 @@
     "name": "Caven/Srednja",
     "nearby": [
       "/hikes/caven",
+      "/hikes/orlovca",
       "/hikes/dolskimaj",
       "/biking/resseltrail",
-      "/hikes/malagora",
-      "/hikes/kucelj"
+      "/hikes/malagora"
     ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
@@ -4496,8 +4504,8 @@
       "/hikes/malagora",
       "/hikes/kucelj",
       "/biking/resseltrail",
-      "/hikes/dolskimaj",
-      "/hikes/velikirob"
+      "/hikes/orlovca",
+      "/hikes/dolskimaj"
     ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
@@ -4931,11 +4939,11 @@
     "multipath": true,
     "name": "Kucelj/Predmeja",
     "nearby": [
+      "/hikes/orlovca",
       "/hikes/dolskimaj",
       "/hikes/caven",
       "/biking/resseltrail",
-      "/hikes/malagora",
-      "/hikes/maligolak"
+      "/hikes/malagora"
     ],
     "peak": "45.928761,13.825091",
     "region": "vipava",
@@ -5613,9 +5621,9 @@
     "nearby": [
       "/hikes/gradiskatura",
       "/hikes/plaz",
+      "/biking/nanosekokoca",
       "/hikes/skavnica",
-      "/biking/vrhpoljeabram",
-      "/biking/podnanossocerb"
+      "/biking/vrhpoljeabram"
     ],
     "peak": "45.819506,13.982114",
     "region": "vipava",
@@ -7157,11 +7165,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.78557&lon=13.93481&layers=B0000",
     "name": "PodnanosSocerb",
     "nearby": [
+      "/biking/nanosekokoca",
       "/hikes/svmiklavz_vipava",
       "/hikes/gradiskatura",
       "/hikes/plaz",
-      "/hikes/skavnica",
-      "/biking/vrhpoljeabram"
+      "/hikes/skavnica"
     ],
     "region": "vipava",
     "start": "45.797329,13.972231",
@@ -7243,10 +7251,10 @@
     "name": "ResselTrail",
     "nearby": [
       "/hikes/dolskimaj",
+      "/hikes/orlovca",
       "/hikes/otliskookno",
       "/hikes/caven",
-      "/hikes/malagora",
-      "/hikes/starababa"
+      "/hikes/malagora"
     ],
     "region": "vipava",
     "start": "45.902235,13.881650",
@@ -7406,6 +7414,37 @@
     "video": "https://www.relive.cc/view/vdvmDWZ3wNq/",
     "type": "biking",
     "center": "46.083464,14.262724"
+  },
+  {
+    "date": "2022-05-03 15:22:10+00:00",
+    "delta": 600,
+    "description": {
+      "en": "Two asphalt roads lead to Nanos, a mountainous plateau high above Vipava valley. While I like biking on the northwestern road in summer, the one on the sunny southern slopes of Nanos is an ideal choice for spring and autumn days.\n"
+    },
+    "difficulty": "Long continuous steep ascent on an asphalt road",
+    "difflevel": 3,
+    "duration": 2,
+    "height": 805,
+    "layout": "structured",
+    "lead": "M_20220503_114233.jpg",
+    "length": 17.6,
+    "maplink": "https://mapzs.pzs.si/poi/4152",
+    "name": "NanosEkoKoca",
+    "nearby": [
+      "/hikes/svmiklavz_vipava",
+      "/biking/podnanossocerb",
+      "/hikes/gradiskatura",
+      "/hikes/plaz",
+      "/hikes/suhivrh"
+    ],
+    "region": "vipava",
+    "start": "45.792107,13.985617",
+    "title": {
+      "en": "Biking on Southern Slopes of Nanos"
+    },
+    "video": "https://www.relive.cc/view/vevYo72kZJ6/",
+    "type": "biking",
+    "center": "45.797125,13.997495"
   },
   {
     "date": "2021-09-06 14:33:01+00:00",
@@ -7742,9 +7781,9 @@
     "nearby": [
       "/hikes/hleviskeplanine",
       "/hikes/maligolak",
+      "/hikes/orlovca",
       "/biking/zadlog",
-      "/hikes/dolskimaj",
-      "/biking/resseltrail"
+      "/hikes/dolskimaj"
     ],
     "region": "primorska",
     "start": "45.981987,13.973719",

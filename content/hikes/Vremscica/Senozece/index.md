@@ -27,8 +27,8 @@ nearby:
 - /hikes/vremscica
 - /hikes/nanos
 - /hikes/suhivrh
+- /biking/nanosekokoca
 - /biking/podnanossocerb
-- /hikes/svmiklavz_vipava
 peak: 45.688293,14.061574
 region: primorska
 start: 45.720987,14.039668
