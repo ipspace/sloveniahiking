@@ -17,8 +17,8 @@ nearby:
 - /hikes/hrastovljezazid
 - /hikes/kuk
 - /hikes/velibadin
+- /biking/kuklacna
 - /hikes/lacnakukkvirik
-- /hikes/podgorje
 peak: 45.479620,13.966214
 region: istria
 start: 45.499389,13.931462

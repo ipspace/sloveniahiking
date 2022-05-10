@@ -22,9 +22,9 @@ name: VeliBadin
 nearby:
 - /hikes/lacnakukkvirik
 - /hikes/kuk
+- /biking/kuklacna
 - /hikes/lipnik
 - /hikes/hrastovljezazid
-- /hikes/lacna
 peak: 45.454250,13.924210
 region: istria
 start: 45.463854,13.896891

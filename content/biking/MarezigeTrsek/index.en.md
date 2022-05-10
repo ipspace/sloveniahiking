@@ -24,8 +24,8 @@ nearby:
 - /biking/marezigeborst
 - /hikes/lacna
 - /biking/marezigesmarje
+- /biking/kuklacna
 - /hikes/abitanti
-- /hikes/tinjan_osp
 region: istria
 start: 45.506836,13.798535
 title: Marezige – Trsek – Popetre

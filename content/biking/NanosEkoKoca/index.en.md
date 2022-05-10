@@ -30,7 +30,7 @@ nearby:
 - /hikes/suhivrh
 region: vipava
 start: 45.792107,13.985617
-title: Biking on Southern Slopes of Nanos
+title: Southern Slopes of Nanos
 video: https://www.relive.cc/view/vevYo72kZJ6/
 ---
 Two asphalt roads lead to Nanos, a mountainous plateau high above Vipava valley. One starts in Sanabor; the other forks off the old main road from Vipava valley toward Ljubljana. While I like [biking on the Sanabor road](../vrhpoljeabram/) in summer, the one on the sunny southern slopes of Nanos is an ideal choice for spring and autumn days.

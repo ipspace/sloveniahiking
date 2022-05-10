@@ -12,7 +12,7 @@ nearby:
 - /biking/rizanapraproce
 - /hikes/hrastovljezazid
 - /hikes/crnikal
-- /hikes/kuk
+- /biking/kuklacna
 peak: 45.531420,13.947151
 region: istria
 title: Podgorje

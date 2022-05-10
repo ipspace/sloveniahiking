@@ -855,8 +855,8 @@
       "/hikes/hrastovljezazid",
       "/hikes/kuk",
       "/hikes/velibadin",
-      "/hikes/lacnakukkvirik",
-      "/hikes/podgorje"
+      "/biking/kuklacna",
+      "/hikes/lacnakukkvirik"
     ],
     "peak": "45.479620,13.966214",
     "region": "istria",
@@ -2511,9 +2511,9 @@
     "nearby": [
       "/hikes/lacnakukkvirik",
       "/hikes/kuk",
+      "/biking/kuklacna",
       "/hikes/lipnik",
-      "/hikes/hrastovljezazid",
-      "/hikes/lacna"
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.454250,13.924210",
     "region": "istria",
@@ -3504,9 +3504,9 @@
     "nearby": [
       "/hikes/velibadin",
       "/hikes/kuk",
+      "/biking/kuklacna",
       "/hikes/hrastovljezazid",
-      "/hikes/lacna",
-      "/hikes/lipnik"
+      "/hikes/lacna"
     ],
     "peak": "45.463809,13.904364",
     "region": "istria",
@@ -4560,11 +4560,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1575",
     "name": "Kuk",
     "nearby": [
+      "/biking/kuklacna",
       "/hikes/hrastovljezazid",
       "/hikes/lacnakukkvirik",
       "/hikes/lacna",
-      "/hikes/velibadin",
-      "/hikes/lipnik"
+      "/hikes/velibadin"
     ],
     "peak": "45.485013,13.917515",
     "region": "istria",
@@ -5655,7 +5655,7 @@
       "/biking/rizanapraproce",
       "/hikes/crnikal",
       "/biking/marezigetrsek",
-      "/hikes/hrastovljezazid"
+      "/biking/kuklacna"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5683,10 +5683,10 @@
     "name": "Lacna/Gracisce",
     "nearby": [
       "/hikes/lacna",
+      "/biking/kuklacna",
       "/hikes/kuk",
       "/biking/marezigetrsek",
-      "/biking/rizanapraproce",
-      "/hikes/hrastovljezazid"
+      "/biking/rizanapraproce"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5708,11 +5708,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1656",
     "name": "Lacna",
     "nearby": [
+      "/biking/kuklacna",
       "/hikes/kuk",
       "/biking/rizanapraproce",
       "/hikes/hrastovljezazid",
-      "/hikes/crnikal",
-      "/biking/marezigetrsek"
+      "/hikes/crnikal"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5741,10 +5741,10 @@
     "name": "Lacna/Hrastovlje",
     "nearby": [
       "/hikes/lacna",
+      "/biking/kuklacna",
       "/hikes/hrastovljezazid",
       "/biking/rizanapraproce",
-      "/hikes/kuk",
-      "/hikes/crnikal"
+      "/hikes/kuk"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -6726,11 +6726,11 @@
     "maplink": "https://mapzs.pzs.si/path/31057",
     "name": "HrastovljeZazid",
     "nearby": [
+      "/biking/kuklacna",
       "/hikes/kuk",
       "/hikes/lipnik",
       "/hikes/podgorje",
-      "/hikes/lacna",
-      "/biking/rizanapraproce"
+      "/hikes/lacna"
     ],
     "peak": "45.500573,13.932688",
     "region": "istria",
@@ -6883,7 +6883,7 @@
       "/biking/rizanapraproce",
       "/hikes/hrastovljezazid",
       "/hikes/crnikal",
-      "/hikes/kuk"
+      "/biking/kuklacna"
     ],
     "peak": "45.531420,13.947151",
     "region": "istria",
@@ -7315,8 +7315,8 @@
       "/biking/marezigeborst",
       "/hikes/lacna",
       "/biking/marezigesmarje",
-      "/hikes/abitanti",
-      "/hikes/tinjan_osp"
+      "/biking/kuklacna",
+      "/hikes/abitanti"
     ],
     "region": "istria",
     "start": "45.506836,13.798535",
@@ -7440,7 +7440,7 @@
     "region": "vipava",
     "start": "45.792107,13.985617",
     "title": {
-      "en": "Biking on Southern Slopes of Nanos"
+      "en": "Southern Slopes of Nanos"
     },
     "video": "https://www.relive.cc/view/vevYo72kZJ6/",
     "type": "biking",
@@ -7965,7 +7965,7 @@
       "/hikes/lacna",
       "/hikes/podgorje",
       "/hikes/hrastovljezazid",
-      "/hikes/kuk"
+      "/biking/kuklacna"
     ],
     "region": "istria",
     "start": "45.523654,13.889561",
@@ -8006,6 +8006,36 @@
     "video": "https://www.relive.cc/view/vNOPr8dDW2q/",
     "type": "biking",
     "center": "45.819484,13.806326"
+  },
+  {
+    "date": "2022-05-10 15:04:27+00:00",
+    "delta": 430,
+    "description": {
+      "en": "I love hiking across the hills on the limestone edge of Slovenian Istria, but whenever I'm schlepping myself along the long dirt trails, I dream of doing them with a mountain bike. As it turns out, what looks like a wide and easy dirt road when you're hiking could turn into a mischievous beast when you are on a bike, including the trails between Kuk and La\u010dna."
+    },
+    "difficulty": "Steep ascent on asphalt followed by gravel roads and dirt trails",
+    "difflevel": "3,d",
+    "duration": 2.5,
+    "height": 500,
+    "lead": "M_20220510_100131.jpg",
+    "length": 18.7,
+    "maplink": "https://mapzs.pzs.si/poi/1575",
+    "name": "KukLacna",
+    "nearby": [
+      "/hikes/kuk",
+      "/hikes/hrastovljezazid",
+      "/hikes/lacna",
+      "/hikes/lacnakukkvirik",
+      "/hikes/velibadin"
+    ],
+    "region": "istria",
+    "start": "45.502597,13.876419",
+    "title": {
+      "en": "Biking to Kuk and La\u010dna"
+    },
+    "video": "https://www.relive.cc/view/vxOQoGAV3Mq/",
+    "type": "biking",
+    "center": "45.490757,13.910612"
   },
   {
     "date": "2021-05-04 15:33:16+00:00",

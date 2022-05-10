@@ -26,7 +26,7 @@ nearby:
 - /hikes/lacna
 - /hikes/podgorje
 - /hikes/hrastovljezazid
-- /hikes/kuk
+- /biking/kuklacna
 region: istria
 start: 45.523654,13.889561
 title: Karst Edge and Praproče from Rižana Valley
