@@ -32,7 +32,7 @@ start: 45.502597,13.876419
 title: Abitanti from Gračišče
 video: https://www.relive.cc/view/vxOQoxWeQMq/
 ---
-Abitanti is a tiny Istrian hamlet that's not just in the middle of nowhere. It's way beyond that. Wikipedia [claims](https://en.wikipedia.org/wiki/Abitanti) it had 12 permanent residents in 2002; other sources claim the last granny living there died in 2002. Whatever the truth might be, life is returning to Abitanti. After a colorful ride across Istrian pine forests and meadows, I found a group of renovated houses and locals fixing even more of them.
+[Abitanti](https://visitkoper.si/en/about-koper/the-hinterland-of-koper/abitanti/) is a tiny Istrian hamlet that's not just in the middle of nowhere. It's way beyond that. Wikipedia [claims](https://en.wikipedia.org/wiki/Abitanti) it had 12 permanent residents in 2002; other sources claim the last granny living there died in 2002. Whatever the truth might be, life is returning to Abitanti. After a colorful ride across Istrian pine forests and meadows, I found a group of renovated houses and locals fixing even more of them.
 
 {{<hike-details>}}
 
