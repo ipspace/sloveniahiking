@@ -22,10 +22,10 @@ maplink: https://www.opencyclemap.org/?zoom=14&lat=45.49773&lon=13.839&layers=B0
 name: MarezigeTrsek
 nearby:
 - /biking/marezigeborst
+- /biking/abitantigracisce
 - /hikes/lacna
 - /biking/marezigesmarje
 - /biking/kuklacna
-- /hikes/abitanti
 region: istria
 start: 45.506836,13.798535
 title: Marezige – Trsek – Popetre

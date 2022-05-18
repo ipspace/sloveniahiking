@@ -18,7 +18,7 @@ nearby:
 - /biking/kuklacna
 - /hikes/kuk
 - /biking/marezigetrsek
-- /biking/rizanapraproce
+- /biking/abitantigracisce
 peak: 45.504969,13.885283
 region: istria
 start: 45.502955, 13.876214

@@ -23,8 +23,8 @@ nearby:
 - /hikes/velibadin
 - /hikes/kuk
 - /biking/kuklacna
+- /biking/abitantigracisce
 - /hikes/hrastovljezazid
-- /hikes/lacna
 peak: 45.463809,13.904364
 region: istria
 start: 45.495196,13.887565

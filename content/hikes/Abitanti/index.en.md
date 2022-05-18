@@ -8,7 +8,7 @@ gpx:
     lat: 45.446895
     lon: 13.83224585
   file: Abitanti.gpx
-  modified: 1619847644
+  modified: 1619847381
 height: 418
 image:
 - M_1_10002.JPG
@@ -22,11 +22,11 @@ lead: M_1_10002.JPG
 map: 1
 name: Abitanti
 nearby:
+- /biking/abitantigracisce
 - /biking/marezigeborst
 - /biking/marezigetrsek
 - /hikes/lacnakukkvirik
 - /hikes/velibadin
-- /hikes/lacna
 peak: 45.436224,13.825319
 region: istria
 start: 45.458375,13.850126

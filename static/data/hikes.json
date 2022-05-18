@@ -2385,7 +2385,7 @@
       "/biking/marezigeborst",
       "/biking/marezigetrsek",
       "/hikes/abitanti",
-      "/hikes/tinjan_osp"
+      "/biking/abitantigracisce"
     ],
     "peak": "45.491149,13.689970",
     "region": "istria",
@@ -2513,7 +2513,7 @@
       "/hikes/kuk",
       "/biking/kuklacna",
       "/hikes/lipnik",
-      "/hikes/hrastovljezazid"
+      "/biking/abitantigracisce"
     ],
     "peak": "45.454250,13.924210",
     "region": "istria",
@@ -3505,8 +3505,8 @@
       "/hikes/velibadin",
       "/hikes/kuk",
       "/biking/kuklacna",
-      "/hikes/hrastovljezazid",
-      "/hikes/lacna"
+      "/biking/abitantigracisce",
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.463809,13.904364",
     "region": "istria",
@@ -5686,7 +5686,7 @@
       "/biking/kuklacna",
       "/hikes/kuk",
       "/biking/marezigetrsek",
-      "/biking/rizanapraproce"
+      "/biking/abitantigracisce"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -6695,11 +6695,11 @@
     "map": 1,
     "name": "Abitanti",
     "nearby": [
+      "/biking/abitantigracisce",
       "/biking/marezigeborst",
       "/biking/marezigetrsek",
       "/hikes/lacnakukkvirik",
-      "/hikes/velibadin",
-      "/hikes/lacna"
+      "/hikes/velibadin"
     ],
     "peak": "45.436224,13.825319",
     "region": "istria",
@@ -7107,9 +7107,9 @@
     "nearby": [
       "/biking/marezigetrsek",
       "/biking/marezigesmarje",
+      "/biking/abitantigracisce",
       "/hikes/abitanti",
-      "/hikes/lacna",
-      "/hikes/tinjan_osp"
+      "/hikes/lacna"
     ],
     "region": "istria",
     "start": "45.506823,13.798599",
@@ -7313,10 +7313,10 @@
     "name": "MarezigeTrsek",
     "nearby": [
       "/biking/marezigeborst",
+      "/biking/abitantigracisce",
       "/hikes/lacna",
       "/biking/marezigesmarje",
-      "/biking/kuklacna",
-      "/hikes/abitanti"
+      "/biking/kuklacna"
     ],
     "region": "istria",
     "start": "45.506836,13.798535",
@@ -7720,7 +7720,7 @@
       "/biking/marezigetrsek",
       "/hikes/padna",
       "/hikes/tinjan_osp",
-      "/hikes/lacna"
+      "/biking/abitantigracisce"
     ],
     "region": "istria",
     "start": "45.506836,13.798535",
@@ -8006,6 +8006,37 @@
     "video": "https://www.relive.cc/view/vNOPr8dDW2q/",
     "type": "biking",
     "center": "45.819484,13.806326"
+  },
+  {
+    "date": "2022-05-18 15:30:16+00:00",
+    "delta": 470,
+    "description": {
+      "en": "Abitanti is a tiny Istrian hamlet that's not just in the middle of nowhere. It's way beyond that. The village was deserted when I hiked there years ago. This time, I found a group of renovated houses (and locals fixing even more of them) after a colorful ride across Istrian pine forests and meadows."
+    },
+    "difficulty": "Asphalt roads with a bit of well-maintained gravel road",
+    "difflevel": 2,
+    "duration": 3,
+    "height": 480,
+    "layout": "structured",
+    "lead": "M_20220518_111331.jpg",
+    "length": 27,
+    "maplink": "https://www.opencyclemap.org/?zoom=13&lat=45.4693&lon=13.8429&layers=B0000",
+    "name": "AbitantiGracisce",
+    "nearby": [
+      "/hikes/lacnakukkvirik",
+      "/biking/marezigetrsek",
+      "/hikes/lacna",
+      "/biking/kuklacna",
+      "/hikes/kuk"
+    ],
+    "region": "istria",
+    "start": "45.502597,13.876419",
+    "title": {
+      "en": "Abitanti from Gra\u010di\u0161\u010de"
+    },
+    "video": "https://www.relive.cc/view/vxOQoxWeQMq/",
+    "type": "biking",
+    "center": "45.469712,13.862236"
   },
   {
     "date": "2022-05-10 15:04:27+00:00",

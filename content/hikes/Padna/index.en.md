@@ -23,7 +23,7 @@ nearby:
 - /biking/marezigeborst
 - /biking/marezigetrsek
 - /hikes/abitanti
-- /hikes/tinjan_osp
+- /biking/abitantigracisce
 peak: 45.491149,13.689970
 region: istria
 start: 45.494227,13.677033

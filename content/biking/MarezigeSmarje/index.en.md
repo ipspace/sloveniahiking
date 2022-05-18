@@ -24,7 +24,7 @@ nearby:
 - /biking/marezigetrsek
 - /hikes/padna
 - /hikes/tinjan_osp
-- /hikes/lacna
+- /biking/abitantigracisce
 region: istria
 start: 45.506836,13.798535
 title: Marezige – Šmarje – Vanganel

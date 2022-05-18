@@ -23,9 +23,9 @@ name: MarezigeBorst
 nearby:
 - /biking/marezigetrsek
 - /biking/marezigesmarje
+- /biking/abitantigracisce
 - /hikes/abitanti
 - /hikes/lacna
-- /hikes/tinjan_osp
 region: istria
 start: 45.506823,13.798599
 title: From Marezige to Boršt
