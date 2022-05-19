@@ -28,7 +28,7 @@ def get_coords(fname):
     if not latlon:
       if 'gpx' in page:
         latlon = page['gpx'].get('center',None)
-  if not latlon or 'startpoint' in page:
+  if not latlon:
     return
 
   if isinstance(latlon,str):
