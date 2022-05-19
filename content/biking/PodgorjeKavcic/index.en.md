@@ -25,6 +25,12 @@ lead: M_20210504_095743.jpg
 length: 22
 maplink: https://mapzs.pzs.si/path/32452
 name: PodgorjeKavcic
+nearby:
+- /hikes/kojnik
+- /hikes/hrastovljezazid
+- /biking/kojnik
+- /hikes/golic
+- /hikes/lipnik
 region: istria
 start: 45.531420,13.947151
 startpoint: Podgorje
@@ -35,7 +41,7 @@ Karst Edge is the wondrous land where the limestone cliffs of continental Sloven
   
 {{<hike-details>}}
 
-### From Here to There and Anywhere
+### From Here to There and Anywhere {#instr}
 
 * Park at the large parking lot in Podgorje.
 * Going back to the main road, follow the sign for Slavnik, then signs for Kojnik, sending you right onto a gravel road.

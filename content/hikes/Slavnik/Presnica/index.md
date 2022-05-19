@@ -17,7 +17,7 @@ nearby:
 - /hikes/crnikal
 - /biking/rizanapraproce
 - /hikes/slavnik
-- /hikes/zgornjikras
+- /biking/podgorjeslavnik
 peak: 45.533685,13.975236
 region: istria
 start: 45.571174,13.938894

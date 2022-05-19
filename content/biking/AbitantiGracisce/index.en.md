@@ -11,9 +11,9 @@ duration: 3
 gpx:
   center:
     lat: 45.46971249653723
-    lon: 13.862236467731979
+    lon: 13.86197884994424
   file: AbitantiGracisce.gpx
-  modified: 1652888476
+  modified: 1652969669
   zoom: 12
 height: 480
 layout: structured

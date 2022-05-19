@@ -12,6 +12,12 @@ height: 883
 lead: M_5_2520.JPG
 maplink: https://mapzs.pzs.si/path/32452
 name: Kavcic
+nearby:
+- /hikes/lipnik
+- /hikes/golic
+- /biking/podgorjekavcic
+- /hikes/kojnik
+- /hikes/velibadin
 peak: 45.471239,13.983605
 region: istria
 start: 45.531420,13.947151

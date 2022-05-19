@@ -26,6 +26,12 @@ lead: M_0_0030.JPG
 map: 1
 maplink: https://mapzs.pzs.si/poi/1384
 name: Golic
+nearby:
+- /hikes/lipnik
+- /hikes/kavcic
+- /biking/podgorjekavcic
+- /hikes/kojnik
+- /hikes/hrastovljezazid
 peak: 45.486241,13.978104
 region: istria
 start: 45.531420,13.947151

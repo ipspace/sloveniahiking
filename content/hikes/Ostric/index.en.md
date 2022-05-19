@@ -19,11 +19,11 @@ lead: M_9_1992.JPG
 maplink: https://mapzs.pzs.si/poi/1203
 name: Ostric
 nearby:
+- /hikes/kavcic
+- /hikes/golic
 - /hikes/lipnik
 - /hikes/slavnik
-- /hikes/podgorje
-- /hikes/hrastovljezazid
-- /hikes/kuk
+- /biking/podgorjekavcic
 peak: 45.491474,14.073402
 region: istria
 start: 45.505571,14.056139

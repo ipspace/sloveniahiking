@@ -14,6 +14,12 @@ maplink: https://mapzs.projekti.si/path/55941
 multilead: M_5-3534_IMG.JPG
 multipath: true
 name: Slavnik/Podgorje
+nearby:
+- /hikes/podgorje
+- /biking/podgorjeslavnik
+- /biking/kojnik
+- /hikes/slavnik
+- /hikes/kojnik
 peak: 45.533685,13.975236
 region: istria
 start: 45.531420,13.947151

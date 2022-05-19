@@ -13,11 +13,11 @@ map: 1
 maplink: https://mapzs.pzs.si/poi/4193
 name: Lipnik
 nearby:
+- /hikes/golic
+- /hikes/kavcic
+- /biking/podgorjekavcic
+- /hikes/kojnik
 - /hikes/hrastovljezazid
-- /hikes/kuk
-- /hikes/velibadin
-- /biking/kuklacna
-- /hikes/lacnakukkvirik
 peak: 45.479620,13.966214
 region: istria
 start: 45.499389,13.931462

@@ -13,11 +13,11 @@ lead: M_5-3555_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/1235
 name: Slavnik
 nearby:
+- /biking/podgorjeslavnik
 - /hikes/podgorje
-- /hikes/hrastovljezazid
-- /biking/rizanapraproce
-- /hikes/lipnik
-- /hikes/crnikal
+- /biking/kojnik
+- /hikes/kojnik
+- /biking/podgorjekavcic
 peak: 45.533685,13.975236
 region: istria
 title: Slavnik in Grmada

@@ -24,7 +24,7 @@ nearby:
 - /hikes/kuk
 - /biking/kuklacna
 - /hikes/lipnik
-- /biking/abitantigracisce
+- /hikes/kavcic
 peak: 45.454250,13.924210
 region: istria
 start: 45.463854,13.896891

@@ -20,6 +20,12 @@ lead: M_20210520_100046.jpg
 length: 12.1
 maplink: https://mapzs.pzs.si/path/55941
 name: PodgorjeSlavnik
+nearby:
+- /hikes/podgorje
+- /hikes/slavnik
+- /biking/kojnik
+- /hikes/kojnik
+- /biking/podgorjekavcic
 peakpoint: Slavnik
 region: istria
 start: 45.531420,13.947151

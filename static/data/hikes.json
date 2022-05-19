@@ -12,6 +12,13 @@
     "lead": "M_5_2520.JPG",
     "maplink": "https://mapzs.pzs.si/path/32452",
     "name": "Kavcic",
+    "nearby": [
+      "/hikes/lipnik",
+      "/hikes/golic",
+      "/biking/podgorjekavcic",
+      "/hikes/kojnik",
+      "/hikes/velibadin"
+    ],
     "peak": "45.471239,13.983605",
     "region": "istria",
     "start": "45.531420,13.947151",
@@ -71,7 +78,7 @@
       "/hikes/crnikal",
       "/biking/rizanapraproce",
       "/hikes/slavnik",
-      "/hikes/zgornjikras"
+      "/biking/podgorjeslavnik"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -99,10 +106,10 @@
     "name": "Slavnik/Markovscina",
     "nearby": [
       "/hikes/slavnik",
+      "/biking/podgorjeslavnik",
       "/hikes/podgorje",
       "/hikes/ostric",
-      "/hikes/hrastovljezazid",
-      "/hikes/lipnik"
+      "/biking/kojnik"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -129,6 +136,13 @@
     "multilead": "M_5_0586.JPG",
     "multipath": true,
     "name": "Slavnik/Strma",
+    "nearby": [
+      "/hikes/podgorje",
+      "/biking/podgorjeslavnik",
+      "/biking/kojnik",
+      "/hikes/slavnik",
+      "/hikes/kojnik"
+    ],
     "peak": "45.533685,13.975236",
     "region": "istria",
     "start": "45.531420,13.947151",
@@ -150,11 +164,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1235",
     "name": "Slavnik",
     "nearby": [
+      "/biking/podgorjeslavnik",
       "/hikes/podgorje",
-      "/hikes/hrastovljezazid",
-      "/biking/rizanapraproce",
-      "/hikes/lipnik",
-      "/hikes/crnikal"
+      "/biking/kojnik",
+      "/hikes/kojnik",
+      "/biking/podgorjekavcic"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -178,6 +192,13 @@
     "multilead": "M_5-3534_IMG.JPG",
     "multipath": true,
     "name": "Slavnik/Podgorje",
+    "nearby": [
+      "/hikes/podgorje",
+      "/biking/podgorjeslavnik",
+      "/biking/kojnik",
+      "/hikes/slavnik",
+      "/hikes/kojnik"
+    ],
     "peak": "45.533685,13.975236",
     "region": "istria",
     "start": "45.531420,13.947151",
@@ -775,11 +796,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1203",
     "name": "Ostric",
     "nearby": [
+      "/hikes/kavcic",
+      "/hikes/golic",
       "/hikes/lipnik",
       "/hikes/slavnik",
-      "/hikes/podgorje",
-      "/hikes/hrastovljezazid",
-      "/hikes/kuk"
+      "/biking/podgorjekavcic"
     ],
     "peak": "45.491474,14.073402",
     "region": "istria",
@@ -852,11 +873,11 @@
     "maplink": "https://mapzs.pzs.si/poi/4193",
     "name": "Lipnik",
     "nearby": [
-      "/hikes/hrastovljezazid",
-      "/hikes/kuk",
-      "/hikes/velibadin",
-      "/biking/kuklacna",
-      "/hikes/lacnakukkvirik"
+      "/hikes/golic",
+      "/hikes/kavcic",
+      "/biking/podgorjekavcic",
+      "/hikes/kojnik",
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.479620,13.966214",
     "region": "istria",
@@ -2513,7 +2534,7 @@
       "/hikes/kuk",
       "/biking/kuklacna",
       "/hikes/lipnik",
-      "/biking/abitantigracisce"
+      "/hikes/kavcic"
     ],
     "peak": "45.454250,13.924210",
     "region": "istria",
@@ -3373,6 +3394,13 @@
     "map": 1,
     "maplink": "https://mapzs.pzs.si/poi/1384",
     "name": "Golic",
+    "nearby": [
+      "/hikes/lipnik",
+      "/hikes/kavcic",
+      "/biking/podgorjekavcic",
+      "/hikes/kojnik",
+      "/hikes/hrastovljezazid"
+    ],
     "peak": "45.486241,13.978104",
     "region": "istria",
     "start": "45.531420,13.947151",
@@ -4564,7 +4592,7 @@
       "/hikes/hrastovljezazid",
       "/hikes/lacnakukkvirik",
       "/hikes/lacna",
-      "/hikes/velibadin"
+      "/biking/podgorjekavcic"
     ],
     "peak": "45.485013,13.917515",
     "region": "istria",
@@ -4679,6 +4707,13 @@
     "lead": "M_0-4054_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/322",
     "name": "Kojnik",
+    "nearby": [
+      "/biking/podgorjekavcic",
+      "/hikes/hrastovljezazid",
+      "/biking/podgorjeslavnik",
+      "/hikes/podgorje",
+      "/hikes/golic"
+    ],
     "peak": "45.506877,13.951764",
     "region": "istria",
     "start": "45.531420,13.947151",
@@ -5835,8 +5870,8 @@
       "/biking/rizanapraproce",
       "/hikes/lacna",
       "/hikes/podgorje",
-      "/hikes/tinjan_osp",
-      "/hikes/hrastovljezazid"
+      "/biking/kojnik",
+      "/hikes/tinjan_osp"
     ],
     "peak": "45.54080,13.89606",
     "region": "istria",
@@ -6726,11 +6761,11 @@
     "maplink": "https://mapzs.pzs.si/path/31057",
     "name": "HrastovljeZazid",
     "nearby": [
+      "/hikes/kojnik",
+      "/biking/kojnik",
+      "/biking/podgorjekavcic",
       "/biking/kuklacna",
-      "/hikes/kuk",
-      "/hikes/lipnik",
-      "/hikes/podgorje",
-      "/hikes/lacna"
+      "/hikes/kuk"
     ],
     "peak": "45.500573,13.932688",
     "region": "istria",
@@ -6879,11 +6914,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1531",
     "name": "Podgorje",
     "nearby": [
+      "/biking/podgorjeslavnik",
+      "/biking/kojnik",
       "/hikes/slavnik",
-      "/biking/rizanapraproce",
-      "/hikes/hrastovljezazid",
-      "/hikes/crnikal",
-      "/biking/kuklacna"
+      "/hikes/kojnik",
+      "/biking/rizanapraproce"
     ],
     "peak": "45.531420,13.947151",
     "region": "istria",
@@ -7342,6 +7377,13 @@
     "length": 12.1,
     "maplink": "https://mapzs.pzs.si/path/55941",
     "name": "PodgorjeSlavnik",
+    "nearby": [
+      "/hikes/podgorje",
+      "/hikes/slavnik",
+      "/biking/kojnik",
+      "/hikes/kojnik",
+      "/biking/podgorjekavcic"
+    ],
     "peakpoint": "Slavnik",
     "region": "istria",
     "start": "45.531420,13.947151",
@@ -7795,6 +7837,38 @@
     "center": "46.002824,13.927546"
   },
   {
+    "date": "2022-05-19 14:19:29+00:00",
+    "delta": 400,
+    "description": {
+      "en": "It was way too hot for May, and I was tired and sunburnt. An early morning tour to Kojnik, a wooded hilltop south of way more popular (and crowded) Slavnik, was precisely what I needed."
+    },
+    "difficulty": "Steep gravel roads, optional single tracks",
+    "difflevel": "2,d",
+    "duration": 2,
+    "height": 802,
+    "layout": "structured",
+    "lead": "M_20220519_091410.jpg",
+    "length": 15.5,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.51226&lon=13.95242&layers=B0000",
+    "name": "Kojnik",
+    "nearby": [
+      "/hikes/hrastovljezazid",
+      "/hikes/podgorje",
+      "/biking/podgorjeslavnik",
+      "/biking/podgorjekavcic",
+      "/hikes/slavnik"
+    ],
+    "region": "istria",
+    "start": "45.531420,13.947151",
+    "startpoint": "Podgorje",
+    "title": {
+      "en": "Biking to Kojnik"
+    },
+    "video": "https://www.relive.cc/view/vXOdYdjk8k6/",
+    "type": "biking",
+    "center": "45.515351,13.942053"
+  },
+  {
     "date": "2021-04-20 16:47:28+00:00",
     "delta": 470,
     "description": {
@@ -7964,8 +8038,8 @@
       "/hikes/crnikal",
       "/hikes/lacna",
       "/hikes/podgorje",
-      "/hikes/hrastovljezazid",
-      "/biking/kuklacna"
+      "/biking/kojnik",
+      "/hikes/hrastovljezazid"
     ],
     "region": "istria",
     "start": "45.523654,13.889561",
@@ -8036,7 +8110,7 @@
     },
     "video": "https://www.relive.cc/view/vxOQoxWeQMq/",
     "type": "biking",
-    "center": "45.469712,13.862236"
+    "center": "45.469712,13.861979"
   },
   {
     "date": "2022-05-10 15:04:27+00:00",
@@ -8057,7 +8131,7 @@
       "/hikes/hrastovljezazid",
       "/hikes/lacna",
       "/hikes/lacnakukkvirik",
-      "/hikes/velibadin"
+      "/biking/podgorjekavcic"
     ],
     "region": "istria",
     "start": "45.502597,13.876419",
@@ -8083,6 +8157,13 @@
     "length": 22,
     "maplink": "https://mapzs.pzs.si/path/32452",
     "name": "PodgorjeKavcic",
+    "nearby": [
+      "/hikes/kojnik",
+      "/hikes/hrastovljezazid",
+      "/biking/kojnik",
+      "/hikes/golic",
+      "/hikes/lipnik"
+    ],
     "region": "istria",
     "start": "45.531420,13.947151",
     "startpoint": "Podgorje",
