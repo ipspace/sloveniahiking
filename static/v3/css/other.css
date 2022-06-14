@@ -1460,11 +1460,11 @@ dl dt {
       margin: 24px 0;
       padding: 12px 24px; } }
 pre, code, div.code {
-  background-color: #f7f7f7;
-  border: 1px dashed; }
+  background-color: #f7f7f7; }
 
 pre, div.code {
-  padding: 0.5em 1em; }
+  padding: 0.5em 1em;
+  border: 1px dashed; }
 
 div.code {
   font-family: monospace;
@@ -1472,12 +1472,14 @@ div.code {
   white-space: pre; }
 
 code {
-  padding: 0 0.5em; }
+  padding: 0 0.5em;
+  font-weight: bold; }
 
 pre > code {
   border: none;
   display: inline;
-  padding: 0 0; }
+  padding: 0 0;
+  font-weight: normal; }
 
 div.code-caption {
   font-size: 90%;
