@@ -33,7 +33,7 @@ nearby:
 - /hikes/slajka
 - /hikes/ermanovec
 - /hikes/javorc
-- /hikes/mrzlivrh_ziri
+- /biking/mrzlivrhziri
 peak: 46.101523,14.063172
 region: gorenjska
 start: 46.095899,14.100439

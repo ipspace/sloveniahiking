@@ -11,10 +11,10 @@ maplink: https://mapzs.pzs.si/path/31730
 name: Vrsnik_Ziri
 nearby:
 - /hikes/goropeke
+- /biking/mrzlivrhziri
 - /hikes/mrzlivrh_ziri
 - /biking/zavratec
 - /hikes/vs3k
-- /hikes/javorc
 peak: 46.021711,14.094982
 region: gorenjska
 start: 46.041753,14.103844

@@ -13,10 +13,10 @@ multipath: true
 name: Javorc/Ziri
 nearby:
 - /hikes/goropeke
+- /biking/mrzlivrhziri
 - /hikes/vrsnik_ziri
 - /hikes/javorc
 - /hikes/mrzlivrh_ziri
-- /hikes/vs3k
 peak: 46.070345,14.141830
 region: gorenjska
 start: 46.047208,14.109771

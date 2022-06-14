@@ -618,7 +618,7 @@
       "/hikes/bevkovvrh",
       "/biking/trebijaermanovec",
       "/hikes/mrzlivrh_ziri",
-      "/hikes/slajka"
+      "/biking/mrzlivrhziri"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -649,7 +649,7 @@
       "/hikes/slajka",
       "/hikes/ermanovec",
       "/hikes/javorc",
-      "/hikes/mrzlivrh_ziri"
+      "/biking/mrzlivrhziri"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -675,7 +675,7 @@
       "/hikes/slajka",
       "/hikes/bevkovvrh",
       "/hikes/mrzlivrh_ziri",
-      "/hikes/crnivrhcerkno"
+      "/biking/mrzlivrhziri"
     ],
     "peak": "46.101523,14.063172",
     "region": "gorenjska",
@@ -1539,7 +1539,7 @@
       "/biking/vojsko",
       "/hikes/vrsnik_ziri",
       "/hikes/mrzlivrh_ziri",
-      "/hikes/dolskimaj"
+      "/biking/mrzlivrhziri"
     ],
     "peak": "45.987225,13.995846",
     "region": "primorska",
@@ -2373,11 +2373,11 @@
     "maplink": "https://mapzs.pzs.si/poi/34550",
     "name": "MrzliVrh_Ziri",
     "nearby": [
+      "/biking/mrzlivrhziri",
       "/hikes/vrsnik_ziri",
       "/hikes/ermanovec",
       "/biking/trebijaermanovec",
-      "/hikes/goropeke",
-      "/hikes/bevkovvrh"
+      "/hikes/goropeke"
     ],
     "peak": "46.054579,14.061365",
     "region": "gorenjska",
@@ -2808,10 +2808,10 @@
     "name": "Vrsnik_Ziri",
     "nearby": [
       "/hikes/goropeke",
+      "/biking/mrzlivrhziri",
       "/hikes/mrzlivrh_ziri",
       "/biking/zavratec",
-      "/hikes/vs3k",
-      "/hikes/javorc"
+      "/hikes/vs3k"
     ],
     "peak": "46.021711,14.094982",
     "region": "gorenjska",
@@ -3495,8 +3495,8 @@
       "/hikes/ermanovec",
       "/hikes/mrzlivrh_ziri",
       "/biking/trebijaermanovec",
-      "/hikes/sebrelje",
-      "/hikes/slajka"
+      "/biking/mrzlivrhziri",
+      "/hikes/sebrelje"
     ],
     "peak": "46.086057,14.004225",
     "region": "gorenjska",
@@ -3833,10 +3833,10 @@
     "name": "Javorc/Ziri",
     "nearby": [
       "/hikes/goropeke",
+      "/biking/mrzlivrhziri",
       "/hikes/vrsnik_ziri",
       "/hikes/javorc",
-      "/hikes/mrzlivrh_ziri",
-      "/hikes/vs3k"
+      "/hikes/mrzlivrh_ziri"
     ],
     "peak": "46.070345,14.141830",
     "region": "gorenjska",
@@ -3859,10 +3859,10 @@
     "name": "Javorc",
     "nearby": [
       "/hikes/goropeke",
+      "/biking/mrzlivrhziri",
       "/hikes/sivka",
       "/hikes/slajka",
-      "/biking/trebijaermanovec",
-      "/hikes/mrzlivrh_ziri"
+      "/biking/trebijaermanovec"
     ],
     "peak": "46.070345,14.141830",
     "region": "gorenjska",
@@ -4282,8 +4282,8 @@
       "/hikes/vrsnik_ziri",
       "/hikes/javorc",
       "/hikes/vs3k",
-      "/hikes/mrzlivrh_ziri",
-      "/biking/zavratec"
+      "/biking/mrzlivrhziri",
+      "/hikes/mrzlivrh_ziri"
     ],
     "peak": "46.034557,14.125964",
     "region": "gorenjska",
@@ -7318,9 +7318,9 @@
     "nearby": [
       "/hikes/ermanovec",
       "/hikes/slajka",
+      "/biking/mrzlivrhziri",
       "/hikes/mrzlivrh_ziri",
-      "/hikes/bevkovvrh",
-      "/hikes/javorc"
+      "/hikes/bevkovvrh"
     ],
     "region": "gorenjska",
     "start": "46.095709,14.100284",
@@ -7517,6 +7517,37 @@
     },
     "type": "biking",
     "center": "45.838628,14.123476"
+  },
+  {
+    "date": "2022-06-14 15:28:37+00:00",
+    "delta": 510,
+    "description": {
+      "en": "Mrzli Vrh (Cold Peak) is a beautiful vista point high above \u017diri, well worth the effort you'll spend hiking or biking there \u2013 you'll enjoy the views of \u0160kofja Loka hills, Idrija hills, and the Julian Alps."
+    },
+    "difficulty": "Steep ascent on a mix of asphalt and gravel roads",
+    "difflevel": 3,
+    "duration": 2,
+    "height": 987,
+    "layout": "structured",
+    "lead": "M_20220614_085221.jpg",
+    "length": 10.5,
+    "maplink": "https://www.opencyclemap.org/?zoom=15&lat=46.05551&lon=14.07566&layers=B0000",
+    "name": "MrzliVrhZiri",
+    "nearby": [
+      "/hikes/mrzlivrh_ziri",
+      "/hikes/vrsnik_ziri",
+      "/hikes/goropeke",
+      "/hikes/javorc",
+      "/biking/trebijaermanovec"
+    ],
+    "region": "gorenjska",
+    "start": "46.055189,14.099316",
+    "title": {
+      "en": "Mrzli Vrh from \u017diri"
+    },
+    "video": "https://www.relive.cc/view/vrqokEWzBKq/",
+    "type": "biking",
+    "center": "46.054509,14.078413"
   },
   {
     "date": "2021-06-04 15:59:43+00:00",

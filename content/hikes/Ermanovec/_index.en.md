@@ -13,7 +13,7 @@ nearby:
 - /hikes/slajka
 - /hikes/bevkovvrh
 - /hikes/mrzlivrh_ziri
-- /hikes/crnivrhcerkno
+- /biking/mrzlivrhziri
 peak: 46.101523,14.063172
 region: gorenjska
 title: Ermanovec

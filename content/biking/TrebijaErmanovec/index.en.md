@@ -23,9 +23,9 @@ name: TrebijaErmanovec
 nearby:
 - /hikes/ermanovec
 - /hikes/slajka
+- /biking/mrzlivrhziri
 - /hikes/mrzlivrh_ziri
 - /hikes/bevkovvrh
-- /hikes/javorc
 region: gorenjska
 start: 46.095709,14.100284
 title: Ermanovec from Trebija

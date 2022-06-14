@@ -9,11 +9,11 @@ lead: M_8-3831_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/34550
 name: MrzliVrh_Ziri
 nearby:
+- /biking/mrzlivrhziri
 - /hikes/vrsnik_ziri
 - /hikes/ermanovec
 - /biking/trebijaermanovec
 - /hikes/goropeke
-- /hikes/bevkovvrh
 peak: 46.054579,14.061365
 region: gorenjska
 start: 46.047329,14.108442
