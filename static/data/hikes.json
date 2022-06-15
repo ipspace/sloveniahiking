@@ -2877,11 +2877,11 @@
     "maplink": "https://mapzs.pzs.si/path/32458",
     "name": "Golobar",
     "nearby": [
+      "/biking/drezniskeravne",
       "/hikes/krnskojezero/",
+      "/biking/dreznica",
       "/hikes/planinakrnica",
-      "/hikes/loskakoritnica",
-      "/hikes/malamojstrovka",
-      "/hikes/tamar"
+      "/hikes/loskakoritnica"
     ],
     "path": "https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675",
     "peak": "46.316692,13.614670",
@@ -3649,11 +3649,11 @@
     "maplink": "https://mapzs.pzs.si/poi/975",
     "name": "KrnskoJezero/",
     "nearby": [
+      "/biking/drezniskeravne",
+      "/biking/dreznica",
       "/hikes/golobar",
       "/hikes/planinarazor",
-      "/hikes/vogelvrh",
-      "/hikes/vogel",
-      "/hikes/vodicnivrh"
+      "/hikes/vogelvrh"
     ],
     "path": "https://www.hribi.net/izlet/dom_v_lepeni_krnsko_jezero/1/163/291",
     "peak": "46.285342,13.685318",
@@ -6017,9 +6017,10 @@
     "name": "PlaninaKrnica",
     "nearby": [
       "/hikes/golobar",
+      "/biking/drezniskeravne",
+      "/biking/dreznica",
       "/hikes/loskakoritnica",
-      "/hikes/krnskojezero/",
-      "/hikes/tamar"
+      "/hikes/krnskojezero/"
     ],
     "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_krnica/1/421/8105",
     "peak": "46.352437,13.508516",
@@ -7550,6 +7551,37 @@
     "center": "46.054509,14.078413"
   },
   {
+    "date": "2022-06-15 14:24:36+00:00",
+    "delta": 560,
+    "description": {
+      "en": "Several world-class Slovenian cyclists (including Tadej Poga\u010dar) won the race from Kobarid to Korita above Dre\u017eni\u0161ke Ravne early in their careers. Let's see how tough that race is."
+    },
+    "difficulty": "Asphalt road with a few steep sections",
+    "difflevel": 3,
+    "duration": 2,
+    "height": 752,
+    "lead": "M_20220615_113642.jpg",
+    "length": 16.9,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.25925&lon=13.6092&layers=B0000",
+    "name": "DrezniskeRavne",
+    "nearby": [
+      "/biking/dreznica",
+      "/hikes/golobar",
+      "/hikes/krnskojezero/",
+      "/hikes/planinakrnica",
+      "/hikes/planinarazor"
+    ],
+    "peak": "46.272901,13.614642",
+    "region": "julian-alps",
+    "start": "46.249479,13.587623",
+    "title": {
+      "en": "Korita above Dre\u017eni\u0161ke Ravne"
+    },
+    "video": "https://www.relive.cc/view/vKv21Nnyeoq/",
+    "type": "biking",
+    "center": "46.260621,13.601006"
+  },
+  {
     "date": "2021-06-04 15:59:43+00:00",
     "delta": 420,
     "description": {
@@ -8172,6 +8204,36 @@
     "video": "https://www.relive.cc/view/vxOQoGAV3Mq/",
     "type": "biking",
     "center": "45.490757,13.910612"
+  },
+  {
+    "date": "2022-06-15 14:02:10+00:00",
+    "delta": 300,
+    "description": {
+      "en": "Dre\u017enica is a small village high above So\u010da valley, snuggled onto the steep slopes of Krn. It offers magnificent views of the surrounding peaks, and it's not hard to get there \u2013 it's just five kilometers away from Kobarid."
+    },
+    "difficulty": "Somewhat steep asphalt road",
+    "difflevel": 3,
+    "duration": 1,
+    "height": 540,
+    "lead": "M_20220615_104702.jpg",
+    "length": 9.6,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.25925&lon=13.6092&layers=B0000",
+    "name": "Dreznica",
+    "nearby": [
+      "/biking/drezniskeravne",
+      "/hikes/krnskojezero/",
+      "/hikes/golobar",
+      "/hikes/planinakrnica",
+      "/hikes/planinarazor"
+    ],
+    "peak": "46.256846,13.614341",
+    "region": "julian-alps",
+    "start": "46.249479,13.587623",
+    "title": {
+      "en": "Dre\u017enica"
+    },
+    "type": "biking",
+    "center": "46.253616,13.600929"
   },
   {
     "date": "2021-05-04 15:33:16+00:00",

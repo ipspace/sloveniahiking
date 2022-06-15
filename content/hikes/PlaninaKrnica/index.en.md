@@ -22,9 +22,10 @@ maplink: https://mapzs.pzs.si/poi/77042
 name: PlaninaKrnica
 nearby:
 - /hikes/golobar
+- /biking/drezniskeravne
+- /biking/dreznica
 - /hikes/loskakoritnica
 - /hikes/krnskojezero/
-- /hikes/tamar
 peak: 46.352437, 13.508516
 region: julian-alps
 start: 46.342565,13.516039

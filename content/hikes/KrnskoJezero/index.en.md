@@ -21,11 +21,11 @@ lead: M_20211107_124336.jpg
 maplink: https://mapzs.pzs.si/poi/975
 name: KrnskoJezero/
 nearby:
+- /biking/drezniskeravne
+- /biking/dreznica
 - /hikes/golobar
 - /hikes/planinarazor
 - /hikes/vogelvrh
-- /hikes/vogel
-- /hikes/vodicnivrh
 peak: 46.285342,13.685318
 region: julian-alps
 start: 46.303641,13.681349
