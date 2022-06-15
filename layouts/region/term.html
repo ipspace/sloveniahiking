@@ -40,6 +40,20 @@
         {{ partial "post-blurb.html" . }}
       {{ end }}
     {{ end }}
+    {{ if .Params.upcoming }}
+      <h2>{{ i18n "moreToCome" }}</h2>
+      <ul>
+        {{ range .Params.upcoming }}
+          {{ if in (printf "%T" .) "map" }}
+            {{ if (index . "title") }}
+        <li>{{ index . "title" }}</li>
+            {{ end }}
+          {{ else }}
+        <li>{{ . }}</li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    {{ end }}
   </div>
 </article>
 {{ partial "hikes-sidebar.html" . }}

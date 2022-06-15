@@ -138,12 +138,14 @@ other="Višina ki jo zabeleži GPS sprejemnik je še bolj nezanesljiva kot pozic
 [mapNotes]
 other="**Notes**\n* Rdeče pike na zemljevidu so izleti z opisi;\n* Sive pike so izleti brez opisov;\n* Zelene pike so kolesarske ture (s kratkimi angleškimi opisi)."
 
-
 [migrated]
 other="Pred kratkim smo naše vsebine z zaplana.net preselili na novo spletno stran."
 
 [more]
 other="Več o tem"
+
+[moreToCome]
+other="Še nekaj idej"
 
 [photoAuthor]
 other="Avtor fotografij"

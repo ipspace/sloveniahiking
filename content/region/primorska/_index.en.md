@@ -5,6 +5,18 @@ lon: 13.92
 map_zoom: 9
 map_h: 38em
 lang: en
+upcoming:
+- Idrijske Krnice and Šebreljski vrh
+- Hudournik
+- Šentviška Gora (from Reka or Slap ob Idrijci)
+# parking in Slap ob Idrijci is above the main road
+- Šebrelje
+# parking next to the main road in Stopnik
+- Dolenja Trebuša - Vrhovec
+- Dolenja Trebuša - Vrše
+- Most na Soči - Kanalski Lom
+- Most na Soči - Čepovan - Lokovec
+# Start at the train station
 ---
 Some hikes around Primorska hills (Cerkno and Idrija hills, Trnovski forest) are listed on this page. You'll find many more hikes in southern Primorska in these pages:
 
