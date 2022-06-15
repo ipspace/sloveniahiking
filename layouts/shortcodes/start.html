@@ -1,0 +1,5 @@
+{{ if $.Page.Params.start }}
+  <a href="https://www.google.com/maps/search/?api=1&query={{ $.Page.Params.start }}">{{ .Inner | markdownify }}</a>
+{{ else }}
+  {{ .Inner | markdownify }}
+{{ end }}
