@@ -25,7 +25,7 @@ nearby:
 - /hikes/malamojstrovka
 - /hikes/nadsitomglava
 - /hikes/golobar
-- /hikes/stenar
+- /biking/javorscek
 peak: 46.423072,13.658112
 region: julian-alps
 start: 46.408004,13.604229

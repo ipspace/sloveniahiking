@@ -24,8 +24,8 @@ nearby:
 - /biking/drezniskeravne
 - /biking/dreznica
 - /hikes/golobar
+- /biking/javorscek
 - /hikes/planinarazor
-- /hikes/vogelvrh
 peak: 46.285342,13.685318
 region: julian-alps
 start: 46.303641,13.681349

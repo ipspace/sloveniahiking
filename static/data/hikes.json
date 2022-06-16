@@ -2877,11 +2877,11 @@
     "maplink": "https://mapzs.pzs.si/path/32458",
     "name": "Golobar",
     "nearby": [
+      "/biking/javorscek",
       "/biking/drezniskeravne",
       "/hikes/krnskojezero/",
       "/biking/dreznica",
-      "/hikes/planinakrnica",
-      "/hikes/loskakoritnica"
+      "/hikes/planinakrnica"
     ],
     "path": "https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675",
     "peak": "46.316692,13.614670",
@@ -3652,8 +3652,8 @@
       "/biking/drezniskeravne",
       "/biking/dreznica",
       "/hikes/golobar",
-      "/hikes/planinarazor",
-      "/hikes/vogelvrh"
+      "/biking/javorscek",
+      "/hikes/planinarazor"
     ],
     "path": "https://www.hribi.net/izlet/dom_v_lepeni_krnsko_jezero/1/163/291",
     "peak": "46.285342,13.685318",
@@ -4002,7 +4002,7 @@
       "/hikes/malamojstrovka",
       "/hikes/nadsitomglava",
       "/hikes/golobar",
-      "/hikes/stenar"
+      "/biking/javorscek"
     ],
     "peak": "46.423072,13.658112",
     "region": "julian-alps",
@@ -6016,11 +6016,11 @@
     "maplink": "https://mapzs.pzs.si/poi/77042",
     "name": "PlaninaKrnica",
     "nearby": [
+      "/biking/javorscek",
       "/hikes/golobar",
       "/biking/drezniskeravne",
       "/biking/dreznica",
-      "/hikes/loskakoritnica",
-      "/hikes/krnskojezero/"
+      "/hikes/loskakoritnica"
     ],
     "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_krnica/1/421/8105",
     "peak": "46.352437,13.508516",
@@ -7157,6 +7157,37 @@
     "center": "45.492391,13.798265"
   },
   {
+    "date": "2022-06-16 12:22:57+00:00",
+    "delta": 310,
+    "description": {
+      "en": "Whenever I was enjoying my morning coffee at [House Natura](https://www.bovechouse.com/) in Bovec, I wondered how to get to the giant rockslide on the northern slopes of Javor\u0161\u010dek clearly visible across the So\u010da valley. It turns out it's easy \u2013 a gravel road will get you there, and it's clearly marked, as the rockslide created an excellent vista point with views of Rombon and Kanin."
+    },
+    "difficulty": "Gravel road with a few steeper sections",
+    "difflevel": 3,
+    "duration": 1,
+    "height": 700,
+    "layout": "structured",
+    "lead": "M_20220616_121132.jpg",
+    "length": 9,
+    "maplink": "https://www.opencyclemap.org/?zoom=15&lat=46.32123&lon=13.56846&layers=B0000",
+    "name": "Javorscek",
+    "nearby": [
+      "/hikes/golobar",
+      "/biking/drezniskeravne",
+      "/hikes/planinakrnica",
+      "/biking/dreznica",
+      "/hikes/krnskojezero/"
+    ],
+    "peak": "46.324251,13.584696",
+    "region": "julian-alps",
+    "start": "46.324310,13.553490",
+    "title": {
+      "en": "Javor\u0161\u010dek Vista Point"
+    },
+    "type": "biking",
+    "center": "46.322461,13.569112"
+  },
+  {
     "date": "2021-06-11 15:19:10+00:00",
     "delta": 500,
     "description": {
@@ -7568,8 +7599,8 @@
       "/biking/dreznica",
       "/hikes/golobar",
       "/hikes/krnskojezero/",
-      "/hikes/planinakrnica",
-      "/hikes/planinarazor"
+      "/biking/javorscek",
+      "/hikes/planinakrnica"
     ],
     "peak": "46.272901,13.614642",
     "region": "julian-alps",
@@ -8223,8 +8254,8 @@
       "/biking/drezniskeravne",
       "/hikes/krnskojezero/",
       "/hikes/golobar",
-      "/hikes/planinakrnica",
-      "/hikes/planinarazor"
+      "/biking/javorscek",
+      "/hikes/planinakrnica"
     ],
     "peak": "46.256846,13.614341",
     "region": "julian-alps",

@@ -18,11 +18,11 @@ lead: IMG_1924.jpg
 maplink: https://mapzs.pzs.si/path/32458
 name: Golobar
 nearby:
+- /biking/javorscek
 - /biking/drezniskeravne
 - /hikes/krnskojezero/
 - /biking/dreznica
 - /hikes/planinakrnica
-- /hikes/loskakoritnica
 path: https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675
 peak: 46.316692,13.614670
 region: julian-alps
