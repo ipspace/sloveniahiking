@@ -21,11 +21,11 @@ lead: M_20211106_103728.jpg
 maplink: https://mapzs.pzs.si/poi/77042
 name: PlaninaKrnica
 nearby:
+- /hikes/planinagoricica
 - /biking/javorscek
 - /hikes/golobar
 - /biking/drezniskeravne
 - /biking/dreznica
-- /hikes/loskakoritnica
 peak: 46.352437, 13.508516
 region: julian-alps
 start: 46.342565,13.516039
@@ -33,7 +33,7 @@ timing:
 - 'Ascent: 2 hours'
 - 'Descent: 1 hour 30 minutes'
 - 'Total: 4 hours'
-title: Planina Krnica (Krnica Alp)
+title: Krnica Alp (Planina Krnica)
 ---
 {{<hike-details description="yes">}}
 

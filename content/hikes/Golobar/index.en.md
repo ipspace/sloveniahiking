@@ -25,7 +25,7 @@ nearby:
 - /biking/drezniskeravne
 - /hikes/krnskojezero/
 - /biking/dreznica
-- /hikes/planinakrnica
+- /hikes/planinagoricica
 peak: 46.316692,13.614670
 region: julian-alps
 start: 46.336070,13.582052

@@ -19,11 +19,11 @@ lead: M_20211106_103728.jpg
 maplink: https://mapzs.pzs.si/poi/77042
 name: PlaninaKrnica
 nearby:
+- /hikes/planinagoricica
 - /biking/javorscek
 - /hikes/golobar
 - /biking/drezniskeravne
 - /biking/dreznica
-- /hikes/loskakoritnica
 path: https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_krnica/1/421/8105
 peak: 46.352437, 13.508516
 region: julian-alps

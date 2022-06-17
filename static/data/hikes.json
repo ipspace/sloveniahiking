@@ -567,6 +567,52 @@
     "y": 99
   },
   {
+    "date": "2022-06-17 11:56:33+00:00",
+    "delta": 750,
+    "description": {
+      "sl": "Planina Gori\u010dica je opu\u0161\u010dena planina visoko na pobo\u010djih Kanina. Odpravite se tja kadar i\u0161\u010dete ti\u0161ino in samoto.",
+      "en": "Gori\u010dica is a forgotten alp high on the slopes of Kanin massif. It's a perfect place when you're seeking solitude \u2013 even though a waymarked path crosses the alp, it was utterly overgrown when I was there."
+    },
+    "difficulty": "Prijeten vzpon po neozna\u010deni mulatjeri",
+    "difflevel": 3,
+    "duration": 4,
+    "gpx": {
+      "center": {
+        "lat": 46.348179681177555,
+        "lon": 13.528422069047602
+      },
+      "file": "Goricica.gpx",
+      "modified": 1655468230,
+      "zoom": 14
+    },
+    "height": 1340,
+    "layout": "structured",
+    "lead": "M_20220617_100044.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/5599",
+    "name": "PlaninaGoricica",
+    "nearby": [
+      "/hikes/planinakrnica",
+      "/biking/javorscek",
+      "/hikes/golobar",
+      "/biking/drezniskeravne",
+      "/hikes/loskakoritnica"
+    ],
+    "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_goricica/1/416/8107",
+    "peak": "46.353544,13.541699",
+    "region": "julian-alps",
+    "start": "46.342565,13.516039",
+    "timing": [
+      "Vzpon: 2 uri",
+      "Spust: 1 ura 30 minut",
+      "Skupaj: 4 ure"
+    ],
+    "title": {
+      "sl": "Planina Gori\u010dica",
+      "en": "Gori\u010dica Alp (Planina Gori\u010dica)"
+    },
+    "video": "https://www.relive.cc/view/vevYojLW4y6/"
+  },
+  {
     "date": "2004-06-13 00:00:00+00:00",
     "delta": 600,
     "description": {
@@ -2881,7 +2927,7 @@
       "/biking/drezniskeravne",
       "/hikes/krnskojezero/",
       "/biking/dreznica",
-      "/hikes/planinakrnica"
+      "/hikes/planinagoricica"
     ],
     "path": "https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675",
     "peak": "46.316692,13.614670",
@@ -4001,8 +4047,8 @@
       "/hikes/tamar",
       "/hikes/malamojstrovka",
       "/hikes/nadsitomglava",
-      "/hikes/golobar",
-      "/biking/javorscek"
+      "/hikes/planinagoricica",
+      "/hikes/golobar"
     ],
     "peak": "46.423072,13.658112",
     "region": "julian-alps",
@@ -6016,11 +6062,11 @@
     "maplink": "https://mapzs.pzs.si/poi/77042",
     "name": "PlaninaKrnica",
     "nearby": [
+      "/hikes/planinagoricica",
       "/biking/javorscek",
       "/hikes/golobar",
       "/biking/drezniskeravne",
-      "/biking/dreznica",
-      "/hikes/loskakoritnica"
+      "/biking/dreznica"
     ],
     "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_krnica/1/421/8105",
     "peak": "46.352437,13.508516",
@@ -6033,7 +6079,7 @@
     ],
     "title": {
       "sl": "Planina Krnica",
-      "en": "Planina Krnica (Krnica Alp)"
+      "en": "Krnica Alp (Planina Krnica)"
     }
   },
   {
@@ -7173,10 +7219,10 @@
     "name": "Javorscek",
     "nearby": [
       "/hikes/golobar",
+      "/hikes/planinagoricica",
       "/biking/drezniskeravne",
       "/hikes/planinakrnica",
-      "/biking/dreznica",
-      "/hikes/krnskojezero/"
+      "/biking/dreznica"
     ],
     "peak": "46.324251,13.584696",
     "region": "julian-alps",
@@ -7600,7 +7646,7 @@
       "/hikes/golobar",
       "/hikes/krnskojezero/",
       "/biking/javorscek",
-      "/hikes/planinakrnica"
+      "/hikes/planinagoricica"
     ],
     "peak": "46.272901,13.614642",
     "region": "julian-alps",
@@ -8255,7 +8301,7 @@
       "/hikes/krnskojezero/",
       "/hikes/golobar",
       "/biking/javorscek",
-      "/hikes/planinakrnica"
+      "/hikes/planinagoricica"
     ],
     "peak": "46.256846,13.614341",
     "region": "julian-alps",

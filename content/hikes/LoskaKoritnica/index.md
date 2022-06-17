@@ -21,8 +21,8 @@ nearby:
 - /hikes/tamar
 - /hikes/malamojstrovka
 - /hikes/nadsitomglava
+- /hikes/planinagoricica
 - /hikes/golobar
-- /biking/javorscek
 peak: 46.423072,13.658112
 region: julian-alps
 start: 46.408004,13.604229

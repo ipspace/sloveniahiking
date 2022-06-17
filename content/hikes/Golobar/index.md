@@ -22,7 +22,7 @@ nearby:
 - /biking/drezniskeravne
 - /hikes/krnskojezero/
 - /biking/dreznica
-- /hikes/planinakrnica
+- /hikes/planinagoricica
 path: https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675
 peak: 46.316692,13.614670
 region: julian-alps
