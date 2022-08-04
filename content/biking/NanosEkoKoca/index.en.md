@@ -15,7 +15,7 @@ gpx:
     lon: 13.997494858750265
   file: NanosEkoKoca.gpx
   modified: 1651592287
-  zoom: 14
+  zoom: 15
 height: 805
 layout: structured
 lead: M_20220503_114233.jpg

@@ -14,7 +14,7 @@ nearby:
 - /hikes/korosica
 - /hikes/kofce
 - /hikes/kladivo
-- /hikes/dobrca
+- /hikes/zelenica
 peak: 46.430531,14.309551
 region: karavanke
 start: 46.417705,14.323757

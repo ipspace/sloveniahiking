@@ -16,7 +16,7 @@ nearby:
 - /hikes/velikivrh
 - /hikes/kofce
 - /hikes/kladivo
-- /hikes/vrtaca
+- /hikes/zelenica
 peak: 46.434220,14.292107
 region: karavanke
 start: 46.427870,14.272455

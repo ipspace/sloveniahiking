@@ -14,8 +14,8 @@ nearby:
 - /hikes/golica
 - /hikes/vrtaca
 - /hikes/klek
+- /hikes/zelenica
 - /hikes/pokljuskasoteska
-- /hikes/korosica
 peak: 46.460984,14.129766
 region: karavanke
 start: 46.456670,14.099295

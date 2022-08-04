@@ -10,11 +10,11 @@ map: 1
 maplink: https://mapzs.pzs.si/poi/4686
 name: Dobrca
 nearby:
+- /hikes/zelenica
 - /hikes/korosica
 - /hikes/kofce
 - /hikes/velikivrh
 - /hikes/vrtaca
-- /hikes/kosutica
 peak: 46.380703,14.252813
 region: karavanke
 title: Dobrča
