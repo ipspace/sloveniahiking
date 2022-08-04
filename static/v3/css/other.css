@@ -1664,6 +1664,7 @@ div.thumb {
 
 .panelTable, #curriculumTable {
   margin-bottom: 24px;
+  /* Have a bit more padding on the first file in the curriculum */
   /* Increase padding between curriculum headers on tablet++ sizes       */
   /* special cases: not on first element, not on two consecutive headers */
   /* Regular curriculum item */
@@ -1771,13 +1772,17 @@ div.thumb {
     border-bottom: 1px #e8e8e8 solid; }
     .panelTable tr.openlast td, #curriculumTable tr.openlast td {
       padding-bottom: 12px; }
+  .panelTable tbody:first-child tr.line:first-child td, #curriculumTable tbody:first-child tr.line:first-child td {
+    padding-top: 12px; }
   @media (min-width: 768px) {
     .panelTable tr.header td, #curriculumTable tr.header td {
       padding-top: 24px; }
     .panelTable tr.header:first-child td, .panelTable tr.header.part td, #curriculumTable tr.header:first-child td, #curriculumTable tr.header.part td {
       padding-top: 12px; }
     .panelTable tr.header.part + tr.description td, #curriculumTable tr.header.part + tr.description td {
-      padding-top: 12px; } }
+      padding-top: 12px; }
+    .panelTable tbody:first-child tr.line:first-child td, #curriculumTable tbody:first-child tr.line:first-child td {
+      padding-top: 24px; } }
   .panelTable tr.line td, #curriculumTable tr.line td {
     line-height: 1.8em; }
     .panelTable tr.line td:nth-child(2), #curriculumTable tr.line td:nth-child(2) {
@@ -2884,11 +2889,11 @@ Grid Layout Styles
       background-color: transparent;
       color: #fff; }
 
-.site-header#migrated {
+#migrated.site-header {
   background-color: #d26400;
   color: #fff;
   padding: 12px 0; }
-  .site-header#migrated .container {
+  #migrated.site-header .container {
     display: block; }
 
 .map__frame {

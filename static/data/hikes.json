@@ -631,7 +631,7 @@
       "/hikes/korosica",
       "/hikes/kofce",
       "/hikes/kladivo",
-      "/hikes/dobrca"
+      "/hikes/zelenica"
     ],
     "peak": "46.430531,14.309551",
     "region": "karavanke",
@@ -857,6 +857,51 @@
     },
     "x": 428,
     "y": 39
+  },
+  {
+    "date": "2022-08-04 18:47:04+00:00",
+    "delta": 480,
+    "description": {
+      "sl": "Zelenica je planina med grebenoma Begunj\u0161\u010dice in Vrta\u010de. Z Ljubelja je do ko\u010de na Zelenici malce ve\u010d kot ura prijetne hoje -- kot nala\u0161\u010d za dru\u017einski izlet.\n",
+      "en": "Zelenica is an alpine pasture in a valley between Begunj\u0161\u010dica and Vrta\u010da. It takes a bit more than an hour to hike there from the Ljubelj pass, and there's a mountain hut at the end of the hike -- ideal ingredients for a great family trip."
+    },
+    "difficulty": "Prijeten ob\u010dasno strm sprehod",
+    "difflevel": 2,
+    "duration": 2.5,
+    "gpx": {
+      "center": {
+        "lat": 46.43031248153362,
+        "lon": 14.246400454634417
+      },
+      "file": "zelenica.gpx",
+      "modified": 1659639995,
+      "zoom": 14
+    },
+    "height": 1536,
+    "layout": "structured",
+    "lead": "M_20220718_081115.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/853",
+    "name": "Zelenica",
+    "nearby": [
+      "/hikes/vrtaca",
+      "/hikes/korosica",
+      "/hikes/kosutica",
+      "/hikes/dobrca",
+      "/hikes/velikivrh"
+    ],
+    "path": "../vrtaca",
+    "peak": "46.428862,14.233567",
+    "region": "karavanke",
+    "start": "46.431643,14.259925",
+    "timing": [
+      "Vzpon: 1 ura 20 minut",
+      "Spust: 1 ura",
+      "Skupaj: 2 uri in pol"
+    ],
+    "title": {
+      "sl": "Zelenica",
+      "en": "Zelenica"
+    }
   },
   {
     "date": "2021-12-06 16:43:48+00:00",
@@ -3070,11 +3115,11 @@
     "maplink": "https://mapzs.pzs.si/poi/4676",
     "name": "Vrtaca",
     "nearby": [
+      "/hikes/zelenica",
       "/hikes/korosica",
       "/hikes/kosutica",
       "/hikes/planinaseca",
-      "/hikes/dobrca",
-      "/hikes/velikivrh"
+      "/hikes/dobrca"
     ],
     "peak": "46.439900,14.212625",
     "region": "karavanke",
@@ -3257,11 +3302,11 @@
     "maplink": "https://mapzs.pzs.si/poi/4686",
     "name": "Dobrca",
     "nearby": [
+      "/hikes/zelenica",
       "/hikes/korosica",
       "/hikes/kofce",
       "/hikes/velikivrh",
-      "/hikes/vrtaca",
-      "/hikes/kosutica"
+      "/hikes/vrtaca"
     ],
     "peak": "46.380703,14.252813",
     "region": "karavanke",
@@ -3762,7 +3807,7 @@
       "/hikes/velikivrh",
       "/hikes/kofce",
       "/hikes/kladivo",
-      "/hikes/vrtaca"
+      "/hikes/zelenica"
     ],
     "peak": "46.434220,14.292107",
     "region": "karavanke",
@@ -5113,7 +5158,7 @@
       "/hikes/velikivrh",
       "/hikes/kofce",
       "/hikes/kladivo",
-      "/hikes/vrtaca"
+      "/hikes/zelenica"
     ],
     "peak": "46.438811,14.299226",
     "region": "karavanke",
@@ -5971,8 +6016,8 @@
       "/hikes/golica",
       "/hikes/vrtaca",
       "/hikes/klek",
-      "/hikes/pokljuskasoteska",
-      "/hikes/korosica"
+      "/hikes/zelenica",
+      "/hikes/pokljuskasoteska"
     ],
     "peak": "46.460984,14.129766",
     "region": "karavanke",
