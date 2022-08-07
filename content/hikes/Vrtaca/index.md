@@ -7,7 +7,7 @@ difflevel: 4
 dirty: true
 duration: 7.5
 height: 2181
-lead: M_3-6358_IMG.JPG
+lead: M_20220718_081739.jpg
 map: 1
 maplink: https://mapzs.pzs.si/poi/4676
 name: Vrtaca

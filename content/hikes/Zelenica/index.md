@@ -15,7 +15,7 @@ gpx:
     lon: 14.246400454634417
   file: zelenica.gpx
   modified: 1659639995
-  zoom: 14
+  zoom: 15
 height: 1536
 layout: structured
 lead: M_20220718_081115.jpg

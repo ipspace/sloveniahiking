@@ -875,7 +875,7 @@
       },
       "file": "zelenica.gpx",
       "modified": 1659639995,
-      "zoom": 14
+      "zoom": 15
     },
     "height": 1536,
     "layout": "structured",
@@ -3104,13 +3104,13 @@
     "delta": 1150,
     "description": {
       "sl": "Vrta\u010da je samoten vrh v grebenu, po katerem zahodno od Ljubelja te\u010de dr\u017eavna meja med Slovenijo in Avstrijo.",
-      "en": null
+      "en": "Vrta\u010da is one of the highest peaks on the Slovene-Austrian border. It's a bit off the beaten trail -- you'll be able to enjoy a few quiet moments, but it takes quite a while to get there regardless of where you start.\n"
     },
     "difflevel": 4,
     "dirty": true,
     "duration": 7.5,
     "height": 2181,
-    "lead": "M_3-6358_IMG.JPG",
+    "lead": "M_20220718_081739.jpg",
     "map": 1,
     "maplink": "https://mapzs.pzs.si/poi/4676",
     "name": "Vrtaca",
@@ -3126,7 +3126,7 @@
     "start": "46.432068,14.259282",
     "title": {
       "sl": "Vrta\u010da z Ljubelja",
-      "en": "Vrta\u010da from Ljubelj"
+      "en": "Vrta\u010da"
     }
   },
   {
