@@ -1,8 +1,11 @@
 ---
-date: 2022-08-07 08:20:00
+date: 2022-08-07 08:20:00+00:00
 delta: 1150
-description: |
-  Vrtača is one of the highest peaks on the Slovene-Austrian border. It's a bit off the beaten trail -- you'll be able to enjoy a few quiet moments, but it takes quite a while to get there regardless of where you start.
+description: 'Vrtača is one of the highest peaks on the Slovene-Austrian border. It''s
+  a bit off the beaten trail -- you''ll be able to enjoy a few quiet moments, but
+  it takes quite a while to get there regardless of where you start.
+
+  '
 difflevel: 4
 duration: 7.5
 height: 2181
@@ -12,10 +15,10 @@ maplink: https://mapzs.pzs.si/poi/4676
 name: Vrtaca
 nearby:
 - /hikes/zelenica
+- /hikes/planinica
 - /hikes/korosica
 - /hikes/kosutica
 - /hikes/planinaseca
-- /hikes/dobrca
 peak: 46.439900,14.212625
 region: karavanke
 start: 46.432068,14.259282

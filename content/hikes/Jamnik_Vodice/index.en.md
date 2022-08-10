@@ -14,7 +14,7 @@ nearby:
 - /hikes/dobrca
 - /hikes/malenskivrh
 - /hikes/blegos
-- /hikes/svandrej_zminec
+- /hikes/planinica
 peak: 46.275223,14.214234
 region: gorenjska
 title: Jamnik and Vodice from Kropa

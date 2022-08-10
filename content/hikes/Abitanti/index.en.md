@@ -9,6 +9,7 @@ gpx:
     lon: 13.83224585
   file: Abitanti.gpx
   modified: 1619847381
+  zoom: 14
 height: 418
 image:
 - M_1_10002.JPG

@@ -21,10 +21,10 @@ maplink: https://mapzs.pzs.si/poi/853
 name: Zelenica
 nearby:
 - /hikes/vrtaca
+- /hikes/planinica
 - /hikes/korosica
 - /hikes/kosutica
 - /hikes/dobrca
-- /hikes/velikivrh
 peak: 46.428862,14.233567
 region: karavanke
 start: 46.431643,14.259925

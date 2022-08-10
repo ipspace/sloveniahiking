@@ -884,10 +884,10 @@
     "name": "Zelenica",
     "nearby": [
       "/hikes/vrtaca",
+      "/hikes/planinica",
       "/hikes/korosica",
       "/hikes/kosutica",
-      "/hikes/dobrca",
-      "/hikes/velikivrh"
+      "/hikes/dobrca"
     ],
     "path": "../vrtaca",
     "peak": "46.428862,14.233567",
@@ -1428,6 +1428,51 @@
       "en": "Veliki Rob from Goja\u010de/Zasod"
     },
     "video": "https://www.relive.cc/view/veqz3XLBDBv/"
+  },
+  {
+    "date": "2022-08-10 16:25:36+00:00",
+    "delta": 450,
+    "description": {
+      "sl": "Do Planinice, najni\u017eje le\u017ee\u010de planine na pobo\u010dju Begunj\u0161\u010dice, je dobro uro hoda, tabla pred ko\u010do na planini pa obljublja sladoled. Kaj \u0161e \u010dakate?",
+      "en": "Planinica is the lowest-lying alp on the southern slopes of Begunj\u0161\u010dica ridge. Hiking there will take a tad longer than an hour, and the hut on the alp promises all sorts of local delicacies and even ice cream -- a perfect family hike."
+    },
+    "difficulty": "Prijeten sen\u010den sprehod",
+    "difflevel": 2,
+    "duration": 2,
+    "gpx": {
+      "center": {
+        "lat": 46.40260689755178,
+        "lon": 14.219761258257746
+      },
+      "file": "planinica.gpx",
+      "modified": 1660149766,
+      "zoom": 14
+    },
+    "height": 1136,
+    "layout": "stub",
+    "lead": "M_20220719_080116.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/34854",
+    "name": "Planinica",
+    "nearby": [
+      "/hikes/zelenica",
+      "/hikes/vrtaca",
+      "/hikes/dobrca",
+      "/hikes/korosica",
+      "/hikes/kosutica"
+    ],
+    "path": "https://www.hribi.net/izlet/dom_v_dragi_planina_planinca/11/1150/1937",
+    "peak": "46.409088,14.214936",
+    "region": "karavanke",
+    "start": "46.396022,14.219529",
+    "timing": [
+      "Vzpon: 1 ura 15 minut",
+      "Spust: 45 minut",
+      "Skupaj: 2 uri"
+    ],
+    "title": {
+      "sl": "Planinica",
+      "en": "Planinica"
+    }
   },
   {
     "date": "2004-10-10 00:00:00+00:00",
@@ -3116,10 +3161,10 @@
     "name": "Vrtaca",
     "nearby": [
       "/hikes/zelenica",
+      "/hikes/planinica",
       "/hikes/korosica",
       "/hikes/kosutica",
-      "/hikes/planinaseca",
-      "/hikes/dobrca"
+      "/hikes/planinaseca"
     ],
     "peak": "46.439900,14.212625",
     "region": "karavanke",
@@ -3302,11 +3347,11 @@
     "maplink": "https://mapzs.pzs.si/poi/4686",
     "name": "Dobrca",
     "nearby": [
+      "/hikes/planinica",
       "/hikes/zelenica",
       "/hikes/korosica",
       "/hikes/kofce",
-      "/hikes/velikivrh",
-      "/hikes/vrtaca"
+      "/hikes/velikivrh"
     ],
     "peak": "46.380703,14.252813",
     "region": "karavanke",
@@ -5247,7 +5292,7 @@
       "/hikes/dobrca",
       "/hikes/malenskivrh",
       "/hikes/blegos",
-      "/hikes/svandrej_zminec"
+      "/hikes/planinica"
     ],
     "peak": "46.275223,14.214234",
     "region": "gorenjska",
@@ -6016,8 +6061,8 @@
       "/hikes/golica",
       "/hikes/vrtaca",
       "/hikes/klek",
-      "/hikes/zelenica",
-      "/hikes/pokljuskasoteska"
+      "/hikes/planinica",
+      "/hikes/zelenica"
     ],
     "peak": "46.460984,14.129766",
     "region": "karavanke",
