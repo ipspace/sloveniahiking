@@ -420,11 +420,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=46.09154&lon=13.85775&layers=B0000",
     "name": "SkrbinaKuk",
     "nearby": [
+      "/biking/oblakovvrh",
       "/hikes/sebrelje",
       "/hikes/rodne",
       "/biking/zakojca",
-      "/hikes/kojca",
-      "/biking/vojsko"
+      "/hikes/kojca"
     ],
     "peak": "46.092487,13.853752",
     "region": "primorska",
@@ -1494,7 +1494,7 @@
       "/biking/zakojca",
       "/hikes/kojca",
       "/hikes/skrbinakuk",
-      "/hikes/bevkovvrh"
+      "/biking/oblakovvrh"
     ],
     "peak": "46.110149,13.917076",
     "region": "primorska",
@@ -7657,6 +7657,38 @@
     "center": "45.797125,13.997495"
   },
   {
+    "date": "2022-08-19 18:15:45+00:00",
+    "delta": 600,
+    "description": {
+      "en": "Oblakov Vrh (Cloudy Peak) is a saddle between Kanomlja and Hotenja valleys with a beautiful view of the Idrija Fault (both valleys resulted from that fault). We'll bike to Oblakov Vrh from Dolenja Trebu\u0161a and enjoy a panoramic view of the\nJulian Alps on the way back.\n"
+    },
+    "difficulty": "A mix of asphalt and gravel roads",
+    "difflevel": 3,
+    "duration": 3,
+    "height": 721,
+    "layout": "structured",
+    "lead": "M_20220819_142123.jpg",
+    "length": 19,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.07636&lon=13.86975&layers=B0000",
+    "name": "OblakovVrh",
+    "nearby": [
+      "/hikes/skrbinakuk",
+      "/hikes/sebrelje",
+      "/biking/vojsko",
+      "/hikes/rodne",
+      "/biking/zakojca"
+    ],
+    "peak": "46.061757,13.890988",
+    "region": "primorska",
+    "start": "46.094144,13.838676",
+    "title": {
+      "en": "Oblakov Vrh from Dolenja Trebu\u0161a"
+    },
+    "video": "https://www.relive.cc/view/v36APA29eZO/",
+    "type": "biking",
+    "center": "46.075800,13.866485"
+  },
+  {
     "date": "2021-09-06 14:33:01+00:00",
     "delta": 420,
     "description": {
@@ -8053,9 +8085,9 @@
     "nearby": [
       "/hikes/hleviskeplanine",
       "/hikes/maligolak",
+      "/biking/oblakovvrh",
       "/hikes/orlovca",
-      "/biking/zadlog",
-      "/hikes/dolskimaj"
+      "/biking/zadlog"
     ],
     "region": "primorska",
     "start": "45.981987,13.973719",

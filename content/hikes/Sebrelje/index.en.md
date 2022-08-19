@@ -16,7 +16,7 @@ nearby:
 - /biking/zakojca
 - /hikes/kojca
 - /hikes/skrbinakuk
-- /hikes/bevkovvrh
+- /biking/oblakovvrh
 peak: 46.110149, 13.917076
 region: primorska
 start: 46.117423, 13.921578

@@ -24,9 +24,9 @@ name: Vojsko
 nearby:
 - /hikes/hleviskeplanine
 - /hikes/maligolak
+- /biking/oblakovvrh
 - /hikes/orlovca
 - /biking/zadlog
-- /hikes/dolskimaj
 region: primorska
 start: 45.981987,13.973719
 title: Vojsko from Čekovnik
