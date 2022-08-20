@@ -424,7 +424,7 @@
       "/hikes/sebrelje",
       "/hikes/rodne",
       "/biking/zakojca",
-      "/hikes/kojca"
+      "/biking/siroko"
     ],
     "peak": "46.092487,13.853752",
     "region": "primorska",
@@ -1828,8 +1828,8 @@
       "/hikes/planinarazor",
       "/hikes/vogelvrh",
       "/hikes/vogel",
-      "/hikes/kojca",
-      "/biking/zakojca"
+      "/biking/siroko",
+      "/hikes/kojca"
     ],
     "peak": "46.190011,13.795463",
     "region": "julian-alps",
@@ -7352,6 +7352,38 @@
     "video": "https://www.relive.cc/view/v7O9V4X8MQ6/",
     "type": "biking",
     "center": "46.307650,14.437057"
+  },
+  {
+    "date": "2022-08-20 12:24:37+00:00",
+    "delta": 590,
+    "description": {
+      "en": "[\u0160iroko](https://siroko.si/en/home/) is a vista point on the northern edge of [Banj\u0161ice Plateau](https://en.wikipedia.org/wiki/Banj%C5%A1ice_Plateau), high above the confluence of Idrijca and So\u010da. Getting there takes a steep and strenuous\nascent regardless of whether you hike there from Most na So\u010di train station or bike from the village center, but the rewarding views of the southern ridges of the Julian\nAlps are well worth the effort.\n"
+    },
+    "difficulty": "Steep ascent on asphalt road",
+    "difflevel": 3,
+    "duration": 2.5,
+    "height": 755,
+    "layout": "structured",
+    "lead": "M_20220820_094608.jpg",
+    "length": 13,
+    "maplink": "https://mapzs.pzs.si/poi/66777",
+    "name": "Siroko",
+    "nearby": [
+      "/hikes/kobiljaglava",
+      "/hikes/skrbinakuk",
+      "/hikes/planinarazor",
+      "/hikes/sebrelje",
+      "/hikes/vogelvrh"
+    ],
+    "peak": "46.131466,13.759541",
+    "region": "primorska",
+    "start": "46.155443,13.747461",
+    "title": {
+      "en": "\u0160iroko on Banj\u0161ice Plateau"
+    },
+    "video": "https://www.relive.cc/view/vMq5EyJABQq/",
+    "type": "biking",
+    "center": "46.143183,13.748615"
   },
   {
     "date": "2021-05-31 12:14:31+00:00",

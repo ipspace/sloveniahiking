@@ -2,8 +2,8 @@
 date: 2021-11-08 14:51:00+00:00
 delta: 430
 description: 'Kobilja glava is a grassy peak east of Tolmin with a wonderful view
-  of southern peaks of Julian Alps. You could hike there from Planina Stador (Stador Alp), or start
-  way lower on the road to extend the hike for another hour.
+  of southern peaks of Julian Alps. You could hike there from Planina Stador (Stador
+  Alp), or start way lower on the road to extend the hike for another hour.
 
   '
 difficulty: Steep footpath with rare faded waymarks
@@ -25,8 +25,8 @@ nearby:
 - /hikes/planinarazor
 - /hikes/vogelvrh
 - /hikes/vogel
+- /biking/siroko
 - /hikes/kojca
-- /biking/zakojca
 peak: 46.190011,13.795463
 region: julian-alps
 start: 46.190533,13.782526

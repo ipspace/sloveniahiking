@@ -26,7 +26,7 @@ nearby:
 - /hikes/sebrelje
 - /hikes/rodne
 - /biking/zakojca
-- /hikes/kojca
+- /biking/siroko
 peak: 46.092487,13.853752
 region: primorska
 title: Škrbina in Kuk
