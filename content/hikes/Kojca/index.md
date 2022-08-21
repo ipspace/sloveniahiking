@@ -16,7 +16,7 @@ nearby:
 - /hikes/rodne
 - /hikes/porezen
 - /hikes/sebrelje
-- /hikes/crnaprst
+- /biking/sentviskagora
 peak: 46.153889,13.926612
 region: primorska
 start: 46.156103,13.944929

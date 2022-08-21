@@ -13,8 +13,8 @@ nearby:
 - /biking/zakojca
 - /hikes/sebrelje
 - /hikes/kojca
+- /biking/sentviskagora
 - /hikes/porezen
-- /hikes/skrbinakuk
 peak: 46.130969,13.927604
 region: primorska
 start: 46.117423,13.921578

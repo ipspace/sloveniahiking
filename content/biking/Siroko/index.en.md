@@ -29,9 +29,9 @@ name: Siroko
 nearby:
 - /hikes/kobiljaglava
 - /hikes/skrbinakuk
+- /biking/sentviskagora
 - /hikes/planinarazor
 - /hikes/sebrelje
-- /hikes/vogelvrh
 peak: 46.131466,13.759541
 region: primorska
 start: 46.155443,13.747461

@@ -420,11 +420,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=46.09154&lon=13.85775&layers=B0000",
     "name": "SkrbinaKuk",
     "nearby": [
+      "/biking/sentviskagora",
       "/biking/oblakovvrh",
       "/hikes/sebrelje",
       "/hikes/rodne",
-      "/biking/zakojca",
-      "/biking/siroko"
+      "/biking/zakojca"
     ],
     "peak": "46.092487,13.853752",
     "region": "primorska",
@@ -1491,10 +1491,10 @@
     "name": "Sebrelje",
     "nearby": [
       "/hikes/rodne",
+      "/biking/sentviskagora",
       "/biking/zakojca",
       "/hikes/kojca",
-      "/hikes/skrbinakuk",
-      "/biking/oblakovvrh"
+      "/hikes/skrbinakuk"
     ],
     "peak": "46.110149,13.917076",
     "region": "primorska",
@@ -3881,7 +3881,7 @@
       "/hikes/rodne",
       "/hikes/porezen",
       "/hikes/sebrelje",
-      "/hikes/crnaprst"
+      "/biking/sentviskagora"
     ],
     "peak": "46.153889,13.926612",
     "region": "primorska",
@@ -4301,8 +4301,8 @@
       "/biking/zakojca",
       "/hikes/sebrelje",
       "/hikes/kojca",
-      "/hikes/porezen",
-      "/hikes/skrbinakuk"
+      "/biking/sentviskagora",
+      "/hikes/porezen"
     ],
     "peak": "46.130969,13.927604",
     "region": "primorska",
@@ -7371,9 +7371,9 @@
     "nearby": [
       "/hikes/kobiljaglava",
       "/hikes/skrbinakuk",
+      "/biking/sentviskagora",
       "/hikes/planinarazor",
-      "/hikes/sebrelje",
-      "/hikes/vogelvrh"
+      "/hikes/sebrelje"
     ],
     "peak": "46.131466,13.759541",
     "region": "primorska",
@@ -7705,10 +7705,10 @@
     "name": "OblakovVrh",
     "nearby": [
       "/hikes/skrbinakuk",
+      "/biking/sentviskagora",
       "/hikes/sebrelje",
       "/biking/vojsko",
-      "/hikes/rodne",
-      "/biking/zakojca"
+      "/hikes/rodne"
     ],
     "peak": "46.061757,13.890988",
     "region": "primorska",
@@ -7811,6 +7811,38 @@
     "video": "https://www.relive.cc/view/vKv21Nnyeoq/",
     "type": "biking",
     "center": "46.260621,13.601006"
+  },
+  {
+    "date": "2022-08-21 12:00:00+00:00",
+    "delta": 580,
+    "description": {
+      "en": "\u0160entvi\u0161ka Gora is the largest settlement on a lovely high plateau between Idrijca and Ba\u010da valleys. The nearby vista point on Arbi\u0161\u010de offers beautiful views of Cerkno and Idrija hills, Trnovski Gozd, Vojsko, and the Julian Alps."
+    },
+    "difficulty": "Reasonably steep asphalt road",
+    "difflevel": 2,
+    "duration": 2.5,
+    "height": 700,
+    "layout": "structured",
+    "lead": "M_20220821_102620.jpg",
+    "length": 22,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.11219&lon=13.84293&layers=B0000",
+    "name": "SentviskaGora",
+    "nearby": [
+      "/hikes/skrbinakuk",
+      "/hikes/sebrelje",
+      "/hikes/rodne",
+      "/biking/zakojca",
+      "/biking/oblakovvrh"
+    ],
+    "peak": "46.108664,13.878427",
+    "region": "primorska",
+    "start": "46.119036,13.805734",
+    "title": {
+      "en": "\u0160entvi\u0161ka Gora"
+    },
+    "video": "https://www.relive.cc/view/vevYomRzgJ6/",
+    "type": "biking",
+    "center": "46.114300,13.841591"
   },
   {
     "date": "2021-06-04 15:59:43+00:00",
@@ -8212,8 +8244,8 @@
       "/hikes/rodne",
       "/hikes/kojca",
       "/hikes/sebrelje",
-      "/hikes/porezen",
-      "/hikes/skrbinakuk"
+      "/biking/sentviskagora",
+      "/hikes/porezen"
     ],
     "region": "primorska",
     "start": "46.117423,13.921578",

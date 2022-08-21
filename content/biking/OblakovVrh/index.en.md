@@ -25,10 +25,10 @@ maplink: https://www.opencyclemap.org/?zoom=14&lat=46.07636&lon=13.86975&layers=
 name: OblakovVrh
 nearby:
 - /hikes/skrbinakuk
+- /biking/sentviskagora
 - /hikes/sebrelje
 - /biking/vojsko
 - /hikes/rodne
-- /biking/zakojca
 peak: 46.061757,13.890988
 region: primorska
 start: 46.094144,13.838676
