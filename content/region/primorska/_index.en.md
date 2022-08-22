@@ -6,12 +6,10 @@ map_zoom: 9
 map_h: 38em
 lang: en
 upcoming:
-- Idrijske Krnice and Šebreljski vrh
+- Idrijske Krnice
+- Jagršče
 - Hudournik
-- Šentviška Gora from Slap ob Idrijci
-# parking in Slap ob Idrijci is above the main road
-- Šebrelje
-# parking next to the main road in Stopnik
+- Around Šentviška Gora
 - Dolenja Trebuša - Vrše
 - Most na Soči - Kanalski Lom
 - Most na Soči - Čepovan - Lokovec

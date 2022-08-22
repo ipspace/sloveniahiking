@@ -24,9 +24,9 @@ name: SkrbinaKuk
 nearby:
 - /biking/sentviskagora
 - /biking/oblakovvrh
+- /biking/sebrelje
 - /hikes/sebrelje
-- /hikes/rodne
-- /biking/zakojca
+- /biking/lokvarskivrh
 peak: 46.092487,13.853752
 region: primorska
 title: Škrbina in Kuk

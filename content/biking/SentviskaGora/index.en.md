@@ -22,9 +22,9 @@ name: SentviskaGora
 nearby:
 - /hikes/skrbinakuk
 - /hikes/sebrelje
+- /biking/sebrelje
 - /hikes/rodne
 - /biking/zakojca
-- /biking/oblakovvrh
 peak: 46.108664,13.878427
 region: primorska
 start: 46.119036,13.805734

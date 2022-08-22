@@ -21,7 +21,7 @@ nearby:
 - /hikes/mrzlivrh_ziri
 - /biking/trebijaermanovec
 - /biking/mrzlivrhziri
-- /hikes/sebrelje
+- /biking/sebrelje
 peak: 46.086057,14.004225
 region: gorenjska
 start: 46.084986,14.038951

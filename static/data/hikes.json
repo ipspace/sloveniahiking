@@ -422,9 +422,9 @@
     "nearby": [
       "/biking/sentviskagora",
       "/biking/oblakovvrh",
+      "/biking/sebrelje",
       "/hikes/sebrelje",
-      "/hikes/rodne",
-      "/biking/zakojca"
+      "/biking/lokvarskivrh"
     ],
     "peak": "46.092487,13.853752",
     "region": "primorska",
@@ -1494,7 +1494,7 @@
       "/biking/sentviskagora",
       "/biking/zakojca",
       "/hikes/kojca",
-      "/hikes/skrbinakuk"
+      "/biking/lokvarskivrh"
     ],
     "peak": "46.110149,13.917076",
     "region": "primorska",
@@ -3632,7 +3632,7 @@
       "/hikes/mrzlivrh_ziri",
       "/biking/trebijaermanovec",
       "/biking/mrzlivrhziri",
-      "/hikes/sebrelje"
+      "/biking/sebrelje"
     ],
     "peak": "46.086057,14.004225",
     "region": "gorenjska",
@@ -4301,8 +4301,8 @@
       "/biking/zakojca",
       "/hikes/sebrelje",
       "/hikes/kojca",
-      "/biking/sentviskagora",
-      "/hikes/porezen"
+      "/biking/sebrelje",
+      "/biking/sentviskagora"
     ],
     "peak": "46.130969,13.927604",
     "region": "primorska",
@@ -7658,6 +7658,37 @@
     "center": "46.083464,14.262724"
   },
   {
+    "date": "2022-08-22 15:40:36+00:00",
+    "delta": 400,
+    "description": {
+      "en": "\u0160ebrelje is a village on a sunny plateau high above Idrijca valley, best known for the nearby Stone Age archeological site. You can hike to the northern part of the village or take the asphalt road and then explore \u0160ebrelje by bike."
+    },
+    "difficulty": "Steep asphalt road",
+    "difflevel": 3,
+    "duration": 1.5,
+    "height": 640,
+    "layout": "structured",
+    "lead": "M_20220822_082424.jpg",
+    "length": 8,
+    "maplink": "https://www.opencyclemap.org/?zoom=15&lat=46.09432&lon=13.91363&layers=B0000",
+    "name": "Sebrelje",
+    "nearby": [
+      "/biking/lokvarskivrh",
+      "/biking/sentviskagora",
+      "/biking/oblakovvrh",
+      "/hikes/rodne",
+      "/hikes/skrbinakuk"
+    ],
+    "peak": "46.092727,13.917201",
+    "region": "primorska",
+    "start": "46.094994,13.899026",
+    "title": {
+      "en": "\u0160ebrelje by Bike"
+    },
+    "type": "biking",
+    "center": "46.091962,13.907924"
+  },
+  {
     "date": "2022-05-03 15:22:10+00:00",
     "delta": 600,
     "description": {
@@ -7689,6 +7720,37 @@
     "center": "45.797125,13.997495"
   },
   {
+    "date": "2022-08-22 16:10:27+00:00",
+    "delta": 850,
+    "description": {
+      "en": "Lokvarski Vrh (also known as Vrhovec or \u0160ebreljski Vrh)[^LV] is one of the highest peaks on the ridge between Idrijca and Kanomlja valleys, with a phenomenal 360-degree panorama of the Julian Alps, Cerkno hills, Vojsko, and Trnovski Gozd. You can get there from Oblakov Vrh, Idrijske Krnice, or \u0160ebrelje."
+    },
+    "difficulty": "Steep mix of asphalt and gravel roads with a pleasant intermezzo above \u0160ebrelje",
+    "difflevel": 3,
+    "duration": 3,
+    "height": 1079,
+    "layout": "structured",
+    "lead": "Lead.jpg",
+    "length": 18,
+    "maplink": "https://mapzs.pzs.si/poi/81679",
+    "name": "LokvarskiVrh",
+    "nearby": [
+      "/biking/oblakovvrh",
+      "/biking/sebrelje",
+      "/hikes/sebrelje",
+      "/hikes/skrbinakuk",
+      "/biking/sentviskagora"
+    ],
+    "peak": "46.063586,13.910503",
+    "region": "primorska",
+    "start": "46.119036,13.805734",
+    "title": {
+      "en": "Lokvarski (\u0160ebreljski) Vrh"
+    },
+    "type": "biking",
+    "center": "46.079290,13.908420"
+  },
+  {
     "date": "2022-08-19 18:15:45+00:00",
     "delta": 600,
     "description": {
@@ -7704,11 +7766,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.07636&lon=13.86975&layers=B0000",
     "name": "OblakovVrh",
     "nearby": [
+      "/biking/lokvarskivrh",
+      "/biking/sebrelje",
       "/hikes/skrbinakuk",
       "/biking/sentviskagora",
-      "/hikes/sebrelje",
-      "/biking/vojsko",
-      "/hikes/rodne"
+      "/hikes/sebrelje"
     ],
     "peak": "46.061757,13.890988",
     "region": "primorska",
@@ -7830,9 +7892,9 @@
     "nearby": [
       "/hikes/skrbinakuk",
       "/hikes/sebrelje",
+      "/biking/sebrelje",
       "/hikes/rodne",
-      "/biking/zakojca",
-      "/biking/oblakovvrh"
+      "/biking/zakojca"
     ],
     "peak": "46.108664,13.878427",
     "region": "primorska",
@@ -8149,9 +8211,9 @@
     "nearby": [
       "/hikes/hleviskeplanine",
       "/hikes/maligolak",
+      "/biking/lokvarskivrh",
       "/biking/oblakovvrh",
-      "/hikes/orlovca",
-      "/biking/zadlog"
+      "/hikes/orlovca"
     ],
     "region": "primorska",
     "start": "45.981987,13.973719",
@@ -8245,7 +8307,7 @@
       "/hikes/kojca",
       "/hikes/sebrelje",
       "/biking/sentviskagora",
-      "/hikes/porezen"
+      "/biking/sebrelje"
     ],
     "region": "primorska",
     "start": "46.117423,13.921578",

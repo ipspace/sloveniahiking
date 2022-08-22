@@ -26,7 +26,7 @@ nearby:
 - /hikes/kojca
 - /hikes/sebrelje
 - /biking/sentviskagora
-- /hikes/porezen
+- /biking/sebrelje
 region: primorska
 start: 46.117423,13.921578
 title: Zakojca from Idrijca Valley
