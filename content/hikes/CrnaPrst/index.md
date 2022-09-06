@@ -39,7 +39,7 @@ nearby:
 - /hikes/vogel
 - /hikes/kojca
 - /hikes/vogar
-- /hikes/vogelvrh
+- /biking/zajamniki
 peak: 46.231157,13.931631
 region: julian-alps
 start: 46.258675,13.959392

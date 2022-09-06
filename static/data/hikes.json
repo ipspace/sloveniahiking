@@ -1345,11 +1345,11 @@
     "maplink": "https://mapzs.pzs.si/poi/34918",
     "name": "Uskovnica",
     "nearby": [
+      "/biking/zajamniki",
       "/hikes/visevnik",
       "/hikes/vogar",
       "/hikes/krstenica",
-      "/hikes/malidraskivrh",
-      "/hikes/velikidraskivrh"
+      "/hikes/malidraskivrh"
     ],
     "peak": "46.322242,13.907812",
     "photo_author": "Mojca_Lustrek",
@@ -2269,11 +2269,11 @@
     "multipath": true,
     "name": "Lipanca/Javornik",
     "nearby": [
+      "/biking/zajamniki",
       "/hikes/lipanca",
       "/hikes/uskovnica",
       "/hikes/visevnik",
-      "/hikes/lipanskivrh",
-      "/hikes/debelivrh"
+      "/hikes/lipanskivrh"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -5585,7 +5585,7 @@
       "/hikes/vogel",
       "/hikes/kojca",
       "/hikes/vogar",
-      "/hikes/vogelvrh"
+      "/biking/zajamniki"
     ],
     "peak": "46.231157,13.931631",
     "region": "julian-alps",
@@ -7029,7 +7029,7 @@
       "/hikes/krstenica",
       "/hikes/uskovnica",
       "/hikes/jezerskistog",
-      "/hikes/toscbohinj"
+      "/biking/zajamniki"
     ],
     "peak": "46.296755,13.867167",
     "region": "julian-alps",
@@ -7841,6 +7841,37 @@
     },
     "type": "biking",
     "center": "45.838628,14.123476"
+  },
+  {
+    "date": "2022-09-06 12:54:14+00:00",
+    "delta": 410,
+    "description": {
+      "en": "Zajamniki is the most picturesque Pokljuka alp; Uskovnica has the best vistas. You can visit both of them and a half-dozen other alps on the southern slopes of Pokljuka in just a few hours. Let's go! "
+    },
+    "difficulty": "A mix of asphalt and gravel roads",
+    "difflevel": 2,
+    "duration": 3,
+    "height": 1380,
+    "lead": "M_20220906_095203.jpg",
+    "length": 20.1,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.33064&lon=13.94185&layers=B0000",
+    "name": "Zajamniki",
+    "nearby": [
+      "/hikes/uskovnica",
+      "/hikes/vogar",
+      "/hikes/visevnik",
+      "/hikes/malidraskivrh",
+      "/hikes/krstenica"
+    ],
+    "peak": "46.313641,13.932656",
+    "region": "julian-alps",
+    "start": "46.341548,13.961045",
+    "title": {
+      "en": "Zajamniki and Uskovnica"
+    },
+    "video": "https://www.relive.cc/view/vZqNxJ7Jp3O/",
+    "type": "biking",
+    "center": "46.331367,13.941900"
   },
   {
     "date": "2022-06-14 15:28:37+00:00",
