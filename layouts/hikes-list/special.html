@@ -4,5 +4,18 @@
 <article id="left-column">
 {{ partial (printf "hikes-special-%s" .Params.listing) . }}
 </article>
+<link href='/css/datatables.css' rel='stylesheet' type='text/css' />
+<script src="/js/datatables.js"></script>
+<script>
+$(function() {
+  console.log("init datatable")
+  let table = new DataTable('#sortTable', {
+    paging: false, searching: false,
+    language: {
+      info: ""
+    }
+  });
+});
+</script>
 {{ partial "hikes-sidebar.html" . }}
 {{ partial "footer.html" . }}
