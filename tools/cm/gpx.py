@@ -92,6 +92,9 @@ def sync_gpx_data(gpx_path):
   page['gpx']['center'] = { 'lat': gpx_info['center_lat'], 'lon': gpx_info['center_lon']}
 
 ##  print("%s: %s" % (gpx_path,gpx_info));
+  old_zoom = page['gpx'].get('zoom',None)
+  page['gpx']['zoom'] = 13
+
   if gpx_info['delta_lat'] < 0.023 and gpx_info['delta_lon'] < 0.05:
     page['gpx']['zoom'] = 14
 
@@ -101,9 +104,11 @@ def sync_gpx_data(gpx_path):
   if gpx_info['delta_lat'] < 0.0065 and gpx_info['delta_lon'] < 0.0120:
     page['gpx']['zoom'] = 16
 
-  if gpx_info['delta_lat'] > 0.05 or gpx_info['delta_lon'] > 0.12:
+  if gpx_info['delta_lat'] > 0.049 or gpx_info['delta_lon'] > 0.12:
     page['gpx']['zoom'] = 12
 
   if yaml.dump(page) != page_dump:
     print("Page changed based on information in %s, updating..." % gpx_path)
+    print(gpx_info)
+    print(f"old zoom: {old_zoom}, new zoom: {page['gpx']['zoom']}")
     cm.write.create_output_file(page,file_path=index_name)
