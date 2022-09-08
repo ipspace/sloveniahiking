@@ -7,7 +7,7 @@ description: Mala Lazna is a lovely clearing deep in the Trnovo Forest. A chance
   road from Predmeja to Lokve, making it a perfect destination for a short road biking
   trip.
 difficulty: Asphalt road
-difflevel: 3
+difflevel: 2
 duration: 2
 gpx:
   center:

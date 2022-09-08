@@ -5,7 +5,7 @@ description: If you've explored all the footpaths to the Čaven mountain hut, it
   time to bike there. We'll start in Predmeja; if you're looking for a much longer
   ride, choose Lokavec as your starting point.
 difficulty: A mix of asphalt and gravel roads
-difflevel: 2
+difflevel: 3
 duration: 2
 gpx:
   center:
