@@ -20,11 +20,11 @@ multilead: M_0_00616.JPG
 multipath: true
 name: Caven/Srednja
 nearby:
+- /biking/cavenbiking
 - /hikes/caven
 - /hikes/orlovca
 - /hikes/dolskimaj
 - /biking/resseltrail
-- /hikes/malagora
 peak: 45.928964,13.852867
 region: vipava
 start: 45.937787,13.869216

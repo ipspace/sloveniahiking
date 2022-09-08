@@ -14,6 +14,7 @@ gpx:
     lon: 13.827613
   file: Marezige-Trsek-Popetre.gpx
   modified: 1619079475
+  zoom: 13
 height: 404
 layout: structured
 lead: M_20210422_085412.jpg

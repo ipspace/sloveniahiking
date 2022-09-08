@@ -14,6 +14,7 @@ gpx:
     lon: 13.79839168045839
   file: LukovecMaliDol.gpx
   modified: 1622634561
+  zoom: 13
 height: 393
 layout: structured
 lead: M_20210602_073047.jpg

@@ -14,6 +14,7 @@ gpx:
     lon: 14.144152428258245
   file: Zavratec.gpx
   modified: 1624717937
+  zoom: 13
 height: 850
 layout: structured
 lead: M_20210626_083237.jpg

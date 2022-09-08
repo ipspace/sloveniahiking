@@ -15,6 +15,7 @@ gpx:
     lon: 13.910611656796277
   file: KukLacna.gpx
   modified: 1652195526
+  zoom: 13
 height: 500
 lead: M_20220510_100131.jpg
 length: 18.7

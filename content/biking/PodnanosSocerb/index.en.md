@@ -16,6 +16,7 @@ gpx:
     lon: 13.952030830315499
   file: PodnanosSocerb.gpx
   modified: 1622482130
+  zoom: 13
 height: 580
 lead: M_20210531_113148.jpg
 length: 17.3

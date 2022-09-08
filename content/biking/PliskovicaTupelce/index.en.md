@@ -15,6 +15,7 @@ gpx:
     lon: 13.782163687668502
   file: Pliskovica.gpx
   modified: 1630747030
+  zoom: 13
 height: 310
 lead: M_20210902_111541.jpg
 length: 18.5

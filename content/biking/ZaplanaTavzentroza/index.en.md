@@ -15,6 +15,7 @@ gpx:
     lon: 14.191474850309689
   file: Tavzentroza.gpx
   modified: 1619969782
+  zoom: 13
 height: 770
 layout: structured
 lead: M_20210501_101521.jpg

@@ -313,8 +313,8 @@
       "/hikes/orlovca",
       "/biking/resseltrail",
       "/hikes/otliskookno",
-      "/hikes/caven",
-      "/hikes/malagora"
+      "/biking/cavenbiking",
+      "/hikes/caven"
     ],
     "peak": "45.933692,13.893652",
     "region": "vipava",
@@ -994,10 +994,10 @@
     "name": "MaliGolak",
     "nearby": [
       "/biking/malalazna",
+      "/biking/cavenbiking",
       "/hikes/orlovca",
       "/hikes/dolskimaj",
-      "/hikes/caven",
-      "/biking/vojsko"
+      "/hikes/caven"
     ],
     "peak": "45.978565,13.864346",
     "region": "primorska",
@@ -1413,7 +1413,7 @@
       "/hikes/skoljsvpavla",
       "/hikes/caven",
       "/hikes/malagora",
-      "/biking/malalazna"
+      "/biking/cavenbiking"
     ],
     "peak": "45.934367,13.802914",
     "region": "vipava",
@@ -2387,7 +2387,8 @@
         "lon": 13.912448467012812
       },
       "file": "DebeliVrh.gpx",
-      "modified": 1630684592
+      "modified": 1630684592,
+      "zoom": 13
     },
     "height": 1959,
     "layout": "stub",
@@ -2722,7 +2723,8 @@
         "lon": 14.0361825
       },
       "file": "AbramPlesa.gpx",
-      "modified": 1619849785
+      "modified": 1619849785,
+      "zoom": 13
     },
     "height": 1262,
     "lead": "M_20210223_101205.jpg",
@@ -3005,7 +3007,8 @@
         "lon": 13.599914881775355
       },
       "file": "Golobar.gpx",
-      "modified": 1624386474
+      "modified": 1624386474,
+      "zoom": 13
     },
     "height": 1314,
     "layout": "structured",
@@ -3126,9 +3129,9 @@
     "nearby": [
       "/hikes/dolskimaj",
       "/biking/resseltrail",
+      "/biking/cavenbiking",
       "/hikes/otliskookno",
-      "/hikes/caven",
-      "/hikes/malagora"
+      "/hikes/caven"
     ],
     "peak": "45.936770,13.890401",
     "region": "vipava",
@@ -3658,7 +3661,8 @@
         "lon": 13.897403663645969
       },
       "file": "LacnaKukKvirik.gpx",
-      "modified": 1634381068
+      "modified": 1634381068,
+      "zoom": 13
     },
     "height": 497,
     "layout": "structured",
@@ -4126,7 +4130,8 @@
         "lon": 13.631249284918901
       },
       "file": "LoskaKoritnica.gpx",
-      "modified": 1624463382
+      "modified": 1624463382,
+      "zoom": 13
     },
     "height": 1103,
     "layout": "structured",
@@ -4329,9 +4334,9 @@
     "nearby": [
       "/hikes/caven",
       "/hikes/kucelj",
+      "/biking/cavenbiking",
       "/biking/resseltrail",
-      "/hikes/skoljsvpavla",
-      "/hikes/orlovca"
+      "/hikes/skoljsvpavla"
     ],
     "peak": "45.922396,13.850510",
     "region": "vipava",
@@ -4568,11 +4573,11 @@
     "multipath": true,
     "name": "Caven/Srednja",
     "nearby": [
+      "/biking/cavenbiking",
       "/hikes/caven",
       "/hikes/orlovca",
       "/hikes/dolskimaj",
-      "/biking/resseltrail",
-      "/hikes/malagora"
+      "/biking/resseltrail"
     ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
@@ -4666,10 +4671,10 @@
     "name": "Caven",
     "nearby": [
       "/hikes/malagora",
+      "/biking/cavenbiking",
       "/hikes/kucelj",
       "/biking/resseltrail",
-      "/hikes/orlovca",
-      "/hikes/dolskimaj"
+      "/hikes/orlovca"
     ],
     "peak": "45.928964,13.852867",
     "region": "vipava",
@@ -4789,7 +4794,7 @@
       "/hikes/velikirob",
       "/hikes/malagora",
       "/hikes/caven",
-      "/biking/resseltrail"
+      "/biking/cavenbiking"
     ],
     "peak": "45.909096,13.810788",
     "region": "vipava",
@@ -5110,11 +5115,11 @@
     "multipath": true,
     "name": "Kucelj/Predmeja",
     "nearby": [
+      "/biking/cavenbiking",
       "/hikes/orlovca",
       "/hikes/dolskimaj",
       "/hikes/caven",
-      "/biking/resseltrail",
-      "/hikes/malagora"
+      "/biking/resseltrail"
     ],
     "peak": "45.928761,13.825091",
     "region": "vipava",
@@ -5173,7 +5178,7 @@
       "/hikes/malagora",
       "/hikes/caven",
       "/hikes/skoljsvpavla",
-      "/biking/resseltrail"
+      "/biking/cavenbiking"
     ],
     "peak": "45.928761,13.825091",
     "region": "vipava",
@@ -7401,10 +7406,10 @@
     "name": "MalaLazna",
     "nearby": [
       "/hikes/maligolak",
+      "/biking/cavenbiking",
       "/hikes/velikirob",
       "/hikes/kucelj",
-      "/hikes/caven",
-      "/hikes/malagora"
+      "/hikes/caven"
     ],
     "peak": "45.980302,13.825219",
     "region": "vipava",
@@ -7753,7 +7758,7 @@
     "date": "2022-08-22 16:10:27+00:00",
     "delta": 850,
     "description": {
-      "en": "Lokvarski Vrh (also known as Vrhovec or \u0160ebreljski Vrh)[^LV] is one of the highest peaks on the ridge between Idrijca and Kanomlja valleys, with a phenomenal 360-degree panorama of the Julian Alps, Cerkno hills, Vojsko, and Trnovski Gozd. You can get there from Oblakov Vrh, Idrijske Krnice, or \u0160ebrelje."
+      "en": "Lokvarski Vrh (also known as Vrhovec or \u0160ebreljski Vrh) is one of the highest peaks on the ridge between Idrijca and Kanomlja valleys, with a phenomenal 360-degree panorama of the Julian Alps, Cerkno hills, Vojsko, and Trnovski Gozd. You can get there from Oblakov Vrh, Idrijske Krnice, or \u0160ebrelje."
     },
     "difficulty": "Steep mix of asphalt and gravel roads with a pleasant intermezzo above \u0160ebrelje",
     "difflevel": 3,
@@ -7997,6 +8002,36 @@
     "video": "https://www.relive.cc/view/vJOKgwD9k5O/",
     "type": "biking",
     "center": "45.876271,14.184730"
+  },
+  {
+    "date": "2022-09-08 08:48:52+00:00",
+    "delta": 370,
+    "description": {
+      "en": "If you've explored all the footpaths to the \u010caven mountain hut, it's time to bike there. We'll start in Predmeja; if you're looking for a much longer ride, choose Lokavec as your starting point."
+    },
+    "difficulty": "A mix of asphalt and gravel roads",
+    "difflevel": 2,
+    "duration": 2,
+    "height": 1242,
+    "layout": "structured",
+    "lead": "M_20220902_112551.jpg",
+    "length": 14,
+    "maplink": "https://mapzs.pzs.si/poi/1062",
+    "name": "CavenBiking",
+    "nearby": [
+      "/hikes/caven",
+      "/hikes/orlovca",
+      "/hikes/malagora",
+      "/hikes/dolskimaj",
+      "/biking/resseltrail"
+    ],
+    "region": "vipava",
+    "start": "45.946760,13.870216",
+    "title": {
+      "en": "Biking to \u010caven Mountain Hut"
+    },
+    "type": "biking",
+    "center": "45.944420,13.861012"
   },
   {
     "date": "2021-06-26 14:11:19+00:00",

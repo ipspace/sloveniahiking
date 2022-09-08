@@ -20,10 +20,10 @@ maplink: https://mapzs.pzs.si/poi/5276
 name: MaliGolak
 nearby:
 - /biking/malalazna
+- /biking/cavenbiking
 - /hikes/orlovca
 - /hikes/dolskimaj
 - /hikes/caven
-- /biking/vojsko
 peak: 45.978565,13.864346
 region: primorska
 title: Mali Golak

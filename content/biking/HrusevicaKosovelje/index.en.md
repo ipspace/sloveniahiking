@@ -14,6 +14,7 @@ gpx:
     lon: 13.808684447756228
   file: Kosovelje.gpx
   modified: 1630744271
+  zoom: 13
 height: 300
 lead: M_20210601_084119.jpg
 length: 17.7

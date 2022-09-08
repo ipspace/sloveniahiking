@@ -15,6 +15,7 @@ gpx:
     lon: 13.599914881775355
   file: Golobar.gpx
   modified: 1624386474
+  zoom: 13
 height: 1314
 layout: structured
 lead: IMG_1924.jpg

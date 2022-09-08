@@ -20,6 +20,7 @@ gpx:
     lon: 13.748614869579686
   file: siroko.gpx
   modified: 1660999154
+  zoom: 13
 height: 755
 layout: structured
 lead: M_20220820_094608.jpg

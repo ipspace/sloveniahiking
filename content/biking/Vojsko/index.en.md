@@ -15,6 +15,7 @@ gpx:
     lon: 13.927546076368357
   file: CekovnikVojsko.gpx
   modified: 1628787965
+  zoom: 13
 height: 1108
 layout: structured
 lead: M_20210811_103140.jpg

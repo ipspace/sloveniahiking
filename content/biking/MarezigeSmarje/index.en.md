@@ -13,6 +13,7 @@ gpx:
     lon: 13.762342875990164
   file: MarezigeSmarje.gpx
   modified: 1619018919
+  zoom: 13
 height: 391
 layout: structured
 lead: M_20210421_085534.jpg

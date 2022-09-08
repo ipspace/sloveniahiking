@@ -22,8 +22,8 @@ nearby:
 - /hikes/orlovca
 - /biking/resseltrail
 - /hikes/otliskookno
+- /biking/cavenbiking
 - /hikes/caven
-- /hikes/malagora
 peak: 45.933692,13.893652
 region: vipava
 start: 45.943531,13.876619

@@ -13,6 +13,7 @@ gpx:
     lon: 13.601006079813319
   file: DrezniskeRavne.gpx
   modified: 1655304082
+  zoom: 13
 height: 752
 lead: M_20220615_113642.jpg
 length: 16.9

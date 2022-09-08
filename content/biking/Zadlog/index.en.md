@@ -14,6 +14,7 @@ gpx:
     lon: 14.015358076990292
   file: Zadlog.gpx
   modified: 1628788922
+  zoom: 13
 height: 733
 layout: structured
 lead: M_20210812_104910.jpg

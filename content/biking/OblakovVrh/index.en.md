@@ -17,6 +17,7 @@ gpx:
     lon: 13.86648525434675
   file: OblakovVrh.gpx
   modified: 1660933963
+  zoom: 13
 height: 721
 layout: structured
 lead: M_20220819_142123.jpg

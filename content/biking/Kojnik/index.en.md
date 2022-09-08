@@ -13,6 +13,7 @@ gpx:
     lon: 13.942053264478794
   file: Kojnik.gpx
   modified: 1652971335
+  zoom: 13
 height: 802
 layout: structured
 lead: M_20220519_091410.jpg

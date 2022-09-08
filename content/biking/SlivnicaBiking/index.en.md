@@ -15,6 +15,7 @@ gpx:
     lon: 14.407819644917446
   file: SlivnicaBiking.gpx
   modified: 1628351411
+  zoom: 13
 height: 1114
 layout: structured
 lead: M_20210807_101019.jpg

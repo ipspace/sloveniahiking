@@ -13,6 +13,7 @@ gpx:
     lon: 13.941899666106895
   file: zajamniki.gpx
   modified: 1662469138
+  zoom: 13
 height: 1380
 lead: M_20220906_095203.jpg
 length: 20.1

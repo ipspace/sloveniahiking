@@ -21,9 +21,9 @@ name: Orlovca
 nearby:
 - /hikes/dolskimaj
 - /biking/resseltrail
+- /biking/cavenbiking
 - /hikes/otliskookno
 - /hikes/caven
-- /hikes/malagora
 peak: 45.936770,13.890401
 region: vipava
 start: 45.932677,13.886372

@@ -14,6 +14,7 @@ gpx:
     lon: 13.912448467012812
   file: DebeliVrh.gpx
   modified: 1630684592
+  zoom: 13
 height: 1959
 layout: stub
 lead: M_20210830_095140.jpg

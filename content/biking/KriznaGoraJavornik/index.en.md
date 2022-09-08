@@ -13,6 +13,7 @@ gpx:
     lon: 14.038450890220961
   file: KriznaGoraJavornik.gpx
   modified: 1624805513
+  zoom: 13
 height: 1175
 layout: structured
 lead: M_20210627_102439.jpg

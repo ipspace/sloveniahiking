@@ -16,6 +16,7 @@ gpx:
     lon: 14.262723665842028
   file: PasjaRavan.gpx
   modified: 1624895820
+  zoom: 13
 height: 1023
 layout: structured
 lead: M_20210628_091625.jpg

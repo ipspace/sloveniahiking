@@ -14,9 +14,9 @@ name: MalaGora
 nearby:
 - /hikes/caven
 - /hikes/kucelj
+- /biking/cavenbiking
 - /biking/resseltrail
 - /hikes/skoljsvpavla
-- /hikes/orlovca
 peak: 45.922396,13.850510
 region: vipava
 start: 45.928964,13.852867

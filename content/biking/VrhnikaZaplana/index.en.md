@@ -13,6 +13,7 @@ gpx:
     lon: 14.254521261325522
   file: VrhnikaZaplana.gpx
   modified: 1619701930
+  zoom: 13
 height: 691
 layout: structured
 lead: M_20210318_094344.jpg

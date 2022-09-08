@@ -15,6 +15,7 @@ gpx:
     lon: 14.0361825
   file: AbramPlesa.gpx
   modified: 1619849785
+  zoom: 13
 height: 1262
 lead: M_20210223_101205.jpg
 maplink: https://mapzs.projekti.si/path/30815

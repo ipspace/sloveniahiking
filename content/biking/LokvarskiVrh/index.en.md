@@ -1,8 +1,8 @@
 ---
 date: 2022-08-22 16:10:27+00:00
 delta: 850
-description: Lokvarski Vrh (also known as Vrhovec or Šebreljski Vrh) is one of
-  the highest peaks on the ridge between Idrijca and Kanomlja valleys, with a phenomenal
+description: Lokvarski Vrh (also known as Vrhovec or Šebreljski Vrh) is one of the
+  highest peaks on the ridge between Idrijca and Kanomlja valleys, with a phenomenal
   360-degree panorama of the Julian Alps, Cerkno hills, Vojsko, and Trnovski Gozd.
   You can get there from Oblakov Vrh, Idrijske Krnice, or Šebrelje.
 difficulty: Steep mix of asphalt and gravel roads with a pleasant intermezzo above
@@ -15,6 +15,7 @@ gpx:
     lon: 13.90841966344145
   file: LokvarskiVrh.gpx
   modified: 1661185606
+  zoom: 13
 height: 1079
 layout: structured
 lead: Lead.jpg

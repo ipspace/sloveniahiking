@@ -14,6 +14,7 @@ gpx:
     lon: 13.897403663645969
   file: LacnaKukKvirik.gpx
   modified: 1634381068
+  zoom: 13
 height: 497
 lead: M_20211015_113838.jpg
 length: 14.6

@@ -15,6 +15,7 @@ gpx:
     lon: 14.279554862279047
   file: VelikaMilanja.gpx
   modified: 1623343418
+  zoom: 13
 height: 1099
 layout: structured
 lead: M_20200601_102531.jpg

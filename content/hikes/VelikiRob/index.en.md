@@ -21,7 +21,7 @@ nearby:
 - /hikes/skoljsvpavla
 - /hikes/caven
 - /hikes/malagora
-- /biking/malalazna
+- /biking/cavenbiking
 peak: 45.934367,13.802914
 region: vipava
 start: 45.903937,13.797679

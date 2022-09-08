@@ -15,7 +15,7 @@ gpx:
     lon: 13.847079682141477
   file: malalazna.gpx
   modified: 1662387351
-  zoom: 12
+  zoom: 13
 height: 1100
 lead: M_20220902_132528.jpg
 length: 13.8
@@ -23,10 +23,10 @@ maplink: https://www.opencyclemap.org/?zoom=14&lat=45.96178&lon=13.85284&layers=
 name: MalaLazna
 nearby:
 - /hikes/maligolak
+- /biking/cavenbiking
 - /hikes/velikirob
 - /hikes/kucelj
 - /hikes/caven
-- /hikes/malagora
 peak: 45.980302,13.825219
 region: vipava
 start: 45.946760,13.870216

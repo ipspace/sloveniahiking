@@ -14,6 +14,7 @@ gpx:
     lon: 13.88673886558487
   file: Ressel.gpx
   modified: 1633677621
+  zoom: 13
 height: 895
 layout: structured
 lead: M_20210928_122815.jpg

@@ -11,10 +11,10 @@ maplink: https://mapzs.pzs.si/poi/1062
 name: Caven
 nearby:
 - /hikes/malagora
+- /biking/cavenbiking
 - /hikes/kucelj
 - /biking/resseltrail
 - /hikes/orlovca
-- /hikes/dolskimaj
 peak: 45.928964,13.852867
 region: vipava
 title: Čaven

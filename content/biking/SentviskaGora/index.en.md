@@ -13,6 +13,7 @@ gpx:
     lon: 13.841590876801533
   file: sentviskagora.gpx
   modified: 1661083955
+  zoom: 13
 height: 700
 layout: structured
 lead: M_20220821_102620.jpg

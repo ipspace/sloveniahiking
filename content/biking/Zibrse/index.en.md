@@ -14,6 +14,7 @@ gpx:
     lon: 14.165148466551805
   file: zibrse.gpx
   modified: 1620576434
+  zoom: 13
 height: 720
 layout: structured
 lead: M_20210509_110242.jpg

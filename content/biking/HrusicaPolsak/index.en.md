@@ -14,6 +14,7 @@ gpx:
     lon: 14.18473005871942
   file: Hrusica.gpx
   modified: 1622824689
+  zoom: 13
 height: 600
 layout: structured
 lead: M_20210603_101503.jpg
