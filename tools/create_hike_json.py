@@ -5,6 +5,7 @@ import sys
 import os
 import yaml
 import argparse
+import datetime
 import cm.traverse
 import cm.read
 import json
@@ -36,7 +37,12 @@ def process_page(page,lang):
   page['description'] = { lang: page.get('description') }
 
 def collect_hike_data(si_path):
+  global hike_json
+
   si_page = cm.read.page(si_path)
+  if 'date' in si_page and si_page['date'] > datetime.datetime.now(datetime.timezone.utc):
+    print(f"Skipping {si_path} -- published on {str(si_page['date'])}")
+    return
 
   for key in ('html','markdown','image'):
     si_page.pop(key,None)
@@ -68,6 +74,10 @@ def collect_bike_data(index_path):
   global hike_json
 
   page = cm.read.page(index_path)
+  if 'date' in page and page['date'] > datetime.datetime.now(datetime.timezone.utc):
+    print(f"Skipping {index_path} -- published on {str(page['date'])}")
+    return
+
   process_page(page,'en')
   page['type'] = 'biking'
 
