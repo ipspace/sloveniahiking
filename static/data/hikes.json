@@ -2892,6 +2892,7 @@
     "name": "svAhac",
     "nearby": [
       "/hikes/krim",
+      "/hikes/svanabarje",
       "/biking/slivnicabiking",
       "/hikes/slivnica"
     ],
@@ -3566,11 +3567,11 @@
     "maplink": "https://mapzs.pzs.si/poi/34828",
     "name": "Krim",
     "nearby": [
+      "/hikes/svanabarje",
       "/hikes/borovniski_pekel",
       "/hikes/pokojisce",
       "/hikes/svahac",
-      "/biking/slivnicabiking",
-      "/hikes/slivnica"
+      "/biking/slivnicabiking"
     ],
     "peak": "45.928570,14.471184",
     "photo_author": "Mojca_Lustrek",
@@ -4363,7 +4364,7 @@
       "/hikes/krim",
       "/hikes/slivnica",
       "/biking/slivnicabiking",
-      "/hikes/planinskagora"
+      "/hikes/svanabarje"
     ],
     "peak": "45.880956,14.369589",
     "region": "notranjska",
@@ -4881,9 +4882,9 @@
     "nearby": [
       "/hikes/borovniski_pekel",
       "/hikes/krim",
+      "/hikes/svanabarje",
       "/hikes/planinskagora",
-      "/biking/vrhnikazaplana",
-      "/hikes/kuren"
+      "/biking/vrhnikazaplana"
     ],
     "peak": "45.893781,14.355786",
     "region": "notranjska",

@@ -12,9 +12,9 @@ name: Pokojisce
 nearby:
 - /hikes/borovniski_pekel
 - /hikes/krim
+- /hikes/svanabarje
 - /hikes/planinskagora
 - /biking/vrhnikazaplana
-- /hikes/kuren
 peak: 45.893781,14.355786
 region: notranjska
 start: 45.890566,14.371874
