@@ -4,7 +4,7 @@
     "delta": 440,
     "description": {
       "sl": "Za ljubitelje ro\u017e je obisk doline Zalipnik med Goli\u010dem in Kra\u0161kim robom v maju skorajda obvezen. Ta izlet lahko zaklju\u010dite z vzponom na Kav\u010di\u010d, zadnji slovenski vrh Kra\u0161kega roba.",
-      "en": "If you like wildflowers, you MUST visit Zalipnik valley between Goli\u010d and Karst edge in early May, and while you're there, try to find [Slender Fritillary](https://en.wikipedia.org/wiki/Fritillaria_orientalis) on the northern slopes of Kav\u010di\u010d, the last peak before the Slovenia-Croatia border.\n"
+      "en": "Kav\u010di\u010d is the easternmost peak in the Kra\u0161ki Rob (Karst Edge) ridge, with a beautiful view of surrounding meadows and hills."
     },
     "difflevel": 2,
     "duration": 3,
@@ -25,7 +25,7 @@
     "startpoint": "Podgorje",
     "title": {
       "sl": "Kav\u010di\u010d iz Podgorja",
-      "en": "Kav\u010di\u010d"
+      "en": "Kav\u010di\u010d from Rakitovec"
     }
   },
   {
@@ -7397,7 +7397,7 @@
       "en": "Mala Lazna is a lovely clearing deep in the Trnovo Forest. A chance geological accident resulted in an unusual soil composition welcoming plants you would not find anywhere else in western Slovenia. You can reach Mala Lazna via an asphalt road from Predmeja to Lokve, making it a perfect destination for a short road biking trip."
     },
     "difficulty": "Asphalt road",
-    "difflevel": 3,
+    "difflevel": 2,
     "duration": 2,
     "height": 1100,
     "lead": "M_20220902_132528.jpg",
@@ -8010,7 +8010,7 @@
       "en": "If you've explored all the footpaths to the \u010caven mountain hut, it's time to bike there. We'll start in Predmeja; if you're looking for a much longer ride, choose Lokavec as your starting point."
     },
     "difficulty": "A mix of asphalt and gravel roads",
-    "difflevel": 2,
+    "difflevel": 3,
     "duration": 2,
     "height": 1242,
     "layout": "structured",
