@@ -33,6 +33,10 @@ def sync_hike_data(si_path):
   en_page = cm.read.page(en_path)
   en_yaml = yaml.dump(en_page)
 
+  if 'nosync' in en_page:
+    print(f"Skipping {en_path} due to 'nosync' parameter")
+    return
+
   hike.common.cleanup(si_page)
   hike.common.cleanup(en_page)
   hike.common.set_hike_difflevel(si_page)
