@@ -489,10 +489,10 @@
     "name": "PokljuskaSoteska",
     "nearby": [
       "/hikes/krnicapokljuka",
+      "/biking/klekalp",
       "/hikes/debelapec",
       "/hikes/lipanca",
-      "/hikes/brdalipanca",
-      "/hikes/lipanskivrh"
+      "/hikes/brdalipanca"
     ],
     "path": "https://www.hribi.net/izlet/krnica_pokljuska_soteska_luknja/1/1270/2133",
     "peak": "46.375687,14.031108",
@@ -2211,7 +2211,7 @@
       "/hikes/brdalipanca",
       "/hikes/lipanskivrh",
       "/hikes/debelapec",
-      "/hikes/debelivrh"
+      "/biking/klekalp"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -2269,11 +2269,11 @@
     "multipath": true,
     "name": "Lipanca/Javornik",
     "nearby": [
+      "/biking/klekalp",
       "/biking/zajamniki",
       "/hikes/lipanca",
       "/hikes/uskovnica",
-      "/hikes/visevnik",
-      "/hikes/lipanskivrh"
+      "/hikes/visevnik"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -3287,7 +3287,7 @@
       "/hikes/lipanskivrh",
       "/hikes/lipanca",
       "/hikes/debelivrh",
-      "/hikes/visevnik"
+      "/biking/klekalp"
     ],
     "peak": "46.390678,13.933335",
     "region": "julian-alps",
@@ -5668,10 +5668,10 @@
     "name": "KrnicaPokljuka",
     "nearby": [
       "/hikes/pokljuskasoteska",
+      "/biking/klekalp",
       "/hikes/debelapec",
       "/hikes/lipanca",
-      "/hikes/brdalipanca",
-      "/hikes/lipanskivrh"
+      "/hikes/brdalipanca"
     ],
     "peak": "46.38114,14.00345",
     "region": "julian-alps",
@@ -6176,6 +6176,51 @@
     "title": {
       "sl": "Planina Krnica",
       "en": "Krnica Alp (Planina Krnica)"
+    }
+  },
+  {
+    "date": "2022-11-06 12:06:43+00:00",
+    "delta": 190,
+    "description": {
+      "sl": "Sveta Ana nad Ljubljanskim Barjem je priljubljena lahko dostopna izletni\u0161ka to\u010dka",
+      "en": "The hilltops south of Ljubljana Marsh are dotted with small churches; the most popular of them is probably the church of Saint Ana -- you can reach it in half an hour from any nearby starting point."
+    },
+    "difficulty": "Prijeten sprehod skozi bukov gozd",
+    "difflevel": 1,
+    "duration": 1,
+    "gpx": {
+      "center": {
+        "lat": 45.968811693425195,
+        "lon": 14.426584462550286
+      },
+      "file": "Ana.gpx",
+      "modified": 1667668674,
+      "zoom": 16
+    },
+    "height": 484,
+    "layout": "structured",
+    "lead": "M_20220325_132735.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/1590",
+    "name": "svAnaBarje",
+    "nearby": [
+      "/hikes/krim",
+      "/hikes/pokojisce",
+      "/hikes/borovniski_pekel",
+      "/hikes/kuren",
+      "/hikes/korena"
+    ],
+    "path": "https://www.hribi.net/izlet/jezero_sveta_ana/26/527/1307",
+    "peak": "45.969639,14.422101",
+    "region": "notranjska",
+    "start": "45.968763,14.431054",
+    "timing": [
+      "Vzpon: 30 minut",
+      "Spust: 20 minut",
+      "Skupaj: 1 ura"
+    ],
+    "title": {
+      "sl": "Sveta Ana",
+      "en": "Saint Ana above Ljubljana Marsh"
     }
   },
   {
@@ -7266,6 +7311,36 @@
     "video": "https://www.relive.cc/view/v4OGEowR15q/",
     "type": "biking",
     "center": "45.790597,14.407820"
+  },
+  {
+    "date": "2022-11-19 10:21:46+00:00",
+    "delta": 410,
+    "description": {
+      "en": "When the low clouds hugging the peaks above the Pokljuka plateau make hiking unpalatable, it's time to explore the less-visited parts of this natural gem. Let's grab a mountain bike and visit Klek Alp."
+    },
+    "difficulty": "Steep gravel roads",
+    "difflevel": 2,
+    "duration": 3,
+    "height": 1540,
+    "layout": "structured",
+    "lead": "M_20220905_120915.jpg",
+    "length": 21.7,
+    "maplink": "https://mapzs.pzs.si/poi/4841",
+    "name": "KlekAlp",
+    "nearby": [
+      "/hikes/krnicapokljuka",
+      "/hikes/lipanca",
+      "/hikes/debelapec",
+      "/hikes/brdalipanca",
+      "/hikes/lipanskivrh"
+    ],
+    "region": "julian-alps",
+    "start": "46.349958,13.985428",
+    "title": {
+      "en": "Klek Alp"
+    },
+    "type": "biking",
+    "center": "46.372696,13.970579"
   },
   {
     "date": "2021-04-20 16:14:45+00:00",
