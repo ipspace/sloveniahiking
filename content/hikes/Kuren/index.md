@@ -11,10 +11,10 @@ maplink: https://mapzs.pzs.si/path/31629
 name: Kuren
 nearby:
 - /hikes/spica
-- /biking/vrhnikazaplana
-- /biking/zaplanarovte
 - /hikes/kozljek
 - /hikes/korena
+- /hikes/korena_samotorica
+- /hikes/vs3k
 peak: 45.978816,14.265946
 region: notranjska
 start: 45.973964,14.291890

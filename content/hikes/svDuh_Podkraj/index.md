@@ -11,11 +11,11 @@ lead: M_3-3357_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/5161
 name: svDuh_Podkraj
 nearby:
-- /biking/kriznagorajavornik
 - /hikes/hrusica
-- /biking/vrhpoljeabram
-- /biking/predjamahrusica
 - /hikes/skavnica
+- /hikes/kovk
+- /hikes/plaz
+- /hikes/gradiskatura
 peak: 45.871767,14.062456
 region: primorska
 start: 45.863937,14.062856

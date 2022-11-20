@@ -17,8 +17,8 @@ nearby:
 - /hikes/vrsnik_ziri
 - /hikes/javorc
 - /hikes/vs3k
-- /biking/mrzlivrhziri
-- /biking/zavratectrail
+- /hikes/mrzlivrh_ziri
+- /hikes/sivka
 peak: 46.034557,14.125964
 region: gorenjska
 start: 46.047220,14.109817

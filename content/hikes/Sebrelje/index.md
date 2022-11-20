@@ -13,10 +13,10 @@ maplink: https://mapzs.pzs.si/poi/1419
 name: Sebrelje
 nearby:
 - /hikes/rodne
-- /biking/sentviskagora
-- /biking/zakojca
 - /hikes/kojca
-- /biking/lokvarskivrh
+- /hikes/skrbinakuk
+- /hikes/bevkovvrh
+- /hikes/porezen
 peak: 46.110149, 13.917076
 region: primorska
 start: 46.117423, 13.921578

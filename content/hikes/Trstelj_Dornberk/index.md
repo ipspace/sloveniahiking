@@ -28,8 +28,8 @@ nearby:
 - /hikes/pedrovo
 - /hikes/crnihribi
 - /hikes/cerje
-- /biking/lukovecmalidol
-- /biking/path9ponds
+- /hikes/skoljsvpavla
+- /hikes/velikirob
 peak: 45.857869,13.703780
 region: karst
 start: 45.883553,13.737850

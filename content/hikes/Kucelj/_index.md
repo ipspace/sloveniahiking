@@ -13,7 +13,7 @@ nearby:
 - /hikes/malagora
 - /hikes/caven
 - /hikes/skoljsvpavla
-- /biking/cavenbiking
+- /hikes/orlovca
 peak: 45.928761, 13.825091
 region: vipava
 start: null

@@ -25,9 +25,9 @@ name: Spica/KR
 nearby:
 - /hikes/kuren
 - /hikes/spica
-- /biking/vrhnikazaplana
-- /biking/zaplanarovte
 - /hikes/kozljek
+- /hikes/korena
+- /hikes/korena_samotorica
 peak: 45.971434,14.251496
 region: notranjska
 start: 45.979466,14.265043

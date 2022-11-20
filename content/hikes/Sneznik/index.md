@@ -19,8 +19,10 @@ maplink: https://mapzs.pzs.si/poi/34824
 name: Sneznik
 nearby:
 - /hikes/volovjareber
-- /biking/volovjareber
 - /hikes/svetatrojica
+- /hikes/javorniki
+- /hikes/slivnica
+- /hikes/ostric
 peak: 45.588478,14.447613
 region: notranjska
 start: 45.574142,14.401174

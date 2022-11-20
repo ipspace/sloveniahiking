@@ -15,10 +15,10 @@ multipath: true
 name: Lacna/Kubed
 nearby:
 - /hikes/lacna
-- /biking/rizanapraproce
 - /hikes/crnikal
-- /biking/marezigetrsek
-- /biking/kuklacna
+- /hikes/hrastovljezazid
+- /hikes/kuk
+- /hikes/tinjan_osp
 peak: 45.504969,13.885283
 region: istria
 start: 45.519562,13.869997

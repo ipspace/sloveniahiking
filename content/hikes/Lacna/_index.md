@@ -13,11 +13,11 @@ lead: M_1_2849.JPG
 maplink: https://mapzs.pzs.si/poi/1656
 name: Lacna
 nearby:
-- /biking/kuklacna
 - /hikes/kuk
-- /biking/rizanapraproce
 - /hikes/hrastovljezazid
 - /hikes/crnikal
+- /hikes/lacnakukkvirik
+- /hikes/kojnik
 peak: 45.504969,13.885283
 region: istria
 title: Lačna

@@ -11,6 +11,9 @@ name: VolovjaReber
 nearby:
 - /hikes/sneznik
 - /hikes/svetatrojica
+- /hikes/javorniki
+- /biking/skocjanjavorniki
+- /hikes/ostric
 peak: 45.592453,14.311605
 region: notranjska
 start: 45.585013,14.319533

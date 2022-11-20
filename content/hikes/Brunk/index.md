@@ -13,7 +13,10 @@ maplink: https://mapzs.pzs.si/poi/34684
 name: Brunk
 nearby:
 - /hikes/kum
-- /hikes/trebnjivrh
+- /hikes/mrzlica
+- /hikes/kotecnik
+- /hikes/podbohorjem
+- /hikes/kamnik
 peak: 46.037433,15.179605
 region: posavje
 title: Brunk iz Hotemeža

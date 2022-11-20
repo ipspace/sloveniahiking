@@ -1,8 +1,12 @@
 ---
 date: 2004-04-11 00:00:00+00:00
 delta: 450
-description: |
-  Če se želite pošteno prepotiti, bo izlet na Polhograjsko goro kar pravi -- 450 metrov višinske razlike prehodite po precej strmi poti v manj kot eni uri. Poleg izboljšane kondicije boste v lepih dneh nagrajeni tudi s čudovitim razgledom z vrha, pozorni popotniki pa bodo opazili še vrsto zanimivih rož.
+description: 'Če se želite pošteno prepotiti, bo izlet na Polhograjsko goro kar pravi
+  -- 450 metrov višinske razlike prehodite po precej strmi poti v manj kot eni uri.
+  Poleg izboljšane kondicije boste v lepih dneh nagrajeni tudi s čudovitim razgledom
+  z vrha, pozorni popotniki pa bodo opazili še vrsto zanimivih rož.
+
+  '
 difflevel: 2
 duration: 2.5
 height: 824
@@ -12,10 +16,10 @@ maplink: https://mapzs.pzs.si/poi/5445
 name: PolhograjskaGora
 nearby:
 - /hikes/polhograjskagrmada
-- /biking/pasjaravan
 - /hikes/tosc
 - /hikes/korena
 - /hikes/korena_samotorica
+- /hikes/svozbolt
 peak: 46.070824, 14.298751
 region: notranjska
 start: 46.068057,14.313456

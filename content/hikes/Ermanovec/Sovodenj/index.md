@@ -28,9 +28,9 @@ name: Ermanovec/Sovodenj
 nearby:
 - /hikes/ermanovec
 - /hikes/bevkovvrh
-- /biking/trebijaermanovec
 - /hikes/mrzlivrh_ziri
-- /biking/mrzlivrhziri
+- /hikes/slajka
+- /hikes/javorc
 peak: 46.101523,14.063172
 region: gorenjska
 start: 46.085008,14.038858

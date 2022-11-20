@@ -22,9 +22,9 @@ name: Skavnica
 nearby:
 - /hikes/plaz
 - /hikes/gradiskatura
-- /biking/vrhpoljeabram
 - /hikes/svmiklavz_vipava
 - /hikes/kovk
+- /hikes/soncnica
 path: https://www.hribi.net/izlet/gradisce_skavnica/26/3274/7816
 peak: 45.84970,13.98185
 region: vipava

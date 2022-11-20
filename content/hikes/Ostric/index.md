@@ -27,7 +27,7 @@ nearby:
 - /hikes/golic
 - /hikes/lipnik
 - /hikes/slavnik
-- /biking/podgorjekavcic
+- /hikes/kojnik
 peak: 45.491474,14.073402
 region: istria
 start: 45.505571,14.056139

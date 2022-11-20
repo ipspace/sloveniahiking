@@ -11,6 +11,8 @@ maplink: https://mapzs.pzs.si/poi/173
 name: DonackaGora
 nearby:
 - /hikes/boc
+- /hikes/trijekralji
+- /hikes/podbohorjem
 peak: 46.262731,15.742339
 region:
 - stajerska

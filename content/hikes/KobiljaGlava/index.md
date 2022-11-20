@@ -22,8 +22,8 @@ nearby:
 - /hikes/planinarazor
 - /hikes/vogelvrh
 - /hikes/vogel
-- /biking/siroko
 - /hikes/kojca
+- /hikes/crnaprst
 peak: 46.190011,13.795463
 region: julian-alps
 start: 46.190533,13.782526

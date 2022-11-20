@@ -13,6 +13,9 @@ name: Boc
 nearby:
 - /hikes/donackagora
 - /hikes/trijekralji
+- /hikes/podbohorjem
+- /hikes/kotecnik
+- /hikes/svanton
 peak: 46.289296,15.599824
 region:
 - karavanke

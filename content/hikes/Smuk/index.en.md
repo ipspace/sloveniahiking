@@ -12,6 +12,8 @@ maplink: https://mapzs.pzs.si/poi/4162
 name: Smuk
 nearby:
 - /hikes/gospodicna
+- /hikes/trebnjivrh
+- /hikes/svvid_catez
 peak: 45.661401,15.179623
 photo_author: Joze_Zugelj
 region: bela-krajina

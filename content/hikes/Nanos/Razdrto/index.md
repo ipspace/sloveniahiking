@@ -22,9 +22,9 @@ name: Nanos/Razdrto
 nearby:
 - /hikes/nanos
 - /hikes/suhivrh
-- /biking/nanosekokoca
 - /hikes/vremscica
-- /biking/podnanossocerb
+- /hikes/svmiklavz_vipava
+- /hikes/gradiskatura
 peak: 45.769507,14.056388
 region: vipava
 start: 45.759230,14.061785

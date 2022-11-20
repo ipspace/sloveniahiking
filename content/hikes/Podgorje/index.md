@@ -8,11 +8,11 @@ lead: M_0-4026_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/1531
 name: Podgorje
 nearby:
-- /biking/podgorjeslavnik
-- /biking/kojnik
 - /hikes/slavnik
 - /hikes/kojnik
-- /biking/rizanapraproce
+- /hikes/hrastovljezazid
+- /hikes/crnikal
+- /hikes/golic
 peak: 45.531420,13.947151
 region: istria
 title: Podgorje

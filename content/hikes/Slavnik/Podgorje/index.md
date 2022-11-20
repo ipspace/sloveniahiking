@@ -13,10 +13,10 @@ multipath: true
 name: Slavnik/Podgorje
 nearby:
 - /hikes/podgorje
-- /biking/podgorjeslavnik
-- /biking/kojnik
 - /hikes/slavnik
 - /hikes/kojnik
+- /hikes/hrastovljezazid
+- /hikes/crnikal
 peak: 45.533685,13.975236
 region: istria
 start: 45.531420,13.947151

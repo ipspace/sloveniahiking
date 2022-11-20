@@ -12,8 +12,8 @@ nearby:
 - /hikes/pokojisce
 - /hikes/krim
 - /hikes/slivnica
-- /biking/slivnicabiking
 - /hikes/svanabarje
+- /hikes/planinskagora
 peak: 45.880956,14.369589
 region: notranjska
 start: 45.890566,14.371874

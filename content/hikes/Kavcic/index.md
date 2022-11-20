@@ -13,9 +13,9 @@ name: Kavcic
 nearby:
 - /hikes/lipnik
 - /hikes/golic
-- /biking/podgorjekavcic
 - /hikes/kojnik
 - /hikes/velibadin
+- /hikes/hrastovljezazid
 peak: 45.471239,13.983605
 region: istria
 start: 45.531420,13.947151

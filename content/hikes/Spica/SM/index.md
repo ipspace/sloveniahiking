@@ -12,11 +12,11 @@ multilead: M_5-4537_IMG.JPG
 multipath: true
 name: Spica/SM
 nearby:
-- /biking/vrhnikazaplana
 - /hikes/spica
 - /hikes/kuren
-- /biking/zaplanarovte
-- /biking/zibrse
+- /hikes/kozljek
+- /hikes/vs3k
+- /hikes/korena
 peak: 45.971434,14.251496
 region: notranjska
 start: 45.956459,14.249277

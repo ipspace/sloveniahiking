@@ -15,8 +15,8 @@ nearby:
 - /hikes/svozbolt
 - /hikes/tosc
 - /hikes/polhograjskagrmada
-- /biking/pasjaravan
 - /hikes/polhograjskagora
+- /hikes/bukovvrh
 peak: 46.135750,14.301741
 region: gorenjska
 title: Andrej nad Zmincem

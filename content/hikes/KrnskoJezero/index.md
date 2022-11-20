@@ -20,11 +20,11 @@ lead: M_20211107_124336.jpg
 maplink: https://mapzs.pzs.si/poi/975
 name: KrnskoJezero/
 nearby:
-- /biking/drezniskeravne
-- /biking/dreznica
 - /hikes/golobar
-- /biking/javorscek
 - /hikes/planinarazor
+- /hikes/vogelvrh
+- /hikes/vogel
+- /hikes/vodicnivrh
 path: https://www.hribi.net/izlet/dom_v_lepeni_krnsko_jezero/1/163/291
 peak: 46.285342,13.685318
 region: julian-alps

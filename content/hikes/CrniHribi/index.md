@@ -29,8 +29,8 @@ nearby:
 - /hikes/cerje
 - /hikes/trstelj_dornberk
 - /hikes/pedrovo
-- /biking/lukovecmalidol
-- /biking/pliskovicatupelce
+- /hikes/skoljsvpavla
+- /hikes/velikirob
 peak: 45.868196,13.642593
 region: karst
 title: 'Črni hribi: od meje z Italijo do Renškega vrha'

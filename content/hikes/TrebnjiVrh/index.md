@@ -11,6 +11,10 @@ maplink: https://mapzs.pzs.si/poi/3949
 name: TrebnjiVrh
 nearby:
 - /hikes/brunk
+- /hikes/kum
+- /hikes/gospodicna
+- /hikes/smuk
+- /hikes/svahac
 peak: 45.893362,15.003060
 region: dolenjska
 title: Trebnji vrh

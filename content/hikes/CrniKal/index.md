@@ -19,11 +19,11 @@ lead: M_20211207_103716.jpg
 maplink: https://www.opencyclemap.org/?zoom=15&lat=45.54395&lon=13.89226&layers=B0000
 name: CrniKal
 nearby:
-- /biking/rizanapraproce
 - /hikes/lacna
 - /hikes/podgorje
-- /biking/kojnik
 - /hikes/tinjan_osp
+- /hikes/hrastovljezazid
+- /hikes/kojnik
 peak: 45.54080,13.89606
 region: istria
 start: 45.549954,13.880922

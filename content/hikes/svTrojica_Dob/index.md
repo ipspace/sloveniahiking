@@ -11,6 +11,9 @@ maplink: https://mapzs.pzs.si/path/32419
 name: svTrojica_Dob
 nearby:
 - /hikes/svprimoz_kamnik
+- /hikes/kranjskareber
+- /hikes/velikaplanina
+- /hikes/kamniskivrh
 - /hikes/golivrh_savnice
 peak: 46.123185,14.675471
 region: posavje

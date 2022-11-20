@@ -15,7 +15,7 @@ nearby:
 - /hikes/borovniski_pekel
 - /hikes/pokojisce
 - /hikes/svahac
-- /biking/slivnicabiking
+- /hikes/slivnica
 peak: 45.928570,14.471184
 photo_author: Mojca_Lustrek
 region: notranjska

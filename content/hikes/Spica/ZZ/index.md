@@ -12,10 +12,10 @@ multipath: true
 name: Spica/ZZ
 nearby:
 - /hikes/spica
-- /biking/vrhnikazaplana
-- /biking/zaplanarovte
 - /hikes/kuren
-- /biking/zibrse
+- /hikes/vs3k
+- /hikes/kozljek
+- /hikes/korena
 peak: 45.971434,14.251496
 region: notranjska
 start: 45.970243,14.235464

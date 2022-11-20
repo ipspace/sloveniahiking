@@ -31,9 +31,9 @@ name: Golic
 nearby:
 - /hikes/lipnik
 - /hikes/kavcic
-- /biking/podgorjekavcic
 - /hikes/kojnik
 - /hikes/hrastovljezazid
+- /hikes/kuk
 peak: 45.486241,13.978104
 region: istria
 start: 45.531420,13.947151

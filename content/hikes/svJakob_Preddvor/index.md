@@ -10,11 +10,11 @@ lead: M_9-3980_IMG.JPG
 maplink: https://mapzs.pzs.si/poi/1295
 name: svJakob_Preddvor
 nearby:
-- /biking/svjakob
 - /hikes/baba
 - /hikes/kozjivrh
 - /hikes/kalskigreben
 - /hikes/zvoh
+- /hikes/ambroz
 peak: 46.315115,14.440824
 region: kamnik-alps
 start: 46.305721,14.432230

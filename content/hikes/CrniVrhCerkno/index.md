@@ -22,7 +22,7 @@ nearby:
 - /hikes/slajka
 - /hikes/porezen
 - /hikes/ermanovec
-- /biking/trebijaermanovec
+- /hikes/malenskivrh
 peak: 46.161433,14.057411
 region: primorska
 start: 46.171139,14.042610

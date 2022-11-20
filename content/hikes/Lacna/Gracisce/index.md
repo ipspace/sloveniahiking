@@ -15,10 +15,10 @@ multipath: true
 name: Lacna/Gracisce
 nearby:
 - /hikes/lacna
-- /biking/kuklacna
 - /hikes/kuk
-- /biking/marezigetrsek
-- /biking/abitantigracisce
+- /hikes/hrastovljezazid
+- /hikes/crnikal
+- /hikes/lacnakukkvirik
 peak: 45.504969,13.885283
 region: istria
 start: 45.502955, 13.876214

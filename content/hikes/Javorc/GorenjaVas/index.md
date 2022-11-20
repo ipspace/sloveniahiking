@@ -20,9 +20,9 @@ name: Javorc/GorenjaVas
 nearby:
 - /hikes/javorc
 - /hikes/slajka
-- /biking/trebijaermanovec
 - /hikes/bukovvrh
 - /hikes/malenskivrh
+- /hikes/ermanovec
 peak: 46.070345,14.141830
 region: gorenjska
 start: 46.101187,14.140558

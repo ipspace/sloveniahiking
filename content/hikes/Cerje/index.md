@@ -15,8 +15,8 @@ nearby:
 - /hikes/crnihribi
 - /hikes/trstelj_dornberk
 - /hikes/pedrovo
-- /biking/lukovecmalidol
 - /hikes/skoljsvpavla
+- /hikes/velikirob
 peak: 45.872442,13.615999
 region: karst
 start: 45.873359,13.593190

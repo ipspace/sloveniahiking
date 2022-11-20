@@ -17,7 +17,7 @@ nearby:
 - /hikes/krstenica
 - /hikes/uskovnica
 - /hikes/jezerskistog
-- /biking/zajamniki
+- /hikes/toscbohinj
 peak: 46.296755,13.867167
 region: julian-alps
 start: 46.290398,13.886655

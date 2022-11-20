@@ -11,11 +11,11 @@ map: 1
 maplink: https://www.opencyclemap.org/?zoom=10&lat=46.11316&lon=14.09347&layers=B0000
 name: Slajka
 nearby:
-- /biking/trebijaermanovec
 - /hikes/ermanovec
 - /hikes/blegos
 - /hikes/crnivrhcerkno
 - /hikes/javorc
+- /hikes/malenskivrh
 peak: 46.11316,14.09347
 region: gorenjska
 title: Iz Hotavelj na Slajko in Špik

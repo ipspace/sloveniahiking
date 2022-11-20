@@ -15,6 +15,10 @@ maplink: https://mapzs.pzs.si/poi/3956
 name: Gospodicna
 nearby:
 - /hikes/smuk
+- /hikes/svvid_catez
+- /hikes/trebnjivrh
+- /hikes/brunk
+- /hikes/podbohorjem
 peak: 45.766444,15.297079
 region: dolenjska
 title: Gospodična

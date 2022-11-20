@@ -14,11 +14,11 @@ lead: M_20210222_002.jpg
 maplink: https://mapzs.pzs.si/path/31616
 name: PlaninskaGora
 nearby:
-- /biking/planinskagorabiking
 - /hikes/oblenk
 - /hikes/svlovrenc
-- /biking/hrusicapolsak
-- /biking/predjamahrusica
+- /hikes/hrusica
+- /hikes/javorniki
+- /hikes/pokojisce
 peak: 45.837401,14.233887
 region: notranjska
 start: 45.836412,14.255054

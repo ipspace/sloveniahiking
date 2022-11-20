@@ -10,10 +10,10 @@ maplink: https://mapzs.pzs.si/poi/1368
 name: Javorc
 nearby:
 - /hikes/goropeke
-- /biking/mrzlivrhziri
 - /hikes/sivka
 - /hikes/slajka
-- /biking/trebijaermanovec
+- /hikes/mrzlivrh_ziri
+- /hikes/vrsnik_ziri
 peak: 46.070345,14.141830
 region: gorenjska
 title: Javorč

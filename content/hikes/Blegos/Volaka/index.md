@@ -25,7 +25,7 @@ nearby:
 - /hikes/slajka
 - /hikes/malenskivrh
 - /hikes/crnivrhcerkno
-- /biking/trebijaermanovec
+- /hikes/ermanovec
 peak: 46.164802,14.113583
 region: gorenjska
 start: 46.143675,14.105743

@@ -20,10 +20,10 @@ maplink: https://www.opencyclemap.org/?zoom=16&lat=45.93545&lon=13.88715&layers=
 name: Orlovca
 nearby:
 - /hikes/dolskimaj
-- /biking/resseltrail
-- /biking/cavenbiking
 - /hikes/otliskookno
 - /hikes/caven
+- /hikes/malagora
+- /hikes/starababa
 peak: 45.936770,13.890401
 region: vipava
 start: 45.932677,13.886372

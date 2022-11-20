@@ -14,7 +14,7 @@ nearby:
 - /hikes/svozbolt
 - /hikes/polhograjskagora
 - /hikes/svandrej_zminec
-- /biking/pasjaravan
+- /hikes/korena
 peak: 46.097448,14.321274
 region: notranjska
 start: 46.076165,14.313252
