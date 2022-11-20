@@ -71,7 +71,7 @@ def sync_hike_data(si_path):
 
   for key in ['nearby']:
     if si_page.get(key,None):
-      if en_page.get(key,None) != si_page[key]:
+      if not en_page.get(key,None):
         en_page[key] = si_page[key]
         print("Copying %s from %s" % (key,si_path))
 

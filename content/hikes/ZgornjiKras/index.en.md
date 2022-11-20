@@ -2,8 +2,8 @@
 date: 2022-01-22 00:00:00+00:00
 delta: 80
 description: 'When our kids were still in kindergarten, they loved hiking around _the
-  place with the Bora wind_ -- the meadows of Zgornji Kras, a karst plateau above Trieste
-  with beautiful views of surrounding hills and the Adriatic Sea.
+  place with the Bora wind_ -- the meadows of Zgornji Kras, a karst plateau above
+  Trieste with beautiful views of surrounding hills and the Adriatic Sea.
 
   '
 difficulty: An easy stroll on gravel- and dirt roads and trails
