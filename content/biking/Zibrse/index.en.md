@@ -25,8 +25,8 @@ nearby:
 - /biking/zaplanatavzentroza
 - /biking/zaplanarovte
 - /biking/zavratec
+- /biking/zavratectrail
 - /hikes/spica
-- /biking/vrhnikazaplana
 region: notranjska
 start: 45.958404,14.191024
 title: Žibrše

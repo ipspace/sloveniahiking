@@ -2437,9 +2437,9 @@
     "nearby": [
       "/hikes/vs3k",
       "/biking/zavratec",
+      "/biking/zavratectrail",
       "/biking/zaplanatavzentroza",
-      "/hikes/goropeke",
-      "/hikes/vrsnik_ziri"
+      "/hikes/goropeke"
     ],
     "peak": "46.010608,14.168462",
     "region": "gorenjska",
@@ -2484,10 +2484,10 @@
     "name": "Vs3k",
     "nearby": [
       "/biking/zavratec",
+      "/biking/zavratectrail",
       "/hikes/goropeke",
       "/biking/zaplanatavzentroza",
-      "/biking/zaplanarovte",
-      "/hikes/vrsnik_ziri"
+      "/biking/zaplanarovte"
     ],
     "peak": "46.010608,14.168462",
     "region": "gorenjska",
@@ -2947,10 +2947,10 @@
     "name": "Vrsnik_Ziri",
     "nearby": [
       "/hikes/goropeke",
+      "/biking/zavratectrail",
       "/biking/mrzlivrhziri",
       "/hikes/mrzlivrh_ziri",
-      "/biking/zavratec",
-      "/hikes/vs3k"
+      "/biking/zavratec"
     ],
     "peak": "46.021711,14.094982",
     "region": "gorenjska",
@@ -4425,7 +4425,7 @@
       "/hikes/javorc",
       "/hikes/vs3k",
       "/biking/mrzlivrhziri",
-      "/hikes/mrzlivrh_ziri"
+      "/biking/zavratectrail"
     ],
     "peak": "46.034557,14.125964",
     "region": "gorenjska",
@@ -7569,7 +7569,7 @@
       "/biking/kriznagorajavornik",
       "/biking/vojsko",
       "/hikes/vrsnik_ziri",
-      "/hikes/kovk"
+      "/biking/zavratectrail"
     ],
     "region": "primorska",
     "start": "45.982522,14.027454",
@@ -8126,10 +8126,10 @@
     "name": "Zavratec",
     "nearby": [
       "/biking/zaplanatavzentroza",
+      "/biking/zavratectrail",
       "/hikes/vs3k",
       "/biking/zibrse",
-      "/biking/zaplanarovte",
-      "/hikes/vrsnik_ziri"
+      "/biking/zaplanarovte"
     ],
     "region": "gorenjska",
     "start": "46.000904,14.150434",
@@ -8159,8 +8159,8 @@
       "/biking/zaplanatavzentroza",
       "/biking/zaplanarovte",
       "/biking/zavratec",
-      "/hikes/spica",
-      "/biking/vrhnikazaplana"
+      "/biking/zavratectrail",
+      "/hikes/spica"
     ],
     "region": "notranjska",
     "start": "45.958404,14.191024",
@@ -8350,10 +8350,10 @@
     "name": "ZaplanaTavzentroza",
     "nearby": [
       "/biking/zavratec",
+      "/biking/zavratectrail",
       "/biking/zibrse",
       "/hikes/vs3k",
-      "/biking/zaplanarovte",
-      "/hikes/vrsnik_ziri"
+      "/biking/zaplanarovte"
     ],
     "peak": "45.971576,14.144772",
     "region": "notranjska",

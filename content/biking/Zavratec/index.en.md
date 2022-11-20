@@ -13,7 +13,7 @@ gpx:
     lat: 45.98533808196076
     lon: 14.144152428258245
   file: Zavratec.gpx
-  modified: 1624717937
+  modified: 1668936733
   zoom: 13
 height: 850
 layout: structured
@@ -23,10 +23,10 @@ maplink: https://www.opencyclemap.org/?zoom=14&lat=45.97928&lon=14.15498&layers=
 name: Zavratec
 nearby:
 - /biking/zaplanatavzentroza
+- /biking/zavratectrail
 - /hikes/vs3k
 - /biking/zibrse
 - /biking/zaplanarovte
-- /hikes/vrsnik_ziri
 region: gorenjska
 start: 46.000904,14.150434
 title: Betwixt Gorenjska and Primorska

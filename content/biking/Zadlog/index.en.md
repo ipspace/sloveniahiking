@@ -26,7 +26,7 @@ nearby:
 - /biking/kriznagorajavornik
 - /biking/vojsko
 - /hikes/vrsnik_ziri
-- /hikes/kovk
+- /biking/zavratectrail
 region: primorska
 start: 45.982522,14.027454
 title: Zadlog from Wild Lake

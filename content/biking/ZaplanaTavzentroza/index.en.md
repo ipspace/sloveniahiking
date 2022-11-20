@@ -24,10 +24,10 @@ maplink: https://www.opencyclemap.org/?zoom=14&lat=45.96809&lon=14.19585&layers=
 name: ZaplanaTavzentroza
 nearby:
 - /biking/zavratec
+- /biking/zavratectrail
 - /biking/zibrse
 - /hikes/vs3k
 - /biking/zaplanarovte
-- /hikes/vrsnik_ziri
 peak: 45.971576,14.144772
 region: notranjska
 start: 45.953324,14.227656
