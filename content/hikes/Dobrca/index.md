@@ -12,10 +12,10 @@ maplink: https://mapzs.pzs.si/poi/4686
 name: Dobrca
 nearby:
 - /hikes/planinica
+- /hikes/roblekovdom
 - /hikes/zelenica
 - /hikes/korosica
 - /hikes/kofce
-- /hikes/velikivrh
 peak: 46.380703,14.252813
 region: karavanke
 title: Dobrča

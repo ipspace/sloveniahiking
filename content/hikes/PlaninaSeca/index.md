@@ -13,9 +13,9 @@ name: PlaninaSeca
 nearby:
 - /hikes/golica
 - /hikes/vrtaca
+- /hikes/roblekovdom
 - /hikes/klek
 - /hikes/planinica
-- /hikes/zelenica
 peak: 46.460984,14.129766
 region: karavanke
 start: 46.456670,14.099295

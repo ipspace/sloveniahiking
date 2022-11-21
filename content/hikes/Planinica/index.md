@@ -19,11 +19,11 @@ lead: M_20220719_080116.jpg
 maplink: https://mapzs.pzs.si/poi/34854
 name: Planinica
 nearby:
+- /hikes/roblekovdom
 - /hikes/zelenica
 - /hikes/vrtaca
 - /hikes/dobrca
 - /hikes/korosica
-- /hikes/kosutica
 path: https://www.hribi.net/izlet/dom_v_dragi_planina_planinca/11/1150/1937
 peak: 46.409088,14.214936
 region: karavanke

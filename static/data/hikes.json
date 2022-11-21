@@ -884,10 +884,10 @@
     "name": "Zelenica",
     "nearby": [
       "/hikes/vrtaca",
+      "/hikes/roblekovdom",
       "/hikes/planinica",
       "/hikes/korosica",
-      "/hikes/kosutica",
-      "/hikes/dobrca"
+      "/hikes/kosutica"
     ],
     "path": "../vrtaca",
     "peak": "46.428862,14.233567",
@@ -1457,11 +1457,11 @@
     "maplink": "https://mapzs.pzs.si/poi/34854",
     "name": "Planinica",
     "nearby": [
+      "/hikes/roblekovdom",
       "/hikes/zelenica",
       "/hikes/vrtaca",
       "/hikes/dobrca",
-      "/hikes/korosica",
-      "/hikes/kosutica"
+      "/hikes/korosica"
     ],
     "path": "https://www.hribi.net/izlet/dom_v_dragi_planina_planinca/11/1150/1937",
     "peak": "46.409088,14.214936",
@@ -3173,10 +3173,10 @@
     "name": "Vrtaca",
     "nearby": [
       "/hikes/zelenica",
+      "/hikes/roblekovdom",
       "/hikes/planinica",
       "/hikes/korosica",
-      "/hikes/kosutica",
-      "/hikes/planinaseca"
+      "/hikes/kosutica"
     ],
     "peak": "46.439900,14.212625",
     "region": "karavanke",
@@ -3362,10 +3362,10 @@
     "name": "Dobrca",
     "nearby": [
       "/hikes/planinica",
+      "/hikes/roblekovdom",
       "/hikes/zelenica",
       "/hikes/korosica",
-      "/hikes/kofce",
-      "/hikes/velikivrh"
+      "/hikes/kofce"
     ],
     "peak": "46.380703,14.252813",
     "region": "karavanke",
@@ -6083,9 +6083,9 @@
     "nearby": [
       "/hikes/golica",
       "/hikes/vrtaca",
+      "/hikes/roblekovdom",
       "/hikes/klek",
-      "/hikes/planinica",
-      "/hikes/zelenica"
+      "/hikes/planinica"
     ],
     "peak": "46.460984,14.129766",
     "region": "karavanke",
