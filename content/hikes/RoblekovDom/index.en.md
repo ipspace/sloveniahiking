@@ -9,9 +9,9 @@ duration: 5
 gpx:
   center:
     lat: 46.40699247682299
-    lon: 14.215170825277976
+    lon: 14.215410044788698
   file: roblek.gpx
-  modified: 1669044201
+  modified: 1669044249
   zoom: 14
 height: 1657
 layout: structured

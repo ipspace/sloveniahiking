@@ -12,7 +12,7 @@ nearby:
 - /hikes/malagora
 - /hikes/caven
 - /hikes/skoljsvpavla
-- /biking/cavenbiking
+- /biking/smrekovalazna
 peak: 45.928761, 13.825091
 region: vipava
 title: Kucelj

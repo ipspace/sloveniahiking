@@ -22,11 +22,11 @@ length: 13.8
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.96178&lon=13.85284&layers=B0000
 name: MalaLazna
 nearby:
+- /biking/smrekovalazna
 - /hikes/maligolak
 - /biking/cavenbiking
 - /hikes/velikirob
 - /hikes/kucelj
-- /hikes/caven
 peak: 45.980302,13.825219
 region: vipava
 start: 45.946760,13.870216

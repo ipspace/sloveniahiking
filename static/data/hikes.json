@@ -6244,6 +6244,50 @@
     }
   },
   {
+    "date": "2022-11-21 15:12:19+00:00",
+    "delta": 950,
+    "description": {
+      "sl": "Roblekov dom je legendarna ko\u010da na son\u010dnih pobo\u010djih Begunj\u0161\u010dice s \u010dudovitimi razgledi na Stol, Vrta\u010do, Blejsko jezero, in Julijske Alpe.",
+      "en": "Roblekov Dom is a legendary mountain hut high on the slopes of Begunj\u0161\u010dica ridge with a great view of Stol, Vrta\u010da, lake Bled, and the Julian Alps with Triglav."
+    },
+    "difficulty": "Dolg vzpon po prijetno strmi poti",
+    "difflevel": 3,
+    "duration": 5,
+    "gpx": {
+      "center": {
+        "lat": 46.40699247682299,
+        "lon": 14.215410044788698
+      },
+      "file": "roblek.gpx",
+      "modified": 1669044249,
+      "zoom": 14
+    },
+    "height": 1657,
+    "lead": "M_20220719_091910.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/800",
+    "name": "RoblekovDom",
+    "nearby": [
+      "/hikes/planinica",
+      "/hikes/zelenica",
+      "/hikes/vrtaca",
+      "/hikes/dobrca",
+      "/hikes/korosica"
+    ],
+    "path": "https://www.hribi.net/izlet/dom_v_dragi_roblekov_dom_na_begunjscici/11/195/3982",
+    "peak": "46.417716,14.211917",
+    "region": "karavanke",
+    "start": "46.396022,14.219529",
+    "timing": [
+      "Vzpon: 3 ure",
+      "Spust: 2 uri",
+      "Skupaj: 5 ur"
+    ],
+    "title": {
+      "sl": "Roblekov Dom",
+      "en": "Roblekov Dom"
+    }
+  },
+  {
     "date": "1900-01-01 00:00:00+00:00",
     "delta": 360,
     "description": {
@@ -7510,11 +7554,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.96178&lon=13.85284&layers=B0000",
     "name": "MalaLazna",
     "nearby": [
+      "/biking/smrekovalazna",
       "/hikes/maligolak",
       "/biking/cavenbiking",
       "/hikes/velikirob",
-      "/hikes/kucelj",
-      "/hikes/caven"
+      "/hikes/kucelj"
     ],
     "peak": "45.980302,13.825219",
     "region": "vipava",
@@ -8044,6 +8088,35 @@
     "center": "46.054509,14.078413"
   },
   {
+    "date": "2022-11-22 08:39:20+01:00",
+    "delta": 720,
+    "description": {
+      "en": "Smre\u010dje is a giant hollow and a cold-air pool in Trnovo Forest -- even though it's barely above 1000m, the local information tables claim you could get below-freezing temperatures in July -- making it a perfect summer destination when you're tired of heat waves and summer crowds."
+    },
+    "difficulty": "A mix of asphalt and gravel roads with occasional steep ascents",
+    "difflevel": 3,
+    "duration": 3,
+    "height": 1254,
+    "layout": "structured",
+    "length": 28,
+    "maplink": "https://www.opencyclemap.org/?zoom=13&lat=45.95528&lon=13.83454&layers=B0000",
+    "name": "SmrekovaLazna",
+    "nearby": [
+      "/biking/cavenbiking",
+      "/hikes/kucelj",
+      "/hikes/velikirob",
+      "/biking/malalazna",
+      "/hikes/caven"
+    ],
+    "region": "vipava",
+    "start": "45.946760,13.870216",
+    "title": {
+      "en": "Smre\u010dje and Smrekova Lazna"
+    },
+    "type": "biking",
+    "center": "45.953968,13.827848"
+  },
+  {
     "date": "2022-06-15 14:24:36+00:00",
     "delta": 560,
     "description": {
@@ -8156,8 +8229,8 @@
       "/hikes/caven",
       "/hikes/orlovca",
       "/hikes/malagora",
-      "/hikes/dolskimaj",
-      "/biking/resseltrail"
+      "/biking/smrekovalazna",
+      "/hikes/dolskimaj"
     ],
     "region": "vipava",
     "start": "45.946760,13.870216",

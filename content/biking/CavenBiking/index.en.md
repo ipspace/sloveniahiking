@@ -24,8 +24,8 @@ nearby:
 - /hikes/caven
 - /hikes/orlovca
 - /hikes/malagora
+- /biking/smrekovalazna
 - /hikes/dolskimaj
-- /biking/resseltrail
 region: vipava
 start: 45.946760,13.870216
 title: Biking to Čaven Mountain Hut

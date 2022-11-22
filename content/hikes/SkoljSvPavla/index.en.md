@@ -25,7 +25,7 @@ nearby:
 - /hikes/velikirob
 - /hikes/malagora
 - /hikes/caven
-- /biking/cavenbiking
+- /biking/smrekovalazna
 peak: 45.909096,13.810788
 region: vipava
 start: 45.9016051,13.8146674
