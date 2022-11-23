@@ -1,10 +1,10 @@
 ---
 date: 2004-05-09 00:00:00+00:00
-delta: 560
+delta: 520
 description: Na Slavnik se lahko po zahodnem pobočju povzpnemo tudi po prijetni položni
   poti iz Prešnice, kraške vasice, stisnjene pod pobočja Slavniškega pogorja.
 difflevel: 3
-duration: 5
+duration: 4
 height: 1028
 lead: M_4-5411_IMG.JPG
 map: 1
@@ -14,13 +14,13 @@ multipath: true
 name: Slavnik/Presnica
 nearby:
 - /hikes/podgorje
-- /hikes/crnikal
 - /hikes/slavnik
+- /hikes/crnikal
 - /hikes/zgornjikras
-- /hikes/socerb
+- /hikes/kojnik
 peak: 45.533685,13.975236
 region: istria
-start: 45.571174,13.938894
+start: 45.565763,13.941704
 title: Na Slavnik iz Prešnice
 ---
 {{<figure src="M_4-5411_IMG.JPG">}}
@@ -62,7 +62,7 @@ Pot na Slavnik začnemo v Prešnici, kraški vasici, stisnjeni ob pobočja Slavn
 -   Pot nadaljujete skozi Kozino po stari magistralni cesti proti Kopru (pozor: kažipotov za Koper skorajda ni več, z avtoceste vozite v smeri Kozina).
 -   Nekaj kilometrov za Kozino, skoraj točno tam, kjer avtocesta prečka magistralno cesto, je odcep za Prešnico. Od vasi vas loči še 2 km vožnje.
 
-Po ozki in razgibani cesti med stisnjenimi kraškimi hišami v Prešnici se zapeljite mimo cerkve sv. Jedrti. Za rumeno hišo (le nekaj metrov za cerkvijo) so prijazni domačini pripravili parkirišče za pohodnike na Slavnik. Tu lahko brez skrbi pustite avto, opazili pa boste tudi prve markacije, ki jim sledite skozi vas -- najprej po asfaltu, nato pa na koncu vasi zavijete desno na kolovoz, ki teče pod železniško progo. Planinska pot se že kmalu odcepi od kolovoza, prečka progo in se začne položno vzpenjati po pobočju skozi redek gabrov gozd, ki tudi poleti daje nekaj sence in nas tako ščiti pred prehudo vročino.
+Po ozki in razgibani cesti med stisnjenimi kraškimi hišami v Prešnici se zapeljite mimo cerkve sv. Jedrti, po glavni cesti do konca vasi, nato pa še približno pol kilometra do velikega parkirišča. Sledite oznakam in markacijam -- najprej po asfaltu,  nato pod železnico, pa po makadamu do pešpoti ki se položno vzpenja skozi redek gabrov gozd, ki tudi poleti daje nekaj sence in nas tako ščiti pred prehudo vročino.
 
 Že po nekaj minutah vzpona se nam z leve pridruži markirana pot iz Klanca (še ena od markiranih poti, ki ni vrisana na nobenem zemljevidu), mi pa nadaljujemo blagi vzpon v desno. V maju boste kmalu zagledali prve potonike, ki posamič sramežljivo rastejo na manjših travnatih jasah sredi gozda, pozorno oko pa bo v travi ob poti opazilo tudi cevaste cvetove rumenega podraščca.
 
@@ -98,5 +98,3 @@ S Slavnika se lahko vrnete v Prešnico po poti, po kateri ste se povzpeli (mimog
 Na križišču s požarno cesto (ne morete je zgrešiti, je najviše speljana gozdna cesta na tem pobočju) zapustite pot, po kateri ste se spuščali, in se odpravite desno (proti severu), mimo Podgorja, ki ga boste tu in tam uzrli skozi drevesne krošnje pod seboj. Požarno cesto prečka le en omembe vreden kolovoz (pravi zagnanci se bodo po njem vzpeli nazaj na sedlo pod Grmado in se nato v Prešnico spustili po markirani poti), takoj za tem pa naredi požarna cesta oster levi ovinek in se začne spuščati proti Podgorju.
 
 Na srečo se dobrih 300 metrov za tem ovinkom pojavi kolesarska pot, ki se odcepi proti severu (desno) in nas skozi prijeten gozdiček po s travo zaraščenem kolovozu pripelje do železnike proge približno 500 metrov severno od postaje v Podgorju. Tukaj je sence nepreklicno konec, progo moramo prečkati in se mimo razbeljenih kraških travnikov odpraviti nazaj proti Prešnici. Dolge 3 kilometre (prav neverjetno je, kako se pot vleče, ko te med hojo po prašni makadamski cesti sonce neusmiljeno peče v hrbet) si lahko popestrimo z opazovanjem rož na travnikih-- konec maja boste poleg osatov opazili tudi živordeče cvetove klinčkov.
-
-Malo pred Prešnico nas pot privede do asfaltne ceste, ki sicer pelje v Prešnico, a jo raje čimprej zapustimo in se po kolovozu tik pod progo vrnemo do parkirišča, kjer smo pustili avto.

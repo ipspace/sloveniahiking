@@ -59,13 +59,13 @@
   },
   {
     "date": "2004-05-09 00:00:00+00:00",
-    "delta": 560,
+    "delta": 520,
     "description": {
       "sl": "Na Slavnik se lahko po zahodnem pobo\u010dju povzpnemo tudi po prijetni polo\u017eni poti iz Pre\u0161nice, kra\u0161ke vasice, stisnjene pod pobo\u010dja Slavni\u0161kega pogorja.",
-      "en": null
+      "en": "Goldilocks would love the hike from Pre\u0161nica to Slavnik. It's not too long nor too short, it's not too steep nor too dull, and it's in a lovely shade, but the forest is thin enough to let some winter sunshine through."
     },
     "difflevel": 3,
-    "duration": 5,
+    "duration": 4,
     "height": 1028,
     "lead": "M_4-5411_IMG.JPG",
     "map": 1,
@@ -75,14 +75,14 @@
     "name": "Slavnik/Presnica",
     "nearby": [
       "/hikes/podgorje",
-      "/hikes/crnikal",
       "/hikes/slavnik",
+      "/hikes/crnikal",
       "/hikes/zgornjikras",
-      "/hikes/socerb"
+      "/hikes/kojnik"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
-    "start": "45.571174,13.938894",
+    "start": "45.565763,13.941704",
     "title": {
       "sl": "Na Slavnik iz Pre\u0161nice",
       "en": "Slavnik from Pre\u0161nica"
@@ -8098,6 +8098,7 @@
     "duration": 3,
     "height": 1254,
     "layout": "structured",
+    "lead": "M_20220902_130258.jpg",
     "length": 28,
     "maplink": "https://www.opencyclemap.org/?zoom=13&lat=45.95528&lon=13.83454&layers=B0000",
     "name": "SmrekovaLazna",
