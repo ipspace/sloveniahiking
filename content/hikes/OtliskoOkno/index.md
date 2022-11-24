@@ -1,29 +1,11 @@
 ---
 date: 2003-09-14 00:00:00+00:00
-delta: 600
+delta: 580
 description: Vzpon iz Vipavske doline do naravne znamenitosti na robu Vipavske Gore.
 difflevel: 2
-dirty: true
 duration: 3
 height: 820
-image:
-- M_9-6987_IMG.JPG
-- M_9-6968_IMG.JPG
-- M_9-6969_IMG.JPG
-- M_9-6973_IMG.JPG
-- M_9-6977_IMG.JPG
-- M_9-6979_IMG.JPG
-- M_9-6980_IMG.JPG
-- M_9-6981_IMG.JPG
-- M_9-6983_IMG.JPG
-- M_9-6985_IMG.JPG
-- M_9-6984_IMG.JPG
-- M_9-6990_IMG.JPG
-- M_9-6987_IMG.JPG
-- M_9-6989_IMG.JPG
-- mapgps.jpg
-- path_1.gif
-lead: M_9-6987_IMG.JPG
+lead: M_20221124_111945.jpg
 map: 1
 maplink: https://mapzs.pzs.si/poi/5296
 name: OtliskoOkno
@@ -33,14 +15,14 @@ nearby:
 - /hikes/orlovca
 - /hikes/caven
 - /hikes/malagora
-peak: 45.917544,13.911851
+peak: 45.916335,13.912842
 region: vipava
-start: 45.903995,13.912370
+start: 45.904010,13.912406
 title: Otliško okno
-x: 416
-y: 86
 ---
-{{<figure src="M_9-6987_IMG.JPG">}} Severno nad Vipavsko dolino se dvigujejo strma apnenčasta pobočja -- na vzhodu Nanos, od Cola do Predmeje sega Gora, zahodno od Predmeje pa se razteza [Čaven](../kucelj), ki se proti severu nadaljuje v obširni Trnovski gozd. Na teh pobočjih boste hitro opazili vrsto zanimivih kraških pojavov, od vrtač in škrapelj do manjših kraških jam, tik pod vrhom pa je narava izoblikovala več naravnih oken, od katerih je najbolj znano Otliško okno.
+{{<figure src="M_20221124_111945.jpg">}}
+
+Severno nad Vipavsko dolino se dvigujejo strma apnenčasta pobočja -- na vzhodu Nanos, od Cola do Predmeje sega Gora, zahodno od Predmeje pa se razteza [Čaven](../kucelj), ki se proti severu nadaljuje v obširni Trnovski gozd. Na teh pobočjih boste hitro opazili vrsto zanimivih kraških pojavov, od vrtač in škrapelj do manjših kraških jam, tik pod vrhom pa je narava izoblikovala več naravnih oken, od katerih je najbolj znano Otliško okno.
 
 Ljudje so si nastanek Otliškega okna razlagali z zanimivimi legendami -- tako naj bi okno v jezi naredil hudič s svojim rogom (celotno zgodbo si lahko preberete če se boste povzpeli do okna) -- dejstvo pa je, da je okno poimenovalo bližnjo vas Otlica (ki se tako imenuje zato, ker je gora v njeni bližini votla), vas pa je potem vrnila ime oknu.
 
@@ -77,7 +59,7 @@ Do Otliškega okna se lahko sprehodite po kraških travnikih iz Otlice, lahko se
 Izvir Hublja
 ------------
 
-{{<figure src="M_9-6968_IMG.JPG" caption="Izvir Hublja">}}
+{{<figure src="M_20221124_123648.jpg" caption="Izvir Hublja">}}
 
 Vzpon proti Otliškemu oknu bomo začeli pri izviru Hublja, ki je tudi sam po sebi zelo zanimiv, še posebej po obilnem deževju, ko voda v mogočnem slapu bruha iz skalnih sten. Do izvira Hublja, ki je od centra Ajdovščine oddaljen slaba dva kilometra, vodi dobro označena asfaltna cesta.
 
@@ -92,7 +74,7 @@ Markirana pot proti Otliškemu oknu se začne pri ograji, s katero je izvir zava
 Vzpon mimo Gur
 --------------
 
-{{<figure src="M_9-6973_IMG.JPG" caption="Prvi razgledi">}} {{<figure src="M_9-6977_IMG.JPG" caption="Gure">}}
+{{<figure src="M_9-6973_IMG.JPG" caption="Prvi razgledi">}} 
 
 Po krajšem, nekoliko bolj strmem vzponu se pot položi in nas pripelje na kraški travnik, v jesenskih dneh dobesedno posejan z modrimi cvetovi možin in rdečkastimi cvetovi gorskega luka. Od tod si lahko prvič nekoliko od bližje ogledamo pobočja, preko katerih se bomo vzpeli, a le za trenutek, kajti pot hitro zavije nazaj v gozd in nas pripelje do Gur, kjer se združi s stezico, ki se do Otliškega okna vzpenja iz zaselka Gorenje. Na tem mestu vas bo verjetno presenetil ptičji vrvež -- domačini so sredi gozda postavili ptičjo krmilnico, za katero skrbijo tudi preko poletja.
 
@@ -102,7 +84,7 @@ Na Gurah se začne pot proti Otliškemu okno precej bolj strmo vzpenjati -- nič
 
 {{<figure src="M_9-6981_IMG.JPG">}}
 
-{{<figure src="M_9-6983_IMG.JPG" caption="Pogled na Vipavsko dolino">}}
+{{<figure src="M_20221124_104254.jpg" caption="Pogled na Vipavsko dolino">}}
 
 Kmalu nad Gurami vas čaka zanimiv kažipot, ki vam pove, kaj vas čaka na Gori -- poleg pogleda na sončno Vipavsko dolino lahko pričakujete tudi srečanje s samim hudičem. A brez strahu -- nisem še slišal, da bi ga kdo od takrat, ko je naredil luknjo v Gori, tudi zares videl.
 
@@ -115,12 +97,14 @@ Otliško okno
 
 V nadaljevanju vzpona postaja gozd vse bolj redek, dokler se tik pod vrhom ne znajdete v pokrajini, ki bi jo mirno lahko srečali kjerkoli v slovenskih Alpah, iluzijo razkrivajo le primorske vonjave, ki jih širijo  grmički šetraja, posejani med skalami ob poti. Že čez nekaj minut boste sredi skalnega pobočja nad sabo zagledali cilj današnjega vzpona, kažipot ob poti pa vas bo opomnil tudi na Malo Otliško okno, ki se skriva le nekaj metrov nad potjo.
 
-{{<figure src="M_9-6990_IMG.JPG" caption="Malo Otliško okno">}} {{<figure src="M_9-6987_IMG.JPG" caption="Pogled skozi okno na Vipavsko dolino">}}
+{{<figure src="M_9-6990_IMG.JPG" caption="Malo Otliško okno">}} 
 
 Če imate le malce plezalnih spretnosti, se lahko do Otliškega okna povzpnete po stezici, ki pelje skozi Malo Otliško okno, drugače pa lahko nadaljujete vzpon po markirani poti, ki se po grapi dvigne do kapelice, kjer zbiralce žigov čaka še ena trofeja. Od kapelice do Otliškega okna vas loči le še nekaj minut hoje po kraških travnikih -- ves čas se držite desne poti, ki vas bo pripeljala do počivališča nad oknom.
+
+{{<figure src="M_20221124_111945.jpg" caption="Pogled skozi okno na Vipavsko dolino">}}
 
 Otliško okno je priljubljena izletniška točka, zato boste okoli klopi nad oknom verjetno naleteli na precejšnjo gnečo. Nič hudega, po ogledu samega okna se umaknite na travnik, preko katerega ste prišli do okna ter se sprehodite do skalnega roba -- poleg miru in tišine boste tam verjetno našli tudi netreske, ki so si našli zavetje v skalnih razpokah.
 
 {{<figure src="M_9-6989_IMG.JPG" caption="Otliški maj">}}
 
-Izlet do Otliškega okna lahko nadaljujete po položnih poteh proti Predmeji ali Sinjemu vrhu, če pa vas bo na vrhu pričakal neprijeten mrzel veter, ki je pozdravil tudi mene, se boste verjetno raje odločili za vrnitev v toplo Vipavsko dolino. Po spustu do izvira Hublja si boste žejo in lakoto uspešno potešili v gostišču tik nad izvirom \... razen če se boste na pot podali v torek ali sredo.
+Izlet do Otliškega okna lahko nadaljujete po položnih poteh proti Predmeji ali Sinjemu vrhu, če pa vas bo na vrhu pričakal neprijeten mrzel veter, ki je pozdravil tudi mene, se boste verjetno raje odločili za vrnitev v toplo Vipavsko dolino. Po spustu do izvira Hublja si boste žejo in lakoto uspešno potešili v gostišču tik nad izvirom.

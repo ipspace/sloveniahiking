@@ -25,8 +25,8 @@ nearby:
 - /hikes/kovk
 - /hikes/starababa
 - /hikes/skavnica
-- /hikes/plaz
 - /hikes/otliskookno
+- /hikes/plaz
 path: ../kovk/budanje
 peak: 45.886711,13.960029
 region: vipava

@@ -10,9 +10,9 @@ duration: 4
 gpx:
   center:
     lat: 45.55007088994435
-    lon: 13.958742052384379
+    lon: 13.959466835534071
   file: presnica.gpx
-  modified: 1669219183
+  modified: 1669219279
   zoom: 13
 height: 1028
 lead: M_4-5411_IMG.JPG

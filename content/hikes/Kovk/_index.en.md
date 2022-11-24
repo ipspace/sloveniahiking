@@ -15,7 +15,7 @@ nearby:
 - /hikes/skavnica
 - /hikes/starababa
 - /hikes/plaz
-- /biking/kriznagorajavornik
+- /hikes/otliskookno
 peak: 45.887981,13.969153
 region: vipava
 title: Kovk above Col

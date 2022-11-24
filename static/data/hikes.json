@@ -4218,16 +4218,15 @@
   },
   {
     "date": "2003-09-14 00:00:00+00:00",
-    "delta": 600,
+    "delta": 580,
     "description": {
       "sl": "Vzpon iz Vipavske doline do naravne znamenitosti na robu Vipavske Gore.",
-      "en": null
+      "en": "Otli\u0161ko okno (Otlica Window) is a large natural window at the edge of the Gora plateau high above Vipava valley. It's just a short walk from Otlica, a village on Gora, but it's more fun to hike there from the valley."
     },
     "difflevel": 2,
-    "dirty": true,
     "duration": 3,
     "height": 820,
-    "lead": "M_9-6987_IMG.JPG",
+    "lead": "M_20221124_111945.jpg",
     "map": 1,
     "maplink": "https://mapzs.pzs.si/poi/5296",
     "name": "OtliskoOkno",
@@ -4238,15 +4237,13 @@
       "/hikes/caven",
       "/hikes/malagora"
     ],
-    "peak": "45.917544,13.911851",
+    "peak": "45.916335,13.912842",
     "region": "vipava",
-    "start": "45.903995,13.912370",
+    "start": "45.904010,13.912406",
     "title": {
       "sl": "Otli\u0161ko okno",
-      "en": "Otlica's natural window"
-    },
-    "x": 416,
-    "y": 86
+      "en": "Otlica's Natural Window"
+    }
   },
   {
     "date": "1900-01-01 00:00:00+00:00",
@@ -6678,8 +6675,8 @@
       "/hikes/kovk",
       "/hikes/starababa",
       "/hikes/skavnica",
-      "/hikes/plaz",
-      "/hikes/otliskookno"
+      "/hikes/otliskookno",
+      "/hikes/plaz"
     ],
     "path": "../kovk/budanje",
     "peak": "45.886711,13.960029",
