@@ -36,39 +36,52 @@ def process_page(page,lang):
   page['title'] = { lang: page.get('title') }
   page['description'] = { lang: page.get('description') }
 
-def collect_hike_data(si_path):
+def collect_hike_data(page_path):
   global hike_json
 
-  si_page = cm.read.page(si_path)
-  if 'date' in si_page and si_page['date'] > datetime.datetime.now(datetime.timezone.utc):
-    print(f"Skipping {si_path} -- published on {str(si_page['date'])}")
+  is_english = '.en.' in page_path
+  hike_page = cm.read.page(page_path)
+  if not 'name' in hike_page:
+    return
+
+  ck_name = os.path.dirname(page_path).replace('../content/hikes/','')
+  if ck_name != hike_page['name']:
+    print(f"{page_path}: {ck_name} != {hike_page['name']}")
+
+  if 'date' in hike_page and hike_page['date'] > datetime.datetime.now(datetime.timezone.utc):
+    print(f"Skipping {hike_path} -- published on {str(hike_page['date'])}")
     return
 
   for key in ('html','markdown','image'):
-    si_page.pop(key,None)
+    hike_page.pop(key,None)
   
-  for key in list(si_page.keys()):
-    if si_page[key] is None:
-      si_page.pop(key)
+  for key in list(hike_page.keys()):
+    if hike_page[key] is None:
+      hike_page.pop(key)
 
   for key in ('date','lastmod'):
-    if key in si_page:
-      si_page[key] = str(si_page[key])
+    if key in hike_page:
+      hike_page[key] = str(hike_page[key])
 
   for key in ('start','peak'):
-    if key in si_page:
-      si_page[key] = str(si_page[key]).replace(" ","")
+    if key in hike_page:
+      hike_page[key] = str(hike_page[key]).replace(" ","")
 
-  si_page['title'] = { 'sl': si_page.get('title') }
-  si_page['description'] = { 'sl': si_page.get('description') }
+  lang = 'en' if is_english else 'sl'
 
-  en_path = si_path.replace("index.md","index.en.md")
-  if os.path.exists(en_path):
-    en_page = cm.read.page(en_path)
+  add_idx = None
+  for idx,page in enumerate(hike_json):
+    if page['name'] == hike_page['name'] and not 'type' in page:
+      add_idx = idx
+
+  if not add_idx is None:
     for lang_key in ('title','description'):
-      si_page[lang_key]['en'] = en_page.get(lang_key)
-
-  hike_json.append(si_page)
+      if lang_key in hike_page:
+        hike_json[add_idx][lang_key][lang] = hike_page.get(lang_key)
+  else:
+    hike_page['title'] = { lang: hike_page.get('title') }
+    hike_page['description'] = { lang: hike_page.get('description') }
+    hike_json.append(hike_page)
 
 def collect_bike_data(index_path):
   global hike_json
@@ -91,6 +104,7 @@ def collect_bike_data(index_path):
 
 args = parse_cli()
 cm.traverse.walk(config['ExFilePath'],r'index\.md$',collect_hike_data)
+cm.traverse.walk(config['ExFilePath'],r'index\.en\.md$',collect_hike_data)
 cm.traverse.walk(config['BikeFilePath'],r'index\.en\.md$',collect_bike_data)
 with open(args.output,"w") as output_file:
   json.dump(hike_json,fp=output_file,indent=2)

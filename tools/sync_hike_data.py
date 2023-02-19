@@ -43,10 +43,10 @@ def sync_hike_data(si_path):
   if not 'difflevel' in si_page:
     hike.common.set_icon(si_page)
 
-  for key in ('delta','duration','height','difflevel',
+  for key in ['delta','duration','height','difflevel',
               'lead','multilead','multipath',
               'maplink','start','startpoint','peak','icon',
-              'video','region'):
+              'video','region']:
     si_val = si_page.get(key)
     en_val = en_page.get(key)
     if not si_val and not en_val:
@@ -62,12 +62,16 @@ def sync_hike_data(si_path):
       if args.precommit:
         sys.exit(1)
 
-  for key in ('x','y','image'):
+  for key in ['x','y','image']:
     si_val = si_page.get(key)
     en_val = en_page.get(key)
     if en_val and not si_val:
       print("Removing property %s from %s" % (key,en_path))
       en_page.pop(key)
+
+  for key in ['name']:
+    if key in si_page:
+      en_page[key] = si_page[key]
 
   for key in ['nearby']:
     if si_page.get(key,None):
