@@ -97,7 +97,9 @@ function processHikeData(json,map,lang) {
       if (!hike_data.description[lang]) {
         point.icon = icon.missing;
       }
-      points.push(point)
+      if (point.title) {
+        points.push(point)
+      }
     }
   }
   var layer = new ol.layer.Vector({
