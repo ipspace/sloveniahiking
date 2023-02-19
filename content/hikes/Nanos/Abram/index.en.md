@@ -21,7 +21,7 @@ lead: M_20210223_101205.jpg
 maplink: https://mapzs.projekti.si/path/30815
 multilead: M_20210223_101205.jpg
 multipath: true
-name: Abram
+name: Nanos/Abram
 nearby:
 - /hikes/svmiklavz_vipava
 - /biking/nanosekokoca

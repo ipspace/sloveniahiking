@@ -14,7 +14,7 @@ lead: M_20210322_080329.jpg
 maplink: https://mapzs.projekti.si/path/31624
 multilead: M_20210322_080329.jpg
 multipath: true
-name: Studeno
+name: svLovrenc/Studeno
 nearby:
 - /hikes/svlovrenc
 - /hikes/oblenk

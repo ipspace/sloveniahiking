@@ -19,7 +19,7 @@ height: 1394
 layout: structured
 lead: M_20211107_124336.jpg
 maplink: https://mapzs.pzs.si/poi/975
-name: KrnskoJezero/
+name: KrnskoJezero
 nearby:
 - /biking/drezniskeravne
 - /biking/dreznica

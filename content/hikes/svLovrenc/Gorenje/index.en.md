@@ -13,7 +13,7 @@ lead: M_1-3162_IMG.JPG
 maplink: https://mapzs.projekti.si/poi/3908
 multilead: M_1-3162_IMG.JPG
 multipath: true
-name: svLovrenc
+name: svLovrenc/Gorenje
 nearby:
 - /biking/predjamahrusica
 - /hikes/oblenk

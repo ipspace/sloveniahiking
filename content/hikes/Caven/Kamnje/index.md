@@ -13,7 +13,7 @@ lead: M_20210323_093528.jpg
 maplink: https://mapzs.projekti.si/path/32535
 multilead: M_20210323_093528.jpg
 multipath: true
-name: Kamnje
+name: Caven/Kamnje
 nearby:
 - /hikes/skoljsvpavla
 - /hikes/malagora
