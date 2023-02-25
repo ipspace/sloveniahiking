@@ -22,7 +22,7 @@ nearby:
 - /hikes/planinagoricica
 - /hikes/golobar
 - /hikes/loskakoritnica
-- /hikes/krnskojezero/
+- /hikes/krnskojezero
 - /hikes/tamar
 path: https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_krnica/1/421/8105
 peak: 46.352437, 13.508516

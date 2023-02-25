@@ -24,7 +24,7 @@ name: Golobar
 nearby:
 - /biking/javorscek
 - /biking/drezniskeravne
-- /hikes/krnskojezero/
+- /hikes/krnskojezero
 - /biking/dreznica
 - /hikes/planinagoricica
 peak: 46.316692,13.614670

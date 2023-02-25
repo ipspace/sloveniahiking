@@ -19,7 +19,7 @@ lead: IMG_1924.jpg
 maplink: https://mapzs.pzs.si/path/32458
 name: Golobar
 nearby:
-- /hikes/krnskojezero/
+- /hikes/krnskojezero
 - /hikes/planinagoricica
 - /hikes/planinakrnica
 - /hikes/loskakoritnica

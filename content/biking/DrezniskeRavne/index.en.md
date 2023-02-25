@@ -22,7 +22,7 @@ name: DrezniskeRavne
 nearby:
 - /biking/dreznica
 - /hikes/golobar
-- /hikes/krnskojezero/
+- /hikes/krnskojezero
 - /biking/javorscek
 - /hikes/planinagoricica
 peak: 46.272901,13.614642

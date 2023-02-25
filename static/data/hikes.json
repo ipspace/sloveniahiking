@@ -585,7 +585,7 @@
       "/hikes/planinakrnica",
       "/hikes/golobar",
       "/hikes/loskakoritnica",
-      "/hikes/krnskojezero/",
+      "/hikes/krnskojezero",
       "/hikes/tamar"
     ],
     "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_goricica/1/416/8107",
@@ -2956,7 +2956,7 @@
     "maplink": "https://mapzs.pzs.si/path/32458",
     "name": "Golobar",
     "nearby": [
-      "/hikes/krnskojezero/",
+      "/hikes/krnskojezero",
       "/hikes/planinagoricica",
       "/hikes/planinakrnica",
       "/hikes/loskakoritnica",
@@ -6037,7 +6037,7 @@
       "/hikes/planinagoricica",
       "/hikes/golobar",
       "/hikes/loskakoritnica",
-      "/hikes/krnskojezero/",
+      "/hikes/krnskojezero",
       "/hikes/tamar"
     ],
     "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_krnica/1/421/8105",
@@ -7984,7 +7984,7 @@
     "nearby": [
       "/biking/dreznica",
       "/hikes/golobar",
-      "/hikes/krnskojezero/",
+      "/hikes/krnskojezero",
       "/biking/javorscek",
       "/hikes/planinagoricica"
     ],
@@ -8700,7 +8700,7 @@
     "name": "Dreznica",
     "nearby": [
       "/biking/drezniskeravne",
-      "/hikes/krnskojezero/",
+      "/hikes/krnskojezero",
       "/hikes/golobar",
       "/biking/javorscek",
       "/hikes/planinagoricica"

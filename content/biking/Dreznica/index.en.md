@@ -21,7 +21,7 @@ maplink: https://www.opencyclemap.org/?zoom=14&lat=46.25925&lon=13.6092&layers=B
 name: Dreznica
 nearby:
 - /biking/drezniskeravne
-- /hikes/krnskojezero/
+- /hikes/krnskojezero
 - /hikes/golobar
 - /biking/javorscek
 - /hikes/planinagoricica
