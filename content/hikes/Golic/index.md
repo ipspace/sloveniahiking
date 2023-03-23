@@ -1,10 +1,9 @@
 ---
 date: 2003-10-26 00:00:00+00:00
-delta: 390
+delta: 580
 description: Na Goliču, južno od Slavnika, boste našli razgibane kraške travnike,
   ki vas bodo prijazno sprejeli v vseh letnih časih.
 difflevel: 3
-dirty: true
 duration: 5
 height: 890
 image:
@@ -39,8 +38,6 @@ region: istria
 start: 45.531420,13.947151
 startpoint: Podgorje
 title: Golič
-x: 421
-y: 39
 ---
 {{<figure src="M_0_0030.JPG">}}
 

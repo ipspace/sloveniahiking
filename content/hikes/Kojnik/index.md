@@ -7,7 +7,7 @@ description: Kojnik je položen vrh v grebenu nad Kraškim robom južno od Slavn
 difflevel: 2
 duration: 4
 height: 802
-lead: M_0-4054_IMG.JPG
+lead: M_20230316_110107.jpg
 maplink: https://mapzs.pzs.si/poi/322
 name: Kojnik
 nearby:
@@ -22,7 +22,7 @@ start: 45.531420,13.947151
 startpoint: Podgorje
 title: Na Kojnik iz Podgorja
 ---
-{{<figure src="M_0-4054_IMG.JPG">}}
+{{<figure src="M_20230316_110107.jpg">}}
 Kojnik je položen vrh v grebenu nad Kraškim robom južno od Slavnika. Podobno kot s Slavnika boste imeli tudi s Kojnika lep razgled na slovensko morje in Istro, razgled proti severu (Nanos, [Vremščica](../vremscica/)) pa vam bo zakrival [Slavnik](../slavnik/). Če hočete uživati v razgledu, bo torej Slavnik bolj primeren cilj, če pa iščete lažji vzpon, združen s prijetnim sprehodom po skalah tik nad Kraškim robom, pa se raje povzpnite na Kojnik.
 
 Osnovni podatki
@@ -89,7 +89,7 @@ Vrh Kojnika je bil včasih precej zaraščen (še danes ostanki dreves spominjaj
 
 {{<gallery>}}
 {{<figure src="M_0-4024_IMG.JPG" caption="Slavnik pokrit s “kapo”">}}
-{{<figure src="M_0-4031_IMG.JPG" caption="Vrh Kojnika">}}
+{{<figure src="M_20230316_115531.jpg" caption="Vrh Kojnika">}}
 {{</gallery>}}
 
 Svoj izlet na Kojnik lahko zaključite s povratkom v Podgorje po isti poti, po kateri ste se vzpeli, lahko pa se odločite za nadaljevanje poti:
