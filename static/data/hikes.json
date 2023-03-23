@@ -3458,12 +3458,12 @@
   },
   {
     "date": "2003-10-26 00:00:00+00:00",
-    "delta": 390,
+    "delta": 580,
     "description": {
-      "sl": "Na Goli\u010du, ju\u017eno od Slavnika, boste na\u0161li razgibane kra\u0161ke travnike, ki vas bodo prijazno sprejeli v vseh letnih \u010dasih."
+      "sl": "Na Goli\u010du, ju\u017eno od Slavnika, boste na\u0161li razgibane kra\u0161ke travnike, ki vas bodo prijazno sprejeli v vseh letnih \u010dasih.",
+      "en": "Want to experience expansive meadows with beautiful vistas in the middle of nowhere? Goli\u010d, a multi-peak ridge south of Slavnik, might be just what you're looking for.\n"
     },
     "difflevel": 3,
-    "dirty": true,
     "duration": 5,
     "height": 890,
     "lead": "M_0_0030.JPG",
@@ -3484,9 +3484,7 @@
     "title": {
       "sl": "Goli\u010d",
       "en": "Goli\u010d"
-    },
-    "x": 421,
-    "y": 39
+    }
   },
   {
     "author": "Mojca_Lustrek",
@@ -4740,12 +4738,13 @@
     "date": "2003-02-02 00:00:00+00:00",
     "delta": 290,
     "description": {
-      "sl": "Kojnik je polo\u017een vrh v grebenu nad Kra\u0161kim robom ju\u017eno od Slavnika. Podobno kot s Slavnika boste imeli tudi s Kojnika lep razgled na slovensko morje in Istro."
+      "sl": "Kojnik je polo\u017een vrh v grebenu nad Kra\u0161kim robom ju\u017eno od Slavnika. Podobno kot s Slavnika boste imeli tudi s Kojnika lep razgled na slovensko morje in Istro.",
+      "en": "Kojnik is a wooded hilltop south of Slavnik with an excellent view of Slavnik and Goli\u010d ridges. You might want to go there when you see hordes going to the vastly more popular Slavnik; it might also be a lovely destination for a longer family hike."
     },
     "difflevel": 2,
     "duration": 4,
     "height": 802,
-    "lead": "M_0-4054_IMG.JPG",
+    "lead": "M_20230316_110107.jpg",
     "maplink": "https://mapzs.pzs.si/poi/322",
     "name": "Kojnik",
     "nearby": [
@@ -4761,7 +4760,7 @@
     "startpoint": "Podgorje",
     "title": {
       "sl": "Na Kojnik iz Podgorja",
-      "en": "Kojnik from Podgorje"
+      "en": "Kojnik"
     }
   },
   {

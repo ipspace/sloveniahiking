@@ -6,17 +6,21 @@ duration:
 height:
   sample: 1117
 difficulty:
+  destub: true
   sample: Easy hike
   multilingual: true
   cleanup: true
 description:
+  destub: true
   sample: Short description
   multilingual: true
   cleanup: true
 title:
+  destub: true
   sample: Hilltop Name
   multilingual: true
 timing:
+  destub: true
   multilingual: true
   cleanup: true
   en:

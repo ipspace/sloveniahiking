@@ -31,15 +31,24 @@ def writeGpxFile(points,fname):
   segment = gpxpy.gpx.GPXTrackSegment()
   track.segments.append(segment)
 
+  last_timestamp = None
+  p_cnt = 0
   for p in points:
+    if last_timestamp is not None \
+         and (p['timestamp'] - last_timestamp).total_seconds() < 3 \
+         and not 'end_segment' in p:
+      continue
+
+    last_timestamp = p['timestamp']
+    p_cnt = p_cnt + 1
     gpoint = gpxpy.gpx.GPXTrackPoint(latitude=p['lat'], longitude=p['lon'],
-                                      time=p['timestamp'], elevation=p['elevation'])
+                                        time=p['timestamp'], elevation=p['elevation'])
     segment.points.append(gpoint)
     if "end_segment" in p:
       segment = gpxpy.gpx.GPXTrackSegment()
       track.segments.append(segment)
 
-  print("Creating output file %s with %d points" % (fname,len(points)))
+  print(f"Creating output file {fname} with {p_cnt} (was {len(points)}) points")
   with open(fname,"w") as out:
     out.write(gpx.to_xml())
     out.close()
