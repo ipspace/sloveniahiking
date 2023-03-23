@@ -1426,25 +1426,37 @@ dl dt {
     .sidebar .more,
     .sidebar .update {
       padding-left: 60px; } }
-.post .cite, .post__item blockquote {
+.post .cite, .post .quote, .post__item blockquote {
   margin: 10px 0;
   padding-left: 32px;
-  position: relative;
-  color: #d26400; }
+  position: relative; }
   @media (min-width: 768px) {
-    .post .cite, .post__item blockquote {
+    .post .cite, .post .quote, .post__item blockquote {
       margin: 20px 0;
       padding-left: 65px; } }
-  .post .cite::before, .post__item blockquote::before {
+  .post .cite::before, .post .quote::before, .post__item blockquote::before {
     content: "";
     display: inline-block;
-    width: 20px;
-    height: 15px;
     position: absolute;
     top: 4px;
     left: 0;
     background: url("../images/icon_quotation_mark_orange.svg") no-repeat center;
     background-size: contain; }
+
+.post .quote {
+  padding-left: 80px; }
+  .post .quote::before {
+    background: url("../images/icon_large_quote.png") no-repeat center;
+    top: 0;
+    left: 0;
+    width: 64px;
+    height: 60px; }
+
+.post .cite, .post__item blockquote {
+  color: #d26400; }
+  .post .cite::before, .post__item blockquote::before {
+    width: 20px;
+    height: 15px; }
     @media (min-width: 768px) {
       .post .cite::before, .post__item blockquote::before {
         width: 25px;
@@ -2889,11 +2901,11 @@ Grid Layout Styles
       background-color: transparent;
       color: #fff; }
 
-#migrated.site-header {
+.site-header#migrated {
   background-color: #d26400;
   color: #fff;
   padding: 12px 0; }
-  #migrated.site-header .container {
+  .site-header#migrated .container {
     display: block; }
 
 .map__frame {
