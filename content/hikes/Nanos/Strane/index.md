@@ -74,7 +74,7 @@ Med prijetno hojo po gozdu se bomo sprehodili mimo več poti, ki peljejo na Suhi
 {{<figure src="M_5_0534.JPG">}}
 {{</gallery>}}
 
-Po počitku pri koči se morate vsekakor sprehoditi do razglednika desno od televizijskega oddajnika (tam vas čaka pogled na Vipavsko dolino in Julijske Alpe) in na vrh Pleše, ki se skriva levo za kočo. Na vrh Pleše vas opozori tabla »razgledna točka«, ki se sramežljivo skriva za kočo, po krajšem vzponu skozi gozd (pot ni markirana) pa boste prišli do vrha, od koder se odpre pogled na [Polhograjsko hribovje](../polhograjskagrmada), Kamniške Alpe, [Slivnico](../slivnica), [Javornike](../javorniki), [Snežnik](../sneznik), [Vremščico](../vremscica) in [Slavnik](../slavnik). Z vrha Pleše se naravnost skozi gozd spustimo do markirane poti, po kateri smo se povzpeli, in se po njej vrnemo v Strane.
+Po počitku pri koči se morate vsekakor sprehoditi do razglednika desno od televizijskega oddajnika (tam vas čaka pogled na Vipavsko dolino in Julijske Alpe) in na vrh Pleše, ki se skriva levo za kočo. Na vrh Pleše vas opozori tabla »razgledna točka«, ki se sramežljivo skriva za kočo, po krajšem vzponu skozi gozd (pot ni markirana) pa boste prišli do vrha, od koder se odpre pogled na [Polhograjsko hribovje](../../polhograjskagrmada), Kamniške Alpe, [Slivnico](../../slivnica), [Javornike](../../javorniki), [Snežnik](../../sneznik), [Vremščico](../../vremscica) in [Slavnik](../../slavnik). Z vrha Pleše se naravnost skozi gozd spustimo do markirane poti, po kateri smo se povzpeli, in se po njej vrnemo v Strane.
 
 Kje je že sv. Bric?
 -------------------
