@@ -18,7 +18,7 @@ nearby:
 - /hikes/podgorje
 peak: 45.589477,13.860844
 region: istria
-start: 45.571298,13.857212
+start: 45.567197,13.862369
 title: Od Ospa do Socerba
 ---
 {{<figure src="M_7_7717.JPG">}}
@@ -58,9 +58,9 @@ Visoko nad Trstom se na robu kraške planote nad vasico Socerb dviga istoimenski
 Opis poti
 ---------
 
-Izlet začnete v vasici Osp sredi prijetne sončne Osapske doline. Primorsko avtocesto zapustite na izvozu Črni Kal, nato pa sledite kažipotom proti Ospu. Sredi vasi vas oznake pošljejo na veliko parkirišče (ob sončnih koncih tedna utegne biti tam precej gneče). **Ne parkirajte drugje kot na parkirišču.**
+Izlet začnete v vasici Osp sredi prijetne sončne Osapske doline. Primorsko avtocesto zapustite na izvozu Črni Kal, nato pa sledite kažipotom proti Ospu. Pred vasjo zavijte desno na urejeno parkirišče pod plezališčem Mišja Peč. **Ne parkirajte drugje kot na tem parkirišču.**
 
-Že na parkirišču boste opazili prve markacije; skozi Osp namreč teče Slovenska planinska pot. Odpravite se proti severu (proti vasi); markacije vas bodo skozi vas popeljale do kolovoza nad cerkvijo. Ta se precej časa zložno vzpenja proti zahodu, nato pa se z njega pod daljnovodom odcepi v desno ponekod precej ozka kamnita pot, ki vas pripelje na travnike nad Osapsko steno.
+S parkirišča se odpravite proti središču vasi kjer boste opazili prve markacije; skozi Osp namreč teče Slovenska planinska pot. Zavijte desno (proti severu); markacije vas bodo skozi vas popeljale do kolovoza nad cerkvijo. Ta se precej časa zložno vzpenja proti zahodu, nato pa se z njega pod daljnovodom odcepi v desno ponekod precej ozka kamnita pot, ki vas pripelje na travnike nad Osapsko steno.
 
 {{<figure src="M_7_7707.JPG">}} 
 

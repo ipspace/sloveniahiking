@@ -1,5 +1,5 @@
 ---
-date: 2023-03-23 15:48:16+00:00
+date: 2023-03-16 15:48:16+00:00
 delta: 290
 description: Kojnik is a wooded hilltop south of Slavnik with an excellent view of
   Slavnik and Golič ridges. You might want to go there when you see hordes going to

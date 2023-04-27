@@ -5806,7 +5806,8 @@
     "date": "2006-02-26 00:00:00+00:00",
     "delta": 410,
     "description": {
-      "sl": "Visoko nad Trstom se na robu kra\u0161ke planote nad vasico Socerb dviga istoimenski grad, izpred katerega se odpira \u010dudovit razgled na Tr\u017ea\u0161ki zaliv in slovensko Istro."
+      "sl": "Visoko nad Trstom se na robu kra\u0161ke planote nad vasico Socerb dviga istoimenski grad, izpred katerega se odpira \u010dudovit razgled na Tr\u017ea\u0161ki zaliv in slovensko Istro.",
+      "en": "Socerb is a castle above the steep cliffs of Karst Edge with a beautiful view of the Bay of Trieste. You can get there by car (the castle restaurant has excellent food), but it's more fun to hike there from Osp, a village better known for its extensive climbing areas."
     },
     "difflevel": 2,
     "duration": 2,
@@ -5824,7 +5825,7 @@
     ],
     "peak": "45.589477,13.860844",
     "region": "istria",
-    "start": "45.571298,13.857212",
+    "start": "45.567197,13.862369",
     "title": {
       "sl": "Od Ospa do Socerba",
       "en": "From Osp to Socerb"
