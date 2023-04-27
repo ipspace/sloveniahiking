@@ -4677,15 +4677,16 @@
   },
   {
     "date": "2004-12-19 00:00:00+00:00",
-    "delta": 270,
+    "delta": 370,
     "description": {
-      "sl": "Severno od Vrtovina, vasi med Ajdov\u0161\u010dino in Novo Gorico, se na pobo\u010djih Kuclja nad Vipavsko dolino dviga zanimiva razgledna planotasta vzpetina s cerkvico sv. Pavla."
+      "sl": "Severno od Vrtovina, vasi med Ajdov\u0161\u010dino in Novo Gorico, se na pobo\u010djih Kuclja nad Vipavsko dolino dviga zanimiva razgledna planotasta vzpetina s cerkvico sv. Pavla.",
+      "en": "High above Vipava Valley, on a limestone terrace jutting out of the slopes of \u010caven ridge, is a tiny church dedicated to Saint Paul -- a fantastic hiking destination on dry autumn or spring days."
     },
     "difflevel": 1,
     "dirty": true,
     "duration": 2,
     "height": 498,
-    "lead": "M_1_2136.JPG",
+    "lead": "M_20230214_132223.jpg",
     "map": 1,
     "maplink": "https://mapzs.pzs.si/poi/2669",
     "name": "SkoljSvPavla",
@@ -4702,9 +4703,7 @@
     "title": {
       "sl": "\u0160kolj sv. Pavla",
       "en": "Saint Paul above Vrtovin"
-    },
-    "x": 408,
-    "y": 86
+    }
   },
   {
     "author": "Mojca_Lustrek",

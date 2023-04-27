@@ -1,6 +1,6 @@
 ---
 date: 2004-12-19 00:00:00+00:00
-delta: 270
+delta: 370
 description: Severno od Vrtovina, vasi med Ajdovščino in Novo Gorico, se na pobočjih
   Kuclja nad Vipavsko dolino dviga zanimiva razgledna planotasta vzpetina s cerkvico
   sv. Pavla.
@@ -19,7 +19,7 @@ image:
 - M_1_2136.JPG
 - mapgps.jpg
 - path_1.gif
-lead: M_1_2136.JPG
+lead: M_20230214_132223.jpg
 map: 1
 maplink: https://mapzs.pzs.si/poi/2669
 name: SkoljSvPavla
@@ -33,14 +33,10 @@ peak: 45.909096,13.810788
 region: vipava
 start: 45.9016051,13.8146674
 title: Školj sv. Pavla
-x: 408
-y: 86
 ---
-školj ([SSKJ](http://bos.zrc-sazu.si/sskj.html)): narečno primorsko večja skala, ki gleda\
-a) iz morja: zadeti ob školj; čeri in školji v zalivu\
-b) iz zemlje: školji na planoti
-
 Severno od Vrtovina, vasi med Ajdovščino in Novo Gorico, se na pobočjih Kuclja nad Vipavsko dolino dviga zanimiva razgledna planotasta vzpetina, z vseh strani obdana s strmimi skalnimi stenami. Že pred prihodom Rimljanov so jo staroselci obzidali in uporabljali kot naravno utrdbo, v rimskih časih pa so dozidali še obrambni stolp nad vodnim zajetjem na njenem južnem robu. Kasneje so na vzpetini sezidali cerkvico sv. Pavla, ki ji je dala tudi današnje ime -- Školj sv. Pavla.
+
+{{<figure src="M_20230214_132223.jpg">}}
 
 Do Školja sv. Pavla se lahko povzpnete po več poteh iz Vrtovina. Če boste sledili markacijam, boste hodili precej časa po asfaltu,  zato se boste tisti s smislom za orientacijo verjetno raje podali po nemarkiranih kolovozih.
 
@@ -101,24 +97,24 @@ Na asfaltu zavijete levo, se sprehodite med hišami v Kocjanih, za zadnjo hišo 
 
 Školj Sv. Pavla
 ---------------
-
  
+Steza do vrha Školja sv. Pavla vodi od stolpa v levo do naravnega prehoda v skalnem robu, kjer vas vijugasta stezica varno popelje vrh skal (seveda lahko izberete tudi nekoliko težjo pot in skale preplezate), od tam pa sledite dobro vidni stezici, speljani le nekaj metrov od roba, ki vas povede do cerkvice sv. Pavla, okoli katere lahko poiščete tudi ostanke starih obzidij. Med počitkom ob cerkvici ne pozabite občudovati lepega razgleda, ki sega na severu od Nanosa prek Gore do Čavna, na jugu pa ležijo pred vami Vipavska Brda.
 
 {{<figure src="M_1_2133.JPG" caption="Ostanki vodnega stolpa">}}
-
-Steza do vrha Školja sv. Pavla vodi od stolpa v levo do naravnega prehoda v skalnem robu, kjer vas vijugasta stezica varno popelje vrh skal (seveda lahko izberete tudi nekoliko težjo pot in skale preplezate), od tam pa sledite dobro vidni stezici, speljani le nekaj metrov od roba, ki vas povede do cerkvice sv. Pavla, okoli katere lahko poiščete tudi ostanke starih obzidij. Med počitkom ob cerkvici ne pozabite občudovati lepega razgleda, ki sega na severu od Nanosa prek Gore do Čavna, na jugu pa ležijo pred vami Vipavska Brda.
 
 V Vrtovin se lahko vrnete po poti, po kateri ste se povzpeli, lahko pa izlet še malce zaokrožite:
 
 -   Tisti, ki ste se povzpeli po markirani poti, se lahko vrnete po bližnjici, speljani po kolovozih.
 -   Tisti, ki ste se povzpeli po nemarkiranem kolovozu, se lahko vrnete po nekoliko daljši (delno asfaltirani) markirani poti.
--   Od sv. Pavla lahko se lahko povzpnete še do Kuclja na Čavnu.
+-   Od sv. Pavla lahko se lahko povzpnete še do [Kuclja na Čavnu](../kucelj/).
 
 Če ste se odločili za vrnitev v Vrtovin, se od cerkve sv. Pavla po stezici spustite mimo vodnega stolpa in nato po stezici/kolovozu do hiš v Lozarjih (mimo teh hiš ste se povzpeli do sv. Pavla), kjer se morate odločiti, ali boste sledili markacijam ali pa svojemu orientacijskemu čutu.
 
-{{<figure src="M_1_2129.JPG">}}\
-Cerkev sv. Pavla {{<figure src="M_1_2131.JPG">}}\
-Pogled na Vrtovin {{<figure src="M_1_2136.JPG" caption="Še zadnji pogled na Školj sv. Pavla">}}
+{{<gallery>}}
+{{<figure src="M_1_2129.JPG">}}
+{{<figure src="M_1_2131.JPG">}}
+{{<figure src="M_1_2136.JPG">}}
+{{</gallery>}}
 
 ### Vrnitev po markirani poti
 
