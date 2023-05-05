@@ -12,7 +12,7 @@ gpx:
     lon: 13.631249284918901
   file: LoskaKoritnica.gpx
   modified: 1624463382
-  zoom: 13
+  zoom: 14
 height: 1103
 layout: structured
 lead: IMG_1934.jpg

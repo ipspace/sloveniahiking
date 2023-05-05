@@ -11,8 +11,8 @@ maplink: https://mapzs.pzs.si/path/31730
 name: Vrsnik_Ziri
 nearby:
 - /hikes/goropeke
-- /biking/zavratectrail
 - /biking/mrzlivrhziri
+- /biking/zavratectrail
 - /hikes/mrzlivrh_ziri
 - /biking/zavratec
 peak: 46.021711,14.094982

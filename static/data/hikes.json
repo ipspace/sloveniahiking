@@ -4051,7 +4051,7 @@
       },
       "file": "LoskaKoritnica.gpx",
       "modified": 1624463382,
-      "zoom": 13
+      "zoom": 14
     },
     "height": 1103,
     "layout": "structured",
@@ -7180,6 +7180,7 @@
       "en": "We decided to take a somewhat longer hike in Istria, and found a path that took us from Hrastovlje to Karst Edge and back around the upper Ri\u017eana Valley."
     },
     "difficulty": "A long hike on a mix of dirt trails, gravel and (unfortunately) asphalt roads.",
+    "difflevel": 3,
     "duration": 5,
     "gpx": {
       "center": {
@@ -7588,8 +7589,8 @@
     "nearby": [
       "/hikes/ermanovec",
       "/hikes/slajka",
-      "/biking/mrzlivrhziri",
       "/hikes/mrzlivrh_ziri",
+      "/biking/mrzlivrhziri",
       "/hikes/bevkovvrh"
     ],
     "region": "gorenjska",
@@ -7943,7 +7944,7 @@
     "center": "46.331367,13.941900"
   },
   {
-    "date": "2022-06-14 15:28:37+00:00",
+    "date": "2023-05-05 14:11:37+00:00",
     "delta": 510,
     "description": {
       "en": "Mrzli Vrh (Cold Peak) is a beautiful vista point high above \u017diri, well worth the effort you'll spend hiking or biking there \u2013 you'll enjoy the views of \u0160kofja Loka hills, Idrija hills, and the Julian Alps."
@@ -7952,7 +7953,6 @@
     "difflevel": 3,
     "duration": 2,
     "height": 987,
-    "layout": "structured",
     "lead": "M_20220614_085221.jpg",
     "length": 10.5,
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=46.05551&lon=14.07566&layers=B0000",
@@ -7971,7 +7971,7 @@
     },
     "video": "https://www.relive.cc/view/vrqokEWzBKq/",
     "type": "biking",
-    "center": "46.054509,14.078413"
+    "center": "46.049489,14.079582"
   },
   {
     "date": "2022-11-22 08:39:20+01:00",

@@ -11,9 +11,9 @@ maplink: https://mapzs.pzs.si/poi/3882
 name: Goropeke
 nearby:
 - /hikes/vrsnik_ziri
+- /biking/mrzlivrhziri
 - /hikes/javorc
 - /hikes/vs3k
-- /biking/mrzlivrhziri
 - /biking/zavratectrail
 peak: 46.034557,14.125964
 region: gorenjska
