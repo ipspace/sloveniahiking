@@ -95,7 +95,7 @@ def sync_gpx_data(gpx_path):
   old_zoom = page['gpx'].get('zoom',None)
   page['gpx']['zoom'] = 13
 
-  if gpx_info['delta_lat'] < 0.023 and gpx_info['delta_lon'] < 0.05:
+  if gpx_info['delta_lat'] < 0.023 and gpx_info['delta_lon'] < 0.055:
     page['gpx']['zoom'] = 14
 
   if gpx_info['delta_lat'] < 0.011 and gpx_info['delta_lon'] < 0.0260:
