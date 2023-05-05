@@ -49,7 +49,7 @@ def collect_hike_data(page_path):
     print(f"{page_path}: {ck_name} != {hike_page['name']}")
 
   if 'date' in hike_page and hike_page['date'] > datetime.datetime.now(datetime.timezone.utc):
-    print(f"Skipping {hike_path} -- published on {str(hike_page['date'])}")
+    print(f"Skipping {page_path} -- published on {str(hike_page['date'])}")
     return
 
   for key in ('html','markdown','image'):
