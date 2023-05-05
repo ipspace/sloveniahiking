@@ -26,7 +26,7 @@ nearby:
 - /hikes/hrastovljezazid
 - /hikes/lacna
 - /hikes/lacnakukkvirik
-- /biking/podgorjekavcic
+- /hikes/podpecbrezec
 region: istria
 start: 45.502597,13.876419
 title: Biking to Kuk and Lačna

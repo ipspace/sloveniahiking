@@ -23,9 +23,9 @@ name: Kovk/Budanje
 nearby:
 - /hikes/soncnica
 - /hikes/kovk
+- /hikes/starigradvipava
 - /hikes/skavnica
 - /hikes/starababa
-- /hikes/plaz
 peak: 45.887981,13.969153
 region: vipava
 start: 45.879299,13.959613

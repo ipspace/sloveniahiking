@@ -16,9 +16,9 @@ name: Lacna/Gracisce
 nearby:
 - /hikes/lacna
 - /hikes/kuk
+- /hikes/podpecbrezec
 - /hikes/hrastovljezazid
 - /hikes/crnikal
-- /hikes/lacnakukkvirik
 peak: 45.504969,13.885283
 region: istria
 start: 45.502955, 13.876214

@@ -22,9 +22,9 @@ name: Kojnik
 nearby:
 - /biking/podgorjekavcic
 - /hikes/hrastovljezazid
+- /hikes/podpecbrezec
 - /biking/podgorjeslavnik
 - /hikes/podgorje
-- /hikes/golic
 nosync: true
 peak: 45.506877,13.951764
 region: istria

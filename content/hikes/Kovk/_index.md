@@ -11,10 +11,10 @@ maplink: https://mapzs.pzs.si/poi/1288
 name: Kovk
 nearby:
 - /hikes/soncnica
+- /hikes/starigradvipava
 - /hikes/skavnica
 - /hikes/starababa
 - /hikes/plaz
-- /hikes/otliskookno
 peak: 45.887981,13.969153
 region: vipava
 title: Kovk nad Colom

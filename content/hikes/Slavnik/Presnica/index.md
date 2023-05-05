@@ -16,8 +16,8 @@ nearby:
 - /hikes/podgorje
 - /hikes/slavnik
 - /hikes/crnikal
+- /hikes/podpecbrezec
 - /hikes/zgornjikras
-- /hikes/kojnik
 peak: 45.533685,13.975236
 region: istria
 start: 45.565763,13.941704

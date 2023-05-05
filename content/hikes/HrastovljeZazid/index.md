@@ -15,10 +15,10 @@ maplink: https://mapzs.pzs.si/path/31057
 name: HrastovljeZazid
 nearby:
 - /hikes/kojnik
+- /hikes/podpecbrezec
 - /hikes/kuk
 - /hikes/lipnik
 - /hikes/podgorje
-- /hikes/lacna
 peak: 45.500573,13.932688
 region: istria
 start: 45.509500,13.900605

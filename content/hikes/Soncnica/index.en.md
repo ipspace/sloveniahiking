@@ -22,9 +22,9 @@ name: Soncnica
 nearby:
 - /hikes/kovk
 - /hikes/starababa
+- /hikes/starigradvipava
 - /hikes/skavnica
 - /hikes/otliskookno
-- /hikes/plaz
 peak: 45.886711,13.960029
 region: vipava
 start: 45.879298,13.959525

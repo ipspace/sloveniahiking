@@ -13,10 +13,10 @@ multipath: true
 name: Lacna/Hrastovlje
 nearby:
 - /hikes/lacna
+- /hikes/podpecbrezec
 - /biking/kuklacna
 - /hikes/hrastovljezazid
 - /biking/rizanapraproce
-- /hikes/kuk
 peak: 45.504969,13.885283
 region: istria
 start: 45.509506,13.900638

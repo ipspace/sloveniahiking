@@ -21,10 +21,10 @@ maplink: https://mapzs.pzs.si/poi/3893
 name: Skavnica
 nearby:
 - /hikes/plaz
+- /hikes/starigradvipava
 - /hikes/gradiskatura
 - /biking/vrhpoljeabram
 - /hikes/svmiklavz_vipava
-- /hikes/kovk
 peak: 45.84970,13.98185
 region: vipava
 start: 45.832270,13.971014

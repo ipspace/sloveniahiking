@@ -16,7 +16,7 @@ nearby:
 - /biking/rizanapraproce
 - /hikes/crnikal
 - /biking/marezigetrsek
-- /biking/kuklacna
+- /hikes/podpecbrezec
 peak: 45.504969,13.885283
 region: istria
 start: 45.519562,13.869997

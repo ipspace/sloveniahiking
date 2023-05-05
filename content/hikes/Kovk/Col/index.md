@@ -16,8 +16,8 @@ nearby:
 - /hikes/kovk
 - /hikes/soncnica
 - /hikes/skavnica
+- /hikes/starigradvipava
 - /hikes/plaz
-- /hikes/svduh_podkraj
 peak: 45.887981,13.969153
 region: vipava
 start: 45.885151,13.994895

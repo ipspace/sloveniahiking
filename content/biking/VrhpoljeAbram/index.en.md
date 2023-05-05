@@ -25,8 +25,8 @@ nearby:
 - /hikes/skavnica
 - /hikes/plaz
 - /hikes/gradiskatura
+- /hikes/starigradvipava
 - /hikes/svmiklavz_vipava
-- /hikes/svduh_podkraj
 region: vipava
 start: 45.872902,13.972551
 title: Abram (Nanos) from Vrhpolje

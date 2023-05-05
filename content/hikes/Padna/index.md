@@ -23,11 +23,11 @@ map: 1
 maplink: https://mapzs.pzs.si/poi/4207
 name: Padna
 nearby:
+- /hikes/pomjan
 - /hikes/abitanti
 - /hikes/tinjan_osp
 - /hikes/lacna
 - /hikes/crnikal
-- /hikes/socerb
 peak: 45.491149,13.689970
 region: istria
 start: 45.494227,13.677033

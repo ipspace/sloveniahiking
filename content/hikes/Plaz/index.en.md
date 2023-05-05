@@ -21,11 +21,11 @@ lead: M_2_2245.JPG
 maplink: https://mapzs.pzs.si/poi/1501
 name: Plaz
 nearby:
+- /hikes/starigradvipava
 - /hikes/skavnica
 - /hikes/gradiskatura
 - /hikes/svmiklavz_vipava
 - /biking/vrhpoljeabram
-- /hikes/soncnica
 peak: 45.842405,13.972171
 region: vipava
 start: 45.832270,13.971014

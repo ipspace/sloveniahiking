@@ -26,7 +26,7 @@ nearby:
 - /biking/abitantigracisce
 - /hikes/lacna
 - /biking/marezigesmarje
-- /biking/kuklacna
+- /hikes/pomjan
 region: istria
 start: 45.506836,13.798535
 title: Marezige – Trsek – Popetre

@@ -76,8 +76,8 @@
       "/hikes/podgorje",
       "/hikes/slavnik",
       "/hikes/crnikal",
-      "/hikes/zgornjikras",
-      "/hikes/kojnik"
+      "/hikes/podpecbrezec",
+      "/hikes/zgornjikras"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -137,9 +137,9 @@
     "nearby": [
       "/hikes/podgorje",
       "/hikes/slavnik",
+      "/hikes/podpecbrezec",
       "/hikes/kojnik",
-      "/hikes/hrastovljezazid",
-      "/hikes/crnikal"
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -164,9 +164,9 @@
     "nearby": [
       "/hikes/podgorje",
       "/hikes/kojnik",
+      "/hikes/podpecbrezec",
       "/hikes/hrastovljezazid",
-      "/hikes/golic",
-      "/hikes/lipnik"
+      "/hikes/golic"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -193,9 +193,9 @@
     "nearby": [
       "/hikes/podgorje",
       "/hikes/slavnik",
+      "/hikes/podpecbrezec",
       "/hikes/kojnik",
-      "/hikes/hrastovljezazid",
-      "/hikes/crnikal"
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -912,10 +912,10 @@
     "name": "Skavnica",
     "nearby": [
       "/hikes/plaz",
+      "/hikes/starigradvipava",
       "/hikes/gradiskatura",
       "/hikes/svmiklavz_vipava",
-      "/hikes/kovk",
-      "/hikes/soncnica"
+      "/hikes/kovk"
     ],
     "path": "https://www.hribi.net/izlet/gradisce_skavnica/26/3274/7816",
     "peak": "45.84970,13.98185",
@@ -1356,8 +1356,8 @@
       "/hikes/svmiklavz_vipava",
       "/hikes/plaz",
       "/hikes/skavnica",
-      "/hikes/soncnica",
-      "/hikes/kovk"
+      "/hikes/starigradvipava",
+      "/hikes/soncnica"
     ],
     "peak": "45.829279,13.979692",
     "region": "vipava",
@@ -2134,11 +2134,11 @@
     "maplink": "https://mapzs.pzs.si/poi/1501",
     "name": "Plaz",
     "nearby": [
+      "/hikes/starigradvipava",
       "/hikes/skavnica",
       "/hikes/gradiskatura",
       "/hikes/svmiklavz_vipava",
-      "/hikes/soncnica",
-      "/hikes/kovk"
+      "/hikes/soncnica"
     ],
     "peak": "45.842405,13.972171",
     "region": "vipava",
@@ -2488,11 +2488,11 @@
     "maplink": "https://mapzs.pzs.si/poi/4207",
     "name": "Padna",
     "nearby": [
+      "/hikes/pomjan",
       "/hikes/abitanti",
       "/hikes/tinjan_osp",
       "/hikes/lacna",
-      "/hikes/crnikal",
-      "/hikes/socerb"
+      "/hikes/crnikal"
     ],
     "peak": "45.491149,13.689970",
     "region": "istria",
@@ -2578,7 +2578,7 @@
       "/hikes/crnikal",
       "/hikes/zgornjikras",
       "/hikes/lacna",
-      "/hikes/podgorje"
+      "/hikes/podpecbrezec"
     ],
     "peak": "45.561375,13.835055",
     "region": "istria",
@@ -4635,7 +4635,7 @@
       "/hikes/lacnakukkvirik",
       "/hikes/lacna",
       "/hikes/velibadin",
-      "/hikes/kojnik"
+      "/hikes/podpecbrezec"
     ],
     "peak": "45.485013,13.917515",
     "region": "istria",
@@ -4748,10 +4748,10 @@
     "name": "Kojnik",
     "nearby": [
       "/hikes/hrastovljezazid",
+      "/hikes/podpecbrezec",
       "/hikes/podgorje",
       "/hikes/golic",
-      "/hikes/lipnik",
-      "/hikes/slavnik"
+      "/hikes/lipnik"
     ],
     "peak": "45.506877,13.951764",
     "region": "istria",
@@ -5583,9 +5583,9 @@
     "nearby": [
       "/hikes/soncnica",
       "/hikes/kovk",
+      "/hikes/starigradvipava",
       "/hikes/skavnica",
-      "/hikes/starababa",
-      "/hikes/plaz"
+      "/hikes/starababa"
     ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
@@ -5609,10 +5609,10 @@
     "name": "Kovk",
     "nearby": [
       "/hikes/soncnica",
+      "/hikes/starigradvipava",
       "/hikes/skavnica",
       "/hikes/starababa",
-      "/hikes/plaz",
-      "/hikes/otliskookno"
+      "/hikes/plaz"
     ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
@@ -5643,8 +5643,8 @@
       "/hikes/kovk",
       "/hikes/soncnica",
       "/hikes/skavnica",
-      "/hikes/plaz",
-      "/hikes/svduh_podkraj"
+      "/hikes/starigradvipava",
+      "/hikes/plaz"
     ],
     "peak": "45.887981,13.969153",
     "region": "vipava",
@@ -5673,8 +5673,8 @@
       "/hikes/gradiskatura",
       "/hikes/plaz",
       "/hikes/skavnica",
-      "/hikes/suhivrh",
-      "/hikes/soncnica"
+      "/hikes/starigradvipava",
+      "/hikes/suhivrh"
     ],
     "peak": "45.819506,13.982114",
     "region": "vipava",
@@ -5703,9 +5703,9 @@
     "nearby": [
       "/hikes/lacna",
       "/hikes/crnikal",
+      "/hikes/podpecbrezec",
       "/hikes/hrastovljezazid",
-      "/hikes/kuk",
-      "/hikes/tinjan_osp"
+      "/hikes/kuk"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5734,9 +5734,9 @@
     "nearby": [
       "/hikes/lacna",
       "/hikes/kuk",
+      "/hikes/podpecbrezec",
       "/hikes/hrastovljezazid",
-      "/hikes/crnikal",
-      "/hikes/lacnakukkvirik"
+      "/hikes/crnikal"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5758,10 +5758,10 @@
     "name": "Lacna",
     "nearby": [
       "/hikes/kuk",
+      "/hikes/podpecbrezec",
       "/hikes/hrastovljezazid",
       "/hikes/crnikal",
-      "/hikes/lacnakukkvirik",
-      "/hikes/kojnik"
+      "/hikes/lacnakukkvirik"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5789,10 +5789,10 @@
     "name": "Lacna/Hrastovlje",
     "nearby": [
       "/hikes/lacna",
+      "/hikes/podpecbrezec",
       "/hikes/hrastovljezazid",
       "/hikes/kuk",
-      "/hikes/crnikal",
-      "/hikes/kojnik"
+      "/hikes/crnikal"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5883,11 +5883,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.54395&lon=13.89226&layers=B0000",
     "name": "CrniKal",
     "nearby": [
+      "/hikes/podpecbrezec",
       "/hikes/lacna",
       "/hikes/podgorje",
       "/hikes/tinjan_osp",
-      "/hikes/hrastovljezazid",
-      "/hikes/kojnik"
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.54080,13.89606",
     "region": "istria",
@@ -6524,9 +6524,9 @@
     "nearby": [
       "/hikes/kovk",
       "/hikes/starababa",
+      "/hikes/starigradvipava",
       "/hikes/skavnica",
-      "/hikes/otliskookno",
-      "/hikes/plaz"
+      "/hikes/otliskookno"
     ],
     "path": "../kovk/budanje",
     "peak": "45.886711,13.960029",
@@ -6824,9 +6824,9 @@
     "nearby": [
       "/hikes/lacnakukkvirik",
       "/hikes/velibadin",
+      "/hikes/pomjan",
       "/hikes/lacna",
-      "/hikes/kuk",
-      "/hikes/hrastovljezazid"
+      "/hikes/kuk"
     ],
     "peak": "45.436224,13.825319",
     "region": "istria",
@@ -6853,10 +6853,10 @@
     "name": "HrastovljeZazid",
     "nearby": [
       "/hikes/kojnik",
+      "/hikes/podpecbrezec",
       "/hikes/kuk",
       "/hikes/lipnik",
-      "/hikes/podgorje",
-      "/hikes/lacna"
+      "/hikes/podgorje"
     ],
     "peak": "45.500573,13.932688",
     "region": "istria",
@@ -6992,10 +6992,10 @@
     "name": "Podgorje",
     "nearby": [
       "/hikes/slavnik",
+      "/hikes/podpecbrezec",
       "/hikes/kojnik",
       "/hikes/hrastovljezazid",
-      "/hikes/crnikal",
-      "/hikes/golic"
+      "/hikes/crnikal"
     ],
     "peak": "45.531420,13.947151",
     "region": "istria",
@@ -7211,6 +7211,47 @@
     }
   },
   {
+    "date": "2023-05-05 16:30:31+00:00",
+    "delta": 430,
+    "description": {
+      "en": "Pomjan is a village on a hilltop high above the Slovenian coast -- an ideal destination for a family excursion or a wake-me-up morning hike starting at the outskirts of Koper."
+    },
+    "difficulty": "An easy hike on dirt trails and footpaths",
+    "duration": 2.5,
+    "gpx": {
+      "center": {
+        "lat": 45.50991503684055,
+        "lon": 13.74390126453579
+      },
+      "file": "Pomjan.gpx",
+      "modified": 1683304493,
+      "zoom": 14
+    },
+    "height": 350,
+    "layout": "structured",
+    "lead": "M_20230323_092018.jpg",
+    "maplink": "https://mapzs.pzs.si/path/31688",
+    "name": "Pomjan",
+    "nearby": [
+      "/biking/marezigesmarje",
+      "/biking/marezigeborst",
+      "/hikes/padna",
+      "/biking/marezigetrsek",
+      "/hikes/abitanti"
+    ],
+    "peak": "45.499566,13.756609",
+    "region": "istria",
+    "start": "45.520707,13.743461",
+    "timing": [
+      "Ascent: 1 hour 15 minutes",
+      "Descent: 1 hour 15 minutes",
+      "Total: 2.5 - 3 hours"
+    ],
+    "title": {
+      "en": "Pomjan Fairy Tale"
+    }
+  },
+  {
     "date": "2021-08-06 16:14:34+00:00",
     "delta": 450,
     "description": {
@@ -7319,10 +7360,10 @@
     "name": "MarezigeBorst",
     "nearby": [
       "/biking/marezigetrsek",
+      "/hikes/pomjan",
       "/biking/marezigesmarje",
       "/biking/abitantigracisce",
-      "/hikes/abitanti",
-      "/hikes/lacna"
+      "/hikes/abitanti"
     ],
     "region": "istria",
     "start": "45.506823,13.798599",
@@ -7475,7 +7516,7 @@
       "/hikes/svmiklavz_vipava",
       "/hikes/gradiskatura",
       "/hikes/plaz",
-      "/hikes/skavnica"
+      "/hikes/starigradvipava"
     ],
     "region": "vipava",
     "start": "45.797329,13.972231",
@@ -7622,7 +7663,7 @@
       "/biking/abitantigracisce",
       "/hikes/lacna",
       "/biking/marezigesmarje",
-      "/biking/kuklacna"
+      "/hikes/pomjan"
     ],
     "region": "istria",
     "start": "45.506836,13.798535",
@@ -7653,7 +7694,7 @@
       "/hikes/slavnik",
       "/biking/kojnik",
       "/hikes/kojnik",
-      "/biking/podgorjekavcic"
+      "/hikes/podpecbrezec"
     ],
     "peakpoint": "Slavnik",
     "region": "istria",
@@ -8208,8 +8249,8 @@
       "/hikes/skavnica",
       "/hikes/plaz",
       "/hikes/gradiskatura",
-      "/hikes/svmiklavz_vipava",
-      "/hikes/svduh_podkraj"
+      "/hikes/starigradvipava",
+      "/hikes/svmiklavz_vipava"
     ],
     "region": "vipava",
     "start": "45.872902,13.972551",
@@ -8336,11 +8377,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.50964&lon=13.756&layers=B0000",
     "name": "MarezigeSmarje",
     "nearby": [
+      "/hikes/pomjan",
       "/biking/marezigeborst",
       "/biking/marezigetrsek",
       "/hikes/padna",
-      "/hikes/tinjan_osp",
-      "/biking/abitantigracisce"
+      "/hikes/tinjan_osp"
     ],
     "region": "istria",
     "start": "45.506836,13.798535",
@@ -8430,11 +8471,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.51226&lon=13.95242&layers=B0000",
     "name": "Kojnik",
     "nearby": [
+      "/hikes/podpecbrezec",
       "/hikes/hrastovljezazid",
       "/hikes/podgorje",
       "/biking/podgorjeslavnik",
-      "/biking/podgorjekavcic",
-      "/hikes/slavnik"
+      "/biking/podgorjekavcic"
     ],
     "region": "istria",
     "start": "45.531420,13.947151",
@@ -8614,10 +8655,10 @@
     "name": "RizanaPraproce",
     "nearby": [
       "/hikes/crnikal",
+      "/hikes/podpecbrezec",
       "/hikes/lacna",
       "/hikes/podgorje",
-      "/biking/kojnik",
-      "/hikes/hrastovljezazid"
+      "/biking/kojnik"
     ],
     "region": "istria",
     "start": "45.523654,13.889561",
@@ -8709,7 +8750,7 @@
       "/hikes/hrastovljezazid",
       "/hikes/lacna",
       "/hikes/lacnakukkvirik",
-      "/biking/podgorjekavcic"
+      "/hikes/podpecbrezec"
     ],
     "region": "istria",
     "start": "45.502597,13.876419",

@@ -24,9 +24,9 @@ name: Soncnica
 nearby:
 - /hikes/kovk
 - /hikes/starababa
+- /hikes/starigradvipava
 - /hikes/skavnica
 - /hikes/otliskookno
-- /hikes/plaz
 path: ../kovk/budanje
 peak: 45.886711,13.960029
 region: vipava

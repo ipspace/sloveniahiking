@@ -23,10 +23,10 @@ maplink: https://www.opencyclemap.org/?zoom=15&lat=45.5338&lon=13.90097&layers=B
 name: RizanaPraproce
 nearby:
 - /hikes/crnikal
+- /hikes/podpecbrezec
 - /hikes/lacna
 - /hikes/podgorje
 - /biking/kojnik
-- /hikes/hrastovljezazid
 region: istria
 start: 45.523654,13.889561
 title: Karst Edge and Praproče from Rižana Valley

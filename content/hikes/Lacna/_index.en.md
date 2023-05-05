@@ -12,9 +12,9 @@ name: Lacna
 nearby:
 - /biking/kuklacna
 - /hikes/kuk
+- /hikes/podpecbrezec
 - /biking/rizanapraproce
 - /hikes/hrastovljezazid
-- /hikes/crnikal
 peak: 45.504969,13.885283
 region: istria
 title: Lačna

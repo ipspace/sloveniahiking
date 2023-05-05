@@ -23,10 +23,10 @@ maplink: https://mapzs.pzs.si/poi/52206
 name: MarezigeBorst
 nearby:
 - /biking/marezigetrsek
+- /hikes/pomjan
 - /biking/marezigesmarje
 - /biking/abitantigracisce
 - /hikes/abitanti
-- /hikes/lacna
 region: istria
 start: 45.506823,13.798599
 title: From Marezige to Boršt

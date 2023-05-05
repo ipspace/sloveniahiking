@@ -14,8 +14,8 @@ nearby:
 - /hikes/gradiskatura
 - /hikes/plaz
 - /hikes/skavnica
+- /hikes/starigradvipava
 - /hikes/suhivrh
-- /hikes/soncnica
 peak: 45.819506,13.982114
 region: vipava
 start: 45.832270,13.971014

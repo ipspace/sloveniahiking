@@ -19,11 +19,11 @@ map: 1
 maplink: https://mapzs.pzs.si/poi/4207
 name: Padna
 nearby:
+- /hikes/pomjan
 - /biking/marezigesmarje
 - /biking/marezigeborst
 - /biking/marezigetrsek
 - /hikes/abitanti
-- /biking/abitantigracisce
 peak: 45.491149,13.689970
 region: istria
 start: 45.494227,13.677033

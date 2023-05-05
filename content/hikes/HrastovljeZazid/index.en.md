@@ -12,9 +12,9 @@ name: HrastovljeZazid
 nearby:
 - /hikes/kojnik
 - /biking/kojnik
+- /hikes/podpecbrezec
 - /biking/podgorjekavcic
 - /biking/kuklacna
-- /hikes/kuk
 peak: 45.500573,13.932688
 region: istria
 start: 45.509500,13.900605

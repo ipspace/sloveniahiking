@@ -25,9 +25,9 @@ name: Abitanti
 nearby:
 - /hikes/lacnakukkvirik
 - /hikes/velibadin
+- /hikes/pomjan
 - /hikes/lacna
 - /hikes/kuk
-- /hikes/hrastovljezazid
 peak: 45.436224,13.825319
 region: istria
 start: 45.458375,13.850126

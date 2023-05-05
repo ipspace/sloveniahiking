@@ -26,8 +26,8 @@ nearby:
 - /hikes/svmiklavz_vipava
 - /hikes/plaz
 - /hikes/skavnica
+- /hikes/starigradvipava
 - /hikes/soncnica
-- /hikes/kovk
 peak: 45.829279,13.979692
 region: vipava
 start: 45.832270,13.971014
