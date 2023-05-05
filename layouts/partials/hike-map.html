@@ -1,4 +1,4 @@
-{{ if and .Params.gpx .Params.gpx.center}}
+{{ if and .Params.gpx .Params.gpx.center }}
   {{ partial "include-gpx-map" . }}
 {{ else if .Params.map }}
   <h3>{{ i18n "mapRoute"}}</h3>
