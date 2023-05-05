@@ -110,8 +110,8 @@ def parse_cli():
 
 args = parse_cli()
 
-cm.traverse.walk(config['ExFilePath'],r'index\.md$',get_coords)
-cm.traverse.walk(config['ExFilePath'],r'index\.en\.md$',read_page)
+cm.traverse.walk(config['ExFilePath'],r'index\.en\.md$',get_coords)
+cm.traverse.walk(config['ExFilePath'],r'index\.md$',read_page)
 cm.traverse.walk(config['BikeFilePath'],r'index.*\.md$',get_coords)
 
 compute_nearby(pages)
