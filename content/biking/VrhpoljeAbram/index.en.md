@@ -1,5 +1,5 @@
 ---
-date: 2021-08-26 16:06:19+00:00
+date: 2023-05-23 15:00:19+00:00
 delta: 830
 description: 'Two roads lead from Sanabor (a hamlet on the western slopes of Nanos
   plateau) to Abram (one of the few still-active homesteads): a pleasantly cool gravel
