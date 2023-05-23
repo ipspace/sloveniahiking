@@ -30,18 +30,34 @@ nearby:
 region: vipava
 start: 45.872902,13.972551
 title: Abram (Nanos) from Vrhpolje
+tracks:
+- color: green
+  file: _Bela.gpx
+  desc: alternate path through the Bela valley
 video: https://www.relive.cc/view/vmqXXwrkVoq/
 ---
 Two roads lead from Sanabor (a hamlet on the western slopes of Nanos plateau) to [Abram]({{<ref "/hikes/nanos/abram/index.en.md">}}) (one of the few still-active homesteads): a pleasantly cool gravel road along the Bela stream and a sunny asphalt road going straight from Sanabor to Abram.
   
 {{<hike-details>}}
 
-In summer, I take the gravel road on the way up and the asphalt road on the way down. This time I decided to enjoy whatever sun had to offer on a chill autumn morning:
+In summer, I take the gravel road on the way up and the asphalt road on the way down. This time I decided to enjoy whatever sun had to offer on a chill autumn morning (red track):
 
 * I parked at [Vipavska Bela]({{<ref "/climbing/vipavskabela/index.en.md">}}) climbing crag to avoid the boring part of the trip. You could park at the large parking lot in Vipava (adding almost 5 km and ~190 m elevation gain).
 * Follow the road from Vipava to Col (via Vrhpolje) until you get to a left hairpin with a side road to Sanabor/Abram going right.
 * Just before Sanabor, decide how hot you want to be: turn right (Sanabor/Abram -- my choice) to follow the sunny asphalt road or left (Bela) to follow the stream into the forests.
 * Follow the asphalt road till you reach Abram.
+
+## Biking Through the Bela Valley
+
+If you decide to follow the gravel road through the Bela Valley (green track):
+
+* Turn left just before Sanabor (following signs for Bela)
+* When you reach the Bela hamlet, keep to the right, bypassing the hamlet.
+* The asphalt road turns into a gravel road after the last houses.
+* Turn right (following signs for Nanos/Abram) at the next junction.
+* Keep to the left at an unmarked junction, then follow signs for Nanos/Abram at the next junction.
+* Cross a clearing and continue onto the left (ascending) gravel road after a steeper asphalt section.
+* Follow that road until you reach the asphalt road from Sanabor. Turn left to continue to Abram or right to return to the Vipava Valley.
 
 ## The Nanos Glaciers
 
