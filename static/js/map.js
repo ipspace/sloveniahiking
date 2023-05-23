@@ -136,11 +136,8 @@ function createRegionMap(divname,lat,lon,zoom,lang) {
   });
 }
 
-function createGPXMap(divname,lat,lon,zoom,gpx) {
-  v = new ol.View({
-    center: ol.proj.fromLonLat([parseFloat(lon),parseFloat(lat)]),
-    zoom: zoom});
-
+function loadGPXLayer(gpx,color) {
+  console.log('creating '+color+' track from '+gpx);
   var gpx_layer = new ol.layer.Vector({
     source: new ol.source.Vector({
       url: gpx,
@@ -148,22 +145,39 @@ function createGPXMap(divname,lat,lon,zoom,gpx) {
     }),
     style: new ol.style.Style({
       stroke: new ol.style.Stroke({
-        color: "#f00",
+        color: color,
         width: 2
       })
     })
   });
+  return gpx_layer;
+}
+
+function createGPXMap(divname,lat,lon,zoom,gpx) {
+  v = new ol.View({
+    center: ol.proj.fromLonLat([parseFloat(lon),parseFloat(lat)]),
+    zoom: zoom});
+
+  console.log("gpx= "+gpx);
+  layers = [ 
+    new ol.layer.Tile({
+      source: new ol.source.OSM() }) ]
+  layers.push(loadGPXLayer(gpx,"red"));
+
+  if (typeof _track === 'object') {
+    for (t in _track) {
+      tdata = _track[t]
+      console.log('track: '+tdata)
+      layers.push(loadGPXLayer(tdata.file,tdata.color));
+    }
+  }
 
   gpx_map = new ol.Map({
-    layers: [
-      new ol.layer.Tile({
-        source: new ol.source.OSM(),
-      }),
-      gpx_layer ],
-  target: divname,
-  view: new ol.View({
-    center: ol.proj.fromLonLat([parseFloat(lon),parseFloat(lat)]),
-    zoom: zoom})
+    layers: layers,
+    target: divname,
+    view: new ol.View({
+      center: ol.proj.fromLonLat([parseFloat(lon),parseFloat(lat)]),
+      zoom: zoom})
   });
   gpx_map.on("singleclick",function(event) {
     LonLat = ol.proj.toLonLat(event.coordinate)

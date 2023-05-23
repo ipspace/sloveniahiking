@@ -3,7 +3,21 @@
   {{ if and $gpx .Params.gpx.center }}
 <h3>{{ i18n "mapRoute" }}</h3>
 <div class="map__frame">
+{{ if .Params.tracks }}
+  <script>_track = {{ .Params.tracks }}; console.log(_track)</script>
+{{ end }}
   <div id="mapgpx" data-lat="{{ .Params.gpx.center.lat }}" data-lon="{{ .Params.gpx.center.lon }}" data-zoom="{{ .Params.gpx.zoom | default 13 }}" data-lang="{{ .Lang }}" class="map" data-gpx="{{ $gpx.Permalink }}" style="height: 30em;"></div>
+</div>
+{{ if .Params.tracks }}
+<div style="margin-bottom: 2em">
+<h3>Legend</h3>
+  <ul>
+    <li><span style='color: red'>red</span>: the main track described on this page</li>
+  {{ range .Params.tracks }}
+    <li><span style='color: {{ .color }}'>{{ .color }}</span>: {{ .desc }}</li>
+  {{ end }}
+{{ end }}
+  </ul>
 </div>
 <p class='note'>{{ i18n "mapGPSTrack" }}</p>
 <script src="/js/ol.js"></script>

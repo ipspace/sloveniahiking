@@ -125,7 +125,7 @@ other="Latest Articles"
 other="Map of the Route"
 
 [mapGPSTrack]
-other="The map shows the path we took as recorded by the GPS receiver. Never trust a GPS track; rely on your senses and maps."
+other="The map shows the path we took as recorded by the GPS receiver. Never trust a GPS track wholeheartedly; rely on your senses and maps."
 
 [mapAltProfile]
 other="Altitude profile"
