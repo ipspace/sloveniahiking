@@ -32,8 +32,8 @@ start: 45.872902,13.972551
 title: Abram (Nanos) from Vrhpolje
 tracks:
 - color: green
-  file: _Bela.gpx
   desc: alternate path through the Bela valley
+  file: _Bela.gpx
 video: https://www.relive.cc/view/vmqXXwrkVoq/
 ---
 Two roads lead from Sanabor (a hamlet on the western slopes of Nanos plateau) to [Abram]({{<ref "/hikes/nanos/abram/index.en.md">}}) (one of the few still-active homesteads): a pleasantly cool gravel road along the Bela stream and a sunny asphalt road going straight from Sanabor to Abram.

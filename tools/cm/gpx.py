@@ -59,6 +59,10 @@ def get_gpx_info(gpx_path):
 def sync_gpx_data(gpx_path):
   global VERBOSE
 
+  if os.path.basename(gpx_path).find('_') == 0:
+    print("Skipping %s" % gpx_path)
+    return
+
   if VERBOSE:
     print("Found GPX file %s" % gpx_path)
 

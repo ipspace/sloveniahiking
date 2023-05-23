@@ -8257,6 +8257,13 @@
     "title": {
       "en": "Abram (Nanos) from Vrhpolje"
     },
+    "tracks": [
+      {
+        "color": "green",
+        "desc": "alternate path through the Bela valley",
+        "file": "_Bela.gpx"
+      }
+    ],
     "video": "https://www.relive.cc/view/vmqXXwrkVoq/",
     "type": "biking",
     "center": "45.848151,14.012212"
