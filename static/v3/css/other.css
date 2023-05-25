@@ -222,7 +222,7 @@ html svg {
 
 /* Global fixes */
 .firstHeading {
-  margin-top: 0; }
+  margin-top: 0 !important; }
 
 .open-sidebar {
   position: fixed;
@@ -2352,20 +2352,6 @@ form.labeled.profile {
       content: "";
       display: block;
       clear: both; }
-  .post .nextPage {
-    margin: 2em 0; }
-    .post .nextPage:after {
-      content: "";
-      display: table;
-      clear: both; }
-    .post .nextPage p.jump-link {
-      margin: 0;
-      padding: 0;
-      float: right; }
-    .post .nextPage p {
-      margin: 0 2em;
-      padding: 5px 0;
-      float: right; }
   .post .feed ul {
     margin: 0; }
 
@@ -2481,8 +2467,6 @@ form.labeled.profile {
       padding: 6px 12px; }
   .file-content img {
     max-width: 100%; }
-  .file-content .intro {
-    font-style: italic; }
 
 /* Floats */
 .move-right {

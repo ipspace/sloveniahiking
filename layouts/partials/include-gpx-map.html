@@ -16,9 +16,9 @@
   {{ range .Params.tracks }}
     <li><span style='color: {{ .color }}'>{{ .color }}</span>: {{ .desc }}</li>
   {{ end }}
-{{ end }}
   </ul>
 </div>
+{{ end }}
 <p class='note'>{{ i18n "mapGPSTrack" }}</p>
 <script src="/js/ol.js"></script>
 <link rel="stylesheet" href="/css/ol.css">
