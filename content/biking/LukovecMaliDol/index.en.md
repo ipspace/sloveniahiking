@@ -26,7 +26,7 @@ nearby:
 - /biking/hrusevicakosovelje
 - /biking/pliskovicatupelce
 - /hikes/pedrovo
-- /hikes/trstelj_dornberk
+- /biking/hrusevicapliskovica
 region: karst
 start: 45.818412,13.825455
 title: 'Exploring Karst: Lukovec and Mali Dol'

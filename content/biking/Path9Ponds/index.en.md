@@ -26,8 +26,8 @@ nearby:
 - /biking/lukovecmalidol
 - /biking/hrusevicakosovelje
 - /biking/pliskovicatupelce
+- /biking/hrusevicapliskovica
 - /hikes/pedrovo
-- /hikes/trstelj_dornberk
 region: karst
 start: 45.814512,13.810002
 title: The Path of Nine Ponds

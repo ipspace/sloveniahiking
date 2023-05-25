@@ -7468,6 +7468,36 @@
     "center": "46.143183,13.748615"
   },
   {
+    "date": "2023-05-25 17:33:42+00:00",
+    "delta": 210,
+    "description": {
+      "en": "On a rainy day, I found myself in the beautiful St. Daniel Hotel and took a short biking trip on asphalt and gravel roads to avoid the inevitable mud. The end result: I enjoyed the hidden beauties of a half-dozen Karst villages."
+    },
+    "difficulty": "Easy tour on a mix of asphalt and gravel roads",
+    "difflevel": 2,
+    "duration": 2,
+    "height": 304,
+    "lead": "M_20230524_101301.jpg",
+    "length": 16.3,
+    "maplink": "https://www.opencyclemap.org/?zoom=13&lat=45.79519&lon=13.82661&layers=B0000",
+    "name": "HrusevicaPliskovica",
+    "nearby": [
+      "/biking/pliskovicatupelce",
+      "/biking/hrusevicakosovelje",
+      "/biking/path9ponds",
+      "/biking/lukovecmalidol",
+      "/hikes/pedrovo"
+    ],
+    "peak": "45.774472,13.782246",
+    "region": "karst",
+    "start": "45.810886,13.828548",
+    "title": {
+      "en": "Karst Villages between Hru\u0161evica and Pliskovica"
+    },
+    "type": "biking",
+    "center": "45.791163,13.808661"
+  },
+  {
     "date": "2022-09-05 13:48:55+00:00",
     "delta": 420,
     "description": {
@@ -7727,7 +7757,7 @@
       "/biking/hrusevicakosovelje",
       "/biking/pliskovicatupelce",
       "/hikes/pedrovo",
-      "/hikes/trstelj_dornberk"
+      "/biking/hrusevicapliskovica"
     ],
     "region": "karst",
     "start": "45.818412,13.825455",
@@ -8231,7 +8261,7 @@
     "center": "45.942805,14.165148"
   },
   {
-    "date": "2021-08-26 16:06:19+00:00",
+    "date": "2023-05-23 15:00:19+00:00",
     "delta": 830,
     "description": {
       "en": "Two roads lead from Sanabor (a hamlet on the western slopes of Nanos plateau) to Abram (one of the few still-active homesteads): a pleasantly cool gravel road along the Bela stream and a sunny asphalt road going straight from Sanabor to Abram."
@@ -8285,9 +8315,9 @@
     "nearby": [
       "/biking/pliskovicatupelce",
       "/biking/path9ponds",
+      "/biking/hrusevicapliskovica",
       "/biking/lukovecmalidol",
-      "/hikes/pedrovo",
-      "/hikes/trstelj_dornberk"
+      "/hikes/pedrovo"
     ],
     "region": "karst",
     "start": "45.810886,13.828548",
@@ -8630,11 +8660,11 @@
     "length": 18.5,
     "name": "PliskovicaTupelce",
     "nearby": [
+      "/biking/hrusevicapliskovica",
       "/biking/hrusevicakosovelje",
       "/biking/path9ponds",
       "/biking/lukovecmalidol",
-      "/hikes/pedrovo",
-      "/hikes/trstelj_dornberk"
+      "/hikes/pedrovo"
     ],
     "region": "karst",
     "start": "45.770639,13.782370",
@@ -8695,8 +8725,8 @@
       "/biking/lukovecmalidol",
       "/biking/hrusevicakosovelje",
       "/biking/pliskovicatupelce",
-      "/hikes/pedrovo",
-      "/hikes/trstelj_dornberk"
+      "/biking/hrusevicapliskovica",
+      "/hikes/pedrovo"
     ],
     "region": "karst",
     "start": "45.814512,13.810002",

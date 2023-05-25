@@ -21,11 +21,11 @@ lead: M_20210902_111541.jpg
 length: 18.5
 name: PliskovicaTupelce
 nearby:
+- /biking/hrusevicapliskovica
 - /biking/hrusevicakosovelje
 - /biking/path9ponds
 - /biking/lukovecmalidol
 - /hikes/pedrovo
-- /hikes/trstelj_dornberk
 region: karst
 start: 45.770639,13.782370
 title: 'Exploring Karst: Pliskovica – Tupelče'

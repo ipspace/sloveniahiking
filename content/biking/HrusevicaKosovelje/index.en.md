@@ -23,9 +23,9 @@ name: HrusevicaKosovelje
 nearby:
 - /biking/pliskovicatupelce
 - /biking/path9ponds
+- /biking/hrusevicapliskovica
 - /biking/lukovecmalidol
 - /hikes/pedrovo
-- /hikes/trstelj_dornberk
 region: karst
 start: 45.810886,13.828548
 title: 'Exploring Karst: From Hruševica to Kosovelje'
