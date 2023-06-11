@@ -1,13 +1,14 @@
 ---
 date: 2023-02-19 08:42:05+00:00
-delta: '140'
+delta: 140
 description: Every self-respecting European city has a castle (or, at the very least,
   the castle ruins) on a nearby hill, and Vipava is no exception. Ascending to Vipava's
   Old Castle is a lovely family hike worth combining with phenomenal ice cream at
   Bar Marjanca.
 difficulty: Easy family-friendly hike
-duration: '1'
-height: '240'
+difflevel: 1
+duration: 1
+height: 240
 layout: structured
 lead: M_20230111_111635.jpg
 maplink: https://mapzs.pzs.si/poi/124532

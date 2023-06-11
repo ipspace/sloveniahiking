@@ -20,10 +20,10 @@ maplink: https://mapzs.pzs.si/poi/5599
 name: PlaninaGoricica
 nearby:
 - /hikes/planinakrnica
+- /hikes/kota1313
 - /hikes/golobar
 - /hikes/loskakoritnica
 - /hikes/krnskojezero
-- /hikes/tamar
 path: https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_goricica/1/416/8107
 peak: 46.353544,13.541699
 region: julian-alps

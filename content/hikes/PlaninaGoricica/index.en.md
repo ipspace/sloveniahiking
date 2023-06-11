@@ -21,10 +21,10 @@ maplink: https://mapzs.pzs.si/poi/5599
 name: PlaninaGoricica
 nearby:
 - /hikes/planinakrnica
+- /hikes/kota1313
 - /biking/javorscek
 - /hikes/golobar
 - /biking/drezniskeravne
-- /hikes/loskakoritnica
 peak: 46.353544,13.541699
 region: julian-alps
 start: 46.342565,13.516039

@@ -583,10 +583,10 @@
     "name": "PlaninaGoricica",
     "nearby": [
       "/hikes/planinakrnica",
+      "/hikes/kota1313",
       "/hikes/golobar",
       "/hikes/loskakoritnica",
-      "/hikes/krnskojezero",
-      "/hikes/tamar"
+      "/hikes/krnskojezero"
     ],
     "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_goricica/1/416/8107",
     "peak": "46.353544,13.541699",
@@ -2956,11 +2956,11 @@
     "maplink": "https://mapzs.pzs.si/path/32458",
     "name": "Golobar",
     "nearby": [
+      "/hikes/kota1313",
       "/hikes/krnskojezero",
       "/hikes/planinagoricica",
       "/hikes/planinakrnica",
-      "/hikes/loskakoritnica",
-      "/hikes/malamojstrovka"
+      "/hikes/loskakoritnica"
     ],
     "path": "https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675",
     "peak": "46.316692,13.614670",
@@ -3724,7 +3724,7 @@
       "/hikes/planinarazor",
       "/hikes/vogelvrh",
       "/hikes/vogel",
-      "/hikes/vodicnivrh"
+      "/hikes/kota1313"
     ],
     "path": "https://www.hribi.net/izlet/dom_v_lepeni_krnsko_jezero/1/163/291",
     "peak": "46.285342,13.685318",
@@ -4062,8 +4062,8 @@
       "/hikes/tamar",
       "/hikes/malamojstrovka",
       "/hikes/nadsitomglava",
-      "/hikes/planinagoricica",
-      "/hikes/golobar"
+      "/hikes/kota1313",
+      "/hikes/planinagoricica"
     ],
     "peak": "46.423072,13.658112",
     "region": "julian-alps",
@@ -5058,6 +5058,7 @@
       "sl": "Kucelj je najvi\u0161ji vrh v grebenu, ki severo-zahodno od Ajdov\u0161\u010dine s strmimi stenami lo\u010duje Vipavsko dolino od Trnovske planote."
     },
     "height": 1237,
+    "icon": "peak",
     "lead": "M_4-6459_IMG.JPG",
     "maplink": "https://mapzs.pzs.si/poi/5257",
     "name": "Kucelj",
@@ -6035,10 +6036,10 @@
     "name": "PlaninaKrnica",
     "nearby": [
       "/hikes/planinagoricica",
+      "/hikes/kota1313",
       "/hikes/golobar",
       "/hikes/loskakoritnica",
-      "/hikes/krnskojezero",
-      "/hikes/tamar"
+      "/hikes/krnskojezero"
     ],
     "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_krnica/1/421/8105",
     "peak": "46.352437,13.508516",
@@ -7142,14 +7143,57 @@
     }
   },
   {
+    "date": "2023-06-11 18:02:41+02:00",
+    "delta": 920,
+    "description": {
+      "en": "Kota 1313 (Peak 1313) is a First World War Austrian artillery observation point high above Koritnica Valley with a fantastic view of Bovec and surrounding mountains. The easiest way to get there is via the waymarked path to Rombon (starting at Klu\u017ee fortress); start in Bovec if you're looking for a less-crowded approach."
+    },
+    "difficulty": "Steep hike on old footpaths",
+    "difflevel": 3,
+    "duration": 5,
+    "gpx": {
+      "center": {
+        "lat": 46.355292144941544,
+        "lon": 13.5739248637836
+      },
+      "file": "Kota1313.gpx",
+      "modified": 1686500862,
+      "zoom": 14
+    },
+    "height": 1313,
+    "layout": "structured",
+    "lead": "M_20230611_105115.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/71959",
+    "name": "Kota1313",
+    "nearby": [
+      "/hikes/planinagoricica",
+      "/biking/javorscek",
+      "/hikes/planinakrnica",
+      "/hikes/golobar",
+      "/hikes/loskakoritnica"
+    ],
+    "peak": "46.360626,13.575193",
+    "region": "julian-alps",
+    "start": "46.338051,13.552414",
+    "timing": [
+      "Ascent: 2.5 hours",
+      "Descent: 2 hours",
+      "Total: 5 hours"
+    ],
+    "title": {
+      "en": "Kota 1313 (Veliki Rob)"
+    }
+  },
+  {
     "date": "2023-02-19 08:42:05+00:00",
-    "delta": "140",
+    "delta": 140,
     "description": {
       "en": "Every self-respecting European city has a castle (or, at the very least, the castle ruins) on a nearby hill, and Vipava is no exception. Ascending to Vipava's Old Castle is a lovely family hike worth combining with phenomenal ice cream at Bar Marjanca."
     },
     "difficulty": "Easy family-friendly hike",
-    "duration": "1",
-    "height": "240",
+    "difflevel": 1,
+    "duration": 1,
+    "height": 240,
     "layout": "structured",
     "lead": "M_20230111_111635.jpg",
     "maplink": "https://mapzs.pzs.si/poi/124532",
@@ -7217,6 +7261,7 @@
       "en": "Pomjan is a village on a hilltop high above the Slovenian coast -- an ideal destination for a family excursion or a wake-me-up morning hike starting at the outskirts of Koper."
     },
     "difficulty": "An easy hike on dirt trails and footpaths",
+    "difflevel": 2,
     "duration": 2.5,
     "gpx": {
       "center": {
@@ -7391,10 +7436,10 @@
     "name": "Javorscek",
     "nearby": [
       "/hikes/golobar",
+      "/hikes/kota1313",
       "/hikes/planinagoricica",
       "/biking/drezniskeravne",
-      "/hikes/planinakrnica",
-      "/biking/dreznica"
+      "/hikes/planinakrnica"
     ],
     "peak": "46.324251,13.584696",
     "region": "julian-alps",
@@ -8093,7 +8138,7 @@
       "/hikes/golobar",
       "/hikes/krnskojezero",
       "/biking/javorscek",
-      "/hikes/planinagoricica"
+      "/hikes/kota1313"
     ],
     "peak": "46.272901,13.614642",
     "region": "julian-alps",
@@ -8817,7 +8862,7 @@
       "/hikes/krnskojezero",
       "/hikes/golobar",
       "/biking/javorscek",
-      "/hikes/planinagoricica"
+      "/hikes/kota1313"
     ],
     "peak": "46.256846,13.614341",
     "region": "julian-alps",

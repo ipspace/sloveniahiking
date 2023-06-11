@@ -5,6 +5,7 @@ description: Pomjan is a village on a hilltop high above the Slovenian coast -- 
   ideal destination for a family excursion or a wake-me-up morning hike starting at
   the outskirts of Koper.
 difficulty: An easy hike on dirt trails and footpaths
+difflevel: 2
 duration: 2.5
 gpx:
   center:

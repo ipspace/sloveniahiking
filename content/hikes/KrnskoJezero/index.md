@@ -24,7 +24,7 @@ nearby:
 - /hikes/planinarazor
 - /hikes/vogelvrh
 - /hikes/vogel
-- /hikes/vodicnivrh
+- /hikes/kota1313
 path: https://www.hribi.net/izlet/dom_v_lepeni_krnsko_jezero/1/163/291
 peak: 46.285342,13.685318
 region: julian-alps
