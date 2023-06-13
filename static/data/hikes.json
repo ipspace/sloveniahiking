@@ -584,9 +584,9 @@
     "nearby": [
       "/hikes/planinakrnica",
       "/hikes/kota1313",
+      "/hikes/jablanca",
       "/hikes/golobar",
-      "/hikes/loskakoritnica",
-      "/hikes/krnskojezero"
+      "/hikes/loskakoritnica"
     ],
     "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_goricica/1/416/8107",
     "peak": "46.353544,13.541699",
@@ -2956,11 +2956,11 @@
     "maplink": "https://mapzs.pzs.si/path/32458",
     "name": "Golobar",
     "nearby": [
+      "/hikes/jablanca",
       "/hikes/kota1313",
       "/hikes/krnskojezero",
       "/hikes/planinagoricica",
-      "/hikes/planinakrnica",
-      "/hikes/loskakoritnica"
+      "/hikes/planinakrnica"
     ],
     "path": "https://www.hribi.net/izlet/jablenca_javorscek/1/1536/2675",
     "peak": "46.316692,13.614670",
@@ -3721,10 +3721,10 @@
     "name": "KrnskoJezero",
     "nearby": [
       "/hikes/golobar",
+      "/hikes/jablanca",
       "/hikes/planinarazor",
       "/hikes/vogelvrh",
-      "/hikes/vogel",
-      "/hikes/kota1313"
+      "/hikes/vogel"
     ],
     "path": "https://www.hribi.net/izlet/dom_v_lepeni_krnsko_jezero/1/163/291",
     "peak": "46.285342,13.685318",
@@ -4063,7 +4063,7 @@
       "/hikes/malamojstrovka",
       "/hikes/nadsitomglava",
       "/hikes/kota1313",
-      "/hikes/planinagoricica"
+      "/hikes/jablanca"
     ],
     "peak": "46.423072,13.658112",
     "region": "julian-alps",
@@ -6037,9 +6037,9 @@
     "nearby": [
       "/hikes/planinagoricica",
       "/hikes/kota1313",
+      "/hikes/jablanca",
       "/hikes/golobar",
-      "/hikes/loskakoritnica",
-      "/hikes/krnskojezero"
+      "/hikes/loskakoritnica"
     ],
     "path": "https://www.hribi.net/izlet/cesta_bovec_-_b_postaja_celo_planina_krnica/1/421/8105",
     "peak": "46.352437,13.508516",
@@ -7167,10 +7167,10 @@
     "name": "Kota1313",
     "nearby": [
       "/hikes/planinagoricica",
+      "/hikes/jablanca",
       "/biking/javorscek",
       "/hikes/planinakrnica",
-      "/hikes/golobar",
-      "/hikes/loskakoritnica"
+      "/hikes/golobar"
     ],
     "peak": "46.360626,13.575193",
     "region": "julian-alps",
@@ -7182,6 +7182,44 @@
     ],
     "title": {
       "en": "Kota 1313 (Veliki Rob)"
+    }
+  },
+  {
+    "date": "2023-06-13 07:12:08+02:00",
+    "delta": 400,
+    "description": {
+      "en": "We were staying in Bovec in the lovely House Natura and wanted to walk for a few hours, but we didn't dare to go high into the mountains due to unstable weather. Our solution: a hike along the many trails around Bovec."
+    },
+    "difficulty": "Easy hike on roads and footpaths",
+    "difflevel": 2,
+    "duration": 3,
+    "gpx": {
+      "center": {
+        "lat": 46.338110207774804,
+        "lon": 13.570414397091815
+      },
+      "file": "Jablanca.gpx",
+      "modified": 1686633394,
+      "zoom": 13
+    },
+    "height": 599,
+    "layout": "structured",
+    "lead": "M_20230610_102316.jpg",
+    "length": 14.2,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.33438&lon=13.56601&layers=B0000",
+    "name": "Jablanca",
+    "nearby": [
+      "/biking/javorscek",
+      "/hikes/golobar",
+      "/hikes/kota1313",
+      "/hikes/planinagoricica",
+      "/hikes/planinakrnica"
+    ],
+    "peak": "46.332280,13.588530",
+    "region": "julian-alps",
+    "start": "46.338051,13.552414",
+    "title": {
+      "en": "Around Bovec: \u010cezso\u010da, Jablanca, Koritnica"
     }
   },
   {
@@ -7435,11 +7473,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=46.32123&lon=13.56846&layers=B0000",
     "name": "Javorscek",
     "nearby": [
+      "/hikes/jablanca",
       "/hikes/golobar",
       "/hikes/kota1313",
       "/hikes/planinagoricica",
-      "/biking/drezniskeravne",
-      "/hikes/planinakrnica"
+      "/biking/drezniskeravne"
     ],
     "peak": "46.324251,13.584696",
     "region": "julian-alps",
@@ -8138,7 +8176,7 @@
       "/hikes/golobar",
       "/hikes/krnskojezero",
       "/biking/javorscek",
-      "/hikes/kota1313"
+      "/hikes/jablanca"
     ],
     "peak": "46.272901,13.614642",
     "region": "julian-alps",
@@ -8862,7 +8900,7 @@
       "/hikes/krnskojezero",
       "/hikes/golobar",
       "/biking/javorscek",
-      "/hikes/kota1313"
+      "/hikes/jablanca"
     ],
     "peak": "46.256846,13.614341",
     "region": "julian-alps",

@@ -24,7 +24,7 @@ nearby:
 - /hikes/krnskojezero
 - /hikes/golobar
 - /biking/javorscek
-- /hikes/kota1313
+- /hikes/jablanca
 peak: 46.256846,13.614341
 region: julian-alps
 start: 46.249479,13.587623

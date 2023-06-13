@@ -23,9 +23,9 @@ name: PlaninaKrnica
 nearby:
 - /hikes/planinagoricica
 - /hikes/kota1313
+- /hikes/jablanca
 - /biking/javorscek
 - /hikes/golobar
-- /biking/drezniskeravne
 peak: 46.352437, 13.508516
 region: julian-alps
 start: 46.342565,13.516039

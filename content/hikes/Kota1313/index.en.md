@@ -22,10 +22,10 @@ maplink: https://mapzs.pzs.si/poi/71959
 name: Kota1313
 nearby:
 - /hikes/planinagoricica
+- /hikes/jablanca
 - /biking/javorscek
 - /hikes/planinakrnica
 - /hikes/golobar
-- /hikes/loskakoritnica
 peak: 46.360626,13.575193
 region: julian-alps
 start: 46.338051,13.552414

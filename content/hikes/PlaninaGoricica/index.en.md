@@ -22,9 +22,9 @@ name: PlaninaGoricica
 nearby:
 - /hikes/planinakrnica
 - /hikes/kota1313
+- /hikes/jablanca
 - /biking/javorscek
 - /hikes/golobar
-- /biking/drezniskeravne
 peak: 46.353544,13.541699
 region: julian-alps
 start: 46.342565,13.516039

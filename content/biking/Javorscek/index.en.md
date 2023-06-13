@@ -23,11 +23,11 @@ length: 9
 maplink: https://www.opencyclemap.org/?zoom=15&lat=46.32123&lon=13.56846&layers=B0000
 name: Javorscek
 nearby:
+- /hikes/jablanca
 - /hikes/golobar
 - /hikes/kota1313
 - /hikes/planinagoricica
 - /biking/drezniskeravne
-- /hikes/planinakrnica
 peak: 46.324251,13.584696
 region: julian-alps
 start: 46.324310,13.553490

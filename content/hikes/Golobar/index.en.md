@@ -23,10 +23,10 @@ maplink: https://mapzs.pzs.si/path/32458
 name: Golobar
 nearby:
 - /biking/javorscek
+- /hikes/jablanca
 - /biking/drezniskeravne
 - /hikes/kota1313
 - /hikes/krnskojezero
-- /biking/dreznica
 peak: 46.316692,13.614670
 region: julian-alps
 start: 46.336070,13.582052
