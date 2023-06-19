@@ -341,9 +341,9 @@
     "nearby": [
       "/hikes/raduha",
       "/hikes/strelovec",
-      "/hikes/velikirogac",
-      "/hikes/klemencajama",
-      "/hikes/peca"
+      "/hikes/icmanikovaplanina",
+      "/hikes/plesnikovaplanina",
+      "/hikes/velikirogac"
     ],
     "peak": "46.409848,14.737603",
     "region": "kamnik-alps",
@@ -388,10 +388,10 @@
     "name": "Raduha",
     "nearby": [
       "/hikes/strelovec",
+      "/hikes/icmanikovaplanina",
+      "/hikes/plesnikovaplanina",
       "/hikes/klemencajama",
-      "/hikes/velikirogac",
-      "/hikes/peca",
-      "/hikes/konj"
+      "/hikes/velikirogac"
     ],
     "peak": "46.409848,14.737603",
     "region": "kamnik-alps",
@@ -1739,6 +1739,51 @@
     "title": {
       "sl": "Gozdnik in Kote\u010dnik",
       "en": "Gozdnik and Kote\u010dnik"
+    }
+  },
+  {
+    "date": "2023-06-19 18:18:36+00:00",
+    "delta": 560,
+    "description": {
+      "sl": "Plesnikova planina je redko obiskana planina na vzhodnih pobo\u010djih Logarske doline.",
+      "en": "Plesnikova Planina (Plesnik Alp) is a rarely-visited alp on the eastern slopes of Logarska Dolina (Logar Valley) with a lovely view of the surrounding mountains."
+    },
+    "difficulty": "Strm vzpon po zara\u0161\u010denih pe\u0161poteh in kolovozih",
+    "difflevel": 2,
+    "duration": 3,
+    "gpx": {
+      "center": {
+        "lat": 46.3939920614997,
+        "lon": 14.636954678631554
+      },
+      "file": "Plesnik.gpx",
+      "modified": 1687199490,
+      "zoom": 15
+    },
+    "height": 1319,
+    "layout": "stub",
+    "lead": "M_20230619_093035.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/1012",
+    "name": "PlesnikovaPlanina",
+    "nearby": [
+      "/hikes/icmanikovaplanina",
+      "/hikes/strelovec",
+      "/hikes/klemencajama",
+      "/hikes/okreselj",
+      "/hikes/kamniskosedlo"
+    ],
+    "path": "https://www.hribi.net/gora/plesnikova_planina/3/2660",
+    "peak": "46.391318,14.643648",
+    "region": "kamnik-alps",
+    "start": "46.394621,14.630071",
+    "timing": [
+      "Vzpon: 1 ura 30 minut",
+      "Spust: 1 ura",
+      "Skupaj: 3 ure"
+    ],
+    "title": {
+      "sl": "Plesnikova Planina",
+      "en": "Plesnikova Planina"
     }
   },
   {
@@ -4386,18 +4431,17 @@
     "maplink": "https://mapzs.pzs.si/poi/741",
     "name": "Strelovec",
     "nearby": [
+      "/hikes/icmanikovaplanina",
+      "/hikes/plesnikovaplanina",
       "/hikes/klemencajama",
       "/hikes/kamniskosedlo",
-      "/hikes/okreselj",
-      "/hikes/raduha",
-      "/hikes/konj"
+      "/hikes/okreselj"
     ],
     "peak": "46.394324,14.658004",
     "photo_author": "Mojca_Lustrek",
     "region": "kamnik-alps",
     "title": {
-      "sl": "Strelovec",
-      "en": "Strelovec"
+      "sl": "Strelovec"
     }
   },
   {
@@ -6455,11 +6499,11 @@
     "maplink": "https://mapzs.pzs.si/poi/34560",
     "name": "KlemencaJama",
     "nearby": [
+      "/hikes/plesnikovaplanina",
       "/hikes/strelovec",
+      "/hikes/icmanikovaplanina",
       "/hikes/kamniskosedlo",
-      "/hikes/okreselj",
-      "/hikes/konj",
-      "/hikes/jenkovaplanina"
+      "/hikes/okreselj"
     ],
     "peak": "46.377613,14.633806",
     "photo_author": "Mojca_Lustrek",
@@ -6939,10 +6983,10 @@
     "name": "Peca",
     "nearby": [
       "/hikes/raduha",
+      "/hikes/icmanikovaplanina",
       "/hikes/strelovec",
-      "/hikes/klemencajama",
-      "/hikes/okreselj",
-      "/hikes/kamniskosedlo"
+      "/hikes/plesnikovaplanina",
+      "/hikes/klemencajama"
     ],
     "peak": "46.500335,14.780003",
     "photo_author": "Mojca_Lustrek",
@@ -7199,7 +7243,7 @@
         "lon": 13.570414397091815
       },
       "file": "Jablanca.gpx",
-      "modified": 1686633394,
+      "modified": 1686636620,
       "zoom": 13
     },
     "height": 599,
