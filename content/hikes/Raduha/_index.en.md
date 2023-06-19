@@ -12,10 +12,10 @@ maplink: https://mapzs.pzs.si/poi/118
 name: Raduha
 nearby:
 - /hikes/strelovec
+- /hikes/icmanikovaplanina
+- /hikes/plesnikovaplanina
 - /hikes/klemencajama
 - /hikes/velikirogac
-- /hikes/peca
-- /hikes/konj
 peak: 46.409848,14.737603
 region: kamnik-alps
 title: Raduha

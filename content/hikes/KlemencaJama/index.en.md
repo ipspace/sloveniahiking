@@ -10,11 +10,11 @@ lead: M_X07090701.jpg
 maplink: https://mapzs.pzs.si/poi/34560
 name: KlemencaJama
 nearby:
+- /hikes/plesnikovaplanina
 - /hikes/strelovec
+- /hikes/icmanikovaplanina
 - /hikes/kamniskosedlo
 - /hikes/okreselj
-- /hikes/konj
-- /hikes/jenkovaplanina
 peak: 46.377613,14.633806
 photo_author: Mojca_Lustrek
 region: kamnik-alps
