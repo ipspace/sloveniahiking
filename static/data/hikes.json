@@ -2358,8 +2358,8 @@
       "/hikes/ceskakoca",
       "/hikes/vratca",
       "/hikes/kalskigreben",
-      "/hikes/okreselj",
-      "/hikes/jenkovaplanina"
+      "/hikes/jenkovaplanina",
+      "/hikes/okreselj"
     ],
     "peak": "46.357097,14.535416",
     "photo_author": "Mojca_Lustrek",
@@ -3789,7 +3789,8 @@
     "date": "2002-07-29 00:00:00+00:00",
     "delta": 400,
     "description": {
-      "sl": "Izlet iz Logarske doline na Okre\u0161elj je idealen za vse, ki bi radi brez prevelikih naporov okusili lepote slovenskih alp."
+      "sl": "Izlet iz Logarske doline na Okre\u0161elj je idealen za vse, ki bi radi brez prevelikih naporov okusili lepote slovenskih alp.",
+      "en": "Okre\u0161elj is a phenomenal amphitheater at the end of Logarska Dolina (Logar Valley), surrounded by steep northern walls of the majestic peaks belonging to the main ridge of Kamnik-Savinja Alps."
     },
     "difflevel": 2,
     "duration": 2,
@@ -4434,8 +4435,8 @@
       "/hikes/icmanikovaplanina",
       "/hikes/plesnikovaplanina",
       "/hikes/klemencajama",
-      "/hikes/kamniskosedlo",
-      "/hikes/okreselj"
+      "/hikes/okreselj",
+      "/hikes/kamniskosedlo"
     ],
     "peak": "46.394324,14.658004",
     "photo_author": "Mojca_Lustrek",

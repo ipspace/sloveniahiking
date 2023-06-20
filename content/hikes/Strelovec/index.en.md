@@ -21,8 +21,8 @@ nearby:
 - /hikes/icmanikovaplanina
 - /hikes/plesnikovaplanina
 - /hikes/klemencajama
-- /hikes/kamniskosedlo
 - /hikes/okreselj
+- /hikes/kamniskosedlo
 nosync: true
 peak: 46.394324,14.658004
 region: kamnik-alps

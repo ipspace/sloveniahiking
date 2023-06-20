@@ -13,8 +13,8 @@ nearby:
 - /hikes/icmanikovaplanina
 - /hikes/plesnikovaplanina
 - /hikes/klemencajama
-- /hikes/kamniskosedlo
 - /hikes/okreselj
+- /hikes/kamniskosedlo
 peak: 46.394324,14.658004
 photo_author: Mojca_Lustrek
 region: kamnik-alps

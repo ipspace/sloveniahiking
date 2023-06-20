@@ -18,8 +18,8 @@ nearby:
 - /hikes/ceskakoca
 - /hikes/vratca
 - /hikes/kalskigreben
-- /hikes/okreselj
 - /hikes/jenkovaplanina
+- /hikes/okreselj
 peak: 46.357097,14.535416
 photo_author: Mojca_Lustrek
 region: kamnik-alps
