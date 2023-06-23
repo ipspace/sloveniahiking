@@ -1,5 +1,5 @@
 ---
-date: 2023-06-23 00:00:00+00:00
+date: 2023-06-25 00:00:00+00:00
 delta: 1040
 description: Strelovec is a peak in the ridge east of Logarska Dolina (Logar Valley)
   with a magnificent 360-degree panorama of surrounding hills and mountains.
