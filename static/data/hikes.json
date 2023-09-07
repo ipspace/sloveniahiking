@@ -4424,7 +4424,8 @@
     "date": "2007-10-21 00:00:00+00:00",
     "delta": 1002,
     "description": {
-      "sl": "Str\u00e9lovec  je zadnji pomembnej\u0161i vrh v grebenu Ojstrica\u2013Krofi\u010dka\u2013Robanov kot."
+      "sl": "Str\u00e9lovec  je zadnji pomembnej\u0161i vrh v grebenu Ojstrica\u2013Krofi\u010dka\u2013Robanov kot.",
+      "en": "Strelovec is a peak in the ridge east of Logarska Dolina (Logar Valley) with a magnificent 360-degree panorama of surrounding hills and mountains."
     },
     "difflevel": 4,
     "duration": 6,
@@ -4442,7 +4443,8 @@
     "photo_author": "Mojca_Lustrek",
     "region": "kamnik-alps",
     "title": {
-      "sl": "Strelovec"
+      "sl": "Strelovec",
+      "en": "Strelovec"
     }
   },
   {
@@ -7202,7 +7204,7 @@
         "lon": 13.5739248637836
       },
       "file": "Kota1313.gpx",
-      "modified": 1686500862,
+      "modified": 1686500843,
       "zoom": 14
     },
     "height": 1313,
@@ -8078,9 +8080,9 @@
     "nearby": [
       "/biking/oblakovvrh",
       "/biking/sebrelje",
+      "/biking/idrijskekrnice",
       "/hikes/sebrelje",
-      "/hikes/skrbinakuk",
-      "/biking/sentviskagora"
+      "/hikes/skrbinakuk"
     ],
     "peak": "46.063586,13.910503",
     "region": "primorska",
@@ -8110,8 +8112,8 @@
       "/biking/lokvarskivrh",
       "/biking/sebrelje",
       "/hikes/skrbinakuk",
-      "/biking/sentviskagora",
-      "/hikes/sebrelje"
+      "/biking/idrijskekrnice",
+      "/biking/sentviskagora"
     ],
     "peak": "46.061757,13.890988",
     "region": "primorska",
@@ -8649,9 +8651,9 @@
     "nearby": [
       "/hikes/hleviskeplanine",
       "/hikes/maligolak",
+      "/biking/idrijskekrnice",
       "/biking/lokvarskivrh",
-      "/biking/oblakovvrh",
-      "/hikes/orlovca"
+      "/biking/oblakovvrh"
     ],
     "region": "primorska",
     "start": "45.981987,13.973719",
@@ -8693,6 +8695,37 @@
     "video": "https://www.relive.cc/view/vXOdYdjk8k6/",
     "type": "biking",
     "center": "45.515351,13.942053"
+  },
+  {
+    "date": "2023-09-07 15:29:51+00:00",
+    "delta": 810,
+    "description": {
+      "en": "Idrijske Krnice is a sparsely-populated hamlet on a high-lying plateau between the Idrijca and Kanomlja valleys. Getting there is tough, but the views are well worth the effort."
+    },
+    "difficulty": "Obnoxiously steep asphalt road",
+    "difflevel": 3,
+    "duration": 3,
+    "height": 1020,
+    "layout": "structured",
+    "lead": "M_20230906_115759.jpg",
+    "length": 19,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.04059&lon=13.99838&layers=B0000",
+    "name": "IdrijskeKrnice",
+    "nearby": [
+      "/biking/lokvarskivrh",
+      "/biking/oblakovvrh",
+      "/biking/sebrelje",
+      "/hikes/bevkovvrh",
+      "/biking/vojsko"
+    ],
+    "peak": "46.050632,13.952970",
+    "region": "primorska",
+    "start": "46.034308,14.015423",
+    "title": {
+      "en": "Idrijske Krnice"
+    },
+    "type": "biking",
+    "center": "46.042378,13.984322"
   },
   {
     "date": "2021-04-20 16:47:28+00:00",

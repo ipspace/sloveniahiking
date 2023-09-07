@@ -28,8 +28,8 @@ nearby:
 - /biking/lokvarskivrh
 - /biking/sebrelje
 - /hikes/skrbinakuk
+- /biking/idrijskekrnice
 - /biking/sentviskagora
-- /hikes/sebrelje
 peak: 46.061757,13.890988
 region: primorska
 start: 46.094144,13.838676

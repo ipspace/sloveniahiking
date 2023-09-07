@@ -25,9 +25,9 @@ name: LokvarskiVrh
 nearby:
 - /biking/oblakovvrh
 - /biking/sebrelje
+- /biking/idrijskekrnice
 - /hikes/sebrelje
 - /hikes/skrbinakuk
-- /biking/sentviskagora
 peak: 46.063586,13.910503
 region: primorska
 start: 46.119036,13.805734

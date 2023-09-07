@@ -18,10 +18,10 @@ maplink: https://mapzs.pzs.si/poi/1205
 name: BevkovVrh
 nearby:
 - /hikes/ermanovec
+- /biking/idrijskekrnice
 - /hikes/mrzlivrh_ziri
 - /biking/trebijaermanovec
 - /biking/sebrelje
-- /biking/mrzlivrhziri
 peak: 46.086057,14.004225
 region: gorenjska
 start: 46.084986,14.038951

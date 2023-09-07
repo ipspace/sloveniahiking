@@ -1291,6 +1291,7 @@ dl dt {
 .post .important,
 .post .note,
 .post .info,
+.post .free,
 .post .warn,
 .post .stop,
 .post .more,
@@ -1303,6 +1304,7 @@ dl dt {
     .post .important,
     .post .note,
     .post .info,
+    .post .free,
     .post .warn,
     .post .stop,
     .post .more,
@@ -1312,6 +1314,7 @@ dl dt {
   .post .important::before,
   .post .note::before,
   .post .info::before,
+  .post .free::before,
   .post .warn::before,
   .post .stop::before,
   .post .more::before,
@@ -1328,6 +1331,7 @@ dl dt {
       .post .important::before,
       .post .note::before,
       .post .info::before,
+      .post .free::before,
       .post .warn::before,
       .post .stop::before,
       .post .more::before,
@@ -1336,6 +1340,7 @@ dl dt {
   .post .important::after,
   .post .note::after,
   .post .info::after,
+  .post .free::after,
   .post .warn::after,
   .post .stop::after,
   .post .more::after,
@@ -1352,6 +1357,7 @@ dl dt {
       .post .important::after,
       .post .note::after,
       .post .info::after,
+      .post .free::after,
       .post .warn::after,
       .post .stop::after,
       .post .more::after,
@@ -1362,6 +1368,7 @@ dl dt {
   .post .important *:first-child,
   .post .note *:first-child,
   .post .info *:first-child,
+  .post .free *:first-child,
   .post .warn *:first-child,
   .post .stop *:first-child,
   .post .more *:first-child,
@@ -1370,6 +1377,7 @@ dl dt {
   .post .important *:last-child,
   .post .note *:last-child,
   .post .info *:last-child,
+  .post .free *:last-child,
   .post .warn *:last-child,
   .post .stop *:last-child,
   .post .more *:last-child,
@@ -1385,6 +1393,9 @@ dl dt {
 .post .info::after {
   background: url("../images/icon_info_white.svg") no-repeat center; }
 
+.post .free::after {
+  background: url("../images/icon_info_white.svg") no-repeat center; }
+
 .post .warn::after {
   background: url("../images/icon_warn_white.svg") no-repeat center; }
 
@@ -1393,6 +1404,9 @@ dl dt {
 
 .post .more::after {
   background: url("../images/icon_info_white.svg") no-repeat center; }
+
+.post .free {
+  display: none; }
 
 .post .content-tab .important,
 .post .content-tab .note,
