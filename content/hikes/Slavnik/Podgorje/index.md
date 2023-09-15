@@ -68,7 +68,7 @@ Na Slavnik se bomo odpravili iz Podgorja, 8 kilometrov oddaljenega od ceste Ljub
 
 V Podgorje najlaže pridete tako, da primorsko avtocesto zapustite na odcepu Kastelec (takoj za predorom, če prihajate iz smeri Ljubljane) in nato sledite znakom za Podgorje.
 
-Tik pred začetkom vasi boste prečkali železnico (ob železniški postaji), kmalu nato pa vas bo kažipot za parkirišče usmeril desno na lepo urejeno turistično parkirišče, kjer vas čaka tudi zemljevid okolice z označenimi potmi na Slavnik in [Kojnik](../kojnik).
+Tik pred začetkom vasi boste prečkali železnico (ob železniški postaji), kmalu nato pa vas bo kažipot za parkirišče usmeril desno na lepo urejeno turistično parkirišče, kjer vas čaka tudi zemljevid okolice z označenimi potmi na Slavnik in [Kojnik](../../kojnik).
 
 Že na tem zemljevidu boste opazili, da vodita na Slavnik iz Podgorja dve poti, kar nam omogoča, da si izlet malce popestrimo -- na Slavnik se bomo odpravili po lažji poti, vrnili pa se bomo po strmi.
 

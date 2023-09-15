@@ -72,7 +72,7 @@ Asfaltna cesta vas najprej popelje med hišami, nato pa se spremeni v makadam, k
 
 {{<figure src="M_6_2686.JPG" caption="Dolina Podkovščice">}}
 
-Po krajšem vzponu sledi oster desni ovinek, nato pa vas po dobrih 100 metrih markacije usmerijo v levo na ozko stezico, ki se po nekaj minutah izteče na razcepu makadamskih cest. Tudi tu ni markacije (zanimivo -- pot nazaj je dobro označena). Nadaljujte kar naravnost po makadamski cesti, ki vas čez razgledne travnike pripelje do kmetije (Erženovše) onkraj njih. Med zložnim vzponom ne pozabite uživati v razgledih -- za vami se dvigujeta [Črni vrh](../crnivrhcerkno) in [Blegoš](../blegos), levo (skorajda skrit za okoliškimi hribi) je [Porezen](../porezen), v ozadju pa boste v lepem vremenu opazili vrhove Spodnjih Bohinjskih gora.
+Po krajšem vzponu sledi oster desni ovinek, nato pa vas po dobrih 100 metrih markacije usmerijo v levo na ozko stezico, ki se po nekaj minutah izteče na razcepu makadamskih cest. Tudi tu ni markacije (zanimivo -- pot nazaj je dobro označena). Nadaljujte kar naravnost po makadamski cesti, ki vas čez razgledne travnike pripelje do kmetije (Erženovše) onkraj njih. Med zložnim vzponom ne pozabite uživati v razgledih -- za vami se dvigujeta [Črni vrh](../../crnivrhcerkno) in [Blegoš](../../blegos), levo (skorajda skrit za okoliškimi hribi) je [Porezen](../../porezen), v ozadju pa boste v lepem vremenu opazili vrhove Spodnjih Bohinjskih gora.
 
 {{<gallery>}}
 {{<figure src="M_6_2688.JPG">}}

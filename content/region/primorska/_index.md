@@ -11,4 +11,4 @@ Nekateri izleti po primorskih hribovjih in planotah so zbrani na tej strani, mno
 * [Vipavska dolina](../vipavska-dolina)
 * [Kras](../kras)
 * [Istra](../slovenska-istra)
-* [Julijske Alpe](../julian-alps)
+* [Julijske Alpe](../julijske-alpe)

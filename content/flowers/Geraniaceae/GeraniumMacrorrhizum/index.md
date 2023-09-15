@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Korenikasta krvomočnica
 ---
-Korenikasta krvomočnica uspeva na senčnih skalnatih pobočjih v Julijskih Alpah in Trnovskem gozdu (fotografija je izpod [Dolskega maja](../../Izleti/)). Od drugih krvomočnic boste korenikasto najhitreje ločili po dolgopecljatih pritličnih listih, seveda pa preverite še te znake:
+Korenikasta krvomočnica uspeva na senčnih skalnatih pobočjih v Julijskih Alpah in Trnovskem gozdu (fotografija je izpod Dolskega maja). Od drugih krvomočnic boste korenikasto najhitreje ločili po dolgopecljatih pritličnih listih, seveda pa preverite še te znake:
 
 -   Cvetovi so karminastordeči (na fotografiji so malce bledi).
 -   Venčni listi so daljši od 1 cm in precej daljši od čašnih.

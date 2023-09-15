@@ -86,7 +86,7 @@ Od tod je do vrha le še kakšnih 10 minut hoje, ki jo bodo popestrile gozdne ro
 sv. Lovrenc
 -----------
 
-Vrh sv. Lovrenca je skorajda neugleden -- na vrhu nas čaka le markirni kamen s pečatom -- je pa zato razgled toliko lepši, saj se pred vašimi očmi odpre celotna Postojnska kotlina z okoliškimi hribi, na levi strani pa vidite tudi sosednje vrhove -- Špilnik (1018m) in v ozadju [Petričev hrib](../oblenk) (932m).
+Vrh sv. Lovrenca je skorajda neugleden -- na vrhu nas čaka le markirni kamen s pečatom -- je pa zato razgled toliko lepši, saj se pred vašimi očmi odpre celotna Postojnska kotlina z okoliškimi hribi, na levi strani pa vidite tudi sosednje vrhove -- Špilnik (1018m) in v ozadju [Petričev hrib](../../oblenk) (932m).
 
 {{<figure src="M_1-3126_IMG.JPG" caption="Špilnik in Petričev hrib">}}
 

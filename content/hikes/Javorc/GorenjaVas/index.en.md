@@ -10,7 +10,7 @@ image:
 - track.jpg
 layout: stub
 lead: M_6-4626_IMG.JPG
-map: 1
+map: C
 maplink: https://mapzs.projekti.si/poi/1368
 multilead: M_6-4626_IMG.JPG
 multipath: true

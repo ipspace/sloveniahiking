@@ -1,9 +1,8 @@
 ---
 date: 2021-04-29 14:17:00+00:00
 delta: 230
-description: The hike to [Planina](../) (Špica) from Kuren is an ideal weekend family
-  hike. If you're looking for something longer, start in [Vrhnika](../kv) or at [Star
-  Maln](../sm).
+description: |
+  The hike to Planina above Vrhnika (Špica) from Kuren is an ideal weekend family hike.
 difficulty: Easy hike on a wide footpath – ideal for a short family trip
 difflevel: 1
 duration: 1.5
@@ -36,7 +35,9 @@ start: 45.979466,14.265043
 title: Planina from Kuren
 video: https://www.relive.cc/view/vRO7nBV1zyv/
 ---
-{{<hike-details description="yes">}}
+The hike to [Planina](../) (Špica) from Kuren is an ideal weekend family hike. If you're looking for something longer, start in [Vrhnika](../kv) or at [Star Maln](../sm).
+  
+{{<hike-details>}}
 
 ## In a Nutshell
 

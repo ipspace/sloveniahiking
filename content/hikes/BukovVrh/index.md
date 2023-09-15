@@ -7,7 +7,7 @@ difflevel: 3
 duration: 4.5
 height: 832
 lead: M_5-4588_IMG.JPG
-map: 1
+map: C
 maplink: https://mapzs.pzs.si/poi/3860
 name: BukovVrh
 nearby:

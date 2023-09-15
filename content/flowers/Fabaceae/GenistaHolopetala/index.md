@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Primorska košeničica
 ---
-Primorska košeničica je ena redkih [košeničic](..), ki nima celih listov (v Sloveniji je takšna le še [žarkasta košeničica](../GenistaRadiata(ZarkastaKosenicica))). Kadar jo boste junija srečali na sončnih južnih pobočjih [Male gore](../../Izleti) in [Čavna](../../Izleti), jo boste verjetno prepoznali že na pogled, seveda pa lahko preverite še znake, ki jo ločijo od drugih metuljnic:
+Primorska košeničica je ena redkih [košeničic](..), ki nima celih listov (v Sloveniji je takšna le še [žarkasta košeničica](../genistaradiata)). Kadar jo boste junija srečali na sončnih južnih pobočjih [Male gore](/hikes/malagora) in [Čavna](/hikes/caven), jo boste verjetno prepoznali že na pogled, seveda pa lahko preverite še znake, ki jo ločijo od drugih metuljnic:
 
 -   Listi so nasprotni in brez prilistov. So dlanasto deljeni v tri ozke majhne celorobe lističe.
 -   Niti vseh desetih prašnikov so zrasle v cev (brez lupe tega seveda ne boste opazili).

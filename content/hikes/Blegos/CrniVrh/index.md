@@ -32,7 +32,7 @@ Od [Črnega vrha nad Cerknim](../../crnivrhcerkno) do [Blegoša](../) vodi prije
 :   Markirana, le tu in tam nekoliko bolj strma pot.
 
 **Dostop**
-:   Grebenska pot na Blegoš pelje s [Črnega vrha nad Cerknim](../crnivrhcerkno).
+:   Grebenska pot na Blegoš pelje s [Črnega vrha nad Cerknim](../../crnivrhcerkno).
 
 **Dolžina**
 :   Parkirišče pod smučiščem--Blegoš: 2 uri 45 minut\
@@ -57,7 +57,7 @@ Od [Črnega vrha nad Cerknim](../../crnivrhcerkno) do [Blegoša](../) vodi prije
 Kratek opis poti
 ----------------
 
-Po smučišču se povzpnete do grebena Črnega vrha ([glej opis poti](../crnivrhcerkno)), nato pa sledite markacijam proti vzhodu mimo gornje postaje sedežnice Lom in vodnega zbiralnika. Za njim se steza spusti po travniku ob robu gozda, kmalu pa vas markacije usmerijo v gozd. Po kratkem strmem spustu prečkate gozdno cesto, nato makadam, za njim pa se začnete po kolovozu čez travnik vzpenjati proti naslednjemu vrhu.
+Po smučišču se povzpnete do grebena Črnega vrha ([glej opis poti](../../crnivrhcerkno)), nato pa sledite markacijam proti vzhodu mimo gornje postaje sedežnice Lom in vodnega zbiralnika. Za njim se steza spusti po travniku ob robu gozda, kmalu pa vas markacije usmerijo v gozd. Po kratkem strmem spustu prečkate gozdno cesto, nato makadam, za njim pa se začnete po kolovozu čez travnik vzpenjati proti naslednjemu vrhu.
 
 Vedno ožja steza se nato dviguje po redkem smrekovem gozdu, kjer boste v poznem poletju nedvomno uživali v pravih preprogah borovnic. Po prvih vzponih postane pot precej ravna, po krajši uživaški hoji po grebenu Smoletovš pa se začne vedno hitreje spuščati, dokler vas končno nesramno strm spust ne pripelje do sedla (Slugov grič), čez katero je speljana makadamska cesta iz Gorenjih Novakov v Selško dolino.
 

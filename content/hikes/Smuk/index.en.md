@@ -7,7 +7,6 @@ duration: 1.5
 height: 547
 layout: stub
 lead: M_007011903.jpg
-map: 1
 maplink: https://mapzs.pzs.si/poi/4162
 name: Smuk
 nearby:

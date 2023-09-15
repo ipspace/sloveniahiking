@@ -17,7 +17,7 @@ petals_joined: false
 star_shape: false
 title: Avstrijski gadnjak
 ---
-Če ste že kdaj videli gadnjak (na primer [rožnati gadnjak](../ScorzoneraRosea(RoznatiGadnjak)) na [Kojci](../../Izleti) ali [Poreznu](../../Izleti)), boste ob pogledu na ovojek avstrijskega gadnjaka (v aprilu in maju ga boste opazili na suhih travnikih) takoj rekli: \"Tole mora biti gadnjak,\" seveda pa lahko preverite še te znake:
+Če ste že kdaj videli gadnjak (na primer [rožnati gadnjak](../scorzonerarosea) na [Kojci](/hikes/kojca) ali [Poreznu](/hikes/porezen)), boste ob pogledu na ovojek avstrijskega gadnjaka (v aprilu in maju ga boste opazili na suhih travnikih) takoj rekli: \"Tole mora biti gadnjak,\" seveda pa lahko preverite še te znake:
 
 -   V košku so le jezičasti cvetovi, kar ga uvršča med radičevke.
 -   Dno koška ni pokrito z luskami ali ščetinicami.

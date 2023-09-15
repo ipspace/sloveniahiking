@@ -72,4 +72,4 @@ Ozka stezica vas popelje po vzhodnem robu školja do cerkvice sv. Pavla, za kate
 
 Pot se zlagoma vzpenja skozi gozd in vas kmalu pripelje do makadamske ceste, ki jo prečkate. Sledi nekoliko bolj strm vzpon, ki kmalu doseže razgledne travnike nad Zasodom. V naslednjem gozdu vas spet čaka razcep poti; leva vodi v Revišče (kje je to, mi ni uspelo ugotoviti, steza v tisti smeri pa se tudi hitro izgubi v podrasti), desna pa proti Kuclju. Že v nekaj minutah vas stezica pripelje do markirane poti, ki pelje na Kucelj iz Vrtovina; po njej se povzpnete do vrha.
 
-V dolino se lahko spustite po poti v Vrtovin, lahko pa se odpravite še do [Male gore](../malagora) in z nje po kolovozu nazaj v Vrtovin (markirano in dobro označeno).
+V dolino se lahko spustite po poti v Vrtovin, lahko pa se odpravite še do [Male gore](../../malagora) in z nje po kolovozu nazaj v Vrtovin (markirano in dobro označeno).

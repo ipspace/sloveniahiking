@@ -49,7 +49,7 @@ video: https://www.relive.cc/view/vNOPrjpEy2q/
 * After reaching another asphalt road, turn right and descend toward Hotedrščica. You might want to stop at that junction, chain the bike to a fence, and walk to the church of St. Barbara.
 * After reaching the main road Logatec-Idrija in Hotedrščica, turn right toward Žejna Dolina just before the Turk inn.
 * The road turns back into a gravel road after the last houses in Hotedrščica. Follow it to Rovtarske Žibrše.
-* In Rovtarske Žibrše, turn left if you feel like having a pizza (or lunch) in [Tavžentroža](zaplanatavzentroza), or right if you're in a hurry to get back.
+* In Rovtarske Žibrše, turn left if you feel like having a pizza (or lunch) in [Tavžentroža](../zaplanatavzentroza), or right if you're in a hurry to get back.
 
 ### Rare Wildflowers
 

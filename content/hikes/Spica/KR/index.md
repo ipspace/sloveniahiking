@@ -72,7 +72,7 @@ Do Kurena lahko pridete po markirani poti iz Stare Vrhnike (glej [Kuren nad Vrhn
 
 Pred gostiščem boste opazili manjši kozolček z zemljevidom okolice. Odpravite se po makadamski poti desno mimo kozolčka. Pot vas mimo manjše kmetije pripelje do markirane poti iz Stare Vrhnike. Zavijete desno in nadaljujete z vzponom po gozdu. V začetku strma pot se čez nekaj časa popolnoma zravna, na začetku naslednjega vzpona pa se razcepi, markacije pa brez razlage kažejo v obe smeri. Brez preplaha - leva pot vodi naravnost proti cilju, desna pot pa mimo makadamske ceste, čez dobrih 100 metrov pa se poti spet združita.
 
-Na tem mestu lahko zapustite planinsko pot in se po makadamski cesti odpravite proti [Ulovki](../../ulovka), planinska pot pa vas bo po krajšem vzponu pripeljala do druge makadamske ceste, po kateri se lahko na Planino pripeljete tudi z avtomobilom. Od planinske koče vas loči le še nekaj sto metrov hoje.
+Na tem mestu lahko zapustite planinsko pot in se po makadamski cesti odpravite proti Ulovki, planinska pot pa vas bo po krajšem vzponu pripeljala do druge makadamske ceste, po kateri se lahko na Planino pripeljete tudi z avtomobilom. Od planinske koče vas loči le še nekaj sto metrov hoje.
 
 {{<gallery>}}
 {{<figure src="M_0-3042_IMG.JPG" caption="Odcep na cesto proti Ulovki">}}

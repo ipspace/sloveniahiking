@@ -46,4 +46,4 @@ video: https://www.relive.cc/view/vDqg7Zr83Gq/
 ## Alternatives
 
 * You could start in Žiri and bike through Ledinsko Razpotje, Gore, and Dole.
-* Instead of returning to Sopovt, continue toward [Vrh Svetih Treh Kraljev](../../hiking/vs3k/) (another steep ascent) and reach Sopovt via Hleviše.
+* Instead of returning to Sopovt, continue toward [Vrh Svetih Treh Kraljev](../../hikes/vs3k/) (another steep ascent) and reach Sopovt via Hleviše.

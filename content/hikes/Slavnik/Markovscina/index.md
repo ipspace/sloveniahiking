@@ -9,7 +9,7 @@ difflevel: 3
 duration: 5
 height: 1028
 lead: M_9-4934_IMG.JPG
-map: 1
+map: C
 maplink: https://mapzs.projekti.si/poi/1235
 multilead: M_9-4934_IMG.JPG
 multipath: true

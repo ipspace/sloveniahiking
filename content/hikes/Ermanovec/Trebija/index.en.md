@@ -22,7 +22,7 @@ image:
 - Altitude.jpg
 layout: stub
 lead: M_4-4438_IMG.JPG
-map: 1
+map: C
 maplink: https://mapzs.projekti.si/poi/1226
 multilead: M_4-4438_IMG.JPG
 multipath: true

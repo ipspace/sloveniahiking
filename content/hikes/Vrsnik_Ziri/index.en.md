@@ -6,7 +6,6 @@ duration: 2
 height: 743
 layout: stub
 lead: M_6-4646_IMG.JPG
-map: 1
 maplink: https://mapzs.pzs.si/path/31730
 name: Vrsnik_Ziri
 nearby:
