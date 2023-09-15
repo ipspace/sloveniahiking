@@ -2,10 +2,10 @@
 <table class='fmtTable' id='sortTable'>
   <thead>
     <tr>
-      <th>Izlet</th>
-      <th class='right'>Nadmorska<br />višina</th>
-      <th class='right'>Trajanje</th>
-      <th class='right'>Višinska<br />razlika</th>
+      <th>{{ i18n "hike" }}</th>
+      <th class='right'>{{ replace (i18n "hikeAltitude") " " "<br>" | safeHTML }}</th>
+      <th class='right'>{{ replace (i18n "hikeDuration") " " "<br>" | safeHTML }}</th>
+      <th class='right'>{{ replace (i18n "hikeDelta") " " "<br>" | safeHTML }}</th>
     </tr>
   </thead>
   <tbody>
