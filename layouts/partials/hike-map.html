@@ -4,9 +4,11 @@
   <h3>{{ i18n "mapRoute"}}</h3>
   <div style="position: relative;">
     <img src="{{ with .Params.map_path }}{{.}}{{ end }}mapgps.jpg">
+    {{ if ne .Params.map "C" }}
     <span id="path" style="position: absolute; left: 0; top: 0; margin:0">
       <img src="{{ with .Params.map_path }}{{.}}{{ end }}path_1.gif">
     </span>
+    {{ end }}
   </div>
   <p class='note'>{{ i18n "mapGPSTrack" }}</p>
   {{ if or .Params.alt (in .Params.image "alt.gif") }}
