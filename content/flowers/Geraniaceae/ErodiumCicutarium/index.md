@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2004-04-11T00:00:00'
-f_end: '7'
-f_start: '3'
+date: 2004-04-11 00:00:00+00:00
+f_end: 7
+f_start: 3
 family: Geraniaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Erodium
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadni čapljevec

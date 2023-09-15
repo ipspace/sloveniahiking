@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2003-03-02T00:00:00'
-f_end: '8'
-f_start: '6'
+date: 2003-03-02 00:00:00+00:00
+f_end: 8
+f_start: 6
 family: Ranunculaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Clematis
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Ground Clematis

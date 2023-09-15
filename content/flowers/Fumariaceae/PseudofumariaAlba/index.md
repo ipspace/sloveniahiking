@@ -1,8 +1,8 @@
 ---
 color: WY
 date: 2005-04-17 00:00:00+00:00
-f_end: '7'
-f_start: '4'
+f_end: 7
+f_start: 4
 family: Fumariaceae
 flower_type: B
 image:

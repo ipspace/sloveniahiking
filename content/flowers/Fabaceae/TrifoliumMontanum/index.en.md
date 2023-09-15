@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2007-02-11T00:00:00'
-f_end: '8'
-f_start: '5'
+date: 2007-02-11 00:00:00+00:00
+f_end: 8
+f_start: 5
 family: Fabaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Trifolium
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Mountain Clover

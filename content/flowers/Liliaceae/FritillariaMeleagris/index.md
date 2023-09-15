@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2004-04-25T00:00:00'
-f_end: '4'
-f_start: '3'
+date: 2004-04-25 00:00:00+00:00
+f_end: 4
+f_start: 3
 family: Liliaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Fritillaria
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Močvirski tulipan

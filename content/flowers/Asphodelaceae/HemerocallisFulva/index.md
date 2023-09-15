@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2006-07-16 00:00:00+00:00
-f_end: '8'
-f_start: '7'
+f_end: 8
+f_start: 7
 family: Asphodelaceae
 flower_type: B
 image:
@@ -12,7 +12,7 @@ lead: M_G_3135.JPG
 lead_sample: false
 order: Hemerocallis
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Rumenorjava maslenica

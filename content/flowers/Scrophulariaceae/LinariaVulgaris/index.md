@@ -1,7 +1,7 @@
 ---
 color: Y
-f_end: '9'
-f_start: '6'
+f_end: 9
+f_start: 6
 family: Scrophulariaceae
 flower_type: C
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index
 order: Linaria
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadna madronščica

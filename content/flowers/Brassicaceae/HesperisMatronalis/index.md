@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2007-01-14 00:00:00+00:00
-f_end: '7'
-f_start: '6'
+f_end: 7
+f_start: 6
 family: Brassicaceae
 flower_type: C
 image:
@@ -12,7 +12,7 @@ lead: M_2-5249_IMG.JPG
 lead_sample: false
 order: Hesperis
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Vrtna nočnica

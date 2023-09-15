@@ -1,8 +1,8 @@
 ---
 color: WR
-date: '2004-02-08T00:00:00'
-f_end: '6'
-f_start: '5'
+date: 2004-02-08 00:00:00+00:00
+f_end: 6
+f_start: 5
 family: Rutaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Dictamnus
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadni jesenček

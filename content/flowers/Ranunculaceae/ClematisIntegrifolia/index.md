@@ -2,8 +2,8 @@
 author: Florijan Poljšak
 color: B
 date: 2007-06-10 00:00:00+00:00
-f_end: '8'
-f_start: '6'
+f_end: 8
+f_start: 6
 family: Ranunculaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead: M_007060402.jpg
 lead_sample: false
 order: Clematis
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Celolistni srobot

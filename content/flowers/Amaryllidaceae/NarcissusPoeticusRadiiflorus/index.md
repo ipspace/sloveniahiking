@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2003-06-01 00:00:00+00:00
-f_end: '5'
-f_start: '4'
+f_end: 5
+f_start: 4
 family: Amaryllidaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_4-5423_IMG.JPG
 lead_sample: false
 order: Narcissus
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Gorska narcisa

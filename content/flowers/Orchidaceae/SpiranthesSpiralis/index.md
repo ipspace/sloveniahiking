@@ -2,8 +2,8 @@
 author: Florijan Poljšak
 color: W
 date: 2007-11-04 00:00:00+00:00
-f_end: '9'
-f_start: '7'
+f_end: 9
+f_start: 7
 family: Orchidaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead: M_3001.jpg
 lead_sample: false
 order: Spiranthes
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Zavita škrbica

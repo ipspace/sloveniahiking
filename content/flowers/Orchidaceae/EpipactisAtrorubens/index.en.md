@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2003-01-17T00:00:00'
-f_end: '8'
-f_start: '6'
+date: 2003-01-17 00:00:00+00:00
+f_end: 8
+f_start: 6
 family: Orchidaceae
 flower_type: B
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index.en
 order: Epipactis
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Dark-red Helleborine

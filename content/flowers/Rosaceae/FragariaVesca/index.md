@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2005-03-20 00:00:00+00:00
-f_end: '6'
-f_start: '5'
+f_end: 6
+f_start: 5
 family: Rosaceae
 flower_type: C
 image:
@@ -12,7 +12,7 @@ lead: M_3_1348.JPG
 lead_sample: false
 order: Fragaria
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadni jagodnjak

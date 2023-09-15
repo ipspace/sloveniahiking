@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2003-02-02T00:00:00'
-f_end: '5'
-f_start: '2'
+date: 2003-02-02 00:00:00+00:00
+f_end: 5
+f_start: 2
 family: Primulaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Primula
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Primrose

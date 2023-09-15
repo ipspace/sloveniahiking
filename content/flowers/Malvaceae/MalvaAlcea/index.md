@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2005-10-09 00:00:00+00:00
-f_end: '9'
-f_start: '7'
+f_end: 9
+f_start: 7
 family: Malvaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_2-6223_img.jpg
 lead_sample: false
 order: Malva
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Ostrolistni slezenovec

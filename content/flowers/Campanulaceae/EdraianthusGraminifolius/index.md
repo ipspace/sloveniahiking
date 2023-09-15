@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2002-11-18T00:00:00'
-f_end: '8'
-f_start: '6'
+date: 2002-11-18 00:00:00+00:00
+f_end: 8
+f_start: 6
 family: Campanulaceae
 flower_type: C
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index
 order: Edraianthus
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Travnolistna vrčica

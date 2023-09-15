@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2007-01-14T00:00:00'
-f_end: '7'
-f_start: '6'
+date: 2007-01-14 00:00:00+00:00
+f_end: 7
+f_start: 6
 family: Brassicaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead_sample: false
 name: index.en
 order: Hesperis
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Hesperis matronalis

@@ -1,9 +1,9 @@
 ---
 author: Alenka Mihorič
 color: R
-date: '1900-01-01T00:00:00'
-f_end: '8'
-f_start: '7'
+date: 1900-01-01 00:00:00+00:00
+f_end: 8
+f_start: 7
 family: Apiaceae
 flower_type: O
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Heracleum
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Rožnordeči dežen

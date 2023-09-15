@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2003-07-13T00:00:00'
-f_end: '7'
-f_start: '5'
+date: 2003-07-13 00:00:00+00:00
+f_end: 7
+f_start: 5
 family: Globulariaceae
 flower_type: O
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Globularia
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Matted Globularia

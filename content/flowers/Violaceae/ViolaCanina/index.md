@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2003-05-25 00:00:00+00:00
-f_end: '6'
-f_start: '4'
+f_end: 6
+f_start: 4
 family: Violaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_4-5448_IMG.JPG
 lead_sample: false
 order: Viola
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Pasja vijolica

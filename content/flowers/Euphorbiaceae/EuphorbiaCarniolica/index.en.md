@@ -1,8 +1,8 @@
 ---
 author: Marko Pavlin
-date: '2008-06-01T00:00:00'
-f_end: '6'
-f_start: '4'
+date: 2008-06-01 00:00:00+00:00
+f_end: 6
+f_start: 4
 family: Euphorbiaceae
 image:
 - M_00001.jpg

@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2003-05-25 00:00:00+00:00
-f_end: '6'
-f_start: '5'
+f_end: 6
+f_start: 5
 family: Ranunculaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_2-5258_IMG.JPG
 lead_sample: false
 order: Anemone
 parallel: false
-petals: '8'
+petals: 8
 petals_joined: false
 star_shape: false
 title: Trilistna vetrnica

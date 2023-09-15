@@ -1,8 +1,8 @@
 ---
 color: G
 date: 2004-03-28 00:00:00+00:00
-f_end: '3'
-f_start: '2'
+f_end: 3
+f_start: 2
 family: Ranunculaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead: M_7-4710_IMG.JPG
 lead_sample: false
 order: Helleborus
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Istrski teloh

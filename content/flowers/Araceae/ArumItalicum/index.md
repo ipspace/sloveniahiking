@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '1900-01-01T00:00:00'
-f_end: '5'
-f_start: '4'
+date: 1900-01-01 00:00:00+00:00
+f_end: 5
+f_start: 4
 family: Araceae
 image:
 - M_0_11346.JPG

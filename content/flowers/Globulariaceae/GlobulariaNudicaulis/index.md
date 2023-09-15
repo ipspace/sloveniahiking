@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2004-05-30 00:00:00+00:00
-f_end: '8'
-f_start: '5'
+f_end: 8
+f_start: 5
 family: Globulariaceae
 flower_type: O
 image:

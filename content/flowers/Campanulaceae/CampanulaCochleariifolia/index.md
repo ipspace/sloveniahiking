@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2003-02-16 00:00:00+00:00
-f_end: '9'
-f_start: '6'
+f_end: 9
+f_start: 6
 family: Campanulaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_7-2760_IMG.JPG
 lead_sample: false
 order: Campanula
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Trebušasta zvončica

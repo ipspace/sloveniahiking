@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2004-02-22 00:00:00+00:00
-f_end: '5'
-f_start: '3'
+f_end: 5
+f_start: 3
 family: Oxalidaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_2-5201_IMG.JPG
 lead_sample: false
 order: Oxalis
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadna zajčja deteljica

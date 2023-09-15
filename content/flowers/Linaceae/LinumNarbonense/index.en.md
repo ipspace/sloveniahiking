@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2003-10-26T00:00:00'
-f_end: '7'
-f_start: '7'
+date: 2003-10-26 00:00:00+00:00
+f_end: 7
+f_start: 7
 family: Linaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Linum
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Linum narbonense

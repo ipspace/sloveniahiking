@@ -1,8 +1,8 @@
 ---
 color: G
 date: 2003-07-20 00:00:00+00:00
-f_end: '7'
-f_start: '5'
+f_end: 7
+f_start: 5
 family: Hyacinthaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_1-6103_IMG.JPG
 lead_sample: false
 order: Ornithogalum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Pirenejsko ptičje mleko

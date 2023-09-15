@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2004-06-06 00:00:00+00:00
-f_end: '8'
-f_start: '4'
+f_end: 8
+f_start: 4
 family: Gentianaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_3-0370_IMG.JPG
 lead_sample: false
 order: Gentiana
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Spomladanski svišč

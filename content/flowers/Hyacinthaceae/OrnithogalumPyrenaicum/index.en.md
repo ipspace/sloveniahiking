@@ -1,8 +1,8 @@
 ---
 color: G
-date: '2003-07-20T00:00:00'
-f_end: '7'
-f_start: '5'
+date: 2003-07-20 00:00:00+00:00
+f_end: 7
+f_start: 5
 family: Hyacinthaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Ornithogalum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Spiked star-of-Bethlehem

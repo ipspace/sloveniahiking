@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2004-09-05T00:00:00'
-f_end: '7'
-f_start: '5'
+date: 2004-09-05 00:00:00+00:00
+f_end: 7
+f_start: 5
 family: Convallariaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Polygonatum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Whorled Solomon's seal

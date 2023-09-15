@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2008-04-06 00:00:00+00:00
-f_end: '5'
-f_start: '3'
+f_end: 5
+f_start: 3
 family: Rosaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_0_11263.JPG
 lead_sample: false
 order: Potentilla
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Drobnocvetni petoprstnik

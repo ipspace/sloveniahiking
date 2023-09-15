@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2004-03-07T00:00:00'
-f_end: '5'
-f_start: '4'
+date: 2004-03-07 00:00:00+00:00
+f_end: 5
+f_start: 4
 family: Orchidaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Orchis
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Bleda kukavica

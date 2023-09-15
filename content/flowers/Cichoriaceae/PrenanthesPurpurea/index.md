@@ -1,7 +1,7 @@
 ---
 color: R
-f_end: '9'
-f_start: '7'
+f_end: 9
+f_start: 7
 family: Cichoriaceae
 flower_type: K
 image:

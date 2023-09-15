@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2008-02-24 00:00:00+00:00
-f_end: '6'
-f_start: '3'
+f_end: 6
+f_start: 3
 family: Brassicaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_3-0321_IMG.JPG
 lead_sample: false
 order: Thlaspi
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Rani mošnjak

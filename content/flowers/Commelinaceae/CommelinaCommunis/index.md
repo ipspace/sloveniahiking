@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2003-09-14T00:00:00'
-f_end: '10'
-f_start: '6'
+date: 2003-09-14 00:00:00+00:00
+f_end: 10
+f_start: 6
 family: Commelinaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Commelina
 parallel: false
-petals: '3'
+petals: 3
 petals_joined: false
 star_shape: false
 title: Navadna komelina

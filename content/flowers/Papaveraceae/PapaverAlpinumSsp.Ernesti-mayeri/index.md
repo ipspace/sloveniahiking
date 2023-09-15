@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2006-08-13T00:00:00'
-f_end: '9'
-f_start: '6'
+date: 2006-08-13 00:00:00+00:00
+f_end: 9
+f_start: 6
 family: Papaveraceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Papaver
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Julijski mak

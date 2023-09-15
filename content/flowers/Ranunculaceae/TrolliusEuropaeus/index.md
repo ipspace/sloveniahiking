@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2002-11-12 00:00:00+00:00
-f_end: '7'
-f_start: '5'
+f_end: 7
+f_start: 5
 family: Ranunculaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead: M_6-1669_IMG.JPG
 lead_sample: false
 order: Trollius
 parallel: false
-petals: '10'
+petals: 10
 petals_joined: false
 star_shape: false
 title: Zlata pogačica

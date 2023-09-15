@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2003-03-16T00:00:00'
-f_end: '7'
-f_start: '2'
+date: 2003-03-16 00:00:00+00:00
+f_end: 7
+f_start: 2
 family: Ericaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Erica
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Spomladanska resa

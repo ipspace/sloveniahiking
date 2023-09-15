@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2008-06-01 00:00:00+00:00
-f_end: '6'
-f_start: '5'
+f_end: 6
+f_start: 5
 family: Hyacinthaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead: M_0_00935.JPG
 lead_sample: false
 order: Scilla
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Travniška morska čebulica

@@ -1,7 +1,7 @@
 ---
 color: B
-f_end: '10'
-f_start: '8'
+f_end: 10
+f_start: 8
 family: Gentianaceae
 flower_type: C
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index
 order: Gentianella
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Resasti sviščevec

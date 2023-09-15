@@ -1,9 +1,9 @@
 ---
 author: Alenka Mihorič
 color: R
-date: '2006-08-27T00:00:00'
-f_end: '8'
-f_start: '7'
+date: 2006-08-27 00:00:00+00:00
+f_end: 8
+f_start: 7
 family: Asteraceae
 flower_type: K
 image:

@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2003-07-20 00:00:00+00:00
-f_end: '7'
-f_start: '5'
+f_end: 7
+f_start: 5
 family: Rosaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_8-5846_IMG.JPG
 lead_sample: false
 order: Geum
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Potočna sretena

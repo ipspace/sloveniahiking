@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2004-11-28 00:00:00+00:00
-f_end: '8'
-f_start: '7'
+f_end: 8
+f_start: 7
 family: Ranunculaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_7_1771.JPG
 lead_sample: false
 order: Clematis
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Navadni srobot

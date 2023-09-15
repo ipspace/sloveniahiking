@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2004-06-06T00:00:00'
-f_end: '8'
-f_start: '4'
+date: 2004-06-06 00:00:00+00:00
+f_end: 8
+f_start: 4
 family: Gentianaceae
 flower_type: C
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index.en
 order: Gentiana
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Spring Gentian

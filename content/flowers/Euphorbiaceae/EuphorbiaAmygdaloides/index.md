@@ -1,8 +1,8 @@
 ---
 color: G
 date: 2003-04-27 00:00:00+00:00
-f_end: '6'
-f_start: '4'
+f_end: 6
+f_start: 4
 family: Euphorbiaceae
 flower_type: B
 image:

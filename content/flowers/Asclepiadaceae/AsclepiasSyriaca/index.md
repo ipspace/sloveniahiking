@@ -2,8 +2,8 @@
 author: Branko Obranovič
 color: R
 date: 2003-11-23 00:00:00+00:00
-f_end: '7'
-f_start: '6'
+f_end: 7
+f_start: 6
 family: Asclepiadaceae
 flower_type: C
 image:
@@ -15,7 +15,7 @@ lead: M_010084.jpg
 lead_sample: false
 order: Asclepias
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Sirska svilnica

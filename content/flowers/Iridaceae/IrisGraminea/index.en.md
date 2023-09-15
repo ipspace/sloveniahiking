@@ -1,7 +1,7 @@
 ---
 color: B
-f_end: '6'
-f_start: '5'
+f_end: 6
+f_start: 5
 family: Iridaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index.en
 order: Iris
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Grass-leaved Flag

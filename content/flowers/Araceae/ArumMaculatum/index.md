@@ -1,8 +1,8 @@
 ---
 color: G
-date: '2008-04-20T00:00:00'
-f_end: '5'
-f_start: '4'
+date: 2008-04-20 00:00:00+00:00
+f_end: 5
+f_start: 4
 family: Araceae
 image:
 - M_7-0761_IMG.JPG

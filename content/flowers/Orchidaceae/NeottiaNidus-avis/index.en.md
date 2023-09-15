@@ -1,7 +1,7 @@
 ---
 color: O
-f_end: '8'
-f_start: '6'
+f_end: 8
+f_start: 6
 family: Orchidaceae
 flower_type: B
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index.en
 order: Neottia
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Bird's-Nest Orchid

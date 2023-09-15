@@ -1,7 +1,7 @@
 ---
 color: Y
-f_end: '9'
-f_start: '5'
+f_end: 9
+f_start: 5
 family: Rubiaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index
 order: Galium
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Prava lakota

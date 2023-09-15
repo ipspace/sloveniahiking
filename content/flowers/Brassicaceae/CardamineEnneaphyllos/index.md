@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2003-04-06 00:00:00+00:00
-f_end: '6'
-f_start: '4'
+f_end: 6
+f_start: 4
 family: Brassicaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_8-4899_IMG.JPG
 lead_sample: false
 order: Cardamine
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Deveterolistna konopnica

@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2002-11-12T00:00:00'
-f_end: '6'
-f_start: '5'
+date: 2002-11-12 00:00:00+00:00
+f_end: 6
+f_start: 5
 family: Rosaceae
 flower_type: C
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index.en
 order: Aruncus
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Goat's beard

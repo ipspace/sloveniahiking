@@ -1,8 +1,8 @@
 ---
 color: WG
 date: 2003-04-20 00:00:00+00:00
-f_end: '5'
-f_start: '4'
+f_end: 5
+f_start: 4
 family: Asparagaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead: M_7-4721_IMG.JPG
 lead_sample: false
 order: Ruscus
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Sirokolistna lobodika

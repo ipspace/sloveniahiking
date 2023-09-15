@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2002-11-15 00:00:00+00:00
-f_end: '10'
-f_start: '4'
+f_end: 10
+f_start: 4
 family: Lamiaceae
 flower_type: C
 image:
@@ -16,7 +16,7 @@ lead: M_9-3902_IMG.JPG
 lead_sample: false
 order: Lamium
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Lisasta mrtva kopriva

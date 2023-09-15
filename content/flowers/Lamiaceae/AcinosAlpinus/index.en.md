@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2003-10-05T00:00:00'
-f_end: '9'
-f_start: '5'
+date: 2003-10-05 00:00:00+00:00
+f_end: 9
+f_start: 5
 family: Lamiaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Acinos
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Alpine calamint

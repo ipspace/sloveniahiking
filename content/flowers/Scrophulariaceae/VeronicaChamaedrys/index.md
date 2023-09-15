@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2008-04-06 00:00:00+00:00
-f_end: '8'
-f_start: '4'
+f_end: 8
+f_start: 4
 family: Scrophulariaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_0_00767.JPG
 lead_sample: false
 order: Veronica
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Vrednikov jetičnik

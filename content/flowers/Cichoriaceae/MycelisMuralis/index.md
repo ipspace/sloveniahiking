@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2005-09-11 00:00:00+00:00
-f_end: '9'
-f_start: '7'
+f_end: 9
+f_start: 7
 family: Cichoriaceae
 flower_type: K
 image:

@@ -2,8 +2,8 @@
 author: TS Zwitter
 color: Y
 date: 2004-05-23 00:00:00+00:00
-f_end: '7'
-f_start: '3'
+f_end: 7
+f_start: 3
 family: Primulaceae
 flower_type: C
 image:
@@ -15,7 +15,7 @@ lead: M_9_3984.jpg
 lead_sample: false
 order: Primula
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Avrikelj

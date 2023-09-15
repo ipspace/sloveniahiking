@@ -1,7 +1,7 @@
 ---
 color: Y
-f_end: '9'
-f_start: '4'
+f_end: 9
+f_start: 4
 family: Asteraceae
 flower_type: K
 image:

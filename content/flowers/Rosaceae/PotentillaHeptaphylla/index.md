@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2003-04-06 00:00:00+00:00
-f_end: '6'
-f_start: '4'
+f_end: 6
+f_start: 4
 family: Rosaceae
 flower_type: C
 image:
@@ -16,7 +16,7 @@ lead: M_8-4865_IMG.JPG
 lead_sample: false
 order: Potentilla
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Sedmerolistni petoprstnik

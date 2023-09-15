@@ -1,7 +1,7 @@
 ---
 color: RG
-f_end: '9'
-f_start: '7'
+f_end: 9
+f_start: 7
 family: Solanaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_9-2941_IMG.JPG
 lead_sample: false
 order: Datura
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Velecvetni kristavec

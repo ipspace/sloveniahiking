@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2003-04-13 00:00:00+00:00
-f_end: '6'
-f_start: '5'
+f_end: 6
+f_start: 5
 family: Convallariaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_8-0850_IMG.jpg
 lead_sample: false
 order: Polygonatum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Mnogocvetni Salomonov pečat

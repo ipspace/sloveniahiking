@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2003-03-09 00:00:00+00:00
-f_end: '4'
-f_start: '1'
+f_end: 4
+f_start: 1
 family: Ranunculaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead: M_6-4689_IMG.JPG
 lead_sample: false
 order: Helleborus
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Črni teloh

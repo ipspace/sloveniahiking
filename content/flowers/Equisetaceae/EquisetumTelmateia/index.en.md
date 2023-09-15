@@ -1,7 +1,7 @@
 ---
-date: '2007-01-14T00:00:00'
-f_end: '8'
-f_start: '5'
+date: 2007-01-14 00:00:00+00:00
+f_end: 8
+f_start: 5
 family: Equisetaceae
 image:
 - M_G_2914.JPG

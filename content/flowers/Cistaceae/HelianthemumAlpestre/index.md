@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2003-05-04 00:00:00+00:00
-f_end: '8'
-f_start: '5'
+f_end: 8
+f_start: 5
 family: Cistaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_0-5065_IMG.JPG
 lead_sample: false
 order: Helianthemum
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Planinski popon

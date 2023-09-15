@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2005-02-20T00:00:00'
-f_end: '6'
-f_start: '4'
+date: 2005-02-20 00:00:00+00:00
+f_end: 6
+f_start: 4
 family: Fabaceae
 flower_type: C
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index
 order: Coronilla
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Grmičasta šmarna detelja

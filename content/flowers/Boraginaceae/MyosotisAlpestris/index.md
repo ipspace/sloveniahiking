@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2003-12-21 00:00:00+00:00
-f_end: '9'
-f_start: '6'
+f_end: 9
+f_start: 6
 family: Boraginaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_9-5993_IMG.JPG
 lead_sample: false
 order: Myosotis
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Planinska spominčica

@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2005-04-17 00:00:00+00:00
-f_end: '6'
-f_start: '3'
+f_end: 6
+f_start: 3
 family: Saxifragaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_3_2373.JPG
 lead_sample: false
 order: Chrysosplenium
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Premenjalnolistni vraničnik

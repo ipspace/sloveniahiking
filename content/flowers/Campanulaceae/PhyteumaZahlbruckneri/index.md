@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2003-06-29 00:00:00+00:00
-f_end: '8'
-f_start: '7'
+f_end: 8
+f_start: 7
 family: Campanulaceae
 flower_type: C
 image:
@@ -12,7 +12,7 @@ lead: M_6-5682_IMG.JPG
 lead_sample: false
 order: Phyteuma
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Zahlbrucknerjev repuš

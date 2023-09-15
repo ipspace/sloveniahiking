@@ -1,9 +1,9 @@
 ---
 author: Drago Cenčič
 color: R
-date: '2004-08-22T00:00:00'
-f_end: '7'
-f_start: '6'
+date: 2004-08-22 00:00:00+00:00
+f_end: 7
+f_start: 6
 family: Asteraceae
 flower_type: K
 image:

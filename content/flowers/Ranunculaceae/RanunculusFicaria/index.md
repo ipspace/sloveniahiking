@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2003-03-30T00:00:00'
-f_end: '4'
-f_start: '3'
+date: 2003-03-30 00:00:00+00:00
+f_end: 4
+f_start: 3
 family: Ranunculaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead_sample: false
 name: index
 order: Ranunculus
 parallel: false
-petals: '10'
+petals: 10
 petals_joined: false
 star_shape: false
 title: Lopatica

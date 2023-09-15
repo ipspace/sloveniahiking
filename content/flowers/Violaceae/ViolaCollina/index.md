@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2003-03-23 00:00:00+00:00
-f_end: '4'
-f_start: '3'
+f_end: 4
+f_start: 3
 family: Violaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_7-4766_IMG.JPG
 lead_sample: false
 order: Viola
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Hribska vijolica

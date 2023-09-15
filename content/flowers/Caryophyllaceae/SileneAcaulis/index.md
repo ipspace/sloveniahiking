@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2005-10-09T00:00:00'
-f_end: '9'
-f_start: '7'
+date: 2005-10-09 00:00:00+00:00
+f_end: 9
+f_start: 7
 family: Caryophyllaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Silene
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Brezstebelna lepnica

@@ -1,7 +1,7 @@
 ---
 color: Y
-f_end: '9'
-f_start: '6'
+f_end: 9
+f_start: 6
 family: Ranunculaceae
 flower_type: B
 image:
@@ -12,7 +12,7 @@ lead: M_6-1652_IMG.JPG
 lead_sample: false
 order: Aconitum
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Ozkočeladasta preobjeda

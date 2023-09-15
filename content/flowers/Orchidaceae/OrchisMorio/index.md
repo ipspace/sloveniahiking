@@ -1,7 +1,7 @@
 ---
 color: R
-f_end: '6'
-f_start: '4'
+f_end: 6
+f_start: 4
 family: Orchidaceae
 flower_type: B
 image:
@@ -17,7 +17,7 @@ lead_sample: false
 name: index
 order: Orchis
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Navadna kukavica

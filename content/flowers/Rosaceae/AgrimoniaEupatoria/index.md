@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '1900-01-01T00:00:00'
-f_end: '8'
-f_start: '6'
+date: 1900-01-01 00:00:00+00:00
+f_end: 8
+f_start: 6
 family: Rosaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead_sample: false
 name: index
 order: Agrimonia
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadni repik

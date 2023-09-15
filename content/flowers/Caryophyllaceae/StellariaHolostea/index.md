@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2007-04-22T00:00:00'
-f_end: '6'
-f_start: '5'
+date: 2007-04-22 00:00:00+00:00
+f_end: 6
+f_start: 5
 family: Caryophyllaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Stellaria
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Velecvetna zvezdica

@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2003-01-17 00:00:00+00:00
-f_end: '8'
-f_start: '6'
+f_end: 8
+f_start: 6
 family: Orchidaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead: M_7-2741_IMG.JPG
 lead_sample: false
 order: Epipactis
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Temnordeča močvirnica

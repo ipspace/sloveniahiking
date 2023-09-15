@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2005-11-06 00:00:00+00:00
-f_end: '8'
-f_start: '7'
+f_end: 8
+f_start: 7
 family: Asteraceae
 flower_type: K
 image:

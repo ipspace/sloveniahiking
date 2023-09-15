@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2004-01-25T00:00:00'
-f_end: '7'
-f_start: '5'
+date: 2004-01-25 00:00:00+00:00
+f_end: 7
+f_start: 5
 family: Ranunculaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Pulsatilla
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Alpine Pasqueflower

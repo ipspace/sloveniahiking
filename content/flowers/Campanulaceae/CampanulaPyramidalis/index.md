@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2002-10-31 00:00:00+00:00
-f_end: '8'
-f_start: '7'
+f_end: 8
+f_start: 7
 family: Campanulaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_5-3575_IMG.JPG
 lead_sample: false
 order: Campanula
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Piramidasta zvončica

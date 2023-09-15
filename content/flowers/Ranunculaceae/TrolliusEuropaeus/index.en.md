@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2002-11-12T00:00:00'
-f_end: '7'
-f_start: '5'
+date: 2002-11-12 00:00:00+00:00
+f_end: 7
+f_start: 5
 family: Ranunculaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index.en
 order: Trollius
 parallel: false
-petals: '10'
+petals: 10
 petals_joined: false
 star_shape: false
 title: Globeflower

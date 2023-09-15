@@ -1,7 +1,7 @@
 ---
 color: R
-f_end: '7'
-f_start: '6'
+f_end: 7
+f_start: 6
 family: Liliaceae
 flower_type: B
 image:
@@ -12,7 +12,7 @@ lead: M_1-6111_IMG.JPG
 lead_sample: false
 order: Lilium
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Turška lilija

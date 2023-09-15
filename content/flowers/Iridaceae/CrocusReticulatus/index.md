@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2004-03-28 00:00:00+00:00
-f_end: '4'
-f_start: '2'
+f_end: 4
+f_start: 2
 family: Iridaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead: M_7_0708.JPG
 lead_sample: false
 order: Crocus
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Progasti žafran

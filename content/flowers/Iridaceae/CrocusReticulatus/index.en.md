@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2004-03-28T00:00:00'
-f_end: '4'
-f_start: '2'
+date: 2004-03-28 00:00:00+00:00
+f_end: 4
+f_start: 2
 family: Iridaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index.en
 order: Crocus
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Cloth-of-gold crocus

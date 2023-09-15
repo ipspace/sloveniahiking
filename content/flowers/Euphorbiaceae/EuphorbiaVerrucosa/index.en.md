@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2003-05-18T00:00:00'
-f_end: '6'
-f_start: '5'
+date: 2003-05-18 00:00:00+00:00
+f_end: 6
+f_start: 5
 family: Euphorbiaceae
 flower_type: B
 image:

@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2004-04-11 00:00:00+00:00
-f_end: '5'
-f_start: '3'
+f_end: 5
+f_start: 3
 family: Violaceae
 flower_type: C
 image:
@@ -12,7 +12,7 @@ lead: M_6_0688.jpg
 lead_sample: false
 order: Viola
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Dišeča vijolica

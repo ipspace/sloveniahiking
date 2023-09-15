@@ -1,8 +1,8 @@
 ---
 color: G
-date: '2002-11-18T00:00:00'
-f_end: '8'
-f_start: '5'
+date: 2002-11-18 00:00:00+00:00
+f_end: 8
+f_start: 5
 family: Melanthiaceae
 flower_type: B
 image:
@@ -17,7 +17,7 @@ lead_sample: false
 name: index
 order: Veratrum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Zelena čmerika

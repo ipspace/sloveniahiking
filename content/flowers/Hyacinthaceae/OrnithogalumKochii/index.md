@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2004-05-09 00:00:00+00:00
-f_end: '5'
-f_start: '4'
+f_end: 5
+f_start: 4
 family: Hyacinthaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead: M_0_1047.JPG
 lead_sample: false
 order: Ornithogalum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Kochovo ptičje mleko

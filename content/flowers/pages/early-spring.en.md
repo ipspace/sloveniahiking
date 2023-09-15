@@ -1,7 +1,6 @@
 ---
 title: Early spring flowers
 layout: special
-listing: 
 listing: fstart
 fstart_list: [ 1,2,3 ]
 ---

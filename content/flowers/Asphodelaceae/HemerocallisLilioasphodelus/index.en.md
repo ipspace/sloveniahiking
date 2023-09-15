@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2004-02-08T00:00:00'
-f_end: '6'
-f_start: '6'
+date: 2004-02-08 00:00:00+00:00
+f_end: 6
+f_start: 6
 family: Asphodelaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Hemerocallis
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Yellow daylily

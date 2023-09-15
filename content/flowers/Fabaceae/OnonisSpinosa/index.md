@@ -1,22 +1,22 @@
 ---
+author: Alenka Mihorič
 color: R
-date: '2002-07-28T00:00:00'
-lastmod: 2021-03-07 15:40:00
-f_end: '9'
-f_start: '6'
+date: 2002-07-28 00:00:00+00:00
+f_end: 9
+f_start: 6
 family: Fabaceae
 flower_type: C
+lastmod: 2021-03-07 15:40:00
 latin: Ononis spinosa
 lead: M_20090715_102240.jpg
 lead_sample: false
 name: index
 order: Ononis
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadni gladež
-author: Alenka Mihorič
 ---
 Navadni gladež (*Ononis spinosa*) je polgrmičasta rastlina z rožnatimi ali rdečkastimi cvetovi. Najdemo ga na pustih in suhih prisojnih pobočjih, na pašnikih ali ob poteh.
 

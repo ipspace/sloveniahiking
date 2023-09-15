@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2005-05-27 00:00:00+00:00
-f_end: '6'
-f_start: '6'
+f_end: 6
+f_start: 6
 family: Iridaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead: M_0_10048.JPG
 lead_sample: false
 order: Iris
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Kojniška perunika

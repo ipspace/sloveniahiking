@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2004-05-09T00:00:00'
-f_end: '5'
-f_start: '4'
+date: 2004-05-09 00:00:00+00:00
+f_end: 5
+f_start: 4
 family: Hyacinthaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index.en
 order: Ornithogalum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Ornithogalum kochii

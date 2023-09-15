@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2005-12-03T00:00:00'
-f_end: '5'
-f_start: '4'
+date: 2005-12-03 00:00:00+00:00
+f_end: 5
+f_start: 4
 family: Boraginaceae
 flower_type: C
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index
 order: Buglossoides
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Škrlatnomodro ptičje seme

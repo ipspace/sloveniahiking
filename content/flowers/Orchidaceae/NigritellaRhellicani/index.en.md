@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2004-12-26T00:00:00'
-f_end: '9'
-f_start: '6'
+date: 2004-12-26 00:00:00+00:00
+f_end: 9
+f_start: 6
 family: Orchidaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Nigritella
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Nigritella rhellicani

@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2003-05-04 00:00:00+00:00
-f_end: '6'
-f_start: '4'
+f_end: 6
+f_start: 4
 family: Thymelaeaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_0-5070_IMG.JPG
 lead_sample: false
 order: Daphne
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Dišeči volčin

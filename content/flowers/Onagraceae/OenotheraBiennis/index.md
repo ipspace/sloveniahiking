@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2006-12-03T00:00:00'
-f_end: '9'
-f_start: '6'
+date: 2006-12-03 00:00:00+00:00
+f_end: 9
+f_start: 6
 family: Onagraceae
 flower_type: C
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index
 order: Oenothera
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Dvoletni svetlin

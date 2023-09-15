@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2005-04-17T00:00:00'
-f_end: '6'
-f_start: '3'
+date: 2005-04-17 00:00:00+00:00
+f_end: 6
+f_start: 3
 family: Saxifragaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Chrysosplenium
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Alternate-leaved Golden Saxifrage

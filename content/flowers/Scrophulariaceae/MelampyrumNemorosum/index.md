@@ -1,8 +1,8 @@
 ---
 color: WR
-date: '2002-11-30T00:00:00'
-f_end: '9'
-f_start: '5'
+date: 2002-11-30 00:00:00+00:00
+f_end: 9
+f_start: 5
 family: Scrophulariaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Melampyrum
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Podlesni črnilec

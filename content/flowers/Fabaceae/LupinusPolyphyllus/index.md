@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2003-11-15T00:00:00'
-f_end: '9'
-f_start: '6'
+date: 2003-11-15 00:00:00+00:00
+f_end: 9
+f_start: 6
 family: Fabaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Lupinus
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Mnogolistni volčji bob

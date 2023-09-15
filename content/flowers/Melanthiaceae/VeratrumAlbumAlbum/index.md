@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2007-12-09 00:00:00+00:00
-f_end: '8'
-f_start: '5'
+f_end: 8
+f_start: 5
 family: Melanthiaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_G_3125.JPG
 lead_sample: false
 order: Veratrum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Bela čmerika

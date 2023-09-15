@@ -1,9 +1,9 @@
 ---
 author: Branko Obranovič
 color: Y
-date: '2003-11-15T00:00:00'
-f_end: '8'
-f_start: '5'
+date: 2003-11-15 00:00:00+00:00
+f_end: 8
+f_start: 5
 family: Resedaceae
 flower_type: C
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index
 order: Reseda
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Rumeni katanec

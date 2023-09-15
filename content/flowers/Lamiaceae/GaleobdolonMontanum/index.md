@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2003-05-11 00:00:00+00:00
-f_end: '6'
-f_start: '5'
+f_end: 6
+f_start: 5
 family: Lamiaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_1-5184_IMG.JPG
 lead_sample: false
 order: Galeobdolon
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Gorska rumenka

@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2007-08-12 00:00:00+00:00
-f_end: '9'
-f_start: '5'
+f_end: 9
+f_start: 5
 family: Lamiaceae
 flower_type: C
 image:
@@ -12,7 +12,7 @@ lead: M_0_10138.JPG
 lead_sample: false
 order: Teucrium
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Gorski vrednik

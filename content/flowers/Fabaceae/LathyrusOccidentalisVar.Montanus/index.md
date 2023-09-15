@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2006-03-05T00:00:00'
-f_end: '8'
-f_start: '6'
+date: 2006-03-05 00:00:00+00:00
+f_end: 8
+f_start: 6
 family: Fabaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Lathyrus
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Rumeni grahor

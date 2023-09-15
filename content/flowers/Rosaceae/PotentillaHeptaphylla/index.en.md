@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2003-04-06T00:00:00'
-f_end: '6'
-f_start: '4'
+date: 2003-04-06 00:00:00+00:00
+f_end: 6
+f_start: 4
 family: Rosaceae
 flower_type: C
 image:
@@ -17,7 +17,7 @@ lead_sample: false
 name: index.en
 order: Potentilla
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Potentilla heptaphylla

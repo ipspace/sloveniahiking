@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2008-01-27 00:00:00+00:00
-f_end: '8'
-f_start: '5'
+f_end: 8
+f_start: 5
 family: Brassicaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_0_00836.JPG
 lead_sample: false
 order: Biscutella
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Navadna šparnica

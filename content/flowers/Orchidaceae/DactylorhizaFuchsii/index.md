@@ -1,7 +1,7 @@
 ---
 color: R
-f_end: '6'
-f_start: '5'
+f_end: 6
+f_start: 5
 family: Orchidaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_7-1744_IMG.JPG
 lead_sample: false
 order: Dactylorhiza
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Fuchsova prstasta kukavica

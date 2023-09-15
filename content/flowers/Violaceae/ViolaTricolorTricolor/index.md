@@ -1,8 +1,8 @@
 ---
 color: BY
 date: 2004-05-30 00:00:00+00:00
-f_end: '9'
-f_start: '4'
+f_end: 9
+f_start: 4
 family: Violaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_2_1223.JPG
 lead_sample: false
 order: Viola
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Divja vijolica

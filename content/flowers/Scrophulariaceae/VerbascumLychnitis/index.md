@@ -1,7 +1,7 @@
 ---
 color: Y
-f_end: '8'
-f_start: '6'
+f_end: 8
+f_start: 6
 family: Scrophulariaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_5-3569_IMG.JPG
 lead_sample: false
 order: Verbascum
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Naprašeni lučnik

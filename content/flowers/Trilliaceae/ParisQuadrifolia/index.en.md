@@ -1,8 +1,8 @@
 ---
 color: G
-date: '2002-11-11T00:00:00'
-f_end: '6'
-f_start: '5'
+date: 2002-11-11 00:00:00+00:00
+f_end: 6
+f_start: 5
 family: Trilliaceae
 flower_type: B
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index.en
 order: Paris
 parallel: false
-petals: '10'
+petals: 10
 petals_joined: false
 star_shape: false
 title: Herb Paris

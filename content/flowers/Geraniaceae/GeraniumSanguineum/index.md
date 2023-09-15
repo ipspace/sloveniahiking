@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2003-12-07 00:00:00+00:00
-f_end: '9'
-f_start: '5'
+f_end: 9
+f_start: 5
 family: Geraniaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_7-5799_IMG.JPG
 lead_sample: false
 order: Geranium
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Krvavordeča krvomočnica

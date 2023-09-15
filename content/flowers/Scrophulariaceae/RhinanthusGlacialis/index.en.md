@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2003-08-03T00:00:00'
-f_end: '9'
-f_start: '5'
+date: 2003-08-03 00:00:00+00:00
+f_end: 9
+f_start: 5
 family: Scrophulariaceae
 flower_type: C
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index.en
 order: Rhinanthus
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Rhinanthus glacialis

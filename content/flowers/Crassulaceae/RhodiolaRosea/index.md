@@ -1,9 +1,9 @@
 ---
 author: Alenka Mihorič
 color: Y
-date: '2003-11-02T00:00:00'
-f_end: '8'
-f_start: '6'
+date: 2003-11-02 00:00:00+00:00
+f_end: 8
+f_start: 6
 family: Crassulaceae
 flower_type: C
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index
 order: Rhodiola
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Rožni koren

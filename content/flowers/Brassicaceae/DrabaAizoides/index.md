@@ -2,8 +2,8 @@
 author: Mojca Luštrek
 color: Y
 date: 2006-06-04 00:00:00+00:00
-f_end: '8'
-f_start: '4'
+f_end: 8
+f_start: 4
 family: Brassicaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_006060102.jpg
 lead_sample: false
 order: Draba
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Vednozelena gladnica

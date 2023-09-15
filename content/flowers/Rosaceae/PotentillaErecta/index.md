@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2005-04-03 00:00:00+00:00
-f_end: '8'
-f_start: '5'
+f_end: 8
+f_start: 5
 family: Rosaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_4-3429_IMG.JPG
 lead_sample: false
 order: Potentilla
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Srčna moč

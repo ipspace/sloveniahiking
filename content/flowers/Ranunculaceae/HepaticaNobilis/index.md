@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2003-03-02T00:00:00'
-f_end: '4'
-f_start: '3'
+date: 2003-03-02 00:00:00+00:00
+f_end: 4
+f_start: 3
 family: Ranunculaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Hepatica
 parallel: false
-petals: '10'
+petals: 10
 petals_joined: false
 star_shape: false
 title: Jetrnik

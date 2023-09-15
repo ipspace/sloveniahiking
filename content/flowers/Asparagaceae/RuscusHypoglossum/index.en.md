@@ -1,8 +1,8 @@
 ---
 color: WG
-date: '2003-04-20T00:00:00'
-f_end: '5'
-f_start: '4'
+date: 2003-04-20 00:00:00+00:00
+f_end: 5
+f_start: 4
 family: Asparagaceae
 flower_type: B
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index.en
 order: Ruscus
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Butcher's Broom

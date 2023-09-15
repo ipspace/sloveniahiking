@@ -1,7 +1,7 @@
 ---
 color: B
-f_end: '9'
-f_start: '5'
+f_end: 9
+f_start: 5
 family: Campanulaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_7-1778_IMG.JPG
 lead_sample: false
 order: Phyteuma
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Glavičasti repuš

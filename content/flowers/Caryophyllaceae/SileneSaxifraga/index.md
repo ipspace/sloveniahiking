@@ -2,8 +2,8 @@
 author: Anka Vončina
 color: R
 date: 2008-02-10 00:00:00+00:00
-f_end: '8'
-f_start: '5'
+f_end: 8
+f_start: 5
 family: Caryophyllaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_007052603.jpg
 lead_sample: false
 order: Silene
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Kamnokrečna lepnica

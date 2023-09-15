@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2002-12-06T00:00:00'
-f_end: '9'
-f_start: '6'
+date: 2002-12-06 00:00:00+00:00
+f_end: 9
+f_start: 6
 family: Lythraceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Lythrum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Navadna krvenka

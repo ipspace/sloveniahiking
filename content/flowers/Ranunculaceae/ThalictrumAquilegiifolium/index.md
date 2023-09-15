@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2003-12-14T00:00:00'
-f_end: '7'
-f_start: '5'
+date: 2003-12-14 00:00:00+00:00
+f_end: 7
+f_start: 5
 family: Ranunculaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead_sample: false
 name: index
 order: Thalictrum
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Vetrovka

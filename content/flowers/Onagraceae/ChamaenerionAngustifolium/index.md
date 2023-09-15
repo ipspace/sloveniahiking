@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2003-08-10T00:00:00'
-f_end: '8'
-f_start: '6'
+date: 2003-08-10 00:00:00+00:00
+f_end: 8
+f_start: 6
 family: Onagraceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Chamaenerion
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Ozkolistno ciprje

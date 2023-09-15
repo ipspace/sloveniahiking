@@ -1,7 +1,7 @@
 ---
 color: RW
-f_end: '7'
-f_start: '5'
+f_end: 7
+f_start: 5
 family: Orchidaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Orchis
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Burnt-tip orchid

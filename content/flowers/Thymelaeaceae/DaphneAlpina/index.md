@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2004-08-22 00:00:00+00:00
-f_end: '7'
-f_start: '5'
+f_end: 7
+f_start: 5
 family: Thymelaeaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_0_00844.JPG
 lead_sample: false
 order: Daphne
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Alpski volčin

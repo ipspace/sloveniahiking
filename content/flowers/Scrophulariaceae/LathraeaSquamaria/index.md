@@ -1,9 +1,9 @@
 ---
 author: Mojca Luštrek
 color: B
-date: '2006-06-04T00:00:00'
-f_end: '6'
-f_start: '3'
+date: 2006-06-04 00:00:00+00:00
+f_end: 6
+f_start: 3
 family: Scrophulariaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Lathraea
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadni lusnec

@@ -1,9 +1,9 @@
 ---
 author: Alenka Mihorič
 color: Y
-date: '1900-01-01T00:00:00'
-f_end: '8'
-f_start: '3'
+date: 1900-01-01 00:00:00+00:00
+f_end: 8
+f_start: 3
 family: Brassicaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Alyssum
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Pale Alison

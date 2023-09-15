@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2003-09-14T00:00:00'
-f_end: '9'
-f_start: '8'
+date: 2003-09-14 00:00:00+00:00
+f_end: 9
+f_start: 8
 family: Lamiaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Satureja
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Satureja subspicata

@@ -2,8 +2,8 @@
 author: Alenka Mihorič
 color: R
 date: 2006-10-29 00:00:00+00:00
-f_end: '7'
-f_start: '5'
+f_end: 7
+f_start: 5
 family: Caprifoliaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_006040502.jpg
 lead_sample: false
 order: Lonicera
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Planinsko kosteničevje

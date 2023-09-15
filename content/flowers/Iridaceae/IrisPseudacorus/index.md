@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2004-06-13T00:00:00'
-f_end: '6'
-f_start: '5'
+date: 2004-06-13 00:00:00+00:00
+f_end: 6
+f_start: 5
 family: Iridaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index
 order: Iris
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Vodna perunika

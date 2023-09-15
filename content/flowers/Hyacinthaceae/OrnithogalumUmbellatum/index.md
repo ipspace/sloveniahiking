@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2007-03-25 00:00:00+00:00
-f_end: '5'
-f_start: '4'
+f_end: 5
+f_start: 4
 family: Hyacinthaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead: M_9-0976_IMG.JPG
 lead_sample: false
 order: Ornithogalum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Kobulasto ptičje mleko

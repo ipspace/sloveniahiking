@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2002-11-20T00:00:00'
-f_end: '6'
-f_start: '5'
+date: 2002-11-20 00:00:00+00:00
+f_end: 6
+f_start: 5
 family: Convallariaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index.en
 order: Convallaria
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Lily of the valley

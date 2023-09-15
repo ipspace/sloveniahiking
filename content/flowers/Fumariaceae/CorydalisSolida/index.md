@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2003-04-06 00:00:00+00:00
-f_end: '6'
-f_start: '3'
+f_end: 6
+f_start: 3
 family: Fumariaceae
 flower_type: B
 image:

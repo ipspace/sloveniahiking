@@ -1,9 +1,9 @@
 ---
 author: Florijan Poljšak
 color: GR
-date: '1900-01-01T00:00:00'
-f_end: '6'
-f_start: '6'
+date: 1900-01-01 00:00:00+00:00
+f_end: 6
+f_start: 6
 family: Euphorbiaceae
 flower_type: B
 image:

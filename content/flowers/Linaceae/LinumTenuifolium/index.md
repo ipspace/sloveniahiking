@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2005-05-15 00:00:00+00:00
-f_end: '7'
-f_start: '6'
+f_end: 7
+f_start: 6
 family: Linaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_2-6230_IMG.JPG
 lead_sample: false
 order: Linum
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Drobnolistni lan

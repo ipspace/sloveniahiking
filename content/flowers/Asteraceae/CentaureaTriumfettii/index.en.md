@@ -1,7 +1,7 @@
 ---
 color: RB
-f_end: '8'
-f_start: '6'
+f_end: 8
+f_start: 6
 family: Asteraceae
 flower_type: K
 image:

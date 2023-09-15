@@ -1,8 +1,8 @@
 ---
 color: YG
-date: '2003-10-12T00:00:00'
-f_end: '6'
-f_start: '5'
+date: 2003-10-12 00:00:00+00:00
+f_end: 6
+f_start: 5
 family: Aristolochiaceae
 flower_type: b
 image:

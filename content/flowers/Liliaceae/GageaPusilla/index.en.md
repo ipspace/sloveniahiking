@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2007-04-08T00:00:00'
-f_end: '4'
-f_start: '3'
+date: 2007-04-08 00:00:00+00:00
+f_end: 4
+f_start: 3
 family: Liliaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Gagea
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Gagea pusilla

@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2006-04-30T00:00:00'
-f_end: '7'
-f_start: '4'
+date: 2006-04-30 00:00:00+00:00
+f_end: 7
+f_start: 4
 family: Brassicaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Arabis
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Tower Cress

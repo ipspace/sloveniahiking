@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2005-02-20 00:00:00+00:00
-f_end: '6'
-f_start: '4'
+f_end: 6
+f_start: 4
 family: Brassicaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_3_1340.JPG
 lead_sample: false
 order: Cardamine
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Trilistna penuša

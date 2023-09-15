@@ -1,9 +1,9 @@
 ---
 author: Alenka Mihorič
 color: Y
-date: '2007-03-11T00:00:00'
-f_end: '5'
-f_start: '2'
+date: 2007-03-11 00:00:00+00:00
+f_end: 5
+f_start: 2
 family: Ranunculaceae
 flower_type: B
 image:
@@ -16,7 +16,7 @@ lead_sample: false
 name: index
 order: Eranthis
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Navadna jarica

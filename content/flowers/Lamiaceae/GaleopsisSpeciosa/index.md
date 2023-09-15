@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2003-05-18 00:00:00+00:00
-f_end: '9'
-f_start: '7'
+f_end: 9
+f_start: 7
 family: Lamiaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_6-2663_IMG.JPG
 lead_sample: false
 order: Galeopsis
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Pisani zebrat

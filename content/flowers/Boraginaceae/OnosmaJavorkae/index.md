@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2006-03-05 00:00:00+00:00
-f_end: '6'
-f_start: '6'
+f_end: 6
+f_start: 6
 family: Boraginaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_5_2515.jpg
 lead_sample: false
 order: Onosma
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Javorkin rdeči koren

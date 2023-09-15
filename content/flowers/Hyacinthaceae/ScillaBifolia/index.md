@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2002-12-12T00:00:00'
-f_end: '4'
-f_start: '3'
+date: 2002-12-12 00:00:00+00:00
+f_end: 4
+f_start: 3
 family: Hyacinthaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead_sample: false
 name: index
 order: Scilla
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Dvolistna morska čebulica

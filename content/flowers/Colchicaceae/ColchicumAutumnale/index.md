@@ -1,7 +1,7 @@
 ---
 color: R
-f_end: '9'
-f_start: '8'
+f_end: 9
+f_start: 8
 family: Colchicaceae
 flower_type: B
 image:
@@ -11,7 +11,7 @@ lead: M_0-3083_IMG.JPG
 lead_sample: false
 order: Colchicum
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Jesenski podlesek

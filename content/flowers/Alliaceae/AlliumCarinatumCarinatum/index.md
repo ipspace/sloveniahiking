@@ -1,7 +1,7 @@
 ---
 color: RB
-f_end: '7'
-f_start: '6'
+f_end: 7
+f_start: 6
 family: Alliaceae
 flower_type: B
 image:
@@ -12,7 +12,7 @@ lead: M_4-2447_IMG.JPG
 lead_sample: false
 order: Allium
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Gredljasti luk

@@ -2,11 +2,11 @@
 author: Alenka Mihorič
 color: R
 date: 2006-08-27 00:00:00+00:00
-lastmod: 2021-02-25 17:35:00
-f_end: '8'
-f_start: '7'
+f_end: 8
+f_start: 7
 family: Asteraceae
 flower_type: K
+lastmod: 2021-02-25 17:35:00
 latin: Cirsium waldsteinii
 lead: M_20090630_092949.jpg
 lead_sample: false

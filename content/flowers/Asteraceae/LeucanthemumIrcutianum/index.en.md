@@ -1,8 +1,8 @@
 ---
 color: W
-date: '2003-12-07T00:00:00'
-f_end: '10'
-f_start: '5'
+date: 2003-12-07 00:00:00+00:00
+f_end: 10
+f_start: 5
 family: Asteraceae
 flower_type: K
 image:

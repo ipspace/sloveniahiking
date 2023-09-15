@@ -2,8 +2,8 @@
 author: Florijan Poljšak
 color: Y
 date: 2008-03-25 00:00:00+00:00
-f_end: '5'
-f_start: '4'
+f_end: 5
+f_start: 4
 family: Brassicaceae
 flower_type: C
 image:
@@ -15,7 +15,7 @@ lead: M_008032503.jpg
 lead_sample: false
 order: Alyssum
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Gorski grobeljnik

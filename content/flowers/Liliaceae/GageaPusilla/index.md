@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2007-04-08 00:00:00+00:00
-f_end: '4'
-f_start: '3'
+f_end: 4
+f_start: 3
 family: Liliaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_G_2906.JPG
 lead_sample: false
 order: Gagea
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Pritlikava pasja čebulica

@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2004-06-06 00:00:00+00:00
-f_end: '7'
-f_start: '5'
+f_end: 7
+f_start: 5
 family: Ranunculaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead: M_7-5727_IMG.JPG
 lead_sample: false
 order: Aquilegia
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Velecvetna orlica

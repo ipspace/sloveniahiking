@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2003-08-17 00:00:00+00:00
-f_end: '8'
-f_start: '5'
+f_end: 8
+f_start: 5
 family: Primulaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_6-6655_IMG.JPG
 lead_sample: false
 order: Lysimachia
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadna pijavčnica

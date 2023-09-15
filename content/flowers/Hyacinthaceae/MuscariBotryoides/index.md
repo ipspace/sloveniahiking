@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2003-04-27 00:00:00+00:00
-f_end: '5'
-f_start: '4'
+f_end: 5
+f_start: 4
 family: Hyacinthaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_1-5111_IMG.JPG
 lead_sample: false
 order: Muscari
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Jagodasta hrušica

@@ -1,9 +1,9 @@
 ---
 author: Anka Vončina
 color: R
-date: '1900-01-01T00:00:00'
-f_end: '7'
-f_start: '5'
+date: 1900-01-01 00:00:00+00:00
+f_end: 7
+f_start: 5
 family: Boraginaceae
 flower_type: C
 image:

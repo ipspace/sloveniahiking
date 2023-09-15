@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2005-09-11T00:00:00'
-f_end: '9'
-f_start: '7'
+date: 2005-09-11 00:00:00+00:00
+f_end: 9
+f_start: 7
 family: Asteraceae
 flower_type: K
 image:

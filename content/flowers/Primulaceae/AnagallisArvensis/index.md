@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2004-10-31 00:00:00+00:00
-f_end: '10'
-f_start: '6'
+f_end: 10
+f_start: 6
 family: Primulaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_7_1778.JPG
 lead_sample: false
 order: Anagallis
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadna kurja češnjica

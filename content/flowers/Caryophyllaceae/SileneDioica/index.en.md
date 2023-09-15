@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2003-08-10T00:00:00'
-f_end: '8'
-f_start: '4'
+date: 2003-08-10 00:00:00+00:00
+f_end: 8
+f_start: 4
 family: Caryophyllaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Silene
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Silene dioica

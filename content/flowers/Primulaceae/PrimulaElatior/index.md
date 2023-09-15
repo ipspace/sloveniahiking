@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2004-03-07 00:00:00+00:00
-f_end: '6'
-f_start: '4'
+f_end: 6
+f_start: 4
 family: Primulaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_8-5869_IMG.JPG
 lead_sample: false
 order: Primula
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Visoki jeglič

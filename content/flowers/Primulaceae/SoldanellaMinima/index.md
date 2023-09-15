@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2005-05-06 00:00:00+00:00
-f_end: '7'
-f_start: '5'
+f_end: 7
+f_start: 5
 family: Primulaceae
 flower_type: C
 image:
@@ -12,7 +12,7 @@ lead: M_4_1463.JPG
 lead_sample: false
 order: Soldanella
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Najmanjši alpski zvonček

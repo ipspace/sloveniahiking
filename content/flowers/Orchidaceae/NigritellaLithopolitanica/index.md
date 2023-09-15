@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2004-12-26 00:00:00+00:00
-f_end: '8'
-f_start: '6'
+f_end: 8
+f_start: 6
 family: Orchidaceae
 flower_type: B
 image:
@@ -12,7 +12,7 @@ lead: M_2_7269.JPG
 lead_sample: false
 order: Nigritella
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Kamniška murka

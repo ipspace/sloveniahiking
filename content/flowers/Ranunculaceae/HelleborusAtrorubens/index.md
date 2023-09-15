@@ -1,8 +1,8 @@
 ---
 color: BR
 date: 2007-04-08 00:00:00+00:00
-f_end: '5'
-f_start: '3'
+f_end: 5
+f_start: 3
 family: Ranunculaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_G_2945.JPG
 lead_sample: false
 order: Helleborus
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Temnoškrlatni teloh

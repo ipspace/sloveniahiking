@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2003-03-23T00:00:00'
-f_end: '8'
-f_start: '3'
+date: 2003-03-23 00:00:00+00:00
+f_end: 8
+f_start: 3
 family: Scrophulariaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Veronica
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Perzijski jetičnik

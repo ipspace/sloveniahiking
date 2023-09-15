@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2003-06-01 00:00:00+00:00
-f_end: '6'
-f_start: '5'
+f_end: 6
+f_start: 5
 family: Paeoniaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_4-5415_IMG.JPG
 lead_sample: false
 order: Paeonia
 parallel: false
-petals: '8'
+petals: 8
 petals_joined: false
 star_shape: false
 title: Navadna potonika

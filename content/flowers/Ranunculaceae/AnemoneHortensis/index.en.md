@@ -1,8 +1,8 @@
 ---
 color: R
-date: '1900-01-01T00:00:00'
-f_end: '4'
-f_start: '3'
+date: 1900-01-01 00:00:00+00:00
+f_end: 4
+f_start: 3
 family: Ranunculaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead_sample: false
 name: index.en
 order: Anemone
 parallel: false
-petals: '10'
+petals: 10
 petals_joined: false
 star_shape: false
 title: Broad-leaved Anemone

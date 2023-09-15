@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2003-03-16T00:00:00'
-f_end: '4'
-f_start: '3'
+date: 2003-03-16 00:00:00+00:00
+f_end: 4
+f_start: 3
 family: Violaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Viola
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Srhkodlakava vijolica

@@ -1,8 +1,8 @@
 ---
 color: B
 date: 2003-11-02 00:00:00+00:00
-f_end: '7'
-f_start: '4'
+f_end: 7
+f_start: 4
 family: Primulaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_9-5912_IMG.JPG
 lead_sample: false
 order: Soldanella
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Navadni alpski zvonček

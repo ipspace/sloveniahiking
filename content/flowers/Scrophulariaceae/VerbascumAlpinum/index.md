@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2003-07-13 00:00:00+00:00
-f_end: '7'
-f_start: '5'
+f_end: 7
+f_start: 5
 family: Scrophulariaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_7-5734_IMG.JPG
 lead_sample: false
 order: Verbascum
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Volnati lučnik

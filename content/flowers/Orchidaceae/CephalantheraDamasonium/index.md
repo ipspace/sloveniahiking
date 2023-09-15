@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2005-06-05 00:00:00+00:00
-f_end: '7'
-f_start: '5'
+f_end: 7
+f_start: 5
 family: Orchidaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead: M_5_2545.JPG
 lead_sample: false
 order: Cephalanthera
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Bleda naglavka

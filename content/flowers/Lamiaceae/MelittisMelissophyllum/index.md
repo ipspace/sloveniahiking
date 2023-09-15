@@ -1,8 +1,8 @@
 ---
 color: W
 date: 2003-04-13 00:00:00+00:00
-f_end: '6'
-f_start: '5'
+f_end: 6
+f_start: 5
 family: Lamiaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead: M_8-0863_IMG.jpg
 lead_sample: false
 order: Melittis
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Medenika

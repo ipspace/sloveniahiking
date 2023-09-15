@@ -1,8 +1,8 @@
 ---
 color: R
 date: 2003-03-23 00:00:00+00:00
-f_end: '4'
-f_start: '3'
+f_end: 4
+f_start: 3
 family: Thymelaeaceae
 flower_type: B
 image:
@@ -13,7 +13,7 @@ lead: M_7-4793_IMG.JPG
 lead_sample: false
 order: Daphne
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Navadni volčin

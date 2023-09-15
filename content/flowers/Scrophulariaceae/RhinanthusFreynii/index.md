@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2006-09-17 00:00:00+00:00
-f_end: '9'
-f_start: '5'
+f_end: 9
+f_start: 5
 family: Scrophulariaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_G_3104.JPG
 lead_sample: false
 order: Rhinanthus
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Freynov škrobotec

@@ -1,7 +1,7 @@
 ---
 color: W
-f_end: '5'
-f_start: '4'
+f_end: 5
+f_start: 4
 family: Alliaceae
 flower_type: B
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Allium
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Wild garlic

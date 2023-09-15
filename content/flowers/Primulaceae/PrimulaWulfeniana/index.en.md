@@ -1,8 +1,8 @@
 ---
 color: R
-date: '2004-06-13T00:00:00'
-f_end: '7'
-f_start: '4'
+date: 2004-06-13 00:00:00+00:00
+f_end: 7
+f_start: 4
 family: Primulaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Primula
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Wulfen's Primrose

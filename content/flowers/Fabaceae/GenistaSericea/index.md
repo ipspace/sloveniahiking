@@ -1,8 +1,8 @@
 ---
 color: Y
 date: 2007-05-27 00:00:00+00:00
-f_end: '6'
-f_start: '5'
+f_end: 6
+f_start: 5
 family: Fabaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead: M_0_00823.JPG
 lead_sample: false
 order: Genista
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Svilnata košeničica

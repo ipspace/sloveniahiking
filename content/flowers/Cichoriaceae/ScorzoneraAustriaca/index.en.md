@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2004-05-16T00:00:00'
-f_end: '5'
-f_start: '4'
+date: 2004-05-16 00:00:00+00:00
+f_end: 5
+f_start: 4
 family: Cichoriaceae
 flower_type: K
 image:

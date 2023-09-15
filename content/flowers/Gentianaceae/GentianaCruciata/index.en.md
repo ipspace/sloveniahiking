@@ -1,7 +1,7 @@
 ---
 color: B
-f_end: '8'
-f_start: '7'
+f_end: 8
+f_start: 7
 family: Gentianaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index.en
 order: Gentiana
 parallel: false
-petals: '4'
+petals: 4
 petals_joined: false
 star_shape: false
 title: Cross Gentian

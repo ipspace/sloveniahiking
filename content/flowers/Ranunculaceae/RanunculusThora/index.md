@@ -1,9 +1,9 @@
 ---
 author: Mojca Luštrek
 color: Y
-date: '2005-05-15T00:00:00'
-f_end: '6'
-f_start: '5'
+date: 2005-05-15 00:00:00+00:00
+f_end: 6
+f_start: 5
 family: Ranunculaceae
 flower_type: C
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index
 order: Ranunculus
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Opojna zlatica

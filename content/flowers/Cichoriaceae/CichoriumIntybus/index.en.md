@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2002-11-09T00:00:00'
-f_end: '10'
-f_start: '7'
+date: 2002-11-09 00:00:00+00:00
+f_end: 10
+f_start: 7
 family: Cichoriaceae
 flower_type: K
 image:

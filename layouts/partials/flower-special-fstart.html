@@ -1,5 +1,6 @@
 <section class='flower__gallery'>
-{{ $pages := where (where $.Site.Pages "Section" "flowers") "Params.f_start" "in" .Params.fstart_list }}
+{{ $flowers := where $.Site.Pages "Section" "flowers" }}
+{{ $pages := where $flowers "Params.f_start" "in" .Params.fstart_list }}
 {{ range $pages.ByTitle }}
   {{ if .Params.lead }}
   {{ partial "flower-item.html" . }}

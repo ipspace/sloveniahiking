@@ -1,7 +1,7 @@
 ---
 color: R
-f_end: '9'
-f_start: '7'
+f_end: 9
+f_start: 7
 family: Crassulaceae
 flower_type: C
 image:
@@ -14,7 +14,7 @@ lead_sample: false
 name: index
 order: Sempervivum
 parallel: false
-petals: '10'
+petals: 10
 petals_joined: false
 star_shape: false
 title: Navadni netresk

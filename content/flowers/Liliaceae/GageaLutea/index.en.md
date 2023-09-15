@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2003-03-30T00:00:00'
-f_end: '5'
-f_start: '3'
+date: 2003-03-30 00:00:00+00:00
+f_end: 5
+f_start: 3
 family: Liliaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index.en
 order: Gagea
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Yellow Star-of-Betlehem

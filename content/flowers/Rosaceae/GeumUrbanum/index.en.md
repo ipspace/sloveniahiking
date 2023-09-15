@@ -1,8 +1,8 @@
 ---
 color: Y
-date: '2005-03-20T00:00:00'
-f_end: '9'
-f_start: '5'
+date: 2005-03-20 00:00:00+00:00
+f_end: 9
+f_start: 5
 family: Rosaceae
 flower_type: C
 image:
@@ -13,7 +13,7 @@ lead_sample: false
 name: index.en
 order: Geum
 parallel: false
-petals: '5'
+petals: 5
 petals_joined: false
 star_shape: false
 title: Geum urbanum

@@ -1,8 +1,8 @@
 ---
 color: B
-date: '2005-05-27T00:00:00'
-f_end: '6'
-f_start: '6'
+date: 2005-05-27 00:00:00+00:00
+f_end: 6
+f_start: 6
 family: Iridaceae
 flower_type: B
 image:
@@ -15,7 +15,7 @@ lead_sample: false
 name: index.en
 order: Iris
 parallel: false
-petals: '6'
+petals: 6
 petals_joined: false
 star_shape: false
 title: Iris sibirica ssp. erirrhiza
