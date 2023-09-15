@@ -8,8 +8,8 @@ Slovenia is probably one of the best-kept secrets of Europe. Beautiful environme
 
 Our pages contain photo galleries from over 180 hikes in Slovenian hills and mountains, some of them also have brief English descriptions -- they are marked with red dots on the above map; you could also find them by browsing individual regions. You might also want to check out our [biking ideas](../biking).
 
-You could also [list all the excursions](../hikes-list/list/) in our database, or just [those with English descriptions](../hikes-list/list-photos/).
+You could [list all the excursions](../hikes-list/list/) in our database, or just [those with English descriptions](../hikes-list/list-photos/).
 
 ## Recent Hikes with English Descriptions
 
-These hikes have English descriptions (the long ones were translated from Slovenian original by Margaret Davis).
+These hikes have [English descriptions](../hikes-list/list-photos/) (the long hike descriptions were translated from Slovenian original by Margaret Davis).

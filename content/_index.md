@@ -13,10 +13,9 @@ RSS: https://sloveniahiking.rocks/en/index.xml
 * [Latest Articles](/en/top)
 {{</tile>}}
 {{<tile title="Hiking in Slovenia" image="/hikes/debelapec/M_1_0145.jpg">}}
-180 hikes around Slovenia
-* [Recent changes](/en/hikes)
+* [180+ hikes around Slovenia](/en/hikes)
 * [List of hikes](/en/hikes-list/list/)
-* [Hikes with descriptions](/en/hikes-list/list-photos/)
+* [Hikes with English descriptions](/en/hikes-list/list-photos/)
 {{</tile>}}
 {{<tile title="Wild Flowers" image="/flowers/senecioabrotanifolius/M_7_1744.JPG">}}
 * [600 Slovenian wild flowers](/en/flowers/)
@@ -29,13 +28,10 @@ RSS: https://sloveniahiking.rocks/en/index.xml
 {{<tile-column>}}
 {{<tile title="Pojdimo v naravo" image="/images/climbing-greben.jpg">}}
 * [Izleti](/hikes/)
-* [Plezanje](https://www.plezanje.net/climbing/index.asp)
-* [Alpinizem](https://www.plezanje.net/climbing/db/cragIntro.asp?cc=SI&type=W)
-* [Ledno plezanje](https://www.plezanje.net/climbing/db/index.asp?file=iceKamSavAlpe.xml)
+* [Plezanje](https://www.plezanje.net/)
 {{</tile>}}
 {{<tile title="Izleti po Sloveniji" image="/hikes/kovk/budanje/M_0_00679.JPG">}}
-* 180 izletov po Sloveniji
-* [Novosti](/hikes)
+* [180 izletov po Sloveniji](/hikes)
 * [Seznam izletov](/hikes-list/list/)
 * [Kratki opisi](/hikes-list/list-photos/)
 {{</tile>}}
