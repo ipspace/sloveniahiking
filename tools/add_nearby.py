@@ -4,6 +4,7 @@
 import sys
 import os
 import argparse
+import datetime
 
 from wc.config import config
 import cm.traverse
@@ -34,6 +35,10 @@ def get_page_latlon(page):
 def get_coords(fname):
   page = cm.read.page(fname)
   if not page:
+    return
+
+  if 'date' in page and page['date'] > datetime.datetime.now(datetime.timezone.utc):
+    print(f"Skipping {fname} -- published on {str(page['date'])}")
     return
 
   latlon = get_page_latlon(page)
