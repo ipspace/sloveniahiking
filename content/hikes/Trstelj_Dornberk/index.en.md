@@ -23,11 +23,11 @@ lead: M_0-4079_IMG.JPG
 maplink: https://mapzs.pzs.si/path/31945
 name: Trstelj_Dornberk
 nearby:
-- /biking/trstelj
 - /hikes/pedrovo
 - /hikes/crnihribi
 - /hikes/cerje
 - /biking/lukovecmalidol
+- /biking/path9ponds
 peak: 45.857869,13.703780
 region: karst
 start: 45.883553,13.737850

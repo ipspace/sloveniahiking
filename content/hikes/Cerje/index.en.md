@@ -25,9 +25,9 @@ name: Cerje
 nearby:
 - /hikes/crnihribi
 - /hikes/trstelj_dornberk
-- /biking/trstelj
 - /hikes/pedrovo
 - /biking/lukovecmalidol
+- /hikes/skoljsvpavla
 nosync: true
 peak: 45.872442,13.615999
 region: karst
