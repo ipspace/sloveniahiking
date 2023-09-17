@@ -22,8 +22,8 @@ nearby:
 - /biking/malalazna
 - /biking/cavenbiking
 - /biking/smrekovalazna
+- /biking/klavze
 - /hikes/orlovca
-- /hikes/dolskimaj
 peak: 45.978565,13.864346
 region: primorska
 title: Mali Golak

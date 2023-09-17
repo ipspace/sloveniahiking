@@ -23,10 +23,10 @@ maplink: https://mapzs.pzs.si/poi/1603
 name: Zadlog
 nearby:
 - /hikes/hleviskeplanine
+- /biking/klavze
 - /biking/kriznagorajavornik
 - /biking/vojsko
 - /hikes/vrsnik_ziri
-- /biking/zavratectrail
 region: primorska
 start: 45.982522,14.027454
 title: Zadlog from Wild Lake

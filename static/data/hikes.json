@@ -97,7 +97,7 @@
     "duration": 5,
     "height": 1028,
     "lead": "M_9-4934_IMG.JPG",
-    "map": 1,
+    "map": "C",
     "maplink": "https://mapzs.projekti.si/poi/1235",
     "multilead": "M_9-4934_IMG.JPG",
     "multipath": true,
@@ -122,7 +122,7 @@
     "delta": 510,
     "description": {
       "sl": "Strma pot na Slavnik iz Podgorja je verjetno najbolj zanimiva za tiste, ki bi si radi s strmimi vzponi nabirali kondicijo.",
-      "en": "Since the overabundance of cohesion funds helped transform the [old dirt track](../podgorje) to [Slavnik](../) into a gravel road, I prefer to take the steeper footpath ascending directly toward the peak.\n"
+      "en": "Since the overabundance of EU cohesion funds helped transform the old dirt track to Slavnik into a gravel road, I prefer to take the steeper footpath ascending directly toward the peak.\n"
     },
     "difflevel": 2,
     "duration": 2.5,
@@ -673,7 +673,7 @@
     "duration": 2.5,
     "height": 968,
     "lead": "M_4-4438_IMG.JPG",
-    "map": 1,
+    "map": "C",
     "maplink": "https://mapzs.projekti.si/poi/1226",
     "multilead": "M_4-4438_IMG.JPG",
     "multipath": true,
@@ -1796,7 +1796,7 @@
     "duration": 4.5,
     "height": 832,
     "lead": "M_5-4588_IMG.JPG",
-    "map": 1,
+    "map": "C",
     "maplink": "https://mapzs.pzs.si/poi/3860",
     "name": "BukovVrh",
     "nearby": [
@@ -3907,7 +3907,7 @@
     "duration": 3.5,
     "height": 901,
     "lead": "M_6-4626_IMG.JPG",
-    "map": 1,
+    "map": "C",
     "maplink": "https://mapzs.projekti.si/poi/1368",
     "multilead": "M_6-4626_IMG.JPG",
     "multipath": true,
@@ -6281,7 +6281,7 @@
     "delta": 230,
     "description": {
       "sl": "Vzpon na Planino od kme\u010dkega turizma na Kurenu je idealen nedeljski izlet, ki ga boste verjetno zdru\u017eili s kosilom na Kurenu.",
-      "en": "The hike to [Planina](../) (\u0160pica) from Kuren is an ideal weekend family hike. If you're looking for something longer, start in [Vrhnika](../kv) or at [Star Maln](../sm)."
+      "en": "The hike to Planina above Vrhnika (\u0160pica) from Kuren is an ideal weekend family hike.\n"
     },
     "difflevel": 1,
     "duration": 1.5,
@@ -7769,10 +7769,10 @@
     "name": "Zadlog",
     "nearby": [
       "/hikes/hleviskeplanine",
+      "/biking/klavze",
       "/biking/kriznagorajavornik",
       "/biking/vojsko",
-      "/hikes/vrsnik_ziri",
-      "/biking/zavratectrail"
+      "/hikes/vrsnik_ziri"
     ],
     "region": "primorska",
     "start": "45.982522,14.027454",
@@ -8061,6 +8061,37 @@
     },
     "type": "biking",
     "center": "45.995647,14.123256"
+  },
+  {
+    "date": "2023-09-17 04:43:20+00:00",
+    "delta": 370,
+    "description": {
+      "en": "Love biking along sapphire crystal-clear streams with a bit of history on the side? You must drop by Idrija, bike through the Strug Gorge, and visit klav\u017ee (huge water barriers used to transport wood downriver)."
+    },
+    "difficulty": "Pleasant tour on a mix of gravel and asphalt roads",
+    "difflevel": 2,
+    "duration": 3,
+    "height": 690,
+    "layout": "structured",
+    "lead": "M_20230908_112648.jpg",
+    "length": 25.8,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.97348&lon=13.97817&layers=B0000",
+    "name": "Klavze",
+    "nearby": [
+      "/biking/vojsko",
+      "/hikes/maligolak",
+      "/hikes/orlovca",
+      "/hikes/dolskimaj",
+      "/hikes/hleviskeplanine"
+    ],
+    "peak": "45.975780,13.928138",
+    "region": "primorska",
+    "start": "45.982450,14.027438",
+    "title": {
+      "en": "Strug Gorge and Klav\u017ee"
+    },
+    "type": "biking",
+    "center": "45.968944,13.977533"
   },
   {
     "date": "2022-08-22 16:10:27+00:00",
@@ -8649,11 +8680,11 @@
     "maplink": "https://mapzs.pzs.si/poi/5157",
     "name": "Vojsko",
     "nearby": [
+      "/biking/klavze",
       "/hikes/hleviskeplanine",
       "/hikes/maligolak",
       "/biking/idrijskekrnice",
-      "/biking/lokvarskivrh",
-      "/biking/oblakovvrh"
+      "/biking/lokvarskivrh"
     ],
     "region": "primorska",
     "start": "45.981987,13.973719",

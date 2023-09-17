@@ -11,10 +11,10 @@ maplink: https://mapzs.pzs.si/poi/278
 name: HleviskePlanine
 nearby:
 - /biking/zadlog
+- /biking/klavze
 - /biking/vojsko
 - /biking/idrijskekrnice
 - /hikes/vrsnik_ziri
-- /hikes/mrzlivrh_ziri
 peak: 45.987225,13.995846
 region: primorska
 start: 46.000427,14.023701

@@ -23,11 +23,11 @@ length: 24.1
 maplink: https://mapzs.pzs.si/poi/5157
 name: Vojsko
 nearby:
+- /biking/klavze
 - /hikes/hleviskeplanine
 - /hikes/maligolak
 - /biking/idrijskekrnice
 - /biking/lokvarskivrh
-- /biking/oblakovvrh
 region: primorska
 start: 45.981987,13.973719
 title: Vojsko from Čekovnik
