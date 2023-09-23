@@ -8728,6 +8728,36 @@
     "center": "45.515351,13.942053"
   },
   {
+    "date": "2023-09-19 07:26:24+00:00",
+    "delta": 590,
+    "description": {
+      "en": "I noticed a gravel road leading to the Trstelj mountain hut the last time I was there and decided to use it for a bike trip starting in Komen. I tried to avoid the asphalt roads as much as possible, but it's not hard to find a route that will bring you to Trstelj even if you have a road bike."
+    },
+    "difficulty": "A mix of occasionally steep asphalt- and gravel roads",
+    "difflevel": 2,
+    "duration": 3,
+    "height": 643,
+    "layout": "structured",
+    "lead": "M_20230525_090120.jpg",
+    "length": 27.1,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.97348&lon=13.97817&layers=B0000",
+    "name": "Trstelj",
+    "nearby": [
+      "/hikes/trstelj_dornberk",
+      "/hikes/pedrovo",
+      "/hikes/crnihribi",
+      "/biking/lukovecmalidol",
+      "/hikes/cerje"
+    ],
+    "region": "karst",
+    "start": "45.817763,13.745293",
+    "title": {
+      "en": "Trstelj from Komen"
+    },
+    "type": "biking",
+    "center": "45.840938,13.704833"
+  },
+  {
     "date": "2023-09-07 15:29:51+00:00",
     "delta": 810,
     "description": {

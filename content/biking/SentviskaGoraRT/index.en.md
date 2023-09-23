@@ -1,5 +1,5 @@
 ---
-date: 2023-09-21 07:45:45+00:00
+date: 2023-09-24 07:45:45+00:00
 delta: 350
 description: Biking from Idrijca Valley to Šentviška Gora (a plateau high above the
   valley) is nice; a roundtrip around the plateau is a beautiful experience. We'll
