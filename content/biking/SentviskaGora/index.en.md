@@ -22,10 +22,10 @@ maplink: https://www.opencyclemap.org/?zoom=14&lat=46.11219&lon=13.84293&layers=
 name: SentviskaGora
 nearby:
 - /hikes/skrbinakuk
+- /biking/sentviskagorart
 - /hikes/sebrelje
 - /biking/sebrelje
 - /hikes/rodne
-- /biking/zakojca
 peak: 46.108664,13.878427
 region: primorska
 start: 46.119036,13.805734

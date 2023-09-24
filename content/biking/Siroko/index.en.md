@@ -28,11 +28,11 @@ length: 13
 maplink: https://mapzs.pzs.si/poi/66777
 name: Siroko
 nearby:
+- /biking/sentviskagorart
 - /hikes/kobiljaglava
 - /hikes/skrbinakuk
 - /biking/sentviskagora
 - /hikes/planinarazor
-- /hikes/sebrelje
 peak: 46.131466,13.759541
 region: primorska
 start: 46.155443,13.747461

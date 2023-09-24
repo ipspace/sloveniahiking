@@ -22,10 +22,10 @@ maplink: https://www.opencyclemap.org/?zoom=15&lat=46.09154&lon=13.85775&layers=
 name: SkrbinaKuk
 nearby:
 - /biking/sentviskagora
+- /biking/sentviskagorart
 - /biking/oblakovvrh
 - /biking/sebrelje
 - /hikes/sebrelje
-- /biking/lokvarskivrh
 peak: 46.092487,13.853752
 region: primorska
 title: Škrbina and Kuk

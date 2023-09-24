@@ -7547,6 +7547,36 @@
     "center": "45.492391,13.798265"
   },
   {
+    "date": "2023-09-24 07:45:45+00:00",
+    "delta": 350,
+    "description": {
+      "en": "Biking from Idrijca Valley to \u0160entvi\u0161ka Gora (a plateau high above the valley) is nice; a roundtrip around the plateau is a beautiful experience. We'll explore the sunny meadows and forests between Pe\u010dine and \u0160entvi\u0161ka Gora."
+    },
+    "difficulty": "A mix of somewhat steep asphalt- and gravel roads",
+    "difflevel": 2,
+    "duration": 2,
+    "height": 840,
+    "layout": "structured",
+    "lead": "M_20230609_111104.jpg",
+    "length": 14,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.12487&lon=13.84172&layers=B0000",
+    "name": "SentviskaGoraRT",
+    "nearby": [
+      "/biking/sentviskagora",
+      "/hikes/skrbinakuk",
+      "/hikes/sebrelje",
+      "/biking/zakojca",
+      "/hikes/rodne"
+    ],
+    "region": "primorska",
+    "start": "46.111067,13.827340",
+    "title": {
+      "en": "\u0160entvi\u0161ka Gora Roundtrip"
+    },
+    "type": "biking",
+    "center": "46.121986,13.847964"
+  },
+  {
     "date": "2022-06-16 12:22:57+00:00",
     "delta": 310,
     "description": {
@@ -7623,11 +7653,11 @@
     "maplink": "https://mapzs.pzs.si/poi/66777",
     "name": "Siroko",
     "nearby": [
+      "/biking/sentviskagorart",
       "/hikes/kobiljaglava",
       "/hikes/skrbinakuk",
       "/biking/sentviskagora",
-      "/hikes/planinarazor",
-      "/hikes/sebrelje"
+      "/hikes/planinarazor"
     ],
     "peak": "46.131466,13.759541",
     "region": "primorska",
@@ -8325,10 +8355,10 @@
     "name": "SentviskaGora",
     "nearby": [
       "/hikes/skrbinakuk",
+      "/biking/sentviskagorart",
       "/hikes/sebrelje",
       "/biking/sebrelje",
-      "/hikes/rodne",
-      "/biking/zakojca"
+      "/hikes/rodne"
     ],
     "peak": "46.108664,13.878427",
     "region": "primorska",
