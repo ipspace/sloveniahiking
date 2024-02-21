@@ -19,7 +19,7 @@ petals_joined: false
 star_shape: false
 title: Volčja češnja
 ---
-![](../../images/flowers)Volčja češnja je zelo strupena rastlina iz družine razhudnikov. Jeseni je ni težko prepoznati po bleščečih črnih jagodah, ki se razvijejo nad čašnimi listi. Od drugih razhudnikov pa jo boste tudi v času cvetenja ločili po tehle znakih:
+Volčja češnja je zelo strupena rastlina iz družine razhudnikov. Jeseni je ni težko prepoznati po bleščečih črnih jagodah, ki se razvijejo nad čašnimi listi. Od drugih razhudnikov pa jo boste tudi v času cvetenja ločili po tehle znakih:
 
 -   Zelnata rastlina s posamičnimi cevastimi cvetovi, venčne krpe so krajše od venčne cevi.
 -   Steblo je močno razvejeno, visoko do 150 cm.

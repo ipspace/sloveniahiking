@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Velecvetni kristavec
 ---
-![](../../images/flowers)Velecvetni kristavec (*Datura innoxia*) je okrasni sorodnik navadnega kristavca (*Datura stramonium*), ki ga lahko najdemo po vsej Sloveniji. Zaradi značilne oblike cvetov prepoznavanje sploh ne bo težko, če boste v dvomih, pa preverite splošne lastnosti razhudnikov in tele lastnosti:
+Velecvetni kristavec (*Datura innoxia*) je okrasni sorodnik navadnega kristavca (*Datura stramonium*), ki ga lahko najdemo po vsej Sloveniji. Zaradi značilne oblike cvetov prepoznavanje sploh ne bo težko, če boste v dvomih, pa preverite splošne lastnosti razhudnikov in tele lastnosti:
 
 -   Zelnata rastlina.
 -   Cvetovi so posamični.

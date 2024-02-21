@@ -16,7 +16,7 @@ petals_joined: false
 star_shape: false
 title: Jesenski podlesek
 ---
-![](../../images/flowers)Ko boste na travnikih opazili rožnatordeče (včasih tudi škrlatne) cvetove jesenskega podleska (*Colchicum autumnale*), boste vedeli, da je poletja nepreklicno konec in da je spet prišla jesen.
+Ko boste na travnikih opazili rožnatordeče (včasih tudi škrlatne) cvetove jesenskega podleska (*Colchicum autumnale*), boste vedeli, da je poletja nepreklicno konec in da je spet prišla jesen.
 
 Cvetovi so zvezdasti, navadno posamični, z dolgo in ozko venčno cevjo. Steblo z listi in plodovi (rjava do rjavočrna semena v zeleni ovojnici) se pojavi šele spomladi.
 

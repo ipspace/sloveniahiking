@@ -18,6 +18,6 @@ petals_joined: false
 star_shape: false
 title: Dišeči volčin
 ---
-![](../../images/flowers)Če se boste od aprila do junija odpravili na prava mesta (Polhograjska Grmada, zasavsko hribovje, nekateri predeli v Karavankah), boste na kamnitih sončnih pobočjih opazili nizke grmičke z živo rožnatimi dišečimi cvetovi -- našli ste dišeči volčin. Preverite še, ali ima rastlina cvetove brez cvetne čaše s štirimi zraslimi venčnimi listi in osmimi prašniki ter ali so listi celi in razvrščeni spiralasto.
+Če se boste od aprila do junija odpravili na prava mesta (Polhograjska Grmada, zasavsko hribovje, nekateri predeli v Karavankah), boste na kamnitih sončnih pobočjih opazili nizke grmičke z živo rožnatimi dišečimi cvetovi -- našli ste dišeči volčin. Preverite še, ali ima rastlina cvetove brez cvetne čaše s štirimi zraslimi venčnimi listi in osmimi prašniki ter ali so listi celi in razvrščeni spiralasto.
 
 Od ostalih volčinov boste dišečega ločili po razporeditvi cvetov (zbrani so na vrhu stebla), ki so kratkopecljati, rožnati in seveda dišeči.
