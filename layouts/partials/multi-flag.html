@@ -2,6 +2,7 @@
 {{ $lang := .lang | default "???" }}
 {{ $page := .page }}
 {{ range .page.Translations }}
+<!-- XLAT: {{ .Permalink }} -->
   {{ if ne .Lang $lang }}
     {{ if $page.Scratch.Get .Lang }}
     {{ else }}
