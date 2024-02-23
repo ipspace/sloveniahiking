@@ -37,7 +37,7 @@ RSS: https://sloveniahiking.rocks/en/index.xml
 {{</tile>}}
 {{<tile title="Slovenske rože" image="/flowers/astrantiabavarica/M_007072201.JPG">}}
 * [600 slovenskih rož](/flowers/)
-* [Galerija](/flowers/list.html)
+* [Galerija](/flowers/list/)
 * [Prvi znanilci pomladi](/flowers/pomladne-roze/)
 * [Slovenske orhideje](/flowers/family/orchidaceae/)
 * [Slovenske lilije](/flowers/genus/lilium/)
