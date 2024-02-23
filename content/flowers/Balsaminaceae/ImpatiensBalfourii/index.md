@@ -18,10 +18,10 @@ petals_joined: false
 star_shape: false
 title: Balfourova nedotika
 ---
-Balfourovo nedotiko, priseljenko s Himalaje, boste v Sloveniji opazili zelo redko (precej obsežno rastišče je v Mačkovem grabnu pod Toščem). Že prvi pogled na cvetove, ki vas bodo najpogosteje pozdravili v  juliju in avgustu, včasih pa jih boste videli še v začetku oktobra, vam bo povedal, da ste se srečali z nedotiko (podrobnejši opis cvetov si oglejte v opisu [navadne nedotike](../impatiensnolitangere)).
+Balfourovo nedotiko, priseljenko s Himalaje, boste v Sloveniji opazili zelo redko (precej obsežno rastišče je v Mačkovem grabnu pod Toščem). Že prvi pogled na cvetove, ki vas bodo najpogosteje pozdravili v  juliju in avgustu, včasih pa jih boste videli še v začetku oktobra, vam bo povedal, da ste se srečali z nedotiko (podrobnejši opis cvetov si oglejte v opisu [navadne nedotike](../impatiensnoli-tangere)).
 
 Od ostalih nedotik boste Balfourovo ločili takole:
 
 -   Cvetovi so zbrani v grozdastih socvetjih (slabo vidno na desni fotografiji -- v vsakem socvetju je en cvet in nekaj plodov).
 -   Listi so spiralasto nameščeni ([žlezava nedotika](../impatiensglandulifera) ima liste v vretencih).
--   Zgornji del venca je bel, spodnji rožnat ([navadna nedotika](../impatiensnolitangere) ima rumen venec).
+-   Zgornji del venca je bel, spodnji rožnat ([navadna nedotika](../impatiensnoli-tangere) ima rumen venec).

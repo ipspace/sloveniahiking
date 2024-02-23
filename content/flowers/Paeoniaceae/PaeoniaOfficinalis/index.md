@@ -19,6 +19,6 @@ petals_joined: false
 star_shape: false
 title: Navadna potonika
 ---
-Divje rastoče potonike boste v maju našli na svetlih kamnitih kraških tleh na Primorskem (na [Slavniku](../../Izleti), [Vremščici](../../Izleti)). Potonike so zelnate trajnice z velikimi, pernato deljenimi listi. Pritlični listi so sestavljeni iz več delov, ki so navadno ponovno deljeni v 2-3 krpe (glej sliko spodaj desno).
+Divje rastoče potonike boste v maju našli na svetlih kamnitih kraških tleh na Primorskem (na [Slavniku](../../hikes/slavnik), [Vremščici](../../hikes/vremscica)). Potonike so zelnate trajnice z velikimi, pernato deljenimi listi. Pritlični listi so sestavljeni iz več delov, ki so navadno ponovno deljeni v 2-3 krpe (glej sliko spodaj desno).
 
 Cvetovi so posamični in zelo veliki (do 13 cm v premeru, zato sodijo potonike med slovenske rože z največjimi cvetovi). Cvet ima pet čašnih listov in pet do osem venčnih listov. Prašniki so številni, pestiča pa le dva ali trije.

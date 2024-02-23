@@ -19,7 +19,7 @@ parallel: false
 petals: 5
 petals_joined: false
 star_shape: false
-title: Zlezava nedotika
+title: Žlezava nedotika
 ---
 Žlezava nedotika, do 2 metra visoka rastlina, je v Slovenijo prišla iz Indije, a se očitno pri nas odlično počuti, saj lahko njene roza-rdeče cvetove v juliju in avgustu pogosto občudujemo na vlažnih tleh hribovitih predelov Slovenije.
 
