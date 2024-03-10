@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Šmarna hrušica
 ---
-Šmarna hrušica je do 3 metre visok grm, ki raste predvsem na prisojnih kamnitih pobočjih in v svetlih gozdovih (zelo hitro jo boste našli na [Kamniškem vrhu](../../Izleti)). Oblika cvetov vam takoj pove, da spada med [rožnice](..), od drugih grmov iz te družine pa jo boste ločili takole:
+Šmarna hrušica je do 3 metre visok grm, ki raste predvsem na prisojnih kamnitih pobočjih in v svetlih gozdovih (zelo hitro jo boste našli na [Kamniškem vrhu](../../hikes/kamniskivrh)). Oblika cvetov vam takoj pove, da spada med [rožnice](../family/rosaceae), od drugih grmov iz te družine pa jo boste ločili takole:
 
 -   Listi so enostavni (dobro vidno na fotografiji), eliptične oblike in na vrhu zaokroženi. Mladi listi so gosto belodlakavi.
 -   Plodnica je podrasla.

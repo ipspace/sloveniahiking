@@ -18,6 +18,6 @@ petals_joined: false
 star_shape: false
 title: Črnikastovijolična orlica
 ---
-Črnikastovijolična orlica cveti od maja do julija na apnenčastih travnikih, grmovnatih mestih in grušču. Našli jo boste le na nekaj mestih v Sloveniji, najenostavneje bo, če se odpravite na vrh [Ulovke](../../Izleti) na [Zaplani](../..).
+Črnikastovijolična orlica cveti od maja do julija na apnenčastih travnikih, grmovnatih mestih in grušču. Našli jo boste le na nekaj mestih v Sloveniji, najenostavneje bo, če se odpravite na vrh Ulovke na Zaplani.
 
 Od drugih orlic boste črnikastovijolično hitro ločili po temnejšem cvetu, vsekakor pa preverite še te lastnosti:

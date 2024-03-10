@@ -19,7 +19,7 @@ RSS: https://sloveniahiking.rocks/en/index.xml
 {{</tile>}}
 {{<tile title="Wild Flowers" image="/flowers/senecioabrotanifolius/M_7_1744.JPG">}}
 * [600 Slovenian wild flowers](/en/flowers/)
-* [Gallery](/en/flowers/list.html)
+* [Gallery](/en/flowers/list/)
 * [Early spring flowers](/en/flowers/early-spring/)
 * [Slovenian Orchids](/en/flowers/family/orchidaceae/)
 * [Slovenian Lilies](/en/flowers/genus/lilium/)

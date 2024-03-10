@@ -36,7 +36,7 @@ title: Mali Draški vrh
 x: 415
 y: 136
 ---
-{{<figure src="M_0_00606.JPG" caption="Mali Draški vrh zViševnika">}}
+{{<figure src="M_0_00606.JPG" caption="Mali Draški vrh z Viševnika">}}
 
 Če se boste sprehajali po grebenu, ki se od Tosca do Debele peči dviga nad dolino Krme, se vam bo pogled zagotovo ustavil tudi na ostrem grebenu Malega Draškega vrha. Nanj vodi le slabo vidna stezica s Srenjskega prevala, dostop do vrha pa zahteva tudi nekaj plezalnega znanja, zato ni čudno, da Mihelič v svojem vodniku po Julijskih Alpah pravi, da je Mali Draški vrh najteže dostopni vrh v vsem grebenu.
 
@@ -72,7 +72,7 @@ y: 136
 Do Srenjskega prevala
 ---------------------
 
-{{<figure src="http://127.0.0.1/Izleti/MaliDraskiVrh/T_0_00596.JPG" caption="Kačji rob">}} {{<figure src="M_0_00598.JPG" caption="Prvi pogled na Mali Draški vrh">}}
+{{<figure src="M_0_00598.JPG" caption="Prvi pogled na Mali Draški vrh">}}
 
 Na Mali Draški vrh se boste povzpeli s Srenjskega prevala, do katerega vas pripelje ena od teh poti:
 
@@ -95,10 +95,11 @@ Prvih nekaj metrov poti je dobro vidnih, ko pa se grušč spremeni v skrotje, po
 
 Vzhodni (nižji) vrh Malega Draškega vrha je oddaljen le dobrih 20 metrov od sedla, pa vendar se boste morali do njega potruditi: malce poplezavanja v desno po položni skali (zgornji rob je odličen za oprijemanje) vas bo pripeljalo do izrazitega roglja, ki se mu izognete v desno na ozko stezico. Ta se onkraj njega razširi v udobno pot do vrha, kjer vas čaka celo žig.
 
-{{<figure src="M_0_00600.JPG" caption=", v ozadju">}} {{<figure src="M_0_00602.JPG">}}\
-[Viševnik](../visevnik) {{<figure src="M_0_00605.JPG">}}\
-Jezerce s Srenjskega\
-prevala
+{{<gallery>}}
+{{<figure src="M_0_00600.JPG">}}
+{{<figure src="M_0_00602.JPG">}}
+{{<figure src="M_0_00605.JPG">}}
+{{</gallery>}}
 
 Pot na zahodni vrh je precej bolj nadležna -- do njega se odpravite po južni strani grebena, kjer se pretaknete med redkim ruševjem do škrbine. Po tej splezate po severni (prepadni) strani navzdol do nadaljevanja grebena (zračno!!), nato pa spet po južnem travnatem pobočju poiščete pot pod grebenom do vrha. Med vračanjem pazite, da se ne boste začeli prehitro spuščati (naleteli boste namreč na usek, ki je zelo podoben grapi, po kateri ste se povzpeli).
 

@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Kranjski jeglič
 ---
-Endemični kranjski jeglič cveti v vlažnih skalnih razpokah po bukovih gozdovih od aprila do junija. Najlaže ga boste našli v Idrijskem hribovju, pa tudi ponekod na Notranjskem ([Borovniški Pekel](../../Izleti), Iški Vintgar).
+Endemični kranjski jeglič cveti v vlažnih skalnih razpokah po bukovih gozdovih od aprila do junija. Najlaže ga boste našli v Idrijskem hribovju, pa tudi ponekod na Notranjskem ([Borovniški Pekel](../../hikes/borovniski_pekel), Iški Vintgar).
 
 To čudovito rožico boste verjetno prepoznali že na prvi pogled, od drugih jegličev pa jo boste ločili takole:
 

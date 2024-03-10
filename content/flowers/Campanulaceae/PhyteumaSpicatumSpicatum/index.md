@@ -17,4 +17,4 @@ petals_joined: false
 star_shape: false
 title: Klasasti repuš
 ---
-Klasasti repuš cveti od maja do avgusta na grmovnatih pobočjih in gozdnih travnikih marsikje v Sloveniji (slika je z [Mrzlice](../../Izleti)). Prepoznavanje sploh ne bo težko -- je edini repuš z zelenkasto-belimi cvetovi.
+Klasasti repuš cveti od maja do avgusta na grmovnatih pobočjih in gozdnih travnikih marsikje v Sloveniji (slika je z [Mrzlice](../../hikes/mrzlica)). Prepoznavanje sploh ne bo težko -- je edini [repuš](../genus/phyteuma) z zelenkasto-belimi cvetovi.

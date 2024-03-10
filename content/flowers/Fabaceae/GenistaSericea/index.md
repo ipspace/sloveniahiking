@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Svilnata košeničica
 ---
-Svilnata [košeničica](..) cveti v maju in juniju na kamnitih kraških pobočjih (hitro jo boste našli na [Mali gori](../../Izleti)). Od bližnjih sorodnic jo boste ločili takole:
+Svilnata [košeničica](../genus/genista) cveti v maju in juniju na kamnitih kraških pobočjih (hitro jo boste našli na [Mali gori](../../hikes/malagora)). Od bližnjih sorodnic jo boste ločili takole:
 
 -   Rastlina nima trnov.
 -   Listi so celi in dolgi 2 do 4 centimetre.

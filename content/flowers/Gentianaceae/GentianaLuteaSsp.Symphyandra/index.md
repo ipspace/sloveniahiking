@@ -19,8 +19,8 @@ petals_joined: false
 star_shape: false
 title: Bratinski košutnik
 ---
-V juliju in avgustu boste na travnikih v Julijskih Alpah, [Trnovskem gozdu](../../Izleti), na [Nanosu](../../Izleti) pa tudi na drugih više ležečih kraških travnikih ([Vremščici](../../Izleti), [Goliču](../../Izleti)) našli košutnik, več kot meter visoko rastlino z gostimi vretenčastimi socvetji rumenih cvetov.
+V juliju in avgustu boste na travnikih v Julijskih Alpah, [Trnovskem gozdu](../../hikes/malagora), na [Nanosu](../../hikes/nanos) pa tudi na drugih više ležečih kraških travnikih ([Vremščici](../../hikes/vremscica), [Goliču](../../hikes/golic)) našli košutnik, več kot meter visoko rastlino z gostimi vretenčastimi socvetji rumenih cvetov.
 
-Na prvi pogled košutnik ne spada med [svišče](..): njegovi listi so vzporednožilnati, cvetovi pa rumeni (vsi drugi svišči imajo modre ali vijolične cvetove). Kljub temu ga mednje uvršča zgradba cveta; ta ima pet zraslih venčnih in čašnih listov ter pet prašnikov.
+Na prvi pogled košutnik ne spada med [svišče](../genus/gentiana): njegovi listi so vzporednožilnati, cvetovi pa rumeni (vsi drugi svišči imajo modre ali vijolične cvetove). Kljub temu ga mednje uvršča zgradba cveta; ta ima pet zraslih venčnih in čašnih listov ter pet prašnikov.
 
 V Sloveniji rasteta dve podvrsti košutnika, Vardjanov in bratinski. Ločili ju boste brez težav: bratinski košutnik ima zrasle prašnice (lepo vidne na srednji fotografiji), venčni listi pa so večinoma temnopikčasti.

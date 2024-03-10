@@ -18,7 +18,7 @@ petals_joined: false
 star_shape: false
 title: Gorska detelja
 ---
-Gorska detelja cveti (nekoliko v nasprotju s svojim imenom) na travnikih od nižine do sredogorja po vsej Sloveniji (fotografija je z vrha [Dolskega maja](http://www.zaplana.net/Izleti/DolskiMaj/)). Prepričan sem, da boste takoj ugotovili, da ste našli cvetove (v resnici socvetja) [detelje](..), gorsko pa boste od drugih sorodnic z belimi cvetovi ločili takole:
+Gorska detelja cveti (nekoliko v nasprotju s svojim imenom) na travnikih od nižine do sredogorja po vsej Sloveniji (fotografija je z vrha [Dolskega maja](../../hikes/dolskimaj/)). Prepričan sem, da boste takoj ugotovili, da ste našli cvetove (v resnici socvetja) [detelje](../genus/trifolium), gorsko pa boste od drugih sorodnic z belimi cvetovi ločili takole:
 
 -   Cvetovi so sedeči ali kratkopecljati s podpornimi lističi (to boste opazili le, če boste socvetje razdrli).
 -   Rastlina je gosto prileglodlakava.
