@@ -15,6 +15,4 @@ nearby:
 peak: 46.083811,14.332903
 region: notranjska
 title: Polhograjska Grmada
-x: 449
-y: 105
 ---

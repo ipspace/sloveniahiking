@@ -102,7 +102,7 @@ Le kakšnih 20 metrov višinske razlike pod vrhom vas čaka še en lep razgled, 
 
 {{<figure src="Razgled_pod_vrhom_zahod.jpg" caption="Pogled proti zahodu" caption-position="bottom">}}
 
-Z vrha Gore se v lepem dnevu odpre čudovit razgled na [Grmado](../polhograjskagrmada) in [Tošč](../tosc), proti jugovzhodu pa vse do Ljubljane in hribov na južnem robu Ljubljanskega barja, pred katerimi boste hitro opazili [Koreno](../korena), [Špico](../spica) in [Ulovko](../ulovka).  Tisti, ki pozorno gledate okoli sebe, pa boste poleg tega pod južnim zidom cerkvice opazili bogata rastišča kokoševca in planinskega glavinca.
+Z vrha Gore se v lepem dnevu odpre čudovit razgled na [Grmado](../polhograjskagrmada) in [Tošč](../tosc), proti jugovzhodu pa vse do Ljubljane in hribov na južnem robu Ljubljanskega barja, pred katerimi boste hitro opazili [Koreno](../korena), [Špico](../spica) in Ulovko. Tisti, ki pozorno gledate okoli sebe, pa boste poleg tega pod južnim zidom cerkvice opazili bogata rastišča kokoševca in planinskega glavinca.
 
 {{<figure src="Razgled_z_vrha_jug.jpg" caption="Pogled proti jugu" caption-position="bottom">}}
 
