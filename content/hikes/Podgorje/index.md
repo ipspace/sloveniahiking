@@ -11,8 +11,8 @@ nearby:
 - /hikes/slavnik
 - /hikes/podpecbrezec
 - /hikes/kojnik
+- /hikes/marijasnezna
 - /hikes/hrastovljezazid
-- /hikes/crnikal
 peak: 45.531420,13.947151
 region: istria
 title: Podgorje

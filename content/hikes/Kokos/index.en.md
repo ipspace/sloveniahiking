@@ -17,7 +17,7 @@ nearby:
 - /hikes/socerb
 - /hikes/tinjan_osp
 - /hikes/crnikal
-- /biking/rizanapraproce
+- /hikes/marijasnezna
 peak: 45.644495,13.899890
 region: karst
 start: 45.661064,13.927977

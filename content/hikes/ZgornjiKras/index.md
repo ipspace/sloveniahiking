@@ -23,7 +23,7 @@ nearby:
 - /hikes/kokos
 - /hikes/tinjan_osp
 - /hikes/crnikal
-- /hikes/podgorje
+- /hikes/marijasnezna
 peak: 45.601636,13.875859
 region: istria
 start: 45.588664,13.866753

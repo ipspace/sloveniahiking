@@ -22,8 +22,8 @@ nearby:
 - /hikes/zgornjikras
 - /hikes/tinjan_osp
 - /hikes/crnikal
+- /hikes/marijasnezna
 - /hikes/kokos
-- /biking/rizanapraproce
 nosync: true
 peak: 45.589477,13.860844
 region: istria

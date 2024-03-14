@@ -74,10 +74,10 @@
     "name": "Slavnik/Presnica",
     "nearby": [
       "/hikes/podgorje",
+      "/hikes/marijasnezna",
       "/hikes/slavnik",
       "/hikes/crnikal",
-      "/hikes/podpecbrezec",
-      "/hikes/zgornjikras"
+      "/hikes/podpecbrezec"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -139,7 +139,7 @@
       "/hikes/slavnik",
       "/hikes/podpecbrezec",
       "/hikes/kojnik",
-      "/hikes/hrastovljezazid"
+      "/hikes/marijasnezna"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -195,7 +195,7 @@
       "/hikes/slavnik",
       "/hikes/podpecbrezec",
       "/hikes/kojnik",
-      "/hikes/hrastovljezazid"
+      "/hikes/marijasnezna"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -1597,9 +1597,7 @@
     "title": {
       "sl": "Polhograjska Grmada",
       "en": "Polhograjska Grmada"
-    },
-    "x": 449,
-    "y": 105
+    }
   },
   {
     "date": "2005-05-22 00:00:00+00:00",
@@ -1655,6 +1653,45 @@
     "title": {
       "sl": "Hlevi\u0161ke planine",
       "en": "Hlevi\u0161ke planine"
+    }
+  },
+  {
+    "date": "2024-03-06 09:52:27+00:00",
+    "delta": 240,
+    "description": {
+      "sl": "Vam je zmanjkalo ideja za potepanje po Kra\u0161kem Robu? Pa pojdimo od \u010drnokalskega gradu do Prapro\u010d in cerkvice Marije Sne\u017ene.",
+      "en": "The church of Marija Sne\u017ena (Santa Maria Maggiore), hidden on a wooded hill north of the Karst Edge, is a beautiful destination for a half-day hike if you love hiking around \u010crni Kal but have exhausted all the obvious choices.\n"
+    },
+    "difficulty": "Prijeten sprehod po pe\u0161poteh in kolovozih",
+    "difflevel": 2,
+    "duration": 3,
+    "gpx": {
+      "center": {
+        "lat": 45.541519295350184,
+        "lon": 13.897617988904877
+      },
+      "file": "marija-snezna.gpx",
+      "modified": 1709715571,
+      "zoom": 13
+    },
+    "height": 467,
+    "layout": "stub",
+    "lead": "M_20240213_132001.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/173056",
+    "name": "MarijaSnezna",
+    "nearby": [
+      "/hikes/crnikal",
+      "/hikes/podpecbrezec",
+      "/hikes/podgorje",
+      "/hikes/lacna",
+      "/hikes/hrastovljezazid"
+    ],
+    "peak": "45.539728,13.907427",
+    "region": "istria",
+    "start": "45.553403,13.879551",
+    "title": {
+      "sl": "Prapro\u010de in Marija Sne\u017ena",
+      "en": "Prapro\u010de and Marija Sne\u017ena"
     }
   },
   {
@@ -2622,8 +2659,8 @@
       "/hikes/socerb",
       "/hikes/crnikal",
       "/hikes/zgornjikras",
-      "/hikes/lacna",
-      "/hikes/podpecbrezec"
+      "/hikes/marijasnezna",
+      "/hikes/lacna"
     ],
     "peak": "45.561375,13.835055",
     "region": "istria",
@@ -2852,7 +2889,7 @@
       "/hikes/kokos",
       "/hikes/tinjan_osp",
       "/hikes/crnikal",
-      "/hikes/podgorje"
+      "/hikes/marijasnezna"
     ],
     "peak": "45.601636,13.875859",
     "region": "istria",
@@ -5751,9 +5788,9 @@
     "nearby": [
       "/hikes/lacna",
       "/hikes/crnikal",
+      "/hikes/marijasnezna",
       "/hikes/podpecbrezec",
-      "/hikes/hrastovljezazid",
-      "/hikes/kuk"
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5809,7 +5846,7 @@
       "/hikes/podpecbrezec",
       "/hikes/hrastovljezazid",
       "/hikes/crnikal",
-      "/hikes/lacnakukkvirik"
+      "/hikes/marijasnezna"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5840,7 +5877,7 @@
       "/hikes/podpecbrezec",
       "/hikes/hrastovljezazid",
       "/hikes/kuk",
-      "/hikes/crnikal"
+      "/hikes/marijasnezna"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5868,8 +5905,8 @@
       "/hikes/zgornjikras",
       "/hikes/tinjan_osp",
       "/hikes/crnikal",
-      "/hikes/kokos",
-      "/hikes/podgorje"
+      "/hikes/marijasnezna",
+      "/hikes/kokos"
     ],
     "peak": "45.589477,13.860844",
     "region": "istria",
@@ -5931,11 +5968,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.54395&lon=13.89226&layers=B0000",
     "name": "CrniKal",
     "nearby": [
+      "/hikes/marijasnezna",
       "/hikes/podpecbrezec",
       "/hikes/lacna",
       "/hikes/podgorje",
-      "/hikes/tinjan_osp",
-      "/hikes/hrastovljezazid"
+      "/hikes/tinjan_osp"
     ],
     "peak": "45.54080,13.89606",
     "region": "istria",
@@ -6419,7 +6456,7 @@
       "/hikes/socerb",
       "/hikes/tinjan_osp",
       "/hikes/crnikal",
-      "/hikes/podgorje"
+      "/hikes/marijasnezna"
     ],
     "peak": "45.644495,13.899890",
     "region": "karst",
@@ -7042,8 +7079,8 @@
       "/hikes/slavnik",
       "/hikes/podpecbrezec",
       "/hikes/kojnik",
-      "/hikes/hrastovljezazid",
-      "/hikes/crnikal"
+      "/hikes/marijasnezna",
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.531420,13.947151",
     "region": "istria",
@@ -8985,11 +9022,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=15&lat=45.5338&lon=13.90097&layers=B0000",
     "name": "RizanaPraproce",
     "nearby": [
+      "/hikes/marijasnezna",
       "/hikes/crnikal",
       "/hikes/podpecbrezec",
       "/hikes/lacna",
-      "/hikes/podgorje",
-      "/biking/kojnik"
+      "/hikes/podgorje"
     ],
     "region": "istria",
     "start": "45.523654,13.889561",

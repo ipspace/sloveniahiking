@@ -20,7 +20,7 @@ nearby:
 - /hikes/crnikal
 - /hikes/zgornjikras
 - /biking/rizanapraproce
-- /biking/marezigetrsek
+- /hikes/marijasnezna
 peak: 45.561375,13.835055
 region: istria
 start: 45.571298,13.857212

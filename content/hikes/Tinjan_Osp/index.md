@@ -21,8 +21,8 @@ nearby:
 - /hikes/socerb
 - /hikes/crnikal
 - /hikes/zgornjikras
+- /hikes/marijasnezna
 - /hikes/lacna
-- /hikes/podpecbrezec
 peak: 45.561375,13.835055
 region: istria
 start: 45.571298,13.857212
