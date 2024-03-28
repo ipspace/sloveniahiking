@@ -1507,6 +1507,9 @@ pre > code {
   padding: 0 0;
   font-weight: normal; }
 
+pre.ascii {
+  line-height: 1em; }
+
 div.code-caption {
   font-size: 90%;
   padding: 3px 6px;
@@ -1515,6 +1518,39 @@ div.code-caption {
   margin: 1em 0 -1em 0; }
   div.code-caption p {
     margin: 0 0; }
+
+pre.printout {
+  position: relative;
+  counter-reset: line;
+  /* Create a counter named "line" */
+  padding: 0 1em; }
+  pre.printout code {
+    margin-left: 3em;
+    padding-left: 0.5em;
+    display: block; }
+    pre.printout code:before {
+      position: absolute;
+      width: 3em;
+      text-align: right;
+      padding-right: 0.5em;
+      left: 0;
+      display: inline-block;
+      line-height: 1.6;
+      counter-increment: line;
+      /* Increment the "line" counter */
+      content: counter(line);
+      /* Display the current counter value */
+      background-color: rgba(209, 191, 171, 0.2); }
+    pre.printout code:first-child {
+      padding-top: 0.5em; }
+      pre.printout code:first-child:before {
+        padding-top: 0.5em;
+        top: 0; }
+    pre.printout code:last-child {
+      padding-bottom: 0.5em; }
+      pre.printout code:last-child:before {
+        padding-bottom: 0.5em;
+        bottom: 0; }
 
 .content-box {
   margin: 24px 0;
