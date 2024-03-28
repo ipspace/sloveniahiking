@@ -9,7 +9,7 @@ flower_type: K
 image:
 - M_006031203.jpg
 - M_006031201.jpg
-latin: Carlina vulgaris ssp. vulgaris
+latin: Carlina vulgaris subsp. vulgaris
 lead: M_006031203.jpg
 lead_sample: false
 order: Carlina

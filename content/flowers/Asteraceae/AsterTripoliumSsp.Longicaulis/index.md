@@ -9,7 +9,7 @@ image:
 - M_0_10489.JPG
 - M_0_10487.JPG
 - M_0_10491.JPG
-latin: Aster tripolium ssp. longicaulis
+latin: Aster tripolium subsp. longicaulis
 lead: M_0_10489.JPG
 lead_sample: false
 order: Aster

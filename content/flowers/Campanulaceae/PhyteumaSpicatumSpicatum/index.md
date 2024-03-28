@@ -7,7 +7,7 @@ family: Campanulaceae
 flower_type: C
 image:
 - M_7-5752_IMG.JPG
-latin: Phyteuma spicatum spicatum
+latin: Phyteuma spicatum subsp. spicatum
 lead: M_7-5752_IMG.JPG
 lead_sample: false
 order: Phyteuma

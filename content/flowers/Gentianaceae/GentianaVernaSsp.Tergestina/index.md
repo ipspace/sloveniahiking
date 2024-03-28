@@ -8,7 +8,7 @@ flower_type: C
 image:
 - M_0_1074.JPG
 - M_0_1075.JPG
-latin: Gentiana verna ssp. tergestina
+latin: Gentiana verna subsp. tergestina
 lead: M_0_1074.JPG
 lead_sample: false
 order: Gentiana

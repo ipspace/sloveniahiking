@@ -11,7 +11,7 @@ image:
 - M_1-2194_IMG.JPG
 - M_1-2193_IMG.JPG
 - M_1-2198_IMG.JPG
-latin: Carduus nutans ssp. nutans
+latin: Carduus nutans subsp. nutans
 lead: M_1-2193_IMG.JPG
 lead_sample: false
 name: index.en

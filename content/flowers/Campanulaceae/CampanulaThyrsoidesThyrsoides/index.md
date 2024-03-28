@@ -9,7 +9,7 @@ flower_type: C
 image:
 - M_00001.jpg
 - M_00002.jpg
-latin: Campanula thyrsoides thyrsoides
+latin: Campanula thyrsoides subsp. thyrsoides
 lead: M_00001.jpg
 lead_sample: false
 order: Campanula

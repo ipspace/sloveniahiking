@@ -8,7 +8,7 @@ flower_type: C
 image:
 - M_0-5041_IMG.JPG
 - M_0-5043_IMG.JPG
-latin: Lathyrus vernus vernus
+latin: Lathyrus vernus subsp. vernus
 lead: M_0-5041_IMG.JPG
 lead_sample: false
 name: index

@@ -9,7 +9,7 @@ image:
 - M_3-6375_IMG.JPG
 - M_3-6377_IMG.JPG
 - M_3-6378_IMG.JPG
-latin: Carduus defloratus ssp. defloratus
+latin: Carduus defloratus subsp. defloratus
 lead: M_3-6375_IMG.JPG
 lead_sample: false
 order: Carduus

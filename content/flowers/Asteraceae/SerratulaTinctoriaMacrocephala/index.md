@@ -7,7 +7,7 @@ family: Asteraceae
 flower_type: K
 image:
 - M_6-6677_IMG.JPG
-latin: Serratula tinctoria macrocephala
+latin: Serratula tinctoria subsp. macrocephala
 lead: M_6-6677_IMG.JPG
 lead_sample: false
 order: Serratula

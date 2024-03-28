@@ -8,7 +8,7 @@ flower_type: B
 image:
 - M_8-4806_IMG.JPG
 - M_8-4809_IMG.JPG
-latin: Crocus vernus albiflorus
+latin: Crocus vernus subsp. albiflorus
 lead: M_8-4806_IMG.JPG
 lead_sample: false
 order: Crocus

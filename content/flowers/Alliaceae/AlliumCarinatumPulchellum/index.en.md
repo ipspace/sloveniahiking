@@ -9,7 +9,7 @@ image:
 - M_2-2249_IMG.JPG
 - M_4-2476_IMG.JPG
 - M_4-2478_IMG.JPG
-latin: Allium carinatum pulchellum
+latin: Allium carinatum subsp. pulchellum
 lead: M_4-2476_IMG.JPG
 lead_sample: false
 name: index.en

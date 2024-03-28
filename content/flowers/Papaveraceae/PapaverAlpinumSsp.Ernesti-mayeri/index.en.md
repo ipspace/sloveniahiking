@@ -8,7 +8,7 @@ flower_type: C
 image:
 - M_120009.JPG
 - M_120010.JPG
-latin: Papaver alpinum ssp. ernesti-mayeri
+latin: Papaver alpinum subsp. ernesti-mayeri
 lead: M_120009.JPG
 lead_sample: false
 name: index.en

@@ -11,7 +11,7 @@ image:
 - M_7-1757_IMG.JPG
 - M_7-1763_IMG.JPG
 - M_7-1761_IMG.JPG
-latin: Veratrum album lobelianum
+latin: Veratrum album subsp. lobelianum
 lead: M_7-1763_IMG.JPG
 lead_sample: false
 name: index

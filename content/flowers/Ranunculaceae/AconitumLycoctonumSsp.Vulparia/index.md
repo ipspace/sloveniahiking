@@ -9,7 +9,7 @@ image:
 - M_5-2591_IMG.JPG
 - M_6-2640_IMG.JPG
 - M_6-2641_IMG.JPG
-latin: Aconitum lycoctonum ssp. Vulparia
+latin: Aconitum lycoctonum subsp. vulparia
 lead: M_6-2640_IMG.JPG
 lead_sample: false
 name: index

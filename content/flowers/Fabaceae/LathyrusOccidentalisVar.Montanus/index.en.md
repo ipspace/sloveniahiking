@@ -8,7 +8,7 @@ flower_type: C
 image:
 - M_5_1589.JPG
 - M_00003.jpg
-latin: Lathyrus occidentalis var. Montanus
+latin: Lathyrus occidentalis var. montanus
 lead: M_5_1589.JPG
 lead_sample: false
 name: index.en

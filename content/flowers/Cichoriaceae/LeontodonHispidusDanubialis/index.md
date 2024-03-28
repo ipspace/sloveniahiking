@@ -9,7 +9,7 @@ image:
 - M_4-3446_IMG.JPG
 - M_4-3447_IMG.JPG
 - M_6-3649_IMG.JPG
-latin: Leontodon hispidus danubialis
+latin: Leontodon hispidus subsp. danubialis
 lead: M_4-3448_IMG.JPG
 lead_sample: false
 order: Leontodon

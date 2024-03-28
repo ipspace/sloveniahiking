@@ -8,7 +8,7 @@ flower_type: K
 image:
 - M_8_1815.JPG
 - M_8_1814.JPG
-latin: Echinops ritro ssp. ruthenicus
+latin: Echinops ritro subsp. ruthenicus
 lead: M_8_1815.JPG
 lead_sample: false
 name: index.en

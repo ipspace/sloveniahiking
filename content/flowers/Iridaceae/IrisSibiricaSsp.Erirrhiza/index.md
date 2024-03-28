@@ -9,7 +9,7 @@ image:
 - M_0_10048.JPG
 - M_0_10063.JPG
 - M_0_00922.JPG
-latin: Iris sibirica ssp. erirrhiza
+latin: Iris sibirica subsp. erirrhiza
 lead: M_0_10048.JPG
 lead_sample: false
 order: Iris

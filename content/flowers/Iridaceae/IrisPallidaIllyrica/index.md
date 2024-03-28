@@ -9,7 +9,7 @@ image:
 - M_4-5462_IMG.JPG
 - M_4-5464_IMG.JPG
 - M_4-5475_IMG.JPG
-latin: Iris pallida illyrica
+latin: Iris pallida subsp. illyrica
 lead: M_4-5475_IMG.JPG
 lead_sample: false
 name: index

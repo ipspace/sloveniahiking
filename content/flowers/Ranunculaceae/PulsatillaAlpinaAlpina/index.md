@@ -8,7 +8,7 @@ flower_type: B
 image:
 - M_8-5853_IMG.JPG
 - M_9-5919_IMG.JPG
-latin: Pulsatilla alpina alpina
+latin: Pulsatilla alpina subsp. austroalpina
 lead: M_9-5919_IMG.JPG
 lead_sample: false
 order: Pulsatilla

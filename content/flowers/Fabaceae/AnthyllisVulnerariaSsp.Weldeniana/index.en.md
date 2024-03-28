@@ -8,7 +8,7 @@ family: Fabaceae
 flower_type: C
 image:
 - M_100018.jpg
-latin: Anthyllis vulneraria ssp. weldeniana
+latin: Anthyllis vulneraria subsp. weldeniana
 lead: M_100018.jpg
 lead_sample: false
 name: index.en

@@ -8,7 +8,7 @@ flower_type: C
 image:
 - M_3-6337_IMG.JPG
 - M_3-6338_IMG.JPG
-latin: Papaver alpinum kerneri
+latin: Papaver alpinum subsp. kerneri
 lead: M_3-6338_IMG.JPG
 lead_sample: false
 name: index

@@ -8,7 +8,7 @@ flower_type: K
 image:
 - M_1-6105_IMG.JPG
 - M_1-6108_IMG.JPG
-latin: Carduus crassifolius ssp. crassifolius
+latin: Carduus crassifolius subsp. crassifolius
 lead: M_1-6105_IMG.JPG
 lead_sample: false
 name: index.en

@@ -8,7 +8,7 @@ family: Papaveraceae
 flower_type: C
 image:
 - M_0028960.jpg
-latin: Papaver alpinum ssp. rhaeticum
+latin: Papaver alpinum subsp. rhaeticum
 lead: M_0028960.jpg
 lead_sample: false
 name: index

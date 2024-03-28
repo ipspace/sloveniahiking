@@ -8,7 +8,7 @@ flower_type: K
 image:
 - M_6-6685_IMG.JPG
 - M_6-6686_IMG.JPG
-latin: Carduus collinus ssp. cylindricus
+latin: Carduus collinus subsp. cylindricus
 lead: M_6-6685_IMG.JPG
 lead_sample: false
 order: Carduus

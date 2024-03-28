@@ -8,7 +8,7 @@ family: Saxifragaceae
 flower_type: C
 image:
 - M_008072208010.jpg
-latin: Saxifraga exarata ssp. moschata
+latin: Saxifraga exarata subsp. moschata
 lead: M_008072208010.jpg
 lead_sample: false
 name: index.en

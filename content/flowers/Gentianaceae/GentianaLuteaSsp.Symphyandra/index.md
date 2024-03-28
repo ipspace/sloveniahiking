@@ -9,7 +9,7 @@ image:
 - M_5_1552.JPG
 - M_5_1538.JPG
 - M_5_1544.JPG
-latin: Gentiana lutea ssp. Symphyandra
+latin: Gentiana lutea subsp. symphyandra
 lead: M_5_1552.JPG
 lead_sample: false
 order: Gentiana

@@ -8,7 +8,7 @@ flower_type: C
 image:
 - M_1_1186.JPG
 - M_1_1188.JPG
-latin: Lathyrus pannonicus varius
+latin: Lathyrus pannonicus subsp. varius
 lead: M_1_1186.JPG
 lead_sample: false
 name: index

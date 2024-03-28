@@ -7,7 +7,7 @@ family: Asteraceae
 flower_type: K
 image:
 - M_5-6576_IMG.JPG
-latin: Centaurea uniflora nervosa
+latin: Centaurea uniflora subsp. nervosa
 lead: M_5-6576_IMG.JPG
 lead_sample: false
 name: index.en

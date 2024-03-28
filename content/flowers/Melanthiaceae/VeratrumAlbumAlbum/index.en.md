@@ -8,7 +8,7 @@ flower_type: B
 image:
 - M_G_3122.JPG
 - M_G_3125.JPG
-latin: Veratrum album album
+latin: Veratrum album subsp. album
 lead: M_G_3125.JPG
 lead_sample: false
 name: index.en

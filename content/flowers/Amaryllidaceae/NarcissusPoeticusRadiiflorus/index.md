@@ -8,7 +8,7 @@ flower_type: B
 image:
 - M_4-5420_IMG.JPG
 - M_4-5423_IMG.JPG
-latin: Narcissus poeticus radiiflorus
+latin: Narcissus poeticus subsp. radiiflorus
 lead: M_4-5423_IMG.JPG
 lead_sample: false
 order: Narcissus

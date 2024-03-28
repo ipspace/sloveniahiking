@@ -10,7 +10,7 @@ image:
 - M_7-4710_IMG.JPG
 - M_7-4712_IMG.JPG
 - M_7_0704.JPG
-latin: Helleborus multifidus istriacus
+latin: Helleborus multifidus subsp. istriacus
 lead: M_7-4710_IMG.JPG
 lead_sample: false
 name: index.en

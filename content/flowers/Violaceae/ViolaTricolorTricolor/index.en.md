@@ -8,7 +8,7 @@ flower_type: C
 image:
 - M_2_1223.JPG
 - M_2_1222.JPG
-latin: Viola tricolor tricolor
+latin: Viola tricolor subsp. tricolor
 lead: M_2_1223.JPG
 lead_sample: false
 name: index.en

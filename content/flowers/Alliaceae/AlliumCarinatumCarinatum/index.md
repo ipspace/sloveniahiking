@@ -7,7 +7,7 @@ flower_type: B
 image:
 - M_3-2336_IMG.JPG
 - M_4-2447_IMG.JPG
-latin: Allium carinatum carinatum
+latin: Allium carinatum subsp. carinatum
 lead: M_4-2447_IMG.JPG
 lead_sample: false
 order: Allium

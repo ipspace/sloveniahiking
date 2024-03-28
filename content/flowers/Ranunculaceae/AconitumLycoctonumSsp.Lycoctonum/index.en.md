@@ -7,7 +7,7 @@ flower_type: B
 image:
 - M_6-1652_IMG.JPG
 - M_6-1653_IMG.JPG
-latin: Aconitum lycoctonum ssp. lycoctonum
+latin: Aconitum lycoctonum subsp. lycoctonum
 lead: M_6-1652_IMG.JPG
 lead_sample: false
 name: index.en

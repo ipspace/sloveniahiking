@@ -7,7 +7,7 @@ family: Brassicaceae
 flower_type: C
 image:
 - M_210222.JPG
-latin: Thlaspi cepaeifolium ssp. rotundifolium
+latin: Thlaspi cepaeifolium subsp. rotundifolium
 lead: M_210222.JPG
 lead_sample: false
 name: index

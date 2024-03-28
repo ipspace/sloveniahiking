@@ -8,7 +8,7 @@ family: Primulaceae
 flower_type: C
 image:
 - M_007122901.jpg
-latin: Primula veris ssp. columnae
+latin: Primula veris subsp. columnae
 lead: M_007122901.jpg
 lead_sample: false
 name: index

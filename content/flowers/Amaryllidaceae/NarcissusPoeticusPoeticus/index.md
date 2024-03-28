@@ -7,7 +7,7 @@ family: Amaryllidaceae
 flower_type: B
 image:
 - M_0_1068.JPG
-latin: Narcissus poeticus poeticus
+latin: Narcissus poeticus subsp. poeticus
 lead: M_0_1068.JPG
 lead_sample: false
 name: index

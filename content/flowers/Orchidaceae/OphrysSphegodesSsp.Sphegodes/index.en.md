@@ -7,7 +7,7 @@ family: Orchidaceae
 flower_type: B
 image:
 - M_G_2894.JPG
-latin: Ophrys sphegodes ssp. sphegodes
+latin: Ophrys sphegodes subsp. sphegodes
 lead: M_G_2894.JPG
 lead_sample: false
 name: index.en

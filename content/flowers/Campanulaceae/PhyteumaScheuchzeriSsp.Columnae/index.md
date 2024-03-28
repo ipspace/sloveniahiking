@@ -8,7 +8,7 @@ flower_type: C
 image:
 - M_2_7245.JPG
 - M_2_7246.JPG
-latin: Phyteuma scheuchzeri ssp. columnae
+latin: Phyteuma scheuchzeri subsp. columnae
 lead: M_2_7246.JPG
 lead_sample: false
 name: index

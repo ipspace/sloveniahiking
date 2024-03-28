@@ -9,7 +9,7 @@ image:
 - M_0_10255.JPG
 - M_0_10241.jpg
 - M_0_10253.JPG
-latin: Centaurea phrygia ssp. pseudophrygia
+latin: Centaurea phrygia subsp. pseudophrygia
 lead: M_0_10241.jpg
 lead_sample: false
 name: index.en

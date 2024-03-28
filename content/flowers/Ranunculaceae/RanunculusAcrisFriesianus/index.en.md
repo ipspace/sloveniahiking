@@ -7,7 +7,7 @@ family: Ranunculaceae
 flower_type: C
 image:
 - M_4-5424_IMG.JPG
-latin: Ranunculus acris friesianus
+latin: Ranunculus acris subsp. friesianus
 lead: M_4-5424_IMG.JPG
 lead_sample: false
 name: index.en

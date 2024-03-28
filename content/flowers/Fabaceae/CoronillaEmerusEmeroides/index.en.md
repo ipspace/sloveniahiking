@@ -9,7 +9,7 @@ image:
 - M_1_1153.JPG
 - M_1_1154.JPG
 - M_1_1184.JPG
-latin: Coronilla emerus emeroides
+latin: Coronilla emerus subsp. emeroides
 lead: M_1_1184.JPG
 lead_sample: false
 name: index.en

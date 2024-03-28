@@ -9,7 +9,7 @@ image:
 - M_5-1524_IMG.JPG
 - M_5-1520_IMG.JPG
 - M_1-2120_IMG.JPG
-latin: Centaurea scabiosa fritschii
+latin: Centaurea scabiosa subsp. fritschii
 lead: M_1-2120_IMG.JPG
 lead_sample: false
 name: index.en

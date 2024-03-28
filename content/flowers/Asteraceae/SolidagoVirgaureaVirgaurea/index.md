@@ -8,7 +8,7 @@ flower_type: K
 image:
 - M_5-2579_IMG.JPG
 - M_5-2582_IMG.JPG
-latin: Solidago virgaurea virgaurea
+latin: Solidago virgaurea subsp. virgaurea
 lead: M_5-2579_IMG.JPG
 lead_sample: false
 name: index

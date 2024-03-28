@@ -9,7 +9,7 @@ image:
 - M_1-5119_IMG.JPG
 - M_9-4933_IMG.JPG
 - M_3-0370_IMG.JPG
-latin: Gentiana verna ssp. verna
+latin: Gentiana verna subsp. verna
 lead: M_3-0370_IMG.JPG
 lead_sample: false
 order: Gentiana
