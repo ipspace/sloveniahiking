@@ -17,6 +17,6 @@ parallel: false
 petals: 5
 petals_joined: false
 star_shape: false
-title: Karnijska zvoncica
+title: Karnijska zvončica
 ---
 

@@ -8,7 +8,7 @@ family: Violaceae
 flower_type: C
 image:
 - M_007052602.jpg
-latin: Viola zoysii
+latin: Viola calcarata subsp. zoysii
 lead: M_007052602.jpg
 lead_sample: false
 name: index.en
@@ -17,5 +17,5 @@ parallel: false
 petals: 5
 petals_joined: false
 star_shape: false
-title: Viola zoysii
+title: Viola calcarata subsp. zoysii
 ---
