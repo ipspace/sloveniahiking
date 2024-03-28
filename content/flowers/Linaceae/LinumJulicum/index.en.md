@@ -8,7 +8,7 @@ flower_type: C
 image:
 - M_8-5861_IMG.JPG
 - M_8-5864_IMG.JPG
-latin: Linum julicum
+latin: Linum alpinum subsp. julicum
 lead: M_8-5864_IMG.JPG
 lead_sample: false
 name: index.en
