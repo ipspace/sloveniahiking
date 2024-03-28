@@ -39,6 +39,7 @@ RSS: https://sloveniahiking.rocks/en/index.xml
 * [600 slovenskih rož](/flowers/)
 * [Galerija](/flowers/list/)
 * [Prvi znanilci pomladi](/flowers/pomladne-roze/)
+* [Alpske cvetlice](/flowers/alpske-roze/)
 * [Slovenske orhideje](/flowers/family/orchidaceae/)
 * [Slovenske lilije](/flowers/genus/lilium/)
 {{</tile>}}

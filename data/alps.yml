@@ -1,0 +1,230 @@
+---
+common:
+  - Achillea atrata
+  - Achillea clavenae
+  - Acinos alpinus
+  - Adenostyles glabra
+  - Alchemilla velebitica
+  - Allium victorialis
+  - Alyssum ovirense
+  - Androsace villosa
+  - Anemone narcissiflora
+  - Anthyllis vulneraria subsp. alpestris
+  - Arabis alpina
+  - Arabis vochinensis
+  - Arctostaphylos alpinus
+  - Arenaria ciliata
+  - Armeria alpina
+  - Aster alpinus
+  - Aster bellidiastrum
+  - Astrantia bavarica
+  - Athamanta cretensis
+  - Bartsia alpina
+  - Bupleurum petraeum
+  - Campanula barbata
+  - Campanula cochlearifolia
+  - Campanula scheuchzeri
+  - Campanula zoysii
+  - Carduus carduelis
+  - Carduus defloratus
+  - Carex firma
+  - Carex sempervirens
+  - Cerastium carinthiacum agg.
+  - Cerastium strictum
+  - Chamorchis alpina
+  - Cicerbita alpina
+  - Cirsium spinosissimum
+  - Crepis aurea
+  - Crepis kerneri
+  - Daphne striata
+  - Dianthus sternbergii
+  - Doronicum glaciale
+  - Draba aizoides
+  - Dryas octopetala
+  - Erigeron glabratus
+  - Eriophorum scheuchzeri
+  - Eritrichum nanum
+  - Galium anisophyllon
+  - Gentiana clusii
+  - Gentiana nivalis
+  - Gentiana pannonica
+  - Gentiana pumila
+  - Gentiana terglouensis
+  - Gentianella anisodonta
+  - Geum montanum
+  - Globularia cordifolia
+  - Globularia nudicaulis
+  - Gymnadenia conopsea
+  - Gymnadenia odoratissima
+  - Gypsophylla repens
+  - Hedysarum hedysaroides
+  - Helianthemum alpestre
+  - Helianthemum grandiflorum
+  - Heliosperma alpestre
+  - Heliosperma pusillum
+  - Heracleum austriacum subsp. siifolium
+  - Heracleum sphondylium subsp. pollinianum
+  - Hieracium villosum
+  - Homogyne discolor
+  - Juncus monanthos
+  - Laserpitium peucedanoides
+  - Leontopodium alpinum
+  - Lilium carniolicum
+  - Linaria alpina
+  - Linum alpinum subsp. julicum
+  - Lloydia serotina
+  - Loiseleuria procumbens
+  - Minuartia austriaca
+  - Minuartia sedoides
+  - Minuartia verna subsp. gerardii
+  - Moehringia ciliata
+  - Myosotis alpestris
+  - Nigritella rhelicanii
+  - Omalotheca hoppeana
+  - Oxytropis pyrenaica
+  - Paederota lutea
+  - Pedicularis elongata
+  - Pedicularis rosea
+  - Pedicularis rostratocapitata
+  - Pedicularis rostratospicata
+  - Pedicularis verticillata
+  - Petrocallis pyrenaica
+  - Phyteuma sieberi
+  - Pinguicula alpina
+  - Polygala alpestris
+  - Polygonum viviparum
+  - Potentilla brauneana
+  - Potentilla clusiana
+  - Potentilla crantzii
+  - Potentilla nitida
+  - Primula auricula
+  - Primula elatior
+  - Primula halleri
+  - Primula wulfeniana
+  - Pritzelago alpina
+  - Pseudorchis albida
+  - Pulsatilla alpina subsp. austroalpina
+  - Ranunculus carinthiacus
+  - Ranunculus hybridus
+  - Ranunculus traunfellneri
+  - Rhamnus pumilus
+  - Rhinanthus glacialis
+  - Rhodiola rosea
+  - Rhododendron hirsutum
+  - Rhodothamnus chamaecistus
+  - Rubus saxatilis
+  - Rumex alpinus
+  - Rumex scutatus
+  - Salix retusa
+  - Saussurea discolor
+  - Saussurea pygmaea
+  - Saxifraga adscendens
+  - Saxifraga aizoides
+  - Saxifraga androsacea
+  - Saxifraga burseriana
+  - Saxifraga crustata
+  - Saxifraga oppositifolia
+  - Saxifraga paniculata
+  - Saxifraga squarrosa
+  - Saxifraga stellaris
+  - Scabiosa lucida
+  - Scrophularia juratensis
+  - Sedum alpestre
+  - Sedum atratum
+  - Senecio abrotanifolius
+  - Senecio doronicum
+  - Silene acaulis
+  - Silene vulgaris subsp. glareosa
+  - Soldanella alpina
+  - Soldanella minima
+  - Solidago virgaurea subsp. minuta
+  - Sorbus chamaespilus
+  - Thesium alpinum
+  - Thlaspi minimum
+  - Tofieldia calyculata
+  - Trollius europaeus
+  - Vaccinium gaultherioides
+  - Valeriana elongata
+  - Valeriana montana
+  - Valeriana saxatilis
+  - Veratrum album subsp. lobelianum
+  - Veronica alpina
+  - Veronica aphylla
+  - Viola biflora
+julian:
+  - Aconitum angustifolium
+  - Allium schoenoprasum
+  - Anemone baldensis
+  - Aquilegia julia
+  - Arabis caerulea
+  - Artemisia genipi
+  - Campanula carnica
+  - Carduus crassifolius
+  - Centaurea uniflora subsp. nervosa
+  - Cerastium carinthiacum subsp. austroalpinum
+  - Cerastium uniflorum
+  - Crepis terglouensis
+  - Doronicum grandiflorum
+  - Drypis spinosa subsp. jacquiniana
+  - Gentiana lutea subsp. symphyandra
+  - Gentiana lutea subsp. vardjanii
+  - Geranium argenteum
+  - Geum reptans
+  - Horminum pyrenaicum
+  - Knautia longifolia
+  - Moehringia villosa
+  - Oxyria digyna
+  - Paederota bonarota
+  - Papaver alpinum subsp. ernesti-mayeri
+  - Papaver alpinum subsp. rhaeticum
+  - Peucedanum ostruthium
+  - Physoplexis comosa
+  - Plantago atrata
+  - Polygonum bistorta
+  - Salix reticulata
+  - Saussurea alpina
+  - Saxifraga exarata subsp. carniolica
+  - Saxifraga sedoides
+  - Saxifraga tenella
+  - Sibbaldia procumbens
+  - Soldanella pusilla
+  - Stemmacantha rhapontica
+  - Thlaspi cepaeifolium subsp. rotundifolium
+  - Trifolium badium
+  - Trifolium noricum
+  - Trifolium pallescens
+  - Valeriana supina
+kamnik:
+  - Androsace chamaejasme
+  - Aquilegia julia
+  - Campanula alpina
+  - Campanula carnica
+  - Carduus crassifolius
+  - Cerastium carinthiacum subsp. carinthiacum
+  - Cerastium julicum
+  - Doronicum grandiflorum
+  - Drypis spinosa subsp. jacquiniana
+  - Gentiana froelichii
+  - Gentiana lutea subsp. vardjanii
+  - Leucanthemum lithopolitanicum
+  - Papaver alpinum subsp. kerneri
+  - Saxifraga exarata subsp. carniolica
+  - Saxifraga hohenwartii
+  - Saxifraga tenella
+  - Stemmacantha rhapontica
+karavanke:
+  - Androsace chamaejasme
+  - Anemone baldensis
+  - Centaurea uniflora subsp. nervosa
+  - Cerastium carinthiacum subsp. carinthiacum
+  - Cerastium julicum
+  - Gentiana froelichii
+  - Papaver alpinum subsp. kerneri
+  - Physoplexis comosa
+  - Plantago atrata
+  - Saxifraga hohenwartii
+  - Saxifraga sedoides
+  - Sibbaldia procumbens
+  - Soldanella pusilla
+  - Trifolium pallescens
+  - Viola calcarata subsp. zoysii

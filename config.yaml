@@ -2,7 +2,7 @@
 baseURL: https://sloveniahiking.rocks/
 theme: ipspace
 summarylength: 1000
-#uglyurls: true
+# uglyurls: true
 paginate: 15
 enableGitInfo: true
 defaultContentLanguage: sl
@@ -83,9 +83,10 @@ services:
   rss:
     limit: 200
 
-#outputs:
-#  home: [ html, atom, rss ]
-#  section: [ html ]
+# outputs:
+#   home: [ html, atom, rss ]
+#   section: [ html ]
 
 params:
   feedSections: [posts]
+  title: Slovenia Hiking Rocks

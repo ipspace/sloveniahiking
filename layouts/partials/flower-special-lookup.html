@@ -1,0 +1,12 @@
+{{ $flowers := where $.Site.Pages "Section" "flowers" }}
+{{ $range := index $.Site.Data.alps .Params.alps_key }}
+<section class='flower__gallery'>
+  {{ range $range }}
+    {{ $pages := where $flowers "Params.latin" . }}
+    {{ range $pages.ByTitle }}
+      {{ if .Params.lead }}
+      {{ partial "flower-item.html" . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</section>
