@@ -12,3 +12,7 @@ time ./add_nearby.py
 echo "Creating hike JSON file"
 ./create_hike_json.py
 git add ../static/data/hikes.json
+echo "Synching flower data"
+time ./flower-sync-data.py
+echo "Building flower lookup tables"
+time ./flower-build-lookup.py
