@@ -23,7 +23,7 @@ nearby:
 - /hikes/podpecbrezec
 - /hikes/lacna
 - /hikes/podgorje
-- /hikes/tinjan_osp
+- /hikes/jamprsnik
 peak: 45.54080,13.89606
 region: istria
 start: 45.549954,13.880922

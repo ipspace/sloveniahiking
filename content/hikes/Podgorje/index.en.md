@@ -12,7 +12,7 @@ nearby:
 - /biking/kojnik
 - /hikes/slavnik
 - /hikes/podpecbrezec
-- /hikes/kojnik
+- /hikes/jamprsnik
 peak: 45.531420,13.947151
 region: istria
 title: Podgorje

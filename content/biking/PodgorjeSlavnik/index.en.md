@@ -25,7 +25,7 @@ nearby:
 - /hikes/slavnik
 - /biking/kojnik
 - /hikes/kojnik
-- /hikes/podpecbrezec
+- /hikes/jamprsnik
 peakpoint: Slavnik
 region: istria
 start: 45.531420,13.947151

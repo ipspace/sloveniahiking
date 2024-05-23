@@ -10,9 +10,9 @@ name: Podgorje
 nearby:
 - /hikes/slavnik
 - /hikes/podpecbrezec
+- /hikes/jamprsnik
 - /hikes/kojnik
 - /hikes/marijasnezna
-- /hikes/hrastovljezazid
 peak: 45.531420,13.947151
 region: istria
 title: Podgorje

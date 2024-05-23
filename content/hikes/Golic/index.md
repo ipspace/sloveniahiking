@@ -32,7 +32,7 @@ nearby:
 - /hikes/kavcic
 - /hikes/kojnik
 - /hikes/hrastovljezazid
-- /hikes/kuk
+- /hikes/jamprsnik
 peak: 45.486241,13.978104
 region: istria
 start: 45.531420,13.947151

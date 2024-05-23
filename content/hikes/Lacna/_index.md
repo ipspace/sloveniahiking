@@ -16,8 +16,8 @@ nearby:
 - /hikes/kuk
 - /hikes/podpecbrezec
 - /hikes/hrastovljezazid
+- /hikes/jamprsnik
 - /hikes/crnikal
-- /hikes/marijasnezna
 peak: 45.504969,13.885283
 region: istria
 title: Lačna

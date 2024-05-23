@@ -21,11 +21,11 @@ length: 15.5
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.51226&lon=13.95242&layers=B0000
 name: Kojnik
 nearby:
+- /hikes/jamprsnik
 - /hikes/podpecbrezec
 - /hikes/hrastovljezazid
 - /hikes/podgorje
 - /biking/podgorjeslavnik
-- /biking/podgorjekavcic
 region: istria
 start: 45.531420,13.947151
 startpoint: Podgorje

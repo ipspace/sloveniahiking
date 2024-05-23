@@ -22,8 +22,8 @@ nearby:
 - /hikes/crnikal
 - /hikes/podpecbrezec
 - /hikes/podgorje
+- /hikes/jamprsnik
 - /hikes/lacna
-- /hikes/hrastovljezazid
 peak: 45.539728,13.907427
 region: istria
 start: 45.553403,13.879551

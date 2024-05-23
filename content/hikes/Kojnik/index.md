@@ -11,11 +11,11 @@ lead: M_20230316_110107.jpg
 maplink: https://mapzs.pzs.si/poi/322
 name: Kojnik
 nearby:
+- /hikes/jamprsnik
 - /hikes/hrastovljezazid
 - /hikes/podpecbrezec
 - /hikes/podgorje
 - /hikes/golic
-- /hikes/lipnik
 peak: 45.506877,13.951764
 region: istria
 start: 45.531420,13.947151

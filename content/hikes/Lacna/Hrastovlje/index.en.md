@@ -15,8 +15,8 @@ nearby:
 - /hikes/lacna
 - /hikes/podpecbrezec
 - /biking/kuklacna
+- /hikes/jamprsnik
 - /hikes/hrastovljezazid
-- /biking/rizanapraproce
 peak: 45.504969,13.885283
 region: istria
 start: 45.509506,13.900638

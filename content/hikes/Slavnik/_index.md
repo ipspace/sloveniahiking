@@ -15,9 +15,9 @@ name: Slavnik
 nearby:
 - /hikes/podgorje
 - /hikes/kojnik
+- /hikes/jamprsnik
 - /hikes/podpecbrezec
 - /hikes/hrastovljezazid
-- /hikes/golic
 peak: 45.533685,13.975236
 region: istria
 title: Slavnik in Grmada

@@ -138,8 +138,8 @@
       "/hikes/podgorje",
       "/hikes/slavnik",
       "/hikes/podpecbrezec",
-      "/hikes/kojnik",
-      "/hikes/marijasnezna"
+      "/hikes/jamprsnik",
+      "/hikes/kojnik"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -164,9 +164,9 @@
     "nearby": [
       "/hikes/podgorje",
       "/hikes/kojnik",
+      "/hikes/jamprsnik",
       "/hikes/podpecbrezec",
-      "/hikes/hrastovljezazid",
-      "/hikes/golic"
+      "/hikes/hrastovljezazid"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -194,8 +194,8 @@
       "/hikes/podgorje",
       "/hikes/slavnik",
       "/hikes/podpecbrezec",
-      "/hikes/kojnik",
-      "/hikes/marijasnezna"
+      "/hikes/jamprsnik",
+      "/hikes/kojnik"
     ],
     "peak": "45.533685,13.975236",
     "region": "istria",
@@ -1683,8 +1683,8 @@
       "/hikes/crnikal",
       "/hikes/podpecbrezec",
       "/hikes/podgorje",
-      "/hikes/lacna",
-      "/hikes/hrastovljezazid"
+      "/hikes/jamprsnik",
+      "/hikes/lacna"
     ],
     "peak": "45.539728,13.907427",
     "region": "istria",
@@ -3557,7 +3557,7 @@
       "/hikes/kavcic",
       "/hikes/kojnik",
       "/hikes/hrastovljezazid",
-      "/hikes/kuk"
+      "/hikes/jamprsnik"
     ],
     "peak": "45.486241,13.978104",
     "region": "istria",
@@ -4261,6 +4261,51 @@
     }
   },
   {
+    "date": "2024-05-23 15:23:19+02:00",
+    "delta": 260,
+    "description": {
+      "sl": "Jampr\u0161nik je komaj viden vrh nad prepadnimi stenami Kra\u0161kega Roba",
+      "en": "Jampr\u0161nik is a barely noticeable peak above the overhanging cliffs of Karst Edge. If you find yourself in Zazid but haven't been to Slovenian Istria before, don't waste time going there; the hike to Lipnik or Kav\u010di\u010d is infinitely more picturesque. However, if you've visited most of the other peaks along the Karst Edge, Jampr\u0161nik might be an attractive alternative destination."
+    },
+    "difficulty": "Prijeten sprehod s strmim vlo\u017ekom",
+    "difflevel": 1,
+    "duration": 2,
+    "gpx": {
+      "center": {
+        "lat": 45.50304983921414,
+        "lon": 13.937951161165973
+      },
+      "file": "Jamprsnik.gpx",
+      "modified": 1716471884,
+      "zoom": 15
+    },
+    "height": 649,
+    "layout": "structured",
+    "lead": "M_20240522_132424.jpg",
+    "maplink": "https://mapzs.pzs.si/poi/173726",
+    "name": "Jamprsnik",
+    "nearby": [
+      "/hikes/hrastovljezazid",
+      "/hikes/podpecbrezec",
+      "/hikes/kojnik",
+      "/hikes/podgorje",
+      "/hikes/kuk"
+    ],
+    "path": "https://www.hribi.net/izlet/zazid_jamprsnik/26/780/3057",
+    "peak": "45.509351,13.934133",
+    "region": "istria",
+    "start": "45.499389,13.931462",
+    "timing": [
+      "Vzpon: 1 ura",
+      "Spust: 45 minut",
+      "Skupaj: 2 uri"
+    ],
+    "title": {
+      "sl": "Jampr\u0161nik",
+      "en": "Jampr\u0161nik"
+    }
+  },
+  {
     "date": "2010-12-08 00:00:00+00:00",
     "delta": 380,
     "description": {
@@ -4717,9 +4762,9 @@
     "nearby": [
       "/hikes/hrastovljezazid",
       "/hikes/lacnakukkvirik",
+      "/hikes/jamprsnik",
       "/hikes/lacna",
-      "/hikes/velibadin",
-      "/hikes/podpecbrezec"
+      "/hikes/velibadin"
     ],
     "peak": "45.485013,13.917515",
     "region": "istria",
@@ -4831,11 +4876,11 @@
     "maplink": "https://mapzs.pzs.si/poi/322",
     "name": "Kojnik",
     "nearby": [
+      "/hikes/jamprsnik",
       "/hikes/hrastovljezazid",
       "/hikes/podpecbrezec",
       "/hikes/podgorje",
-      "/hikes/golic",
-      "/hikes/lipnik"
+      "/hikes/golic"
     ],
     "peak": "45.506877,13.951764",
     "region": "istria",
@@ -5790,7 +5835,7 @@
       "/hikes/crnikal",
       "/hikes/marijasnezna",
       "/hikes/podpecbrezec",
-      "/hikes/hrastovljezazid"
+      "/hikes/jamprsnik"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5845,8 +5890,8 @@
       "/hikes/kuk",
       "/hikes/podpecbrezec",
       "/hikes/hrastovljezazid",
-      "/hikes/crnikal",
-      "/hikes/marijasnezna"
+      "/hikes/jamprsnik",
+      "/hikes/crnikal"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5875,9 +5920,9 @@
     "nearby": [
       "/hikes/lacna",
       "/hikes/podpecbrezec",
+      "/hikes/jamprsnik",
       "/hikes/hrastovljezazid",
-      "/hikes/kuk",
-      "/hikes/marijasnezna"
+      "/hikes/kuk"
     ],
     "peak": "45.504969,13.885283",
     "region": "istria",
@@ -5972,7 +6017,7 @@
       "/hikes/podpecbrezec",
       "/hikes/lacna",
       "/hikes/podgorje",
-      "/hikes/tinjan_osp"
+      "/hikes/jamprsnik"
     ],
     "peak": "45.54080,13.89606",
     "region": "istria",
@@ -6937,11 +6982,11 @@
     "maplink": "https://mapzs.pzs.si/path/31057",
     "name": "HrastovljeZazid",
     "nearby": [
+      "/hikes/jamprsnik",
       "/hikes/kojnik",
       "/hikes/podpecbrezec",
       "/hikes/kuk",
-      "/hikes/lipnik",
-      "/hikes/podgorje"
+      "/hikes/lipnik"
     ],
     "peak": "45.500573,13.932688",
     "region": "istria",
@@ -7078,9 +7123,9 @@
     "nearby": [
       "/hikes/slavnik",
       "/hikes/podpecbrezec",
+      "/hikes/jamprsnik",
       "/hikes/kojnik",
-      "/hikes/marijasnezna",
-      "/hikes/hrastovljezazid"
+      "/hikes/marijasnezna"
     ],
     "peak": "45.531420,13.947151",
     "region": "istria",
@@ -7405,11 +7450,11 @@
     "length": 16.5,
     "name": "PodpecBrezec",
     "nearby": [
+      "/hikes/jamprsnik",
       "/biking/kojnik",
       "/hikes/hrastovljezazid",
       "/hikes/kojnik",
-      "/hikes/podgorje",
-      "/biking/rizanapraproce"
+      "/hikes/podgorje"
     ],
     "peak": "45.516265,13.925310",
     "region": "istria",
@@ -7963,7 +8008,7 @@
       "/hikes/slavnik",
       "/biking/kojnik",
       "/hikes/kojnik",
-      "/hikes/podpecbrezec"
+      "/hikes/jamprsnik"
     ],
     "peakpoint": "Slavnik",
     "region": "istria",
@@ -8778,11 +8823,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.51226&lon=13.95242&layers=B0000",
     "name": "Kojnik",
     "nearby": [
+      "/hikes/jamprsnik",
       "/hikes/podpecbrezec",
       "/hikes/hrastovljezazid",
       "/hikes/podgorje",
-      "/biking/podgorjeslavnik",
-      "/biking/podgorjekavcic"
+      "/biking/podgorjeslavnik"
     ],
     "region": "istria",
     "start": "45.531420,13.947151",
@@ -9117,8 +9162,8 @@
       "/hikes/kuk",
       "/hikes/hrastovljezazid",
       "/hikes/lacna",
-      "/hikes/lacnakukkvirik",
-      "/hikes/podpecbrezec"
+      "/hikes/jamprsnik",
+      "/hikes/lacnakukkvirik"
     ],
     "region": "istria",
     "start": "45.502597,13.876419",
@@ -9177,9 +9222,9 @@
     "nearby": [
       "/hikes/kojnik",
       "/hikes/hrastovljezazid",
+      "/hikes/jamprsnik",
       "/biking/kojnik",
-      "/hikes/golic",
-      "/hikes/lipnik"
+      "/hikes/golic"
     ],
     "region": "istria",
     "start": "45.531420,13.947151",

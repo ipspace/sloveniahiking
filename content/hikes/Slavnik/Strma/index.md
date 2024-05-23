@@ -17,8 +17,8 @@ nearby:
 - /hikes/podgorje
 - /hikes/slavnik
 - /hikes/podpecbrezec
+- /hikes/jamprsnik
 - /hikes/kojnik
-- /hikes/marijasnezna
 peak: 45.533685,13.975236
 region: istria
 start: 45.531420,13.947151

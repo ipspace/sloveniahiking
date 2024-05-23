@@ -28,9 +28,9 @@ name: PodgorjeKavcic
 nearby:
 - /hikes/kojnik
 - /hikes/hrastovljezazid
+- /hikes/jamprsnik
 - /biking/kojnik
 - /hikes/golic
-- /hikes/lipnik
 region: istria
 start: 45.531420,13.947151
 startpoint: Podgorje
