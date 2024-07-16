@@ -1295,6 +1295,7 @@ dl dt {
 .post .warn,
 .post .stop,
 .post .more,
+.post .smallprint,
 .post .update {
   margin: 15px 0;
   padding: 15px 15px 15px 32px;
@@ -1308,6 +1309,7 @@ dl dt {
     .post .warn,
     .post .stop,
     .post .more,
+    .post .smallprint,
     .post .update {
       margin: 30px 0;
       padding: 15px 40px 15px 75px; } }
@@ -1318,6 +1320,7 @@ dl dt {
   .post .warn::before,
   .post .stop::before,
   .post .more::before,
+  .post .smallprint::before,
   .post .update::before {
     content: "";
     display: inline-block;
@@ -1335,6 +1338,7 @@ dl dt {
       .post .warn::before,
       .post .stop::before,
       .post .more::before,
+      .post .smallprint::before,
       .post .update::before {
         width: 40px; } }
   .post .important::after,
@@ -1344,6 +1348,7 @@ dl dt {
   .post .warn::after,
   .post .stop::after,
   .post .more::after,
+  .post .smallprint::after,
   .post .update::after {
     content: "";
     display: block;
@@ -1361,6 +1366,7 @@ dl dt {
       .post .warn::after,
       .post .stop::after,
       .post .more::after,
+      .post .smallprint::after,
       .post .update::after {
         width: 22px;
         height: 30px;
@@ -1372,6 +1378,7 @@ dl dt {
   .post .warn *:first-child,
   .post .stop *:first-child,
   .post .more *:first-child,
+  .post .smallprint *:first-child,
   .post .update *:first-child {
     margin-top: 0; }
   .post .important *:last-child,
@@ -1381,9 +1388,27 @@ dl dt {
   .post .warn *:last-child,
   .post .stop *:last-child,
   .post .more *:last-child,
+  .post .smallprint *:last-child,
   .post .update *:last-child {
     margin-bottom: 0; }
 
+.post .smallprint {
+  font-size: 85%;
+  background-size: 80%; }
+  .post .smallprint::before {
+    background-color: #908d8c;
+    width: 18px; }
+    @media (min-width: 768px) {
+      .post .smallprint::before {
+        width: 32px; } }
+  .post .smallprint::after {
+    background: url("../images/icon_warn_white.svg") no-repeat center;
+    width: 12px;
+    left: 3px; }
+    @media (min-width: 768px) {
+      .post .smallprint::after {
+        width: 18px;
+        left: 7px; } }
 .post .important::after {
   background: url("../images/icon_important_white.svg") no-repeat center; }
 
