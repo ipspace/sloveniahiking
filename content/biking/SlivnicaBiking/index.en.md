@@ -24,10 +24,10 @@ maplink: https://mapzs.pzs.si/poi/5679
 name: SlivnicaBiking
 nearby:
 - /hikes/slivnica
+- /biking/velikebloke
 - /biking/skocjanjavorniki
 - /hikes/javorniki
 - /hikes/borovniski_pekel
-- /hikes/pokojisce
 region: notranjska
 start: 45.792868,14.367291
 title: Slivnica (on a Bike)

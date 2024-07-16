@@ -14,7 +14,7 @@ nearby:
 - /hikes/borovniski_pekel
 - /hikes/pokojisce
 - /hikes/svahac
-- /biking/slivnicabiking
+- /biking/velikebloke
 peak: 45.928570,14.471184
 photo_author: Mojca_Lustrek
 region: notranjska

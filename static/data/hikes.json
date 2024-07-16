@@ -7553,10 +7553,10 @@
     "name": "SlivnicaBiking",
     "nearby": [
       "/hikes/slivnica",
+      "/biking/velikebloke",
       "/biking/skocjanjavorniki",
       "/hikes/javorniki",
-      "/hikes/borovniski_pekel",
-      "/hikes/pokojisce"
+      "/hikes/borovniski_pekel"
     ],
     "region": "notranjska",
     "start": "45.792868,14.367291",
@@ -8714,6 +8714,38 @@
     "center": "45.765836,14.311459"
   },
   {
+    "date": "2024-07-16 11:19:19+02:00",
+    "delta": 540,
+    "description": {
+      "en": "Instead of hiking or biking to Slivnica, let's do a roundtrip around it, exploring the hidden green valleys of Meni\u0161ija and Karst plateaus of Blo\u0161ka Planota."
+    },
+    "difficulty": "A mix of asphalt and gravel roads",
+    "difflevel": 2,
+    "duration": 3,
+    "height": 794,
+    "layout": "structured",
+    "lead": "M_20240715_092906.jpg",
+    "length": 29.2,
+    "maplink": "https://www.opencyclemap.org/?zoom=13&lat=45.7969&lon=14.45043&layers=B0000",
+    "name": "VelikeBloke",
+    "nearby": [
+      "/biking/slivnicabiking",
+      "/hikes/slivnica",
+      "/biking/gornjepoljane",
+      "/biking/skocjanjavorniki",
+      "/hikes/borovniski_pekel"
+    ],
+    "peak": "45.788388,14.474278",
+    "region": "notranjska",
+    "start": "45.792868,14.367291",
+    "title": {
+      "en": "Velike Bloke from Cerknica"
+    },
+    "video": "https://www.relive.cc/view/vrqowW5XVyq/",
+    "type": "biking",
+    "center": "45.798597,14.422377"
+  },
+  {
     "date": "2021-04-21 17:29:41+00:00",
     "delta": 500,
     "description": {
@@ -9050,6 +9082,36 @@
     "video": "https://www.relive.cc/view/vYvr41ewLL6/",
     "type": "biking",
     "center": "45.792623,13.782164"
+  },
+  {
+    "date": "2024-07-16 12:38:23+02:00",
+    "delta": 580,
+    "description": {
+      "en": "Gornje Poljane (1065 m) is the highest-lying hamlet in southern Slovenia. You can hike there on a waymarked trail from Vi\u0161evek or bike on a gravel road starting near Babna Polica."
+    },
+    "difficulty": "A somewhat steep mix of asphalt and gravel roads",
+    "difflevel": 2,
+    "duration": 3,
+    "height": 1065,
+    "layout": "structured",
+    "lead": "M_20240716_082321.jpg",
+    "length": 19.6,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.68141&lon=14.5136&layers=B0000",
+    "name": "GornjePoljane",
+    "nearby": [
+      "/hikes/sneznik",
+      "/biking/velikebloke",
+      "/biking/slivnicabiking",
+      "/hikes/slivnica",
+      "/hikes/volovjareber"
+    ],
+    "region": "notranjska",
+    "start": "45.682329,14.469350",
+    "title": {
+      "en": "Gornje Poljane"
+    },
+    "type": "biking",
+    "center": "45.678647,14.508607"
   },
   {
     "date": "2021-05-27 13:20:47+00:00",

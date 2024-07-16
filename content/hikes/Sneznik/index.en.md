@@ -22,6 +22,7 @@ maplink: https://mapzs.pzs.si/poi/34824
 name: Sneznik
 nearby:
 - /hikes/volovjareber
+- /biking/gornjepoljane
 - /biking/volovjareber
 - /hikes/svetatrojica
 peak: 45.588478,14.447613
