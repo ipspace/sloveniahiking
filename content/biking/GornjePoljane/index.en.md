@@ -21,11 +21,11 @@ length: 19.6
 maplink: https://www.opencyclemap.org/?zoom=14&lat=45.68141&lon=14.5136&layers=B0000
 name: GornjePoljane
 nearby:
+- /biking/lozcerknica
+- /biking/kriznagoraloz
 - /hikes/sneznik
 - /biking/velikebloke
 - /biking/slivnicabiking
-- /hikes/slivnica
-- /hikes/volovjareber
 region: notranjska
 start: 45.682329,14.469350
 title: Gornje Poljane

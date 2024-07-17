@@ -24,6 +24,7 @@ nearby:
 - /hikes/volovjareber
 - /biking/gornjepoljane
 - /biking/volovjareber
+- /biking/lozcerknica
 - /hikes/svetatrojica
 peak: 45.588478,14.447613
 region: notranjska

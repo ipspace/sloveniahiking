@@ -7554,9 +7554,9 @@
     "nearby": [
       "/hikes/slivnica",
       "/biking/velikebloke",
+      "/biking/kriznagoraloz",
       "/biking/skocjanjavorniki",
-      "/hikes/javorniki",
-      "/hikes/borovniski_pekel"
+      "/hikes/javorniki"
     ],
     "region": "notranjska",
     "start": "45.792868,14.367291",
@@ -7987,6 +7987,37 @@
     "video": "https://www.relive.cc/view/vmqX2AKNYLO/",
     "type": "biking",
     "center": "45.498248,13.827613"
+  },
+  {
+    "date": "2024-07-17 15:18:29+02:00",
+    "delta": 281,
+    "description": {
+      "en": "Kri\u017ena Gora is a peak on a ridge between Lake Cerknica and Lo\u017e Valley. From here, one can enjoy a nice view of the nearby Karst plateaus and the surrounding hills. The peak has been a [fortified settlement since ancient times](https://www.loskadolina.info/en/krizna-gora-hill-857-m.html), made even better with the addition of the Church of the Saint Cross in the 16th century."
+    },
+    "difficulty": "Steep ascent on asphalt road and rocky trail",
+    "difflevel": 3,
+    "duration": 1.5,
+    "height": 857,
+    "layout": "structured",
+    "lead": "M_20240717_073747.jpg",
+    "length": 9.2,
+    "maplink": "https://mapzs.pzs.si/poi/215",
+    "name": "KriznaGoraLoz",
+    "nearby": [
+      "/biking/lozcerknica",
+      "/biking/velikebloke",
+      "/biking/slivnicabiking",
+      "/hikes/slivnica",
+      "/biking/gornjepoljane"
+    ],
+    "peak": "45.741602,14.458314",
+    "region": "notranjska",
+    "start": "45.720602,14.468182",
+    "title": {
+      "en": "Kri\u017ena Gora above Lo\u017e"
+    },
+    "type": "biking",
+    "center": "45.731122,14.458504"
   },
   {
     "date": "2021-05-20 13:14:58+00:00",
@@ -8730,10 +8761,10 @@
     "name": "VelikeBloke",
     "nearby": [
       "/biking/slivnicabiking",
+      "/biking/kriznagoraloz",
       "/hikes/slivnica",
-      "/biking/gornjepoljane",
-      "/biking/skocjanjavorniki",
-      "/hikes/borovniski_pekel"
+      "/biking/lozcerknica",
+      "/biking/gornjepoljane"
     ],
     "peak": "45.788388,14.474278",
     "region": "notranjska",
@@ -9043,7 +9074,9 @@
     "nearby": [
       "/hikes/sneznik",
       "/hikes/svetatrojica",
-      "/hikes/ostric"
+      "/biking/lozcerknica",
+      "/hikes/ostric",
+      "/biking/kriznagoraloz"
     ],
     "region": "notranjska",
     "start": "45.605141,14.240889",
@@ -9099,11 +9132,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=45.68141&lon=14.5136&layers=B0000",
     "name": "GornjePoljane",
     "nearby": [
+      "/biking/lozcerknica",
+      "/biking/kriznagoraloz",
       "/hikes/sneznik",
       "/biking/velikebloke",
-      "/biking/slivnicabiking",
-      "/hikes/slivnica",
-      "/hikes/volovjareber"
+      "/biking/slivnicabiking"
     ],
     "region": "notranjska",
     "start": "45.682329,14.469350",
@@ -9174,6 +9207,36 @@
     "video": "https://www.relive.cc/view/vNOPr8dDW2q/",
     "type": "biking",
     "center": "45.819484,13.806326"
+  },
+  {
+    "date": "2024-07-17 15:57:06+02:00",
+    "delta": 500,
+    "description": {
+      "en": "During this trip, you'll enjoy the foggy morning (hint: start early) fields of Lo\u017e Valley, pass by the tiny church of Saint Ana below Kri\u017ena Gora, see where the Lake Cerknica is supposed to be, and explore the Sne\u017enik forests."
+    },
+    "difficulty": "A mix of asphalt and gravel roads",
+    "difflevel": 2,
+    "duration": 3,
+    "height": 794,
+    "layout": "structured",
+    "lead": "M_20240717_094640.jpg",
+    "length": 32.2,
+    "maplink": "https://www.opencyclemap.org/?zoom=13&lat=45.70826&lon=14.47034&layers=B0000",
+    "name": "LozCerknica",
+    "nearby": [
+      "/biking/kriznagoraloz",
+      "/biking/gornjepoljane",
+      "/biking/velikebloke",
+      "/biking/slivnicabiking",
+      "/hikes/slivnica"
+    ],
+    "region": "notranjska",
+    "start": "45.720602,14.468182",
+    "title": {
+      "en": "Lake Cerknica from Lo\u017e Valley"
+    },
+    "type": "biking",
+    "center": "45.709703,14.448474"
   },
   {
     "date": "2022-05-18 15:30:16+00:00",

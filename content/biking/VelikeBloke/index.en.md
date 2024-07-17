@@ -22,10 +22,10 @@ maplink: https://www.opencyclemap.org/?zoom=13&lat=45.7969&lon=14.45043&layers=B
 name: VelikeBloke
 nearby:
 - /biking/slivnicabiking
+- /biking/kriznagoraloz
 - /hikes/slivnica
+- /biking/lozcerknica
 - /biking/gornjepoljane
-- /biking/skocjanjavorniki
-- /hikes/borovniski_pekel
 peak: 45.788388,14.474278
 region: notranjska
 start: 45.792868,14.367291

@@ -25,7 +25,9 @@ name: VolovjaReber
 nearby:
 - /hikes/sneznik
 - /hikes/svetatrojica
+- /biking/lozcerknica
 - /hikes/ostric
+- /biking/kriznagoraloz
 region: notranjska
 start: 45.605141,14.240889
 title: Velika Milanja on Volovja Reber

@@ -11,7 +11,9 @@ name: VolovjaReber
 nearby:
 - /hikes/sneznik
 - /hikes/svetatrojica
+- /biking/lozcerknica
 - /biking/gornjepoljane
+- /biking/kriznagoraloz
 peak: 45.592453,14.311605
 region: notranjska
 start: 45.585013,14.319533

@@ -25,9 +25,9 @@ name: SlivnicaBiking
 nearby:
 - /hikes/slivnica
 - /biking/velikebloke
+- /biking/kriznagoraloz
 - /biking/skocjanjavorniki
 - /hikes/javorniki
-- /hikes/borovniski_pekel
 region: notranjska
 start: 45.792868,14.367291
 title: Slivnica (on a Bike)
