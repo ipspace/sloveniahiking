@@ -14,10 +14,10 @@ maplink: https://mapzs.pzs.si/poi/4975
 name: Visevnik
 nearby:
 - /hikes/malidraskivrh
+- /hikes/konjscica
 - /hikes/debelivrh
 - /hikes/velikidraskivrh
 - /hikes/toscbohinj
-- /hikes/lipanskivrh
 peak: 46.358914,13.898428
 region: julian-alps
 start: 46.345450,13.923233

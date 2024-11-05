@@ -23,10 +23,10 @@ maplink: https://mapzs.pzs.si/poi/34918
 name: Uskovnica
 nearby:
 - /biking/zajamniki
+- /hikes/konjscica
 - /hikes/visevnik
 - /hikes/vogar
 - /hikes/krstenica
-- /hikes/malidraskivrh
 peak: 46.322242,13.907812
 photo_author: Mojca_Lustrek
 region: julian-alps

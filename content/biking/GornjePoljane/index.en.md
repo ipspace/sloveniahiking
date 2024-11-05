@@ -11,8 +11,8 @@ gpx:
   center:
     lat: 45.678646515454346
     lon: 14.508606747515708
-  file: temp.gpx
-  modified: 1721127564
+  file: GornjePoljane.gpx
+  modified: 1721127126
   zoom: 13
 height: 1065
 layout: structured

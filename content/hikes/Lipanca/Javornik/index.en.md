@@ -16,7 +16,7 @@ nearby:
 - /biking/zajamniki
 - /hikes/lipanca
 - /hikes/uskovnica
-- /hikes/visevnik
+- /hikes/konjscica
 peak: 46.375630,13.927670
 region: julian-alps
 start: 46.341596,13.961097

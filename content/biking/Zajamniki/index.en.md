@@ -21,10 +21,10 @@ maplink: https://www.opencyclemap.org/?zoom=14&lat=46.33064&lon=13.94185&layers=
 name: Zajamniki
 nearby:
 - /hikes/uskovnica
+- /hikes/konjscica
 - /hikes/vogar
 - /hikes/visevnik
 - /hikes/malidraskivrh
-- /hikes/krstenica
 peak: 46.313641,13.932656
 region: julian-alps
 start: 46.341548,13.961045

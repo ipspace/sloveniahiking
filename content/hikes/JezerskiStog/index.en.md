@@ -28,8 +28,8 @@ nearby:
 - /hikes/krstenica
 - /hikes/toscbohinj
 - /hikes/velikidraskivrh
+- /hikes/konjscica
 - /hikes/vodicnivrh
-- /hikes/malidraskivrh
 peak: 46.338369,13.845151
 region: julian-alps
 start: 46.310815,13.849374

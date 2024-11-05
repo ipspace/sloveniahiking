@@ -13,7 +13,7 @@ nearby:
 - /hikes/vodicnivrh
 - /hikes/vogar
 - /hikes/toscbohinj
-- /hikes/velikidraskivrh
+- /hikes/konjscica
 peak: 46.325865,13.851880
 region: julian-alps
 start: 46.310815,13.849374
