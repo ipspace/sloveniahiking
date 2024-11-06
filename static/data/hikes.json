@@ -401,6 +401,51 @@
     }
   },
   {
+    "date": "2024-11-06 15:22:47+01:00",
+    "delta": 100,
+    "description": {
+      "sl": "Planina Zajavornik je son\u010dna planina sredi poklju\u0161kih gozdov",
+      "en": "Zajavornik is a large sunny alp in the middle of the Pokljuka plateau with a beautiful view of the ridge between Pokljuka and Krma Valley. Hiking there from Hotel Pokljuka (former Sport Hotel) takes less than an hour on a (mostly) level gravel road, making it an ideal hike with small kids."
+    },
+    "difficulty": "Enostaven sprehod po cestah in kolovozih",
+    "difflevel": 1,
+    "duration": 2,
+    "gpx": {
+      "center": {
+        "lat": 46.34968410703188,
+        "lon": 13.955679891772869
+      },
+      "file": "Zajavornik.gpx",
+      "modified": 1730903731,
+      "zoom": 14
+    },
+    "height": 1291,
+    "layout": "structured",
+    "lead": "M_20241105_102648.jpg",
+    "maplink": "https://mapzs.pzs.si/path/30910",
+    "name": "Zajavornik",
+    "nearby": [
+      "/hikes/lipanca",
+      "/hikes/lipanskivrh",
+      "/hikes/brdalipanca",
+      "/hikes/debelivrh",
+      "/hikes/debelapec"
+    ],
+    "path": "https://www.hribi.net/izlet/sport_hotel_planina_zajavornik/1/540/922",
+    "peak": "46.362904,13.949060",
+    "region": "julian-alps",
+    "start": "46.338610,13.961814",
+    "timing": [
+      "Vzpon: 50 minut",
+      "Povratek: 50 minut",
+      "Skupaj: 2 uri"
+    ],
+    "title": {
+      "sl": "Zajavornik",
+      "en": "Zajavornik Alp from Hotel Pokljuka"
+    }
+  },
+  {
     "date": "2010-04-13 00:00:00+00:00",
     "delta": 440,
     "description": {
@@ -482,10 +527,10 @@
     "name": "PokljuskaSoteska",
     "nearby": [
       "/hikes/krnicapokljuka",
+      "/hikes/zajavornik",
       "/hikes/debelapec",
       "/hikes/lipanca",
-      "/hikes/brdalipanca",
-      "/hikes/lipanskivrh"
+      "/hikes/brdalipanca"
     ],
     "path": "https://www.hribi.net/izlet/krnica_pokljuska_soteska_luknja/1/1270/2133",
     "peak": "46.375687,14.031108",
@@ -2249,8 +2294,8 @@
       "/hikes/lipanca",
       "/hikes/brdalipanca",
       "/hikes/lipanskivrh",
-      "/hikes/debelapec",
-      "/hikes/debelivrh"
+      "/hikes/zajavornik",
+      "/hikes/debelapec"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -2279,9 +2324,9 @@
     "nearby": [
       "/hikes/konjscica",
       "/hikes/visevnik",
+      "/hikes/zajavornik",
       "/hikes/uskovnica",
-      "/hikes/malidraskivrh",
-      "/hikes/debelivrh"
+      "/hikes/malidraskivrh"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -2307,11 +2352,11 @@
     "multipath": true,
     "name": "Lipanca/Javornik",
     "nearby": [
+      "/hikes/zajavornik",
       "/hikes/lipanca",
       "/hikes/uskovnica",
       "/hikes/konjscica",
-      "/hikes/visevnik",
-      "/hikes/lipanskivrh"
+      "/hikes/visevnik"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -2338,10 +2383,10 @@
     "name": "Lipanca/Spomenik",
     "nearby": [
       "/hikes/lipanca",
+      "/hikes/zajavornik",
       "/hikes/lipanskivrh",
       "/hikes/debelivrh",
-      "/hikes/brdalipanca",
-      "/hikes/debelapec"
+      "/hikes/brdalipanca"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -2367,7 +2412,7 @@
       "/hikes/brdalipanca",
       "/hikes/debelivrh",
       "/hikes/debelapec",
-      "/hikes/visevnik"
+      "/hikes/zajavornik"
     ],
     "peak": "46.375630,13.927670",
     "region": "julian-alps",
@@ -3220,7 +3265,7 @@
       "/hikes/debelapec",
       "/hikes/lipanca",
       "/hikes/debelivrh",
-      "/hikes/visevnik"
+      "/hikes/zajavornik"
     ],
     "peak": "46.385040,13.925494",
     "region": "julian-alps",
@@ -3352,7 +3397,7 @@
       "/hikes/lipanskivrh",
       "/hikes/lipanca",
       "/hikes/debelivrh",
-      "/hikes/visevnik"
+      "/hikes/zajavornik"
     ],
     "peak": "46.390678,13.933335",
     "region": "julian-alps",
@@ -5717,10 +5762,10 @@
     "name": "KrnicaPokljuka",
     "nearby": [
       "/hikes/pokljuskasoteska",
+      "/hikes/zajavornik",
       "/hikes/debelapec",
       "/hikes/lipanca",
-      "/hikes/brdalipanca",
-      "/hikes/lipanskivrh"
+      "/hikes/brdalipanca"
     ],
     "peak": "46.38114,14.00345",
     "region": "julian-alps",
@@ -7628,11 +7673,11 @@
     "maplink": "https://mapzs.pzs.si/poi/4841",
     "name": "KlekAlp",
     "nearby": [
+      "/hikes/zajavornik",
       "/hikes/krnicapokljuka",
       "/hikes/lipanca",
       "/hikes/debelapec",
-      "/hikes/brdalipanca",
-      "/hikes/lipanskivrh"
+      "/hikes/brdalipanca"
     ],
     "region": "julian-alps",
     "start": "46.349958,13.985428",
@@ -8392,8 +8437,8 @@
       "/hikes/uskovnica",
       "/hikes/konjscica",
       "/hikes/vogar",
-      "/hikes/visevnik",
-      "/hikes/malidraskivrh"
+      "/hikes/zajavornik",
+      "/hikes/visevnik"
     ],
     "peak": "46.313641,13.932656",
     "region": "julian-alps",

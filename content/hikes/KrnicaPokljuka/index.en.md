@@ -23,9 +23,9 @@ name: KrnicaPokljuka
 nearby:
 - /hikes/pokljuskasoteska
 - /biking/klekalp
+- /hikes/zajavornik
 - /hikes/debelapec
 - /hikes/lipanca
-- /hikes/brdalipanca
 peak: 46.38114,14.00345
 region: julian-alps
 start: 46.378975,14.041821

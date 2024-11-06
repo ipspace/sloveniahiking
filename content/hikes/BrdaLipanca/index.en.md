@@ -25,7 +25,7 @@ nearby:
 - /hikes/debelapec
 - /hikes/lipanca
 - /hikes/debelivrh
-- /hikes/visevnik
+- /hikes/zajavornik
 peak: 46.385040,13.925494
 region: julian-alps
 start: 46.374746,13.941008

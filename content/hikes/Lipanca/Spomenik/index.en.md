@@ -13,10 +13,10 @@ multipath: true
 name: Lipanca/Spomenik
 nearby:
 - /hikes/lipanca
+- /hikes/zajavornik
 - /hikes/lipanskivrh
 - /hikes/debelivrh
 - /hikes/brdalipanca
-- /hikes/debelapec
 peak: 46.375630,13.927670
 region: julian-alps
 start: 46.365980,13.934012

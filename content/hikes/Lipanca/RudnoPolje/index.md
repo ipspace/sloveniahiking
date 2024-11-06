@@ -15,9 +15,9 @@ name: Lipanca/RudnoPolje
 nearby:
 - /hikes/konjscica
 - /hikes/visevnik
+- /hikes/zajavornik
 - /hikes/uskovnica
 - /hikes/malidraskivrh
-- /hikes/debelivrh
 peak: 46.375630,13.927670
 region: julian-alps
 start: 46.345450,13.923233

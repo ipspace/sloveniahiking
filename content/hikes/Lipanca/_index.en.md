@@ -14,7 +14,7 @@ nearby:
 - /hikes/brdalipanca
 - /hikes/debelivrh
 - /hikes/debelapec
-- /hikes/visevnik
+- /hikes/zajavornik
 peak: 46.375630,13.927670
 region: julian-alps
 title: Lipanca pasture

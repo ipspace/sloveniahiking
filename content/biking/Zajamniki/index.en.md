@@ -23,8 +23,8 @@ nearby:
 - /hikes/uskovnica
 - /hikes/konjscica
 - /hikes/vogar
+- /hikes/zajavornik
 - /hikes/visevnik
-- /hikes/malidraskivrh
 peak: 46.313641,13.932656
 region: julian-alps
 start: 46.341548,13.961045

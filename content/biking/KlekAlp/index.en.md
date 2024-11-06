@@ -21,11 +21,11 @@ length: 21.7
 maplink: https://mapzs.pzs.si/poi/4841
 name: KlekAlp
 nearby:
+- /hikes/zajavornik
 - /hikes/krnicapokljuka
 - /hikes/lipanca
 - /hikes/debelapec
 - /hikes/brdalipanca
-- /hikes/lipanskivrh
 region: julian-alps
 start: 46.349958,13.985428
 title: Klek Alp

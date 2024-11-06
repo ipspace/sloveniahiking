@@ -12,11 +12,11 @@ multilead: M_1_0120.JPG
 multipath: true
 name: Lipanca/Javornik
 nearby:
+- /hikes/zajavornik
 - /biking/klekalp
 - /biking/zajamniki
 - /hikes/lipanca
 - /hikes/uskovnica
-- /hikes/konjscica
 peak: 46.375630,13.927670
 region: julian-alps
 start: 46.341596,13.961097
