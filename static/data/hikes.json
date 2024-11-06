@@ -2276,10 +2276,52 @@
     }
   },
   {
+    "date": "2004-02-01 00:00:00+00:00",
+    "delta": 340,
+    "description": {
+      "sl": "Na Lipanco se s planine Zajavornik odpravite pozimi ko je ve\u010dina ostalih gozdnih cest na Pokljuki neprevoznih.",
+      "en": "The hike from Zajavornik Alp is one of the longer hikes to Lipanca; start in Medvedova Konta if your final goal is one of the peaks above Krma Valley. On the other hand, you can often get to Zajavornik Alp in winter when most other roads on Pokljuka are closed, and you probably won't have any problems finding a parking spot."
+    },
+    "difflevel": 2,
+    "duration": 2,
+    "gpx": {
+      "center": {
+        "lat": 46.36922869309788,
+        "lon": 13.938333417850854
+      },
+      "file": "Zajavornik.gpx",
+      "modified": 1730906172,
+      "zoom": 14
+    },
+    "height": 1630,
+    "layout": "structured",
+    "lead": "M_20241105_115313.jpg",
+    "maplink": "https://mapzs.pzs.si/path/31515",
+    "multilead": "M_1_0120.JPG",
+    "multipath": true,
+    "name": "Lipanca/Zajavornik",
+    "nearby": [
+      "/hikes/zajavornik",
+      "/hikes/lipanca",
+      "/hikes/lipanskivrh",
+      "/hikes/brdalipanca",
+      "/hikes/debelivrh"
+    ],
+    "path": "../javornik#zajavornik",
+    "peak": "46.375630,13.927670",
+    "region": "julian-alps",
+    "start": "46.362894,13.949082",
+    "title": {
+      "sl": "Lipanca s planine Zajavornik",
+      "en": "Lipanca from Zajavornik Alp"
+    }
+  },
+  {
     "date": "1900-01-01 00:00:00+00:00",
     "delta": 220,
     "description": {
-      "sl": "Najkraj\u0161a pot na Lipanco vodi iz Medvedove konte \u2013 do Blejske ko\u010de je od parkiri\u0161\u010da le 30 minut vzpona."
+      "sl": "Najkraj\u0161a pot na Lipanco vodi iz Medvedove konte \u2013 do Blejske ko\u010de je od parkiri\u0161\u010da le 30 minut vzpona.",
+      "en": "The ascent from Medvedova Konta to Lipanca is the shortest way to get to this lovely alp. Use it when you want to visit the peaks above Lipanca (but be early; it's tough to find a parking spot in the summer months)."
     },
     "difflevel": 1,
     "duration": 1,
@@ -2338,15 +2380,24 @@
   },
   {
     "date": "2004-02-01 00:00:00+00:00",
-    "delta": 380,
+    "delta": 460,
     "description": {
-      "sl": "Ena najdalj\u0161ih markiranih poti s Pokljuke na Lipanco te\u010de iz Rudne doline skozi goste smrekove gozdove in \u010dez planino Javornik."
+      "sl": "Ena najdalj\u0161ih markiranih poti s Pokljuke na Lipanco te\u010de iz Rudne doline skozi goste smrekove gozdove in \u010dez planino Zajavornik.",
+      "en": "If you'd like to have a long hike through Pokljuka forests combined with a whiff of an ascent, a great view, and some local food in a mountain hut, hike from Hotel Pokljuka to Lipanca."
     },
     "difflevel": 2,
     "duration": 4,
+    "gpx": {
+      "center": {
+        "lat": 46.35854210208906,
+        "lon": 13.944238049397068
+      },
+      "file": "HotelPokljuka.gpx",
+      "modified": 1730906767,
+      "zoom": 13
+    },
     "height": 1630,
     "lead": "M_1_0120.JPG",
-    "map": 1,
     "maplink": "https://mapzs.projekti.si/path/31515",
     "multilead": "M_1_0120.JPG",
     "multipath": true,
@@ -2362,15 +2413,16 @@
     "region": "julian-alps",
     "start": "46.341596,13.961097",
     "title": {
-      "sl": "Lipanca iz Rudne doline",
-      "en": "Lipanca from Rudna valley"
+      "sl": "Lipanca od Hotela Pokljuka",
+      "en": "Lipanca from Hotel Pokljuka"
     }
   },
   {
     "date": "2005-01-09 00:00:00+00:00",
     "delta": 300,
     "description": {
-      "sl": "Ena najkraj\u0161ih poti na Lipanco se za\u010dne Pri rupah, ob spomeniku, ki stoji tik ob makadamski cesti, speljani \u010dez Pokljuko."
+      "sl": "Ena najkraj\u0161ih poti na Lipanco se za\u010dne Pri rupah, ob spomeniku, ki stoji tik ob makadamski cesti, speljani \u010dez Pokljuko.",
+      "en": "I found the hike from Rupe to Lipanca boring, and even though I've been visiting Lipanca for almost 20 years, I took it only once. If you're looking for a short ascent, start in Medvedova Konta, if you want to go to Lipanca in winter, start at Zajavornik Alp."
     },
     "difflevel": 1,
     "duration": 2,

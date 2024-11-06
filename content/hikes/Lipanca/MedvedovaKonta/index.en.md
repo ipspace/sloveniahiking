@@ -1,6 +1,7 @@
 ---
 date: 1900-01-01 00:00:00+00:00
 delta: 220
+description: The ascent from Medvedova Konta to Lipanca is the shortest way to get to this lovely alp. Use it when you want to visit the peaks above Lipanca (but be early; it's tough to find a parking spot in the summer months).
 difflevel: 1
 duration: 1
 height: 1630
@@ -22,3 +23,8 @@ region: julian-alps
 start: 46.374746,13.941008
 title: Lipanca from Medvedova konta
 ---
+{{<hike-details description="true">}}
+
+## Getting There
+
+Once you get to the parking in Medvedova Konta, it's almost impossible to get lost: follow the signs for Lipanca onto a rocky trail and keep going straight until you get to Lipanca.
