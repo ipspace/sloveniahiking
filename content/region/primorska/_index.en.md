@@ -15,10 +15,8 @@ upcoming:
 - Most na Soči - Čepovan - Lokovec
 # Start at the train station
 ---
-Some hikes around Primorska hills (Cerkno and Idrija hills, Trnovski forest) are listed on this page. You'll find many more hikes in southern Primorska in these pages:
+On this page:
 
-* [Vipava valley](../vipava-valley)
-* [Karst plateau](../karst-plateau)
-* [Slovene Istria](../slovene-istria)
+{{<region-toc>}}
 
 Finally, the whole Soča valley belongs to Primorska: you'll find hikes in that region under [Julian Alps](../julian-alps)

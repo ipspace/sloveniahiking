@@ -1,0 +1,25 @@
+{{ $term := $.Page.Data.Term }}
+{{ $regions := where $.Site.AllPages "Section" "region" }}
+{{ $sub_regions := where (where $regions "Params.parent" $term) "Lang" $.Page.Lang }}
+{{ $short := where $.Page.Pages "Params.description" "eq" nil }}
+<ul>
+  {{ range $sub_regions }}
+  <li><a href="#{{ .Data.Term }}">{{ .Title }}</a></li>
+  {{ end }}
+  {{ if $short }}
+    {{ $long := where $.Page.Pages "Params.description" "ne" nil }}
+    {{ if $long }}
+    <li><a href="#long">{{ i18n "hikeListDescription" }}</a></li>
+    {{ end }}
+    <li><a href="#short">{{ i18n "hikeListRegionOther" }}</a></li>
+  {{ else }}
+    {{ if $sub_regions }}
+    <li><a href="#list">{{ i18n "hikeListRegionOther" }}</a></li>
+    {{ else }}
+    <li><a href="#list">{{ i18n "hikeList" }}</a></li>
+    {{ end }}
+  {{ end }}
+  {{ if $.Page.Params.upcoming }}
+  <li><a href="#soon">{{ i18n "moreToCome" }}</a></li>
+  {{ end }}
+</ul>

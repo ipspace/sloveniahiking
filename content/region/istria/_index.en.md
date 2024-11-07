@@ -6,4 +6,5 @@ map_zoom: 11
 map_h: 30em
 featured: true
 lang: en
+parent: primorska
 ---

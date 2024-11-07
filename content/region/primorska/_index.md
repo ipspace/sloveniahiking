@@ -6,9 +6,8 @@ map_zoom: 9
 map_h: 38em
 lang: sl
 ---
-Nekateri izleti po primorskih hribovjih in planotah so zbrani na tej strani, mnogo več izletov pa vas čaka na teh straneh:
+Na tej strani:
 
-* [Vipavska dolina](../vipavska-dolina)
-* [Kras](../kras)
-* [Istra](../slovenska-istra)
-* [Julijske Alpe](../julijske-alpe)
+{{<region-toc>}}
+
+Izlete v dolini Soče boste našli v razdelku [Julijske Alpe](../julijske-alpe).

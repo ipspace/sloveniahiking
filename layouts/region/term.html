@@ -9,15 +9,34 @@
       {{ partial "include-map" .Params }}
       {{ i18n "mapNotes" | markdownify }}
     {{ end }}
+    {{ $term := .Data.Term }}
+    {{ $regions := where .Site.AllPages "Section" "region" }}
+    {{ $sub_regions := where (where $regions "Params.parent" $term) "Lang" .Lang }}
+    {{ range $sub_regions }}
+      <h2 id="{{ .Data.Term }}">{{ .Title }}</h2>
+      {{ range (where .Pages "Params.description" "ne" nil).ByTitle }}
+        {{ partial "post-blurb.html" . }}
+      {{ end }}
+      {{ $short := where .Pages "Params.description" "eq" nil }}
+      {{ $short := where $short "Params.Duration" "ne" nil }}
+      {{ if $short }}
+        <p>{{ i18n "hikeListRegionOther" }}</p>
+        <ul>
+        {{ range $short.ByTitle }}
+          {{ partial "hike-line-details.html" . }}
+        {{ end }}
+        </ul>
+      {{ end }}
+    {{ end }}
     {{ $short := where .Pages "Params.description" "eq" nil }}
     {{ if len $short }}
       {{ $long := where .Pages "Params.description" "ne" nil }}
       {{ if len $long }}
-        <h2>{{ i18n "hikeListDescription" }}</h2>
+        <h2 id="long">{{ i18n "hikeListDescription" }}</h2>
         {{ range $long.ByTitle }}
           {{ partial "post-blurb.html" . }}
         {{ end }}
-        <h2>{{ i18n "hikeListRegionOther" }}</h2>
+        <h2 id="short">{{ i18n "hikeListRegionOther" }}</h2>
         <ul>
           {{ range $short.ByTitle }}
             {{ if .Params.Duration }}
@@ -26,7 +45,7 @@
           {{ end }}
         </ul>
       {{ else }}
-        <h2>{{ i18n "hikeList" }}</h2>
+        <h2 id="list">{{ i18n "hikeList" }}</h2>
         <ul>
           {{ range $short.ByTitle }}
             {{ if .Params.Duration }}
@@ -36,12 +55,15 @@
         </ul>
       {{ end }}
     {{ else }}
+      {{ if $sub_regions }}
+      <h2 id="list">{{ i18n "hikeListRegionOther" }}</h2>
+      {{ end }}
       {{ range .Pages.ByTitle }}
         {{ partial "post-blurb.html" . }}
       {{ end }}
     {{ end }}
     {{ if .Params.upcoming }}
-      <h2>{{ i18n "moreToCome" }}</h2>
+      <h2 id="#soon">{{ i18n "moreToCome" }}</h2>
       <ul>
         {{ range .Params.upcoming }}
           {{ if in (printf "%T" .) "map" }}
