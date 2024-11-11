@@ -4891,14 +4891,24 @@
   },
   {
     "date": "2020-11-17 00:00:00+00:00",
-    "delta": 320,
+    "delta": 410,
     "description": {
-      "sl": "Naslednji\u010d, ko bo Slovenija spet ovita v oblake in meglo, na Primorskem pa bo sijalo sonce, se povzpnite na Kuk, razgleden hrib nad Hrastovljami, od koder boste imeli lep razgled na Istro in Slavnik."
+      "sl": "Naslednji\u010d, ko bo Slovenija spet ovita v oblake in meglo, na Primorskem pa bo sijalo sonce, se povzpnite na Kuk, razgleden hrib nad Hrastovljami, od koder boste imeli lep razgled na Istro in Slavnik.",
+      "en": "Veliki Grade\u017e and Kuk are barely visible bumps (with incredible vistas) at the edge of an expansive steppe-like meadow east of Hrastovlje and Ri\u017eana Valley."
     },
     "difflevel": 2,
-    "duration": 2,
+    "duration": 3,
+    "gpx": {
+      "center": {
+        "lat": 45.497898447378205,
+        "lon": 13.913042660114254
+      },
+      "file": "kuk.gpx",
+      "modified": 1731349494,
+      "zoom": 13
+    },
     "height": 507,
-    "lead": "M_8-3867_IMG.JPG",
+    "lead": "M_20241111_125805.jpg",
     "maplink": "https://mapzs.pzs.si/poi/1575",
     "name": "Kuk",
     "nearby": [
@@ -4910,13 +4920,11 @@
     ],
     "peak": "45.485013,13.917515",
     "region": "istria",
-    "start": "45.509500,13.900605",
+    "start": "45.509506,13.900638",
     "title": {
       "sl": "Kuk nad Hrastovljami",
-      "en": "Kuk near Hrastovlje"
-    },
-    "x": 415,
-    "y": 38
+      "en": "Kuk and Grade\u017e above Hrastovlje"
+    }
   },
   {
     "date": "2003-11-23 00:00:00+00:00",

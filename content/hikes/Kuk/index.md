@@ -1,29 +1,20 @@
 ---
 date: 2020-11-17 00:00:00+00:00
-delta: 320
+delta: 410
 description: Naslednjič, ko bo Slovenija spet ovita v oblake in meglo, na Primorskem
   pa bo sijalo sonce, se povzpnite na Kuk, razgleden hrib nad Hrastovljami, od koder
   boste imeli lep razgled na Istro in Slavnik.
 difflevel: 2
-duration: 2
+duration: 3
+gpx:
+  center:
+    lat: 45.497898447378205
+    lon: 13.913042660114254
+  file: kuk.gpx
+  modified: 1731349494
+  zoom: 13
 height: 507
-image:
-- M_8-3873_IMG.JPG
-- M_8-3890_IMG.JPG
-- M_9-3906_IMG.JPG
-- M_8-3845_IMG.JPG
-- M_8-3848_IMG.JPG
-- M_8-3883_IMG.JPG
-- M_8-3843_IMG.JPG
-- M_8-3846_IMG.JPG
-- M_8-3884_IMG.JPG
-- M_8-3882_IMG.JPG
-- M_8-3881_IMG.JPG
-- proti_kuku.jpg
-- M_8-3860_IMG.JPG
-- M_8-3865_IMG.JPG
-- M_8-3867_IMG.JPG
-lead: M_8-3867_IMG.JPG
+lead: M_20241111_125805.jpg
 maplink: https://mapzs.pzs.si/poi/1575
 name: Kuk
 nearby:
@@ -34,16 +25,12 @@ nearby:
 - /hikes/velibadin
 peak: 45.485013,13.917515
 region: istria
-start: 45.509500,13.900605
+start: 45.509506,13.900638
 title: Kuk nad Hrastovljami
-x: 415
-y: 38
 ---
 Veliki Gradež in Kuk sta sosednja vrhova v hribovju, ki z južne strani zapira dolino Rižane. Vrhova sta travnata, s prelepim razgledom na Slavnik in slovensko Istro (morja zaradi njune nizke nadmorske višine ne boste videli).
 
-Na Kuk se lahko odpravite iz Dola pri Hrastovljah, kot je opisano v tem izletu, lahko pa uberete nekoliko daljšo krožno pot: Iz Hrastovelj do Dola, na Gradež in Kuk, nato pa po grebenu do Lačne, od koder se spustite nazaj v Hrastovlje.
-
-{{<figure src="M_8-3867_IMG.JPG" caption="Vrh Kuka">}}
+{{<figure src="M_20241111_125805.jpg" caption="Vrh Kuka">}}
 
 ## Osnovni podatki
 
@@ -51,7 +38,7 @@ Zahtevnost
 :   Položna pot, v zgornjem delu odlično označena.
 
 Dostop
-:   Na Veliki Gradež in Kuk se bomo odpravili iz Dola pri Hrastovljah, približno 10 km oddaljenega od Črnega kala.
+:   Na Veliki Gradež in Kuk se bomo odpravili iz Hrastovelj.
 
 Dolžina
 :   Dol -- Kuk: 1 h\
@@ -77,24 +64,18 @@ Karta
 Na Internetu boste o Hrastovljah našli še precej podatkov, nekatere povezave so zbrane spodaj:
 
 -   [Virtualna predstavitev Hrastovelj](http://www.burger.si/Hrastovlje/Hrastovlje.htm)
--   [Nekaj zgodovine in ostali podatki o Hrastovljah](http://www.koper.si/povezave/podezelje/crnikal/hrastovlje/hrastovlje.htm)
+-   [Nekaj zgodovine in ostali podatki o Hrastovljah](https://visitkoper.si/hrastovlje-2/)
 
 Začetek poti
 ------------
 
-Izlet začnete v Hrastovljah, znanih predvsem po freskah v cerkvi sv. Trojice ali v Dolu pri Hrastovljah, majhni prijazni vasici, povsem obdani z železnico, ki se v vijugi okoli Dola spušča iz Kraškega roba v dolino.
+Izlet začnete v Hrastovljah, znanih predvsem po freskah v cerkvi sv. Trojice ali v Dolu pri Hrastovljah, majhni prijazni vasici, povsem obdani z železnico, ki se v vijugi okoli Dola spušča iz Kraškega roba v dolino. Parkirajte pred cerkvijo ali na večjem parkirišču za gostilno Švab.
 
-Do Hrastovelj boste prišli po cesti, ki se na dnu črnokalskega klanca odcepi proti Buzetu -- sledite znakom za Buzet, na klancu proti Kubedu pa vas kažipot usmeri levo, nazaj v Rižansko dolino. Skozi ozke uličice v Hrastovljah se zapeljete do konca vasi, kjer vas čaka parkirišče, na katerem lahko brez skrbi pustite avto. Če se boste odločili za krožno pot Hrastovlje -- Gradež -- Kuk -- [Lačna](../lacna/) -- Hrastovlje, je najbolje, da avto pustite kar na tem parkirišču.
+Do Dola se sprehodite po asfaltni cesti, lahko pa sledite markirani poti proti kraškemu robu do cerkve sv. Štefana, kjer zavijete desno in ob železnici po makadamski poti pridete v Dol.
 
-Če se boste odpravili samo na Kuk, si boste pot skrajšali za kakšen kilometer, če boste z avtom nadaljevali pot do Dola, zadnje vasice v Rižanski dolini, imeli pa boste imeli rahle težave s parkiranjem -- najbolje bo, da najdete primeren prostor in vprašate prijazne domačine, če lahko tam pustite avto.
+Ne glede na to, kako ste v Dol prišli, pri spomeniku v Dolu zavijete desno (vzporedno z železnico). Po nekaj metrih bo asfaltne ceste konec in znašli se boste na makadamski cesti, ki vas bo pripeljala vse do Gradeža.
 
-Tisti, ki boste avto pustili v Hrastovljah, se lahko do Dola sprehodite po asfaltni cesti, lahko pa sledite markirani poti proti kraškemu robu do cerkve sv. Štefana, kjer zavijete desno in ob železnici po makadamski poti pridete v Dol.
-
-Ne glede na to, kako ste v Dol prišli, začnete s potjo ob spomeniku v Dolu. Pri spomeniku zavijete desno (vzporedno z železnico), po nekaj metrih bo asfaltne ceste konec in znašli se boste na makadamski cesti, ki vas bo pripeljala vse do Gradeža.
-
-{{<gallery>}}{{<figure src="M_8-3873_IMG.JPG" caption="Hrastovlje">}} {{<figure src="M_8-3890_IMG.JPG" caption="Dol pri Hrastovljah">}}
-{{<figure src="M_9-3906_IMG.JPG" caption="Začetek poti">}}
-{{</gallery>}}
+{{<figure src="M_20241111_135302.jpg" caption="Hrastovlje">}}
 
 Vzpon do Gradeža
 ----------------
@@ -103,21 +84,13 @@ Vzpon do Gradeža
 
 Makadamska cesta najprej prečka železnico, nato pa se položno vzpenja ob kraškem robu. Pozorni opazovalci bodo hitro opazili, da pot poteka v celoti po flišnem terenu, medtem ko se le nekaj metrov nad vami na vaši levi začenjajo apnenčaste skale kraškega roba.
 
+{{<figure src="M_20241111_113639.jpg">}}
+
 Kljub temu, da je pot na zemljevidih označena kot markirana pot, ne boste v prvi polovici poti opazili niti ene markacije, zgubili pa se tudi ne boste, dokler boste hodili po najširši poti, ki vodi zložno navkreber.
 
 Ko boste počasi »nabirali višino«, se bodo za vami odpirali prvi razgledi -- na Kraški rob, dolino Rižane, oddaljeni Tinjan in bližnjo [Lačno](../lacna/), po približno 40 minutah hoje pa boste prišli na križišče, kjer se naši poti priključi pot s [Slavnika](../slavnik/) -- od tega mesta naprej so tudi markacije zelo pogoste. Še zadnji vzpon po makadamski poti vas pripelje do začetka travnikov tik pod vrhom Gradeža.
 
-{{<gallery>}}
-{{<figure src="M_8-3845_IMG.JPG" caption="Vedno po najširši poti navzgor">}}
-{{<figure src="M_8-3848_IMG.JPG" caption="Tu se bodo začele markacije">}}
-{{<figure src="M_8-3883_IMG.JPG" caption="Bližamo se travnikom">}}
-{{<figure src="M_8-3843_IMG.JPG" caption="Tinjan">}}
-{{<figure src="M_8-3846_IMG.JPG" caption="Kraški rob v jutranjem soncu">}}
-{{<figure src="M_8-3884_IMG.JPG" caption="Skale ob pot">}}
-{{<figure src="M_8-3882_IMG.JPG" caption="Še zadnji vzpon do Gradeža">}}
-{{<figure src="M_8-3881_IMG.JPG" caption="Veliki Gradež">}}
-{{</gallery>}}
-
+{{<figure src="M_20241111_124325.jpg" caption="Veliki Gradež">}}
 
 Po travnatih vrhovih do Kuka
 ----------------------------
@@ -126,7 +99,12 @@ Pot vodi le nekaj metrov od vrha Gradeža, ki ga morda sploh ne boste opazili (j
 
 Kmalu se znajdete še na enem križišču, kjer lahko zavijete levo proti Mlinom (kraj točno na meji s Hrvaško ob mejnem prehodu Sočerga), mi pa bomo zavili desno proti Kuku (smer [Lačna](../lacna/)) in v nekaj minutah prišli do označenega vrha Kuka. V mirnem vremenu bo ta točka idealna za počitek, če pa boste soočeni s pravo burjo, boste zelo verjetno pohiteli naprej, da vas ne bo odneslo ali zmrazilo.
 
-{{<figure src="proti_kuku.jpg" caption="Po travnatem grebenu od Velikega Gradeža proti Kuku">}} 
-{{<figure src="M_8-3860_IMG.JPG" caption="Razcep poti">}} {{<figure src="M_8-3865_IMG.JPG" caption="Slavnik in Grmada">}} 
+{{<figure src="M_20241111_124843.jpg" caption="Po travnikih od Velikega Gradeža proti Kuku">}}
 
-Če ste se odločili za krajšo pot, se s Kuka vrnete v Dol po poti, po kateri ste se prišli, če pa ste se odločili za daljšo krožno pot, nadaljujete s sprehodom po markirani poti proti [Lačni](../lacna/). Pot je v celoti položna -- najprej se boste s Kuka spustili dobrih 100 metrov nižje proti Krogu, nato pa se povzpeli po grebenu nazaj na Lačno, od koder vodi strma pot v dolino proti Hrastovljam.
+{{<figure src="M_20241111_124353.jpg" caption="Kraški rob, v ozadju Slavnik in Grmada">}} 
+
+V Hrastovlje se lahko vrnete po poti po kateri ste se prišli, ali pa se spustite proti Lačni in pred prvim sedlom zavijete desno na neoznačen kolovoz. Ta se hitro spremeni v makadamsko cesto ki vas pripelje do pokopališča nad Hrastovljami, od koder se po asfaltu vrnete v Hrastovlje.
+
+{{<figure src="M_20241111_131414.jpg">}}
+
+Če ste se odločili za daljšo krožno pot, nadaljujete s sprehodom po markirani poti proti [Lačni](../lacna/). S Kuka se boste spustili dobrih 100 metrov nižje proti Krogu, nato pa se povzpeli po grebenu nazaj na Lačno, od koder vodi strma pot v dolino proti Hrastovljam.
