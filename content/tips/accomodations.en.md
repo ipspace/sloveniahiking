@@ -1,7 +1,5 @@
 ---
-date: '2024-05-24 11:58:54+02:00'
 layout: raw
-#lead: M_20060712_113918.jpg
 title: Lovely Accommodations in Slovenia
 show_title: True
 ---

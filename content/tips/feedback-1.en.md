@@ -1,5 +1,6 @@
 ---
 title: "Feedback: Visiting Western Slovenia"
+date: 2024-11-06 08:00:00+01:00
 ---
 A friend of mine wanted to spend a week in Slovenia. I gave him a few recommendations, and he had a great time. Here's what he sent me after getting back home.
 

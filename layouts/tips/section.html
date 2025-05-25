@@ -5,7 +5,10 @@
   {{ .Content }}
   <ul>
   {{ range .Pages.ByTitle }}
-    <li><a href="{{ .Permalink }}">{{ .Params.title }}</a></li>
+    <li>
+      <a href="{{ .Permalink }}">{{ .Params.title }}</a>
+      {{ with .Params.date }}({{ .Format "2 Jan 2006"}}){{ end }}
+    </li>
   {{ end }}
   </ul>
 </article>

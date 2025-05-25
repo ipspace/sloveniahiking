@@ -1,5 +1,6 @@
 ---
 title: Bucket List
+date: '2024-09-04 11:58:54+02:00'
 ---
 I gave a friend a few recommendations for his visit to Slovenia, and he came up with this bucket list. It would take him a month to do it all (without rushing), and as expected, he only managed to tick off a few items, giving him plenty of excuses to come back 😎
 
