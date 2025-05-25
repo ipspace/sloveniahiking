@@ -1,0 +1,12 @@
+<div id="right-column">
+  <nav class='sidebar__mobile-nav'>
+    <a class='close-sidebar' href=''>
+      <svg class='close-icon'>
+        <use xlink:href='#icon-close'></use>
+      </svg>
+    </a>
+  </nav>
+  {{ partialCached "hikes-sidebar-regions" . }}
+  <!-- "/snippets/archive-sidebar.html" | readFile | safeHTML -->
+  <!-- "/snippets/tags-sidebar.html" | readFile | safeHTML -->
+</div>

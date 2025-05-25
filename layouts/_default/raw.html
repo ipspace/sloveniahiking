@@ -1,0 +1,17 @@
+{{ partial "header-head.html" . }}
+{{ partial "body-svg.html" }}
+{{ partial "body-header.html" . }}
+<div id="content-wrapper" class="content-wrapper">
+  <div class='post flex {{ .Params.css_class }}'>
+{{ if .Params.show_title }}
+  {{ $title := dict "title" .Title "page" . }}
+  {{ partial "multi-title.html" $title }}
+  <style>.crumbs { margin-top: 0; }</style>
+  {{ partial "hike-crumbs" . }}
+{{ end }}
+{{ .Content }}
+  </div>
+</div>
+<script src='/js/page.js?rev=1'></script>
+</body>
+</html>
