@@ -9,7 +9,7 @@ RSS: https://sloveniahiking.rocks/en/index.xml
 {{<tile title="Outdoor Activities" image="/images/climbing-vrsic.jpg">}}
 * [Hiking](/en/hikes)
 * [Biking](/en/biking)
-* [Tips and Tricks](/en/tips)
+* [Tips and Recommendations](/en/tips)
 * [Climbing](/en/climbing)
 * [Latest Articles](/en/top)
 {{</tile>}}
