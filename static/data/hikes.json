@@ -7889,7 +7889,7 @@
       "/hikes/kobiljaglava",
       "/hikes/skrbinakuk",
       "/biking/sentviskagora",
-      "/hikes/planinarazor"
+      "/biking/kolovrat"
     ],
     "peak": "46.131466,13.759541",
     "region": "primorska",
@@ -8539,6 +8539,35 @@
     "video": "https://www.relive.cc/view/vrqokEWzBKq/",
     "type": "biking",
     "center": "46.049489,14.079582"
+  },
+  {
+    "date": "2025-06-04 13:51:28+02:00",
+    "delta": 660,
+    "description": {
+      "en": "Kolovrat is a long ridge west of the So\u010da Valley, renowned for the fierce battles that took place during World War I. We'll use the asphalt roads around it to make a lovely round trip starting above Livek."
+    },
+    "difficulty": "Steep asphalt roads with a bit of gravel",
+    "difflevel": 3,
+    "duration": 2,
+    "height": 1243,
+    "layout": "structured",
+    "lead": "M_20250604_100441.jpg",
+    "length": 16.7,
+    "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.18355&lon=13.62873&layers=B0000",
+    "name": "Kolovrat",
+    "nearby": [
+      "/biking/dreznica",
+      "/biking/drezniskeravne",
+      "/hikes/krnskojezero",
+      "/biking/siroko",
+      "/hikes/kobiljaglava"
+    ],
+    "region": "primorska",
+    "title": {
+      "en": "Kolovrat"
+    },
+    "type": "biking",
+    "center": "46.192173,13.638988"
   },
   {
     "date": "2022-11-22 08:39:20+01:00",
@@ -9467,8 +9496,8 @@
       "/biking/drezniskeravne",
       "/hikes/krnskojezero",
       "/hikes/golobar",
-      "/biking/javorscek",
-      "/hikes/jablanca"
+      "/biking/kolovrat",
+      "/biking/javorscek"
     ],
     "peak": "46.256846,13.614341",
     "region": "julian-alps",

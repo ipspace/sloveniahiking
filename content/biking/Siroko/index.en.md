@@ -32,7 +32,7 @@ nearby:
 - /hikes/kobiljaglava
 - /hikes/skrbinakuk
 - /biking/sentviskagora
-- /hikes/planinarazor
+- /biking/kolovrat
 peak: 46.131466,13.759541
 region: primorska
 start: 46.155443,13.747461

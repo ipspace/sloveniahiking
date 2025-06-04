@@ -23,8 +23,8 @@ nearby:
 - /biking/drezniskeravne
 - /hikes/krnskojezero
 - /hikes/golobar
+- /biking/kolovrat
 - /biking/javorscek
-- /hikes/jablanca
 peak: 46.256846,13.614341
 region: julian-alps
 start: 46.249479,13.587623
