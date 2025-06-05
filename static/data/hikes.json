@@ -8556,11 +8556,11 @@
     "maplink": "https://www.opencyclemap.org/?zoom=14&lat=46.18355&lon=13.62873&layers=B0000",
     "name": "Kolovrat",
     "nearby": [
+      "/biking/mrzlivrhmatajur",
       "/biking/dreznica",
       "/biking/drezniskeravne",
       "/hikes/krnskojezero",
-      "/biking/siroko",
-      "/hikes/kobiljaglava"
+      "/biking/siroko"
     ],
     "region": "primorska",
     "title": {
@@ -8629,6 +8629,37 @@
     "video": "https://www.relive.cc/view/vKv21Nnyeoq/",
     "type": "biking",
     "center": "46.260621,13.601006"
+  },
+  {
+    "date": "2025-06-05 13:01:51+02:00",
+    "delta": 704,
+    "description": {
+      "en": "Mrzli Vrh is the southernmost peak in the Matajur ridge, easy to reach with a mountain bike on a gravel road toward Idrska planina"
+    },
+    "difficulty": "Rocky gravel road",
+    "difflevel": 3,
+    "duration": 2,
+    "height": 1358,
+    "layout": "structured",
+    "lead": "M_20250604_110459.jpg",
+    "length": 19.1,
+    "maplink": "https://mapzs.pzs.si/poi/41750",
+    "name": "MrzliVrhMatajur",
+    "nearby": [
+      "/biking/kolovrat",
+      "/biking/dreznica",
+      "/biking/drezniskeravne",
+      "/hikes/golobar",
+      "/hikes/krnskojezero"
+    ],
+    "peak": "46.209679,13.562309",
+    "region": "primorska",
+    "start": "46.203043,13.599650",
+    "title": {
+      "en": "Mrzli Vrh (Matajur)"
+    },
+    "type": "biking",
+    "center": "46.202080,13.578657"
   },
   {
     "date": "2022-08-21 12:00:00+00:00",
@@ -9495,9 +9526,9 @@
     "nearby": [
       "/biking/drezniskeravne",
       "/hikes/krnskojezero",
+      "/biking/mrzlivrhmatajur",
       "/hikes/golobar",
-      "/biking/kolovrat",
-      "/biking/javorscek"
+      "/biking/kolovrat"
     ],
     "peak": "46.256846,13.614341",
     "region": "julian-alps",

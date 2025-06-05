@@ -181,7 +181,11 @@ function createGPXMap(divname,lat,lon,zoom,gpx) {
   });
   gpx_map.on("singleclick",function(event) {
     LonLat = ol.proj.toLonLat(event.coordinate)
-    console.log(LonLat[1].toFixed(6)+","+LonLat[0].toFixed(6));
+    coords = LonLat[1].toFixed(6)+","+LonLat[0].toFixed(6)
+    console.log(coords);
+    navigator.clipboard.writeText(coords);
+    document.body.style.cursor = 'wait';
+    setTimeout(() => { document.body.style.cursor = ''; }, 1000);
   });
 }
 

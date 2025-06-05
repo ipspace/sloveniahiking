@@ -21,11 +21,11 @@ length: 16.7
 maplink: https://www.opencyclemap.org/?zoom=14&lat=46.18355&lon=13.62873&layers=B0000
 name: Kolovrat
 nearby:
+- /biking/mrzlivrhmatajur
 - /biking/dreznica
 - /biking/drezniskeravne
 - /hikes/krnskojezero
 - /biking/siroko
-- /hikes/kobiljaglava
 region: primorska
 title: Kolovrat
 ---
