@@ -6,7 +6,7 @@ description: Pokojišče is a hamlet high above Ljubljana Marsh with lovely view
   it on a bike using the asphalt road from Borovnica.
 difficulty: Steep ascent on an asphalt road followed by a leisurely descent on gravel
   roads
-difflevel: 4
+difflevel: 3
 duration: 2
 gpx:
   center:
