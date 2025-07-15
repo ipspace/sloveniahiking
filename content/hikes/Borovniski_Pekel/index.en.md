@@ -9,10 +9,10 @@ maplink: https://mapzs.pzs.si/poi/34829
 name: Borovniski_Pekel
 nearby:
 - /hikes/pokojisce
+- /biking/pokojisce
 - /hikes/krim
 - /hikes/slivnica
 - /biking/slivnicabiking
-- /hikes/svanabarje
 peak: 45.880956,14.369589
 region: notranjska
 start: 45.890566,14.371874

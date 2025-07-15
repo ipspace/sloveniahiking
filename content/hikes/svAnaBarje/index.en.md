@@ -22,9 +22,9 @@ name: svAnaBarje
 nearby:
 - /hikes/krim
 - /hikes/pokojisce
+- /biking/pokojisce
 - /hikes/borovniski_pekel
 - /hikes/kuren
-- /hikes/korena
 peak: 45.969639,14.422101
 region: notranjska
 start: 45.968763,14.431054

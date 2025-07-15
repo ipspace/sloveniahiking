@@ -9113,6 +9113,36 @@
     "center": "45.515351,13.942053"
   },
   {
+    "date": "2025-07-15 16:23:55+02:00",
+    "delta": 480,
+    "description": {
+      "en": "Pokoji\u0161\u010de is a hamlet high above Ljubljana Marsh with lovely views of the surrounding dense forests. You can hike there from Borovni\u0161ki Pekel, or reach it on a bike using the asphalt road from Borovnica."
+    },
+    "difficulty": "Steep ascent on an asphalt road followed by a leisurely descent on gravel roads",
+    "difflevel": 4,
+    "duration": 2,
+    "height": 734,
+    "layout": "structured",
+    "lead": "M_20250715_090036.jpg",
+    "length": 20,
+    "maplink": "https://www.opencyclemap.org/?zoom=13&lat=45.89374&lon=14.39316&layers=B0000",
+    "name": "Pokojisce",
+    "nearby": [
+      "/hikes/borovniski_pekel",
+      "/hikes/krim",
+      "/hikes/svanabarje",
+      "/hikes/planinskagora",
+      "/biking/vrhnikazaplana"
+    ],
+    "peak": "45.893424,14.355079",
+    "start": "45.920783,14.367446",
+    "title": {
+      "en": "Pokoji\u0161\u010de from Borovnica"
+    },
+    "type": "biking",
+    "center": "45.904057,14.359673"
+  },
+  {
     "date": "2023-09-19 07:26:24+00:00",
     "delta": 590,
     "description": {
